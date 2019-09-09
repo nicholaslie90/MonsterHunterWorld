@@ -1,0 +1,2292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"witcher",
+				"witchers_silver_sword"
+			],
+			[
+				"palicoArm",
+				"palicoArmorSet\tMHW Palico Armor Set"
+			],
+			[
+				"sword",
+				"sword_and_shield"
+			],
+			[
+				"tran",
+				"translationKey"
+			],
+			[
+				"monster",
+				"monsterMaterial\tMHW Monster Material"
+			],
+			[
+				"Light",
+				"Lightcrystal"
+			],
+			[
+				"palicoA",
+				"palicoArmorSet\tMHW Palico Armor Set"
+			],
+			[
+				"icon-bil",
+				"icon-blight-res-up"
+			],
+			[
+				"mel",
+				"melody\tMHW Hunting Horn Melody"
+			],
+			[
+				"icon-win",
+				"icon-wind-pressure"
+			],
+			[
+				"icon-wind",
+				"icon-wind-pressure-all"
+			],
+			[
+				"melody",
+				"melodyEffects"
+			],
+			[
+				"icon-thun",
+				"icon-thunder-res-boost-large"
+			],
+			[
+				"icon-bli",
+				"icon-blight-res-up"
+			],
+			[
+				"melod",
+				"melodyEffects"
+			],
+			[
+				"swit",
+				"switch_axe"
+			],
+			[
+				"palicoarmor",
+				"palicoArmor\tMHW Palico Armor"
+			],
+			[
+				"palicoSet",
+				"palicoArmorSet\tMHW Palico Armor Set"
+			],
+			[
+				"capaci",
+				"Capacity"
+			],
+			[
+				"stat",
+				"stat\tMHW Loot Statistics"
+			],
+			[
+				"loot",
+				"lootChance\tMHGU Loot Chance"
+			],
+			[
+				"palico",
+				"palicoArmorSet\tMHW Palico Armor Set"
+			],
+			[
+				"weapon",
+				"weapon\tMHW Weapon"
+			],
+			[
+				"sharp",
+				"sharpness\tMHW Sharpness"
+			],
+			[
+				"sharpness",
+				"sharpnessMax"
+			],
+			[
+				"sha",
+				"sharpnessMax\tMHW Sharpness Max"
+			],
+			[
+				"shar",
+				"sharpnessMax\tMHW Sharpness Max"
+			],
+			[
+				"sahrp",
+				"sharpnessMax\tMHW Sharpness Max"
+			],
+			[
+				"sharpNes",
+				"sharpnessMax\tMHW Sharpness Max"
+			],
+			[
+				"sharpnes",
+				"sharpness\tMHW Sharpness"
+			],
+			[
+				"sharpne",
+				"sharpness\tMHW Sharpness"
+			],
+			[
+				"sharpnses",
+				"sharpnessMax\tMHW Sharpness Max"
+			],
+			[
+				"capac",
+				"capacityFemale"
+			],
+			[
+				"capacity",
+				"capacityFemale"
+			],
+			[
+				"ammo_blue",
+				"ammo_light_blue"
+			],
+			[
+				"cap",
+				"capacity\tMHW Capacity"
+			],
+			[
+				"ammo_yello",
+				"ammo_bright_yellow"
+			],
+			[
+				"r",
+				"rfr\tMHW Normal - Rapid Fire"
+			],
+			[
+				"palicoarmors",
+				"palicoArmorSet\tMHW Palico Armor Set"
+			],
+			[
+				"kinsec",
+				"kinsectTree\tMHW Kinsect Tree"
+			],
+			[
+				"kinse",
+				"kinsectTree\tMHW Kinsect Tree"
+			],
+			[
+				"armor-set-bonus-skill-master",
+				"armor-set-bonus-skill-masters-touch-description"
+			],
+			[
+				"palicoArmor",
+				"palicoArmor\tMHW Palico Armor"
+			],
+			[
+				"armor",
+				"armor\tMHW Armor"
+			],
+			[
+				"item",
+				"item\tMHW Item"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "database-armors.js",
+			"settings":
+			{
+				"buffer_size": 1104017,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-canteen.js",
+			"settings":
+			{
+				"buffer_size": 51497,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-charms.js",
+			"settings":
+			{
+				"buffer_size": 174327,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-crafting-list.js",
+			"settings":
+			{
+				"buffer_size": 27011,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-critical-bounties.js",
+			"settings":
+			{
+				"buffer_size": 3863,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "let endemicLifeCriticalBounties = []"
+			}
+		},
+		{
+			"file": "database-decorations.js",
+			"settings":
+			{
+				"buffer_size": 32399,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-endemic-life.js",
+			"settings":
+			{
+				"buffer_size": 65867,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-items.js",
+			"settings":
+			{
+				"buffer_size": 39289,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-kinsect-trees.js",
+			"settings":
+			{
+				"buffer_size": 50215,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-layered-armors.js",
+			"settings":
+			{
+				"buffer_size": 5513,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-monsters.js",
+			"settings":
+			{
+				"buffer_size": 640078,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-monster-materials.js",
+			"settings":
+			{
+				"buffer_size": 116843,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 20 files for \"vespoids\"\n\n0 matches\n\nSearching 20 files for \"vespoid\"\n\n/Users/nicholaslie/ReactNative/MonsterHunterWorld/database-armors.js:\n  537      },\n  538      {\n  539:         'name': 'Vespoid',\n  540:         'translationKey': 'armor-lr-vespoid',\n  541:         'icon': require('./assets/armors/sets/vespoid.png'),\n  542          'head': {\n  543:             'name': 'Vespoid Helm',\n  544:             'translationKey': 'armor-lr-vespoid-helm',\n  545:             'iconMale': require('./assets/armors/components/vespoid_helm_male.png'),\n  546:             'iconFemale': require('./assets/armors/components/vespoid_helm_female.png'),\n  547              'level': '1',\n  548              'rarity': '1',\n  ...\n  558              }],\n  559              'materials': [{\n  560:                     'name': 'Vespoid Shell',\n  561                      'quantity': '2'\n  562                  },\n  ...\n  567              ],\n  568              'cost': '200',\n  569:             'description': 'armor-vespoid-description'\n  570          },\n  571          'upperBody': {\n  572:             'name': 'Vespoid Mail',\n  573:             'translationKey': 'armor-lr-vespoid-mail',\n  574:             'iconMale': require('./assets/armors/components/vespoid_mail_male.png'),\n  575:             'iconFemale': require('./assets/armors/components/vespoid_mail_female.png'),\n  576              'level': '1',\n  577              'rarity': '1',\n  ...\n  587              }],\n  588              'materials': [{\n  589:                     'name': 'Vespoid Shell',\n  590                      'quantity': '1'\n  591                  },\n  ...\n  596              ],\n  597              'cost': '200',\n  598:             'description': 'armor-vespoid-description'\n  599          },\n  600          'hands': {\n  601:             'name': 'Vespoid Vambraces',\n  602:             'translationKey': 'armor-lr-vespoid-vambraces',\n  603:             'iconMale': require('./assets/armors/components/vespoid_vambraces_male.png'),\n  604:             'iconFemale': require('./assets/armors/components/vespoid_vambraces_female.png'),\n  605              'level': '1',\n  606              'rarity': '1',\n  ...\n  616              }, ],\n  617              'materials': [{\n  618:                     'name': 'Vespoid Wing',\n  619                      'quantity': '2'\n  620                  },\n  ...\n  625              ],\n  626              'cost': '200',\n  627:             'description': 'armor-vespoid-description'\n  628          },\n  629          'lowerBody': {\n  630:             'name': 'Vespoid Coil',\n  631:             'translationKey': 'armor-lr-vespoid-coil',\n  632:             'iconMale': require('./assets/armors/components/vespoid_coil_male.png'),\n  633:             'iconFemale': require('./assets/armors/components/vespoid_coil_female.png'),\n  634              'level': '1',\n  635              'rarity': '1',\n  ...\n  645              }, ],\n  646              'materials': [{\n  647:                     'name': 'Vespoid Shell',\n  648                      'quantity': '1'\n  649                  },\n  ...\n  654              ],\n  655              'cost': '200',\n  656:             'description': 'armor-vespoid-description'\n  657          },\n  658          'legs': {\n  659:             'name': 'Vespoid Greaves',\n  660:             'translationKey': 'armor-lr-vespoid-greaves',\n  661:             'iconMale': require('./assets/armors/components/vespoid_greaves_male.png'),\n  662:             'iconFemale': require('./assets/armors/components/vespoid_greaves_female.png'),\n  663              'level': '1',\n  664              'rarity': '1',\n  ...\n  674              }, ],\n  675              'materials': [{\n  676:                     'name': 'Vespoid Wing',\n  677                      'quantity': '2'\n  678                  },\n  ...\n  683              ],\n  684              'cost': '200',\n  685:             'description': 'armor-vespoid-description'\n  686          },\n  687          'totalDefense': '40',\n  ...\n 6141                  'quantity': '1'\n 6142              }, {\n 6143:                 'name': 'Vespoid Shell',\n 6144                  'quantity': '1'\n 6145              }, {\n ....\n 6173                  'quantity': '1'\n 6174              }, {\n 6175:                 'name': 'Vespoid Wing',\n 6176                  'quantity': '1'\n 6177              }, {\n ....\n 6205                  'quantity': '1'\n 6206              }, {\n 6207:                 'name': 'Vespoid Shell',\n 6208                  'quantity': '1'\n 6209              }, {\n ....\n 6237                  'quantity': '1'\n 6238              }, {\n 6239:                 'name': 'Vespoid Wing',\n 6240                  'quantity': '1'\n 6241              }, {\n ....\n 6269                  'quantity': '1'\n 6270              }, {\n 6271:                 'name': 'Vespoid Shell',\n 6272                  'quantity': '1'\n 6273              }, {\n ....\n 6613                  'quantity': '1'\n 6614              }, {\n 6615:                 'name': 'Vespoid Shell',\n 6616                  'quantity': '1'\n 6617              }, {\n ....\n 6646                  'quantity': '1'\n 6647              }, {\n 6648:                 'name': 'Vespoid Wing',\n 6649                  'quantity': '1'\n 6650              }, {\n ....\n 6679                  'quantity': '1'\n 6680              }, {\n 6681:                 'name': 'Vespoid Shell',\n 6682                  'quantity': '1'\n 6683              }, {\n ....\n 6712                  'quantity': '1'\n 6713              }, {\n 6714:                 'name': 'Vespoid Wing',\n 6715                  'quantity': '1'\n 6716              }, {\n ....\n 6745                  'quantity': '1'\n 6746              }, {\n 6747:                 'name': 'Vespoid Shell',\n 6748                  'quantity': '1'\n 6749              }, {\n ....\n 8648                  },\n 8649                  {\n 8650:                     'name': 'Vespoid Carapace',\n 8651                      'quantity': '3'\n 8652                  },\n ....\n 8854                  },\n 8855                  {\n 8856:                     'name': 'Vespoid Carapace',\n 8857                      'quantity': '3'\n 8858                  },\n ....\n 9073                  },\n 9074                  {\n 9075:                     'name': 'Vespoid Carapace',\n 9076                      'quantity': '3'\n 9077                  },\n ....\n 9279                  },\n 9280                  {\n 9281:                     'name': 'Vespoid Carapace',\n 9282                      'quantity': '3'\n 9283                  },\n ....\n 11116      },\n 11117      {\n 11118:         'name': 'Vespoid ⍺',\n 11119:         'translationKey': 'armor-hr-vespoid-alpha',\n 11120:         'icon': require('./assets/armors/sets/vespoid_alpha.png'),\n 11121          'head': {\n 11122:             'name': 'Vespoid Helm ⍺',\n 11123:             'translationKey': 'armor-hr-vespoid-helm-alpha',\n 11124:             'iconMale': require('./assets/armors/components/vespoid_helm_male.png'),\n 11125:             'iconFemale': require('./assets/armors/components/vespoid_helm_alpha_female.png'),\n 11126              'level': '1',\n 11127              'rarity': '5',\n .....\n 11142              ],\n 11143              'materials': [{\n 11144:                     'name': 'Vespoid Carapace',\n 11145                      'quantity': '3'\n 11146                  },\n 11147                  {\n 11148:                     'name': 'Vespoid Innerwing',\n 11149                      'quantity': '2'\n 11150                  },\n .....\n 11155              ],\n 11156              'cost': '4000',\n 11157:             'description': 'armor-vespoid-description',\n 11158          },\n 11159          'upperBody': {\n 11160:             'name': 'Vespoid Mail ⍺',\n 11161:             'translationKey': 'armor-hr-vespoid-mail-alpha',\n 11162:             'iconMale': require('./assets/armors/components/vespoid_mail_alpha_male.png'),\n 11163:             'iconFemale': require('./assets/armors/components/vespoid_mail_alpha_female.png'),\n 11164              'level': '1',\n 11165              'rarity': '5',\n .....\n 11175              }, ],\n 11176              'materials': [{\n 11177:                     'name': 'Vespoid Carapace',\n 11178                      'quantity': '3'\n 11179                  },\n 11180                  {\n 11181:                     'name': 'Vespoid Innerwing',\n 11182                      'quantity': '2'\n 11183                  },\n .....\n 11188              ],\n 11189              'cost': '4000',\n 11190:             'description': 'armor-vespoid-description',\n 11191          },\n 11192          'hands': {\n 11193:             'name': 'Vespoid Vambraces ⍺',\n 11194:             'translationKey': 'armor-hr-vespoid-vambraces-alpha',\n 11195:             'iconMale': require('./assets/armors/components/vespoid_vambraces_alpha_male.png'),\n 11196:             'iconFemale': require('./assets/armors/components/vespoid_vambraces_alpha_female.png'),\n 11197              'level': '1',\n 11198              'rarity': '5',\n .....\n 11208              }, ],\n 11209              'materials': [{\n 11210:                     'name': 'Vespoid Carapace',\n 11211                      'quantity': '4'\n 11212                  },\n 11213                  {\n 11214:                     'name': 'Vespoid Innerwing',\n 11215                      'quantity': '2'\n 11216                  },\n .....\n 11225              ],\n 11226              'cost': '4000',\n 11227:             'description': 'armor-vespoid-description',\n 11228          },\n 11229          'lowerBody': {\n 11230:             'name': 'Vespoid Coil ⍺',\n 11231:             'translationKey': 'armor-hr-vespoid-coil-alpha',\n 11232:             'iconMale': require('./assets/armors/components/vespoid_coil_male.png'),\n 11233:             'iconFemale': require('./assets/armors/components/vespoid_coil_female.png'),\n 11234              'level': '1',\n 11235              'rarity': '5',\n .....\n 11245              }, ],\n 11246              'materials': [{\n 11247:                     'name': 'Vespoid Carapace',\n 11248                      'quantity': '3'\n 11249                  },\n 11250                  {\n 11251:                     'name': 'Vespoid Innerwing',\n 11252                      'quantity': '2'\n 11253                  },\n .....\n 11258              ],\n 11259              'cost': '4000',\n 11260:             'description': 'armor-vespoid-description',\n 11261          },\n 11262          'legs': {\n 11263:             'name': 'Vespoid Greaves ⍺',\n 11264:             'translationKey': 'armor-hr-vespoid-greaves-alpha',\n 11265:             'iconMale': require('./assets/armors/components/vespoid_greaves_alpha_male.png'),\n 11266:             'iconFemale': require('./assets/armors/components/vespoid_greaves_alpha_female.png'),\n 11267              'level': '1',\n 11268              'rarity': '5',\n .....\n 11283              ],\n 11284              'materials': [{\n 11285:                     'name': 'Vespoid Carapace',\n 11286                      'quantity': '4'\n 11287                  },\n 11288                  {\n 11289:                     'name': 'Vespoid Innerwing',\n 11290                      'quantity': '2'\n 11291                  },\n .....\n 11300              ],\n 11301              'cost': '4000',\n 11302:             'description': 'armor-vespoid-description',\n 11303          },\n 11304          'totalDefense': '190',\n .....\n 11310      },\n 11311      {\n 11312:         'name': 'Vespoid ß',\n 11313:         'translationKey': 'armor-hr-vespoid-beta',\n 11314:         'icon': require('./assets/armors/sets/vespoid_beta.png'),\n 11315          'head': {\n 11316:             'name': 'Vespoid Helm ß',\n 11317:             'translationKey': 'armor-hr-vespoid-helm-beta',\n 11318:             'iconMale': require('./assets/armors/components/vespoid_helm_beta_male.png'),\n 11319:             'iconFemale': require('./assets/armors/components/vespoid_helm_beta_female.png'),\n 11320              'level': '1',\n 11321              'rarity': '5',\n .....\n 11332              }, ],\n 11333              'materials': [{\n 11334:                     'name': 'Vespoid Carapace',\n 11335                      'quantity': '3'\n 11336                  },\n 11337                  {\n 11338:                     'name': 'Vespoid Innerwing',\n 11339                      'quantity': '2'\n 11340                  },\n .....\n 11345              ],\n 11346              'cost': '4000',\n 11347:             'description': 'armor-vespoid-description',\n 11348          },\n 11349          'upperBody': {\n 11350:             'name': 'Vespoid Mail ß',\n 11351:             'translationKey': 'armor-hr-vespoid-mail-beta',\n 11352:             'iconMale': require('./assets/armors/components/vespoid_mail_beta_male.png'),\n 11353:             'iconFemale': require('./assets/armors/components/vespoid_mail_beta_female.png'),\n 11354              'level': '1',\n 11355              'rarity': '5',\n .....\n 11366              }, ],\n 11367              'materials': [{\n 11368:                     'name': 'Vespoid Carapace',\n 11369                      'quantity': '3'\n 11370                  },\n 11371                  {\n 11372:                     'name': 'Vespoid Innerwing',\n 11373                      'quantity': '2'\n 11374                  },\n .....\n 11379              ],\n 11380              'cost': '4000',\n 11381:             'description': 'armor-vespoid-description',\n 11382          },\n 11383          'hands': {\n 11384:             'name': 'Vespoid Vambraces ß',\n 11385:             'translationKey': 'armor-hr-vespoid-vambraces-beta',\n 11386:             'iconMale': require('./assets/armors/components/vespoid_vambraces_beta_male.png'),\n 11387:             'iconFemale': require('./assets/armors/components/vespoid_vambraces_beta_female.png'),\n 11388              'level': '1',\n 11389              'rarity': '5',\n .....\n 11400              }, ],\n 11401              'materials': [{\n 11402:                     'name': 'Vespoid Carapace',\n 11403                      'quantity': '4'\n 11404                  },\n 11405                  {\n 11406:                     'name': 'Vespoid Innerwing',\n 11407                      'quantity': '2'\n 11408                  },\n .....\n 11417              ],\n 11418              'cost': '4000',\n 11419:             'description': 'armor-vespoid-description',\n 11420          },\n 11421          'lowerBody': {\n 11422:             'name': 'Vespoid Coil ß',\n 11423:             'translationKey': 'armor-hr-vespoid-coil-beta',\n 11424:             'iconMale': require('./assets/armors/components/vespoid_coil_beta_male.png'),\n 11425:             'iconFemale': require('./assets/armors/components/vespoid_coil_beta_female.png'),\n 11426              'level': '1',\n 11427              'rarity': '5',\n .....\n 11438              }, ],\n 11439              'materials': [{\n 11440:                     'name': 'Vespoid Carapace',\n 11441                      'quantity': '3'\n 11442                  },\n 11443                  {\n 11444:                     'name': 'Vespoid Innerwing',\n 11445                      'quantity': '2'\n 11446                  },\n .....\n 11451              ],\n 11452              'cost': '4000',\n 11453:             'description': 'armor-vespoid-description',\n 11454          },\n 11455          'legs': {\n 11456:             'name': 'Vespoid Greaves ß',\n 11457:             'translationKey': 'armor-hr-vespoid-greaves-beta',\n 11458:             'iconMale': require('./assets/armors/components/vespoid_greaves_alpha_male.png'),\n 11459:             'iconFemale': require('./assets/armors/components/vespoid_greaves_alpha_female.png'),\n 11460              'level': '1',\n 11461              'rarity': '5',\n .....\n 11472              }, ],\n 11473              'materials': [{\n 11474:                     'name': 'Vespoid Carapace',\n 11475                      'quantity': '4'\n 11476                  },\n 11477                  {\n 11478:                     'name': 'Vespoid Innerwing',\n 11479                      'quantity': '2'\n 11480                  },\n .....\n 11489              ],\n 11490              'cost': '4000',\n 11491:             'description': 'armor-vespoid-description',\n 11492          },\n 11493          'totalDefense': '190',\n .....\n 30073                  'quantity': '1'\n 30074              }, {\n 30075:                 'name': 'Vespoid Carapace',\n 30076                  'quantity': '1'\n 30077              }, {\n .....\n 30146                  'quantity': '1'\n 30147              }, {\n 30148:                 'name': 'Vespoid Carapace',\n 30149                  'quantity': '1'\n 30150              }, {\n\n/Users/nicholaslie/ReactNative/MonsterHunterWorld/database-canteen.js:\n   57      'icon': require('./assets/canteen/icon_resilience.png'),\n   58      'foodIcon': require('./assets/canteen/meat_yellow.png'),\n   59:     'notes': 'Slay 14 Vespoid quest from the Meowscular Chef (Exterminator of the Waste)'\n   60  }, {\n   61      'name': 'Steeled Meat',\n\n/Users/nicholaslie/ReactNative/MonsterHunterWorld/database-charms.js:\n 3158          'description': 'A charm that enhances the Entomologist skill.',\n 3159          'materials': [{\n 3160:                 'name': 'Vespoid Wing',\n 3161                  'quantity': '2'\n 3162              },\n 3163              {\n 3164:                 'name': 'Vespoid Shell',\n 3165                  'quantity': '2'\n 3166              },\n ....\n 3185          'description': 'A charm that enhances the Entomologist skill.',\n 3186          'materials': [{\n 3187:                 'name': 'Vespoid Innerwing',\n 3188                  'quantity': '4'\n 3189              },\n 3190              {\n 3191:                 'name': 'Vespoid Carapace',\n 3192                  'quantity': '6'\n 3193              },\n ....\n 4489              },\n 4490              {\n 4491:                 'name': 'Vespoid Carapace',\n 4492                  'quantity': '5'\n 4493              },\n\n/Users/nicholaslie/ReactNative/MonsterHunterWorld/database-kinsect-trees.js:\n 1179                      },\n 1180                      {\n 1181:                         'name': 'Vespoid Carapace',\n 1182                          'quantity': '2'\n 1183                      },\n ....\n 1409                      },\n 1410                      {\n 1411:                         'name': 'Vespoid Innerwing',\n 1412                          'quantity': '2'\n 1413                      },\n\n/Users/nicholaslie/ReactNative/MonsterHunterWorld/database-monster-materials.js:\n 2418      'value': '200',\n 2419      'maxCapacity': '99',\n 2420:     'howToGet': 'Complete Arena Challenge: Vespoid Infestation!'\n 2421  }, {\n 2422      'name': 'Sturdy Bone',\n ....\n 2774      'maxCapacity': '99'\n 2775  }, {\n 2776:     'name': 'Vespoid Carapace',\n 2777      'icon': require('./assets/items/bug_bright_yellow.png'),\n 2778:     'description': 'Rare Vespoid material. Obtained by carving. Used for many purposes.',\n 2779      'rarity': '6',\n 2780      'value': '460',\n 2781      'maxCapacity': '99',\n 2782  }, {\n 2783:     'name': 'Vespoid Innerwing',\n 2784      'icon': require('./assets/items/comb_bright_yellow.png'),\n 2785:     'description': 'Rare Vespoid material. Obtained by carving. Light and sharp, used in many weapons.',\n 2786      'rarity': '6',\n 2787      'value': '560',\n 2788      'maxCapacity': '99',\n 2789  }, {\n 2790:     'name': 'Vespoid Shell',\n 2791      'icon': require('./assets/items/bug_bright_yellow.png'),\n 2792:     'description': 'Vespoid material. Obtained by carving. Used for many purposes.',\n 2793      'rarity': '4',\n 2794      'value': '160',\n 2795      'maxCapacity': '99',\n 2796  }, {\n 2797:     'name': 'Vespoid Wing',\n 2798      'icon': require('./assets/items/comb_bright_yellow.png'),\n 2799:     'description': 'Vespoid material. Obtained by carving. Light and sharp, used in many weapons.',\n 2800      'rarity': '4',\n 2801      'value': '210',\n\n/Users/nicholaslie/ReactNative/MonsterHunterWorld/database-monsters.js:\n 1101      }],\n 1102  }, {\n 1103:     'name': 'Vespoid',\n 1104:     'translationKey': 'monster-vespoid',\n 1105:     'icon': require('./assets/monsters/vespoid.png'),\n 1106:     'photo': require('./assets/monsters/vespoid-large.png'),\n 1107      'type': 'Neopterons',\n 1108      'baseHP': '8',\n 1109      'location': ['Ancient Forest', 'Wildspire Waste', 'Coral Highlands', 'Rotten Vale'],\n 1110:     'usefulInformation': 'monster-vespoid-useful-information',\n 1111      'loot': [{\n 1112          'lowRank': [{\n ....\n 1129              }, ]\n 1130          }, {\n 1131:             'name': 'Vespoid Shell',\n 1132              'statistics': [{\n 1133                  'percentage': '42',\n ....\n 1140              }, ]\n 1141          }, {\n 1142:             'name': 'Vespoid Wing',\n 1143              'statistics': [{\n 1144                  'percentage': '35',\n ....\n 1173              }, ]\n 1174          }, {\n 1175:             'name': 'Vespoid Carapace',\n 1176              'statistics': [{\n 1177                  'percentage': '42',\n ....\n 1184              }, ]\n 1185          }, {\n 1186:             'name': 'Vespoid Innerwing',\n 1187              'statistics': [{\n 1188                  'percentage': '35',\n\n/Users/nicholaslie/ReactNative/MonsterHunterWorld/database-palico.js:\n 2436              'description': 'Headgear for the Palico who demands function ANd cuteness. The best part? Those antennae.',\n 2437              'materials': [{\n 2438:                     'name': 'Vespoid Carapace',\n 2439                      'quantity': '1'\n 2440                  },\n ....\n 2458              'description': 'The only flaw in this adorably spotted armor\\'s design is that it doesn\\'t let you fly.',\n 2459              'materials': [{\n 2460:                     'name': 'Vespoid Innerwing',\n 2461                      'quantity': '1'\n 2462                  },\n\n/Users/nicholaslie/ReactNative/MonsterHunterWorld/database-quests.js:\n  538          'level': '2',\n  539          'type': 'quest-type-slaying-quest',\n  540:         'objective': 'quest-objective-slay-14-vespoid',\n  541:         'targetMonsters': ['Vespoid'],\n  542          'icon': require('./assets/quests/icon_slaying.png'),\n  543          'rewardMoney': '1080',\n  ...\n  904          'conditions': ['quest-conditions-hr-4-or-higher'],\n  905          'failureConditions': ['quest-failure-time-expires', 'quest-failure-faint-3-times'],\n  906:         'otherMonsters': ['Vespoid'],\n  907          'client': 'quest-client-the-meowscular-chef',\n  908          'description': 'quest-gettin-yolked-in-the-forest-description',\n  ...\n 4092          'weapon': 'Steel Gunlance I',\n 4093          'head': {\n 4094:             'name': 'Vespoid Helm',\n 4095              'level': '3',\n 4096              'rarity': '1',\n ....\n 4272          },\n 4273          'hands': {\n 4274:             'name': 'Vespoid Vambraces',\n 4275              'level': '3',\n 4276              'rarity': '1',\n ....\n 4593          'weapon': 'Pulsar Strongarm III',\n 4594          'head': {\n 4595:             'name': 'Vespoid Helm',\n 4596              'level': '9',\n 4597              'rarity': '1',\n ....\n 4604          },\n 4605          'upperBody': {\n 4606:             'name': 'Vespoid Mail',\n 4607              'level': '9',\n 4608              'rarity': '1',\n ....\n 5323          'weapon': 'Archer\\'s Dance I',\n 5324          'head': {\n 5325:             'name': 'Vespoid Helm ⍺',\n 5326              'level': '6',\n 5327              'rarity': '5',\n ....\n 6316          'weapon': 'Anja Buster I',\n 6317          'head': {\n 6318:             'name': 'Vespoid Helm ⍺',\n 6319              'level': '6',\n 6320              'rarity': '5',\n ....\n 8175          'required': '300'\n 8176      }, {\n 8177:         'name': 'Vespoid Shell',\n 8178          'required': '2'\n 8179      }, {\n\n/Users/nicholaslie/ReactNative/MonsterHunterWorld/database-weapons.js:\n  610                      },\n  611                      {\n  612:                         'name': 'Vespoid Innerwing',\n  613                          'quantity': '3'\n  614                      }\n  ...\n 13252                      },\n 13253                      {\n 13254:                         'name': 'Vespoid Innerwing',\n 13255                          'quantity': '3'\n 13256                      }\n .....\n 21678                      },\n 21679                      {\n 21680:                         'name': 'Vespoid Innerwing',\n 21681                          'quantity': '3'\n 21682                      }\n .....\n 25915                      },\n 25916                      {\n 25917:                         'name': 'Vespoid Innerwing',\n 25918                          'quantity': '3'\n 25919                      }\n .....\n 29577      },\n 29578      {\n 29579:         title: 'Vespoid Tree',\n 29580          data: [{\n 29581                  'name': 'Sonic Horn I',\n .....\n 29586                  'weaponIcon': require('./assets/weapons/rarity/2-hunting-horn.png'),\n 29587                  'type': 'Hunting Horn',\n 29588:                 'description': 'The faint lamentations of queens turned into insects can be heard in this Vespoid horn\\'s timbre.',\n 29589                  'rarity': '2',\n 29590                  'attack': 462,\n .....\n 29632                  'cost': '1000',\n 29633                  'materials': [{\n 29634:                         'name': 'Vespoid Shell',\n 29635                          'quantity': '2'\n 29636                      },\n 29637                      {\n 29638:                         'name': 'Vespoid Wing',\n 29639                          'quantity': '1'\n 29640                      },\n .....\n 29653                  'weaponIcon': require('./assets/weapons/rarity/3-hunting-horn.png'),\n 29654                  'type': 'Hunting Horn',\n 29655:                 'description': 'The faint lamentations of queens turned into insects can be heard in this Vespoid horn\\'s timbre.',\n 29656                  'rarity': '3',\n 29657                  'attack': 504,\n .....\n 29699                  'cost': '2000',\n 29700                  'materials': [{\n 29701:                         'name': 'Vespoid Shell',\n 29702                          'quantity': '2'\n 29703                      },\n 29704                      {\n 29705:                         'name': 'Vespoid Wing',\n 29706                          'quantity': '2'\n 29707                      },\n .....\n 29724                  'weaponIcon': require('./assets/weapons/rarity/4-hunting-horn.png'),\n 29725                  'type': 'Hunting Horn',\n 29726:                 'description': 'The faint lamentations of queens turned into insects can be heard in this Vespoid horn\\'s timbre.',\n 29727                  'rarity': '4',\n 29728                  'attack': 546,\n .....\n 29770                  'cost': '4000',\n 29771                  'materials': [{\n 29772:                         'name': 'Vespoid Wing',\n 29773                          'quantity': '3'\n 29774                      },\n .....\n 29795                  'weaponIcon': require('./assets/weapons/rarity/5-hunting-horn.png'),\n 29796                  'type': 'Hunting Horn',\n 29797:                 'description': 'Now deeper and richer in tone, this Vespoid hunting horn plays a paean to the lost queen.',\n 29798                  'rarity': '5',\n 29799                  'attack': 588,\n .....\n 29846                  'cost': '6000',\n 29847                  'materials': [{\n 29848:                         'name': 'Vespoid Carapace',\n 29849                          'quantity': '6'\n 29850                      },\n 29851                      {\n 29852:                         'name': 'Vespoid Innerwing',\n 29853                          'quantity': '3'\n 29854                      },\n .....\n 29867                  'from': 'Glass Royale',\n 29868                  'translationKey': 'weapon-hunting-horn-glass-royale-plus',\n 29869:                 'upgradableTo': ['Queen Vespoid Horn'],\n 29870                  'icon': require('./assets/weapons/hunting_horn/glass_royale_plus.png'),\n 29871                  'weaponIcon': require('./assets/weapons/rarity/6-hunting-horn.png'),\n 29872                  'type': 'Hunting Horn',\n 29873:                 'description': 'Now deeper and richer in tone, this Vespoid hunting horn plays a paean to the lost queen.',\n 29874                  'rarity': '6',\n 29875                  'attack': 630,\n .....\n 29922                  'cost': '16000',\n 29923                  'materials': [{\n 29924:                         'name': 'Vespoid Innerwing',\n 29925                          'quantity': '6'\n 29926                      },\n .....\n 29940              },\n 29941              {\n 29942:                 'name': 'Queen Vespoid Horn',\n 29943                  'from': 'Glass Royale+',\n 29944:                 'translationKey': 'weapon-hunting-horn-queen-vespoid-horn',\n 29945:                 'icon': require('./assets/weapons/hunting_horn/queen_vespoid_horn.png'),\n 29946                  'weaponIcon': require('./assets/weapons/rarity/7-hunting-horn.png'),\n 29947                  'type': 'Hunting Horn',\n 29948:                 'description': 'Now deeper and richer in tone, this Vespoid hunting horn plays a paean to the lost queen.',\n 29949                  'rarity': '7',\n 29950                  'attack': 672,\n .....\n 30002                      },\n 30003                      {\n 30004:                         'name': 'Vespoid Innerwing',\n 30005                          'quantity': '3'\n 30006                      },\n .....\n 33669                      },\n 33670                      {\n 33671:                         'name': 'Vespoid Innerwing',\n 33672                          'quantity': '3'\n 33673                      }\n .....\n 60300                      },\n 60301                      {\n 60302:                         'name': 'Vespoid Innerwing',\n 60303                          'quantity': '3'\n 60304                      }\n\n189 matches across 9 files\n",
+			"settings":
+			{
+				"buffer_size": 29748,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "database-quests.js",
+			"settings":
+			{
+				"buffer_size": 312886,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-palico.js",
+			"settings":
+			{
+				"buffer_size": 151295,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-play-guide.js",
+			"settings":
+			{
+				"buffer_size": 26224,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-poogie.js",
+			"settings":
+			{
+				"buffer_size": 2470,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-skills.js",
+			"settings":
+			{
+				"buffer_size": 44653,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-specialized-tools.js",
+			"settings":
+			{
+				"buffer_size": 7873,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-trophies.js",
+			"settings":
+			{
+				"buffer_size": 25777,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database-weapons.js",
+			"settings":
+			{
+				"buffer_size": 3700410,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"json reindent",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nicholaslie/ReactNative/MonsterHunterWorld/database.js",
+		"/Users/nicholaslie/ReactNative/MonsterHunterWorld/database-canteen.js",
+		"/Users/nicholaslie/ReactNative/MonsterHunterWorld/database-weapons.js",
+		"/Users/nicholaslie/Library/Mobile Documents/com~apple~CloudDocs/Documents/Sevva/GitHub/f8app/node_modules/defs/tests/rename-out.js",
+		"/Users/nicholaslie/ReactNative/MonsterHunterWorld/database-monster-materials.js",
+		"/Users/nicholaslie/Library/Application Support/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/Users/nicholaslie/ReactNative/MonsterHunterWorld/database-endemic-life.js",
+		"/Users/nicholaslie/ReactNative/MonsterHunterWorld/database-items.js",
+		"/Users/nicholaslie/ReactNative/MonsterHunterWorld/Item.snippet",
+		"/Users/nicholaslie/ReactNative/MonsterHunterWorld/i18n/en.js",
+		"/Users/nicholaslie/.profile"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"",
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"vespoid",
+			"vespoids",
+			"eye-of-the-storm",
+			"aqua bagpipe ii",
+			"vambarces",
+			"'hands': {\n            'name': 'tzi",
+			"hands",
+			"'hands'",
+			"geralt",
+			"geralt-alpha",
+			"'hands'",
+			"contract: woodland",
+			"'head'",
+			"geralt-of-rivia",
+			"bayek",
+			"the-heart-of-the-nora",
+			"the heart of the nora",
+			"title: 'Ice Element Tree',",
+			"ice element tere",
+			"kadachi claws i",
+			"nekker",
+			"ice-resistance",
+			"igni",
+			"nekker",
+			"mega man",
+			"star set al",
+			"armorsets",
+			"claw_",
+			"elder dragons",
+			"he-taketh-it-with-his-eyes",
+			"kings-know-no-fear",
+			"rending beaks III",
+			"title: 'Kirin Tree',",
+			"title: '",
+			"title: 'Odogaron Tree',",
+			"title: 'Tobi Kadachi Tree',",
+			"title: '",
+			"title: 'Diablos Tree',",
+			"title: 'Vaal Hazak Tree',",
+			"title: '",
+			"title: 'Tzitzi-Ya-Ku Tree',",
+			"title: '",
+			"title: 'Aloy Tree',",
+			"title: '",
+			"title: 'Tobi-Kadachi Tree',",
+			"title: '",
+			"title: 'Pukei-Pukei Tree',",
+			"title: 'Paolumu Tree',",
+			"title: '",
+			"title: 'Lunastra/Nergigate Tree',",
+			"title: '",
+			"title: 'Legiana Tree',",
+			"title: 'Water Element Tree',",
+			"title: '",
+			"title: 'Lunastra/Xeno\\'jiiva Tree',",
+			"title: 'Lunastra/Nergigante Tree',",
+			"title: 'Lunastra Tree',",
+			"title: 'Kulve Taroth Relic Weapons',",
+			"title: 'Azure Star Tree',",
+			"title: 'Deviljho Tree',",
+			"title: 'Workshop Weapon Tree',",
+			"title: '",
+			"title: 'Xeno\\'jiiva Tree',",
+			"title: 'Blacksteel Tree',",
+			"title: 'Zorah Magdaros Tree',",
+			"title: '",
+			"title: 'Dragonbone Tree',",
+			"title: 'Hornetaur Tree',",
+			"title: 'Lavasioth Tree',",
+			"title: 'Jyuratodus Tree',",
+			"title: 'Anjanath Tree',",
+			"title: '",
+			"title: 'Bazelgeuse Tree',",
+			"title: 'Bone Tree',",
+			"title: 'Rathalos Tree',",
+			"title: 'Rathian Tree',",
+			"title: 'Uragaan Tree',",
+			"title: '",
+			"title: 'Kulu-Ya-Ku Tree',",
+			"title: '",
+			"title: 'Ore Tree',",
+			"title: 'Nergigante Tree',",
+			"title: '",
+			"paper_yellow",
+			"skull-mask",
+			"gala-suit",
+			"empress lance \"styx\"",
+			"drachen",
+			"boa-bell-coat",
+			"kings-know-no-fear",
+			"platinum pearl",
+			"heavenberry",
+			"_male",
+			"dragonseal_earrings.png",
+			"bone strongarm III",
+			"butterfly vertex",
+			"jagras mail",
+			"anguish",
+			"sealed-eyepatch",
+			"faux-felyne",
+			"commission",
+			"death-stench",
+			"dante",
+			"snow set",
+			"snow",
+			"dante",
+			"daggers_spark",
+			"kjárr blitz \"bomber\"",
+			"//",
+			"kjárr bow \"stream\"",
+			"//",
+			"kjárr hammer \"ice\"",
+			"buster \"king\"",
+			"assault \"horn",
+			"gamma",
+			"camera",
+			"'rarity':",
+			"'platform': 'PS4'",
+			"'icon': require",
+			"bacon-behemoth",
+			"faux-felyne",
+			"arenaquests",
+			"undying-alpenglow",
+			"the-eye-of-the-storm",
+			"a-royal-pain",
+			"where-sun-meets-moon",
+			"eventquests",
+			"butterfly-alpha"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'capacity'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "database-armors.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1104017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								342979,
+								342979
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 180224.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "database-canteen.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1256,
+								1256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "database-charms.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 174327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143981,
+								143981
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "database-crafting-list.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								477,
+								477
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "database-critical-bounties.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								589,
+								589
+							]
+						],
+						"settings":
+						{
+							"auto_name": "let endemicLifeCriticalBounties = []",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "database-decorations.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								694,
+								694
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "database-endemic-life.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 65867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59321,
+								59321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 19275.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "database-items.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9983,
+								9987
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4722.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "database-kinsect-trees.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 50215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49287,
+								49287
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "database-layered-armors.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3521,
+								3521
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1046.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "database-monsters.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 640078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								327889,
+								327889
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "database-monster-materials.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 116843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71145,
+								71145
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 32242.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29748,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										201,
+										208
+									],
+									[
+										254,
+										261
+									],
+									[
+										317,
+										324
+									],
+									[
+										385,
+										392
+									],
+									[
+										447,
+										454
+									],
+									[
+										529,
+										536
+									],
+									[
+										623,
+										630
+									],
+									[
+										817,
+										824
+									],
+									[
+										1005,
+										1012
+									],
+									[
+										1102,
+										1109
+									],
+									[
+										1164,
+										1171
+									],
+									[
+										1246,
+										1253
+									],
+									[
+										1340,
+										1347
+									],
+									[
+										1534,
+										1541
+									],
+									[
+										1722,
+										1729
+									],
+									[
+										1815,
+										1822
+									],
+									[
+										1882,
+										1889
+									],
+									[
+										1969,
+										1976
+									],
+									[
+										2068,
+										2075
+									],
+									[
+										2269,
+										2276
+									],
+									[
+										2456,
+										2463
+									],
+									[
+										2553,
+										2560
+									],
+									[
+										2615,
+										2622
+									],
+									[
+										2697,
+										2704
+									],
+									[
+										2791,
+										2798
+									],
+									[
+										2987,
+										2994
+									],
+									[
+										3175,
+										3182
+									],
+									[
+										3267,
+										3274
+									],
+									[
+										3332,
+										3339
+									],
+									[
+										3417,
+										3424
+									],
+									[
+										3514,
+										3521
+									],
+									[
+										3713,
+										3720
+									],
+									[
+										3900,
+										3907
+									],
+									[
+										4077,
+										4084
+									],
+									[
+										4257,
+										4264
+									],
+									[
+										4436,
+										4443
+									],
+									[
+										4616,
+										4623
+									],
+									[
+										4795,
+										4802
+									],
+									[
+										4975,
+										4982
+									],
+									[
+										5155,
+										5162
+									],
+									[
+										5334,
+										5341
+									],
+									[
+										5514,
+										5521
+									],
+									[
+										5693,
+										5700
+									],
+									[
+										5865,
+										5872
+									],
+									[
+										6046,
+										6053
+									],
+									[
+										6227,
+										6234
+									],
+									[
+										6408,
+										6415
+									],
+									[
+										6556,
+										6563
+									],
+									[
+										6612,
+										6619
+									],
+									[
+										6682,
+										6689
+									],
+									[
+										6758,
+										6765
+									],
+									[
+										6823,
+										6830
+									],
+									[
+										6912,
+										6919
+									],
+									[
+										7007,
+										7014
+									],
+									[
+										7212,
+										7219
+									],
+									[
+										7365,
+										7372
+									],
+									[
+										7564,
+										7571
+									],
+									[
+										7665,
+										7672
+									],
+									[
+										7730,
+										7737
+									],
+									[
+										7819,
+										7826
+									],
+									[
+										7920,
+										7927
+									],
+									[
+										8128,
+										8135
+									],
+									[
+										8281,
+										8288
+									],
+									[
+										8480,
+										8487
+									],
+									[
+										8577,
+										8584
+									],
+									[
+										8647,
+										8654
+									],
+									[
+										8741,
+										8748
+									],
+									[
+										8847,
+										8854
+									],
+									[
+										9060,
+										9067
+									],
+									[
+										9213,
+										9220
+									],
+									[
+										9412,
+										9419
+									],
+									[
+										9513,
+										9520
+									],
+									[
+										9578,
+										9585
+									],
+									[
+										9667,
+										9674
+									],
+									[
+										9762,
+										9769
+									],
+									[
+										9964,
+										9971
+									],
+									[
+										10117,
+										10124
+									],
+									[
+										10316,
+										10323
+									],
+									[
+										10412,
+										10419
+									],
+									[
+										10480,
+										10487
+									],
+									[
+										10572,
+										10579
+									],
+									[
+										10676,
+										10683
+									],
+									[
+										10884,
+										10891
+									],
+									[
+										11037,
+										11044
+									],
+									[
+										11236,
+										11243
+									],
+									[
+										11377,
+										11384
+									],
+									[
+										11433,
+										11440
+									],
+									[
+										11502,
+										11509
+									],
+									[
+										11577,
+										11584
+									],
+									[
+										11642,
+										11649
+									],
+									[
+										11730,
+										11737
+									],
+									[
+										11830,
+										11837
+									],
+									[
+										12037,
+										12044
+									],
+									[
+										12190,
+										12197
+									],
+									[
+										12389,
+										12396
+									],
+									[
+										12490,
+										12497
+									],
+									[
+										12555,
+										12562
+									],
+									[
+										12643,
+										12650
+									],
+									[
+										12743,
+										12750
+									],
+									[
+										12950,
+										12957
+									],
+									[
+										13103,
+										13110
+									],
+									[
+										13302,
+										13309
+									],
+									[
+										13399,
+										13406
+									],
+									[
+										13469,
+										13476
+									],
+									[
+										13562,
+										13569
+									],
+									[
+										13667,
+										13674
+									],
+									[
+										13879,
+										13886
+									],
+									[
+										14032,
+										14039
+									],
+									[
+										14231,
+										14238
+									],
+									[
+										14332,
+										14339
+									],
+									[
+										14397,
+										14404
+									],
+									[
+										14485,
+										14492
+									],
+									[
+										14585,
+										14592
+									],
+									[
+										14792,
+										14799
+									],
+									[
+										14945,
+										14952
+									],
+									[
+										15144,
+										15151
+									],
+									[
+										15240,
+										15247
+									],
+									[
+										15308,
+										15315
+									],
+									[
+										15399,
+										15406
+									],
+									[
+										15503,
+										15510
+									],
+									[
+										15714,
+										15721
+									],
+									[
+										15867,
+										15874
+									],
+									[
+										16066,
+										16073
+									],
+									[
+										16251,
+										16258
+									],
+									[
+										16440,
+										16447
+									],
+									[
+										16761,
+										16768
+									],
+									[
+										17089,
+										17096
+									],
+									[
+										17218,
+										17225
+									],
+									[
+										17443,
+										17450
+									],
+									[
+										17577,
+										17584
+									],
+									[
+										17738,
+										17745
+									],
+									[
+										17995,
+										18002
+									],
+									[
+										18196,
+										18203
+									],
+									[
+										18484,
+										18491
+									],
+									[
+										18621,
+										18628
+									],
+									[
+										18740,
+										18747
+									],
+									[
+										18922,
+										18929
+									],
+									[
+										19043,
+										19050
+									],
+									[
+										19240,
+										19247
+									],
+									[
+										19351,
+										19358
+									],
+									[
+										19533,
+										19540
+									],
+									[
+										19644,
+										19651
+									],
+									[
+										19897,
+										19904
+									],
+									[
+										19945,
+										19952
+									],
+									[
+										20001,
+										20008
+									],
+									[
+										20063,
+										20070
+									],
+									[
+										20280,
+										20287
+									],
+									[
+										20438,
+										20445
+									],
+									[
+										20611,
+										20618
+									],
+									[
+										20783,
+										20790
+									],
+									[
+										20959,
+										20966
+									],
+									[
+										21327,
+										21334
+									],
+									[
+										21617,
+										21624
+									],
+									[
+										21910,
+										21917
+									],
+									[
+										21955,
+										21962
+									],
+									[
+										22277,
+										22284
+									],
+									[
+										22532,
+										22539
+									],
+									[
+										22692,
+										22699
+									],
+									[
+										22887,
+										22894
+									],
+									[
+										23051,
+										23058
+									],
+									[
+										23238,
+										23245
+									],
+									[
+										23423,
+										23430
+									],
+									[
+										23586,
+										23593
+									],
+									[
+										23820,
+										23827
+									],
+									[
+										24024,
+										24031
+									],
+									[
+										24231,
+										24238
+									],
+									[
+										24438,
+										24445
+									],
+									[
+										24596,
+										24603
+									],
+									[
+										24946,
+										24953
+									],
+									[
+										25178,
+										25185
+									],
+									[
+										25344,
+										25351
+									],
+									[
+										25700,
+										25707
+									],
+									[
+										25932,
+										25939
+									],
+									[
+										26098,
+										26105
+									],
+									[
+										26454,
+										26461
+									],
+									[
+										26686,
+										26693
+									],
+									[
+										27004,
+										27011
+									],
+									[
+										27266,
+										27273
+									],
+									[
+										27435,
+										27442
+									],
+									[
+										27720,
+										27727
+									],
+									[
+										28049,
+										28056
+									],
+									[
+										28312,
+										28319
+									],
+									[
+										28502,
+										28509
+									],
+									[
+										28635,
+										28642
+									],
+									[
+										28727,
+										28734
+									],
+									[
+										28964,
+										28971
+									],
+									[
+										29207,
+										29214
+									],
+									[
+										29415,
+										29422
+									],
+									[
+										29622,
+										29629
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								16764,
+								16764
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 7573.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "database-quests.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 312886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142331,
+								142331
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 55457.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "database-palico.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 151295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148320,
+								148320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 71716.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "database-play-guide.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4749,
+								4755
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "database-poogie.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2323,
+								2323
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 338.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "database-skills.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44653,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15892,
+								15903
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8373.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "database-specialized-tools.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5584,
+								5584
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1677.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "database-trophies.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24608,
+								24608
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "database-weapons.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3700410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1431827,
+								1431827
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 667293.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mhw-database.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"monser",
+				"~/ReactNative/MonsterHunterWorld/database-monster-materials.js"
+			],
+			[
+				"items",
+				"~/ReactNative/MonsterHunterWorld/database-items.js"
+			],
+			[
+				"armors",
+				"~/ReactNative/MonsterHunterWorld/database-armors.js"
+			],
+			[
+				"questss",
+				"~/ReactNative/MonsterHunterWorld/database-quests.js"
+			],
+			[
+				"weapons",
+				"~/ReactNative/MonsterHunterWorld/database-weapons.js"
+			],
+			[
+				"quest",
+				"~/ReactNative/MonsterHunterWorld/database-quests.js"
+			],
+			[
+				"quests",
+				"~/ReactNative/MonsterHunterWorld/database-quests.js"
+			],
+			[
+				"canteen",
+				"~/ReactNative/MonsterHunterWorld/database-canteen.js"
+			],
+			[
+				"monster-materials",
+				"~/ReactNative/MonsterHunterWorld/database-monster-materials.js"
+			],
+			[
+				"layered",
+				"~/ReactNative/MonsterHunterWorld/database-layered-armors.js"
+			],
+			[
+				"skills",
+				"~/ReactNative/MonsterHunterWorld/database-skills.js"
+			],
+			[
+				"monster",
+				"~/ReactNative/MonsterHunterWorld/database-monster-materials.js"
+			],
+			[
+				"monstermaterial",
+				"~/ReactNative/MonsterHunterWorld/database-monster-materials.js"
+			],
+			[
+				"mosnter-ma",
+				"~/ReactNative/MonsterHunterWorld/database-monster-materials.js"
+			],
+			[
+				"palico",
+				"~/ReactNative/MonsterHunterWorld/database-palico.js"
+			],
+			[
+				"mnster-m",
+				"~/ReactNative/MonsterHunterWorld/database-monster-materials.js"
+			],
+			[
+				"endemic",
+				"~/ReactNative/MonsterHunterWorld/database-endemic-life.js"
+			],
+			[
+				"pali",
+				"~/ReactNative/MonsterHunterWorld/database-palico.js"
+			],
+			[
+				"armor",
+				"~/ReactNative/MonsterHunterWorld/database-armors.js"
+			],
+			[
+				"monsters",
+				"~/ReactNative/MonsterHunterWorld/database-monsters.js"
+			],
+			[
+				"database-weapons",
+				"~/ReactNative/MonsterHunterWorld/database-weapons.js"
+			],
+			[
+				"monster-m",
+				"~/ReactNative/MonsterHunterWorld/database-monster-materials.js"
+			],
+			[
+				"monster-mateira",
+				"~/ReactNative/MonsterHunterWorld/database-monster-materials.js"
+			],
+			[
+				"poogie",
+				"~/ReactNative/MonsterHunterWorld/database-poogie.js"
+			],
+			[
+				"weapon",
+				"~/ReactNative/MonsterHunterWorld/database-weapons.js"
+			],
+			[
+				"",
+				"~/ReactNative/MonsterHunterWorld/database-quests.js"
+			],
+			[
+				"l",
+				"~/ReactNative/MonsterHunterWorld/database-layered-armors.js"
+			],
+			[
+				"monster matei",
+				"~/ReactNative/MonsterHunterWorld/database-monster-materials.js"
+			],
+			[
+				"speciali",
+				"~/ReactNative/MonsterHunterWorld/database-specialized-tools.js"
+			],
+			[
+				"monsterm",
+				"~/ReactNative/MonsterHunterWorld/database-monster-materials.js"
+			],
+			[
+				"play",
+				"~/ReactNative/MonsterHunterWorld/database-play-guide.js"
+			],
+			[
+				"trophies",
+				"~/ReactNative/MonsterHunterWorld/database-trophies.js"
+			],
+			[
+				"monstermati",
+				"~/ReactNative/MonsterHunterWorld/database-monster-materials.js"
+			],
+			[
+				"materials",
+				"~/ReactNative/MonsterHunterWorld/database-monster-materials.js"
+			],
+			[
+				"monster-mater",
+				"~/ReactNative/MonsterHunterWorld/database-monster-materials.js"
+			],
+			[
+				"charms",
+				"~/ReactNative/MonsterHunterWorld/database-charms.js"
+			],
+			[
+				"decorations",
+				"~/ReactNative/MonsterHunterWorld/database-decorations.js"
+			],
+			[
+				"amrors",
+				"~/ReactNative/MonsterHunterWorld/database-armors.js"
+			],
+			[
+				"uqests",
+				"~/ReactNative/MonsterHunterWorld/database-quests.js"
+			],
+			[
+				"layeredarmors",
+				"~/ReactNative/MonsterHunterWorld/database-layered-armors.js"
+			],
+			[
+				"monstermaterials",
+				"~/ReactNative/MonsterHunterWorld/database-monster-materials.js"
+			],
+			[
+				"decoraitons",
+				"~/ReactNative/MonsterHunterWorld/database-decorations.js"
+			],
+			[
+				"weaopns",
+				"~/ReactNative/MonsterHunterWorld/database-weapons.js"
+			],
+			[
+				"play-guide",
+				"~/ReactNative/MonsterHunterWorld/database-play-guide.js"
+			],
+			[
+				"kinsect",
+				"~/ReactNative/MonsterHunterWorld/database-kinsect-trees.js"
+			],
+			[
+				"monster materials",
+				"~/ReactNative/MonsterHunterWorld/database-monster-materials.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
