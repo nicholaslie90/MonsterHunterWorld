@@ -370,8 +370,20 @@ tintColor='grey'
 
         //Check for Attack Element
         let attackElement = null;
+        let attackElementHeader = null;
         if (params.item.attackElement !== undefined) {
-            attackElement = <Text style={themeText}>Attack Element: {params.item.attackElement}</Text>
+            attackElementHeader = <Text style={[globalStyles.heading1, themeText]}>Attack Element</Text>
+            attackElement = params.item.attackElement.map((element, index) => {
+                return <View key={index} style={styles.textContainer}>
+                    <View style={styles.leftContainer}>
+                        <View style={{flex: 1, flexDirection: 'row'}}>
+                            <Image source={returnWeaponElement(element.split(' ')[0])}
+                                   style={globalStyles.leftImage}/>
+                            <Text style={[{alignItems: 'flex-end', textAlign: 'left'}, themeText]}>{element}</Text>
+                        </View>
+                    </View>
+                </View>
+            });
         }
 
         //Check for Attack Ailment
@@ -1012,6 +1024,7 @@ tintColor='grey'
                         {capture}
                         {earplugs}
                         {tempered}
+                        {attackElementHeader}
                         {attackElement}
                         {attackAilment}
                         <Text style={themeText}>Found in: {

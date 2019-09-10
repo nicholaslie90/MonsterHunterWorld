@@ -17962,5 +17962,113 @@ export default {
     "armor-mr-wulg-beta-plus": {
       "Key": "armor-mr-wulg-beta-plus",
       "Translation": "Wulg ß+"
+    },
+    "monster-acidic-glavenus": {
+      "Key": "monster-acidic-glavenus",
+      "Translation": "Acidic Glavenus"
+    },
+    "monster-ancient-leshen": {
+      "Key": "monster-ancient-leshen",
+      "Translation": "Ancient Leshen"
+    },
+    "monster-banbaro": {
+      "Key": "monster-banbaro",
+      "Translation": "Banbaro"
+    },
+    "monster-beotodus": {
+      "Key": "monster-beotodus",
+      "Translation": "Beotodus"
+    },
+    "monster-blackveil-vaal-hazak": {
+      "Key": "monster-blackveil-vaal-hazak",
+      "Translation": "Blackveil Vaal Hazak"
+    },
+    "monster-brachydios": {
+      "Key": "monster-brachydios",
+      "Translation": "Brachydios"
+    },
+    "monster-brute-tigrex": {
+      "Key": "monster-brute-tigrex",
+      "Translation": "Brute Tigrex"
+    },
+    "monster-coral-pukei-pukei": {
+      "Key": "monster-coral-pukei-pukei",
+      "Translation": "Coral Pukei-Pukei"
+    },
+    "monster-ebony-odogaron": {
+      "Key": "monster-ebony-odogaron",
+      "Translation": "Ebony Odogaron"
+    },
+    "monster-fulgur-anjanath": {
+      "Key": "monster-fulgur-anjanath",
+      "Translation": "Fulgur Anjanath"
+    },
+    "monster-glavenus": {
+      "Key": "monster-glavenus",
+      "Translation": "Glavenus"
+    },
+    "monster-gold-rathian": {
+      "Key": "monster-gold-rathian",
+      "Translation": "Gold Rathian"
+    },
+    "monster-namielle": {
+      "Key": "monster-namielle",
+      "Translation": "Namielle"
+    },
+    "monster-nargacuga": {
+      "Key": "monster-nargacuga",
+      "Translation": "Nargacuga"
+    },
+    "monster-nightshade-paolumu": {
+      "Key": "monster-nightshade-paolumu",
+      "Translation": "Nightshade Paolumu"
+    },
+    "monster-ruiner-nergigante": {
+      "Key": "monster-ruiner-nergigante",
+      "Translation": "Ruiner Nergigante"
+    },
+    "monster-savage-deviljho": {
+      "Key": "monster-savage-deviljho",
+      "Translation": "Savage Deviljho"
+    },
+    "monster-scarred-yian-garuga": {
+      "Key": "monster-scarred-yian-garuga",
+      "Translation": "Scarred Yian Garuga"
+    },
+    "monster-seething-bazelgeuse": {
+      "Key": "monster-seething-bazelgeuse",
+      "Translation": "Seething Bazelgeuse"
+    },
+    "monster-shara-ishvalda": {
+      "Key": "monster-shara-ishvalda",
+      "Translation": "Shara Ishvalda"
+    },
+    "monster-shrieking-legiana": {
+      "Key": "monster-shrieking-legiana",
+      "Translation": "Shrieking Legiana"
+    },
+    "monster-silver-rathalos": {
+      "Key": "monster-silver-rathalos",
+      "Translation": "Silver Rathalos"
+    },
+    "monster-tigrex": {
+      "Key": "monster-tigrex",
+      "Translation": "Tigrex"
+    },
+    "monster-velkhana": {
+      "Key": "monster-velkhana",
+      "Translation": "Velkhana"
+    },
+    "monster-viper-tobi-kadachi": {
+      "Key": "monster-viper-tobi-kadachi",
+      "Translation": "Viper Tobi-Kadachi"
+    },
+    "monster-yian-garuga": {
+      "Key": "monster-yian-garuga",
+      "Translation": "Yian Garuga"
+    },
+    "monster-zinogre": {
+      "Key": "monster-zinogre",
+      "Translation": "Zinogre"
     }
   }

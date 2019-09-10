@@ -25,9 +25,17 @@
 		2D02E4C81E0B4AEC006451C7 /* libRCTWebSocket-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3E991DF850E9000B6D8A /* libRCTWebSocket-tvOS.a */; };
 		2DCD954D1E0B4F2C00145EB5 /* MonsterHunterWorldTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* MonsterHunterWorldTests.m */; };
 		623B700A52D43B05E2B7D53B /* libPods-MonsterHunterWorld.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E996E8EF63BB0C15C79CED9 /* libPods-MonsterHunterWorld.a */; };
-		F98394FBCDFB482CA83F93FB /* BuildFile in Resources */ = {isa = PBXBuildFile; };
+		F98394FBCDFB482CA83F93FB /* (null) in Resources */ = {isa = PBXBuildFile; };
 		FB0ACBDA2035700900D499B2 /* main.jsbundle in Resources */ = {isa = PBXBuildFile; fileRef = FB0ACBB32035700900D499B2 /* main.jsbundle */; };
 		FB6F07B62035E79B009E7F80 /* assets in Resources */ = {isa = PBXBuildFile; fileRef = FB6F07B52035E79A009E7F80 /* assets */; };
+		FBEC002C2327FE8D00CEB9B7 /* RNGADBannerViewManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FBECFFF92327FE8C00CEB9B7 /* RNGADBannerViewManager.m */; };
+		FBEC002D2327FE8D00CEB9B7 /* RNAdMobUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = FBEC001E2327FE8D00CEB9B7 /* RNAdMobUtils.m */; };
+		FBEC002E2327FE8D00CEB9B7 /* RNDFPBannerViewManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FBEC00202327FE8D00CEB9B7 /* RNDFPBannerViewManager.m */; };
+		FBEC002F2327FE8D00CEB9B7 /* RNAdMobInterstitial.m in Sources */ = {isa = PBXBuildFile; fileRef = FBEC00242327FE8D00CEB9B7 /* RNAdMobInterstitial.m */; };
+		FBEC00302327FE8D00CEB9B7 /* RNDFPBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = FBEC00252327FE8D00CEB9B7 /* RNDFPBannerView.m */; };
+		FBEC00312327FE8D00CEB9B7 /* RNAdMobRewarded.m in Sources */ = {isa = PBXBuildFile; fileRef = FBEC00262327FE8D00CEB9B7 /* RNAdMobRewarded.m */; };
+		FBEC00322327FE8D00CEB9B7 /* RNGADBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = FBEC00282327FE8D00CEB9B7 /* RNGADBannerView.m */; };
+		FBEC00332327FE8D00CEB9B7 /* RCTConvert+GADAdSize.m in Sources */ = {isa = PBXBuildFile; fileRef = FBEC002A2327FE8D00CEB9B7 /* RCTConvert+GADAdSize.m */; };
 		FBF8C8D920FC641A0003500E /* logo_black.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FBF8C8D820FC64190003500E /* logo_black.jpg */; };
 /* End PBXBuildFile section */
 
@@ -337,6 +345,22 @@
 		F816474B50384504A575887C /* libz.tbd */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
 		FB0ACBB32035700900D499B2 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = main.jsbundle; path = MonsterHunterWorld/main.jsbundle; sourceTree = "<group>"; };
 		FB6F07B52035E79A009E7F80 /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; name = assets; path = ../assets; sourceTree = "<group>"; };
+		FBEC001D2327FE8D00CEB9B7 /* RNAdMobUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNAdMobUtils.h; path = "../node_modules/react-native-admob/ios/RNAdMobUtils.h"; sourceTree = "<group>"; };
+		FBEC001E2327FE8D00CEB9B7 /* RNAdMobUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNAdMobUtils.m; path = "../node_modules/react-native-admob/ios/RNAdMobUtils.m"; sourceTree = "<group>"; };
+		FBEC001F2327FE8D00CEB9B7 /* RCTConvert+GADAdSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "RCTConvert+GADAdSize.h"; path = "../node_modules/react-native-admob/ios/RCTConvert+GADAdSize.h"; sourceTree = "<group>"; };
+		FBEC00202327FE8D00CEB9B7 /* RNDFPBannerViewManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNDFPBannerViewManager.m; path = "../node_modules/react-native-admob/ios/RNDFPBannerViewManager.m"; sourceTree = "<group>"; };
+		FBEC00212327FE8D00CEB9B7 /* RNGADBannerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNGADBannerView.h; path = "../node_modules/react-native-admob/ios/RNGADBannerView.h"; sourceTree = "<group>"; };
+		FBEC00222327FE8D00CEB9B7 /* RNGADBannerViewManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNGADBannerViewManager.h; path = "../node_modules/react-native-admob/ios/RNGADBannerViewManager.h"; sourceTree = "<group>"; };
+		FBEC00232327FE8D00CEB9B7 /* RNDFPBannerViewManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNDFPBannerViewManager.h; path = "../node_modules/react-native-admob/ios/RNDFPBannerViewManager.h"; sourceTree = "<group>"; };
+		FBEC00242327FE8D00CEB9B7 /* RNAdMobInterstitial.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNAdMobInterstitial.m; path = "../node_modules/react-native-admob/ios/RNAdMobInterstitial.m"; sourceTree = "<group>"; };
+		FBEC00252327FE8D00CEB9B7 /* RNDFPBannerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNDFPBannerView.m; path = "../node_modules/react-native-admob/ios/RNDFPBannerView.m"; sourceTree = "<group>"; };
+		FBEC00262327FE8D00CEB9B7 /* RNAdMobRewarded.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNAdMobRewarded.m; path = "../node_modules/react-native-admob/ios/RNAdMobRewarded.m"; sourceTree = "<group>"; };
+		FBEC00272327FE8D00CEB9B7 /* RNDFPBannerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNDFPBannerView.h; path = "../node_modules/react-native-admob/ios/RNDFPBannerView.h"; sourceTree = "<group>"; };
+		FBEC00282327FE8D00CEB9B7 /* RNGADBannerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNGADBannerView.m; path = "../node_modules/react-native-admob/ios/RNGADBannerView.m"; sourceTree = "<group>"; };
+		FBEC00292327FE8D00CEB9B7 /* RNAdMobInterstitial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNAdMobInterstitial.h; path = "../node_modules/react-native-admob/ios/RNAdMobInterstitial.h"; sourceTree = "<group>"; };
+		FBEC002A2327FE8D00CEB9B7 /* RCTConvert+GADAdSize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "RCTConvert+GADAdSize.m"; path = "../node_modules/react-native-admob/ios/RCTConvert+GADAdSize.m"; sourceTree = "<group>"; };
+		FBEC002B2327FE8D00CEB9B7 /* RNAdMobRewarded.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNAdMobRewarded.h; path = "../node_modules/react-native-admob/ios/RNAdMobRewarded.h"; sourceTree = "<group>"; };
+		FBECFFF92327FE8C00CEB9B7 /* RNGADBannerViewManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNGADBannerViewManager.m; path = "../node_modules/react-native-admob/ios/RNGADBannerViewManager.m"; sourceTree = "<group>"; };
 		FBF8C8D820FC64190003500E /* logo_black.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = logo_black.jpg; path = MonsterHunterWorld/logo_black.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -461,6 +485,22 @@
 		13B07FAE1A68108700A75B9A /* MonsterHunterWorld */ = {
 			isa = PBXGroup;
 			children = (
+				FBEC001F2327FE8D00CEB9B7 /* RCTConvert+GADAdSize.h */,
+				FBEC002A2327FE8D00CEB9B7 /* RCTConvert+GADAdSize.m */,
+				FBEC00292327FE8D00CEB9B7 /* RNAdMobInterstitial.h */,
+				FBEC00242327FE8D00CEB9B7 /* RNAdMobInterstitial.m */,
+				FBEC002B2327FE8D00CEB9B7 /* RNAdMobRewarded.h */,
+				FBEC00262327FE8D00CEB9B7 /* RNAdMobRewarded.m */,
+				FBEC001D2327FE8D00CEB9B7 /* RNAdMobUtils.h */,
+				FBEC001E2327FE8D00CEB9B7 /* RNAdMobUtils.m */,
+				FBEC00272327FE8D00CEB9B7 /* RNDFPBannerView.h */,
+				FBEC00252327FE8D00CEB9B7 /* RNDFPBannerView.m */,
+				FBEC00232327FE8D00CEB9B7 /* RNDFPBannerViewManager.h */,
+				FBEC00202327FE8D00CEB9B7 /* RNDFPBannerViewManager.m */,
+				FBEC00212327FE8D00CEB9B7 /* RNGADBannerView.h */,
+				FBEC00282327FE8D00CEB9B7 /* RNGADBannerView.m */,
+				FBEC00222327FE8D00CEB9B7 /* RNGADBannerViewManager.h */,
+				FBECFFF92327FE8C00CEB9B7 /* RNGADBannerViewManager.m */,
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.m */,
@@ -1077,7 +1117,7 @@
 				FB6F07B62035E79B009E7F80 /* assets in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-				F98394FBCDFB482CA83F93FB /* BuildFile in Resources */,
+				F98394FBCDFB482CA83F93FB /* (null) in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1160,6 +1200,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FBEC00332327FE8D00CEB9B7 /* RCTConvert+GADAdSize.m in Sources */,
+				FBEC00302327FE8D00CEB9B7 /* RNDFPBannerView.m in Sources */,
+				FBEC002C2327FE8D00CEB9B7 /* RNGADBannerViewManager.m in Sources */,
+				FBEC002D2327FE8D00CEB9B7 /* RNAdMobUtils.m in Sources */,
+				FBEC002E2327FE8D00CEB9B7 /* RNDFPBannerViewManager.m in Sources */,
+				FBEC002F2327FE8D00CEB9B7 /* RNAdMobInterstitial.m in Sources */,
+				FBEC00322327FE8D00CEB9B7 /* RNGADBannerView.m in Sources */,
+				FBEC00312327FE8D00CEB9B7 /* RNAdMobRewarded.m in Sources */,
 				13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
 			);
