@@ -39,6 +39,13 @@ let monsterMaterials = [{
     'maxCapacity': '99',
     'howToGet': 'Defeat Ancient Leshen in Contract: Woodland Spirit event quest.'
 }, {
+    'name': 'Ancient Fragment',
+    'icon': require('./assets/items/unknown_grey.png'),
+    'description': 'A metal scrap the Tailraider Safari found on a monster rank outing. Hard enough to be useful for...something?',
+    'rarity': '9',
+    'value': '540',
+    'maxCapacity': '99',
+},{
     'name': 'Ancient Leshen Antlers',
     'icon': require('./assets/items/claw_green.png'),
     'description': 'Rare ancient leshen material. Huge, solemn antlers that inspire fear in other creatures.',
@@ -77,6 +84,13 @@ let monsterMaterials = [{
     'value': '2060',
     'maxCapacity': '99',
 }, {
+    'name': 'Anjanath Fur',
+    'icon': require('./assets/items/hide_red.png'),
+    'description': 'Very rare Anjanath material. Mostly obtained as a reward. highly heat-resistant, used to craft gear.',
+    'rarity': '9',
+    'value': '3260',
+    'maxCapacity': '99',
+},{
     'name': 'Anjanath Gem',
     'icon': require('./assets/items/gem_red.png'),
     'description': 'A rare gem said to have formed within Anjanath tissue. Used to dramatically improve gear.',
@@ -84,6 +98,27 @@ let monsterMaterials = [{
     'value': '6000',
     'maxCapacity': '99',
 }, {
+    'name': 'Anjanath Hardfang',
+    'icon': require('./assets/items/claw_red.png'),
+    'description': 'Very rare Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.',
+    'rarity': '9',
+    'value': '4360',
+    'maxCapacity': '99',
+}, {
+    'name': 'Anjanath Lash',
+    'icon': require('./assets/monster_materials/anjanath-tail.jpg'),
+    'description': 'Very rare Anjanath material. Obtained by carving its severed tail. Stiff, used to craft gear.',
+    'rarity': '9',
+    'value': '4420',
+    'maxCapacity': '99',
+}, {
+    'name': 'Anjanath Mantle',
+    'icon': require('./assets/items/mantle_red.png'),
+    'description': 'Very rare Anjanath material. Used to craft weapons powerful enough to take over the world.',
+    'rarity': '11',
+    'value': '12000',
+    'maxCapacity': '99',
+},{
     'name': 'Anjanath Nosebone',
     'icon': require('./assets/items/bone_red.png'),
     'description': 'Anjanath material. Obtained by breaking its head. Unusual and difficult to handle.',
@@ -133,6 +168,13 @@ let monsterMaterials = [{
     'value': '1060',
     'maxCapacity': '99',
 }, {
+    'name': 'Anjanath Shard',
+    'icon': require('./assets/items/scale_red.png'),
+    'description': 'Very rare Anjanath material. Mostly obtained by carving. Broadly used for many purposes.',
+    'rarity': '9',
+    'value': '2160',
+    'maxCapacity': '99',
+},{
     'name': 'Anjanath Tail',
     'icon': require('./assets/monster_materials/anjanath-tail.jpg'),
     'description': 'Anjanath material. Obtained by carving its severed tail. Stiff, used to craft gear.',
@@ -140,6 +182,13 @@ let monsterMaterials = [{
     'value': '860',
     'maxCapacity': '99',
 }, {
+    'name': 'Anteka Antler',
+    'icon': require('./assets/items/claw_white.png'),
+    'description': 'Very rare Anteka material. Obtained by carving. Used for many purposes.',
+    'rarity': '9',
+    'value': '460',
+    'maxCapacity': '99',
+},{
     'name': 'Appreciation Ticket',
     'icon': require('./assets/items/paper_yellow.png'),
     'description': 'A ticket your receive for attending the Appreciation Fest. Can be exchanged for special equipment or fireworks.',
@@ -162,7 +211,7 @@ let monsterMaterials = [{
     'value': '400',
     'maxCapacity': '99',
     'howToGet': 'Mining Outcrops in Coral Highlands (around sector 10)',
-}, {
+},{
     'name': 'Autumn Harvest Ticket',
     'icon': require('./assets/items/paper_orange.png'),
     'description': 'A ticket you receive for attending the Autumn Harvest Fest. Can be exchanged for special equipment or fireworks.',
@@ -214,6 +263,83 @@ let monsterMaterials = [{
     'maxCapacity': '99',
     'howToGet': 'Complete Quest USJ: Gold Star Treatment (watch this Reddit thread: https://www.reddit.com/r/MonsterHunter/comments/84hv2y/hosting_usj_quest_daily/)'
 }, {
+    'name': 'Banbaro Chine',
+    'icon': require('./assets/items/monster_yellow.png'),
+    'description': 'Very rare Banbaro material. Mostly obtained as a reward. Solid, used to craft gear.',
+    'rarity': '9',
+    'value': '2240',
+    'maxCapacity': '99',
+}, {
+    'name': 'Banbaro Coin',
+    'icon': require('./assets/items/coin_orange.png'),
+    'description': 'A coin given to those who have bested a Banbaro in the master rank Arena.',
+    'rarity': '9',
+    'value': '1200',
+    'maxCapacity': '99',
+}, {
+    'name': 'Banbaro Cortex',
+    'icon': require('./assets/monster_materials/barroth-carapace.jpg'),
+    'description': 'Very rare Banbaro material. Mostly obtained by carving. Broadly used for many purposes.',
+    'rarity': '9',
+    'value': '1540',
+    'maxCapacity': '99',
+}, {
+    'name': 'Banbaro Great Horn',
+    'icon': require('./assets/items/claw_yellow.png'),
+    'description': 'Very rare Banbaro material. Obtained by breaking its horns. Stout, used in many weapons.',
+    'rarity': '9',
+    'value': '2940',
+    'maxCapacity': '99',
+}, {
+    'name': 'Banbaro Lash',
+    'icon': require('./assets/monster_materials/barroth-tail.jpg'),
+    'description': 'Very rare Banbaro material. Obtained by carving its severed tail. Stiff, used to craft gear.',
+    'rarity': '9',
+    'value': '3220',
+    'maxCapacity': '99',
+}, {
+    'name': 'Barioth Cortex',
+    'icon': require('./assets/monster_materials/radobaan-shell.jpg'),
+    'description': 'Very rare Barioth material. Mostly obtained by carving. Solid, used to craft gear.',
+    'rarity': '10',
+    'value': '2910',
+    'maxCapacity': '99',
+}, {
+    'name': 'Barioth Greatspike',
+    'icon': require('./assets/items/monster_white.png'),
+    'description': 'Very rare Barioth material. Obtained by breaking its wings. Tough, used in many weapons.',
+    'rarity': '10',
+    'value': '6020',
+    'maxCapacity': '99',
+}, {
+    'name': 'Barioth Hardclaw',
+    'icon': require('./assets/items/claw_white.png'),
+    'description': 'Very rare Barioth material. Obtained as a reward and by carving. Sharp, used in many weapons.',
+    'rarity': '10',
+    'value': '5910',
+    'maxCapacity': '99',
+}, {
+    'name': 'Barioth Lash',
+    'icon': require('./assets/monster_materials/bazelgeuse-tail.jpg'),
+    'description': 'Very rare Barioth material. Obtained by carving its severed tail. Stiff, used to craft gear.',
+    'rarity': '10',
+    'value': '6130',
+    'maxCapacity': '99',
+}, {
+    'name': 'Barioth Thickfur',
+    'icon': require('./assets/items/hide_white.png'),
+    'description': 'Very rare Barioth material. Mostly obtained as a reward. Broadly usedfor many purposes.',
+    'rarity': '10',
+    'value': '4410',
+    'maxCapacity': '99',
+}, {
+    'name': 'Barnos Hardclaw',
+    'icon': require('./assets/items/claw_yellow.png'),
+    'description': 'Very rare Barnos material. Obtained by carving. Unusual, used in select gear.',
+    'rarity': '9',
+    'value': '2280',
+    'maxCapacity': '99',
+},{
     'name': 'Barnos Hide+',
     'icon': require('./assets/items/hide_yellow.png'),
     'description': 'Rare Barnos material. Obtained by carving. Supple, used to craft gear.',
@@ -235,6 +361,13 @@ let monsterMaterials = [{
     'value': '870',
     'maxCapacity': '99',
 }, {
+    'name': 'Barroth Chine',
+    'icon': require('./assets/items/monster_orange.png'),
+    'description': 'Very rare Barroth material. Mostly obtained as a reward. Solid, used to craft gear.',
+    'rarity': '9',
+    'value': '2170',
+    'maxCapacity': '99',
+},{
     'name': 'Barroth Claw',
     'icon': require('./assets/items/claw_orange.png'),
     'description': 'Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.',
@@ -256,6 +389,27 @@ let monsterMaterials = [{
     'value': '800',
     'maxCapacity': '99',
 }, {
+    'name': 'Barroth Cortex',
+    'icon': require('./assets/monster_materials/barroth-shell.jpg'),
+    'description': 'Very rare Barroth material. Mostly obtained by carving. Broadly used for many purposes.',
+    'rarity': '9',
+    'value': '1470',
+    'maxCapacity': '99',
+}, {
+    'name': 'Barroth Crown',
+    'icon': require('./assets/monster_materials/barroth-scalp.jpg'),
+    'description': 'Very rare Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.',
+    'rarity': '9',
+    'value': '2870',
+    'maxCapacity': '99',
+}, {
+    'name': 'Barroth Lash',
+    'icon': require('./assets/monster_materials/barroth-tail.jpg'),
+    'description': '',
+    'rarity': '',
+    'value': '',
+    'maxCapacity': '99',
+},{
     'name': 'Barroth Ridge',
     'icon': require('./assets/items/monster_orange.png'),
     'description': 'Barroth material. Mostly obtained as a reward. Solid, used to craft gear.',
@@ -291,6 +445,13 @@ let monsterMaterials = [{
     'value': '800',
     'maxCapacity': '99',
 }, {
+    'name': 'Bathycite Ore',
+    'icon': require('./assets/items/ore_red.png'),
+    'description': 'Ore from Coral Highlands. Formed by millennia of pressure acting upon the bones of ancient organisms.',
+    'rarity': '9',
+    'value': '1620',
+    'maxCapacity': '99',
+},{
     'name': 'Bazelgeuse Carapace',
     'icon': require('./assets/monster_materials/bazelgeuse-carapace.jpg'),
     'description': 'Rare Bazelgeuse material. Mostly obtained as a reward. Solid, used to craft gear.',
@@ -375,6 +536,34 @@ let monsterMaterials = [{
     'value': '12000',
     'maxCapacity': '99',
 }, {
+    'name': 'Beotodus Cortex',
+    'icon': require('./assets/monster_materials/beotodus-cortex.jpg'),
+    'description': 'Very rare Beotodus material. Mostly obtained as a reward. Hardly, used to craft gear.',
+    'rarity': '9',
+    'value': '2230',
+    'maxCapacity': '99',
+}, {
+    'name': 'Beotodus Grandfin',
+    'icon': require('./assets/items/monster_blue.png'),
+    'description': 'Very rare Beotodus material. Obtained by breaking its back. Used for many purposes.',
+    'rarity': '9',
+    'value': '3190',
+    'maxCapacity': '99',
+}, {
+    'name': 'Beotodus Hardhorn',
+    'icon': require('./assets/items/claw_blue.png'),
+    'description': 'Very rare Beotodus material. Obtained by breaking its head. Sharp, used in many weapons.',
+    'rarity': '9',
+    'value': '2930',
+    'maxCapacity': '99',
+}, {
+    'name': 'Beotodus Shard',
+    'icon': require('./assets/items/scale_blue.png'),
+    'description': 'Very rare Beotodus material. Mostly obtained by carving. Used for many purposes.',
+    'rarity': '9',
+    'value': '1530',
+    'maxCapacity': '99',
+},{
     'name': 'Bird Wyvern Gem',
     'icon': require('./assets/items/gem_blue.png'),
     'description': 'A valuable gem that can be harvested from bird wyverns. Said to fetch a high price on the market.',
@@ -390,6 +579,13 @@ let monsterMaterials = [{
     'maxCapacity': '99',
     'howToGet': 'Complete Event Quest: Scrapping with the Shamos.'
 }, {
+    'name': 'Black Belt Coin',
+    'icon': require('./assets/items/coin_white.png'),
+    'description': 'A black coin with an abyssal gleam awarded to those who complete master rank Arena quests.',
+    'rarity': '9',
+    'value': '1500',
+    'maxCapacity': '99',
+},{
     'name': 'Black Crystal Ticket',
     'icon': require('./assets/items/paper_white.png'),
     'description': 'A ticket you can trade for a crystal that emits a darkness-sucking light. Not obtainable by normal means.',
@@ -426,6 +622,13 @@ let monsterMaterials = [{
     'value': '3040',
     'maxCapacity': '99',
 }, {
+    'name': 'Boa Boa Ticket',
+    'icon': require('./assets/items/paper_yellow.png'),
+    'description': 'Proof of friendship with the Lynians of the Hoarfrost Reach. Show it to the smithy and see what happens!',
+    'rarity': '9',
+    'value': '500',
+    'maxCapacity': '99',
+},{
     'name': 'Boulder Bone',
     'icon': require('./assets/items/bone_bright_yellow.png'),
     'description': 'A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.',
@@ -489,6 +692,13 @@ let monsterMaterials = [{
     'maxCapacity': '99',
     'howToGet': 'Complete the Optional Quest: Redefining the "Power Couple"'
 }, {
+    'name': 'Conflagrant Sac',
+    'icon': require('./assets/items/sac_red.png'),
+    'description': 'A monster organ that contains highly volatile and extremely explosive powder. Exquisitely dangerous.',
+    'rarity': '9',
+    'value': '3400',
+    'maxCapacity': '99',
+},{
     'name': 'Coral Bone',
     'icon': require('./assets/items/bone_red.png'),
     'description': 'A bone used as crafting material. Can be found in bonepiles in the Coral Highlands. Its size evokes a certain primal quality.',
@@ -504,6 +714,48 @@ let monsterMaterials = [{
     'value': '600',
     'maxCapacity': '99',
 }, {
+    'name': 'Coral Pukei-Pukei Cortex',
+    'icon': require('./assets/monster_materials/coral-pukei-pukei-cortex.jpg'),
+    'description': 'Very rare Coral Pukei-Pukei material. Mostly obtained as a reward Solid, used to craft gear.',
+    'rarity': '9',
+    'value': '3360',
+    'maxCapacity': '99',
+}, {
+    'name': 'Coral Pukei-Pukei Fellwing',
+    'icon': require('./assets/monster_materials/coral-pukei-pukei-fellwing.jpg'),
+    'description': 'Very rare Coral Pukei-Pukei material. Obtained by breaking its wings. used for many purposes.',
+    'rarity': '9',
+    'value': '4460',
+    'maxCapacity': '99',
+}, {
+    'name': 'Coral Pukei-Pukei Lash',
+    'icon': require('./assets/monster_materials/coral-pukei-pukei-lash.jpg'),
+    'description': 'Very rare Coral Pukei-Pukei material. Obtained by carving its severed tail. Unusual, used to craft gear.',
+    'rarity': '9',
+    'value': '4380',
+    'maxCapacity': '99',
+}, {
+    'name': 'Coral Pukei-Pukei Shard',
+    'icon': require('./assets/items/scale_orange.png'),
+    'description': 'Very rare Coral Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes.',
+    'rarity': '9',
+    'value': '2340',
+    'maxCapacity': '99',
+}, {
+    'name': 'Cortos Hardclaw',
+    'icon': require('./assets/items/claw_light_blue.png'),
+    'description': 'Very rare Cortos material. Obtained by carving. Unusual, used in select gear.',
+    'rarity': '9',
+    'value': '1450',
+    'maxCapacity': '99',
+}, {
+    'name': 'Cryo Sac',
+    'icon': require('./assets/items/sac_white.png'),
+    'description': 'A monster organ that contains a potent freezing agent. Able to cover a broad area in ice instantaneously.',
+    'rarity': '9',
+    'value': '4200',
+    'maxCapacity': '99',
+},{
     'name': 'Cursed Bone',
     'icon': require('./assets/items/monster_green.png'),
     'description': 'Rare material. The bone of a creature that fell prey to a leshen\'s cunning cruelty.',
@@ -560,6 +812,13 @@ let monsterMaterials = [{
     'value': '4300',
     'maxCapacity': '99',
 }, {
+    'name': 'Deadly Poison Sac',
+    'icon': require('./assets/items/sac_light_blue.png'),
+    'description': '',
+    'rarity': '',
+    'value': '',
+    'maxCapacity': '99',
+},{
     'name': 'Deceased Scale',
     'icon': require('./assets/items/scale_white.png'),
     'description': 'Rare Vaal Hazak material. Mostly obtained by carving. Broadly used for many purposes.',
@@ -673,6 +932,13 @@ let monsterMaterials = [{
     'value': '1240',
     'maxCapacity': '99',
 }, {
+    'name': 'Dodogama Hardclaw',
+    'icon': require('./assets/items/claw_blue.png'),
+    'description': 'Very rare Dodogama material. Obtained by breakings its forelegs. Heavy, used in many weapons.',
+    'rarity': '9',
+    'value': '3040',
+    'maxCapacity': '99',
+},{
     'name': 'Dodogama Hide+',
     'icon': require('./assets/items/hide_blue.png'),
     'description': 'Rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear.',
@@ -687,6 +953,20 @@ let monsterMaterials = [{
     'value': '2120',
     'maxCapacity': '99'
 }, {
+    'name': 'Dodogama Lash',
+    'icon': require('./assets/monster_materials/dodogama-tail.jpg'),
+    'description': '',
+    'rarity': '',
+    'value': '',
+    'maxCapacity': '99',
+}, {
+    'name': 'Dodogama Mandible',
+    'icon': require('./assets/monster_materials/dodogama-jaw.jpg'),
+    'description': 'Very rare Dodogama material. Obtained by breakings its head. Unusual and difficult to handle.',
+    'rarity': '9',
+    'value': '3280',
+    'maxCapacity': '99',
+},{
     'name': 'Dodogama Scale+',
     'icon': require('./assets/items/scale_blue.png'),
     'description': 'Rare Dodogama material. Mostly obtained by carving. Broadly used for many purposes.',
@@ -694,6 +974,13 @@ let monsterMaterials = [{
     'value': '1030',
     'maxCapacity': '99',
 }, {
+    'name': 'Dodogama Shard',
+    'icon': require('./assets/items/scale_blue.png'),
+    'description': 'Very rare Dodogama material. Mostly obtained by carving. Broadly used for many purposes.',
+    'rarity': '9',
+    'value': '1520',
+    'maxCapacity': '99',
+},{
     'name': 'Dodogama Tail',
     'icon': require('./assets/monster_materials/dodogama-tail.jpg'),
     'description': 'Rare Dodogama material. Obtained by carving its severed tail. Tough, used in many weapons.',
@@ -708,6 +995,13 @@ let monsterMaterials = [{
     'value': '2060',
     'maxCapacity': '99',
 }, {
+    'name': 'Dodogama Thickhide',
+    'icon': require('./assets/items/hide_blue.png'),
+    'description': 'Very rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear.',
+    'rarity': '9',
+    'value': '2220',
+    'maxCapacity': '99',
+},{
     'name': 'Downy Crake Ticket',
     'icon': require('./assets/items/paper_white.png'),
     'description': 'A ticket with a pair of Downy Crakes drawn on it. Redeem at the Smithy for something nice!?',
@@ -715,6 +1009,13 @@ let monsterMaterials = [{
     'value': '400',
     'maxCapacity': '99',
 }, {
+    'name': 'Dragonbone Artifact',
+    'icon': require('./assets/items/bone_purple.png'),
+    'description': 'A very rare bone from bonepiles. Evidence of an unknown elder dragon that once ruled the land.',
+    'rarity': '10',
+    'value': '2000',
+    'maxCapacity': '99',
+},{
     'name': 'Dragonbone Relic',
     'icon': require('./assets/items/bone_white.png'),
     'description': 'A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.',
@@ -739,6 +1040,13 @@ let monsterMaterials = [{
     'maxCapacity': '99',
     'howToGet': 'Red Mining Outcrops in Wildspire Waste.'
 }, {
+    'name': 'Dragonvein Coal',
+    'icon': require('./assets/items/ore_orange.png'),
+    'description': 'Special coal that contains the earth\'s energy within. Prized as fuel at the Commission\'s new base.',
+    'rarity': '5',
+    'value': '600',
+    'maxCapacity': '99',
+},{
     'name': 'Dragonvein Crystal',
     'icon': require('./assets/items/ore_red.png'),
     'description': 'Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.',
@@ -747,6 +1055,20 @@ let monsterMaterials = [{
     'maxCapacity': '99',
     'howToGet': 'Red Mining Outcrops in Wildspire Waste / Coral Highlands.'
 }, {
+    'name': 'Dragonvein Shard',
+    'icon': require('./assets/items/ore_white.png'),
+    'description': 'The leavings of special coal that contains the earth\'s energy within. Even these scrapes make fine fuel.',
+    'rarity': '4',
+    'value': '300',
+    'maxCapacity': '99',
+}, {
+    'name': 'Dragonvein Solidbone',
+    'icon': require('./assets/items/bone_yellow.png'),
+    'description': 'Bone obtained from large monsters in the Guiding Lands. Strong as steel after absorbing earthen energy.',
+    'rarity': '10',
+    'value': '3000',
+    'maxCapacity': '99',
+},{
     'name': 'Dreamcore Ore',
     'icon': require('./assets/items/round_ore_blue.png'),
     'description': 'A valuable mineral used to create charms. Gives off a blazing glow reminiscent of a bonfire.',
@@ -784,6 +1106,13 @@ let monsterMaterials = [{
     'value': '1000',
     'maxCapacity': '99',
 }, {
+    'name': 'Eltalite Ore',
+    'icon': require('./assets/items/ore_red.png'),
+    'description': 'Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite.',
+    'rarity': '9',
+    'value': '1280',
+    'maxCapacity': '99',
+},{
     'name': 'Faux Ticket',
     'icon': require('./assets/items/paper_yellow.png'),
     'description': 'A ticket with a Mosswine and Felyne drawn on it. Redeem at the Resource Center for something nice!?',
@@ -815,6 +1144,13 @@ let monsterMaterials = [{
     'value': '390',
     'maxCapacity': '99',
 }, {
+    'name': 'Fey Wyvern Gem',
+    'icon': require('./assets/items/gem_blue.png'),
+    'description': 'An exceptionally pure gem taken from a bird wyvern. Its fragility makes it difficult to carve.',
+    'rarity': '9',
+    'value': '8000',
+    'maxCapacity': '99',
+},{
     'name': 'Firecell Stone',
     'icon': require('./assets/items/ore_yellow.png'),
     'description': 'A magma-like deposit that only trained hands can work with. Armor made from it is first-class.',
@@ -844,6 +1180,13 @@ let monsterMaterials = [{
     'value': '800',
     'maxCapacity': '99',
 }, {
+    'name': 'Flood Sac',
+    'icon': require('./assets/items/sac_light_blue.png'),
+    'description': 'A monster organ designed to hold and preserve tremendous amounts of water.',
+    'rarity': '9',
+    'value': '3400',
+    'maxCapacity': '99',
+},{
     'name': 'Flying Coin',
     'icon': require('./assets/items/coin_yellow.png'),
     'description': 'A coin given to those who have bested multiple flying wyverns at the same time in the Arena.',
@@ -866,6 +1209,13 @@ let monsterMaterials = [{
     'value': '1000',
     'maxCapacity': '99',
 }, {
+    'name': 'Frozen Bone',
+    'icon': require('./assets/items/bone_blue.png'),
+    'description': 'A bone found in bonepiles in the Hoarfrost Reach. Tempered by years of the tundra\'s unrelenting cold.',
+    'rarity': '9',
+    'value': '2400',
+    'maxCapacity': '99',
+},{
     'name': 'Fucium Ore',
     'icon': require('./assets/items/ore_red.png'),
     'description': 'Ore obtained from the Elder\'s Recess. A mysterious metal, capable of fusing nearly any two materials together.',
@@ -874,6 +1224,41 @@ let monsterMaterials = [{
     'maxCapacity': '99',
     'howToGet': 'Mining Outcrops in Elder\'s Recess.'
 }, {
+    'name': 'Fulgur Anjanath Hardfang',
+    'icon': require('./assets/items/claw_white.png'),
+    'description': 'Very rare Fulgur Anjanath material. Obtained by breaking its head. Used in many weapons.',
+    'rarity': '10',
+    'value': '5900',
+    'maxCapacity': '99',
+}, {
+    'name': 'Fulgur Anjanath Lash',
+    'icon': require('./assets/monster_materials/bazelgeuse-tail.jpg'),
+    'description': 'Very rare Fulgur Anjanath material. Obtained by carving its severed tail. Used to craft gear.',
+    'rarity': '10',
+    'value': '6000',
+    'maxCapacity': '99',
+}, {
+    'name': 'Fulgur Anjanath Mantle',
+    'icon': require('./assets/items/mantle_white.png'),
+    'description': '',
+    'rarity': '',
+    'value': '',
+    'maxCapacity': '99',
+}, {
+    'name': 'Fulgur Anjanath Shard',
+    'icon': require('./assets/items/scale_white.png'),
+    'description': 'Very rare Fulgur Anjanath material. Mostly obtained by carving. Broadly used for many purposes.',
+    'rarity': '10',
+    'value': '2900',
+    'maxCapacity': '99',
+}, {
+    'name': 'Fulgur Anjanath Thickfur',
+    'icon': require('./assets/items/hide_white.png'),
+    'description': 'Very rare Fulgur Anjanath material. Mostly obtained as a reward. Used to craft gear.',
+    'rarity': '10',
+    'value': '4400',
+    'maxCapacity': '99',
+},{
     'name': 'Gajalaka Sketch',
     'icon': require('./assets/items/paper_yellow.png'),
     'description': 'Proof of friendship with the Gajalaka tribes of the new continent. Show it to the Smithy and see what happens!',
@@ -897,6 +1282,13 @@ let monsterMaterials = [{
     'value': '99',
     'maxCapacity': '220',
 }, {
+    'name': 'Gajau Thickhide',
+    'icon': require('./assets/items/hide_yellow.png'),
+    'description': 'Very rare Gajau material. Obtained by carving. Water-resistant, used to craft gear.',
+    'rarity': '9',
+    'value': '1680',
+    'maxCapacity': '99',
+},{
     'name': 'Gajau Whisker',
     'icon': require('./assets/items/bone_yellow.png'),
     'description': 'Gajau material. Obtained by carving. Hardy, used to craft gear.',
@@ -961,6 +1353,34 @@ let monsterMaterials = [{
     'value': '460',
     'maxCapacity': '99',
 }, {
+    'name': 'Glavenus Helshell',
+    'icon': require('./assets/monster_materials/glavenus-hellshell.jpg'),
+    'description': 'Very rare Glavenus material. Obtained by breaking its back. Highly heat-resistant, used to craft gear.',
+    'rarity': '10',
+    'value': '6190',
+    'maxCapacity': '99',
+}, {
+    'name': 'Glavenus Mantle',
+    'icon': require('./assets/items/mantle_purple.png'),
+    'description': '',
+    'rarity': '',
+    'value': '',
+    'maxCapacity': '99',
+}, {
+    'name': 'Glavenus Shard',
+    'icon': require('./assets/items/scale_red.png'),
+    'description': 'Very rare Glavenus material. Mostly obtained by carving. Solid, used to craft gear.',
+    'rarity': '10',
+    'value': '2930',
+    'maxCapacity': '99',
+}, {
+    'name': 'Gracium',
+    'icon': require('./assets/items/ore_blue.png'),
+    'description': 'Ore from the Hoarfrost Reach. When the light catches this rare and useful metal it takes on a pale blue shine.',
+    'rarity': '9',
+    'value': '1540',
+    'maxCapacity': '99',
+},{
     'name': 'Grand Gajau Whisker',
     'icon': require('./assets/items/monster_yellow.png'),
     'description': 'Rare Gajau material. Obtained by carving. Hardy used to craft gear.',
@@ -1053,6 +1473,20 @@ let monsterMaterials = [{
     'value': '1620',
     'maxCapacity': '99',
 }, {
+    'name': 'Great Jagras Hardclaw',
+    'icon': require('./assets/items/claw_yellow.png'),
+    'description': 'Very rare Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.',
+    'rarity': '9',
+    'value': '2440',
+    'maxCapacity': '99',
+}, {
+    'name': 'Great Jagras Mane+',
+    'icon': require('./assets/items/monster_yellow.png'),
+    'description': 'Very rare Great Jagras material. Obtained by breaking its head. Used for many purposes.',
+    'rarity': '9',
+    'value': '2480',
+    'maxCapacity': '99',
+},{
     'name': 'Great Jagras Hide',
     'icon': require('./assets/items/hide_yellow.png'),
     'description': 'Great Jagras material. Mostly obtained as a reward. Broadly used for many purposes.',
@@ -1088,6 +1522,34 @@ let monsterMaterials = [{
     'value': '860',
     'maxCapacity': '99',
 }, {
+    'name': 'Great Jagras Shard',
+    'icon': require('./assets/items/scale_yellow.png'),
+    'description': 'Very rare Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.',
+    'rarity': '9',
+    'value': '1320',
+    'maxCapacity': '99',
+}, {
+    'name': 'Great Jagras Thickhide',
+    'icon': require('./assets/items/hide_yellow.png'),
+    'description': 'Very rare Great Jagras material. Mostly obtained as a reward. Supple, used to craft gear.',
+    'rarity': '9',
+    'value': '1840',
+    'maxCapacity': '99',
+}, {
+    'name': 'Heavy Anjanath Nosebone',
+    'icon': require('./assets/items/bone_red.png'),
+    'description': 'Very rare Anjanath material. Obtained by breaking its head. Used in select gear.',
+    'rarity': '9',
+    'value': '4480',
+    'maxCapacity': '99',
+}, {
+    'name': 'Heavy Fulgur Anjanath Nosebone',
+    'icon': require('./assets/items/bone_white.png'),
+    'description': 'Very rare Fulgur Anjanath material. Obtained by breaking its head. Has a unique composition.',
+    'rarity': '10',
+    'value': '6100',
+    'maxCapacity': '99',
+},{
     'name': 'High Commendation',
     'icon': require('./assets/items/paper_orange.png'),
     'description': 'A ticket awarded for demonstrating tremendous courage. Collect them and something wonderful may happen!',
@@ -1124,6 +1586,13 @@ let monsterMaterials = [{
     'value': '660',
     'maxCapacity': '99',
 }, {
+    'name': 'Hornetaur Razorwing',
+    'icon': require('./assets/items/comb_white.png'),
+    'description': 'Very rare Hornetaur material. Light and sharp used in many weapons.',
+    'rarity': '9',
+    'value': '2120',
+    'maxCapacity': '99',
+},{
     'name': 'Hornetaur Shell',
     'icon': require('./assets/items/bug_white.png'),
     'description': 'Hornetaur material. Obtained by carving. Used for many purposes.',
@@ -1195,6 +1664,13 @@ let monsterMaterials = [{
     'value': '340',
     'maxCapacity': '99',
 }, {
+    'name': 'Jagras Shard',
+    'icon': require('./assets/items/scale_yellow.png'),
+    'description': 'Very rare Jagras material. Obtained by carving. Used for many purposes.',
+    'rarity': '9',
+    'value': '960',
+    'maxCapacity': '99',
+},{
     'name': 'Jyuratodus Carapace',
     'icon': require('./assets/items/unknown_yellow.png'),
     'description': 'Rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.',
@@ -1202,6 +1678,13 @@ let monsterMaterials = [{
     'value': '1540',
     'maxCapacity': '99',
 }, {
+    'name': 'Jyuratodus Cortex',
+    'icon': require('./assets/monster_materials/kulve-taroth-golden-shell.jpg'),
+    'description': 'Very rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.',
+    'rarity': '9',
+    'value': '2180',
+    'maxCapacity': '99',
+},{
     'name': 'Jyuratodus Fang',
     'icon': require('./assets/items/claw_yellow.png'),
     'description': 'Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.',
@@ -1230,6 +1713,20 @@ let monsterMaterials = [{
     'value': '2120',
     'maxCapacity': '99',
 }, {
+    'name': 'Jyuratodus Grandfin',
+    'icon': require('./assets/items/monster_yellow.png'),
+    'description': 'Very rare Jyuratodus material. Obtained by breaking its back. Used for many purposes.',
+    'rarity': '9',
+    'value': '3040',
+    'maxCapacity': '99',
+}, {
+    'name': 'Jyuratodus Hardfang',
+    'icon': require('./assets/items/claw_yellow.png'),
+    'description': 'Very rare Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.',
+    'rarity': '9',
+    'value': '2880',
+    'maxCapacity': '99',
+},{
     'name': 'Jyuratodus Scale',
     'icon': require('./assets/items/scale_yellow.png'),
     'description': 'Jyuratodus material. Mostly obtained by carving. Used for many purposes.',
@@ -1244,6 +1741,13 @@ let monsterMaterials = [{
     'value': '1040',
     'maxCapacity': '99',
 }, {
+    'name': 'Jyuratodus Shard',
+    'icon': require('./assets/items/scale_yellow.png'),
+    'description': 'Very rare Jyuratodus material. Mostly obtained by carving. Used for many purposes.',
+    'rarity': '9',
+    'value': '1480',
+    'maxCapacity': '99',
+},{
     'name': 'Jyuratodus Shell',
     'icon': require('./assets/monster_materials/jyuratodus-shell.jpg'),
     'description': 'Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.',
@@ -1258,6 +1762,13 @@ let monsterMaterials = [{
     'value': '430',
     'maxCapacity': '99',
 }, {
+    'name': 'Kestodon Husk',
+    'icon': require('./assets/monster_materials/kestodon-shell.jpg'),
+    'description': 'Very rare Kestodon material. Obtained by carving. Sturdy, used to craft gear.',
+    'rarity': '9',
+    'value': '1320',
+    'maxCapacity': '99',
+},{
     'name': 'Kestodon Scalp',
     'icon': require('./assets/monster_materials/kestodon-scalp.jpg'),
     'description': 'Kestodon material. Obtained by carving. Unusual, used in select gear.',
@@ -1391,6 +1902,20 @@ let monsterMaterials = [{
     'value': '890',
     'maxCapacity': '99',
 }, {
+    'name': 'Kulu-Ya-Ku Shard',
+    'icon': require('./assets/items/scale_yellow.png'),
+    'description': 'Very rare Kulu-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.',
+    'rarity': '9',
+    'value': '1350',
+    'maxCapacity': '99',
+}, {
+    'name': 'Kulu-Ya-Ku Thickhide',
+    'icon': require('./assets/items/hide_yellow.png'),
+    'description': 'Very rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear.',
+    'rarity': '9',
+    'value': '1950',
+    'maxCapacity': '99',
+},{
     'name': 'Kulu-Ya-Ku Ticket',
     'icon': require('./assets/items/paper_yellow.png'),
     'description': 'A ticket given to those who help with Kulu-Ya-Ku research. Includes a very accurate sketch.',
@@ -1455,6 +1980,34 @@ let monsterMaterials = [{
     'value': '800',
     'maxCapacity': '99',
 }, {
+    'name': 'Large Coral Pukei-Pukei Sac',
+    'icon': require('./assets/items/sac_orange.png'),
+    'description': 'Very rare Coral Pukei-Pukei material. Obtained by breaking its head. Grants water element properties.',
+    'rarity': '9',
+    'value': '4540',
+    'maxCapacity': '99',
+}, {
+    'name': 'Large Kulu-Ya-Ku Beak',
+    'icon': require('./assets/monster_materials/uragaan-jaw.jpg'),
+    'description': 'Very rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.',
+    'rarity': '9',
+    'value': '2550',
+    'maxCapacity': '99',
+}, {
+    'name': 'Large Kulu-Ya-Ku Plume',
+    'icon': require('./assets/items/monster_orange.png'),
+    'description': 'Very rare Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.',
+    'rarity': '9',
+    'value': '2500',
+    'maxCapacity': '99',
+}, {
+    'name': 'Large Wyvern Gem',
+    'icon': require('./assets/items/gem_blue.png'),
+    'description': 'A wyvern gem that has grown further over the ages. Emits a mesmerizing shimmer.',
+    'rarity': '9',
+    'value': '8000',
+    'maxCapacity': '99',
+},{
     'name': 'Lava Nugget',
     'icon': require('./assets/items/ore_orange.png'),
     'description': 'A rare conglomerate or ore found growing on an Uragaan. Comprised of various ores, melted together.',
@@ -1504,6 +2057,13 @@ let monsterMaterials = [{
     'value': '2430',
     'maxCapacity': '99',
 }, {
+    'name': 'Legiana Fellwing',
+    'icon': require('./assets/monster_materials/legiana-wing.jpg'),
+    'description': '',
+    'rarity': '',
+    'value': '',
+    'maxCapacity': '99',
+},{
     'name': 'Legiana Gem',
     'icon': require('./assets/items/gem_blue.png'),
     'description': 'A rare gem said to have formed within Legiana tissue. Used to dramatically improve gear.',
@@ -1511,6 +2071,13 @@ let monsterMaterials = [{
     'value': '7200',
     'maxCapacity': '99',
 }, {
+    'name': 'Legiana Hardclaw',
+    'icon': require('./assets/items/claw_blue.png'),
+    'description': '',
+    'rarity': '',
+    'value': '',
+    'maxCapacity': '99',
+},{
     'name': 'Legiana Hide',
     'icon': require('./assets/items/hide_blue.png'),
     'description': 'Legiana material. Mostly obtained as a reward. Solid, used to craft gear.',
@@ -1525,6 +2092,13 @@ let monsterMaterials = [{
     'value': '1830',
     'maxCapacity': '99',
 }, {
+    'name': 'Legiana Mantle',
+    'icon': require('./assets/items/mantle_blue.png'),
+    'description': 'Very rare Legiana material. Used to craft weapons powerful enough to take over the world.',
+    'rarity': '11',
+    'value': '15000',
+    'maxCapacity': '99',
+},{
     'name': 'Legiana Plate',
     'icon': require('./assets/monster_materials/legiana-plate.jpg'),
     'description': 'Legiana material. A valuable find, used to fortify gear. Said to be quite hard to come by.',
@@ -1546,6 +2120,13 @@ let monsterMaterials = [{
     'value': '1230',
     'maxCapacity': '99',
 }, {
+    'name': 'Legiana Shard',
+    'icon': require('./assets/items/scale_blue.png'),
+    'description': 'Very rare Legiana material. Mostly obtained by carving. Broadly used for many purposes.',
+    'rarity': '10',
+    'value': '2840',
+    'maxCapacity': '99',
+},{
     'name': 'Legiana Tail Webbing',
     'icon': require('./assets/monster_materials/legiana-tail-webbing.jpg'),
     'description': 'Legiana material. Obtained by breaking its tail. Supple, used to craft gear.',
@@ -1553,6 +2134,20 @@ let monsterMaterials = [{
     'value': '1160',
     'maxCapacity': '99',
 }, {
+    'name': 'Legiana Tail Webbing+',
+    'icon': require('./assets/monster_materials/legiana-tail-webbing.jpg'),
+    'description': 'Very rare Legiana material. Obtained by breaking its tail. Supple, used to craft gear.',
+    'rarity': '10',
+    'value': '5920',
+    'maxCapacity': '99',
+}, {
+    'name': 'Legiana Thickhide',
+    'icon': require('./assets/items/hide_blue.png'),
+    'description': 'Very rare Legiana material. Mostly obtained as a reward. Lightweight, used to craft gear.',
+    'rarity': '10',
+    'value': '4340',
+    'maxCapacity': '99',
+},{
     'name': 'Legiana Webbing',
     'icon': require('./assets/monster_materials/legiana-webbing.jpg'),
     'description': 'Legiana material. Obtained by breaking its wings. Supple, used to craft gear.',
@@ -1602,6 +2197,13 @@ let monsterMaterials = [{
     'value': '1150',
     'maxCapacity': '99',
 }, {
+    'name': 'Lightning Sac',
+    'icon': require('./assets/items/sac_bright_yellow.png'),
+    'description': 'A monster organ that can store electricity as strong as lightning. It rumbles like thunder.',
+    'rarity': '9',
+    'value': '3400',
+    'maxCapacity': '99',
+},{
     'name': 'Lunastra Carapace',
     'icon': require('./assets/monster_materials/lunastra-carapace.jpg'),
     'description': 'Rare Lunastra material. Mostly obtained as a reward. Solid, used to craft gear.',
@@ -1689,6 +2291,13 @@ let monsterMaterials = [{
     'maxCapacity': '99',
     'howToGet': 'Complete Event Quest: A Rush of Blood'
 }, {
+    'name': 'Meldspar Ore',
+    'icon': require('./assets/items/ore_white.png'),
+    'description': 'Ore often found in the Rotten Vale. Malleable but strong, it is broadly used in creating alloys for crafting.',
+    'rarity': '9',
+    'value': '1920',
+    'maxCapacity': '99',
+},{
     'name': 'Monster Bone+',
     'icon': require('./assets/items/bone_yellow.png'),
     'description': 'Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.',
@@ -1724,6 +2333,13 @@ let monsterMaterials = [{
     'value': '800',
     'maxCapacity': '99',
 }, {
+    'name': 'Monster Essence',
+    'icon': require('./assets/items/potion_blue.png'),
+    'description': 'Material obtained from master rank small insects. The densest, most viscious fluids available. Very icky.',
+    'rarity': '9',
+    'value': '2000',
+    'maxCapacity': '99',
+},{
     'name': 'Monster Fluid',
     'icon': require('./assets/items/potion_light_blue.png'),
     'description': 'Material obtained from small insects. Mixes with insect gastric fluids to form adhesive.',
@@ -1745,6 +2361,20 @@ let monsterMaterials = [{
     'value': '800',
     'maxCapacity': '99',
 }, {
+    'name': 'Monster Slogbone',
+    'icon': require('./assets/items/bone_white.png'),
+    'description': 'Bone obtained from large master rank monsters. Far heavier than its outward appearance would suggest.',
+    'rarity': '10',
+    'value': '2300',
+    'maxCapacity': '99',
+}, {
+    'name': 'Monster Toughbone',
+    'icon': require('./assets/items/bone_crimson.png'),
+    'description': 'Bone obtained from large Master rank monsters. It emits a potent aura of near-limitless potential.',
+    'rarity': '9',
+    'value': '2000',
+    'maxCapacity': '99',
+},{
     'name': 'Mosswine Hide',
     'icon': require('./assets/items/hide_green.png'),
     'description': 'A musty hide covered in moss.',
@@ -1752,6 +2382,55 @@ let monsterMaterials = [{
     'value': '200',
     'maxCapacity': '99',
 }, {
+    'name': 'Nargacuga Blackfur+',
+    'icon': require('./assets/items/hide_white.png'),
+    'description': 'Very rare Nargacuga material. mostly obtained as a reward. Solid, used to craft gear.',
+    'rarity': '10',
+    'value': '4440',
+    'maxCapacity': '99',
+}, {
+    'name': 'Nargacuga Cutwing+',
+    'icon': require('./assets/monster_materials/vaal-hazak-wing.jpg'),
+    'description': 'Very rare Nargacuga material. Obtained by breaking its wings. Sharp, used in many weapons.',
+    'rarity': '10',
+    'value': '5940',
+    'maxCapacity': '99',
+}, {
+    'name': 'Nargacuga Hardfang',
+    'icon': require('./assets/items/claw_white.png'),
+    'description': 'Very rare Nargacuga material. Obtained by breaking its head. Tough, used in many weapons.',
+    'rarity': '10',
+    'value': '6080',
+    'maxCapacity': '99',
+}, {
+    'name': 'Nargacuga Lash',
+    'icon': require('./assets/monster_materials/vaal-hazak-tail.jpg'),
+    'description': 'Very rare Nargacuga material. Obtained by carving its severed tail. Stiff, used to craft gear.',
+    'rarity': '10',
+    'value': '6220',
+    'maxCapacity': '99',
+}, {
+    'name': 'Nargacuga Mantle',
+    'icon': require('./assets/items/mantle_white.png'),
+    'description': 'Very rare Nargacuga material. Used to craft weapons powerful enough to take over the world.',
+    'rarity': '11',
+    'value': '15000',
+    'maxCapacity': '99',
+}, {
+    'name': 'Nargacuga Shard',
+    'icon': require('./assets/items/scale_white.png'),
+    'description': 'Very rare Nargacuga material. Mostly obtained by carving. Solid, used to craft gear.',
+    'rarity': '10',
+    'value': '2940',
+    'maxCapacity': '99',
+}, {
+    'name': 'Nargacuga Tailspear',
+    'icon': require('./assets/items/monster_white.png'),
+    'description': 'Very rare Nargacuga material. Obtained by collecting rare drops. Broadly usedfor many purposes.',
+    'rarity': '10',
+    'value': '6340',
+    'maxCapacity': '99',
+},{
     'name': 'Nekker Card (Armor)',
     'icon': require('./assets/items/paper_blue.png'),
     'description': 'A gift from Geralt to the Endemic Life Researcher. Redeem at the Smithy for a Palico Armor.',
@@ -1815,6 +2494,27 @@ let monsterMaterials = [{
     'description': 'A ticket bearing Nergigante, utter destruction incarnate. Redeem at the Smithy to make novel equipment.',
     'rarity': '8',
     'value': '800',
+    'maxCapacity': '99',
+}, {
+    'name': 'Nightshade Paolumu Fellwing',
+    'icon': require('./assets/monster_materials/nightshade-paolumu-fellwing.jpg'),
+    'description': 'Very rare Nightshade Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.',
+    'rarity': '9',
+    'value': '4400',
+    'maxCapacity': '99',
+}, {
+    'name': 'Nightshade Paolumu Shard',
+    'icon': require('./assets/items/scale_purple.png'),
+    'description': 'Very rare Nightshade Paolumu material. Mostly obtained by carving. Solid, used to craft gear.',
+    'rarity': '9',
+    'value': '2200',
+    'maxCapacity': '99',
+}, {
+    'name': 'Nightshade Paolumu Thickfur',
+    'icon': require('./assets/items/hide_purple.png'),
+    'description': 'Very rare Nightshade Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.',
+    'rarity': '9',
+    'value': '3300',
     'maxCapacity': '99',
 },{
     'name': 'Nora Brave Trophy',
@@ -1931,6 +2631,20 @@ let monsterMaterials = [{
     'value': '2140',
     'maxCapacity': '99',
 }, {
+    'name': 'Paolumu Cortex',
+    'icon': require('./assets/monster_materials/paolumu-shell.jpg'),
+    'description': 'Very rare material from Paolumu and its subspecies Obtained by breaking its tail.',
+    'rarity': '9',
+    'value': '4380',
+    'maxCapacity': '99',
+}, {
+    'name': 'Paolumu Fellwing',
+    'icon': require('./assets/monster_materials/xenojiiva-wing.jpg'),
+    'description': 'Very rare Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.',
+    'rarity': '9',
+    'value': '4340',
+    'maxCapacity': '99',
+},{
     'name': 'Paolumu Pelt',
     'icon': require('./assets/items/hide_white.png'),
     'description': 'Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.',
@@ -1959,6 +2673,13 @@ let monsterMaterials = [{
     'value': '1070',
     'maxCapacity': '99',
 }, {
+    'name': 'Paolumu Shard',
+    'icon': require('./assets/items/scale_white.png'),
+    'description': 'Very rare Paolumu material Obtained by carving. Warm and durable, used to craft gear.',
+    'rarity': '9',
+    'value': '2140',
+    'maxCapacity': '99',
+},{
     'name': 'Paolumu Shell',
     'icon': require('./assets/monster_materials/paolumu-shell.jpg'),
     'description': 'Paolumu material. Obtained by breaking its tail. Used for many purposes.',
@@ -1966,6 +2687,13 @@ let monsterMaterials = [{
     'value': '950',
     'maxCapacity': '99',
 }, {
+    'name': 'Paolumu Thickfur',
+    'icon': require('./assets/items/hide_white.png'),
+    'description': 'Very rare Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.',
+    'rarity': '9',
+    'value': '3240',
+    'maxCapacity': '99',
+},{
     'name': 'Paolumu Webbing',
     'icon': require('./assets/monster_materials/paolumu-webbing.jpg'),
     'description': 'Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.',
@@ -2023,6 +2751,13 @@ let monsterMaterials = [{
     'value': '600',
     'maxCapacity': '99',
 }, {
+    'name': 'Prized Pelt',
+    'icon': require('./assets/items/hide_orange.png'),
+    'description': 'Very rare small monster material. Obtained by carving. Warm and durable, used to craft gear.',
+    'rarity': '9',
+    'value': '1020',
+    'maxCapacity': '99',
+},{
     'name': 'Pukei Coin',
     'icon': require('./assets/items/coin_bright_yellow.png'),
     'description': 'A coin to those who have bested a Pukei-Pukei in the Arena.',
@@ -2323,6 +3058,13 @@ let monsterMaterials = [{
     'maxCapacity': '99',
     'howToGet': 'Complete The White Winds of the New World (reward) or The Sapphire Star\'s Guidance (reward)'
 }, {
+    'name': 'Rich Mud',
+    'icon': require('./assets/items/dung_orange.png'),
+    'description': 'Very rare Barroth material. Obtained by breaking its mud covering. Unusual, used in select gear.',
+    'rarity': '9',
+    'value': '1610',
+    'maxCapacity': '99',
+},{
     'name': 'SFV Ticket',
     'icon': require('./assets/items/paper_white.png'),
     'description': 'A ticket for a special Street Fighter tie-in. Wait...does that mean that legendary fighter is going to...!?',
@@ -2373,6 +3115,13 @@ let monsterMaterials = [{
     'value': '420',
     'maxCapacity': '99',
 }, {
+    'name': 'Shamos Shard',
+    'icon': require('./assets/items/scale_red.png'),
+    'description': 'Very rare Shamos material. Obtained by carving. Used for many purposes.',
+    'rarity': '9',
+    'value': '1580',
+    'maxCapacity': '99',
+},{
     'name': 'Sharp Claw',
     'icon': require('./assets/items/claw_white.png'),
     'description': 'Obtained from small fanged wyverns. Unlike wyvern claws, this is shaped to grip objects.',
@@ -2419,6 +3168,13 @@ let monsterMaterials = [{
     'maxCapacity': '99',
     'howToGet': 'Complete Arena Challenge: Vespoid Infestation!'
 }, {
+    'name': 'Steel Gajau Whisker',
+    'icon': require('./assets/items/monster_yellow.png'),
+    'description': 'Very rare Gajau material. Obtained by carving. Hardy, used to craft gear.',
+    'rarity': '9',
+    'value': '1920',
+    'maxCapacity': '99',
+},{
     'name': 'Sturdy Bone',
     'icon': require('./assets/items/bone_white.png'),
     'description': 'A bone used as crafting material. Can be found in bonepiles in the Coral Highlands and Rotten Vale.',
@@ -2590,6 +3346,13 @@ let monsterMaterials = [{
     'value': '1600',
     'maxCapacity': '99',
 }, {
+    'name': 'Tough Claw',
+    'icon': require('./assets/items/claw_white.png'),
+    'description': 'Material from master rank small fanged wyverns. So sharp and sturdy that it could be used as a weapon.',
+    'rarity': '9',
+    'value': '2000',
+    'maxCapacity': '99',
+},{
     'name': 'Toxin Sac',
     'icon': require('./assets/items/sac_purple.png'),
     'description': 'A monster organ filled with an extremely potent toxin. Just touching it is dangerous.',
@@ -2625,6 +3388,13 @@ let monsterMaterials = [{
     'value': '1640',
     'maxCapacity': '99',
 }, {
+    'name': 'Tzitzi-Ya-Ku Hardclaw',
+    'icon': require('./assets/items/claw_blue.png'),
+    'description': 'Very rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Solid, used to craft gear.',
+    'rarity': '9',
+    'value': '2500',
+    'maxCapacity': '99',
+}, {
     'name': 'Tzitzi-Ya-Ku Hide',
     'icon': require('./assets/items/hide_blue.png'),
     'description': 'Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supply, used to craft gear.',
@@ -2637,6 +3407,13 @@ let monsterMaterials = [{
     'description': 'Rare Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supply, used to craft gear.',
     'rarity': '6',
     'value': '1240',
+    'maxCapacity': '99',
+}, {
+    'name': 'Tzitzi-Ya-Ku Photomembrane',
+    'icon': require('./assets/items/monster_blue.png'),
+    'description': 'Very rare Tzitzi-Ya-Kumaterial obtained by breaking its pulse organs. Used for many purposes.',
+    'rarity': '',
+    'value': '',
     'maxCapacity': '99',
 }, {
     'name': 'Tzitzi-Ya-Ku Photophore',
@@ -2667,6 +3444,27 @@ let monsterMaterials = [{
     'value': '840',
     'maxCapacity': '99',
 }, {
+    'name': 'Tzitzi-Ya-Ku Shard',
+    'icon': require('./assets/items/scale_blue.png'),
+    'description': 'Very rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.',
+    'rarity': '',
+    'value': '',
+    'maxCapacity': '99',
+}, {
+    'name': 'Tzitzi-Ya-Ku Thickhide',
+    'icon': require('./assets/items/hide_blue.png'),
+    'description': 'Very rare Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear.',
+    'rarity': '',
+    'value': '',
+    'maxCapacity': '99',
+}, {
+    'name': 'Ultraplegia Sac',
+    'icon': require('./assets/items/sac_bright_yellow.png'),
+    'description': 'A monster organ filled with highly concentrated neurotoxins. Handle with extreme care.',
+    'rarity': '9',
+    'value': '3400',
+    'maxCapacity': '99',
+},{
     'name': 'Unknown Skull',
     'icon': require('./assets/items/monster_yellow.png'),
     'description': 'A rare material found in bonepiles in the Elder\'s Recess. It appears to be some kind of animal skull.',
@@ -2787,6 +3585,13 @@ let monsterMaterials = [{
     'value': '560',
     'maxCapacity': '99',
 }, {
+    'name': 'Vespoid Razorwing',
+    'icon': require('./assets/items/comb_bright_yellow.png'),
+    'description': 'Very rare Vespoid material. Obtained by carving. Light and sharp, used in many weapons.',
+    'rarity': '9',
+    'value': '1960',
+    'maxCapacity': '99',
+},{
     'name': 'Vespoid Shell',
     'icon': require('./assets/items/bug_bright_yellow.png'),
     'description': 'Vespoid material. Obtained by carving. Used for many purposes.',
@@ -2801,6 +3606,41 @@ let monsterMaterials = [{
     'value': '210',
     'maxCapacity': '99',
 }, {
+    'name': 'Viper Tobi-Kadachi Hardclaw',
+    'icon': require('./assets/items/claw_orange.png'),
+    'description': 'Very rare Viper Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.',
+    'rarity': '9',
+    'value': '4390',
+    'maxCapacity': '99',
+}, {
+    'name': 'Viper Tobi-Kadachi Membrane+',
+    'icon': require('./assets/monster_materials/viper-tobi-kadachi-membrane-plus.jpg'),
+    'description': 'Very rare Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear.',
+    'rarity': '9',
+    'value': '4700',
+    'maxCapacity': '99',
+}, {
+    'name': 'Viper Tobi-Kadachi Shard',
+    'icon': require('./assets/items/scale_orange.png'),
+    'description': 'Very rare Viper Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.',
+    'rarity': '9',
+    'value': '2190',
+    'maxCapacity': '99',
+}, {
+    'name': 'Viper Tobi-Kadachi Thickfur',
+    'icon': require('./assets/items/hide_orange.png'),
+    'description': 'Very rare Viper Tobi-Kadachi material. Mostly obtained as a reward. Highly thuder-resistant, used to craft gear.',
+    'rarity': '9',
+    'value': '3290',
+    'maxCapacity': '99',
+}, {
+    'name': 'Viper Tobi-Kadachi Thorn',
+    'icon': require('./assets/items/monster_orange.png'),
+    'description': 'Very rare Viper Tobi-Kadachi material. Obtained by breaking its head. Grants poisonous properties.',
+    'rarity': '9',
+    'value': '4570',
+    'maxCapacity': '99',
+},{
     'name': 'Warm Pelt',
     'icon': require('./assets/items/hide_green.png'),
     'description': 'A pelt from a small animal. Used for many things, but mostly just regular clothes.',
@@ -2832,6 +3672,13 @@ let monsterMaterials = [{
     'maxCapacity': '99',
     'howToGet': 'Complete Event Quest: Wiggle Me This'
 }, {
+    'name': 'Wingdrake Finehide',
+    'icon': require('./assets/monster_materials/wingdrake-hide.jpg'),
+    'description': 'A very rare material carved from wingdrakes. Lightweight, used to craft gear.',
+    'rarity': '9',
+    'value': '1240',
+    'maxCapacity': '99',
+},{
     'name': 'Wingdrake Hide',
     'icon': require('./assets/monster_materials/wingdrake-hide.jpg'),
     'description': 'A material carved from wingdrakes. Lightweight and often used when crafting armor.',
@@ -2853,6 +3700,13 @@ let monsterMaterials = [{
     'value': '200',
     'maxCapacity': '99',
 }, {
+    'name': 'Wulg Thickfur',
+    'icon': require('./assets/items/hide_white.png'),
+    'description': 'Very rare Wulg material. Obtained by carving. Used for many purposes.',
+    'rarity': '9',
+    'value': '1240',
+    'maxCapacity': '99',
+},{
     'name': 'Wyvern Bonemass',
     'icon': require('./assets/items/bone_white.png'),
     'description': 'Radobaan material. Obtained by collecting rare drops. Highly dense, used for many purposes.',

@@ -274,6 +274,18 @@ function returnRarityColor(rarity) {
 
         case '8':
             return '#B9725B';
+
+        case '9':
+            return '#972850';
+
+        case '10':
+            return '#1CCBF9';
+
+        case '11':
+            return '#F9CB19';
+
+        case '12':
+            return '#C8EAEB';
     }
 }
 
