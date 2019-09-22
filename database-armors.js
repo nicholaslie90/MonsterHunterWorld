@@ -31915,6 +31915,186 @@ let masterRankArmors = [{
     'name': 'Acidic Glavenus ⍺+',
     'translationKey': 'armor-mr-acidic-glavenus-alpha-plus',
     'icon': require('./assets/armors/sets/acidic_glavenus_alpha_plus.png'),
+    'head': {
+        'name': 'Acidic Glavenus Helm ⍺+',
+        'translationKey': 'armor-mr-acidic-glavenus-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/acidic_glavenus_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '1 - -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '2',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Maximum Might',
+            'level': '2'
+        }, {
+            'name': 'Effluvia Resistance',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Acidic Glavenus Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Acidic Glavenus Shard',
+            'quantity': '2'
+        },{
+            'name': 'Acidic Glavenus Spineshell',
+            'quantity': '3'
+        },{
+            'name': 'Honed Acidcryst',
+            'quantity': '3'
+        },],
+        'cost': '18000',
+    },
+    'upperBody': {
+        'name': 'Acidic Glavenus Mail ⍺+',
+        'translationKey': 'armor-mr-acidic-glavenus-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/acidic_glavenus_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '1 - -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '2',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Handicraft',
+            'level': '2'
+        }, {
+            'name': 'Stamina Surge',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Acidic Glavenus Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Acidic Glavenus Hardfang',
+            'quantity': '3'
+        },{
+            'name': 'Acidic Glavenus Spineshell',
+            'quantity': '2'
+        },{
+            'name': 'Glavenus Mantle',
+            'quantity': '1'
+        },],
+        'cost': '',
+    },
+    'hands': {
+        'name': 'Acidic Glavenus Braces ⍺+',
+        'translationKey': 'armor-mr-acidic-glavenus-braces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/acidic_glavenus_braces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '2 1 -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '2',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Stun Resistance',
+            'level': '2'
+        }, {
+            'name': 'Handicraft',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Acidic Glavenus Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Acidic Glavenus Hardfang',
+            'quantity': '2'
+        }, {
+            'name': 'Honed Acidcryst',
+            'quantity': '2'
+        },{
+            'name': 'Monster Solidbone',
+            'quantity': '4'
+        },],
+        'cost': '18000',
+    },
+    'lowerBody': {
+        'name': 'Acidic Glavenus Coil ⍺+',
+        'translationKey': 'armor-mr-acidic-glavenus-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/acidic_glavenus_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '2 - -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '2',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Handicraft',
+            'level': '2'
+        }, {
+            'name': 'Iron Skin',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Acidic Glavenus Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Acidic Glavenus Shard',
+            'quantity': '3'
+        },{
+            'name': 'Acidic Glavenus Hardfang',
+            'quantity': '2'
+        },{
+            'name': 'Honed Acidcryst',
+            'quantity': '3'
+        },],
+        'cost': '18000',
+    },
+    'legs': {
+        'name': 'Acidic Glavenus Greaves ⍺+',
+        'translationKey': 'armor-mr-acidic-glavenus-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/acidic_glavenus_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '1 - -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '2',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Maximum Might',
+            'level': '2'
+        }, {
+            'name': 'Stamina Surge',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Acidic Glavenus Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Acidic Glavenus Spineshell',
+            'quantity': '3'
+        },{
+            'name': 'Acidic Glavenus Tailedge',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Gem',
+            'quantity': '1'
+        },],
+        'cost': '18000',
+    },
     'totalDefense': '750',
     'totalFireDefense': '-15',
     'totalWaterDefense': '10',
@@ -31925,6 +32105,177 @@ let masterRankArmors = [{
     'name': 'Acidic Glavenus ß+',
     'translationKey': 'armor-mr-acidic-glavenus-beta-plus',
     'icon': require('./assets/armors/sets/acidic_glavenus_beta_plus.png'),
+    'head': {
+        'name': 'Acidic Glavenus Helm ß+',
+        'translationKey': 'armor-mr-acidic-glavenus-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/acidic_glavenus_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '4 - -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '2',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Maximum Might',
+            'level': '1'
+        }, {
+            'name': 'Effluvia Resistance',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Acidic Glavenus Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Acidic Glavenus Shard',
+            'quantity': '2'
+        },{
+            'name': 'Acidic Glavenus Spineshell',
+            'quantity': '3'
+        },{
+            'name': 'Honed Acidcryst',
+            'quantity': '3'
+        },],
+        'cost': '18000',
+    },
+    'upperBody': {
+        'name': 'Acidic Glavenus Mail ß+',
+        'translationKey': 'armor-mr-acidic-glavenus-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/acidic_glavenus_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '4 1 -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '2',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Handicraft',
+            'level': '1'
+        }, {
+            'name': 'Stamina Surge',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Acidic Glavenus Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Acidic Glavenus Hardfang',
+            'quantity': '3'
+        },{
+            'name': 'Acidic Glavenus Spineshell',
+            'quantity': '2'
+        },{
+            'name': 'Glavenus Mantle',
+            'quantity': '1'
+        },],
+        'cost': '18000',
+    },
+    'hands': {
+        'name': 'Acidic Glavenus Braces ß+',
+        'translationKey': 'armor-mr-acidic-glavenus-braces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/acidic_glavenus_braces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '4 2 1',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '2',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Stun Resistance',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Acidic Glavenus Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Acidic Glavenus Hardfang',
+            'quantity': '2'
+        }, {
+            'name': 'Honed Acidcryst',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Solidbone',
+            'quantity': '4'
+        },],
+        'cost': '18000',
+    },
+    'lowerBody': {
+        'name': 'Acidic Glavenus Coil ß+',
+        'translationKey': 'armor-mr-acidic-glavenus-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/acidic_glavenus_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '4 - -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '2',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Handicraft',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Acidic Glavenus Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Acidic Glavenus Shard',
+            'quantity': '3'
+        },{
+            'name': 'Acidic Glavenus Hardfang',
+            'quantity': '2'
+        },{
+            'name': 'Honed Acidcryst',
+            'quantity': '3'
+        },],
+        'cost': '18000',
+    },
+    'legs': {
+        'name': 'Acidic Glavenus Greaves ß+',
+        'translationKey': 'armor-mr-acidic-glavenus-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/acidic_glavenus_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '4 2 -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '2',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Maximum Might',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Acidic Glavenus Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Acidic Glavenus Spineshell',
+            'quantity': '3'
+        },{
+            'name': 'Acidic Glavenus Tailedge',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Gem',
+            'quantity': '1'
+        },],
+        'cost': '18000',
+    },
     'totalDefense': '750',
     'totalFireDefense': '-15',
     'totalWaterDefense': '10',
@@ -31935,6 +32286,174 @@ let masterRankArmors = [{
     'name': 'Alloy ⍺+',
     'translationKey': 'armor-mr-alloy-alpha-plus',
     'icon': require('./assets/armors/sets/alloy_alpha_plus.png'),
+    'head': {
+        'name': 'Alloy Helm ⍺+',
+        'translationKey': 'armor-mr-alloy-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/alloy_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '2 - -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Windproof',
+            'level': '2'
+        }, {
+            'name': 'Defense Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Eltalite Ore',
+            'quantity': '1'
+        }, {
+            'name': 'Carbalite Ore',
+            'quantity': '2'
+        },{
+            'name': 'Spiritvein Crystal',
+            'quantity': '1'
+        },{
+            'name': 'Meldspar Ore',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'hands': {
+        'name': 'Alloy Vambraces ⍺+',
+        'translationKey': 'armor-mr-alloy-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/alloy_vambraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '3 - -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Defense Boost',
+            'level': '2'
+        }, {
+            'name': 'Speed Sharpening',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Eltalite Ore',
+            'quantity': '1'
+        }, {
+            'name': 'Carbalite Ore',
+            'quantity': '2'
+        },{
+            'name': 'Dragonvein Crystal',
+            'quantity': '2'
+        },],
+        'cost': '9000',
+    },
+    'upperBody': {
+        'name': 'Alloy Mail ⍺+',
+        'translationKey': 'armor-mr-alloy-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/alloy_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '3 - -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Water Resistance',
+            'level': '2'
+        }, {
+            'name': 'Defense Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Eltalite Ore',
+            'quantity': '1'
+        }, {
+            'name': 'Carbalite Ore',
+            'quantity': '2'
+        },{
+            'name': 'Dragonvein Crystal',
+            'quantity': '2'
+        },],
+        'cost': '9000',
+    },
+    'lowerBody': {
+        'name': 'Alloy Coil ⍺+',
+        'translationKey': 'armor-mr-alloy-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/alloy_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '3 - -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Poison Resistance',
+            'level': '2'
+        }, {
+            'name': 'Windproof',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Eltalite Ore',
+            'quantity': '1'
+        }, {
+            'name': 'Carbalite Ore',
+            'quantity': '2'
+        },{
+            'name': 'Spiritvein Crystal',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'legs': {
+        'name': 'Alloy Greaves ⍺+',
+        'translationKey': 'armor-mr-alloy-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/alloy_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '3 - -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Speed Sharpening',
+            'level': '2'
+        }, {
+            'name': 'Windproof',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Eltalite Ore',
+            'quantity': '1'
+        }, {
+            'name': 'Carbalite Ore',
+            'quantity': '2'
+        },{
+            'name': 'Spiritvein Crystal',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
     'totalDefense': '570',
     'totalFireDefense': '-10',
     'totalWaterDefense': '0',
@@ -31945,6 +32464,165 @@ let masterRankArmors = [{
     'name': 'Alloy ß+',
     'translationKey': 'armor-mr-alloy-beta-plus',
     'icon': require('./assets/armors/sets/alloy_beta_plus.png'),
+    'head': {
+        'name': 'Alloy Helm ß+',
+        'translationKey': 'armor-mr-alloy-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/alloy_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '4 1 -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Windproof',
+            'level': '1'
+        }],
+        'materials': [{
+            'name': 'Eltalite Ore',
+            'quantity': '1'
+        }, {
+            'name': 'Carbalite Ore',
+            'quantity': '2'
+        },{
+            'name': 'Spiritvein Crystal',
+            'quantity': '1'
+        },{
+            'name': 'Meldspar Ore',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'hands': {
+        'name': 'Alloy Vambraces ß+',
+        'translationKey': 'armor-mr-alloy-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/alloy_vambraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '4 1 -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Defense Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Eltalite Ore',
+            'quantity': '1'
+        }, {
+            'name': 'Carbalite Ore',
+            'quantity': '2'
+        },{
+            'name': 'Dragonvein Crystal',
+            'quantity': '2'
+        },],
+        'cost': '9000',
+    },
+    'upperBody': {
+        'name': 'Alloy Mail ß+',
+        'translationKey': 'armor-mr-alloy-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/alloy_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '4 1 -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Water Resistance',
+            'level': '1'
+        }],
+        'materials': [{
+            'name': 'Eltalite Ore',
+            'quantity': '1'
+        }, {
+            'name': 'Carbalite Ore',
+            'quantity': '2'
+        },{
+            'name': 'Dragonvein Crystal',
+            'quantity': '2'
+        },],
+        'cost': '9000',
+    },
+    'lowerBody': {
+        'name': 'Alloy Coil ß+',
+        'translationKey': 'armor-mr-alloy-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/alloy_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '4 - -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Poison Resistance',
+            'level': '1'
+        }, {
+            'name': 'Windproof',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Eltalite Ore',
+            'quantity': '1'
+        }, {
+            'name': 'Carbalite Ore',
+            'quantity': '2'
+        },{
+            'name': 'Spiritvein Crystal',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'legs': {
+        'name': 'Alloy Greaves ß+',
+        'translationKey': 'armor-mr-alloy-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/alloy_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '4 - -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Speed Sharpening',
+            'level': '1'
+        }, {
+            'name': 'Windproof',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Eltalite Ore',
+            'quantity': '1'
+        }, {
+            'name': 'Carbalite Ore',
+            'quantity': '2'
+        },{
+            'name': 'Spiritvein Crystal',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
     'totalDefense': '570',
     'totalFireDefense': '-10',
     'totalWaterDefense': '0',
@@ -31955,6 +32633,186 @@ let masterRankArmors = [{
     'name': 'Anja ⍺+',
     'translationKey': 'armor-mr-anja-alpha-plus',
     'icon': require('./assets/armors/sets/anja_alpha_plus.png'),
+    'head': {
+        'name': 'Anja Helm ⍺+',
+        'translationKey': 'armor-mr-anja-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/anja_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '132',
+        'slots': '3 - -',
+        'vsFire': '3',
+        'vsWater': '-3',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Fire Attack',
+            'level': '2'
+        }, {
+            'name': 'Fire Resistance',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Anjanath Fur',
+            'quantity': '2'
+        }, {
+            'name': 'Anjanath Shard',
+            'quantity': '2'
+        },{
+            'name': 'Anjanath Lash',
+            'quantity': '1'
+        },{
+            'name': 'Conflagrant Sac',
+            'quantity': '3'
+        },],
+        'cost': '',
+    },
+    'upperBody': {
+        'name': 'Anja Mail ⍺+',
+        'translationKey': 'armor-mr-anja-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/anja_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '132',
+        'slots': '1 1 -',
+        'vsFire': '3',
+        'vsWater': '-3',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Marathon Runner',
+            'level': '2'
+        }, {
+            'name': 'Special Ammo Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Anjanath Fur',
+            'quantity': '2'
+        }, {
+            'name': 'Anjanath Hardfang',
+            'quantity': '1'
+        },{
+            'name': 'Heavy Anjanath Nosebone',
+            'quantity': '2'
+        },{
+            'name': 'Monster Toughbone',
+            'quantity': '3'
+        },],
+        'cost': '12000',
+    },
+    'hands': {
+        'name': 'Anja Vambraces ⍺+',
+        'translationKey': 'armor-mr-anja-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/anja_vambraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '132',
+        'slots': '2 - -',
+        'vsFire': '3',
+        'vsWater': '-3',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Special Ammo Boost',
+            'level': '1'
+        }, {
+            'name': 'Fire Attack',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Anjanath Fur',
+            'quantity': '2'
+        }, {
+            'name': 'Anjanath Shard',
+            'quantity': '2'
+        },{
+            'name': 'Conflagrant Sac',
+            'quantity': '2'
+        },{
+            'name': 'Eltalite Ore',
+            'quantity': '5'
+        },],
+        'cost': '12000',
+    },
+    'lowerBody': {
+        'name': 'Anja Coil ⍺+',
+        'translationKey': 'armor-mr-anja-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/anja_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '132',
+        'slots': '3 1 -',
+        'vsFire': '3',
+        'vsWater': '-3',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Fire Resistance',
+            'level': '2'
+        }, {
+            'name': 'Artillery',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Anjanath Fur',
+            'quantity': '2'
+        }, {
+            'name': 'Anjanath Shard',
+            'quantity': '1'
+        },{
+            'name': 'Anjanath Hardfang',
+            'quantity': '2'
+        },{
+            'name': 'Tough Claw',
+            'quantity': '2'
+        },],
+        'cost': '12000',
+    },
+    'legs': {
+        'name': 'Anja Greaves ⍺+',
+        'translationKey': 'armor-mr-anja-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/anja_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '132',
+        'slots': '2 - -',
+        'vsFire': '3',
+        'vsWater': '-3',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Artillery',
+            'level': '2'
+        }, {
+            'name': 'Marathon Runner',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Anjanath Fur',
+            'quantity': '2'
+        }, {
+            'name': 'Anjanath Shard',
+            'quantity': '1'
+        },{
+            'name': 'Heavy Anjanath Nosebone',
+            'quantity': '1'
+        },{
+            'name': 'Monster Toughbone',
+            'quantity': '2'
+        },],
+        'cost': '12000',
+    },
     'totalDefense': '660',
     'totalFireDefense': '15',
     'totalWaterDefense': '-15',
@@ -31965,6 +32823,177 @@ let masterRankArmors = [{
     'name': 'Anja ß+',
     'translationKey': 'armor-mr-anja-beta-plus',
     'icon': require('./assets/armors/sets/anja_beta_plus.png'),
+    'head': {
+        'name': 'Anja Helm ß+',
+        'translationKey': 'armor-mr-anja-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/anja_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '132',
+        'slots': '4 - -',
+        'vsFire': '3',
+        'vsWater': '-3',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Fire Attack',
+            'level': '2'
+        }],
+        'materials': [{
+            'name': 'Anjanath Fur',
+            'quantity': '2'
+        }, {
+            'name': 'Anjanath Shard',
+            'quantity': '2'
+        },{
+            'name': 'Anjanath Lash',
+            'quantity': '1'
+        },{
+            'name': 'Conflagrant Sac',
+            'quantity': '3'
+        },],
+        'cost': '',
+    },
+    'upperBody': {
+        'name': 'Anja Mail ß+',
+        'translationKey': 'armor-mr-anja-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/anja_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '132',
+        'slots': '4 1 -',
+        'vsFire': '3',
+        'vsWater': '-3',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Marathon Runner',
+            'level': '1'
+        }, {
+            'name': 'Special Ammo Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Anjanath Fur',
+            'quantity': '2'
+        }, {
+            'name': 'Anjanath Hardfang',
+            'quantity': '1'
+        },{
+            'name': 'Heavy Anjanath Nosebone',
+            'quantity': '2'
+        },{
+            'name': 'Monster Toughbone',
+            'quantity': '3'
+        },],
+        'cost': '12000',
+    },
+    'hands': {
+        'name': 'Anja Vambraces ß+',
+        'translationKey': 'armor-mr-anja-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/anja_vambraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '132',
+        'slots': '4 - -',
+        'vsFire': '3',
+        'vsWater': '-3',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Special Ammo Boost',
+            'level': '1'
+        }, {
+            'name': 'Fire Attack',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Anjanath Fur',
+            'quantity': '2'
+        }, {
+            'name': 'Anjanath Shard',
+            'quantity': '2'
+        },{
+            'name': 'Conflagrant Sac',
+            'quantity': '2'
+        },{
+            'name': 'Eltalite Ore',
+            'quantity': '5'
+        },],
+        'cost': '12000',
+    },
+    'lowerBody': {
+        'name': 'Anja Coil ß+',
+        'translationKey': 'armor-mr-anja-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/anja_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '132',
+        'slots': '3 1 -',
+        'vsFire': '3',
+        'vsWater': '-3',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Fire Resistance',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Anjanath Fur',
+            'quantity': '2'
+        }, {
+            'name': 'Anjanath Shard',
+            'quantity': '1'
+        },{
+            'name': 'Anjanath Hardfang',
+            'quantity': '2'
+        },{
+            'name': 'Tough Claw',
+            'quantity': '2'
+        },],
+        'cost': '12000',
+    },
+    'legs': {
+        'name': 'Anja Greaves ß+',
+        'translationKey': 'armor-mr-anja-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/anja_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '132',
+        'slots': '4 1 -',
+        'vsFire': '3',
+        'vsWater': '-3',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Artillery',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Anjanath Fur',
+            'quantity': '2'
+        }, {
+            'name': 'Anjanath Shard',
+            'quantity': '1'
+        },{
+            'name': 'Heavy Anjanath Nosebone',
+            'quantity': '1'
+        },{
+            'name': 'Monster Toughbone',
+            'quantity': '2'
+        },],
+        'cost': '12000',
+    },
     'totalDefense': '660',
     'totalFireDefense': '15',
     'totalWaterDefense': '-15',
@@ -31975,6 +33004,186 @@ let masterRankArmors = [{
     'name': 'Artian ⍺+',
     'translationKey': 'armor-mr-artian-alpha-plus',
     'icon': require('./assets/armors/sets/artian_alpha_plus.png'),
+    'head': {
+        'name': 'Artian Helm ⍺+',
+        'translationKey': 'armor-mr-artian-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/artian_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '2 - -',
+        'vsFire': '1',
+        'vsWater': '-2',
+        'vsThunder': '-2',
+        'vsIce': '2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Slinger Capacity',
+            'level': '2'
+        }, {
+            'name': 'Free Element/Ammo Up',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Ancient Fragment',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '2'
+        },{
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Deadly Poison Sac',
+            'quantity': '4'
+        },],
+        'cost': '15000',
+    },
+    'upperBody': {
+        'name': 'Artian Mail ⍺+',
+        'translationKey': 'armor-mr-artian-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/artian_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '1 - -',
+        'vsFire': '1',
+        'vsWater': '-2',
+        'vsThunder': '-2',
+        'vsIce': '2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Critical Eye',
+            'level': '3'
+        }, {
+            'name': 'Peak Performance',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Ancient Fragment',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Slogbone',
+            'quantity': '3'
+        },{
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Lightning Sac',
+            'quantity': '4'
+        },],
+        'cost': '15000',
+    },
+    'hands': {
+        'name': 'Artian Vambraces ⍺+',
+        'translationKey': 'armor-mr-artian-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/artian_vambraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '1 1 -',
+        'vsFire': '1',
+        'vsWater': '-2',
+        'vsThunder': '-2',
+        'vsIce': '2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Free Element/Ammo Up',
+            'level': '2'
+        }, {
+            'name': 'Tool Specialist',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Ancient Fragment',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Slogbone',
+            'quantity': '3'
+        },{
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Conflagrant Sac',
+            'quantity': '4'
+        },],
+        'cost': '15000',
+    },
+    'lowerBody': {
+        'name': 'Artian Coil ⍺+',
+        'translationKey': 'armor-mr-artian-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/artian_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '1 1 -',
+        'vsFire': '1',
+        'vsWater': '-2',
+        'vsThunder': '-2',
+        'vsIce': '2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Tool Specialist',
+            'level': '2'
+        }, {
+            'name': 'Critical Eye',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Ancient Fragment',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '2'
+        },{
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Flood Sac',
+            'quantity': '4'
+        },],
+        'cost': '15000',
+    },
+    'legs': {
+        'name': 'Artian Greaves ⍺+',
+        'translationKey': 'armor-mr-artian-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/artian_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '1 1 -',
+        'vsFire': '1',
+        'vsWater': '-2',
+        'vsThunder': '-2',
+        'vsIce': '2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Peak Performance',
+            'level': '2'
+        }, {
+            'name': 'Slinger Capacity',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Ancient Fragment',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '2'
+        },{
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Cryo Sac',
+            'quantity': '4'
+        },],
+        'cost': '15000',
+    },
     'totalDefense': '710',
     'totalFireDefense': '5',
     'totalWaterDefense': '-10',
@@ -31985,6 +33194,180 @@ let masterRankArmors = [{
     'name': 'Artian ß+',
     'translationKey': 'armor-mr-artian-beta-plus',
     'icon': require('./assets/armors/sets/artian_beta_plus.png'),
+    'head': {
+        'name': 'Artian Helm ß+',
+        'translationKey': 'armor-mr-artian-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/artian_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '4 1 -',
+        'vsFire': '1',
+        'vsWater': '-2',
+        'vsThunder': '-2',
+        'vsIce': '2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Slinger Capacity',
+            'level': '1'
+        }, {
+            'name': 'Free Element/Ammo Up',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Ancient Fragment',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '2'
+        },{
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Deadly Poison Sac',
+            'quantity': '4'
+        },],
+        'cost': '15000',
+    },
+    'upperBody': {
+        'name': 'Artian Mail ß+',
+        'translationKey': 'armor-mr-artian-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/artian_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '4 - -',
+        'vsFire': '1',
+        'vsWater': '-2',
+        'vsThunder': '-2',
+        'vsIce': '2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Critical Eye',
+            'level': '2'
+        }, {
+            'name': 'Peak Performance',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Ancient Fragment',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Slogbone',
+            'quantity': '3'
+        },{
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Lightning Sac',
+            'quantity': '4'
+        },],
+        'cost': '15000',
+    },
+    'hands': {
+        'name': 'Artian Vambraces ß+',
+        'translationKey': 'armor-mr-artian-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/artian_vambraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '4 - -',
+        'vsFire': '1',
+        'vsWater': '-2',
+        'vsThunder': '-2',
+        'vsIce': '2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Free Element/Ammo Up',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Ancient Fragment',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Slogbone',
+            'quantity': '3'
+        },{
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Conflagrant Sac',
+            'quantity': '4'
+        },],
+        'cost': '15000',
+    },
+    'lowerBody': {
+        'name': 'Artian Coil ß+',
+        'translationKey': 'armor-mr-artian-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/artian_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '4 1 -',
+        'vsFire': '1',
+        'vsWater': '-2',
+        'vsThunder': '-2',
+        'vsIce': '2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Tool Specialist',
+            'level': '1'
+        }, {
+            'name': 'Critical Eye',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Ancient Fragment',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '2'
+        },{
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Flood Sac',
+            'quantity': '4'
+        },],
+        'cost': '15000',
+    },
+    'legs': {
+        'name': 'Artian Greaves ß+',
+        'translationKey': 'armor-mr-artian-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/artian_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '4 - -',
+        'vsFire': '1',
+        'vsWater': '-2',
+        'vsThunder': '-2',
+        'vsIce': '2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Peak Performance',
+            'level': '2'
+        } ],
+        'materials': [{
+            'name': 'Ancient Fragment',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '2'
+        },{
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Cryo Sac',
+            'quantity': '4'
+        },],
+        'cost': '15000',
+    },
     'totalDefense': '710',
     'totalFireDefense': '5',
     'totalWaterDefense': '-10',
@@ -31995,6 +33378,183 @@ let masterRankArmors = [{
     'name': 'Baan ⍺+',
     'translationKey': 'armor-mr-baan-alpha-plus',
     'icon': require('./assets/armors/sets/baan_alpha_plus.png'),
+    'head': {
+        'name': 'Baan Helm ⍺+',
+        'translationKey': 'armor-mr-baan-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/baan_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '134',
+        'slots': '1 1 -',
+        'vsFire': '0',
+        'vsWater': '2',
+        'vsThunder': '0',
+        'vsIce': '-1',
+        'vsDragon': '-2',
+        'skills': [{
+            'name': 'Tremor Resistance',
+            'level': '2'
+        }, {
+            'name': 'Slugger',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Radobaan Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Radobaan Shard',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Bonemass',
+            'quantity': '2'
+        },{
+            'name': 'Monster Essence',
+            'quantity': '3'
+        },],
+        'cost': '12000',
+    },
+    'upperBody': {
+        'name': 'Baan Mail ⍺+',
+        'translationKey': 'armor-mr-baan-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/baan_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '134',
+        'slots': '3 - -',
+        'vsFire': '0',
+        'vsWater': '2',
+        'vsThunder': '0',
+        'vsIce': '-1',
+        'vsDragon': '-2',
+        'skills': [{
+            'name': 'Sleep Attack',
+            'level': '1'
+        }, {
+            'name': 'Bleeding Resistance',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Radobaan Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Radobaan Oilshell',
+            'quantity': '1'
+        },{
+            'name': 'Torpor Sac',
+            'quantity': '2'
+        },],
+        'cost': '12000',
+    },
+    'hands': {
+        'name': 'Baan Vambraces ⍺+',
+        'translationKey': 'armor-mr-baan-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/baan_vambraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '134',
+        'slots': '2 - -',
+        'vsFire': '0',
+        'vsWater': '2',
+        'vsThunder': '0',
+        'vsIce': '-1',
+        'vsDragon': '-2',
+        'skills': [{
+            'name': 'Sleep Attack',
+            'level': '2'
+        }, {
+            'name': 'Guard',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Radobaan Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Radobaan Shard',
+            'quantity': '2'
+        },{
+            'name': 'Radobaan Oilshell+',
+            'quantity': '1'
+        },{
+            'name': 'Torpor Sac',
+            'quantity': '1'
+        },],
+        'cost': '12000',
+    },
+    'lowerBody': {
+        'name': 'Baan Coil ⍺+',
+        'translationKey': 'armor-mr-baan-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/baan_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '134',
+        'slots': '1 - -',
+        'vsFire': '0',
+        'vsWater': '2',
+        'vsThunder': '0',
+        'vsIce': '-1',
+        'vsDragon': '-2',
+        'skills': [{
+            'name': 'Guard',
+            'level': '2'
+        }, {
+            'name': 'Sleep Resistance',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Radobaan Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Radobaan Oilshell+',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Bonemass',
+            'quantity': '1'
+        },{
+            'name': 'Thick Bone',
+            'quantity': '3'
+        },],
+        'cost': '12000',
+    },
+    'legs': {
+        'name': 'Baan Greaves ⍺+',
+        'translationKey': 'armor-mr-baan-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/baan_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '134',
+        'slots': '2 - -',
+        'vsFire': '0',
+        'vsWater': '2',
+        'vsThunder': '0',
+        'vsIce': '-1',
+        'vsDragon': '-2',
+        'skills': [{
+            'name': 'Bleeding Resistance',
+            'level': '2'
+        }, {
+            'name': 'Guard',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Radobaan Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Radobaan Shard',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Bonemass',
+            'quantity': '2'
+        },{
+            'name': 'Monster Toughbone',
+            'quantity': '4'
+        },],
+        'cost': '15000',
+    },
     'totalDefense': '670',
     'totalFireDefense': '0',
     'totalWaterDefense': '10',
@@ -32005,6 +33565,171 @@ let masterRankArmors = [{
     'name': 'Baan ß+',
     'translationKey': 'armor-mr-baan-beta-plus',
     'icon': require('./assets/armors/sets/baan_beta_plus.png'),
+    'head': {
+        'name': 'Baan Helm ß+',
+        'translationKey': 'armor-mr-baan-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/baan_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '134',
+        'slots': '4 - -',
+        'vsFire': '0',
+        'vsWater': '2',
+        'vsThunder': '0',
+        'vsIce': '-1',
+        'vsDragon': '-2',
+        'skills': [{
+            'name': 'Tremor Resistance',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Radobaan Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Radobaan Shard',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Bonemass',
+            'quantity': '2'
+        },{
+            'name': 'Monster Essence',
+            'quantity': '3'
+        },],
+        'cost': '12000',
+    },
+    'upperBody': {
+        'name': 'Baan Mail ß+',
+        'translationKey': 'armor-mr-baan-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/baan_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '134',
+        'slots': '4 - -',
+        'vsFire': '0',
+        'vsWater': '2',
+        'vsThunder': '0',
+        'vsIce': '-1',
+        'vsDragon': '-2',
+        'skills': [{
+            'name': 'Sleep Attack',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Radobaan Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Radobaan Oilshell',
+            'quantity': '1'
+        },{
+            'name': 'Torpor Sac',
+            'quantity': '2'
+        },],
+        'cost': '12000',
+    },
+    'hands': {
+        'name': 'Baan Vambraces ß+',
+        'translationKey': 'armor-mr-baan-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/baan_vambraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '134',
+        'slots': '4 - -',
+        'vsFire': '0',
+        'vsWater': '2',
+        'vsThunder': '0',
+        'vsIce': '-1',
+        'vsDragon': '-2',
+        'skills': [{
+            'name': 'Sleep Attack',
+            'level': '1'
+        }, {
+            'name': 'Guard',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Radobaan Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Radobaan Shard',
+            'quantity': '2'
+        },{
+            'name': 'Radobaan Oilshell+',
+            'quantity': '1'
+        },{
+            'name': 'Torpor Sac',
+            'quantity': '1'
+        },],
+        'cost': '12000',
+    },
+    'lowerBody': {
+        'name': 'Baan Coil ß+',
+        'translationKey': 'armor-mr-baan-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/baan_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '134',
+        'slots': '4 - -',
+        'vsFire': '0',
+        'vsWater': '2',
+        'vsThunder': '0',
+        'vsIce': '-1',
+        'vsDragon': '-2',
+        'skills': [{
+            'name': 'Guard',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Radobaan Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Radobaan Oilshell+',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Bonemass',
+            'quantity': '1'
+        },{
+            'name': 'Thick Bone',
+            'quantity': '3'
+        },],
+        'cost': '12000',
+    },
+    'legs': {
+        'name': 'Baan Greaves ß+',
+        'translationKey': 'armor-mr-baan-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/baan_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '134',
+        'slots': '4 1 -',
+        'vsFire': '0',
+        'vsWater': '2',
+        'vsThunder': '0',
+        'vsIce': '-1',
+        'vsDragon': '-2',
+        'skills': [{
+            'name': 'Bleeding Resistance',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Radobaan Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Radobaan Shard',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Bonemass',
+            'quantity': '2'
+        },{
+            'name': 'Monster Toughbone',
+            'quantity': '4'
+        },],
+        'cost': '15000',
+    },
     'totalDefense': '670',
     'totalFireDefense': '0',
     'totalWaterDefense': '10',
@@ -32015,6 +33740,72 @@ let masterRankArmors = [{
     'name': 'Banbaro ⍺+',
     'translationKey': 'armor-mr-banbaro-alpha-plus',
     'icon': require('./assets/armors/sets/banbaro_alpha_plus.png'),
+    'lowerBody': {
+        'name': 'Banbaro Coil ⍺+',
+        'translationKey': 'armor-mr-banbaro-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/banbaro_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '130',
+        'slots': '3 - -',
+        'vsFire': '-2',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '3',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Mushroomancer',
+            'level': '1'
+        }, {
+            'name': 'Offensive Guard',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Banbaro Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Banbaro Cortex',
+            'quantity': '1'
+        },{
+            'name': 'Frozen Bone',
+            'quantity': '2'
+        },],
+        'cost': '12000',
+    },
+    'legs': {
+        'name': 'Banbaro Greaves ⍺+',
+        'translationKey': 'armor-mr-banbaro-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/banbaro_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '130',
+        'slots': '3 - -',
+        'vsFire': '-2',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '3',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Mushroomancer',
+            'level': '1'
+        }, {
+            'name': 'Speed Eating',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Banbaro Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Banbaro Cortex',
+            'quantity': '1'
+        },{
+            'name': 'Banbaro Great Horn',
+            'quantity': '1'
+        },],
+        'cost': '12000',
+    },
     'totalDefense': '650',
     'totalFireDefense': '-10',
     'totalWaterDefense': '10',
@@ -32025,6 +33816,66 @@ let masterRankArmors = [{
     'name': 'Banbaro ß+',
     'translationKey': 'armor-mr-banbaro-beta-plus',
     'icon': require('./assets/armors/sets/banbaro_beta_plus.png'),
+    'lowerBody': {
+        'name': 'Banbaro Coil ß+',
+        'translationKey': 'armor-mr-banbaro-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/banbaro_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '130',
+        'slots': '4 1 -',
+        'vsFire': '-2',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '3',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Mushroomancer',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Banbaro Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Banbaro Cortex',
+            'quantity': '1'
+        },{
+            'name': 'Frozen Bone',
+            'quantity': '2'
+        },],
+        'cost': '12000',
+    },
+    'legs': {
+        'name': 'Banbaro Greaves ß+',
+        'translationKey': 'armor-mr-banbaro-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/banbaro_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '130',
+        'slots': '4 1 -',
+        'vsFire': '-2',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '3',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Mushroomancer',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Banbaro Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Banbaro Cortex',
+            'quantity': '1'
+        },{
+            'name': 'Banbaro Great Horn',
+            'quantity': '1'
+        },],
+        'cost': '12000',
+    },
     'totalDefense': '650',
     'totalFireDefense': '-10',
     'totalWaterDefense': '10',

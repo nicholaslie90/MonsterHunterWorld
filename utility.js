@@ -344,6 +344,9 @@ function returnSlot(slot) {
 
         case '3':
             return require('./assets/decorations/icon_jewel_3.png');
+
+        case '4':
+            return require('./assets/decorations/icon_jewel_4.png');
     }
 }
 

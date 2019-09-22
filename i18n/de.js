@@ -53,7 +53,7 @@ export default {
     },
     "armor-butterfly-description": {
       "Key": "armor-butterfly-description",
-      "Translation": "Dazzling armor made from insect parts. Its light weight and color are proof of one's class."
+      "Translation": "Glänzende Rüstung aus Insektenteilen. Gewicht und Farbe zeugen von deiner Klasse."
     },
     "armor-chainmail-description": {
       "Key": "armor-chainmail-description",
@@ -1357,27 +1357,27 @@ export default {
     },
     "armor-hr-harvest-alpha": {
       "Key": "armor-hr-harvest-alpha",
-      "Translation": "Harvest ⍺"
+      "Translation": "Ernte-Set ⍺"
     },
     "armor-hr-harvest-flor-alpha": {
       "Key": "armor-hr-harvest-flor-alpha",
-      "Translation": "Harvest Flor ⍺"
+      "Translation": "Ernte-Flor ⍺"
     },
     "armor-hr-harvest-hoja-alpha": {
       "Key": "armor-hr-harvest-hoja-alpha",
-      "Translation": "Harvest Hoja ⍺"
+      "Translation": "Ernte-Hoja ⍺"
     },
     "armor-hr-harvest-raiz-alpha": {
       "Key": "armor-hr-harvest-raiz-alpha",
-      "Translation": "Harvest Raiz ⍺"
+      "Translation": "Ernte-Raiz ⍺"
     },
     "armor-hr-harvest-trama-alpha": {
       "Key": "armor-hr-harvest-trama-alpha",
-      "Translation": "Harvest Trama ⍺"
+      "Translation": "Ernte-Trama ⍺"
     },
     "armor-hr-harvest-tronco-alpha": {
       "Key": "armor-hr-harvest-tronco-alpha",
-      "Translation": "Harvest Tronco ⍺"
+      "Translation": "Ernte-Tronco ⍺"
     },
     "armor-hr-high-metal-alpha": {
       "Key": "armor-hr-high-metal-alpha",
@@ -11005,7 +11005,7 @@ export default {
     },
     "skill-agitator-description": {
       "Key": "skill-agitator-description",
-      "Translation": "Erhöht Angriff und Affinität wenn große Monster wütend werden."
+      "Translation": "Erhöht Angriffskraft und Affinität wenn große Monster wütend werden."
     },
     "skill-airborne": {
       "Key": "skill-airborne",
@@ -13881,71 +13881,71 @@ export default {
     },
     "weapon-dual-blades-anja-cyclone-i": {
       "Key": "weapon-dual-blades-anja-cyclone-i",
-      "Translation": null
+      "Translation": "Anjanath-Zyklone I"
     },
     "weapon-dual-blades-anja-cyclone-ii": {
       "Key": "weapon-dual-blades-anja-cyclone-ii",
-      "Translation": null
+      "Translation": "Anjanath-Zyklone II"
     },
     "weapon-dual-blades-anja-cyclone-iii": {
       "Key": "weapon-dual-blades-anja-cyclone-iii",
-      "Translation": null
+      "Translation": "Anjanath-Zyklone III"
     },
     "weapon-dual-blades-arcanaria-i": {
       "Key": "weapon-dual-blades-arcanaria-i",
-      "Translation": null
+      "Translation": "Arcanaria I"
     },
     "weapon-dual-blades-arcanaria-ii": {
       "Key": "weapon-dual-blades-arcanaria-ii",
-      "Translation": null
+      "Translation": "Arcanaria II"
     },
     "weapon-dual-blades-arcanaria-iii": {
       "Key": "weapon-dual-blades-arcanaria-iii",
-      "Translation": null
+      "Translation": "Arcanaria III"
     },
     "weapon-dual-blades-bazelhawk-rookslayer": {
       "Key": "weapon-dual-blades-bazelhawk-rookslayer",
-      "Translation": null
+      "Translation": "Bazel-Doppelklingen"
     },
     "weapon-dual-blades-blacksteel-twins-i": {
       "Key": "weapon-dual-blades-blacksteel-twins-i",
-      "Translation": null
+      "Translation": "Schwarzstahl-Zwillinge I"
     },
     "weapon-dual-blades-blacksteel-twins-ii": {
       "Key": "weapon-dual-blades-blacksteel-twins-ii",
-      "Translation": null
+      "Translation": "Schwarzstahl-Zwillinge II"
     },
     "weapon-dual-blades-blazing-hatchets-i": {
       "Key": "weapon-dual-blades-blazing-hatchets-i",
-      "Translation": null
+      "Translation": "Glut-Beile I"
     },
     "weapon-dual-blades-blazing-hatchets-ii": {
       "Key": "weapon-dual-blades-blazing-hatchets-ii",
-      "Translation": null
+      "Translation": "Glut-Beile II"
     },
     "weapon-dual-blades-blood-drinker-chainblade": {
       "Key": "weapon-dual-blades-blood-drinker-chainblade",
-      "Translation": null
+      "Translation": "Bluttrinker-Kettenklinge"
     },
     "weapon-dual-blades-bone-hatchets-i": {
       "Key": "weapon-dual-blades-bone-hatchets-i",
-      "Translation": null
+      "Translation": "Knochenbeile I"
     },
     "weapon-dual-blades-bone-hatchets-ii": {
       "Key": "weapon-dual-blades-bone-hatchets-ii",
-      "Translation": null
+      "Translation": "Knochenbeile II"
     },
     "weapon-dual-blades-bone-hatchets-iii": {
       "Key": "weapon-dual-blades-bone-hatchets-iii",
-      "Translation": null
+      "Translation": "Knochenbeile III"
     },
     "weapon-dual-blades-chrome-slicers-i": {
       "Key": "weapon-dual-blades-chrome-slicers-i",
-      "Translation": null
+      "Translation": "Chromschlitzer I"
     },
     "weapon-dual-blades-chrome-slicers-ii": {
       "Key": "weapon-dual-blades-chrome-slicers-ii",
-      "Translation": null
+      "Translation": "Chromschlitzer II"
     },
     "weapon-dual-blades-claw-gold-twinblades": {
       "Key": "weapon-dual-blades-claw-gold-twinblades",
@@ -13953,103 +13953,103 @@ export default {
     },
     "weapon-dual-blades-dark-ripper-i": {
       "Key": "weapon-dual-blades-dark-ripper-i",
-      "Translation": null
+      "Translation": "Dunkle Reißer I"
     },
     "weapon-dual-blades-dark-ripper-ii": {
       "Key": "weapon-dual-blades-dark-ripper-ii",
-      "Translation": null
+      "Translation": "Dunkle Reißer II"
     },
     "weapon-dual-blades-dark-ripper-iii": {
       "Key": "weapon-dual-blades-dark-ripper-iii",
-      "Translation": null
+      "Translation": "Dunkle Reißer III"
     },
     "weapon-dual-blades-decimation-claws": {
       "Key": "weapon-dual-blades-decimation-claws",
-      "Translation": null
+      "Translation": "Dezimierungsklauen"
     },
     "weapon-dual-blades-diablos-clubs-i": {
       "Key": "weapon-dual-blades-diablos-clubs-i",
-      "Translation": null
+      "Translation": "Diablos-Prügel I"
     },
     "weapon-dual-blades-diablos-clubs-ii": {
       "Key": "weapon-dual-blades-diablos-clubs-ii",
-      "Translation": null
+      "Translation": "Diablos-Prügel II"
     },
     "weapon-dual-blades-diablos-hatchets-i": {
       "Key": "weapon-dual-blades-diablos-hatchets-i",
-      "Translation": null
+      "Translation": "Diablos-Beile I"
     },
     "weapon-dual-blades-diablos-hatchets-ii": {
       "Key": "weapon-dual-blades-diablos-hatchets-ii",
-      "Translation": null
+      "Translation": "Diablos-Beile II"
     },
     "weapon-dual-blades-downy-crake-brooms": {
       "Key": "weapon-dual-blades-downy-crake-brooms",
-      "Translation": null
+      "Translation": "Flauschhuhn-Besen"
     },
     "weapon-dual-blades-downy-crake-love": {
       "Key": "weapon-dual-blades-downy-crake-love",
-      "Translation": null
+      "Translation": "Flauschhuhn-Liebe"
     },
     "weapon-dual-blades-dragonbone-twinblades-i": {
       "Key": "weapon-dual-blades-dragonbone-twinblades-i",
-      "Translation": null
+      "Translation": "Drachenknochen-Zwillinge I"
     },
     "weapon-dual-blades-dragonbone-twinblades-ii": {
       "Key": "weapon-dual-blades-dragonbone-twinblades-ii",
-      "Translation": null
+      "Translation": "Drachenknochen-Zwillinge II"
     },
     "weapon-dual-blades-dual-destroyers-i": {
       "Key": "weapon-dual-blades-dual-destroyers-i",
-      "Translation": null
+      "Translation": "Doppel-Zerstörer I"
     },
     "weapon-dual-blades-dual-destroyers-ii": {
       "Key": "weapon-dual-blades-dual-destroyers-ii",
-      "Translation": null
+      "Translation": "Doppel-Zerstörer II"
     },
     "weapon-dual-blades-dual-destroyers-iii": {
       "Key": "weapon-dual-blades-dual-destroyers-iii",
-      "Translation": null
+      "Translation": "Doppel-Zerstörer III"
     },
     "weapon-dual-blades-dual-slicers-i": {
       "Key": "weapon-dual-blades-dual-slicers-i",
-      "Translation": null
+      "Translation": "Doppelschlitzer I"
     },
     "weapon-dual-blades-dual-slicers-ii": {
       "Key": "weapon-dual-blades-dual-slicers-ii",
-      "Translation": null
+      "Translation": "Doppelschlitzer II"
     },
     "weapon-dual-blades-dual-slicers-iii": {
       "Key": "weapon-dual-blades-dual-slicers-iii",
-      "Translation": null
+      "Translation": "Doppelschlitzer III"
     },
     "weapon-dual-blades-empress-daggers": {
       "Key": "weapon-dual-blades-empress-daggers",
-      "Translation": null
+      "Translation": "Kaiserin-Dolche"
     },
     "weapon-dual-blades-empress-daggers-blaze": {
       "Key": "weapon-dual-blades-empress-daggers-blaze",
-      "Translation": null
+      "Translation": "Kaiserin-Dolche \"Lunastra\""
     },
     "weapon-dual-blades-empress-daggers-ruin": {
       "Key": "weapon-dual-blades-empress-daggers-ruin",
-      "Translation": null
+      "Translation": "Kaiserin-Dolche \"Nergigante\""
     },
     "weapon-dual-blades-empress-daggers-styx": {
       "Key": "weapon-dual-blades-empress-daggers-styx",
-      "Translation": null
+      "Translation": "Kaiserin-Dolche \"Xeno'jiiva\""
     },
     "weapon-dual-blades-enduring-schism": {
       "Key": "weapon-dual-blades-enduring-schism",
-      "Translation": null
+      "Translation": "Dauerhafte Spalter"
     },
     "weapon-dual-blades-erupter-gold-twinblades": {
       "Key": "weapon-dual-blades-erupter-gold-twinblades",
-      "Translation": null
+      "Translation": "Goldzwillinge \"lavasioth\""
     },
     "weapon-dual-blades-fire-and-ice": {
       "Key": "weapon-dual-blades-fire-and-ice",
-      "Translation": null
+      "Translation": "Feuer und Eis"
     },
     "weapon-dual-blades-flash-gold-twinblades": {
       "Key": "weapon-dual-blades-flash-gold-twinblades",
@@ -14057,23 +14057,23 @@ export default {
     },
     "weapon-dual-blades-freeze-chain-i": {
       "Key": "weapon-dual-blades-freeze-chain-i",
-      "Translation": null
+      "Translation": "Frostkette I"
     },
     "weapon-dual-blades-freeze-chain-ii": {
       "Key": "weapon-dual-blades-freeze-chain-ii",
-      "Translation": null
+      "Translation": "Frostkette II"
     },
     "weapon-dual-blades-freeze-daggers-i": {
       "Key": "weapon-dual-blades-freeze-daggers-i",
-      "Translation": null
+      "Translation": "Frostdolche I"
     },
     "weapon-dual-blades-freeze-daggers-ii": {
       "Key": "weapon-dual-blades-freeze-daggers-ii",
-      "Translation": null
+      "Translation": "Frostdolche II"
     },
     "weapon-dual-blades-garon-hatchets-i": {
       "Key": "weapon-dual-blades-garon-hatchets-i",
-      "Translation": null
+      "Translation": "Garon-Beile I"
     },
     "weapon-dual-blades-gold-ice-twinblades": {
       "Key": "weapon-dual-blades-gold-ice-twinblades",
@@ -14081,15 +14081,15 @@ export default {
     },
     "weapon-dual-blades-gold-poison-twinblades": {
       "Key": "weapon-dual-blades-gold-poison-twinblades",
-      "Translation": null
+      "Translation": "Goldzwillinge \"Gift\""
     },
     "weapon-dual-blades-gold-water-twinblades": {
       "Key": "weapon-dual-blades-gold-water-twinblades",
-      "Translation": null
+      "Translation": "Goldzwillinge \"Wasser\""
     },
     "weapon-dual-blades-holy-sabers": {
       "Key": "weapon-dual-blades-holy-sabers",
-      "Translation": null
+      "Translation": "Heilige Säbel"
     },
     "weapon-dual-blades-horn-gold-twinblades": {
       "Key": "weapon-dual-blades-horn-gold-twinblades",
@@ -14097,35 +14097,35 @@ export default {
     },
     "weapon-dual-blades-jyura-hatchets-i": {
       "Key": "weapon-dual-blades-jyura-hatchets-i",
-      "Translation": null
+      "Translation": "Jyura-Beile I"
     },
     "weapon-dual-blades-jyura-hatchets-ii": {
       "Key": "weapon-dual-blades-jyura-hatchets-ii",
-      "Translation": null
+      "Translation": "Jyura-Beile II"
     },
     "weapon-dual-blades-jyura-hatchets-iii": {
       "Key": "weapon-dual-blades-jyura-hatchets-iii",
-      "Translation": null
+      "Translation": "Jyura-Beile III"
     },
     "weapon-dual-blades-kadachi-claws-i": {
       "Key": "weapon-dual-blades-kadachi-claws-i",
-      "Translation": null
+      "Translation": "Kadachi-Klauen I"
     },
     "weapon-dual-blades-kadachi-claws-ii": {
       "Key": "weapon-dual-blades-kadachi-claws-ii",
-      "Translation": null
+      "Translation": "Kadachi-Klauen II"
     },
     "weapon-dual-blades-kadachi-claws-iii": {
       "Key": "weapon-dual-blades-kadachi-claws-iii",
-      "Translation": null
+      "Translation": "Kadachi-Klauen III"
     },
     "weapon-dual-blades-kirin-bolts": {
       "Key": "weapon-dual-blades-kirin-bolts",
-      "Translation": null
+      "Translation": "Doppel-Kirin-Bolzen"
     },
     "weapon-dual-blades-kirin-bolts-plus": {
       "Key": "weapon-dual-blades-kirin-bolts-plus",
-      "Translation": null
+      "Translation": "Doppel-Kirin-Bolzen+"
     },
     "weapon-dual-blades-kjarr-daggers-dragon": {
       "Key": "weapon-dual-blades-kjarr-daggers-dragon",
@@ -14137,7 +14137,7 @@ export default {
     },
     "weapon-dual-blades-kjarr-daggers-lurk": {
       "Key": "weapon-dual-blades-kjarr-daggers-lurk",
-      "Translation": null
+      "Translation": "Kjárr-Dolche \"Hornetaur\""
     },
     "weapon-dual-blades-kjarr-daggers-magma": {
       "Key": "weapon-dual-blades-kjarr-daggers-magma",
@@ -14157,43 +14157,43 @@ export default {
     },
     "weapon-dual-blades-lava-cyclone-i": {
       "Key": "weapon-dual-blades-lava-cyclone-i",
-      "Translation": null
+      "Translation": "Lava-Zyklon I"
     },
     "weapon-dual-blades-lava-cyclone-ii": {
       "Key": "weapon-dual-blades-lava-cyclone-ii",
-      "Translation": null
+      "Translation": "Lava-Zyklon II"
     },
     "weapon-dual-blades-luminous-daggers-i": {
       "Key": "weapon-dual-blades-luminous-daggers-i",
-      "Translation": null
+      "Translation": "Leuchtende Dolche I"
     },
     "weapon-dual-blades-luminous-daggers-ii": {
       "Key": "weapon-dual-blades-luminous-daggers-ii",
-      "Translation": null
+      "Translation": "Leuchtende Dolche II"
     },
     "weapon-dual-blades-lurk-gold-twinblades": {
       "Key": "weapon-dual-blades-lurk-gold-twinblades",
-      "Translation": null
+      "Translation": "Goldzwillinge \"Hornetaur\""
     },
     "weapon-dual-blades-madness-pangas-i": {
       "Key": "weapon-dual-blades-madness-pangas-i",
-      "Translation": null
+      "Translation": "Verrückte Pangas I"
     },
     "weapon-dual-blades-madness-pangas-ii": {
       "Key": "weapon-dual-blades-madness-pangas-ii",
-      "Translation": null
+      "Translation": "Verrückte Pangas II"
     },
     "weapon-dual-blades-madness-pangas-iii": {
       "Key": "weapon-dual-blades-madness-pangas-iii",
-      "Translation": null
+      "Translation": "Verrückte Pangas III"
     },
     "weapon-dual-blades-magda-ungulae-i": {
       "Key": "weapon-dual-blades-magda-ungulae-i",
-      "Translation": null
+      "Translation": "Magdaros-Ungulae I"
     },
     "weapon-dual-blades-magda-ungulae-ii": {
       "Key": "weapon-dual-blades-magda-ungulae-ii",
-      "Translation": null
+      "Translation": "Magdaros-Ungulae II"
     },
     "weapon-dual-blades-magma-gold-twinblades": {
       "Key": "weapon-dual-blades-magma-gold-twinblades",
@@ -14201,15 +14201,15 @@ export default {
     },
     "weapon-dual-blades-matched-slicers-i": {
       "Key": "weapon-dual-blades-matched-slicers-i",
-      "Translation": null
+      "Translation": "Zwillingsdolche I"
     },
     "weapon-dual-blades-matched-slicers-ii": {
       "Key": "weapon-dual-blades-matched-slicers-ii",
-      "Translation": null
+      "Translation": "Zwillingsdolche II"
     },
     "weapon-dual-blades-matched-slicers-iii": {
       "Key": "weapon-dual-blades-matched-slicers-iii",
-      "Translation": null
+      "Translation": "Zwillingsdolche III"
     },
     "weapon-dual-blades-mire-gold-twinblades": {
       "Key": "weapon-dual-blades-mire-gold-twinblades",
@@ -14217,23 +14217,23 @@ export default {
     },
     "weapon-dual-blades-monarch": {
       "Key": "weapon-dual-blades-monarch",
-      "Translation": null
+      "Translation": "Monarch"
     },
     "weapon-dual-blades-nergal-gouge": {
       "Key": "weapon-dual-blades-nergal-gouge",
-      "Translation": null
+      "Translation": "Nergal-Hohleisen"
     },
     "weapon-dual-blades-pulsar-hatchets-i": {
       "Key": "weapon-dual-blades-pulsar-hatchets-i",
-      "Translation": null
+      "Translation": "Pulsar-Beile I"
     },
     "weapon-dual-blades-pulsar-hatchets-ii": {
       "Key": "weapon-dual-blades-pulsar-hatchets-ii",
-      "Translation": null
+      "Translation": "Pulsar-Beile II"
     },
     "weapon-dual-blades-pulsar-hatchets-iii": {
       "Key": "weapon-dual-blades-pulsar-hatchets-iii",
-      "Translation": null
+      "Translation": "Pulsar-Beile III"
     },
     "weapon-dual-blades-rage-gold-twinblades": {
       "Key": "weapon-dual-blades-rage-gold-twinblades",
@@ -14241,43 +14241,43 @@ export default {
     },
     "weapon-dual-blades-rending-beaks-i": {
       "Key": "weapon-dual-blades-rending-beaks-i",
-      "Translation": null
+      "Translation": "Schneidende Schnäbel I"
     },
     "weapon-dual-blades-rending-beaks-ii": {
       "Key": "weapon-dual-blades-rending-beaks-ii",
-      "Translation": null
+      "Translation": "Schneidende Schnäbel II"
     },
     "weapon-dual-blades-rending-beaks-iii": {
       "Key": "weapon-dual-blades-rending-beaks-iii",
-      "Translation": null
+      "Translation": "Schneidende Schnäbel III"
     },
     "weapon-dual-blades-rookslayer-handaxes": {
       "Key": "weapon-dual-blades-rookslayer-handaxes",
-      "Translation": null
+      "Translation": "Bazel-Handäxte"
     },
     "weapon-dual-blades-sin": {
       "Key": "weapon-dual-blades-sin",
-      "Translation": null
+      "Translation": "Sünde"
     },
     "weapon-dual-blades-spark-gold-twinblades": {
       "Key": "weapon-dual-blades-spark-gold-twinblades",
-      "Translation": null
+      "Translation": "Goldzwillinge \"Kadachi\""
     },
     "weapon-dual-blades-strong-hatchets-i": {
       "Key": "weapon-dual-blades-strong-hatchets-i",
-      "Translation": null
+      "Translation": "Starke Beile I"
     },
     "weapon-dual-blades-strong-hatchets-ii": {
       "Key": "weapon-dual-blades-strong-hatchets-ii",
-      "Translation": null
+      "Translation": "Starke Beile II"
     },
     "weapon-dual-blades-sworn-rapiers": {
       "Key": "weapon-dual-blades-sworn-rapiers",
-      "Translation": null
+      "Translation": "Vereidigte Degen"
     },
     "weapon-dual-blades-sworn-rapiers-plus": {
       "Key": "weapon-dual-blades-sworn-rapiers-plus",
-      "Translation": null
+      "Translation": "Vereidigte Degen+"
     },
     "weapon-dual-blades-taroth-daggers-blast": {
       "Key": "weapon-dual-blades-taroth-daggers-blast",
@@ -14305,7 +14305,7 @@ export default {
     },
     "weapon-dual-blades-taroth-daggers-lurk": {
       "Key": "weapon-dual-blades-taroth-daggers-lurk",
-      "Translation": null
+      "Translation": "Taroth-Dolche \"Hornetaur\""
     },
     "weapon-dual-blades-taroth-daggers-magma": {
       "Key": "weapon-dual-blades-taroth-daggers-magma",
@@ -14317,7 +14317,7 @@ export default {
     },
     "weapon-dual-blades-taroth-daggers-poison": {
       "Key": "weapon-dual-blades-taroth-daggers-poison",
-      "Translation": null
+      "Translation": "Taroth-Dolche \"Gift\""
     },
     "weapon-dual-blades-taroth-daggers-rage": {
       "Key": "weapon-dual-blades-taroth-daggers-rage",
@@ -14337,11 +14337,11 @@ export default {
     },
     "weapon-dual-blades-taurus-pangas-i": {
       "Key": "weapon-dual-blades-taurus-pangas-i",
-      "Translation": null
+      "Translation": "Taurus-Pangas I"
     },
     "weapon-dual-blades-taurus-pangas-ii": {
       "Key": "weapon-dual-blades-taurus-pangas-ii",
-      "Translation": null
+      "Translation": "Taurus-Pangas II"
     },
     "weapon-dual-blades-thief-gold-twinblades": {
       "Key": "weapon-dual-blades-thief-gold-twinblades",
@@ -14349,31 +14349,31 @@ export default {
     },
     "weapon-dual-blades-twin-nails": {
       "Key": "weapon-dual-blades-twin-nails",
-      "Translation": null
+      "Translation": "Zwillingsnägel"
     },
     "weapon-dual-blades-wild-hatchets-i": {
       "Key": "weapon-dual-blades-wild-hatchets-i",
-      "Translation": null
+      "Translation": "Wilde Beile I"
     },
     "weapon-dual-blades-wild-hatchets-ii": {
       "Key": "weapon-dual-blades-wild-hatchets-ii",
-      "Translation": null
+      "Translation": "Wilde Beile II"
     },
     "weapon-dual-blades-wild-hatchets-iii": {
       "Key": "weapon-dual-blades-wild-hatchets-iii",
-      "Translation": null
+      "Translation": "Wilde Beile III"
     },
     "weapon-dual-blades-wrath-and-rancor": {
       "Key": "weapon-dual-blades-wrath-and-rancor",
-      "Translation": null
+      "Translation": "Zorn & Hass"
     },
     "weapon-dual-blades-wrathful-predation": {
       "Key": "weapon-dual-blades-wrathful-predation",
-      "Translation": null
+      "Translation": "Ingrimmiger Raub"
     },
     "weapon-dual-blades-xeno-raqs": {
       "Key": "weapon-dual-blades-xeno-raqs",
-      "Translation": null
+      "Translation": "Xeno-Raqs"
     },
     "weapon-dual-blades-zireael": {
       "Key": "weapon-dual-blades-zireael",
@@ -14381,143 +14381,143 @@ export default {
     },
     "weapon-great-sword-anguish": {
       "Key": "weapon-great-sword-anguish",
-      "Translation": null
+      "Translation": "Pein"
     },
     "weapon-great-sword-aqua-slasher-i": {
       "Key": "weapon-great-sword-aqua-slasher-i",
-      "Translation": null
+      "Translation": "Aqua-Hacker I"
     },
     "weapon-great-sword-aqua-slasher-ii": {
       "Key": "weapon-great-sword-aqua-slasher-ii",
-      "Translation": null
+      "Translation": "Aqua-Hacker II"
     },
     "weapon-great-sword-aqua-slasher-iii": {
       "Key": "weapon-great-sword-aqua-slasher-iii",
-      "Translation": null
+      "Translation": "Aqua-Hacker III"
     },
     "weapon-great-sword-barroth-shredder-i": {
       "Key": "weapon-great-sword-barroth-shredder-i",
-      "Translation": null
+      "Translation": "Barroth-Schredder I"
     },
     "weapon-great-sword-barroth-shredder-ii": {
       "Key": "weapon-great-sword-barroth-shredder-ii",
-      "Translation": null
+      "Translation": "Barroth-Schredder II"
     },
     "weapon-great-sword-barroth-shredder-iii": {
       "Key": "weapon-great-sword-barroth-shredder-iii",
-      "Translation": null
+      "Translation": "Barroth-Schredder III"
     },
     "weapon-great-sword-berserker-sword": {
       "Key": "weapon-great-sword-berserker-sword",
-      "Translation": null
+      "Translation": "Berserker-Schwert"
     },
     "weapon-great-sword-blacksteel-chopper-i": {
       "Key": "weapon-great-sword-blacksteel-chopper-i",
-      "Translation": null
+      "Translation": "Schwarzstahl-Hackmesser I"
     },
     "weapon-great-sword-blacksteel-chopper-ii": {
       "Key": "weapon-great-sword-blacksteel-chopper-ii",
-      "Translation": null
+      "Translation": "Schwarzstahl-Hackmesser II"
     },
     "weapon-great-sword-blooming-blade-i": {
       "Key": "weapon-great-sword-blooming-blade-i",
-      "Translation": null
+      "Translation": "Blühende Klinge I"
     },
     "weapon-great-sword-blooming-blade-ii": {
       "Key": "weapon-great-sword-blooming-blade-ii",
-      "Translation": null
+      "Translation": "Blühende Klinge II"
     },
     "weapon-great-sword-blooming-blade-iii": {
       "Key": "weapon-great-sword-blooming-blade-iii",
-      "Translation": null
+      "Translation": "Blühende Klinge III"
     },
     "weapon-great-sword-blue-wing": {
       "Key": "weapon-great-sword-blue-wing",
-      "Translation": null
+      "Translation": "Blauer Flügel"
     },
     "weapon-great-sword-bone-blade-i": {
       "Key": "weapon-great-sword-bone-blade-i",
-      "Translation": null
+      "Translation": "Knochenklinge I"
     },
     "weapon-great-sword-bone-blade-ii": {
       "Key": "weapon-great-sword-bone-blade-ii",
-      "Translation": null
+      "Translation": "Knochenklinge II"
     },
     "weapon-great-sword-bone-blade-iii": {
       "Key": "weapon-great-sword-bone-blade-iii",
-      "Translation": null
+      "Translation": "Knochenklinge III"
     },
     "weapon-great-sword-bone-slasher-i": {
       "Key": "weapon-great-sword-bone-slasher-i",
-      "Translation": null
+      "Translation": "Knochenhacker I"
     },
     "weapon-great-sword-bone-slasher-ii": {
       "Key": "weapon-great-sword-bone-slasher-ii",
-      "Translation": null
+      "Translation": "Knochenhacker II"
     },
     "weapon-great-sword-bone-slasher-iii": {
       "Key": "weapon-great-sword-bone-slasher-iii",
-      "Translation": null
+      "Translation": "Knochenhacker III"
     },
     "weapon-great-sword-buster-blade-i": {
       "Key": "weapon-great-sword-buster-blade-i",
-      "Translation": null
+      "Translation": "Schmetterklinge I"
     },
     "weapon-great-sword-buster-blade-ii": {
       "Key": "weapon-great-sword-buster-blade-ii",
-      "Translation": null
+      "Translation": "Schmetterklinge II"
     },
     "weapon-great-sword-buster-blade-iii": {
       "Key": "weapon-great-sword-buster-blade-iii",
-      "Translation": null
+      "Translation": "Schmetterklinge III"
     },
     "weapon-great-sword-buster-sword-i": {
       "Key": "weapon-great-sword-buster-sword-i",
-      "Translation": null
+      "Translation": "Schmetterschwert I"
     },
     "weapon-great-sword-buster-sword-ii": {
       "Key": "weapon-great-sword-buster-sword-ii",
-      "Translation": null
+      "Translation": "Schmetterschwert II"
     },
     "weapon-great-sword-buster-sword-iii": {
       "Key": "weapon-great-sword-buster-sword-iii",
-      "Translation": null
+      "Translation": "Schmetterschwert III"
     },
     "weapon-great-sword-carapace-buster-i": {
       "Key": "weapon-great-sword-carapace-buster-i",
-      "Translation": null
+      "Translation": "Panzerbrecher I"
     },
     "weapon-great-sword-carapace-buster-ii": {
       "Key": "weapon-great-sword-carapace-buster-ii",
-      "Translation": null
+      "Translation": "Panzerbrecher II"
     },
     "weapon-great-sword-carapace-buster-iii": {
       "Key": "weapon-great-sword-carapace-buster-iii",
-      "Translation": null
+      "Translation": "Panzerbrecher III"
     },
     "weapon-great-sword-chrome-razor-i": {
       "Key": "weapon-great-sword-chrome-razor-i",
-      "Translation": null
+      "Translation": "Chrom-Rasiermesser I"
     },
     "weapon-great-sword-chrome-razor-ii": {
       "Key": "weapon-great-sword-chrome-razor-ii",
-      "Translation": null
+      "Translation": "Chrom-Rasiermesser II"
     },
     "weapon-great-sword-daoras-decimator": {
       "Key": "weapon-great-sword-daoras-decimator",
-      "Translation": null
+      "Translation": "Daoras Dezimator"
     },
     "weapon-great-sword-datura-blaze-i": {
       "Key": "weapon-great-sword-datura-blaze-i",
-      "Translation": null
+      "Translation": "Datura-Lohe I"
     },
     "weapon-great-sword-datura-blaze-ii": {
       "Key": "weapon-great-sword-datura-blaze-ii",
-      "Translation": null
+      "Translation": "Datura-Lohe II"
     },
     "weapon-great-sword-datura-blaze-iii": {
       "Key": "weapon-great-sword-datura-blaze-iii",
-      "Translation": null
+      "Translation": "Datura-Lohe III"
     },
     "weapon-great-sword-decay-gold-fellsword": {
       "Key": "weapon-great-sword-decay-gold-fellsword",
@@ -14525,31 +14525,31 @@ export default {
     },
     "weapon-great-sword-dragonbone-cleaver-i": {
       "Key": "weapon-great-sword-dragonbone-cleaver-i",
-      "Translation": null
+      "Translation": "Drachenknochenspalter I"
     },
     "weapon-great-sword-dragonbone-cleaver-ii": {
       "Key": "weapon-great-sword-dragonbone-cleaver-ii",
-      "Translation": null
+      "Translation": "Drachenknochenspalter II"
     },
     "weapon-great-sword-dragonbone-cleaver-iii": {
       "Key": "weapon-great-sword-dragonbone-cleaver-iii",
-      "Translation": null
+      "Translation": "Drachenknochenspalter III"
     },
     "weapon-great-sword-empress-galea": {
       "Key": "weapon-great-sword-empress-galea",
-      "Translation": null
+      "Translation": "Kaiserin-Bihänder"
     },
     "weapon-great-sword-empress-galea-blaze": {
       "Key": "weapon-great-sword-empress-galea-blaze",
-      "Translation": null
+      "Translation": "Kaiserin-Bihänder \"Lunastra\""
     },
     "weapon-great-sword-empress-galea-ruin": {
       "Key": "weapon-great-sword-empress-galea-ruin",
-      "Translation": null
+      "Translation": "Kaiserin-Bihänder \"Nergingante\""
     },
     "weapon-great-sword-empress-galea-styx": {
       "Key": "weapon-great-sword-empress-galea-styx",
-      "Translation": null
+      "Translation": "Kaiserin-Bihänder \"Xeno'jiiva\""
     },
     "weapon-great-sword-erupter-gold-fellsword": {
       "Key": "weapon-great-sword-erupter-gold-fellsword",
@@ -14557,51 +14557,51 @@ export default {
     },
     "weapon-great-sword-flame blade-i": {
       "Key": "weapon-great-sword-flame blade-i",
-      "Translation": null
+      "Translation": "Flammenklinge I"
     },
     "weapon-great-sword-flame blade-ii": {
       "Key": "weapon-great-sword-flame blade-ii",
-      "Translation": null
+      "Translation": "Flammenklinge II"
     },
     "weapon-great-sword-flammenzahn": {
       "Key": "weapon-great-sword-flammenzahn",
-      "Translation": null
+      "Translation": "Flammenzahn"
     },
     "weapon-great-sword-flammenzahn-plus": {
       "Key": "weapon-great-sword-flammenzahn-plus",
-      "Translation": null
+      "Translation": "Flammenzahn+"
     },
     "weapon-great-sword-freeze-blade-i": {
       "Key": "weapon-great-sword-freeze-blade-i",
-      "Translation": null
+      "Translation": "Frostklinge I"
     },
     "weapon-great-sword-freeze-blade-ii": {
       "Key": "weapon-great-sword-freeze-blade-ii",
-      "Translation": null
+      "Translation": "Frostklinge II"
     },
     "weapon-great-sword-frost-blaze-i": {
       "Key": "weapon-great-sword-frost-blaze-i",
-      "Translation": null
+      "Translation": "Frostlohe I"
     },
     "weapon-great-sword-frost-blaze-ii": {
       "Key": "weapon-great-sword-frost-blaze-ii",
-      "Translation": null
+      "Translation": "Frostlohe II"
     },
     "weapon-great-sword-giant-jawblade-i": {
       "Key": "weapon-great-sword-giant-jawblade-i",
-      "Translation": null
+      "Translation": "Riesige Kiefernklinge I"
     },
     "weapon-great-sword-giant-jawblade-ii": {
       "Key": "weapon-great-sword-giant-jawblade-ii",
-      "Translation": null
+      "Translation": "Riesige Kiefernklinge II"
     },
     "weapon-great-sword-girros-blade-i": {
       "Key": "weapon-great-sword-girros-blade-i",
-      "Translation": null
+      "Translation": "Girros-Klinge I"
     },
     "weapon-great-sword-girros-blade-ii": {
       "Key": "weapon-great-sword-girros-blade-ii",
-      "Translation": null
+      "Translation": "Girros-Klinge II"
     },
     "weapon-great-sword-glutton-gold-fellsword": {
       "Key": "weapon-great-sword-glutton-gold-fellsword",
@@ -14609,11 +14609,11 @@ export default {
     },
     "weapon-great-sword-gnashing-flammenzahn": {
       "Key": "weapon-great-sword-gnashing-flammenzahn",
-      "Translation": null
+      "Translation": "Knirschender Flammenzahn"
     },
     "weapon-great-sword-gold-ice-fellsword": {
       "Key": "weapon-great-sword-gold-ice-fellsword",
-      "Translation": null
+      "Translation": "Gold-Fällschwert \"Eis\""
     },
     "weapon-great-sword-gold-sleep-fellsword": {
       "Key": "weapon-great-sword-gold-sleep-fellsword",
@@ -14621,43 +14621,43 @@ export default {
     },
     "weapon-great-sword-gold-water-fellsword": {
       "Key": "weapon-great-sword-gold-water-fellsword",
-      "Translation": null
+      "Translation": "Gold-Fällschwert \"Wasser\""
     },
     "weapon-great-sword-great-wyvern-jawblade": {
       "Key": "weapon-great-sword-great-wyvern-jawblade",
-      "Translation": null
+      "Translation": "Großwyvern-Kiefernklinge"
     },
     "weapon-great-sword-hazak-kys": {
       "Key": "weapon-great-sword-hazak-kys",
-      "Translation": null
+      "Translation": "Hazak-Kys"
     },
     "weapon-great-sword-icesteel-edge": {
       "Key": "weapon-great-sword-icesteel-edge",
-      "Translation": null
+      "Translation": "Stahleis-Schneide"
     },
     "weapon-great-sword-jagras-blade-i": {
       "Key": "weapon-great-sword-jagras-blade-i",
-      "Translation": null
+      "Translation": "Jagras-Klinge I"
     },
     "weapon-great-sword-jagras-blade-ii": {
       "Key": "weapon-great-sword-jagras-blade-ii",
-      "Translation": null
+      "Translation": "Jagras-Klinge II"
     },
     "weapon-great-sword-jagras-blade-iii": {
       "Key": "weapon-great-sword-jagras-blade-iii",
-      "Translation": null
+      "Translation": "Jagras-Klinge III"
     },
     "weapon-great-sword-jagras-hacker-i": {
       "Key": "weapon-great-sword-jagras-hacker-i",
-      "Translation": null
+      "Translation": "Jagras-Hacker I"
     },
     "weapon-great-sword-jagras-hacker-ii": {
       "Key": "weapon-great-sword-jagras-hacker-ii",
-      "Translation": null
+      "Translation": "Jagras-Hacker II"
     },
     "weapon-great-sword-jagras-hacker-iii": {
       "Key": "weapon-great-sword-jagras-hacker-iii",
-      "Translation": null
+      "Translation": "Jagras-Hacker III"
     },
     "weapon-great-sword-king-gold-fellsword": {
       "Key": "weapon-great-sword-king-gold-fellsword",
@@ -14665,11 +14665,11 @@ export default {
     },
     "weapon-great-sword-king-thundersword": {
       "Key": "weapon-great-sword-king-thundersword",
-      "Translation": null
+      "Translation": "Königsdonnerschwert"
     },
     "weapon-great-sword-kirin-thundersword": {
       "Key": "weapon-great-sword-kirin-thundersword",
-      "Translation": null
+      "Translation": "Kirin-Donnerschwert"
     },
     "weapon-great-sword-kjarr-fellsword-decay": {
       "Key": "weapon-great-sword-kjarr-fellsword-decay",
@@ -14705,35 +14705,35 @@ export default {
     },
     "weapon-great-sword-lava-blaze-i": {
       "Key": "weapon-great-sword-lava-blaze-i",
-      "Translation": null
+      "Translation": "Lava-Lohe I"
     },
     "weapon-great-sword-lava-blaze-ii": {
       "Key": "weapon-great-sword-lava-blaze-ii",
-      "Translation": null
+      "Translation": "Lava-Lohe II"
     },
     "weapon-great-sword-leviathans-fury": {
       "Key": "weapon-great-sword-leviathans-fury",
-      "Translation": null
+      "Translation": "Leviathans Wut"
     },
     "weapon-great-sword-lightning-punisher-i": {
       "Key": "weapon-great-sword-lightning-punisher-i",
-      "Translation": null
+      "Translation": "Blitz-Bestrafer I"
     },
     "weapon-great-sword-lightning-punisher-ii": {
       "Key": "weapon-great-sword-lightning-punisher-ii",
-      "Translation": null
+      "Translation": "Blitz-Bestrafer II"
     },
     "weapon-great-sword-lightning-punisher-iii": {
       "Key": "weapon-great-sword-lightning-punisher-iii",
-      "Translation": null
+      "Translation": "Blitz-Bestrafer III"
     },
     "weapon-great-sword-magda-potestas-i": {
       "Key": "weapon-great-sword-magda-potestas-i",
-      "Translation": null
+      "Translation": "Magdaros-Potestas I"
     },
     "weapon-great-sword-magda-potestas-ii": {
       "Key": "weapon-great-sword-magda-potestas-ii",
-      "Translation": null
+      "Translation": "Magdaros-Potestas II"
     },
     "weapon-great-sword-magma-gold-fellsword": {
       "Key": "weapon-great-sword-magma-gold-fellsword",
@@ -14741,23 +14741,23 @@ export default {
     },
     "weapon-great-sword-maladys-kiss-i": {
       "Key": "weapon-great-sword-maladys-kiss-i",
-      "Translation": null
+      "Translation": "Leidenskuss I"
     },
     "weapon-great-sword-maladys-kiss-ii": {
       "Key": "weapon-great-sword-maladys-kiss-ii",
-      "Translation": null
+      "Translation": "Leidenskuss II"
     },
     "weapon-great-sword-maladys-kiss-iii": {
       "Key": "weapon-great-sword-maladys-kiss-iii",
-      "Translation": null
+      "Translation": "Leidenskuss III"
     },
     "weapon-great-sword-mud-gold-fellsword": {
       "Key": "weapon-great-sword-mud-gold-fellsword",
-      "Translation": null
+      "Translation": "Gold-Fällschwert \"Barroth\""
     },
     "weapon-great-sword-nergal-judicator": {
       "Key": "weapon-great-sword-nergal-judicator",
-      "Translation": null
+      "Translation": "Nergal-Richter"
     },
     "weapon-great-sword-numb-gold-fellsword": {
       "Key": "weapon-great-sword-numb-gold-fellsword",
@@ -14765,39 +14765,39 @@ export default {
     },
     "weapon-great-sword-purgations-atrocity": {
       "Key": "weapon-great-sword-purgations-atrocity",
-      "Translation": null
+      "Translation": "Atrozität"
     },
     "weapon-great-sword-radobaan-slab-i": {
       "Key": "weapon-great-sword-radobaan-slab-i",
-      "Translation": null
+      "Translation": "Baan-Zernichter I"
     },
     "weapon-great-sword-radobaan-slab-ii": {
       "Key": "weapon-great-sword-radobaan-slab-ii",
-      "Translation": null
+      "Translation": "Baan-Zernichter II"
     },
     "weapon-great-sword-radobaan-slab-iii": {
       "Key": "weapon-great-sword-radobaan-slab-iii",
-      "Translation": null
+      "Translation": "Baan-Zernichter III"
     },
     "weapon-great-sword-rathalos-glinsword": {
       "Key": "weapon-great-sword-rathalos-glinsword",
-      "Translation": null
+      "Translation": "Rathalos-Glühschwert"
     },
     "weapon-great-sword-red-wing": {
       "Key": "weapon-great-sword-red-wing",
-      "Translation": null
+      "Translation": "Roter Flügel"
     },
     "weapon-great-sword-spew-gold-fellsword": {
       "Key": "weapon-great-sword-spew-gold-fellsword",
-      "Translation": null
+      "Translation": "Gold-Fällschwert \"Pukei\""
     },
     "weapon-great-sword-spiked-blade-i": {
       "Key": "weapon-great-sword-spiked-blade-i",
-      "Translation": null
+      "Translation": "Stachelige Klinge I"
     },
     "weapon-great-sword-spiked-blade-ii": {
       "Key": "weapon-great-sword-spiked-blade-ii",
-      "Translation": null
+      "Translation": "Stachelige Klinge II"
     },
     "weapon-great-sword-tar-gold-fellsword": {
       "Key": "weapon-great-sword-tar-gold-fellsword",
@@ -14833,11 +14833,11 @@ export default {
     },
     "weapon-great-sword-taroth-blaze-numb": {
       "Key": "weapon-great-sword-taroth-blaze-numb",
-      "Translation": null
+      "Translation": "Taroth-Lohe \"Girros\""
     },
     "weapon-great-sword-taroth-blaze-sleep": {
       "Key": "weapon-great-sword-taroth-blaze-sleep",
-      "Translation": null
+      "Translation": "Taroth-Lohe \"Schlaf\""
     },
     "weapon-great-sword-taroth-blaze-spew": {
       "Key": "weapon-great-sword-taroth-blaze-spew",
@@ -14857,43 +14857,43 @@ export default {
     },
     "weapon-great-sword-thunder-blade-i": {
       "Key": "weapon-great-sword-thunder-blade-i",
-      "Translation": null
+      "Translation": "Donnerklinge I"
     },
     "weapon-great-sword-thunder-blade-ii": {
       "Key": "weapon-great-sword-thunder-blade-ii",
-      "Translation": null
+      "Translation": "Donnerklinge II"
     },
     "weapon-great-sword-thundersword": {
       "Key": "weapon-great-sword-thundersword",
-      "Translation": null
+      "Translation": "Donnerschwert"
     },
     "weapon-great-sword-water-golem-i": {
       "Key": "weapon-great-sword-water-golem-i",
-      "Translation": null
+      "Translation": "Wassergolem I"
     },
     "weapon-great-sword-water-golem-ii": {
       "Key": "weapon-great-sword-water-golem-ii",
-      "Translation": null
+      "Translation": "Wassergolem II"
     },
     "weapon-great-sword-water-golem-iii": {
       "Key": "weapon-great-sword-water-golem-iii",
-      "Translation": null
+      "Translation": "Wassergolem III"
     },
     "weapon-great-sword-wyvern-ignition-impact": {
       "Key": "weapon-great-sword-wyvern-ignition-impact",
-      "Translation": null
+      "Translation": "Wyvernzündung \"Aufprall\""
     },
     "weapon-great-sword-wyvern-ignition-steel": {
       "Key": "weapon-great-sword-wyvern-ignition-steel",
-      "Translation": null
+      "Translation": "Wyvernzündung \"Stahl\""
     },
     "weapon-great-sword-wyvern-jawblade": {
       "Key": "weapon-great-sword-wyvern-jawblade",
-      "Translation": null
+      "Translation": "Wyvern-Kiefernklinge"
     },
     "weapon-great-sword-xeno-maliq": {
       "Key": "weapon-great-sword-xeno-maliq",
-      "Translation": null
+      "Translation": "Xeno-Maliq"
     },
     "weapon-hammer-anja-striker-i": {
       "Key": "weapon-hammer-anja-striker-i",
@@ -16521,7 +16521,7 @@ export default {
     },
     "weapon-tree-anjanath-tree": {
       "Key": "weapon-tree-anjanath-tree",
-      "Translation": "Anjanath Tree"
+      "Translation": "Anjanath-Baum"
     },
     "weapon-tree-azure-star-tree": {
       "Key": "weapon-tree-azure-star-tree",
@@ -16529,7 +16529,7 @@ export default {
     },
     "weapon-tree-barroth-tree": {
       "Key": "weapon-tree-barroth-tree",
-      "Translation": "Barroth Tree"
+      "Translation": "Barroth-Baum"
     },
     "weapon-tree-bazelgeuse-tree": {
       "Key": "weapon-tree-bazelgeuse-tree",
@@ -16537,15 +16537,15 @@ export default {
     },
     "weapon-tree-blacksteel-tree": {
       "Key": "weapon-tree-blacksteel-tree",
-      "Translation": "Blacksteel Tree"
+      "Translation": "Schwarzstahl-Baum"
     },
     "weapon-tree-bone-tree": {
       "Key": "weapon-tree-bone-tree",
-      "Translation": "Bone Tree"
+      "Translation": "Knochen-Baum"
     },
     "weapon-tree-deviljho-tree": {
       "Key": "weapon-tree-deviljho-tree",
-      "Translation": "Deviljho Tree"
+      "Translation": "Dämonjho-Baum"
     },
     "weapon-tree-diablos-tree": {
       "Key": "weapon-tree-diablos-tree",
@@ -16553,15 +16553,15 @@ export default {
     },
     "weapon-tree-dragonbone-tree": {
       "Key": "weapon-tree-dragonbone-tree",
-      "Translation": "Dragonbone Tree"
+      "Translation": "Drachenknochen-Baum"
     },
     "weapon-tree-great-girros-tree": {
       "Key": "weapon-tree-great-girros-tree",
-      "Translation": "Great Girros Tree"
+      "Translation": "Groß-Girros-Baum"
     },
     "weapon-tree-great-jagras-tree": {
       "Key": "weapon-tree-great-jagras-tree",
-      "Translation": "Great Jagras Tree"
+      "Translation": "Groß-Jagras-Baum"
     },
     "weapon-tree-hornetaur-tree": {
       "Key": "weapon-tree-hornetaur-tree",
@@ -16569,7 +16569,7 @@ export default {
     },
     "weapon-tree-ice-element-tree": {
       "Key": "weapon-tree-ice-element-tree",
-      "Translation": "Ice Element Tree"
+      "Translation": "Eiselement-Baum"
     },
     "weapon-tree-jyuratodus-tree": {
       "Key": "weapon-tree-jyuratodus-tree",
@@ -16577,7 +16577,7 @@ export default {
     },
     "weapon-tree-kirin-tree": {
       "Key": "weapon-tree-kirin-tree",
-      "Translation": "Kirin Tree"
+      "Translation": "Kirin-Baum"
     },
     "weapon-tree-kulu-ya-ku-tree": {
       "Key": "weapon-tree-kulu-ya-ku-tree",
@@ -16585,11 +16585,11 @@ export default {
     },
     "weapon-tree-kulve-taroth-relic-weapons": {
       "Key": "weapon-tree-kulve-taroth-relic-weapons",
-      "Translation": "Kulve Taroth Relic Weapons"
+      "Translation": "Kulve Taroth Relikt Waffen"
     },
     "weapon-tree-lavasioth-tree": {
       "Key": "weapon-tree-lavasioth-tree",
-      "Translation": "Lavasioth Tree"
+      "Translation": "Lavasioth-Baum"
     },
     "weapon-tree-legiana-tree": {
       "Key": "weapon-tree-legiana-tree",
@@ -16609,7 +16609,7 @@ export default {
     },
     "weapon-tree-nergigante-tree": {
       "Key": "weapon-tree-nergigante-tree",
-      "Translation": "Nergigante Tree"
+      "Translation": "Nergigante.Baum"
     },
     "weapon-tree-odogaron-tree": {
       "Key": "weapon-tree-odogaron-tree",
@@ -16617,7 +16617,7 @@ export default {
     },
     "weapon-tree-ore-tree": {
       "Key": "weapon-tree-ore-tree",
-      "Translation": "Ore Tree"
+      "Translation": "Erz-Baum"
     },
     "weapon-tree-paolumu-tree": {
       "Key": "weapon-tree-paolumu-tree",
@@ -16625,15 +16625,15 @@ export default {
     },
     "weapon-tree-pukei-pukei-tree": {
       "Key": "weapon-tree-pukei-pukei-tree",
-      "Translation": "Pukei-Pukei Tree"
+      "Translation": "Pukei-Pukei-Baum"
     },
     "weapon-tree-radobaan-tree": {
       "Key": "weapon-tree-radobaan-tree",
-      "Translation": "Radobaan Tree"
+      "Translation": "Radobaan-Baum"
     },
     "weapon-tree-rathalos-tree": {
       "Key": "weapon-tree-rathalos-tree",
-      "Translation": "Rathalos Tree"
+      "Translation": "Rathalos-Baum"
     },
     "weapon-tree-rathian-tree": {
       "Key": "weapon-tree-rathian-tree",
@@ -16645,7 +16645,7 @@ export default {
     },
     "weapon-tree-thunder-element-tree": {
       "Key": "weapon-tree-thunder-element-tree",
-      "Translation": "Thunder Element Tree"
+      "Translation": "Donnerelement-Baum"
     },
     "weapon-tree-tobi-kadachi-tree": {
       "Key": "weapon-tree-tobi-kadachi-tree",
@@ -16661,27 +16661,27 @@ export default {
     },
     "weapon-tree-vaal-hazak-tree": {
       "Key": "weapon-tree-vaal-hazak-tree",
-      "Translation": "Vaal Hazak Tree"
+      "Translation": "Vaal Hazak-Baum"
     },
     "weapon-tree-water-element-tree": {
       "Key": "weapon-tree-water-element-tree",
-      "Translation": "Water Element Tree"
+      "Translation": "Wasserelement-Baum"
     },
     "weapon-tree-workshop-weapon-tree": {
       "Key": "weapon-tree-workshop-weapon-tree",
-      "Translation": "Workshop Weapon Tree"
+      "Translation": "Werkstatt-Waffenbaum"
     },
     "weapon-tree-wyvern-ignition": {
       "Key": "weapon-tree-wyvern-ignition",
-      "Translation": "Wyvern Ignition"
+      "Translation": "Wyvernzündung-Baum"
     },
     "weapon-tree-xenojiiva-tree": {
       "Key": "weapon-tree-xenojiiva-tree",
-      "Translation": "Xeno'jiiva Tree"
+      "Translation": "Xeno'jiiva-Baum"
     },
     "weapon-tree-zorah-magdaros-tree": {
       "Key": "weapon-tree-zorah-magdaros-tree",
-      "Translation": "Zorah Magdaros Tree"
+      "Translation": "Zorah-Magdaros Tree"
     },
     "wishlist-empty": {
       "Key": "wishlist-empty",
@@ -17281,7 +17281,7 @@ export default {
     },
     "armors-master-rank": {
       "Key": "armors-master-rank",
-      "Translation": "Master Rank"
+      "Translation": "Meisterrang"
     },
     "armor-mr-acidic-glavenus-alpha-plus": {
       "Key": "armor-mr-acidic-glavenus-alpha-plus",
@@ -17930,5 +17930,213 @@ export default {
     "monster-zinogre": {
       "Key": "monster-zinogre",
       "Translation": "Zinogre"
+    },
+    "monster-barioth": {
+      "Key": "monster-barioth",
+      "Translation": "Barioth"
+    },
+    "armor-mr-acidic-glavenus-braces-alpha-plus": {
+      "Key": "armor-mr-acidic-glavenus-braces-alpha-plus",
+      "Translation": "Acidic Glavenus Braces ⍺+"
+    },
+    "armor-mr-acidic-glavenus-braces-beta-plus": {
+      "Key": "armor-mr-acidic-glavenus-braces-beta-plus",
+      "Translation": "Acidic Glavenus Braces ß+"
+    },
+    "armor-mr-acidic-glavenus-coil-alpha-plus": {
+      "Key": "armor-mr-acidic-glavenus-coil-alpha-plus",
+      "Translation": "Acidic Glavenus Coil ⍺+"
+    },
+    "armor-mr-acidic-glavenus-coil-beta-plus": {
+      "Key": "armor-mr-acidic-glavenus-coil-beta-plus",
+      "Translation": "Acidic Glavenus Coil ß+"
+    },
+    "armor-mr-acidic-glavenus-greaves-alpha-plus": {
+      "Key": "armor-mr-acidic-glavenus-greaves-alpha-plus",
+      "Translation": "Acidic Glavenus Greaves ⍺+"
+    },
+    "armor-mr-acidic-glavenus-greaves-beta-plus": {
+      "Key": "armor-mr-acidic-glavenus-greaves-beta-plus",
+      "Translation": "Acidic Glavenus Greaves ß+"
+    },
+    "armor-mr-acidic-glavenus-helm-alpha-plus": {
+      "Key": "armor-mr-acidic-glavenus-helm-alpha-plus",
+      "Translation": "Acidic Glavenus Helm ⍺+"
+    },
+    "armor-mr-acidic-glavenus-helm-beta-plus": {
+      "Key": "armor-mr-acidic-glavenus-helm-beta-plus",
+      "Translation": "Acidic Glavenus Helm ß+"
+    },
+    "armor-mr-acidic-glavenus-mail-alpha-plus": {
+      "Key": "armor-mr-acidic-glavenus-mail-alpha-plus",
+      "Translation": "Acidic Glavenus Mail ⍺+"
+    },
+    "armor-mr-acidic-glavenus-mail-beta-plus": {
+      "Key": "armor-mr-acidic-glavenus-mail-beta-plus",
+      "Translation": "Acidic Glavenus Mail ß+"
+    },
+    "armor-mr-alloy-coil-alpha-plus": {
+      "Key": "armor-mr-alloy-coil-alpha-plus",
+      "Translation": "Alloy Coil ⍺+"
+    },
+    "armor-mr-alloy-coil-beta-plus": {
+      "Key": "armor-mr-alloy-coil-beta-plus",
+      "Translation": "Alloy Coil ß+"
+    },
+    "armor-mr-alloy-greaves-alpha-plus": {
+      "Key": "armor-mr-alloy-greaves-alpha-plus",
+      "Translation": "Alloy Greaves ⍺+"
+    },
+    "armor-mr-alloy-greaves-beta-plus": {
+      "Key": "armor-mr-alloy-greaves-beta-plus",
+      "Translation": "Alloy Greaves ß+"
+    },
+    "armor-mr-alloy-helm-alpha-plus": {
+      "Key": "armor-mr-alloy-helm-alpha-plus",
+      "Translation": "Alloy Helm ⍺+"
+    },
+    "armor-mr-alloy-helm-beta-plus": {
+      "Key": "armor-mr-alloy-helm-beta-plus",
+      "Translation": "Alloy Helm ß+"
+    },
+    "armor-mr-alloy-mail-alpha-plus": {
+      "Key": "armor-mr-alloy-mail-alpha-plus",
+      "Translation": "Alloy Mail ⍺+"
+    },
+    "armor-mr-alloy-vambraces-alpha-plus": {
+      "Key": "armor-mr-alloy-vambraces-alpha-plus",
+      "Translation": "Alloy Vambraces ⍺+"
+    },
+    "armor-mr-anja-coil-alpha-plus": {
+      "Key": "armor-mr-anja-coil-alpha-plus",
+      "Translation": "Anja Coil ⍺+"
+    },
+    "armor-mr-anja-coil-beta-plus": {
+      "Key": "armor-mr-anja-coil-beta-plus",
+      "Translation": "Anja Coil ß+"
+    },
+    "armor-mr-anja-greaves-alpha-plus": {
+      "Key": "armor-mr-anja-greaves-alpha-plus",
+      "Translation": "Anja Greaves ⍺+"
+    },
+    "armor-mr-anja-greaves-beta-plus": {
+      "Key": "armor-mr-anja-greaves-beta-plus",
+      "Translation": "Anja Greaves ß+"
+    },
+    "armor-mr-anja-helm-alpha-plus": {
+      "Key": "armor-mr-anja-helm-alpha-plus",
+      "Translation": "Anja Helm ⍺+"
+    },
+    "armor-mr-anja-helm-beta-plus": {
+      "Key": "armor-mr-anja-helm-beta-plus",
+      "Translation": "Anja Helm ß+"
+    },
+    "armor-mr-anja-mail-alpha-plus": {
+      "Key": "armor-mr-anja-mail-alpha-plus",
+      "Translation": "Anja Mail ⍺+"
+    },
+    "armor-mr-anja-mail-beta-plus": {
+      "Key": "armor-mr-anja-mail-beta-plus",
+      "Translation": "Anja Mail ß+"
+    },
+    "armor-mr-anja-vambraces-alpha-plus": {
+      "Key": "armor-mr-anja-vambraces-alpha-plus",
+      "Translation": "Anja Vambraces ⍺+"
+    },
+    "armor-mr-anja-vambraces-beta-plus": {
+      "Key": "armor-mr-anja-vambraces-beta-plus",
+      "Translation": "Anja Vambraces ß+"
+    },
+    "armor-mr-artian-coil-alpha-plus": {
+      "Key": "armor-mr-artian-coil-alpha-plus",
+      "Translation": "Artian Coil ⍺+"
+    },
+    "armor-mr-artian-coil-beta-plus": {
+      "Key": "armor-mr-artian-coil-beta-plus",
+      "Translation": "Artian Coil ß+"
+    },
+    "armor-mr-artian-greaves-alpha-plus": {
+      "Key": "armor-mr-artian-greaves-alpha-plus",
+      "Translation": "Artian Greaves ⍺+"
+    },
+    "armor-mr-artian-greaves-beta-plus": {
+      "Key": "armor-mr-artian-greaves-beta-plus",
+      "Translation": "Artian Greaves ß+"
+    },
+    "armor-mr-artian-helm-alpha-plus": {
+      "Key": "armor-mr-artian-helm-alpha-plus",
+      "Translation": "Artian Helm ⍺+"
+    },
+    "armor-mr-artian-helm-beta-plus": {
+      "Key": "armor-mr-artian-helm-beta-plus",
+      "Translation": "Artian Helm ß+"
+    },
+    "armor-mr-artian-mail-alpha-plus": {
+      "Key": "armor-mr-artian-mail-alpha-plus",
+      "Translation": "Artian Mail ⍺+"
+    },
+    "armor-mr-artian-mail-beta-plus": {
+      "Key": "armor-mr-artian-mail-beta-plus",
+      "Translation": "Artian Mail ß+"
+    },
+    "armor-mr-artian-vambraces-alpha-plus": {
+      "Key": "armor-mr-artian-vambraces-alpha-plus",
+      "Translation": "Artian Vambraces ⍺+"
+    },
+    "armor-mr-baan-coil-alpha-plus": {
+      "Key": "armor-mr-baan-coil-alpha-plus",
+      "Translation": "Baan Coil ⍺+"
+    },
+    "armor-mr-baan-coil-beta-plus": {
+      "Key": "armor-mr-baan-coil-beta-plus",
+      "Translation": "Baan Coil ß+"
+    },
+    "armor-mr-baan-greaves-alpha-plus": {
+      "Key": "armor-mr-baan-greaves-alpha-plus",
+      "Translation": "Baan Greaves ⍺+"
+    },
+    "armor-mr-baan-greaves-beta-plus": {
+      "Key": "armor-mr-baan-greaves-beta-plus",
+      "Translation": "Baan Greaves ß+"
+    },
+    "armor-mr-baan-helm-alpha-plus": {
+      "Key": "armor-mr-baan-helm-alpha-plus",
+      "Translation": "Baan Helm ⍺+"
+    },
+    "armor-mr-baan-helm-beta-plus": {
+      "Key": "armor-mr-baan-helm-beta-plus",
+      "Translation": "Baan Helm ß+"
+    },
+    "armor-mr-baan-mail-alpha-plus": {
+      "Key": "armor-mr-baan-mail-alpha-plus",
+      "Translation": "Baan Mail ⍺+"
+    },
+    "armor-mr-baan-mail-beta-plus": {
+      "Key": "armor-mr-baan-mail-beta-plus",
+      "Translation": "Baan Mail ß+"
+    },
+    "armor-mr-baan-vambraces-alpha-plus": {
+      "Key": "armor-mr-baan-vambraces-alpha-plus",
+      "Translation": "Baan Vambraces ⍺+"
+    },
+    "armor-mr-baan-vambraces-beta-plus": {
+      "Key": "armor-mr-baan-vambraces-beta-plus",
+      "Translation": "Baan Vambraces ß+"
+    },
+    "armor-mr-banbaro-coil-alpha-plus": {
+      "Key": "armor-mr-banbaro-coil-alpha-plus",
+      "Translation": "Banbaro Coil ⍺+"
+    },
+    "armor-mr-banbaro-coil-beta-plus": {
+      "Key": "armor-mr-banbaro-coil-beta-plus",
+      "Translation": "Banbaro Coil ß+"
+    },
+    "armor-mr-banbaro-greaves-alpha-plus": {
+      "Key": "armor-mr-banbaro-greaves-alpha-plus",
+      "Translation": "Banbaro Greaves ⍺+"
+    },
+    "armor-mr-banbaro-greaves-beta-plus": {
+      "Key": "armor-mr-banbaro-greaves-beta-plus",
+      "Translation": "Banbaro Greaves ß+"
     }
   }

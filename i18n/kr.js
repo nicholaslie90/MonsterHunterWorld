@@ -17874,5 +17874,213 @@ export default {
     "monster-zinogre": {
       "Key": "monster-zinogre",
       "Translation": "Zinogre"
+    },
+    "monster-barioth": {
+      "Key": "monster-barioth",
+      "Translation": "Barioth"
+    },
+    "armor-mr-acidic-glavenus-braces-alpha-plus": {
+      "Key": "armor-mr-acidic-glavenus-braces-alpha-plus",
+      "Translation": "Acidic Glavenus Braces ⍺+"
+    },
+    "armor-mr-acidic-glavenus-braces-beta-plus": {
+      "Key": "armor-mr-acidic-glavenus-braces-beta-plus",
+      "Translation": "Acidic Glavenus Braces ß+"
+    },
+    "armor-mr-acidic-glavenus-coil-alpha-plus": {
+      "Key": "armor-mr-acidic-glavenus-coil-alpha-plus",
+      "Translation": "Acidic Glavenus Coil ⍺+"
+    },
+    "armor-mr-acidic-glavenus-coil-beta-plus": {
+      "Key": "armor-mr-acidic-glavenus-coil-beta-plus",
+      "Translation": "Acidic Glavenus Coil ß+"
+    },
+    "armor-mr-acidic-glavenus-greaves-alpha-plus": {
+      "Key": "armor-mr-acidic-glavenus-greaves-alpha-plus",
+      "Translation": "Acidic Glavenus Greaves ⍺+"
+    },
+    "armor-mr-acidic-glavenus-greaves-beta-plus": {
+      "Key": "armor-mr-acidic-glavenus-greaves-beta-plus",
+      "Translation": "Acidic Glavenus Greaves ß+"
+    },
+    "armor-mr-acidic-glavenus-helm-alpha-plus": {
+      "Key": "armor-mr-acidic-glavenus-helm-alpha-plus",
+      "Translation": "Acidic Glavenus Helm ⍺+"
+    },
+    "armor-mr-acidic-glavenus-helm-beta-plus": {
+      "Key": "armor-mr-acidic-glavenus-helm-beta-plus",
+      "Translation": "Acidic Glavenus Helm ß+"
+    },
+    "armor-mr-acidic-glavenus-mail-alpha-plus": {
+      "Key": "armor-mr-acidic-glavenus-mail-alpha-plus",
+      "Translation": "Acidic Glavenus Mail ⍺+"
+    },
+    "armor-mr-acidic-glavenus-mail-beta-plus": {
+      "Key": "armor-mr-acidic-glavenus-mail-beta-plus",
+      "Translation": "Acidic Glavenus Mail ß+"
+    },
+    "armor-mr-alloy-coil-alpha-plus": {
+      "Key": "armor-mr-alloy-coil-alpha-plus",
+      "Translation": "Alloy Coil ⍺+"
+    },
+    "armor-mr-alloy-coil-beta-plus": {
+      "Key": "armor-mr-alloy-coil-beta-plus",
+      "Translation": "Alloy Coil ß+"
+    },
+    "armor-mr-alloy-greaves-alpha-plus": {
+      "Key": "armor-mr-alloy-greaves-alpha-plus",
+      "Translation": "Alloy Greaves ⍺+"
+    },
+    "armor-mr-alloy-greaves-beta-plus": {
+      "Key": "armor-mr-alloy-greaves-beta-plus",
+      "Translation": "Alloy Greaves ß+"
+    },
+    "armor-mr-alloy-helm-alpha-plus": {
+      "Key": "armor-mr-alloy-helm-alpha-plus",
+      "Translation": "Alloy Helm ⍺+"
+    },
+    "armor-mr-alloy-helm-beta-plus": {
+      "Key": "armor-mr-alloy-helm-beta-plus",
+      "Translation": "Alloy Helm ß+"
+    },
+    "armor-mr-alloy-mail-alpha-plus": {
+      "Key": "armor-mr-alloy-mail-alpha-plus",
+      "Translation": "Alloy Mail ⍺+"
+    },
+    "armor-mr-alloy-vambraces-alpha-plus": {
+      "Key": "armor-mr-alloy-vambraces-alpha-plus",
+      "Translation": "Alloy Vambraces ⍺+"
+    },
+    "armor-mr-anja-coil-alpha-plus": {
+      "Key": "armor-mr-anja-coil-alpha-plus",
+      "Translation": "Anja Coil ⍺+"
+    },
+    "armor-mr-anja-coil-beta-plus": {
+      "Key": "armor-mr-anja-coil-beta-plus",
+      "Translation": "Anja Coil ß+"
+    },
+    "armor-mr-anja-greaves-alpha-plus": {
+      "Key": "armor-mr-anja-greaves-alpha-plus",
+      "Translation": "Anja Greaves ⍺+"
+    },
+    "armor-mr-anja-greaves-beta-plus": {
+      "Key": "armor-mr-anja-greaves-beta-plus",
+      "Translation": "Anja Greaves ß+"
+    },
+    "armor-mr-anja-helm-alpha-plus": {
+      "Key": "armor-mr-anja-helm-alpha-plus",
+      "Translation": "Anja Helm ⍺+"
+    },
+    "armor-mr-anja-helm-beta-plus": {
+      "Key": "armor-mr-anja-helm-beta-plus",
+      "Translation": "Anja Helm ß+"
+    },
+    "armor-mr-anja-mail-alpha-plus": {
+      "Key": "armor-mr-anja-mail-alpha-plus",
+      "Translation": "Anja Mail ⍺+"
+    },
+    "armor-mr-anja-mail-beta-plus": {
+      "Key": "armor-mr-anja-mail-beta-plus",
+      "Translation": "Anja Mail ß+"
+    },
+    "armor-mr-anja-vambraces-alpha-plus": {
+      "Key": "armor-mr-anja-vambraces-alpha-plus",
+      "Translation": "Anja Vambraces ⍺+"
+    },
+    "armor-mr-anja-vambraces-beta-plus": {
+      "Key": "armor-mr-anja-vambraces-beta-plus",
+      "Translation": "Anja Vambraces ß+"
+    },
+    "armor-mr-artian-coil-alpha-plus": {
+      "Key": "armor-mr-artian-coil-alpha-plus",
+      "Translation": "Artian Coil ⍺+"
+    },
+    "armor-mr-artian-coil-beta-plus": {
+      "Key": "armor-mr-artian-coil-beta-plus",
+      "Translation": "Artian Coil ß+"
+    },
+    "armor-mr-artian-greaves-alpha-plus": {
+      "Key": "armor-mr-artian-greaves-alpha-plus",
+      "Translation": "Artian Greaves ⍺+"
+    },
+    "armor-mr-artian-greaves-beta-plus": {
+      "Key": "armor-mr-artian-greaves-beta-plus",
+      "Translation": "Artian Greaves ß+"
+    },
+    "armor-mr-artian-helm-alpha-plus": {
+      "Key": "armor-mr-artian-helm-alpha-plus",
+      "Translation": "Artian Helm ⍺+"
+    },
+    "armor-mr-artian-helm-beta-plus": {
+      "Key": "armor-mr-artian-helm-beta-plus",
+      "Translation": "Artian Helm ß+"
+    },
+    "armor-mr-artian-mail-alpha-plus": {
+      "Key": "armor-mr-artian-mail-alpha-plus",
+      "Translation": "Artian Mail ⍺+"
+    },
+    "armor-mr-artian-mail-beta-plus": {
+      "Key": "armor-mr-artian-mail-beta-plus",
+      "Translation": "Artian Mail ß+"
+    },
+    "armor-mr-artian-vambraces-alpha-plus": {
+      "Key": "armor-mr-artian-vambraces-alpha-plus",
+      "Translation": "Artian Vambraces ⍺+"
+    },
+    "armor-mr-baan-coil-alpha-plus": {
+      "Key": "armor-mr-baan-coil-alpha-plus",
+      "Translation": "Baan Coil ⍺+"
+    },
+    "armor-mr-baan-coil-beta-plus": {
+      "Key": "armor-mr-baan-coil-beta-plus",
+      "Translation": "Baan Coil ß+"
+    },
+    "armor-mr-baan-greaves-alpha-plus": {
+      "Key": "armor-mr-baan-greaves-alpha-plus",
+      "Translation": "Baan Greaves ⍺+"
+    },
+    "armor-mr-baan-greaves-beta-plus": {
+      "Key": "armor-mr-baan-greaves-beta-plus",
+      "Translation": "Baan Greaves ß+"
+    },
+    "armor-mr-baan-helm-alpha-plus": {
+      "Key": "armor-mr-baan-helm-alpha-plus",
+      "Translation": "Baan Helm ⍺+"
+    },
+    "armor-mr-baan-helm-beta-plus": {
+      "Key": "armor-mr-baan-helm-beta-plus",
+      "Translation": "Baan Helm ß+"
+    },
+    "armor-mr-baan-mail-alpha-plus": {
+      "Key": "armor-mr-baan-mail-alpha-plus",
+      "Translation": "Baan Mail ⍺+"
+    },
+    "armor-mr-baan-mail-beta-plus": {
+      "Key": "armor-mr-baan-mail-beta-plus",
+      "Translation": "Baan Mail ß+"
+    },
+    "armor-mr-baan-vambraces-alpha-plus": {
+      "Key": "armor-mr-baan-vambraces-alpha-plus",
+      "Translation": "Baan Vambraces ⍺+"
+    },
+    "armor-mr-baan-vambraces-beta-plus": {
+      "Key": "armor-mr-baan-vambraces-beta-plus",
+      "Translation": "Baan Vambraces ß+"
+    },
+    "armor-mr-banbaro-coil-alpha-plus": {
+      "Key": "armor-mr-banbaro-coil-alpha-plus",
+      "Translation": "Banbaro Coil ⍺+"
+    },
+    "armor-mr-banbaro-coil-beta-plus": {
+      "Key": "armor-mr-banbaro-coil-beta-plus",
+      "Translation": "Banbaro Coil ß+"
+    },
+    "armor-mr-banbaro-greaves-alpha-plus": {
+      "Key": "armor-mr-banbaro-greaves-alpha-plus",
+      "Translation": "Banbaro Greaves ⍺+"
+    },
+    "armor-mr-banbaro-greaves-beta-plus": {
+      "Key": "armor-mr-banbaro-greaves-beta-plus",
+      "Translation": "Banbaro Greaves ß+"
     }
   }
