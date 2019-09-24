@@ -33740,6 +33740,108 @@ let masterRankArmors = [{
     'name': 'Banbaro ⍺+',
     'translationKey': 'armor-mr-banbaro-alpha-plus',
     'icon': require('./assets/armors/sets/banbaro_alpha_plus.png'),
+    'head': {
+        'name': 'Banbaro Helm ⍺+',
+        'translationKey': 'armor-mr-banbaro-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/banbaro_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '130',
+        'slots': '2 - -',
+        'vsFire': '-2',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '3',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Resentment',
+            'level': '2'
+        }, {
+            'name': 'Mushroomancer',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Banbaro Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Banbaro Great Horn',
+            'quantity': '1'
+        },{
+            'name': 'Anteka Antler',
+            'quantity': '2'
+        },],
+        'cost': '12000',
+    },
+    'upperBody': {
+        'name': 'Banbaro Mail ⍺+',
+        'translationKey': 'armor-mr-banbaro-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/banbaro_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '130',
+        'slots': '3 - -',
+        'vsFire': '-2',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '3',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Speed Eating',
+            'level': '1'
+        }, {
+            'name': 'Offensive Guard',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Banbaro Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Banbaro Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Banbaro Great Horn',
+            'quantity': '1'
+        },{
+            'name': 'Prized Pelt',
+            'quantity': '2'
+        },],
+        'cost': '12000',
+    },
+    'hands': {
+        'name': 'Banbaro Vambraces ⍺+',
+        'translationKey': 'armor-mr-banbaro-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/banbaro_vambraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '130',
+        'slots': '2 - -',
+        'vsFire': '-2',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '3',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Offensive Guard',
+            'level': '1'
+        }, {
+            'name': 'Health Boost',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Banbaro Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Banbaro Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Banbaro Lash',
+            'quantity': '1'
+        },],
+        'cost': '12000',
+    },
     'lowerBody': {
         'name': 'Banbaro Coil ⍺+',
         'translationKey': 'armor-mr-banbaro-coil-alpha-plus',
@@ -33816,6 +33918,102 @@ let masterRankArmors = [{
     'name': 'Banbaro ß+',
     'translationKey': 'armor-mr-banbaro-beta-plus',
     'icon': require('./assets/armors/sets/banbaro_beta_plus.png'),
+    'head': {
+        'name': 'Banbaro Helm ß+',
+        'translationKey': 'armor-mr-banbaro-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/banbaro_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '130',
+        'slots': '4 1 -',
+        'vsFire': '-2',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '3',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Resentment',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Banbaro Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Banbaro Great Horn',
+            'quantity': '1'
+        },{
+            'name': 'Anteka Antler',
+            'quantity': '2'
+        },],
+        'cost': '12000',
+    },
+    'upperBody': {
+        'name': 'Banbaro Mail ß+',
+        'translationKey': 'armor-mr-banbaro-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/banbaro_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '130',
+        'slots': '4 1 -',
+        'vsFire': '-2',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '3',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Speed Eating',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Banbaro Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Banbaro Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Banbaro Great Horn',
+            'quantity': '1'
+        },{
+            'name': 'Prized Pelt',
+            'quantity': '2'
+        },],
+        'cost': '12000',
+    },
+    'hands': {
+        'name': 'Banbaro Vambraces ß+',
+        'translationKey': 'armor-mr-banbaro-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/banbaro_vambraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '130',
+        'slots': '4 - -',
+        'vsFire': '-2',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '3',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Offensive Guard',
+            'level': '1'
+        }, {
+            'name': 'Health Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Banbaro Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Banbaro Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Banbaro Lash',
+            'quantity': '1'
+        },],
+        'cost': '12000',
+    },
     'lowerBody': {
         'name': 'Banbaro Coil ß+',
         'translationKey': 'armor-mr-banbaro-coil-beta-plus',
@@ -33886,6 +34084,186 @@ let masterRankArmors = [{
     'name': 'Barioth ⍺+',
     'translationKey': 'armor-mr-barioth-alpha-plus',
     'icon': require('./assets/armors/sets/barioth_alpha_plus.png'),
+    'head': {
+        'name': 'Barioth Helm ⍺+',
+        'translationKey': 'armor-mr-barioth-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/barioth_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '138',
+        'slots': '1 1 -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Evade Extender',
+            'level': '2'
+        }, {
+            'name': 'Power Prolonger',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Barioth Thickfur',
+            'quantity': '2'
+        }, {
+            'name': 'Amber Hardfang',
+            'quantity': '1'
+        },{
+            'name': 'Barioth Greatspike',
+            'quantity': '3'
+        },{
+            'name': 'Wulg Thickfur',
+            'quantity': '2'
+        },],
+        'cost': '15000',
+    },
+    'upperBody': {
+        'name': 'Barioth Mail ⍺+',
+        'translationKey': 'armor-mr-barioth-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/barioth_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '138',
+        'slots': '3 - -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Power Prolonger',
+            'level': '1'
+        }, {
+            'name': 'Constitution',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Barioth Thickfur',
+            'quantity': '2'
+        }, {
+            'name': 'Barioth Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Barioth Hardclaw',
+            'quantity': '1'
+        },{
+            'name': 'Frozen Bone',
+            'quantity': '2'
+        },],
+        'cost': '15000',
+    },
+    'hands': {
+        'name': 'Barioth Vambraces ⍺+',
+        'translationKey': 'armor-mr-barioth-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/barioth_vambraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '138',
+        'slots': '2 - -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Recovery Up',
+            'level': '2'
+        }, {
+            'name': 'Constitution',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Barioth Thickfur',
+            'quantity': '2'
+        }, {
+            'name': 'Barioth Cortex',
+            'quantity': '1'
+        },{
+            'name': 'Barioth Lash',
+            'quantity': '1'
+        },{
+            'name': 'Tough Claw',
+            'quantity': '3'
+        },],
+        'cost': '15000',
+    },
+    'lowerBody': {
+        'name': 'Barioth Faulds ⍺+',
+        'translationKey': 'armor-mr-barioth-faulds-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/barioth_faulds_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '138',
+        'slots': '3 - -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Quick Sheath',
+            'level': '1'
+        }, {
+            'name': 'Recovery Up',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Barioth Thickfur',
+            'quantity': '2'
+        }, {
+            'name': 'Barioth Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Barioth Greatspike',
+            'quantity': '2'
+        },{
+            'name': 'Wulg Thickfur',
+            'quantity': '2'
+        },],
+        'cost': '15000',
+    },
+    'legs': {
+        'name': 'Barioth Greaves ⍺+',
+        'translationKey': 'armor-mr-barioth-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/barioth_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '138',
+        'slots': '1 1 -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Constitution',
+            'level': '2'
+        }, {
+            'name': 'Quick Sheath',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Barioth Thickfur',
+            'quantity': '2'
+        }, {
+            'name': 'Amber Hardfang',
+            'quantity': '2'
+        },{
+            'name': 'Barioth Hardclaw',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Gem',
+            'quantity': '1'
+        },],
+        'cost': '15000',
+    },
     'totalDefense': '690',
     'totalFireDefense': '-15',
     'totalWaterDefense': '10',
@@ -33896,6 +34274,180 @@ let masterRankArmors = [{
     'name': 'Barioth ß+',
     'translationKey': 'armor-mr-barioth-beta-plus',
     'icon': require('./assets/armors/sets/barioth_beta_plus.png'),
+    'head': {
+        'name': 'Barioth Helm ß+',
+        'translationKey': 'armor-mr-barioth-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/barioth_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '138',
+        'slots': '4 1 -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Evade Extender',
+            'level': '1'
+        }, {
+            'name': 'Power Prolonger',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Barioth Thickfur',
+            'quantity': '2'
+        }, {
+            'name': 'Amber Hardfang',
+            'quantity': '1'
+        },{
+            'name': 'Barioth Greatspike',
+            'quantity': '3'
+        },{
+            'name': 'Wulg Thickfur',
+            'quantity': '2'
+        },],
+        'cost': '15000',
+    },
+    'upperBody': {
+        'name': 'Barioth Mail ß+',
+        'translationKey': 'armor-mr-barioth-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/barioth_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '138',
+        'slots': '4 1 -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Power Prolonger',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Barioth Thickfur',
+            'quantity': '2'
+        }, {
+            'name': 'Barioth Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Barioth Hardclaw',
+            'quantity': '1'
+        },{
+            'name': 'Frozen Bone',
+            'quantity': '2'
+        },],
+        'cost': '15000',
+    },
+    'hands': {
+        'name': 'Barioth Vambraces ß+',
+        'translationKey': 'armor-mr-barioth-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/barioth_vambraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '138',
+        'slots': '4 - -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Recovery Up',
+            'level': '2'
+        }, {
+            'name': 'Constitution',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Barioth Thickfur',
+            'quantity': '2'
+        }, {
+            'name': 'Barioth Cortex',
+            'quantity': '1'
+        },{
+            'name': 'Barioth Lash',
+            'quantity': '1'
+        },{
+            'name': 'Tough Claw',
+            'quantity': '3'
+        },],
+        'cost': '15000',
+    },
+    'lowerBody': {
+        'name': 'Barioth Faulds ß+',
+        'translationKey': 'armor-mr-barioth-faulds-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/barioth_faulds_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '138',
+        'slots': '4 - -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Quick Sheath',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Barioth Thickfur',
+            'quantity': '2'
+        }, {
+            'name': 'Barioth Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Barioth Greatspike',
+            'quantity': '2'
+        },{
+            'name': 'Wulg Thickfur',
+            'quantity': '2'
+        },],
+        'cost': '15000',
+    },
+    'legs': {
+        'name': 'Barioth Greaves ß+',
+        'translationKey': 'armor-mr-barioth-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/barioth_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '138',
+        'slots': '4 1 -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Constitution',
+            'level': '1'
+        }, {
+            'name': 'Quick Sheath',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Barioth Thickfur',
+            'quantity': '2'
+        }, {
+            'name': 'Amber Hardfang',
+            'quantity': '2'
+        },{
+            'name': 'Barioth Hardclaw',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Gem',
+            'quantity': '1'
+        },],
+        'cost': '15000',
+    },
     'totalDefense': '690',
     'totalFireDefense': '-15',
     'totalWaterDefense': '10',
@@ -33906,6 +34458,39 @@ let masterRankArmors = [{
     'name': 'Barnos ⍺+',
     'translationKey': 'armor-mr-barnos-alpha-plus',
     'icon': require('./assets/armors/sets/barnos_alpha_plus.png'),
+    'upperBody': {
+        'name': 'Barnos Jacket ⍺+',
+        'translationKey': 'armor-mr-barnos-jacket-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/barnos_jacket_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '116',
+        'slots': '2 2 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '0',
+        'vsIce': '1',
+        'vsDragon': '-2',
+        'skills': [{
+            'name': 'Heat Guard',
+            'level': '1'
+        }, {
+            'name': 'Iron Skin',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Barnos Hardclaw',
+            'quantity': '2'
+        }, {
+            'name': 'Wingdrake Finehide',
+            'quantity': '2'
+        },{
+            'name': 'Meldspar Ore',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
     'totalDefense': '116',
     'totalFireDefense': '1',
     'totalWaterDefense': '1',
@@ -33916,6 +34501,39 @@ let masterRankArmors = [{
     'name': 'Barnos ß+',
     'translationKey': 'armor-mr-barnos-beta-plus',
     'icon': require('./assets/armors/sets/barnos_beta_plus.png'),
+    'upperBody': {
+        'name': 'Barnos Jacket ß+',
+        'translationKey': 'armor-mr-barnos-jacket-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/barnos_jacket_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '116',
+        'slots': '4 2 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '0',
+        'vsIce': '1',
+        'vsDragon': '-2',
+        'skills': [{
+            'name': 'Heat Guard',
+            'level': '1'
+        }, {
+            'name': 'Iron Skin',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Barnos Hardclaw',
+            'quantity': '2'
+        }, {
+            'name': 'Wingdrake Finehide',
+            'quantity': '2'
+        },{
+            'name': 'Meldspar Ore',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
     'totalDefense': '116',
     'totalFireDefense': '1',
     'totalWaterDefense': '1',
@@ -33926,6 +34544,177 @@ let masterRankArmors = [{
     'name': 'Barroth ⍺+',
     'translationKey': 'armor-mr-barroth-alpha-plus',
     'icon': require('./assets/armors/sets/barroth_alpha_plus.png'),
+    'head': {
+        'name': 'Barroth Helm ⍺+',
+        'translationKey': 'armor-mr-barroth-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/barroth_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '2 - -',
+        'vsFire': '-3',
+        'vsWater': '-1',
+        'vsThunder': '3',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Guard',
+            'level': '2'
+        }, {
+            'name': 'Marathon Runner',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Barroth Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Barroth Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Monster Toughbone',
+            'quantity': '3'
+        },{
+            'name': 'Rich Mud',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'upperBody': {
+        'name': 'Barroth Mail ⍺+',
+        'translationKey': 'armor-mr-barroth-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/barroth_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '1 1 -',
+        'vsFire': '-3',
+        'vsWater': '-1',
+        'vsThunder': '3',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Stamina Thief',
+            'level': '2'
+        }, {
+            'name': 'Agitator',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Barroth Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Barroth Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Rich Mud',
+            'quantity': '2'
+        },],
+        'cost': '9000',
+    },
+    'hands': {
+        'name': 'Barroth Vambraces ⍺+',
+        'translationKey': 'armor-mr-barroth-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/barroth_vambraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '3 1 -',
+        'vsFire': '-3',
+        'vsWater': '-1',
+        'vsThunder': '3',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Marathon Runner',
+            'level': '1'
+        }, {
+            'name': 'Guard',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Barroth Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Barroth Lash',
+            'quantity': '1'
+        },{
+            'name': 'Kestodon Husk',
+            'quantity': '2'
+        },],
+        'cost': '9000',
+    },
+    'lowerBody': {
+        'name': 'Barroth Coil ⍺+',
+        'translationKey': 'armor-mr-barroth-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/barroth_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '1 - -',
+        'vsFire': '-3',
+        'vsWater': '-1',
+        'vsThunder': '3',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '2'
+        }, {
+            'name': 'Guard',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Barroth Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Barroth Crown',
+            'quantity': '1'
+        },{
+            'name': 'Barroth Hardclaw',
+            'quantity': '1'
+        },{
+            'name': 'Rich Mud',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'legs': {
+        'name': 'Barroth Greaves ⍺+',
+        'translationKey': 'armor-mr-barroth-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/barroth_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '3 1 -',
+        'vsFire': '-3',
+        'vsWater': '-1',
+        'vsThunder': '3',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Stun Resistance',
+            'level': '2'
+        }, {
+            'name': 'Marathon Runner',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Barroth Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Barroth Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Barroth Hardclaw',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
     'totalDefense': '590',
     'totalFireDefense': '-15',
     'totalWaterDefense': '-5',
@@ -33936,6 +34725,162 @@ let masterRankArmors = [{
     'name': 'Barroth ß+',
     'translationKey': 'armor-mr-barroth-beta-plus',
     'icon': require('./assets/armors/sets/barroth_beta_plus.png'),
+    'head': {
+        'name': 'Barroth Helm ß+',
+        'translationKey': 'armor-mr-barroth-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/barroth_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '4 1 -',
+        'vsFire': '-3',
+        'vsWater': '-1',
+        'vsThunder': '3',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Guard',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Barroth Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Barroth Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Monster Toughbone',
+            'quantity': '3'
+        },{
+            'name': 'Rich Mud',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'upperBody': {
+        'name': 'Barroth Mail ß+',
+        'translationKey': 'armor-mr-barroth-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/barroth_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '4 1 -',
+        'vsFire': '-3',
+        'vsWater': '-1',
+        'vsThunder': '3',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Stamina Thief',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Barroth Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Barroth Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Rich Mud',
+            'quantity': '2'
+        },],
+        'cost': '9000',
+    },
+    'hands': {
+        'name': 'Barroth Vambraces ß+',
+        'translationKey': 'armor-mr-barroth-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/barroth_vambraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '4 2 -',
+        'vsFire': '-3',
+        'vsWater': '-1',
+        'vsThunder': '3',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Marathon Runner',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Barroth Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Barroth Lash',
+            'quantity': '1'
+        },{
+            'name': 'Kestodon Husk',
+            'quantity': '2'
+        },],
+        'cost': '9000',
+    },
+    'lowerBody': {
+        'name': 'Barroth Coil ß+',
+        'translationKey': 'armor-mr-barroth-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/barroth_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '4 - -',
+        'vsFire': '-3',
+        'vsWater': '-1',
+        'vsThunder': '3',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Barroth Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Barroth Crown',
+            'quantity': '1'
+        },{
+            'name': 'Barroth Hardclaw',
+            'quantity': '1'
+        },{
+            'name': 'Rich Mud',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'legs': {
+        'name': 'Barroth Greaves ß+',
+        'translationKey': 'armor-mr-barroth-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/barroth_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '4 2 1',
+        'vsFire': '-3',
+        'vsWater': '-1',
+        'vsThunder': '3',
+        'vsIce': '-1',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Stun Resistance',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Barroth Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Barroth Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Barroth Hardclaw',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
     'totalDefense': '590',
     'totalFireDefense': '-15',
     'totalWaterDefense': '-5',
@@ -33946,6 +34891,174 @@ let masterRankArmors = [{
     'name': 'Beo ⍺+',
     'translationKey': 'armor-mr-beo-alpha-plus',
     'icon': require('./assets/armors/sets/beo_alpha_plus.png'),
+    'head': {
+        'name': 'Beo Helm ⍺+',
+        'translationKey': 'armor-mr-beo-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/beo_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '2 - -',
+        'vsFire': '-3',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Aquatic/Polar Mobility',
+            'level': '2'
+        }, {
+            'name': 'Earplugs',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Beotodus Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Beotodus Shard',
+            'quantity': '2'
+        },{
+            'name': 'Beotodus Grandfin',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'upperBody': {
+        'name': 'Beo Mail ⍺+',
+        'translationKey': 'armor-mr-beo-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/beo_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '3 - -',
+        'vsFire': '-3',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Stamina Surge',
+            'level': '1'
+        }, {
+            'name': 'Ice Attack',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Beotodus Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Beotodus Shard',
+            'quantity': '2'
+        },{
+            'name': 'Beotodus Hardhorn',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'hands': {
+        'name': 'Beo Vambraces ⍺+',
+        'translationKey': 'armor-mr-beo-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/beo_vambraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '3 - -',
+        'vsFire': '-3',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Ice Attack',
+            'level': '2'
+        }, {
+            'name': 'Health Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Beotodus Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Beotodus Hardhorn',
+            'quantity': '2'
+        },{
+            'name': 'Cryo Sac',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'lowerBody': {
+        'name': 'Beo Coil ⍺+',
+        'translationKey': 'armor-mr-beo-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/beo_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '2 - -',
+        'vsFire': '-3',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Health Boost',
+            'level': '2'
+        }, {
+            'name': 'Earplugs',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Beotodus Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Beotodus Shard',
+            'quantity': '1'
+        },{
+            'name': 'Cryo Sac',
+            'quantity': '2'
+        },],
+        'cost': '9000',
+    },
+    'legs': {
+        'name': 'Beo Greaves ⍺+',
+        'translationKey': 'armor-mr-beo-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/beo_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '2 - -',
+        'vsFire': '-3',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Earplugs',
+            'level': '2'
+        }, {
+            'name': 'Ice Attack',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Beotodus Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Beotodus Hardhorn',
+            'quantity': '1'
+        },{
+            'name': 'Beotodus Grandfin',
+            'quantity': '2'
+        },{
+            'name': 'Gracium',
+            'quantity': '3'
+        },],
+        'cost': '9000',
+    },
     'totalDefense': '590',
     'totalFireDefense': '-15',
     'totalWaterDefense': '0',
@@ -33956,6 +35069,162 @@ let masterRankArmors = [{
     'name': 'Beo ß+',
     'translationKey': 'armor-mr-beo-beta-plus',
     'icon': require('./assets/armors/sets/beo_beta_plus.png'),
+    'head': {
+        'name': 'Beo Helm ß+',
+        'translationKey': 'armor-mr-beo-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/beo_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '4 1 -',
+        'vsFire': '-3',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Aquatic/Polar Mobility',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Beotodus Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Beotodus Shard',
+            'quantity': '2'
+        },{
+            'name': 'Beotodus Grandfin',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'upperBody': {
+        'name': 'Beo Mail ß+',
+        'translationKey': 'armor-mr-beo-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/beo_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '4 2 -',
+        'vsFire': '-3',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Stamina Surge',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Beotodus Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Beotodus Shard',
+            'quantity': '2'
+        },{
+            'name': 'Beotodus Hardhorn',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'hands': {
+        'name': 'Beo Vambraces ß+',
+        'translationKey': 'armor-mr-beo-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/beo_vambraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '4 - -',
+        'vsFire': '-3',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Ice Attack',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Beotodus Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Beotodus Hardhorn',
+            'quantity': '2'
+        },{
+            'name': 'Cryo Sac',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'lowerBody': {
+        'name': 'Beo Coil ß+',
+        'translationKey': 'armor-mr-beo-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/beo_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '4 1 -',
+        'vsFire': '-3',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Health Boost',
+            'level': '2'
+        }, {
+            'name': 'Earplugs',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Beotodus Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Beotodus Shard',
+            'quantity': '1'
+        },{
+            'name': 'Cryo Sac',
+            'quantity': '2'
+        },],
+        'cost': '9000',
+    },
+    'legs': {
+        'name': 'Beo Greaves ß+',
+        'translationKey': 'armor-mr-beo-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/beo_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '118',
+        'slots': '4 - -',
+        'vsFire': '-3',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Earplugs',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Beotodus Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Beotodus Hardhorn',
+            'quantity': '1'
+        },{
+            'name': 'Beotodus Grandfin',
+            'quantity': '2'
+        },{
+            'name': 'Gracium',
+            'quantity': '3'
+        },],
+        'cost': '9000',
+    },
     'totalDefense': '590',
     'totalFireDefense': '-15',
     'totalWaterDefense': '0',

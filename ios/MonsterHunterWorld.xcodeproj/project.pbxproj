@@ -1320,7 +1320,7 @@
 			baseConfigurationReference = 7A490A9A0E5ED23DC72953C3 /* Pods-MonsterHunterWorld.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = 234BP4Y7M5;
 				HEADER_SEARCH_PATHS = (
@@ -1348,7 +1348,7 @@
 			baseConfigurationReference = 867C642D90840FD9888E30D6 /* Pods-MonsterHunterWorld.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 234BP4Y7M5;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
