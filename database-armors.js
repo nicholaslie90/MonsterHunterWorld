@@ -35235,6 +35235,171 @@ let masterRankArmors = [{
     'name': 'Black Belt ⍺+',
     'translationKey': 'armor-mr-black-belt-alpha-plus',
     'icon': require('./assets/armors/sets/black_belt_alpha_plus.png'),
+    'head': {
+        'name': 'Black Belt Helm ⍺+',
+        'translationKey': 'armor-mr-black-belt-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/black_belt_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '3 - -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Marathon Runner',
+            'level': '2'
+        }, {
+            'name': 'Mushroomancer',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        }, {
+            'name': 'Odogaron Coin',
+            'quantity': '3'
+        },{
+            'name': 'Cortos Hardclaw',
+            'quantity': '3'
+        },],
+        'cost': '18000',
+    },
+    'upperBody': {
+        'name': 'Black Belt Mail ⍺+',
+        'translationKey': 'armor-mr-black-belt-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/black_belt_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '1 1 1',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Mushroomancer',
+            'level': '2'
+        }, {
+            'name': 'Wide-Range',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        }, {
+            'name': 'Nargacuga Coin',
+            'quantity': '3'
+        },{
+            'name': 'Vespoid Razorwing',
+            'quantity': '3'
+        },],
+        'cost': '18000',
+    },
+    'hands': {
+        'name': 'Black Belt Braces ⍺+',
+        'translationKey': 'armor-mr-black-belt-braces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/black_belt_braces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '3 - -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Wide-Range',
+            'level': '2'
+        }, {
+            'name': 'Horn Maestro',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        }, {
+            'name': 'Banbaro Coin',
+            'quantity': '3'
+        },{
+            'name': 'Anteka Antler',
+            'quantity': '2'
+        },],
+        'cost': '18000',
+    },
+    'lowerBody': {
+        'name': 'Black Belt Tassets ⍺+',
+        'translationKey': 'armor-mr-black-belt-tassets-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/black_belt_tassets_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '3 - -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Recovery Up',
+            'level': '2'
+        }, {
+            'name': 'Marathon Runner',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        }, {
+            'name': 'Paolumu Coin',
+            'quantity': '3'
+        },{
+            'name': 'Steel Gajau Whisker',
+            'quantity': '2'
+        },],
+        'cost': '18000',
+    },
+    'legs': {
+        'name': 'Black Belt Greaves ⍺+',
+        'translationKey': 'armor-mr-black-belt-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/black_belt_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '2 2 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Wide-Range',
+            'level': '2'
+        }, {
+            'name': 'Recovery Up',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        }, {
+            'name': 'Glavenus Coin',
+            'quantity': '3'
+        },{
+            'name': 'Hornetaur Razorwing',
+            'quantity': '3'
+        },],
+        'cost': '18000',
+    },
     'totalDefense': '750',
     'totalFireDefense': '5',
     'totalWaterDefense': '5',
@@ -35245,6 +35410,156 @@ let masterRankArmors = [{
     'name': 'Black Belt ß+',
     'translationKey': 'armor-mr-black-belt-beta-plus',
     'icon': require('./assets/armors/sets/black_belt_beta_plus.png'),
+    'head': {
+        'name': 'Black Belt Helm ß+',
+        'translationKey': 'armor-mr-black-belt-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/black_belt_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '4 2 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Marathon Runner',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        }, {
+            'name': 'Odogaron Coin',
+            'quantity': '3'
+        },{
+            'name': 'Cortos Hardclaw',
+            'quantity': '3'
+        },],
+        'cost': '18000',
+    },
+    'upperBody': {
+        'name': 'Black Belt Mail ß+',
+        'translationKey': 'armor-mr-black-belt-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/black_belt_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '4 1 1',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Mushroomancer',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        }, {
+            'name': 'Nargacuga Coin',
+            'quantity': '3'
+        },{
+            'name': 'Vespoid Razorwing',
+            'quantity': '3'
+        },],
+        'cost': '18000',
+    },
+    'hands': {
+        'name': 'Black Belt Braces ß+',
+        'translationKey': 'armor-mr-black-belt-braces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/black_belt_braces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '4 1 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Wide-Range',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        }, {
+            'name': 'Banbaro Coin',
+            'quantity': '3'
+        },{
+            'name': 'Anteka Antler',
+            'quantity': '2'
+        },],
+        'cost': '18000',
+    },
+    'lowerBody': {
+        'name': 'Black Belt Tassets ß+',
+        'translationKey': 'armor-mr-black-belt-tassets-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/black_belt_tassets_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '4 1 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Recovery Up',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        }, {
+            'name': 'Paolumu Coin',
+            'quantity': '3'
+        },{
+            'name': 'Steel Gajau Whisker',
+            'quantity': '2'
+        },],
+        'cost': '18000',
+    },
+    'legs': {
+        'name': 'Black Belt Greaves ß+',
+        'translationKey': 'armor-mr-black-belt-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/black_belt_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '150',
+        'slots': '4 2 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Wide-Range',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        }, {
+            'name': 'Glavenus Coin',
+            'quantity': '3'
+        },{
+            'name': 'Hornetaur Razorwing',
+            'quantity': '3'
+        },],
+        'cost': '18000',
+    },
     'totalDefense': '750',
     'totalFireDefense': '5',
     'totalWaterDefense': '5',
@@ -35275,6 +35590,171 @@ let masterRankArmors = [{
     'name': 'Bone ⍺+',
     'translationKey': 'armor-mr-bone-alpha-plus',
     'icon': require('./assets/armors/sets/bone_alpha_plus.png'),
+    'head': {
+        'name': 'Bone Helm ⍺+',
+        'translationKey': 'armor-mr-bone-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/bone_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '3 - -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '2',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Health Boost',
+            'level': '2'
+        }, {
+            'name': 'Partbreaker',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Thick Bone',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '1'
+        },{
+            'name': 'Warped Bone',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'upperBody': {
+        'name': 'Bone Mail ⍺+',
+        'translationKey': 'armor-mr-bone-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/bone_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '2 - -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '2',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Attack Boost',
+            'level': '2'
+        }, {
+            'name': 'Health Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Thick Bone',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '2'
+        },{
+            'name': 'Brutal Bone',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'hands': {
+        'name': 'Bone Vambraces ⍺+',
+        'translationKey': 'armor-mr-bone-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/bone_vambraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '2 - -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '2',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Slugger',
+            'level': '2'
+        }, {
+            'name': 'Attack Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Thick Bone',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '1'
+        },{
+            'name': 'Coral Bone',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'lowerBody': {
+        'name': 'Bone Coil ⍺+',
+        'translationKey': 'armor-mr-bone-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/bone_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '3 - -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '2',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Horn Maestro',
+            'level': '1'
+        }, {
+            'name': 'Partbreaker',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Thick Bone',
+            'quantity': '1'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '1'
+        },{
+            'name': 'Ancient Bone',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'legs': {
+        'name': 'Bone Greaves ⍺+',
+        'translationKey': 'armor-mr-bone-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/bone_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '3 - -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '2',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Slugger',
+            'level': '1'
+        },  {
+            'name': 'Horn Maestro',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Thick Bone',
+            'quantity': '1'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '1'
+        },{
+            'name': 'Boulder Bone',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
     'totalDefense': '570',
     'totalFireDefense': '10',
     'totalWaterDefense': '0',
@@ -35285,6 +35765,159 @@ let masterRankArmors = [{
     'name': 'Bone ß+',
     'translationKey': 'armor-mr-bone-beta-plus',
     'icon': require('./assets/armors/sets/bone_beta_plus.png'),
+    'head': {
+        'name': 'Bone Helm ß+',
+        'translationKey': 'armor-mr-bone-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/bone_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '4 - -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '2',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Health Boost',
+            'level': '1'
+        }, {
+            'name': 'Partbreaker',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Thick Bone',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '1'
+        },{
+            'name': 'Warped Bone',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'upperBody': {
+        'name': 'Bone Mail ß+',
+        'translationKey': 'armor-mr-bone-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/bone_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '4 1 -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '2',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Attack Boost',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Thick Bone',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '2'
+        },{
+            'name': 'Brutal Bone',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'hands': {
+        'name': 'Bone Vambraces ß+',
+        'translationKey': 'armor-mr-bone-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/bone_vambraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '4 1 -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '2',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Slugger',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Thick Bone',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '1'
+        },{
+            'name': 'Coral Bone',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'lowerBody': {
+        'name': 'Bone Coil ß+',
+        'translationKey': 'armor-mr-bone-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/bone_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '4 1 -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '2',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Horn Maestro',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Thick Bone',
+            'quantity': '1'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '1'
+        },{
+            'name': 'Ancient Bone',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
+    'legs': {
+        'name': 'Bone Greaves ß+',
+        'translationKey': 'armor-mr-bone-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/bone_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '114',
+        'slots': '4 - -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '2',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Slugger',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Thick Bone',
+            'quantity': '1'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '1'
+        },{
+            'name': 'Boulder Bone',
+            'quantity': '1'
+        },],
+        'cost': '9000',
+    },
     'totalDefense': '570',
     'totalFireDefense': '10',
     'totalWaterDefense': '0',
@@ -35295,6 +35928,186 @@ let masterRankArmors = [{
     'name': 'Brachydios ⍺+',
     'translationKey': 'armor-mr-brachydios-alpha-plus',
     'icon': require('./assets/armors/sets/brachydios_alpha_plus.png'),
+    'head': {
+        'name': 'Brachydios Helm ⍺+',
+        'translationKey': 'armor-mr-brachydios-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/brachydios_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '3 - -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '1',
+        'vsIce': '-3',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '2'
+        }, {
+            'name': 'Capacity Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Fine Brachydios Ebonshell',
+            'quantity': '2'
+        }, {
+            'name': 'Brachydios Cortex',
+            'quantity': '1'
+        },{
+            'name': 'Brachydios Crown',
+            'quantity': '2'
+        },{
+            'name': 'Brachydios Pallium',
+            'quantity': '1'
+        },],
+        'cost': '15000',
+    },
+    'hands': {
+        'name': 'Brachydios Braces ⍺+',
+        'translationKey': 'armor-mr-brachydios-braces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/brachydios_braces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '2 - -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '1',
+        'vsIce': '-3',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '2'
+        }, {
+            'name': 'Blast Resistance',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Fine Brachydios Ebonshell',
+            'quantity': '2'
+        }, {
+            'name': 'Brachydios Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Brachydios Pounder+',
+            'quantity': '1'
+        },{
+            'name': 'Glowing Slime',
+            'quantity': '3'
+        },],
+        'cost': '15000',
+    },
+    'upperBody': {
+        'name': 'Brachydios Mail ⍺+',
+        'translationKey': 'armor-mr-brachydios-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/brachydios_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '1 - -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '1',
+        'vsIce': '-3',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Stamina Thief',
+            'level': '2'
+        }, {
+            'name': 'Agitator',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Fine Brachydios Ebonshell',
+            'quantity': '2'
+        }, {
+            'name': 'Brachydios Pounder+',
+            'quantity': '1'
+        },{
+            'name': 'Brachydios Crown',
+            'quantity': '1'
+        },{
+            'name': 'Monster Slogbone',
+            'quantity': '5'
+        },],
+        'cost': '15000',
+    },
+    'lowerBody': {
+        'name': 'Brachydios Faulds ⍺+',
+        'translationKey': 'armor-mr-brachydios-faulds-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/brachydios_faulds_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '3 - -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '1',
+        'vsIce': '-3',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Blast Attack',
+            'level': '2'
+        }, {
+            'name': 'Stamina Thief',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Fine Brachydios Ebonshell',
+            'quantity': '2'
+        }, {
+            'name': 'Brachydios Crown',
+            'quantity': '1'
+        },{
+            'name': 'Brachydios Lash',
+            'quantity': '1'
+        },{
+            'name': 'Glowing Slime',
+            'quantity': '3'
+        },],
+        'cost': '15000',
+    },
+    'legs': {
+        'name': 'Brachydios Greaves ⍺+',
+        'translationKey': 'armor-mr-brachydios-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/brachydios_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '2 - -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '1',
+        'vsIce': '-3',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '2'
+        }, {
+            'name': 'Artillery',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Fine Brachydios Ebonshell',
+            'quantity': '2'
+        }, {
+            'name': 'Brachydios Cortex',
+            'quantity': '1'
+        },{
+            'name': 'Brachydios Pounder+',
+            'quantity': '2'
+        },{
+            'name': 'Barnos Hardclaw',
+            'quantity': '4'
+        },],
+        'cost': '15000',
+    },
     'totalDefense': '710',
     'totalFireDefense': '15',
     'totalWaterDefense': '-10',
@@ -35305,6 +36118,180 @@ let masterRankArmors = [{
     'name': 'Brachydios ß+',
     'translationKey': 'armor-mr-brachydios-beta-plus',
     'icon': require('./assets/armors/sets/brachydios_beta_plus.png'),
+    'head': {
+        'name': 'Brachydios Helm ß+',
+        'translationKey': 'armor-mr-brachydios-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/brachydios_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '4 1 -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '1',
+        'vsIce': '-3',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Fine Brachydios Ebonshell',
+            'quantity': '2'
+        }, {
+            'name': 'Brachydios Cortex',
+            'quantity': '1'
+        },{
+            'name': 'Brachydios Crown',
+            'quantity': '2'
+        },{
+            'name': 'Brachydios Pallium',
+            'quantity': '1'
+        },],
+        'cost': '15000',
+    },
+    'hands': {
+        'name': 'Brachydios Braces ß+',
+        'translationKey': 'armor-mr-brachydios-braces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/brachydios_braces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '4 - -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '1',
+        'vsIce': '-3',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '2'
+        }, {
+            'name': 'Blast Resistance',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Fine Brachydios Ebonshell',
+            'quantity': '2'
+        }, {
+            'name': 'Brachydios Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Brachydios Pounder+',
+            'quantity': '1'
+        },{
+            'name': 'Glowing Slime',
+            'quantity': '3'
+        },],
+        'cost': '15000',
+    },
+    'upperBody': {
+        'name': 'Brachydios Mail ß+',
+        'translationKey': 'armor-mr-brachydios-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/brachydios_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '4 - -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '1',
+        'vsIce': '-3',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Stamina Thief',
+            'level': '1'
+        }, {
+            'name': 'Agitator',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Fine Brachydios Ebonshell',
+            'quantity': '2'
+        }, {
+            'name': 'Brachydios Pounder+',
+            'quantity': '1'
+        },{
+            'name': 'Brachydios Crown',
+            'quantity': '1'
+        },{
+            'name': 'Monster Slogbone',
+            'quantity': '5'
+        },],
+        'cost': '15000',
+    },
+    'lowerBody': {
+        'name': 'Brachydios Faulds ß+',
+        'translationKey': 'armor-mr-brachydios-faulds-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/brachydios_faulds_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '4 2 -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '1',
+        'vsIce': '-3',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Blast Attack',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Fine Brachydios Ebonshell',
+            'quantity': '2'
+        }, {
+            'name': 'Brachydios Crown',
+            'quantity': '1'
+        },{
+            'name': 'Brachydios Lash',
+            'quantity': '1'
+        },{
+            'name': 'Glowing Slime',
+            'quantity': '3'
+        },],
+        'cost': '15000',
+    },
+    'legs': {
+        'name': 'Brachydios Greaves ß+',
+        'translationKey': 'armor-mr-brachydios-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/brachydios_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '4 - -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '1',
+        'vsIce': '-3',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '2'
+        }, {
+            'name': 'Artillery',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Fine Brachydios Ebonshell',
+            'quantity': '2'
+        }, {
+            'name': 'Brachydios Cortex',
+            'quantity': '1'
+        },{
+            'name': 'Brachydios Pounder+',
+            'quantity': '2'
+        },{
+            'name': 'Barnos Hardclaw',
+            'quantity': '4'
+        },],
+        'cost': '15000',
+    },
     'totalDefense': '710',
     'totalFireDefense': '15',
     'totalWaterDefense': '-10',
