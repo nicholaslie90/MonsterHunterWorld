@@ -6310,7 +6310,7 @@ let lowRankArmors = [{
             }, {
                 'name': 'Monster Bone+',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '3000',
             'description': 'armor-orion-description',
         },
@@ -6337,7 +6337,7 @@ let lowRankArmors = [{
             }, {
                 'name': 'Monster Bone+',
                 'quantity': '2'
-            },],
+            }, ],
             'cost': '3000',
             'description': 'armor-orion-description',
         },
@@ -6364,7 +6364,7 @@ let lowRankArmors = [{
             }, {
                 'name': 'Monster Bone+',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '3000',
             'description': 'armor-orion-description',
         },
@@ -6391,7 +6391,7 @@ let lowRankArmors = [{
             }, {
                 'name': 'Monster Bone+',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '3000',
             'description': 'armor-orion-description',
         },
@@ -6418,7 +6418,7 @@ let lowRankArmors = [{
             }, {
                 'name': 'Monster Bone+',
                 'quantity': '2'
-            },],
+            }, ],
             'cost': '3000',
             'description': 'armor-orion-description',
         },
@@ -6456,7 +6456,7 @@ let lowRankArmors = [{
             }, {
                 'name': 'Monster Bone+',
                 'quantity': '3'
-            },],
+            }, ],
             'cost': '3000',
             'description': 'armor-gala-suit-description',
         },
@@ -6483,7 +6483,7 @@ let lowRankArmors = [{
             }, {
                 'name': 'Monster Bone+',
                 'quantity': '2'
-            },],
+            }, ],
             'cost': '3000',
             'description': 'armor-gala-suit-description',
         },
@@ -6510,7 +6510,7 @@ let lowRankArmors = [{
             }, {
                 'name': 'Monster Bone+',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '3000',
             'description': 'armor-gala-suit-description',
         },
@@ -6537,7 +6537,7 @@ let lowRankArmors = [{
             }, {
                 'name': 'Monster Bone+',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '3000',
             'description': 'armor-gala-suit-description',
         },
@@ -6564,7 +6564,7 @@ let lowRankArmors = [{
             }, {
                 'name': 'Monster Bone+',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '3000',
             'description': 'armor-gala-suit-description',
         },
@@ -10140,7 +10140,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Agitator',
                 'level': '1'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Nergigante Ticket',
                 'quantity': '1'
@@ -10153,7 +10153,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Nergigante Regrowth Plate',
                 'quantity': '4'
-            },],
+            }, ],
             'cost': '20000',
             'description': 'armor-nergigante-helm-gamma-description',
         },
@@ -10181,13 +10181,13 @@ let highRankArmors = [{
             }, {
                 'name': 'Nergigante Horn+',
                 'quantity': '2'
-            },{
+            }, {
                 'name': 'Nergigante Carapace',
                 'quantity': '6'
-            },{
+            }, {
                 'name': 'Nergigante Gem',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '20000',
             'description': 'armor-nergigante-mail-gamma-description',
         },
@@ -10211,20 +10211,20 @@ let highRankArmors = [{
             }, {
                 'name': 'Attack Boost',
                 'level': '1'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Nergigante Ticket',
                 'quantity': '1'
             }, {
                 'name': 'Nergigante Carapace',
                 'quantity': '4'
-            },{
+            }, {
                 'name': 'Immortal Dragonscale',
                 'quantity': '4'
             }, {
                 'name': 'Nergigante Regrowth Plate',
                 'quantity': '2'
-            },],
+            }, ],
             'cost': '20000',
             'description': 'armor-nergigante-vambraces-gamma-description',
         },
@@ -10248,20 +10248,20 @@ let highRankArmors = [{
             }, {
                 'name': 'Agitator',
                 'level': '1'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Nergigante Ticket',
                 'quantity': '1'
             }, {
                 'name': 'Nergigante Carapace',
                 'quantity': '4'
-            },{
+            }, {
                 'name': 'Nergigante Horn+',
                 'quantity': '1'
-            },{
+            }, {
                 'name': 'Nergigante Tail',
                 'quantity': '2'
-            },],
+            }, ],
             'cost': '20000',
             'description': 'armor-nergigante-coil-gamma-description',
         },
@@ -10282,7 +10282,7 @@ let highRankArmors = [{
             'skills': [{
                 'name': 'Attack Boost',
                 'level': '3'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Nergigante Ticket',
                 'quantity': '1'
@@ -10295,7 +10295,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Nergigante Talon',
                 'quantity': '2'
-            },],
+            }, ],
             'cost': '20000',
             'description': 'armor-nergigante-greaves-gamma-description',
         },
@@ -10339,20 +10339,20 @@ let highRankArmors = [{
             }, {
                 'name': 'Critical Eye',
                 'level': '2'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Zorah Magdaros Ticket',
                 'quantity': '1'
             }, {
                 'name': 'Zorah Magdaros Heat Scale',
                 'quantity': '5'
-            },{
+            }, {
                 'name': 'Zorah Magdaros Pleura',
                 'quantity': '2'
-            },{
+            }, {
                 'name': 'Zorah Magdaros Magma',
                 'quantity': '3'
-            },],
+            }, ],
             'cost': '2000',
             'description': 'armor-zorah-headgear-gamma-description',
         },
@@ -10383,10 +10383,10 @@ let highRankArmors = [{
             }, {
                 'name': 'Zorah Magdaros Ridge',
                 'quantity': '1'
-            },{
+            }, {
                 'name': 'Zorah Magdaros Carapace',
                 'quantity': '4'
-            },],
+            }, ],
             'cost': '20000',
             'description': 'armor-zorah-hide-gamma-description',
         },
@@ -10414,13 +10414,13 @@ let highRankArmors = [{
             }, {
                 'name': 'Zorah Magdaros Ridge',
                 'quantity': '1'
-            },{
+            }, {
                 'name': 'Zorah Magdaros Carapace',
                 'quantity': '2'
-            },{
+            }, {
                 'name': 'Zorah Magdaros Gem',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '20000',
             'description': 'armor-zorah-claws-gamma-description',
         },
@@ -10444,20 +10444,20 @@ let highRankArmors = [{
             }, {
                 'name': 'Critical Eye',
                 'level': '1'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Zorah Magdaros Ticket',
                 'quantity': '1'
             }, {
                 'name': 'Zorah Magdaros Carapace',
                 'quantity': '4'
-            },{
+            }, {
                 'name': 'Zorah Magdaros Pleura',
                 'quantity': '2'
-            },{
+            }, {
                 'name': 'Zorah Magdaros Ridge',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '20000',
             'description': 'armor-zorah-spine-gamma-description',
         },
@@ -10488,13 +10488,13 @@ let highRankArmors = [{
             }, {
                 'name': 'Zorah Magdaros Carapace',
                 'quantity': '5'
-            },{
+            }, {
                 'name': 'Zorah Magdaros Magma',
                 'quantity': '2'
-            },{
+            }, {
                 'name': 'Zorah Magdaros Ridge',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '20000',
             'description': 'armor-zorah-spurs-gamma-description',
         },
@@ -10538,20 +10538,20 @@ let highRankArmors = [{
             }, {
                 'name': 'Power Prolonger',
                 'level': '1'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Xeno\'jiiva Ticket',
                 'quantity': '1'
             }, {
                 'name': 'Xeno\'jiiva Shell',
                 'quantity': '4'
-            },{
+            }, {
                 'name': 'Xeno\'jiiva Wing',
                 'quantity': '3'
-            },{
+            }, {
                 'name': 'Xeno\'jiiva Tail',
                 'quantity': '2'
-            },],
+            }, ],
             'cost': '20000',
             'description': 'armor-xenojiiva-headgear-gamma-description',
         },
@@ -10579,13 +10579,13 @@ let highRankArmors = [{
             }, {
                 'name': 'Xeno\'jiiva Soulscale',
                 'quantity': '5'
-            },{
+            }, {
                 'name': 'Xeno\'jiiva Shell',
                 'quantity': '4'
-            },{
+            }, {
                 'name': 'Xeno\'jiiva Horn',
                 'quantity': '2'
-            },],
+            }, ],
             'cost': '20000',
             'description': 'armor-xenojiiva-hide-gamma-description',
         },
@@ -10609,20 +10609,20 @@ let highRankArmors = [{
             }, {
                 'name': 'Special Ammo Boost',
                 'level': '1'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Xeno\'jiiva Ticket',
                 'quantity': '1'
             }, {
                 'name': 'Xeno\'jiiva Soulscale',
                 'quantity': '4'
-            },{
+            }, {
                 'name': 'Xeno\'jiiva Shell',
                 'quantity': '4'
-            },{
+            }, {
                 'name': 'Xeno\'jiiva Veil',
                 'quantity': '3'
-            },],
+            }, ],
             'cost': '20000',
             'description': 'armor-xenojiiva-claws-gamma-description',
         },
@@ -10653,10 +10653,10 @@ let highRankArmors = [{
             }, {
                 'name': 'Xeno\'jiiva Soulscale',
                 'quantity': '6'
-            },{
+            }, {
                 'name': 'Xeno\'jiiva Gem',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '20000',
             'description': 'armor-xenojiiva-spine-gamma-description',
         },
@@ -10684,13 +10684,13 @@ let highRankArmors = [{
             }, {
                 'name': 'Xeno\'jiiva Shell',
                 'quantity': '4'
-            },{
+            }, {
                 'name': 'Xeno\'jiiva Claw',
                 'quantity': '3'
-            },{
+            }, {
                 'name': 'Xeno\'jiiva Gem',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '20000',
             'description': 'armor-xenojiiva-spurs-gamma-description',
         },
@@ -10947,7 +10947,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Stun Resistance',
                 'level': '1'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Kulve Taroth Emperor Nugget',
                 'quantity': '7'
@@ -10957,10 +10957,10 @@ let highRankArmors = [{
             }, {
                 'name': 'Kulve Taroth Golden Shell',
                 'quantity': '12'
-            },{
+            }, {
                 'name': 'Kulve Taroth Golden Spiralhorn',
                 'quantity': '8'
-            },],
+            }, ],
             'cost': '20000',
         },
         'upperBody': {
@@ -10983,7 +10983,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Agitator',
                 'level': '1'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Kulve Taroth Emperor Nugget',
                 'quantity': '7'
@@ -10993,10 +10993,10 @@ let highRankArmors = [{
             }, {
                 'name': 'Kulve Taroth Golden Shell',
                 'quantity': '12'
-            },{
+            }, {
                 'name': 'Kulve Taroth Golden Nugget',
                 'quantity': '36'
-            },],
+            }, ],
             'cost': '20000',
         },
         'hands': {
@@ -11019,7 +11019,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Constitution',
                 'level': '1'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Kulve Taroth Emperor Nugget',
                 'quantity': '7'
@@ -11029,10 +11029,10 @@ let highRankArmors = [{
             }, {
                 'name': 'Kulve Taroth Golden Spiralhorn',
                 'quantity': '8'
-            },{
+            }, {
                 'name': 'Kulve Taroth Golden Glimstone',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '20000',
         },
         'lowerBody': {
@@ -11055,20 +11055,20 @@ let highRankArmors = [{
             }, {
                 'name': 'Weakness Exploit',
                 'level': '1'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Kulve Taroth Emperor Nugget',
                 'quantity': '7'
             }, {
                 'name': 'Kulve Taroth Golden Scale',
                 'quantity': '15'
-            },{
+            }, {
                 'name': 'Kulve Taroth Golden Shell',
                 'quantity': '12'
-            },{
+            }, {
                 'name': 'Kulve Taroth Golden Tailshell',
                 'quantity': '8'
-            },],
+            }, ],
             'cost': '20000',
         },
         'legs': {
@@ -11091,7 +11091,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Heat Guard',
                 'level': '1'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Kulve Taroth Emperor Nugget',
                 'quantity': '7'
@@ -11101,10 +11101,10 @@ let highRankArmors = [{
             }, {
                 'name': 'Kulve Taroth Golden Tailshell',
                 'quantity': '8'
-            },{
+            }, {
                 'name': 'Kulve Taroth Golden Glimstone',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '20000',
         },
         'totalDefense': '360',
@@ -30031,7 +30031,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Defense Boost',
                 'level': '1'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Summer Insect Field Guide',
                 'quantity': '1'
@@ -30044,7 +30044,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Quality Bone',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '6000',
             'description': 'armor-queen-beetle-vertex-alpha-description',
         },
@@ -30067,7 +30067,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Stun Resistance',
                 'level': '1'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Summer Insect Field Guide',
                 'quantity': '1'
@@ -30080,7 +30080,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Quality Bone',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '6000',
             'description': 'armor-queen-beetle-thorax-alpha-description',
         },
@@ -30103,7 +30103,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Health Boost',
                 'level': '1'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Summer Insect Field Guide',
                 'quantity': '1'
@@ -30116,7 +30116,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Quality Bone',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '6000',
             'description': 'armor-queen-beetle-brachia-alpha-description',
         },
@@ -30140,7 +30140,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Marathon Runner',
                 'level': '1'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Summer Insect Field Guide',
                 'quantity': '1'
@@ -30153,7 +30153,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Quality Bone',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '6000',
             'description': 'armor-queen-beetle-elytra-alpha-description',
         },
@@ -30176,20 +30176,20 @@ let highRankArmors = [{
             }, {
                 'name': 'Critical Eye',
                 'level': '1'
-            },],
+            }, ],
             'materials': [{
                 'name': 'Summer Insect Field Guide',
                 'quantity': '1'
             }, {
                 'name': 'Hornetaur Carapace',
                 'quantity': '1'
-            },{
+            }, {
                 'name': 'Carbalite Ore',
                 'quantity': '2'
-            },{
+            }, {
                 'name': 'Quality Bone',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '6000',
             'description': 'armor-queen-beetle-crura-alpha-description',
         },
@@ -30397,7 +30397,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Monster Hardbone',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '9000',
             'description': 'armor-orion-description',
         },
@@ -30428,7 +30428,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Monster Hardbone',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '9000',
             'description': 'armor-orion-description',
         },
@@ -30459,7 +30459,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Monster Hardbone',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '9000',
             'description': 'armor-orion-description',
         },
@@ -30490,7 +30490,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Monster Hardbone',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '9000',
             'description': 'armor-orion-description',
         },
@@ -30521,7 +30521,7 @@ let highRankArmors = [{
             }, {
                 'name': 'Monster Hardbone',
                 'quantity': '1'
-            },],
+            }, ],
             'cost': '9000',
             'description': 'armor-orion-boots-alpha-description',
         },
@@ -30563,7 +30563,7 @@ let highRankArmors = [{
             }, {
                 'name': 'High Commendation',
                 'quantity': '2'
-            },],
+            }, ],
             'cost': '12000',
             'description': 'armor-gala-suit-description',
         },
@@ -30591,10 +30591,10 @@ let highRankArmors = [{
             }, {
                 'name': 'Elder Dragon Bone',
                 'quantity': '2'
-            },{
+            }, {
                 'name': 'High Commendation',
                 'quantity': '2'
-            },],
+            }, ],
             'cost': '12000',
             'description': 'armor-gala-suit-description',
         },
@@ -30622,10 +30622,10 @@ let highRankArmors = [{
             }, {
                 'name': 'Elder Dragon Bone',
                 'quantity': '1'
-            },{
+            }, {
                 'name': 'High Commendation',
                 'quantity': '2'
-            },],
+            }, ],
             'cost': '12000',
             'description': 'armor-gala-suit-description',
         },
@@ -30653,10 +30653,10 @@ let highRankArmors = [{
             }, {
                 'name': 'Elder Dragon Bone',
                 'quantity': '1'
-            },{
+            }, {
                 'name': 'High Commendation',
                 'quantity': '2'
-            },],
+            }, ],
             'cost': '12000',
             'description': 'armor-gala-suit-description',
         },
@@ -30684,10 +30684,10 @@ let highRankArmors = [{
             }, {
                 'name': 'Elder Dragon Bone',
                 'quantity': '1'
-            },{
+            }, {
                 'name': 'High Commendation',
                 'quantity': '2'
-            },],
+            }, ],
             'cost': '12000',
             'description': 'armor-gala-suit-description',
         },
@@ -31935,20 +31935,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Effluvia Resistance',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Acidic Glavenus Cortex',
             'quantity': '3'
         }, {
             'name': 'Acidic Glavenus Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Acidic Glavenus Spineshell',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Honed Acidcryst',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '18000',
     },
     'upperBody': {
@@ -31971,20 +31971,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Stamina Surge',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Acidic Glavenus Cortex',
             'quantity': '3'
         }, {
             'name': 'Acidic Glavenus Hardfang',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Acidic Glavenus Spineshell',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Glavenus Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '',
     },
     'hands': {
@@ -32007,7 +32007,7 @@ let masterRankArmors = [{
         }, {
             'name': 'Handicraft',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Acidic Glavenus Cortex',
             'quantity': '3'
@@ -32017,10 +32017,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Honed Acidcryst',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Solidbone',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '18000',
     },
     'lowerBody': {
@@ -32043,20 +32043,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Iron Skin',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Acidic Glavenus Cortex',
             'quantity': '3'
         }, {
             'name': 'Acidic Glavenus Shard',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Acidic Glavenus Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Honed Acidcryst',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '18000',
     },
     'legs': {
@@ -32079,20 +32079,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Stamina Surge',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Acidic Glavenus Cortex',
             'quantity': '3'
         }, {
             'name': 'Acidic Glavenus Spineshell',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Acidic Glavenus Tailedge',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '18000',
     },
     'totalDefense': '750',
@@ -32101,7 +32101,7 @@ let masterRankArmors = [{
     'totalThunderDefense': '-5',
     'totalIceDefense': '10',
     'totalDragonDefense': '-5',
-},{
+}, {
     'name': 'Acidic Glavenus ß+',
     'translationKey': 'armor-mr-acidic-glavenus-beta-plus',
     'icon': require('./assets/armors/sets/acidic_glavenus_beta_plus.png'),
@@ -32125,20 +32125,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Effluvia Resistance',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Acidic Glavenus Cortex',
             'quantity': '3'
         }, {
             'name': 'Acidic Glavenus Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Acidic Glavenus Spineshell',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Honed Acidcryst',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '18000',
     },
     'upperBody': {
@@ -32161,20 +32161,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Stamina Surge',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Acidic Glavenus Cortex',
             'quantity': '3'
         }, {
             'name': 'Acidic Glavenus Hardfang',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Acidic Glavenus Spineshell',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Glavenus Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '18000',
     },
     'hands': {
@@ -32207,7 +32207,7 @@ let masterRankArmors = [{
         }, {
             'name': 'Monster Solidbone',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '18000',
     },
     'lowerBody': {
@@ -32234,13 +32234,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Acidic Glavenus Shard',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Acidic Glavenus Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Honed Acidcryst',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '18000',
     },
     'legs': {
@@ -32267,13 +32267,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Acidic Glavenus Spineshell',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Acidic Glavenus Tailedge',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '18000',
     },
     'totalDefense': '750',
@@ -32282,7 +32282,7 @@ let masterRankArmors = [{
     'totalThunderDefense': '-5',
     'totalIceDefense': '10',
     'totalDragonDefense': '-5',
-},{
+}, {
     'name': 'Alloy ⍺+',
     'translationKey': 'armor-mr-alloy-alpha-plus',
     'icon': require('./assets/armors/sets/alloy_alpha_plus.png'),
@@ -32306,20 +32306,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Defense Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Eltalite Ore',
             'quantity': '1'
         }, {
             'name': 'Carbalite Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Spiritvein Crystal',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -32342,17 +32342,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Speed Sharpening',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Eltalite Ore',
             'quantity': '1'
         }, {
             'name': 'Carbalite Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Dragonvein Crystal',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -32375,17 +32375,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Defense Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Eltalite Ore',
             'quantity': '1'
         }, {
             'name': 'Carbalite Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Dragonvein Crystal',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -32408,17 +32408,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Windproof',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Eltalite Ore',
             'quantity': '1'
         }, {
             'name': 'Carbalite Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Spiritvein Crystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -32441,17 +32441,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Windproof',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Eltalite Ore',
             'quantity': '1'
         }, {
             'name': 'Carbalite Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Spiritvein Crystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '570',
@@ -32488,13 +32488,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Carbalite Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Spiritvein Crystal',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -32514,17 +32514,17 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Defense Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Eltalite Ore',
             'quantity': '1'
         }, {
             'name': 'Carbalite Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Dragonvein Crystal',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -32551,10 +32551,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Carbalite Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Dragonvein Crystal',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -32577,17 +32577,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Windproof',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Eltalite Ore',
             'quantity': '1'
         }, {
             'name': 'Carbalite Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Spiritvein Crystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -32610,17 +32610,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Windproof',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Eltalite Ore',
             'quantity': '1'
         }, {
             'name': 'Carbalite Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Spiritvein Crystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '570',
@@ -32653,20 +32653,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Fire Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Anjanath Fur',
             'quantity': '2'
         }, {
             'name': 'Anjanath Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Anjanath Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Conflagrant Sac',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '',
     },
     'upperBody': {
@@ -32689,20 +32689,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Special Ammo Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Anjanath Fur',
             'quantity': '2'
         }, {
             'name': 'Anjanath Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Heavy Anjanath Nosebone',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -32725,20 +32725,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Fire Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Anjanath Fur',
             'quantity': '2'
         }, {
             'name': 'Anjanath Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Conflagrant Sac',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -32761,20 +32761,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Artillery',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Anjanath Fur',
             'quantity': '2'
         }, {
             'name': 'Anjanath Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Anjanath Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tough Claw',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -32797,20 +32797,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Marathon Runner',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Anjanath Fur',
             'quantity': '2'
         }, {
             'name': 'Anjanath Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Heavy Anjanath Nosebone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '660',
@@ -32847,13 +32847,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Anjanath Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Anjanath Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Conflagrant Sac',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '',
     },
     'upperBody': {
@@ -32876,20 +32876,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Special Ammo Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Anjanath Fur',
             'quantity': '2'
         }, {
             'name': 'Anjanath Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Heavy Anjanath Nosebone',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -32912,20 +32912,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Fire Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Anjanath Fur',
             'quantity': '2'
         }, {
             'name': 'Anjanath Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Conflagrant Sac',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -32952,13 +32952,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Anjanath Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Anjanath Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tough Claw',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -32985,13 +32985,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Anjanath Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Heavy Anjanath Nosebone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '660',
@@ -33024,20 +33024,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Free Element/Ammo Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Ancient Fragment',
             'quantity': '2'
         }, {
             'name': 'Monster Toughbone',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Deadly Poison Sac',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -33060,20 +33060,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Peak Performance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Ancient Fragment',
             'quantity': '2'
         }, {
             'name': 'Monster Slogbone',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Lightning Sac',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -33096,20 +33096,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Tool Specialist',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Ancient Fragment',
             'quantity': '2'
         }, {
             'name': 'Monster Slogbone',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Conflagrant Sac',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -33132,20 +33132,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Eye',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Ancient Fragment',
             'quantity': '2'
         }, {
             'name': 'Monster Toughbone',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Flood Sac',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -33168,20 +33168,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Slinger Capacity',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Ancient Fragment',
             'quantity': '2'
         }, {
             'name': 'Monster Toughbone',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Cryo Sac',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '710',
@@ -33214,20 +33214,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Free Element/Ammo Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Ancient Fragment',
             'quantity': '2'
         }, {
             'name': 'Monster Toughbone',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Deadly Poison Sac',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -33250,20 +33250,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Peak Performance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Ancient Fragment',
             'quantity': '2'
         }, {
             'name': 'Monster Slogbone',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Lightning Sac',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -33283,20 +33283,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Free Element/Ammo Up',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Ancient Fragment',
             'quantity': '2'
         }, {
             'name': 'Monster Slogbone',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Conflagrant Sac',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -33319,20 +33319,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Eye',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Ancient Fragment',
             'quantity': '2'
         }, {
             'name': 'Monster Toughbone',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Flood Sac',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -33352,20 +33352,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Peak Performance',
             'level': '2'
-        } ],
+        }],
         'materials': [{
             'name': 'Ancient Fragment',
             'quantity': '2'
         }, {
             'name': 'Monster Toughbone',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Cryo Sac',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '710',
@@ -33398,20 +33398,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Slugger',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Radobaan Cortex',
             'quantity': '2'
         }, {
             'name': 'Radobaan Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Bonemass',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Essence',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -33434,17 +33434,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Bleeding Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Radobaan Cortex',
             'quantity': '2'
         }, {
             'name': 'Radobaan Oilshell',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Torpor Sac',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -33467,20 +33467,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Guard',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Radobaan Cortex',
             'quantity': '2'
         }, {
             'name': 'Radobaan Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Radobaan Oilshell+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Torpor Sac',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -33503,20 +33503,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Sleep Resistance',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Radobaan Cortex',
             'quantity': '2'
         }, {
             'name': 'Radobaan Oilshell+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Bonemass',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Thick Bone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -33539,20 +33539,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Guard',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Radobaan Cortex',
             'quantity': '2'
         }, {
             'name': 'Radobaan Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Bonemass',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '670',
@@ -33589,13 +33589,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Radobaan Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Bonemass',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Essence',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -33622,10 +33622,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Radobaan Oilshell',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Torpor Sac',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -33648,20 +33648,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Guard',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Radobaan Cortex',
             'quantity': '2'
         }, {
             'name': 'Radobaan Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Radobaan Oilshell+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Torpor Sac',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -33688,13 +33688,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Radobaan Oilshell+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Bonemass',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Thick Bone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -33721,13 +33721,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Radobaan Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Bonemass',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '670',
@@ -33760,17 +33760,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Mushroomancer',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Banbaro Chine',
             'quantity': '2'
         }, {
             'name': 'Banbaro Great Horn',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Anteka Antler',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -33793,20 +33793,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Offensive Guard',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Banbaro Chine',
             'quantity': '2'
         }, {
             'name': 'Banbaro Cortex',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Banbaro Great Horn',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Prized Pelt',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -33829,17 +33829,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Health Boost',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Banbaro Chine',
             'quantity': '2'
         }, {
             'name': 'Banbaro Cortex',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Banbaro Lash',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -33862,17 +33862,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Offensive Guard',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Banbaro Chine',
             'quantity': '2'
         }, {
             'name': 'Banbaro Cortex',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Frozen Bone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -33895,17 +33895,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Speed Eating',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Banbaro Chine',
             'quantity': '2'
         }, {
             'name': 'Banbaro Cortex',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Banbaro Great Horn',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '650',
@@ -33942,10 +33942,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Banbaro Great Horn',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Anteka Antler',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -33972,13 +33972,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Banbaro Cortex',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Banbaro Great Horn',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Prized Pelt',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -34001,17 +34001,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Health Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Banbaro Chine',
             'quantity': '2'
         }, {
             'name': 'Banbaro Cortex',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Banbaro Lash',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -34038,10 +34038,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Banbaro Cortex',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Frozen Bone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -34068,10 +34068,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Banbaro Cortex',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Banbaro Great Horn',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '650',
@@ -34104,20 +34104,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Power Prolonger',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Barioth Thickfur',
             'quantity': '2'
         }, {
             'name': 'Amber Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Barioth Greatspike',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Wulg Thickfur',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -34140,20 +34140,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Constitution',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Barioth Thickfur',
             'quantity': '2'
         }, {
             'name': 'Barioth Cortex',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Barioth Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Frozen Bone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -34176,20 +34176,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Constitution',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Barioth Thickfur',
             'quantity': '2'
         }, {
             'name': 'Barioth Cortex',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Barioth Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tough Claw',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -34212,20 +34212,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Recovery Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Barioth Thickfur',
             'quantity': '2'
         }, {
             'name': 'Barioth Cortex',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Barioth Greatspike',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Wulg Thickfur',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -34248,20 +34248,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Quick Sheath',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Barioth Thickfur',
             'quantity': '2'
         }, {
             'name': 'Amber Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Barioth Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '690',
@@ -34294,20 +34294,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Power Prolonger',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Barioth Thickfur',
             'quantity': '2'
         }, {
             'name': 'Amber Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Barioth Greatspike',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Wulg Thickfur',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -34327,20 +34327,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Power Prolonger',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Barioth Thickfur',
             'quantity': '2'
         }, {
             'name': 'Barioth Cortex',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Barioth Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Frozen Bone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -34363,20 +34363,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Constitution',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Barioth Thickfur',
             'quantity': '2'
         }, {
             'name': 'Barioth Cortex',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Barioth Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tough Claw',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -34403,13 +34403,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Barioth Cortex',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Barioth Greatspike',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Wulg Thickfur',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -34432,20 +34432,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Quick Sheath',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Barioth Thickfur',
             'quantity': '2'
         }, {
             'name': 'Amber Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Barioth Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '690',
@@ -34478,17 +34478,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Iron Skin',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Barnos Hardclaw',
             'quantity': '2'
         }, {
             'name': 'Wingdrake Finehide',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '116',
@@ -34521,17 +34521,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Iron Skin',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Barnos Hardclaw',
             'quantity': '2'
         }, {
             'name': 'Wingdrake Finehide',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '116',
@@ -34564,20 +34564,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Marathon Runner',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Barroth Chine',
             'quantity': '2'
         }, {
             'name': 'Barroth Cortex',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Rich Mud',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -34600,17 +34600,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Agitator',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Barroth Chine',
             'quantity': '2'
         }, {
             'name': 'Barroth Cortex',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Rich Mud',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -34633,17 +34633,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Guard',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Barroth Chine',
             'quantity': '2'
         }, {
             'name': 'Barroth Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Kestodon Husk',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -34666,20 +34666,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Guard',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Barroth Chine',
             'quantity': '2'
         }, {
             'name': 'Barroth Crown',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Barroth Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Rich Mud',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -34702,17 +34702,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Marathon Runner',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Barroth Chine',
             'quantity': '2'
         }, {
             'name': 'Barroth Cortex',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Barroth Hardclaw',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '590',
@@ -34749,13 +34749,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Barroth Cortex',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Rich Mud',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -34782,10 +34782,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Barroth Cortex',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Rich Mud',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -34812,10 +34812,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Barroth Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Kestodon Husk',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -34842,13 +34842,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Barroth Crown',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Barroth Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Rich Mud',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -34875,10 +34875,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Barroth Cortex',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Barroth Hardclaw',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '590',
@@ -34911,17 +34911,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Earplugs',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Beotodus Cortex',
             'quantity': '2'
         }, {
             'name': 'Beotodus Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Beotodus Grandfin',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -34944,17 +34944,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Ice Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Beotodus Cortex',
             'quantity': '2'
         }, {
             'name': 'Beotodus Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Beotodus Hardhorn',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -34977,17 +34977,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Health Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Beotodus Cortex',
             'quantity': '2'
         }, {
             'name': 'Beotodus Hardhorn',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Cryo Sac',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -35010,17 +35010,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Earplugs',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Beotodus Cortex',
             'quantity': '2'
         }, {
             'name': 'Beotodus Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Cryo Sac',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -35043,20 +35043,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Ice Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Beotodus Cortex',
             'quantity': '2'
         }, {
             'name': 'Beotodus Hardhorn',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Beotodus Grandfin',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Gracium',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '590',
@@ -35093,10 +35093,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Beotodus Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Beotodus Grandfin',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -35123,10 +35123,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Beotodus Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Beotodus Hardhorn',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -35153,10 +35153,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Beotodus Hardhorn',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Cryo Sac',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -35179,17 +35179,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Earplugs',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Beotodus Cortex',
             'quantity': '2'
         }, {
             'name': 'Beotodus Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Cryo Sac',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -35216,13 +35216,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Beotodus Hardhorn',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Beotodus Grandfin',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Gracium',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '590',
@@ -35255,17 +35255,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Mushroomancer',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Black Belt Coin',
             'quantity': '2'
         }, {
             'name': 'Odogaron Coin',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Cortos Hardclaw',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '18000',
     },
     'upperBody': {
@@ -35288,17 +35288,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Wide-Range',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Black Belt Coin',
             'quantity': '2'
         }, {
             'name': 'Nargacuga Coin',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Vespoid Razorwing',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '18000',
     },
     'hands': {
@@ -35321,17 +35321,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Horn Maestro',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Black Belt Coin',
             'quantity': '2'
         }, {
             'name': 'Banbaro Coin',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Anteka Antler',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '18000',
     },
     'lowerBody': {
@@ -35354,17 +35354,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Marathon Runner',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Black Belt Coin',
             'quantity': '2'
         }, {
             'name': 'Paolumu Coin',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Steel Gajau Whisker',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '18000',
     },
     'legs': {
@@ -35387,17 +35387,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Recovery Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Black Belt Coin',
             'quantity': '2'
         }, {
             'name': 'Glavenus Coin',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Hornetaur Razorwing',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '18000',
     },
     'totalDefense': '750',
@@ -35434,10 +35434,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Odogaron Coin',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Cortos Hardclaw',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '18000',
     },
     'upperBody': {
@@ -35464,10 +35464,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Nargacuga Coin',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Vespoid Razorwing',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '18000',
     },
     'hands': {
@@ -35494,10 +35494,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Banbaro Coin',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Anteka Antler',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '18000',
     },
     'lowerBody': {
@@ -35524,10 +35524,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Paolumu Coin',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Steel Gajau Whisker',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '18000',
     },
     'legs': {
@@ -35554,10 +35554,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Glavenus Coin',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Hornetaur Razorwing',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '18000',
     },
     'totalDefense': '750',
@@ -35610,17 +35610,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Partbreaker',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Thick Bone',
             'quantity': '2'
         }, {
             'name': 'Monster Toughbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Warped Bone',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -35643,17 +35643,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Health Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Thick Bone',
             'quantity': '2'
         }, {
             'name': 'Monster Toughbone',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Brutal Bone',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -35676,17 +35676,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Attack Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Thick Bone',
             'quantity': '2'
         }, {
             'name': 'Monster Toughbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Coral Bone',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -35709,17 +35709,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Partbreaker',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Thick Bone',
             'quantity': '1'
         }, {
             'name': 'Monster Toughbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Ancient Bone',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -35739,20 +35739,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Slugger',
             'level': '1'
-        },  {
+        }, {
             'name': 'Horn Maestro',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Thick Bone',
             'quantity': '1'
         }, {
             'name': 'Monster Toughbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Boulder Bone',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '570',
@@ -35785,17 +35785,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Partbreaker',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Thick Bone',
             'quantity': '2'
         }, {
             'name': 'Monster Toughbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Warped Bone',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -35822,10 +35822,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Monster Toughbone',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Brutal Bone',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -35852,10 +35852,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Monster Toughbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Coral Bone',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -35882,10 +35882,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Monster Toughbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Ancient Bone',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -35912,10 +35912,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Monster Toughbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Boulder Bone',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '570',
@@ -35948,20 +35948,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Capacity Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Fine Brachydios Ebonshell',
             'quantity': '2'
         }, {
             'name': 'Brachydios Cortex',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Brachydios Crown',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Brachydios Pallium',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -35984,20 +35984,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Blast Resistance',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Fine Brachydios Ebonshell',
             'quantity': '2'
         }, {
             'name': 'Brachydios Cortex',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Brachydios Pounder+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Glowing Slime',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -36020,20 +36020,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Agitator',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Fine Brachydios Ebonshell',
             'quantity': '2'
         }, {
             'name': 'Brachydios Pounder+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Brachydios Crown',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Slogbone',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -36056,20 +36056,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Stamina Thief',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Fine Brachydios Ebonshell',
             'quantity': '2'
         }, {
             'name': 'Brachydios Crown',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Brachydios Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Glowing Slime',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -36092,20 +36092,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Artillery',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Fine Brachydios Ebonshell',
             'quantity': '2'
         }, {
             'name': 'Brachydios Cortex',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Brachydios Pounder+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Barnos Hardclaw',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '710',
@@ -36142,13 +36142,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Brachydios Cortex',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Brachydios Crown',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Brachydios Pallium',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -36171,20 +36171,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Blast Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Fine Brachydios Ebonshell',
             'quantity': '2'
         }, {
             'name': 'Brachydios Cortex',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Brachydios Pounder+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Glowing Slime',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -36207,20 +36207,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Agitator',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Fine Brachydios Ebonshell',
             'quantity': '2'
         }, {
             'name': 'Brachydios Pounder+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Brachydios Crown',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Slogbone',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -36247,13 +36247,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Brachydios Crown',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Brachydios Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Glowing Slime',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -36276,20 +36276,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Artillery',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Fine Brachydios Ebonshell',
             'quantity': '2'
         }, {
             'name': 'Brachydios Cortex',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Brachydios Pounder+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Barnos Hardclaw',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '710',
@@ -36302,6 +36302,186 @@ let masterRankArmors = [{
     'name': 'Clockwork ⍺+',
     'translationKey': 'armor-mr-clockwork-alpha-plus',
     'icon': require('./assets/armors/sets/clockwork_alpha_plus.png'),
+    'head': {
+        'name': 'Clockwork Helm ⍺+',
+        'translationKey': 'armor-mr-clockwork-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/clockwork_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '1 1 -',
+        'vsFire': '2',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '-1',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '2'
+        }, {
+            'name': 'Partbreaker',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Steam Ticket',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Slogbone',
+            'quantity': '3'
+        }, {
+            'name': 'Eltalite Ore',
+            'quantity': '5'
+        }, {
+            'name': 'Dragonbone Artifact',
+            'quantity': '1'
+        }, ],
+        'cost': '15000',
+    },
+    'upperBody': {
+        'name': 'Clockwork Mail ⍺+',
+        'translationKey': 'armor-mr-clockwork-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/clockwork_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '1 1 -',
+        'vsFire': '2',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '-1',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '2'
+        }, {
+            'name': 'Special Ammo Boost',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Steam Ticket',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Slogbone',
+            'quantity': '3'
+        }, {
+            'name': 'Spiritvein Crystal',
+            'quantity': '4'
+        }, {
+            'name': 'Torpor Sac',
+            'quantity': '3'
+        }, ],
+        'cost': '15000',
+    },
+    'hands': {
+        'name': 'Clockwork Braces ⍺+',
+        'translationKey': 'armor-mr-clockwork-braces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/clockwork_braces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '2 - -',
+        'vsFire': '2',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '-1',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Bombardier',
+            'level': '3'
+        }, {
+            'name': 'Tremor Resistance',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Steam Ticket',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '2'
+        }, {
+            'name': 'Eltalite Ore',
+            'quantity': '5'
+        }, {
+            'name': 'Purecrystal',
+            'quantity': '1'
+        }, ],
+        'cost': '15000',
+    },
+    'lowerBody': {
+        'name': 'Clockwork Coil ⍺+',
+        'translationKey': 'armor-mr-clockwork-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/clockwork_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '2 - -',
+        'vsFire': '2',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '-1',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Partbreaker',
+            'level': '2'
+        }, {
+            'name': 'Sleep Functionality',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Steam Ticket',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '2'
+        }, {
+            'name': 'Spiritvein Crystal',
+            'quantity': '4'
+        }, {
+            'name': 'Ultraplegia Sac',
+            'quantity': '3'
+        }, ],
+        'cost': '15000',
+    },
+    'legs': {
+        'name': 'Clockwork Greaves ⍺+',
+        'translationKey': 'armor-mr-clockwork-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/clockwork_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '1 1 -',
+        'vsFire': '2',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '-1',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Critical Boost',
+            'level': '1'
+        }, {
+            'name': 'Bombardier',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Steam Ticket',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '2'
+        }, {
+            'name': 'Eltalite Ore',
+            'quantity': '5'
+        }, {
+            'name': 'Dragonbone Artifact',
+            'quantity': '1'
+        }, ],
+        'cost': '15000',
+    },
     'totalDefense': '710',
     'totalFireDefense': '10',
     'totalWaterDefense': '10',
@@ -36312,6 +36492,177 @@ let masterRankArmors = [{
     'name': 'Clockwork ß+',
     'translationKey': 'armor-mr-clockwork-beta-plus',
     'icon': require('./assets/armors/sets/clockwork_beta_plus.png'),
+    'head': {
+        'name': 'Clockwork Helm ß+',
+        'translationKey': 'armor-mr-clockwork-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/clockwork_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '4 1 -',
+        'vsFire': '2',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '-1',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '1'
+        }, {
+            'name': 'Partbreaker',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Steam Ticket',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Slogbone',
+            'quantity': '3'
+        }, {
+            'name': 'Eltalite Ore',
+            'quantity': '5'
+        }, {
+            'name': 'Dragonbone Artifact',
+            'quantity': '1'
+        }, ],
+        'cost': '15000',
+    },
+    'upperBody': {
+        'name': 'Clockwork Mail ß+',
+        'translationKey': 'armor-mr-clockwork-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/clockwork_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '4 1 -',
+        'vsFire': '2',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '-1',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Steam Ticket',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Slogbone',
+            'quantity': '3'
+        }, {
+            'name': 'Spiritvein Crystal',
+            'quantity': '4'
+        }, {
+            'name': 'Torpor Sac',
+            'quantity': '3'
+        }, ],
+        'cost': '15000',
+    },
+    'hands': {
+        'name': 'Clockwork Braces ß+',
+        'translationKey': 'armor-mr-clockwork-braces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/clockwork_braces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '4 - -',
+        'vsFire': '2',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '-1',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Bombardier',
+            'level': '3'
+        }, ],
+        'materials': [{
+            'name': 'Steam Ticket',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '2'
+        }, {
+            'name': 'Eltalite Ore',
+            'quantity': '5'
+        }, {
+            'name': 'Purecrystal',
+            'quantity': '1'
+        }, ],
+        'cost': '15000',
+    },
+    'lowerBody': {
+        'name': 'Clockwork Coil ß+',
+        'translationKey': 'armor-mr-clockwork-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/clockwork_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '4 1 -',
+        'vsFire': '2',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '-1',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Partbreaker',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Steam Ticket',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '2'
+        }, {
+            'name': 'Spiritvein Crystal',
+            'quantity': '4'
+        }, {
+            'name': 'Ultraplegia Sac',
+            'quantity': '3'
+        }, ],
+        'cost': '15000',
+    },
+    'legs': {
+        'name': 'Clockwork Greaves ß+',
+        'translationKey': 'armor-mr-clockwork-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/clockwork_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '142',
+        'slots': '4 - -',
+        'vsFire': '2',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '-1',
+        'vsDragon': '-1',
+        'skills': [{
+            'name': 'Critical Boost',
+            'level': '1'
+        }, {
+            'name': 'Bombardier',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Steam Ticket',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Toughbone',
+            'quantity': '2'
+        }, {
+            'name': 'Eltalite Ore',
+            'quantity': '5'
+        }, {
+            'name': 'Dragonbone Artifact',
+            'quantity': '1'
+        }, ],
+        'cost': '15000',
+    },
     'totalDefense': '710',
     'totalFireDefense': '10',
     'totalWaterDefense': '10',
@@ -36342,6 +36693,39 @@ let masterRankArmors = [{
     'name': 'Cortos ⍺+',
     'translationKey': 'armor-mr-cortos-alpha-plus',
     'icon': require('./assets/armors/sets/cortos_alpha_plus.png'),
+    'upperBody': {
+        'name': 'Cortos Cape ⍺+',
+        'translationKey': 'armor-mr-cortos-cape-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/cortos_cape_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '116',
+        'slots': '1 1 -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '0',
+        'vsIce': '2',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Hunger Resistance',
+            'level': '2'
+        }, {
+            'name': 'Jump Master',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Cortos Hardclaw',
+            'quantity': '2'
+        }, {
+            'name': 'Wingdrake Finehide',
+            'quantity': '2'
+        }, {
+            'name': 'Frozen Bone',
+            'quantity': '1'
+        }, ],
+        'cost': '9000',
+    },
     'totalDefense': '116',
     'totalFireDefense': '-3',
     'totalWaterDefense': '2',
@@ -36352,6 +36736,39 @@ let masterRankArmors = [{
     'name': 'Cortos ß+',
     'translationKey': 'armor-mr-cortos-beta-plus',
     'icon': require('./assets/armors/sets/cortos_beta_plus.png'),
+    'upperBody': {
+        'name': 'Cortos Cape ß+',
+        'translationKey': 'armor-mr-cortos-cape-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/cortos_cape_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '116',
+        'slots': '4 - -',
+        'vsFire': '-3',
+        'vsWater': '2',
+        'vsThunder': '0',
+        'vsIce': '2',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Hunger Resistance',
+            'level': '1'
+        }, {
+            'name': 'Jump Master',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Cortos Hardclaw',
+            'quantity': '2'
+        }, {
+            'name': 'Wingdrake Finehide',
+            'quantity': '2'
+        }, {
+            'name': 'Frozen Bone',
+            'quantity': '1'
+        }, ],
+        'cost': '9000',
+    },
     'totalDefense': '116',
     'totalFireDefense': '-3',
     'totalWaterDefense': '2',
@@ -36381,7 +36798,7 @@ let masterRankArmors = [{
 }, {
     'name': 'Death Garon ⍺+',
     'translationKey': 'armor-mr-death-garon-alpha-plus',
-    'icon': require('./assets/armors/sets/death_garon_alpha_plus.png'), 
+    'icon': require('./assets/armors/sets/death_garon_alpha_plus.png'),
     'totalDefense': '740',
     'totalFireDefense': '-10',
     'totalWaterDefense': '-15',
@@ -36391,7 +36808,7 @@ let masterRankArmors = [{
 }, {
     'name': 'Death Garon ß+',
     'translationKey': 'armor-mr-death-garon-beta-plus',
-    'icon': require('./assets/armors/sets/death_garon_beta_plus.png'), 
+    'icon': require('./assets/armors/sets/death_garon_beta_plus.png'),
     'totalDefense': '740',
     'totalFireDefense': '-10',
     'totalWaterDefense': '-15',
@@ -36402,6 +36819,186 @@ let masterRankArmors = [{
     'name': 'Diablos ⍺+',
     'translationKey': 'armor-mr-diablos-alpha-plus',
     'icon': require('./assets/armors/sets/diablos_alpha_plus.png'),
+    'head': {
+        'name': 'Diablos Helm ⍺+',
+        'translationKey': 'armor-mr-diablos-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/diablos_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '140',
+        'slots': '2 - -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '-3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Critical Draw',
+            'level': '2'
+        }, {
+            'name': 'Slugger',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Diablos Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Diablos Cortex',
+            'quantity': '1'
+        }, {
+            'name': 'Twisted Stouthorn',
+            'quantity': '1'
+        }, {
+            'name': 'Large Wyvern Gem',
+            'quantity': '1'
+        }, ],
+        'cost': '15000',
+    },
+    'upperBody': {
+        'name': 'Diablos Mail ⍺+',
+        'translationKey': 'armor-mr-diablos-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/diablos_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '140',
+        'slots': '2 - -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '-3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Slugger',
+            'level': '2'
+        }, {
+            'name': 'Heroics',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Diablos Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Diablos Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Blos Medulla',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Slogbone',
+            'quantity': '2'
+        }, ],
+        'cost': '15000',
+    },
+    'hands': {
+        'name': 'Diablos Vambraces ⍺+',
+        'translationKey': 'armor-mr-diablos-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/diablos_vambraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '140',
+        'slots': '2 - -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '-3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Heroics',
+            'level': '3'
+        }, {
+            'name': 'Tremor Resistance',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Diablos Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Diablos Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Diablos Tailcase+',
+            'quantity': '1'
+        }, {
+            'name': 'Kestodon Husk',
+            'quantity': '2'
+        }, ],
+        'cost': '15000',
+    },
+    'lowerBody': {
+        'name': 'Diablos Coil ⍺+',
+        'translationKey': 'armor-mr-diablos-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/diablos_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '140',
+        'slots': '2 - -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '-3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Marathon Runner',
+            'level': '2'
+        }, {
+            'name': 'Critical Draw',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Diablos Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Diablos Cortex',
+            'quantity': '1'
+        }, {
+            'name': 'Twisted Stouthorn',
+            'quantity': '1'
+        }, {
+            'name': 'Kestodon Husk',
+            'quantity': '3'
+        }, ],
+        'cost': '15000',
+    },
+    'legs': {
+        'name': 'Diablos Greaves ⍺+',
+        'translationKey': 'armor-mr-diablos-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/diablos_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '140',
+        'slots': '1 1 -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '-3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Tremor Resistance',
+            'level': '2'
+        }, {
+            'name': 'Slugger',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Diablos Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Diablos Cortex',
+            'quantity': '1'
+        }, {
+            'name': 'Diablos Tailcase+',
+            'quantity': '1'
+        }, {
+            'name': 'Monster Slogbone',
+            'quantity': '5'
+        }, ],
+        'cost': '15000',
+    },
     'totalDefense': '700',
     'totalFireDefense': '15',
     'totalWaterDefense': '-10',
@@ -36412,6 +37009,180 @@ let masterRankArmors = [{
     'name': 'Diablos ß+',
     'translationKey': 'armor-mr-diablos-beta-plus',
     'icon': require('./assets/armors/sets/diablos_beta_plus.png'),
+    'head': {
+        'name': 'Diablos Helm ß+',
+        'translationKey': 'armor-mr-diablos-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/diablos_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '140',
+        'slots': '4 - -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '-3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Critical Draw',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Diablos Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Diablos Cortex',
+            'quantity': '1'
+        }, {
+            'name': 'Twisted Stouthorn',
+            'quantity': '1'
+        }, {
+            'name': 'Large Wyvern Gem',
+            'quantity': '1'
+        }, ],
+        'cost': '15000',
+    },
+    'upperBody': {
+        'name': 'Diablos Mail ß+',
+        'translationKey': 'armor-mr-diablos-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/diablos_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '140',
+        'slots': '4 1 -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '-3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Slugger',
+            'level': '2'
+        }, {
+            'name': 'Heroics',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Diablos Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Diablos Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Blos Medulla',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Slogbone',
+            'quantity': '2'
+        }, ],
+        'cost': '15000',
+    },
+    'hands': {
+        'name': 'Diablos Vambraces ß+',
+        'translationKey': 'armor-mr-diablos-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/diablos_vambraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '140',
+        'slots': '4 1 -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '-3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Heroics',
+            'level': '2'
+        }, {
+            'name': 'Tremor Resistance',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Diablos Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Diablos Cortex',
+            'quantity': '2'
+        }, {
+            'name': 'Diablos Tailcase+',
+            'quantity': '1'
+        }, {
+            'name': 'Kestodon Husk',
+            'quantity': '2'
+        }, ],
+        'cost': '15000',
+    },
+    'lowerBody': {
+        'name': 'Diablos Coil ß+',
+        'translationKey': 'armor-mr-diablos-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/diablos_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '140',
+        'slots': '4 1 -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '-3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Marathon Runner',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Diablos Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Diablos Cortex',
+            'quantity': '1'
+        }, {
+            'name': 'Twisted Stouthorn',
+            'quantity': '1'
+        }, {
+            'name': 'Kestodon Husk',
+            'quantity': '3'
+        }, ],
+        'cost': '15000',
+    },
+    'legs': {
+        'name': 'Diablos Greaves ß+',
+        'translationKey': 'armor-mr-diablos-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/diablos_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '10',
+        'defense': '140',
+        'slots': '4 1 -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '-3',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Tremor Resistance',
+            'level': '2'
+        }, {
+            'name': 'Slugger',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Diablos Chine',
+            'quantity': '2'
+        }, {
+            'name': 'Diablos Cortex',
+            'quantity': '1'
+        }, {
+            'name': 'Diablos Tailcase+',
+            'quantity': '1'
+        }, {
+            'name': 'Monster Slogbone',
+            'quantity': '5'
+        }, ],
+        'cost': '15000',
+    },
     'totalDefense': '700',
     'totalFireDefense': '15',
     'totalWaterDefense': '-10',
@@ -36459,9 +37230,189 @@ let masterRankArmors = [{
     'totalIceDefense': '-5',
     'totalDragonDefense': '20',
 }, {
-    'name': 'Dodogala ⍺+',
+    'name': 'Dodogama ⍺+',
     'translationKey': 'armor-mr-dodogama-alpha-plus',
     'icon': require('./assets/armors/sets/dodogama_alpha_plus.png'),
+    'head': {
+        'name': 'Dodogama Helm ⍺+',
+        'translationKey': 'armor-mr-dodogama-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/dodogama_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '120',
+        'slots': '3 - -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '-3',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Blast Resistance',
+            'level': '2'
+        }, {
+            'name': 'Bombardier',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Dodogama Thickhide',
+            'quantity': '2'
+        }, {
+            'name': 'Dodogama Shard',
+            'quantity': '1'
+        }, {
+            'name': 'Dodogama Mandible',
+            'quantity': '1'
+        }, {
+            'name': 'Meldpsar Ore',
+            'quantity': '1'
+        }, ],
+        'cost': '9000',
+    },
+    'upperBody': {
+        'name': 'Dodogama Mail ⍺+',
+        'translationKey': 'armor-mr-dodogama-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/dodogama_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '120',
+        'slots': '2 - -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '-3',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Blast Attack',
+            'level': '2'
+        }, {
+            'name': 'Artillery',
+            'quantity': '1'
+        }, ],
+        'materials': [{
+            'name': 'Dodogama Thickhide',
+            'quantity': '2'
+        }, {
+            'name': 'Dodogama Lash',
+            'quantity': '1'
+        }, {
+            'name': 'Dodogama Mandible',
+            'quantity': '1'
+        }, {
+            'name': 'Gastodon Husk',
+            'quantity': '2'
+        }, ],
+        'cost': '9000',
+    },
+    'hands': {
+        'name': 'Dodogama Vambraces ⍺+',
+        'translationKey': 'armor-mr-dodogama-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/dodogama_vambraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '120',
+        'slots': '2 - -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '-3',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Bombardier',
+            'level': '2'
+        }, {
+            'name': 'Blast Attack',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Dodogama Thickhide',
+            'quantity': '2'
+        }, {
+            'name': 'Dodogama Shard',
+            'quantity': '2'
+        }, {
+            'name': 'Dodogama Hardclaw',
+            'quantity': '1'
+        }, {
+            'name': 'Gastodon Husk',
+            'quantity': '1'
+        }, ],
+        'cost': '9000',
+    },
+    'lowerBody': {
+        'name': 'Dodogama Coil ⍺+',
+        'translationKey': 'armor-mr-dodogama-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/dodogama_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '120',
+        'slots': '2 1 -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '-3',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Artillery',
+            'level': '2'
+        }, {
+            'name': 'Blast Resistance',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Dodogama Thickhide',
+            'quantity': '2'
+        }, {
+            'name': 'Dodogama Shard',
+            'quantity': '2'
+        }, {
+            'name': 'Dodogama Mandible',
+            'quantity': '1'
+        }, {
+            'name': 'Eltalite Ore',
+            'quantity': '2'
+        }, ],
+        'cost': '9000',
+    },
+    'legs': {
+        'name': 'Dodogama Greaves ⍺+',
+        'translationKey': 'armor-mr-dodogama-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/dodogama_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '120',
+        'slots': '2 1 -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '-3',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Capacity Boost',
+            'level': '1'
+        }, {
+            'name': 'Blast Attack',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Dodogama Thickhide',
+            'quantity': '2'
+        }, {
+            'name': 'Dodogama Lash',
+            'quantity': '1'
+        }, {
+            'name': 'Dodogama Hardclaw',
+            'quantity': '2'
+        }, {
+            'name': 'Meldspar Ore',
+            'quantity': '1'
+        }, ],
+        'cost': '9000',
+    },
     'totalDefense': '600',
     'totalFireDefense': '10',
     'totalWaterDefense': '0',
@@ -36469,9 +37420,177 @@ let masterRankArmors = [{
     'totalIceDefense': '0',
     'totalDragonDefense': '10',
 }, {
-    'name': 'Dodogala ß+',
+    'name': 'Dodogama ß+',
     'translationKey': 'armor-mr-dodogama-beta-plus',
     'icon': require('./assets/armors/sets/dodogama_beta_plus.png'),
+    'head': {
+        'name': 'Dodogama Helm ß+',
+        'translationKey': 'armor-mr-dodogama-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/dodogama_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '120',
+        'slots': '4 - -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '-3',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Blast Resistance',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Dodogama Thickhide',
+            'quantity': '2'
+        }, {
+            'name': 'Dodogama Shard',
+            'quantity': '1'
+        }, {
+            'name': 'Dodogama Mandible',
+            'quantity': '1'
+        }, {
+            'name': 'Meldpsar Ore',
+            'quantity': '1'
+        }, ],
+        'cost': '9000',
+    },
+    'upperBody': {
+        'name': 'Dodogama Mail ß+',
+        'translationKey': 'armor-mr-dodogama-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/dodogama_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '120',
+        'slots': '4 - -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '-3',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Blast Attack',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Dodogama Thickhide',
+            'quantity': '2'
+        }, {
+            'name': 'Dodogama Lash',
+            'quantity': '1'
+        }, {
+            'name': 'Dodogama Mandible',
+            'quantity': '1'
+        }, {
+            'name': 'Gastodon Husk',
+            'quantity': '2'
+        }, ],
+        'cost': '9000',
+    },
+    'hands': {
+        'name': 'Dodogama Vambraces ß+',
+        'translationKey': 'armor-mr-dodogama-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/dodogama_vambraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '120',
+        'slots': '4 - -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '-3',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Bombardier',
+            'level': '1'
+        }, {
+            'name': 'Blast Attack',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Dodogama Thickhide',
+            'quantity': '2'
+        }, {
+            'name': 'Dodogama Shard',
+            'quantity': '2'
+        }, {
+            'name': 'Dodogama Hardclaw',
+            'quantity': '1'
+        }, {
+            'name': 'Gastodon Husk',
+            'quantity': '1'
+        }, ],
+        'cost': '9000',
+    },
+    'lowerBody': {
+        'name': 'Dodogama Coil ß+',
+        'translationKey': 'armor-mr-dodogama-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/dodogama_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '120',
+        'slots': '4 1 -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '-3',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Artillery',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Dodogama Thickhide',
+            'quantity': '2'
+        }, {
+            'name': 'Dodogama Shard',
+            'quantity': '2'
+        }, {
+            'name': 'Dodogama Mandible',
+            'quantity': '1'
+        }, {
+            'name': 'Eltalite Ore',
+            'quantity': '2'
+        }, ],
+        'cost': '9000',
+    },
+    'legs': {
+        'name': 'Dodogama Greaves ß+',
+        'translationKey': 'armor-mr-dodogama-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/dodogama_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '120',
+        'slots': '4 1 -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '-3',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Capacity Boost',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Dodogama Thickhide',
+            'quantity': '2'
+        }, {
+            'name': 'Dodogama Lash',
+            'quantity': '1'
+        }, {
+            'name': 'Dodogama Hardclaw',
+            'quantity': '2'
+        }, {
+            'name': 'Meldspar Ore',
+            'quantity': '1'
+        }, ],
+        'cost': '9000',
+    },
     'totalDefense': '600',
     'totalFireDefense': '10',
     'totalWaterDefense': '0',
@@ -36482,6 +37601,186 @@ let masterRankArmors = [{
     'name': 'Fulgur Anja ⍺+',
     'translationKey': 'armor-mr-fulgur-anja-alpha-plus',
     'icon': require('./assets/armors/sets/fulgur_anja_alpha_plus.png'),
+    'head': {
+        'name': 'Fulgur Helm ⍺+',
+        'translationKey': 'armor-mr-fulgur-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/fulgur_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '146',
+        'slots': '2 1 -',
+        'vsFire': '-1',
+        'vsWater': '-1',
+        'vsThunder': '2',
+        'vsIce': '-3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Weakness Exploit',
+            'level': '1'
+        }, {
+            'name': 'Resuscitate',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Fulgur Anjanath Thickfur',
+            'quantity': '3'
+        }, {
+            'name': 'Fulgur Anjanath Shard',
+            'quantity': '2'
+        }, {
+            'name': 'Fulgur Anjanath Lash',
+            'quantity': '1'
+        }, {
+            'name': 'Lightning Sac',
+            'quantity': '3'
+        }, ],
+        'cost': '18000',
+    },
+    'upperBody': {
+        'name': 'Fulgur Mail ⍺+',
+        'translationKey': 'armor-mr-fulgur-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/fulgur_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '146',
+        'slots': '3 - -',
+        'vsFire': '-1',
+        'vsWater': '-1',
+        'vsThunder': '2',
+        'vsIce': '-3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Flinch Free',
+            'level': '1'
+        }, {
+            'name': 'Stun Resistance',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Fulgur Anjanath Thickfur',
+            'quantity': '3'
+        }, {
+            'name': 'Fulgur Anjanath Shard',
+            'quantity': '2'
+        }, {
+            'name': 'Heavy Fulgur Anjanath Nosebone',
+            'quantity': '1'
+        }, {
+            'name': 'Lightning Sac',
+            'quantity': '2'
+        }, ],
+        'cost': '18000',
+    },
+    'hands': {
+        'name': 'Fulgur Vambraces ⍺+',
+        'translationKey': 'armor-mr-fulgur-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/fulgur_vambraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '146',
+        'slots': '2 - -',
+        'vsFire': '-1',
+        'vsWater': '-1',
+        'vsThunder': '2',
+        'vsIce': '-3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Item Prolonger',
+            'level': '2'
+        }, {
+            'name': 'Thunder Attack',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Fulgur Anjanath Thickfur',
+            'quantity': '3'
+        }, {
+            'name': 'Fulgur Anjanath Shard',
+            'quantity': '2'
+        }, {
+            'name': 'Fulgur Anjanath Hardfang',
+            'quantity': '1'
+        }, {
+            'name': 'Monster Solidbone',
+            'quantity': '2'
+        }, ],
+        'cost': '1800',
+    },
+    'lowerBody': {
+        'name': 'Fulgur Coil ⍺+',
+        'translationKey': 'armor-mr-fulgur-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/fulgur_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '146',
+        'slots': '1 - -',
+        'vsFire': '-1',
+        'vsWater': '-1',
+        'vsThunder': '2',
+        'vsIce': '-3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Weakness Exploit',
+            'level': '2'
+        }, {
+            'name': 'Item Prolonger',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Fulgur Anjanath Thickfur',
+            'quantity': '3'
+        }, {
+            'name': 'Fulgur Anjanath Hardfang',
+            'quantity': '1'
+        }, {
+            'name': 'Heavy Fulgur Anjanath Nosebone',
+            'quantity': '2'
+        }, {
+            'name': 'Fulgur Anjanath Mantle',
+            'quantity': '1'
+        }, ],
+        'cost': '18000',
+    },
+    'legs': {
+        'name': 'Fulgur Greaves ⍺+',
+        'translationKey': 'armor-mr-fulgur-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/fulgur_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '146',
+        'slots': '2 1 -',
+        'vsFire': '-1',
+        'vsWater': '-1',
+        'vsThunder': '2',
+        'vsIce': '-3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Thunder Attack',
+            'level': '2'
+        }, {
+            'name': 'Special Ammo Boost',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Fulgur Anjanath Thickfur',
+            'quantity': '3'
+        }, {
+            'name': 'Fulgur Anjanath Shard',
+            'quantity': '2'
+        }, {
+            'name': 'Fulgur Anjanath Hardfang',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Solidbone',
+            'quantity': '3'
+        }, ],
+        'cost': '18000',
+    },
     'totalDefense': '730',
     'totalFireDefense': '-5',
     'totalWaterDefense': '-5',
@@ -36492,6 +37791,177 @@ let masterRankArmors = [{
     'name': 'Fulgur Anja ß+',
     'translationKey': 'armor-mr-fulgur-anja-beta-plus',
     'icon': require('./assets/armors/sets/fulgur_anja_beta_plus.png'),
+    'head': {
+        'name': 'Fulgur Helm ß+',
+        'translationKey': 'armor-mr-fulgur-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/fulgur_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '146',
+        'slots': '4 2 -',
+        'vsFire': '-1',
+        'vsWater': '-1',
+        'vsThunder': '2',
+        'vsIce': '-3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Weakness Exploit',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Fulgur Anjanath Thickfur',
+            'quantity': '3'
+        }, {
+            'name': 'Fulgur Anjanath Shard',
+            'quantity': '2'
+        }, {
+            'name': 'Fulgur Anjanath Lash',
+            'quantity': '1'
+        }, {
+            'name': 'Lightning Sac',
+            'quantity': '3'
+        }, ],
+        'cost': '18000',
+    },
+    'upperBody': {
+        'name': 'Fulgur Mail ß+',
+        'translationKey': 'armor-mr-fulgur-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/fulgur_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '146',
+        'slots': '4 - -',
+        'vsFire': '-1',
+        'vsWater': '-1',
+        'vsThunder': '2',
+        'vsIce': '-3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Flinch Free',
+            'level': '1'
+        }, {
+            'name': 'Stun Resistance',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Fulgur Anjanath Thickfur',
+            'quantity': '3'
+        }, {
+            'name': 'Fulgur Anjanath Shard',
+            'quantity': '2'
+        }, {
+            'name': 'Heavy Fulgur Anjanath Nosebone',
+            'quantity': '1'
+        }, {
+            'name': 'Lightning Sac',
+            'quantity': '2'
+        }, ],
+        'cost': '18000',
+    },
+    'hands': {
+        'name': 'Fulgur Vambraces ß+',
+        'translationKey': 'armor-mr-fulgur-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/fulgur_vambraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '146',
+        'slots': '4 2 -',
+        'vsFire': '-1',
+        'vsWater': '-1',
+        'vsThunder': '2',
+        'vsIce': '-3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Item Prolonger',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Fulgur Anjanath Thickfur',
+            'quantity': '3'
+        }, {
+            'name': 'Fulgur Anjanath Shard',
+            'quantity': '2'
+        }, {
+            'name': 'Fulgur Anjanath Hardfang',
+            'quantity': '1'
+        }, {
+            'name': 'Monster Solidbone',
+            'quantity': '2'
+        }, ],
+        'cost': '1800',
+    },
+    'lowerBody': {
+        'name': 'Fulgur Coil ß+',
+        'translationKey': 'armor-mr-fulgur-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/fulgur_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '146',
+        'slots': '4 1 -',
+        'vsFire': '-1',
+        'vsWater': '-1',
+        'vsThunder': '2',
+        'vsIce': '-3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Weakness Exploit',
+            'level': '1'
+        }, {
+            'name': 'Item Prolonger',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Fulgur Anjanath Thickfur',
+            'quantity': '3'
+        }, {
+            'name': 'Fulgur Anjanath Hardfang',
+            'quantity': '1'
+        }, {
+            'name': 'Heavy Fulgur Anjanath Nosebone',
+            'quantity': '2'
+        }, {
+            'name': 'Fulgur Anjanath Mantle',
+            'quantity': '1'
+        }, ],
+        'cost': '18000',
+    },
+    'legs': {
+        'name': 'Fulgur Greaves ß+',
+        'translationKey': 'armor-mr-fulgur-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/fulgur_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '146',
+        'slots': '4 1 -',
+        'vsFire': '-1',
+        'vsWater': '-1',
+        'vsThunder': '2',
+        'vsIce': '-3',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Thunder Attack',
+            'level': '2'
+        }],
+        'materials': [{
+            'name': 'Fulgur Anjanath Thickfur',
+            'quantity': '3'
+        }, {
+            'name': 'Fulgur Anjanath Shard',
+            'quantity': '2'
+        }, {
+            'name': 'Fulgur Anjanath Hardfang',
+            'quantity': '2'
+        }, {
+            'name': 'Monster Solidbone',
+            'quantity': '3'
+        }],
+        'cost': '18000',
+    },
     'totalDefense': '730',
     'totalFireDefense': '-5',
     'totalWaterDefense': '-5',
@@ -36502,6 +37972,39 @@ let masterRankArmors = [{
     'name': 'Gajau ⍺+',
     'translationKey': 'armor-mr-gajau-alpha-plus',
     'icon': require('./assets/armors/sets/gajau_alpha_plus.png'),
+    'legs': {
+        'name': 'Gajau Boots ⍺+',
+        'translationKey': 'armor-mr-gajau-boots-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/gajau_boots_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '116',
+        'slots': '2 1 -',
+        'vsFire': '0',
+        'vsWater': '5',
+        'vsThunder': '0',
+        'vsIce': '0',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Aquatic/Polar Mobility',
+            'level': '2'
+        }, {
+            'name': 'Water Attack',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Gajau Thickhide',
+            'quantity': '2'
+        }, {
+            'name': 'Steel Gajau Whisker',
+            'quantity': '1'
+        }, {
+            'name': 'Eltalite Ore',
+            'quantity': '2'
+        }, ],
+        'cost': '9000',
+    },
     'totalDefense': '116',
     'totalFireDefense': '0',
     'totalWaterDefense': '5',
@@ -36512,6 +38015,39 @@ let masterRankArmors = [{
     'name': 'Gajau ß+',
     'translationKey': 'armor-mr-gajau-beta-plus',
     'icon': require('./assets/armors/sets/gajau_beta_plus.png'),
+    'legs': {
+        'name': 'Gajau Boots ß+',
+        'translationKey': 'armor-mr-gajau-boots-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/gajau_boots_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '116',
+        'slots': '4 1 -',
+        'vsFire': '0',
+        'vsWater': '5',
+        'vsThunder': '0',
+        'vsIce': '0',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Aquatic/Polar Mobility',
+            'level': '1'
+        }, {
+            'name': 'Water Attack',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Gajau Thickhide',
+            'quantity': '2'
+        }, {
+            'name': 'Steel Gajau Whisker',
+            'quantity': '1'
+        }, {
+            'name': 'Eltalite Ore',
+            'quantity': '2'
+        }, ],
+        'cost': '9000',
+    },
     'totalDefense': '116',
     'totalFireDefense': '0',
     'totalWaterDefense': '5',
@@ -36522,6 +38058,39 @@ let masterRankArmors = [{
     'name': 'Gastodon ⍺+',
     'translationKey': 'armor-mr-gastodon-alpha-plus',
     'icon': require('./assets/armors/sets/gastodon_alpha_plus.png'),
+    'head': {
+        'name': 'Gastodon Horn ⍺+',
+        'translationKey': 'armor-mr-gastodon-horn-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/gastodon_horn_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '116',
+        'slots': '1 - -',
+        'vsFire': '3',
+        'vsWater': '0',
+        'vsThunder': '0',
+        'vsIce': '0',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Flinch Free',
+            'level': '2'
+        }, {
+            'name': 'Blast Resistance',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Gastodon Husk',
+            'quantity': '3'
+        }, {
+            'name': 'Prized Pelt',
+            'quantity': '1'
+        }, {
+            'name': 'Thick Bone',
+            'quantity': '3'
+        }, ],
+        'cost': '9000',
+    },
     'totalDefense': '116',
     'totalFireDefense': '3',
     'totalWaterDefense': '0',
@@ -36532,6 +38101,39 @@ let masterRankArmors = [{
     'name': 'Gastodon ß+',
     'translationKey': 'armor-mr-gastodon-beta-plus',
     'icon': require('./assets/armors/sets/gastodon_beta_plus.png'),
+    'head': {
+        'name': 'Gastodon Horn ß+',
+        'translationKey': 'armor-mr-gastodon-horn-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/gastodon_horn_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '116',
+        'slots': '4 1 -',
+        'vsFire': '3',
+        'vsWater': '0',
+        'vsThunder': '0',
+        'vsIce': '0',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Flinch Free',
+            'level': '1'
+        }, {
+            'name': 'Blast Resistance',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Gastodon Husk',
+            'quantity': '3'
+        }, {
+            'name': 'Prized Pelt',
+            'quantity': '1'
+        }, {
+            'name': 'Thick Bone',
+            'quantity': '3'
+        }, ],
+        'cost': '9000',
+    },
     'totalDefense': '116',
     'totalFireDefense': '3',
     'totalWaterDefense': '0',
@@ -36542,6 +38144,42 @@ let masterRankArmors = [{
     'name': 'Girros ⍺+',
     'translationKey': 'armor-mr-girros-alpha-plus',
     'icon': require('./assets/armors/sets/girros_alpha_plus.png'),
+    'lowerBody': {
+        'name': 'Girros Coil ⍺+',
+        'translationKey': 'armor-mr-girros-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/girros_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '116',
+        'slots': '3 - -',
+        'vsFire': '0',
+        'vsWater': '-3',
+        'vsThunder': '2',
+        'vsIce': '0',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Effluvial Expert',
+            'level': '1'
+        }, {
+            'name': 'Paralysis Attack',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Great Girros Thickhide',
+            'quantity': '2'
+        }, {
+            'name': 'Great Girros Lash',
+            'quantity': '1'
+        }, {
+            'name': 'Ultraplegia Sac',
+            'quantity': '1'
+        }, {
+            'name': 'Girros Shard',
+            'quantity': '1'
+        }, ],
+        'cost': '9000',
+    },
     'totalDefense': '580',
     'totalFireDefense': '0',
     'totalWaterDefense': '-15',
@@ -36552,6 +38190,39 @@ let masterRankArmors = [{
     'name': 'Girros ß+',
     'translationKey': 'armor-mr-girros-beta-plus',
     'icon': require('./assets/armors/sets/girros_beta_plus.png'),
+    'lowerBody': {
+        'name': 'Girros Coil ß+',
+        'translationKey': 'armor-mr-girros-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/girros_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '116',
+        'slots': '4 2 -',
+        'vsFire': '0',
+        'vsWater': '-3',
+        'vsThunder': '2',
+        'vsIce': '0',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Effluvial Expert',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Great Girros Thickhide',
+            'quantity': '2'
+        }, {
+            'name': 'Great Girros Lash',
+            'quantity': '1'
+        }, {
+            'name': 'Ultraplegia Sac',
+            'quantity': '1'
+        }, {
+            'name': 'Girros Shard',
+            'quantity': '1'
+        }, ],
+        'cost': '9000',
+    },
     'totalDefense': '580',
     'totalFireDefense': '0',
     'totalWaterDefense': '-15',
@@ -36688,7 +38359,7 @@ let masterRankArmors = [{
     'totalThunderDefense': '15',
     'totalIceDefense': '0',
     'totalDragonDefense': '0',
-},{
+}, {
     'name': 'Kadachi ß+',
     'translationKey': 'armor-mr-kadachi-beta-plus',
     'icon': require('./assets/armors/sets/kadachi_beta_plus.png'),
@@ -36801,7 +38472,7 @@ let masterRankArmors = [{
 }, {
     'name': 'Legiana ⍺+',
     'translationKey': 'armor-mr-legiana-alpha-plus',
-    'icon': require('./assets/armors/sets/legiana_alpha_plus.png'), 
+    'icon': require('./assets/armors/sets/legiana_alpha_plus.png'),
     'totalDefense': '700',
     'totalFireDefense': '-5',
     'totalWaterDefense': '10',
@@ -36811,14 +38482,14 @@ let masterRankArmors = [{
 }, {
     'name': 'Legiana ß+',
     'translationKey': 'armor-mr-legiana-beta-plus',
-    'icon': require('./assets/armors/sets/legiana_beta_plus.png'), 
+    'icon': require('./assets/armors/sets/legiana_beta_plus.png'),
     'totalDefense': '700',
     'totalFireDefense': '-5',
     'totalWaterDefense': '10',
     'totalThunderDefense': '-15',
     'totalIceDefense': '15',
     'totalDragonDefense': '0',
-},{
+}, {
     'name': 'Lumu ⍺+',
     'translationKey': 'armor-mr-lumu-alpha-plus',
     'icon': require('./assets/armors/sets/lumu_alpha_plus.png'),
@@ -36878,7 +38549,7 @@ let masterRankArmors = [{
     'totalThunderDefense': '5',
     'totalIceDefense': '-15',
     'totalDragonDefense': '-10',
-},{
+}, {
     'name': 'Namielle ⍺+',
     'translationKey': 'armor-mr-namielle-alpha-plus',
     'icon': require('./assets/armors/sets/namielle_alpha_plus.png'),
@@ -36941,14 +38612,14 @@ let masterRankArmors = [{
 }, {
     'name': 'Pearlspring ⍺+',
     'translationKey': 'armor-mr-pearlspring-alpha-plus',
-    'icon': require('./assets/armors/sets/placeholder.png'), 
+    'icon': require('./assets/armors/sets/placeholder.png'),
     'totalDefense': '120',
     'totalFireDefense': '0',
     'totalWaterDefense': '0',
     'totalThunderDefense': '0',
     'totalIceDefense': '0',
     'totalDragonDefense': '5',
-},{
+}, {
     'name': 'Pukei ⍺+',
     'translationKey': 'armor-mr-pukei-alpha-plus',
     'icon': require('./assets/armors/sets/pukei_alpha_plus.png'),
@@ -37138,7 +38809,7 @@ let masterRankArmors = [{
     'totalThunderDefense': '-5',
     'totalIceDefense': '15',
     'totalDragonDefense': '0',
-},{
+}, {
     'name': 'Shrieking Legia ß+',
     'translationKey': 'armor-mr-shrieking-legia-beta-plus',
     'icon': require('./assets/armors/sets/shrieking_legia_beta_plus.png'),
@@ -37148,7 +38819,7 @@ let masterRankArmors = [{
     'totalThunderDefense': '-5',
     'totalIceDefense': '15',
     'totalDragonDefense': '0',
-},{
+}, {
     'name': 'Teostra ⍺+',
     'translationKey': 'armor-mr-teostra-alpha-plus',
     'icon': require('./assets/armors/sets/teostra_alpha_plus.png'),
@@ -37198,7 +38869,7 @@ let masterRankArmors = [{
     'totalThunderDefense': '-15',
     'totalIceDefense': '-10',
     'totalDragonDefense': '0',
-},{
+}, {
     'name': 'Tzitzi ß+',
     'translationKey': 'armor-mr-tzitzi-beta-plus',
     'icon': require('./assets/armors/sets/tzitzi_beta_plus.png'),
@@ -37218,7 +38889,7 @@ let masterRankArmors = [{
     'totalThunderDefense': '5',
     'totalIceDefense': '-10',
     'totalDragonDefense': '-10',
-},{
+}, {
     'name': 'Uragaan ß+',
     'translationKey': 'armor-mr-uragaan-beta-plus',
     'icon': require('./assets/armors/sets/uragaan_beta_plus.png'),
@@ -37271,7 +38942,7 @@ let masterRankArmors = [{
 }, {
     'name': 'Viper Kadachi ⍺+',
     'translationKey': 'armor-mr-viper-kadachi-alpha-plus',
-    'icon': require('./assets/armors/sets/viper_kadachi_alpha_plus.png'), 
+    'icon': require('./assets/armors/sets/viper_kadachi_alpha_plus.png'),
     'totalDefense': '660',
     'totalFireDefense': '5',
     'totalWaterDefense': '15',
@@ -37281,7 +38952,7 @@ let masterRankArmors = [{
 }, {
     'name': 'Viper Kadachi ß+',
     'translationKey': 'armor-mr-viper-kadachi-beta-plus',
-    'icon': require('./assets/armors/sets/viper_kadachi_beta_plus.png'), 
+    'icon': require('./assets/armors/sets/viper_kadachi_beta_plus.png'),
     'totalDefense': '660',
     'totalFireDefense': '5',
     'totalWaterDefense': '15',
@@ -37544,7 +39215,7 @@ let armorSets = [{
         }, {
             'name': 'Affinity Sliding',
             'level': '1'
-        },],
+        }, ],
     },
     'hands': {
         'name': 'Aloy\'s Arms 𝛾',
@@ -37565,7 +39236,7 @@ let armorSets = [{
         }, {
             'name': 'Slinger Capacity',
             'level': '1'
-        },],
+        }, ],
     },
     'lowerBody': {
         'name': 'Aloy\'s Torso 𝛾',
@@ -37586,7 +39257,7 @@ let armorSets = [{
         }, {
             'name': 'Weakness Exploit',
             'level': '1'
-        },],
+        }, ],
     },
     'legs': {
         'name': 'Aloy\'s Leggings 𝛾',
@@ -37607,7 +39278,7 @@ let armorSets = [{
         }, {
             'name': 'Marathon Runner',
             'level': '1'
-        },],
+        }, ],
     },
     'totalDefense': '320',
     'totalFireDefense': '5',
@@ -37646,7 +39317,7 @@ let armorSets = [{
         'quantity': '1'
     }, ],
     'cost': '60000'
-},{
+}, {
     'name': 'Ryu ⍺',
     'icon': require('./assets/armors/sets/ryu.png'),
     'head': {
@@ -37777,7 +39448,7 @@ let armorSets = [{
         }, {
             'name': 'Evade Window',
             'level': '1'
-        },],
+        }, ],
     },
     'upperBody': {
         'name': 'Sakura\'s Work Uniform ⍺',
@@ -37798,7 +39469,7 @@ let armorSets = [{
         }, {
             'name': 'Resuscitate',
             'level': '1'
-        },],
+        }, ],
     },
     'hands': {
         'name': 'Sakura\'s Arms ⍺',
@@ -37855,7 +39526,7 @@ let armorSets = [{
         }, {
             'name': 'Evade Window',
             'level': '1'
-        },],
+        }, ],
     },
     'totalDefense': '250',
     'totalFireDefense': '0',
@@ -37886,7 +39557,7 @@ let armorSets = [{
         'quantity': '6'
     }, ],
     'cost': '40000'
-},{
+}, {
     'name': 'Geralt ⍺',
     'icon': require('./assets/armors/sets/placeholder.png'),
     'head': {
@@ -37908,7 +39579,7 @@ let armorSets = [{
         }, {
             'name': 'Recovery Speed',
             'level': '1'
-        },],
+        }, ],
     },
     'upperBody': {
         'name': 'Geralt\'s Body ⍺',
@@ -37929,7 +39600,7 @@ let armorSets = [{
         }, {
             'name': 'Attack Boost',
             'level': '2'
-        },],
+        }, ],
     },
     'hands': {
         'name': 'Geralt\'s Arms ⍺',
@@ -37950,7 +39621,7 @@ let armorSets = [{
         }, {
             'name': 'Marathon Runner',
             'level': '1'
-        },],
+        }, ],
     },
     'lowerBody': {
         'name': 'Geralt\'s Torso ⍺',
@@ -37971,7 +39642,7 @@ let armorSets = [{
         }, {
             'name': 'Weakness Exploit',
             'level': '1'
-        },],
+        }, ],
     },
     'legs': {
         'name': 'Geralt\'s Legs ⍺',
@@ -37992,7 +39663,7 @@ let armorSets = [{
         }, {
             'name': 'Critical Eye',
             'level': '2'
-        },],
+        }, ],
     },
     'totalDefense': '66',
     'totalFireDefense': '10',
@@ -38030,8 +39701,8 @@ let armorSets = [{
         'icon': require('./assets/skills/igni_intensity.png'),
         'description': 'armor-set-bonus-skill-igni-intensity-description',
         'piecesRequired': '4',
-    },],
-},  {
+    }, ],
+}, {
     'name': 'Ciri ⍺',
     'icon': require('./assets/armors/sets/placeholder.png'),
     'head': {
@@ -38053,7 +39724,7 @@ let armorSets = [{
         }, {
             'name': 'Evade Window',
             'level': '1'
-        },],
+        }, ],
     },
     'upperBody': {
         'name': 'Ciri\'s Body ⍺',
@@ -38074,7 +39745,7 @@ let armorSets = [{
         }, {
             'name': 'Divine Blessing',
             'level': '2'
-        },],
+        }, ],
     },
     'hands': {
         'name': 'Ciri\'s Arms ⍺',
@@ -38095,7 +39766,7 @@ let armorSets = [{
         }, {
             'name': 'Razor Sharp/Spare Shot',
             'level': '1'
-        },],
+        }, ],
     },
     'lowerBody': {
         'name': 'Ciri\'s Torso ⍺',
@@ -38116,7 +39787,7 @@ let armorSets = [{
         }, {
             'name': 'Evade Extender',
             'level': '2'
-        },],
+        }, ],
     },
     'legs': {
         'name': 'Ciri\'s Legs ⍺',
@@ -38137,7 +39808,7 @@ let armorSets = [{
         }, {
             'name': 'Constitution',
             'level': '2'
-        },],
+        }, ],
     },
     'totalDefense': '350',
     'totalFireDefense': '-10',
@@ -38184,7 +39855,7 @@ let arenaArmors = [{
         'level': '3'
     }, ],
     'howToGet': 'armor-pulverizing-feather-how-to-get'
-},];
+}, ];
 
 export {
     lowRankArmors,

@@ -172,7 +172,7 @@ export default class LoadoutDetailScreen extends React.PureComponent {
                     }
                 }
 
-                let armors = _.concat(database.lowRankArmors, database.highRankArmors);
+                let armors = _.concat(database.lowRankArmors, database.highRankArmors, database.masterRankArmors);
                 if (item.head !== undefined) {
                     //Evaluate head
                     _.forEach(armors, (armorSet) => {
@@ -895,6 +895,11 @@ export default class LoadoutDetailScreen extends React.PureComponent {
                 }
             });
             database.highRankArmors.map((armor)=>{
+                if (armor.setBonusSkills !== undefined) {
+                    totalSetBonusSkills = _.concat(totalSetBonusSkills, armor.setBonusSkills);
+                }
+            });
+            database.masterRankArmors.map((armor)=>{
                 if (armor.setBonusSkills !== undefined) {
                     totalSetBonusSkills = _.concat(totalSetBonusSkills, armor.setBonusSkills);
                 }
@@ -2729,7 +2734,7 @@ export class LoadoutChooseHeadModal extends React.PureComponent {
 
     _prepareInitialData() {
         let heads = [];
-        let armors = _.concat(database.lowRankArmors, database.highRankArmors);
+        let armors = _.concat(database.lowRankArmors, database.highRankArmors, database.masterRankArmors);
         _.forEach(armors, (armorSet) => {
             if (armorSet.head !== undefined) {
                 heads.push(armorSet.head);
@@ -2944,7 +2949,7 @@ export class LoadoutChooseUpperBodyModal extends React.PureComponent {
 
     _prepareInitialData() {
         let upperBodies = [];
-        let armors = _.concat(database.lowRankArmors, database.highRankArmors);
+        let armors = _.concat(database.lowRankArmors, database.highRankArmors, database.masterRankArmors);
         _.forEach(armors, (armorSet) => {
             if (armorSet.upperBody !== undefined) {
                 upperBodies.push(armorSet.upperBody);
@@ -3168,7 +3173,7 @@ export class LoadoutChooseHandsModal extends React.PureComponent {
 
     _prepareInitialData() {
         let hands = [];
-        let armors = _.concat(database.lowRankArmors, database.highRankArmors);
+        let armors = _.concat(database.lowRankArmors, database.highRankArmors, database.masterRankArmors);
         _.forEach(armors, (armorSet) => {
             if (armorSet.hands !== undefined) {
                 hands.push(armorSet.hands);
@@ -3384,7 +3389,7 @@ export class LoadoutChooseLowerBodyModal extends React.PureComponent {
     _prepareInitialData() {
         //==LOWER BODIES==
         let lowerBodies = [];
-        let armors = _.concat(database.lowRankArmors, database.highRankArmors);
+        let armors = _.concat(database.lowRankArmors, database.highRankArmors, database.masterRankArmors);
         _.forEach(armors, (armorSet) => {
             if (armorSet.lowerBody !== undefined) {
                 lowerBodies.push(armorSet.lowerBody);
@@ -3602,7 +3607,7 @@ export class LoadoutChooseLegsModal extends React.PureComponent {
 
     _prepareInitialData() {
         let legs = [];
-        let armors = _.concat(database.lowRankArmors, database.highRankArmors);
+        let armors = _.concat(database.lowRankArmors, database.highRankArmors, database.masterRankArmors);
         _.forEach(armors, (armorSet) => {
             if (armorSet.legs !== undefined) {
                 legs.push(armorSet.legs);
