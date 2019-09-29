@@ -35570,6 +35570,186 @@ let masterRankArmors = [{
     'name': 'Blackveil Hazak ⍺+',
     'translationKey': 'armor-mr-blackveil-hazak-alpha-plus',
     'icon': require('./assets/armors/sets/blackveil_hazak_alpha_plus.png'),
+    'head': {
+        'name': 'Fellshroud Helm ⍺+',
+        'translationKey': 'armor-mr-fellshroud-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/fellshroud_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '156',
+        'slots': '1 - -',
+        'vsFire': '-2',
+        'vsWater': '4',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Peak Performance',
+            'level': '2'
+        }, {
+            'name': 'Dragon Attack',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Vaal Hazak Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Shadowpierce Fang',
+            'quantity': '1'
+        },{
+            'name': 'Vaal Hazak Hardclaw',
+            'quantity': '3'
+        },{
+            'name': 'Large Elder Dragon Gem',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'upperBody': {
+        'name': 'Fellshroud Mail ⍺+',
+        'translationKey': 'armor-mr-fellshroud-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/fellshroud_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '156',
+        'slots': '3 1 -',
+        'vsFire': '-2',
+        'vsWater': '4',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Recovery Speed',
+            'level': '2'
+        }, {
+            'name': 'Dragon Attack',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Vaal Hazak Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Deceased Shard',
+            'quantity': '2'
+        },{
+            'name': 'Deathweaver Membrane',
+            'quantity': '3'
+        },{
+            'name': 'Pure Dragon Blood',
+            'quantity': '2'
+        },],
+        'cost': '21000',
+    },
+    'hands': {
+        'name': 'Fellshroud Braces ⍺+',
+        'translationKey': 'armor-mr-fellshroud-braces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/fellshroud_braces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '156',
+        'slots': '2 1 1',
+        'vsFire': '-2',
+        'vsWater': '4',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Recovery Up',
+            'level': '2'
+        }, {
+            'name': 'Speed Eating',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Vaal Hazak Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Vaal Hazak Fellwing',
+            'quantity': '2'
+        },{
+            'name': 'Shadowpierce Fang',
+            'quantity': '2'
+        },{
+            'name': 'Large Elder Dragon Bone',
+            'quantity': '5'
+        },],
+        'cost': '21000',
+    },
+    'lowerBody': {
+        'name': 'Fellshroud Coil ⍺+',
+        'translationKey': 'armor-mr-fellshroud-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/fellshroud_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '156',
+        'slots': '2 1 -',
+        'vsFire': '-2',
+        'vsWater': '4',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Speed Eating',
+            'level': '2'
+        }, {
+            'name': 'Peak Performance',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Vaal Hazak Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Deceased Shard',
+            'quantity': '2'
+        },{
+            'name': 'Vaal Hazak Fellwing',
+            'quantity': '4'
+        },{
+            'name': 'Deathweaver Membrane',
+            'quantity': '2'
+        },],
+        'cost': '21000',
+    },
+    'legs': {
+        'name': 'Fellshroud Greaves ⍺+',
+        'translationKey': 'armor-mr-fellshroud-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/fellshroud_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '156',
+        'slots': '3 2 -',
+        'vsFire': '-2',
+        'vsWater': '4',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Effluvia Resistance',
+            'level': '2'
+        }, {
+            'name': 'Dragon Attack',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Vaal Hazak Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Deceased Shard',
+            'quantity': '3'
+        },{
+            'name': 'Vaal Hazak Flail',
+            'quantity': '1'
+        },{
+            'name': 'Deathweaver Membrane',
+            'quantity': '2'
+        },],
+        'cost': '21000',
+    },
     'totalDefense': '780',
     'totalFireDefense': '-10',
     'totalWaterDefense': '20',
@@ -35580,6 +35760,174 @@ let masterRankArmors = [{
     'name': 'Blackveil Hazak ß+',
     'translationKey': 'armor-mr-blackveil-hazak-beta-plus',
     'icon': require('./assets/armors/sets/blackveil_hazak_beta_plus.png'),
+    'head': {
+        'name': 'Fellshroud Helm ß+',
+        'translationKey': 'armor-mr-fellshroud-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/fellshroud_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '156',
+        'slots': '4 1 -',
+        'vsFire': '-2',
+        'vsWater': '4',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Peak Performance',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Vaal Hazak Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Shadowpierce Fang',
+            'quantity': '1'
+        },{
+            'name': 'Vaal Hazak Hardclaw',
+            'quantity': '3'
+        },{
+            'name': 'Large Elder Dragon Gem',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'upperBody': {
+        'name': 'Fellshroud Mail ß+',
+        'translationKey': 'armor-mr-fellshroud-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/fellshroud_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '156',
+        'slots': '4 2 -',
+        'vsFire': '-2',
+        'vsWater': '4',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Recovery Speed',
+            'level': '2'
+        }, {
+            'name': 'Dragon Attack',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Vaal Hazak Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Deceased Shard',
+            'quantity': '2'
+        },{
+            'name': 'Deathweaver Membrane',
+            'quantity': '3'
+        },{
+            'name': 'Pure Dragon Blood',
+            'quantity': '2'
+        },],
+        'cost': '21000',
+    },
+    'hands': {
+        'name': 'Fellshroud Braces ß+',
+        'translationKey': 'armor-mr-fellshroud-braces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/fellshroud_braces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '156',
+        'slots': '4 1 1',
+        'vsFire': '-2',
+        'vsWater': '4',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Recovery Up',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Vaal Hazak Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Vaal Hazak Fellwing',
+            'quantity': '2'
+        },{
+            'name': 'Shadowpierce Fang',
+            'quantity': '2'
+        },{
+            'name': 'Large Elder Dragon Bone',
+            'quantity': '5'
+        },],
+        'cost': '21000',
+    },
+    'lowerBody': {
+        'name': 'Fellshroud Coil ß+',
+        'translationKey': 'armor-mr-fellshroud-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/fellshroud_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '156',
+        'slots': '4 2 -',
+        'vsFire': '-2',
+        'vsWater': '4',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Speed Eating',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Vaal Hazak Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Deceased Shard',
+            'quantity': '2'
+        },{
+            'name': 'Vaal Hazak Fellwing',
+            'quantity': '4'
+        },{
+            'name': 'Deathweaver Membrane',
+            'quantity': '2'
+        },],
+        'cost': '21000',
+    },
+    'legs': {
+        'name': 'Fellshroud Greaves ß+',
+        'translationKey': 'armor-mr-fellshroud-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/fellshroud_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '156',
+        'slots': '4 3 -',
+        'vsFire': '-2',
+        'vsWater': '4',
+        'vsThunder': '1',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Effluvia Resistance',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Vaal Hazak Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Deceased Shard',
+            'quantity': '3'
+        },{
+            'name': 'Vaal Hazak Flail',
+            'quantity': '1'
+        },{
+            'name': 'Deathweaver Membrane',
+            'quantity': '2'
+        },],
+        'cost': '21000',
+    },
     'totalDefense': '780',
     'totalFireDefense': '-10',
     'totalWaterDefense': '20',
@@ -37112,6 +37460,186 @@ let masterRankArmors = [{
     'name': 'Damascus ⍺+',
     'translationKey': 'armor-mr-damascus-alpha-plus',
     'icon': require('./assets/armors/sets/damascus_alpha_plus.png'),
+    'head': {
+        'name': 'Damscus Helm ⍺+',
+        'translationKey': 'armor-mr-damascus-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/damascus_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '3 - -',
+        'vsFire': '4',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '0',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Defense Boost',
+            'level': '3'
+        }, {
+            'name': 'Speed Sharpening',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Pure Dragon Blood',
+            'quantity': '2'
+        }, {
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Paolumu Fellwing',
+            'quantity': '1'
+        },{
+            'name': 'Gracium',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'upperBody': {
+        'name': 'Damascus Mail ⍺+',
+        'translationKey': 'armor-mr-damascus-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/damascus_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '3 1 -',
+        'vsFire': '4',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '0',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Focus',
+            'level': '2'
+        }, {
+            'name': 'Defense Boost',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Pure Dragon Blood',
+            'quantity': '2'
+        }, {
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Legiana Fellwing',
+            'quantity': '1'
+        },{
+            'name': 'Purecrystal',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'hands': {
+        'name': 'Damascus Vambraces ⍺+',
+        'translationKey': 'armor-mr-damascus-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/damascus_vambraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '2 1 -',
+        'vsFire': '4',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '0',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Handicraft',
+            'level': '2'
+        }, {
+            'name': 'Speed Sharpening',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Pure Dragon Blood',
+            'quantity': '2'
+        }, {
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Rathalos Fellwing',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Gem',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'lowerBody': {
+        'name': 'Damascus Coil ⍺+',
+        'translationKey': 'armor-mr-damascus-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/damascus_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '3 2 -',
+        'vsFire': '4',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '0',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Focus',
+            'level': '1'
+        }, {
+            'name': 'Guard',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Pure Dragon Blood',
+            'quantity': '2'
+        }, {
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Rathian Weave',
+            'quantity': '1'
+        },{
+            'name': 'Bathycite Ore',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'legs': {
+        'name': 'Damascus Greaves ⍺+',
+        'translationKey': 'armor-mr-damascus-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/damascus_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '2 1 -',
+        'vsFire': '4',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '0',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Defense Boost',
+            'level': '2'
+        }, {
+            'name': 'Guard',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Pure Dragon Blood',
+            'quantity': '2'
+        }, {
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Pukei-Pukei Fellwing',
+            'quantity': '1'
+        },{
+            'name': 'Spiritvein Crystal',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
     'totalDefense': '760',
     'totalFireDefense': '20',
     'totalWaterDefense': '-10',
@@ -37122,6 +37650,174 @@ let masterRankArmors = [{
     'name': 'Damascus ß+',
     'translationKey': 'armor-mr-damascus-beta-plus',
     'icon': require('./assets/armors/sets/damascus_beta_plus.png'),
+    'head': {
+        'name': 'Damscus Helm ß+',
+        'translationKey': 'armor-mr-damascus-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/damascus_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '4 1 1',
+        'vsFire': '4',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '0',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Defense Boost',
+            'level': '3'
+        }, ],
+        'materials': [{
+            'name': 'Pure Dragon Blood',
+            'quantity': '2'
+        }, {
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Paolumu Fellwing',
+            'quantity': '1'
+        },{
+            'name': 'Gracium',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'upperBody': {
+        'name': 'Damascus Mail ß+',
+        'translationKey': 'armor-mr-damascus-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/damascus_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '4 2 1',
+        'vsFire': '4',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '0',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Focus',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Pure Dragon Blood',
+            'quantity': '2'
+        }, {
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Legiana Fellwing',
+            'quantity': '1'
+        },{
+            'name': 'Purecrystal',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'hands': {
+        'name': 'Damascus Vambraces ß+',
+        'translationKey': 'armor-mr-damascus-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/damascus_vambraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '4 1 -',
+        'vsFire': '4',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '0',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Handicraft',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Pure Dragon Blood',
+            'quantity': '2'
+        }, {
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Rathalos Fellwing',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Gem',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'lowerBody': {
+        'name': 'Damascus Coil ß+',
+        'translationKey': 'armor-mr-damascus-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/damascus_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '4 3 1',
+        'vsFire': '4',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '0',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Focus',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Pure Dragon Blood',
+            'quantity': '2'
+        }, {
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Rathian Weave',
+            'quantity': '1'
+        },{
+            'name': 'Bathycite Ore',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'legs': {
+        'name': 'Damascus Greaves ß+',
+        'translationKey': 'armor-mr-damascus-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/damascus_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '4 2 -',
+        'vsFire': '4',
+        'vsWater': '-2',
+        'vsThunder': '0',
+        'vsIce': '0',
+        'vsDragon': '0',
+        'skills': [{
+            'name': 'Defense Boost',
+            'level': '2'
+        }, {
+            'name': 'Guard',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Pure Dragon Blood',
+            'quantity': '2'
+        }, {
+            'name': 'Meldspar Ore',
+            'quantity': '3'
+        },{
+            'name': 'Pukei-Pukei Fellwing',
+            'quantity': '1'
+        },{
+            'name': 'Spiritvein Crystal',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
     'totalDefense': '760',
     'totalFireDefense': '20',
     'totalWaterDefense': '-10',
@@ -37546,6 +38242,186 @@ let masterRankArmors = [{
     'name': 'Dober ⍺+',
     'translationKey': 'armor-mr-dober-alpha-plus',
     'icon': require('./assets/armors/sets/dober_alpha_plus.png'),
+    'head': {
+        'name': 'Dober Helm ⍺+',
+        'translationKey': 'armor-mr-dober-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/dober_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '1 - -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Free Element/Ammo Up',
+            'level': '2'
+        }, {
+            'name': 'Stamina Surge',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Large Elder Dragon Bone',
+            'quantity': '2'
+        }, {
+            'name': 'Thick Bone',
+            'quantity': '3'
+        },{
+            'name': 'Uragaan Scute+',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Gem',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'upperBody': {
+        'name': 'Dober Mail ⍺+',
+        'translationKey': 'armor-mr-dober-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/dober_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '1 1 1',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Attack Boost',
+            'level': '2'
+        }, {
+            'name': 'Effluvia Resistance',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Large Elder Dragon Bone',
+            'quantity': '2'
+        }, {
+            'name': 'Thick Bone',
+            'quantity': '3'
+        },{
+            'name': 'Jyuratodus Grandfin',
+            'quantity': '1'
+        },{
+            'name': 'Monster Solidbone',
+            'quantity': '3'
+        },],
+        'cost': '21000',
+    },
+    'hands': {
+        'name': 'Dober Vambraces ⍺+',
+        'translationKey': 'armor-mr-dober-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/dober_vambraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '2 1 -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Stamina Surge',
+            'level': '2'
+        }, {
+            'name': 'Mushroomancer',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Large Elder Dragon Bone',
+            'quantity': '2'
+        }, {
+            'name': 'Thick Bone',
+            'quantity': '3'
+        },{
+            'name': 'Lavasioth Grandfin',
+            'quantity': '1'
+        },{
+            'name': 'Dragonbone Artifact',
+            'quantity': '3'
+        },],
+        'cost': '21000',
+    },
+    'lowerBody': {
+        'name': 'Dober Coil ⍺+',
+        'translationKey': 'armor-mr-dober-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/dober_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '2 1 -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Attack Boost',
+            'level': '2'
+        }, {
+            'name': 'Stun Resistance',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Large Elder Dragon Bone',
+            'quantity': '2'
+        }, {
+            'name': 'Thick Bone',
+            'quantity': '3'
+        },{
+            'name': 'Diablos Tailcase+',
+            'quantity': '1'
+        },{
+            'name': 'Monster Toughbone',
+            'quantity': '5'
+        },],
+        'cost': '21000',
+    },
+    'legs': {
+        'name': 'Dober Greaves ⍺+',
+        'translationKey': 'armor-mr-dober-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/dober_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '2 - -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Attack Boost',
+            'level': '2'
+        }, {
+            'name': 'Mushroomancer',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Large Elder Dragon Bone',
+            'quantity': '2'
+        }, {
+            'name': 'Thick Bone',
+            'quantity': '3'
+        },{
+            'name': 'Radobaan Oilshell+',
+            'quantity': '1'
+        },{
+            'name': 'Monster Slogbone',
+            'quantity': '4'
+        },],
+        'cost': '21000',
+    },
     'totalDefense': '760',
     'totalFireDefense': '-10',
     'totalWaterDefense': '0',
@@ -37556,6 +38432,183 @@ let masterRankArmors = [{
     'name': 'Dober ß+',
     'translationKey': 'armor-mr-dober-beta-plus',
     'icon': require('./assets/armors/sets/dober_beta_plus.png'),
+    'head': {
+        'name': 'Dober Helm ß+',
+        'translationKey': 'armor-mr-dober-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/dober_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '4 - -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Free Element/Ammo Up',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Large Elder Dragon Bone',
+            'quantity': '2'
+        }, {
+            'name': 'Thick Bone',
+            'quantity': '3'
+        },{
+            'name': 'Uragaan Scute+',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Gem',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'upperBody': {
+        'name': 'Dober Mail ß+',
+        'translationKey': 'armor-mr-dober-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/dober_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '4 1 1',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Attack Boost',
+            'level': '1'
+        }, {
+            'name': 'Effluvia Resistance',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Large Elder Dragon Bone',
+            'quantity': '2'
+        }, {
+            'name': 'Thick Bone',
+            'quantity': '3'
+        },{
+            'name': 'Jyuratodus Grandfin',
+            'quantity': '1'
+        },{
+            'name': 'Monster Solidbone',
+            'quantity': '3'
+        },],
+        'cost': '21000',
+    },
+    'hands': {
+        'name': 'Dober Vambraces ß+',
+        'translationKey': 'armor-mr-dober-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/dober_vambraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '4 1 -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Stamina Surge',
+            'level': '1'
+        }, {
+            'name': 'Mushroomancer',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Large Elder Dragon Bone',
+            'quantity': '2'
+        }, {
+            'name': 'Thick Bone',
+            'quantity': '3'
+        },{
+            'name': 'Lavasioth Grandfin',
+            'quantity': '1'
+        },{
+            'name': 'Dragonbone Artifact',
+            'quantity': '3'
+        },],
+        'cost': '21000',
+    },
+    'lowerBody': {
+        'name': 'Dober Coil ß+',
+        'translationKey': 'armor-mr-dober-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/dober_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '4 2 -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Attack Boost',
+            'level': '1'
+        }, {
+            'name': 'Stun Resistance',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Large Elder Dragon Bone',
+            'quantity': '2'
+        }, {
+            'name': 'Thick Bone',
+            'quantity': '3'
+        },{
+            'name': 'Diablos Tailcase+',
+            'quantity': '1'
+        },{
+            'name': 'Monster Toughbone',
+            'quantity': '5'
+        },],
+        'cost': '21000',
+    },
+    'legs': {
+        'name': 'Dober Greaves ß+',
+        'translationKey': 'armor-mr-dober-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/dober_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '152',
+        'slots': '4 2 -',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Attack Boost',
+            'level': '1'
+        }, {
+            'name': 'Mushroomancer',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Large Elder Dragon Bone',
+            'quantity': '2'
+        }, {
+            'name': 'Thick Bone',
+            'quantity': '3'
+        },{
+            'name': 'Radobaan Oilshell+',
+            'quantity': '1'
+        },{
+            'name': 'Monster Slogbone',
+            'quantity': '4'
+        },],
+        'cost': '21000',
+    },
     'totalDefense': '760',
     'totalFireDefense': '-10',
     'totalWaterDefense': '0',
@@ -45530,6 +46583,186 @@ let masterRankArmors = [{
     'name': 'Savage Jho ⍺+',
     'translationKey': 'armor-mr-savage-jho-alpha-plus',
     'icon': require('./assets/armors/sets/savage_jho_alpha_plus.png'),
+    'head': {
+        'name': 'Esurient Helm ⍺+',
+        'translationKey': 'armor-mr-esurient-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/esurient_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '156',
+        'slots': '1 - -',
+        'vsFire': '2',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Partbreaker',
+            'level': '1'
+        }, {
+            'name': 'Handicraft',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Deviljho Blackpiel',
+            'quantity': '3'
+        }, {
+            'name': 'Deviljho Shard',
+            'quantity': '2'
+        },{
+            'name': 'Vile Fang',
+            'quantity': '2'
+        },{
+            'name': 'Ebony Odogaron Mantle',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'upperBody': {
+        'name': 'Esurient Mail ⍺+',
+        'translationKey': 'armor-mr-esurient-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/esurient_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '156',
+        'slots': '2 - -',
+        'vsFire': '2',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Speed Eating',
+            'level': '1'
+        }, {
+            'name': 'Handicraft',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Deviljho Blackpiel',
+            'quantity': '3'
+        }, {
+            'name': 'Vile Fang',
+            'quantity': '4'
+        },{
+            'name': 'Deviljho Flail',
+            'quantity': '1'
+        },{
+            'name': 'Deviljho Crook',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'hands': {
+        'name': 'Esurient Vambraces ⍺+',
+        'translationKey': 'armor-mr-esurient-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/esurient_vambraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '156',
+        'slots': '2 - -',
+        'vsFire': '2',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Stamina Thief',
+            'level': '2'
+        }, {
+            'name': 'Partbreaker',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Deviljho Blackpiel',
+            'quantity': '3'
+        }, {
+            'name': 'Deviljho Shard',
+            'quantity': '2'
+        },{
+            'name': 'Black Blood',
+            'quantity': '3'
+        },{
+            'name': 'Monster Solidbone',
+            'quantity': '5'
+        },],
+        'cost': '21000',
+    },
+    'lowerBody': {
+        'name': 'Esurient Faulds ⍺+',
+        'translationKey': 'armor-mr-esurient-faulds-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/esurient_faulds_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '156',
+        'slots': '1 - -',
+        'vsFire': '2',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Stamina Thief',
+            'level': '2'
+        }, {
+            'name': 'Handicraft',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Deviljho Blackpiel',
+            'quantity': '3'
+        }, {
+            'name': 'Black Blood',
+            'quantity': '3'
+        },{
+            'name': 'Deviljho Rapper',
+            'quantity': '1'
+        },{
+            'name': 'Rathalos Mantle',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'legs': {
+        'name': 'Esurient Greaves ⍺+',
+        'translationKey': 'armor-mr-esurient-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/esurient_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '156',
+        'slots': '2 2 -',
+        'vsFire': '2',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Speed Eating',
+            'level': '2'
+        }, {
+            'name': 'Stamina Thief',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Deviljho Blackpiel',
+            'quantity': '3'
+        }, {
+            'name': 'Deviljho Shard',
+            'quantity': '2'
+        },{
+            'name': 'Deviljho Ripper',
+            'quantity': '1'
+        },{
+            'name': 'Dragonbone Artifact',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
     'totalDefense': '780',
     'totalFireDefense': '10',
     'totalWaterDefense': '5',
@@ -45540,6 +46773,174 @@ let masterRankArmors = [{
     'name': 'Savage Jho ß+',
     'translationKey': 'armor-mr-savage-jho-beta-plus',
     'icon': require('./assets/armors/sets/savage_jho_beta_plus.png'),
+    'head': {
+        'name': 'Esurient Helm ß+',
+        'translationKey': 'armor-mr-esurient-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/esurient_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '156',
+        'slots': '4 3 -',
+        'vsFire': '2',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Partbreaker',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Deviljho Blackpiel',
+            'quantity': '3'
+        }, {
+            'name': 'Deviljho Shard',
+            'quantity': '2'
+        },{
+            'name': 'Vile Fang',
+            'quantity': '2'
+        },{
+            'name': 'Ebony Odogaron Mantle',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'upperBody': {
+        'name': 'Esurient Mail ß+',
+        'translationKey': 'armor-mr-esurient-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/esurient_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '156',
+        'slots': '4 2 2',
+        'vsFire': '2',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Speed Eating',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Deviljho Blackpiel',
+            'quantity': '3'
+        }, {
+            'name': 'Vile Fang',
+            'quantity': '4'
+        },{
+            'name': 'Deviljho Flail',
+            'quantity': '1'
+        },{
+            'name': 'Deviljho Crook',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'hands': {
+        'name': 'Esurient Vambraces ß+',
+        'translationKey': 'armor-mr-esurient-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/esurient_vambraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '156',
+        'slots': '4 - -',
+        'vsFire': '2',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Stamina Thief',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Deviljho Blackpiel',
+            'quantity': '3'
+        }, {
+            'name': 'Deviljho Shard',
+            'quantity': '2'
+        },{
+            'name': 'Black Blood',
+            'quantity': '3'
+        },{
+            'name': 'Monster Solidbone',
+            'quantity': '5'
+        },],
+        'cost': '21000',
+    },
+    'lowerBody': {
+        'name': 'Esurient Faulds ß+',
+        'translationKey': 'armor-mr-esurient-faulds-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/esurient_faulds_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '156',
+        'slots': '4 1 -',
+        'vsFire': '2',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Stamina Thief',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Deviljho Blackpiel',
+            'quantity': '3'
+        }, {
+            'name': 'Black Blood',
+            'quantity': '3'
+        },{
+            'name': 'Deviljho Rapper',
+            'quantity': '1'
+        },{
+            'name': 'Rathalos Mantle',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
+    'legs': {
+        'name': 'Esurient Greaves ß+',
+        'translationKey': 'armor-mr-esurient-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/esurient_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '156',
+        'slots': '4 2 -',
+        'vsFire': '2',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Speed Eating',
+            'level': '1'
+        }, {
+            'name': 'Stamina Thief',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Deviljho Blackpiel',
+            'quantity': '3'
+        }, {
+            'name': 'Deviljho Shard',
+            'quantity': '2'
+        },{
+            'name': 'Deviljho Ripper',
+            'quantity': '1'
+        },{
+            'name': 'Dragonbone Artifact',
+            'quantity': '1'
+        },],
+        'cost': '21000',
+    },
     'totalDefense': '780',
     'totalFireDefense': '10',
     'totalWaterDefense': '5',
