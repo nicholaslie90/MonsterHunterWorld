@@ -619,7 +619,8 @@ export default class SearchScreen extends React.PureComponent {
         _.forEach(database.masterRankArmors, (masterRankArmor) => {
             if (masterRankArmor.head !== undefined) {
                 if (text !== undefined) {
-                    if (I18n.t(masterRankArmor.head.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                    if (I18n.t(masterRankArmor.head.translationKey) !== undefined && I18n.t(masterRankArmor.head.translationKey).Translation !== undefined &&
+                        I18n.t(masterRankArmor.head.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                         masterRankArmorComponents.push(masterRankArmor.head);
                     } else {
                         return masterRankArmor.head;
@@ -630,7 +631,8 @@ export default class SearchScreen extends React.PureComponent {
             }
             if (masterRankArmor.upperBody !== undefined) {
                 if (text !== undefined) {
-                    if (I18n.t(masterRankArmor.upperBody.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                    if (I18n.t(masterRankArmor.upperBody.translationKey) !== undefined && I18n.t(masterRankArmor.upperBody.translationKey).Translation !== undefined &&
+                        I18n.t(masterRankArmor.upperBody.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                         masterRankArmorComponents.push(masterRankArmor.upperBody);
                     } else {
                         return masterRankArmor.upperBody;
@@ -641,7 +643,8 @@ export default class SearchScreen extends React.PureComponent {
             }
             if (masterRankArmor.hands !== undefined) {
                 if (text !== undefined) {
-                    if (I18n.t(masterRankArmor.hands.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                    if (I18n.t(masterRankArmor.hands.translationKey) !== undefined && I18n.t(masterRankArmor.hands.translationKey).Translation !== undefined &&
+                        I18n.t(masterRankArmor.hands.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                         masterRankArmorComponents.push(masterRankArmor.hands);
                     } else {
                         return masterRankArmor.hands;
@@ -652,7 +655,8 @@ export default class SearchScreen extends React.PureComponent {
             }
             if (masterRankArmor.lowerBody !== undefined) {
                 if (text !== undefined) {
-                    if (I18n.t(masterRankArmor.lowerBody.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                    if (I18n.t(masterRankArmor.lowerBody.translationKey) !== undefined && I18n.t(masterRankArmor.lowerBody.translationKey).Translation !== undefined &&
+                        I18n.t(masterRankArmor.lowerBody.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                         masterRankArmorComponents.push(masterRankArmor.lowerBody);
                     } else {
                         return masterRankArmor.lowerBody;
@@ -663,7 +667,8 @@ export default class SearchScreen extends React.PureComponent {
             }
             if (masterRankArmor.legs !== undefined) {
                 if (text !== undefined) {
-                    if (I18n.t(masterRankArmor.legs.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                    if (I18n.t(masterRankArmor.legs.translationKey) !== undefined && I18n.t(masterRankArmor.legs.translationKey).Translation !== undefined &&
+                        I18n.t(masterRankArmor.legs.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                         masterRankArmorComponents.push(masterRankArmor.legs);
                     } else {
                         return masterRankArmor.legs;
@@ -686,7 +691,8 @@ export default class SearchScreen extends React.PureComponent {
     _searchArmors(text) {
         let filteredLowRankArmors = _.filter(database.lowRankArmors, (lowRankArmor) => {
             if (text !== undefined) {
-                if (I18n.t(lowRankArmor.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                if (I18n.t(lowRankArmor.translationKey) !== undefined && I18n.t(lowRankArmor.translationKey).Translation !== undefined &&
+                    I18n.t(lowRankArmor.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                     return lowRankArmor;
                 }
             } else {
@@ -695,7 +701,8 @@ export default class SearchScreen extends React.PureComponent {
         });
         let filteredHighRankArmors = _.filter(database.highRankArmors, (highRankArmor) => {
             if (text !== undefined) {
-                if (I18n.t(highRankArmor.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                if (I18n.t(highRankArmor.translationKey) !== undefined && I18n.t(highRankArmor.translationKey).Translation !== undefined &&
+                    I18n.t(highRankArmor.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                     return highRankArmor;
                 }
             } else {
@@ -704,7 +711,8 @@ export default class SearchScreen extends React.PureComponent {
         });
         let filteredMasterRankArmors = _.filter(database.masterRankArmors, (masterRankArmor) => {
             if (text !== undefined) {
-                if (I18n.t(masterRankArmor.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                if (I18n.t(masterRankArmor.translationKey) !== undefined && I18n.t(masterRankArmor.translationKey).Translation !== undefined &&
+                    I18n.t(masterRankArmor.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                     return masterRankArmor;
                 }
             } else {
@@ -713,7 +721,8 @@ export default class SearchScreen extends React.PureComponent {
         });
         let filteredArenaArmors = _.filter(database.arenaArmors, (arenaArmor) => {
             if (text !== undefined) {
-                if (I18n.t(arenaArmor.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                if (I18n.t(arenaArmor.translationKey) !== undefined && I18n.t(arenaArmor.translationKey).Translation !== undefined &&
+                    I18n.t(arenaArmor.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                     return arenaArmor;
                 }
             } else {

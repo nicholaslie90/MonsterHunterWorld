@@ -4233,6 +4233,10 @@ export class LoadoutChooseDecorationModal extends React.PureComponent {
     _prepareInitialData() {
         let decorations = null;
         switch (this.props.navigation.state.params.decorationLevel) {
+            case '4':
+                decorations = _.concat(database.decorationsJewel1, database.decorationsJewel2, database.decorationsJewel3);
+                break;
+
             case '3':
                 decorations = _.concat(database.decorationsJewel1, database.decorationsJewel2, database.decorationsJewel3);
                 break;

@@ -18082,5 +18082,1765 @@ export default {
     "armor-mr-banbaro-greaves-beta-plus": {
       "Key": "armor-mr-banbaro-greaves-beta-plus",
       "Translation": "Banbaro Greaves ß+"
+    },
+    "armor-mr-banbaro-helm-alpha-plus": {
+      "Key": "armor-mr-banbaro-helm-alpha-plus",
+      "Translation": "Banbaro Helm ⍺+"
+    },
+    "armor-mr-banbaro-helm-beta-plus": {
+      "Key": "armor-mr-banbaro-helm-beta-plus",
+      "Translation": "Banbaro Helm ß+"
+    },
+    "armor-mr-banbaro-mail-alpha-plus": {
+      "Key": "armor-mr-banbaro-mail-alpha-plus",
+      "Translation": "Banbaro Mail ⍺+"
+    },
+    "armor-mr-banbaro-mail-beta-plus": {
+      "Key": "armor-mr-banbaro-mail-beta-plus",
+      "Translation": "Banbaro Mail ß+"
+    },
+    "armor-mr-banbaro-vambraces-alpha-plus": {
+      "Key": "armor-mr-banbaro-vambraces-alpha-plus",
+      "Translation": "Banbaro Vambraces ⍺+"
+    },
+    "armor-mr-banbaro-vambraces-beta-plus": {
+      "Key": "armor-mr-banbaro-vambraces-beta-plus",
+      "Translation": "Banbaro Vambraces ß+"
+    },
+    "armor-mr-barioth-faulds-alpha-plus": {
+      "Key": "armor-mr-barioth-faulds-alpha-plus",
+      "Translation": "Barioth Faulds ⍺+"
+    },
+    "armor-mr-barioth-faulds-beta-plus": {
+      "Key": "armor-mr-barioth-faulds-beta-plus",
+      "Translation": "Barioth Faulds ß+"
+    },
+    "armor-mr-barioth-greaves-alpha-plus": {
+      "Key": "armor-mr-barioth-greaves-alpha-plus",
+      "Translation": "Barioth Greaves ⍺+"
+    },
+    "armor-mr-barioth-greaves-beta-plus": {
+      "Key": "armor-mr-barioth-greaves-beta-plus",
+      "Translation": "Barioth Greaves ß+"
+    },
+    "armor-mr-barioth-helm-alpha-plus": {
+      "Key": "armor-mr-barioth-helm-alpha-plus",
+      "Translation": "Barioth Helm ⍺+"
+    },
+    "armor-mr-barioth-helm-beta-plus": {
+      "Key": "armor-mr-barioth-helm-beta-plus",
+      "Translation": "Barioth Helm ß+"
+    },
+    "armor-mr-barioth-mail-alpha-plus": {
+      "Key": "armor-mr-barioth-mail-alpha-plus",
+      "Translation": "Barioth Mail ⍺+"
+    },
+    "armor-mr-barioth-mail-beta-plus": {
+      "Key": "armor-mr-barioth-mail-beta-plus",
+      "Translation": "Barioth Mail ß+"
+    },
+    "armor-mr-barioth-vambraces-alpha-plus": {
+      "Key": "armor-mr-barioth-vambraces-alpha-plus",
+      "Translation": "Barioth Vambraces ⍺+"
+    },
+    "armor-mr-barioth-vambraces-beta-plus": {
+      "Key": "armor-mr-barioth-vambraces-beta-plus",
+      "Translation": "Barioth Vambraces ß+"
+    },
+    "armor-mr-barnos-jacket-alpha-plus": {
+      "Key": "armor-mr-barnos-jacket-alpha-plus",
+      "Translation": "Barnos Jacket ⍺+"
+    },
+    "armor-mr-barnos-jacket-beta-plus": {
+      "Key": "armor-mr-barnos-jacket-beta-plus",
+      "Translation": "Barnos Jacket ß+"
+    },
+    "armor-mr-barroth-coil-alpha-plus": {
+      "Key": "armor-mr-barroth-coil-alpha-plus",
+      "Translation": "Barroth Coil ⍺+"
+    },
+    "armor-mr-barroth-coil-beta-plus": {
+      "Key": "armor-mr-barroth-coil-beta-plus",
+      "Translation": "Barroth Coil ß+"
+    },
+    "armor-mr-barroth-greaves-alpha-plus": {
+      "Key": "armor-mr-barroth-greaves-alpha-plus",
+      "Translation": "Barroth Greaves ⍺+"
+    },
+    "armor-mr-barroth-greaves-beta-plus": {
+      "Key": "armor-mr-barroth-greaves-beta-plus",
+      "Translation": "Barroth Greaves ß+"
+    },
+    "armor-mr-barroth-helm-alpha-plus": {
+      "Key": "armor-mr-barroth-helm-alpha-plus",
+      "Translation": "Barroth Helm ⍺+"
+    },
+    "armor-mr-barroth-helm-beta-plus": {
+      "Key": "armor-mr-barroth-helm-beta-plus",
+      "Translation": "Barroth Helm ß+"
+    },
+    "armor-mr-barroth-mail-alpha-plus": {
+      "Key": "armor-mr-barroth-mail-alpha-plus",
+      "Translation": "Barroth Mail ⍺+"
+    },
+    "armor-mr-barroth-mail-beta-plus": {
+      "Key": "armor-mr-barroth-mail-beta-plus",
+      "Translation": "Barroth Mail ß+"
+    },
+    "armor-mr-barroth-vambraces-alpha-plus": {
+      "Key": "armor-mr-barroth-vambraces-alpha-plus",
+      "Translation": "Barroth Vambraces ⍺+"
+    },
+    "armor-mr-barroth-vambraces-beta-plus": {
+      "Key": "armor-mr-barroth-vambraces-beta-plus",
+      "Translation": "Barroth Vambraces ß+"
+    },
+    "armor-mr-beo-coil-alpha-plus": {
+      "Key": "armor-mr-beo-coil-alpha-plus",
+      "Translation": "Beo Coil ⍺+"
+    },
+    "armor-mr-beo-coil-beta-plus": {
+      "Key": "armor-mr-beo-coil-beta-plus",
+      "Translation": "Beo Coil ß+"
+    },
+    "armor-mr-beo-greaves-alpha-plus": {
+      "Key": "armor-mr-beo-greaves-alpha-plus",
+      "Translation": "Beo Greaves ⍺+"
+    },
+    "armor-mr-beo-greaves-beta-plus": {
+      "Key": "armor-mr-beo-greaves-beta-plus",
+      "Translation": "Beo Greaves ß+"
+    },
+    "armor-mr-beo-helm-alpha-plus": {
+      "Key": "armor-mr-beo-helm-alpha-plus",
+      "Translation": "Beo Helm ⍺+"
+    },
+    "armor-mr-beo-helm-beta-plus": {
+      "Key": "armor-mr-beo-helm-beta-plus",
+      "Translation": "Beo Helm ß+"
+    },
+    "armor-mr-beo-mail-alpha-plus": {
+      "Key": "armor-mr-beo-mail-alpha-plus",
+      "Translation": "Beo Mail ⍺+"
+    },
+    "armor-mr-beo-mail-beta-plus": {
+      "Key": "armor-mr-beo-mail-beta-plus",
+      "Translation": "Beo Mail ß+"
+    },
+    "armor-mr-beo-vambraces-alpha-plus": {
+      "Key": "armor-mr-beo-vambraces-alpha-plus",
+      "Translation": "Beo Vambraces ⍺+"
+    },
+    "armor-mr-beo-vambraces-beta-plus": {
+      "Key": "armor-mr-beo-vambraces-beta-plus",
+      "Translation": "Beo Vambraces ß+"
+    },
+    "armor-mr-black-belt-braces-alpha-plus": {
+      "Key": "armor-mr-black-belt-braces-alpha-plus",
+      "Translation": "Black Belt Braces ⍺+"
+    },
+    "armor-mr-black-belt-braces-beta-plus": {
+      "Key": "armor-mr-black-belt-braces-beta-plus",
+      "Translation": "Black Belt Braces ß+"
+    },
+    "armor-mr-black-belt-greaves-alpha-plus": {
+      "Key": "armor-mr-black-belt-greaves-alpha-plus",
+      "Translation": "Black Belt Greaves ⍺+"
+    },
+    "armor-mr-black-belt-greaves-beta-plus": {
+      "Key": "armor-mr-black-belt-greaves-beta-plus",
+      "Translation": "Black Belt Greaves ß+"
+    },
+    "armor-mr-black-belt-helm-alpha-plus": {
+      "Key": "armor-mr-black-belt-helm-alpha-plus",
+      "Translation": "Black Belt Helm ⍺+"
+    },
+    "armor-mr-black-belt-helm-beta-plus": {
+      "Key": "armor-mr-black-belt-helm-beta-plus",
+      "Translation": "Black Belt Helm ß+"
+    },
+    "armor-mr-black-belt-mail-alpha-plus": {
+      "Key": "armor-mr-black-belt-mail-alpha-plus",
+      "Translation": "Black Belt Mail ⍺+"
+    },
+    "armor-mr-black-belt-mail-beta-plus": {
+      "Key": "armor-mr-black-belt-mail-beta-plus",
+      "Translation": "Black Belt Mail ß+"
+    },
+    "armor-mr-black-belt-tassets-alpha-plus": {
+      "Key": "armor-mr-black-belt-tassets-alpha-plus",
+      "Translation": "Black Belt Tassets ⍺+"
+    },
+    "armor-mr-black-belt-tassets-beta-plus": {
+      "Key": "armor-mr-black-belt-tassets-beta-plus",
+      "Translation": "Black Belt Tassets ß+"
+    },
+    "armor-mr-bone-coil-alpha-plus": {
+      "Key": "armor-mr-bone-coil-alpha-plus",
+      "Translation": "Bone Coil ⍺+"
+    },
+    "armor-mr-bone-coil-beta-plus": {
+      "Key": "armor-mr-bone-coil-beta-plus",
+      "Translation": "Bone Coil ß+"
+    },
+    "armor-mr-bone-greaves-alpha-plus": {
+      "Key": "armor-mr-bone-greaves-alpha-plus",
+      "Translation": "Bone Greaves ⍺+"
+    },
+    "armor-mr-bone-greaves-beta-plus": {
+      "Key": "armor-mr-bone-greaves-beta-plus",
+      "Translation": "Bone Greaves ß+"
+    },
+    "armor-mr-bone-helm-alpha-plus": {
+      "Key": "armor-mr-bone-helm-alpha-plus",
+      "Translation": "Bone Helm ⍺+"
+    },
+    "armor-mr-bone-helm-beta-plus": {
+      "Key": "armor-mr-bone-helm-beta-plus",
+      "Translation": "Bone Helm ß+"
+    },
+    "armor-mr-bone-mail-alpha-plus": {
+      "Key": "armor-mr-bone-mail-alpha-plus",
+      "Translation": "Bone Mail ⍺+"
+    },
+    "armor-mr-bone-mail-beta-plus": {
+      "Key": "armor-mr-bone-mail-beta-plus",
+      "Translation": "Bone Mail ß+"
+    },
+    "armor-mr-bone-vambraces-alpha-plus": {
+      "Key": "armor-mr-bone-vambraces-alpha-plus",
+      "Translation": "Bone Vambraces ⍺+"
+    },
+    "armor-mr-bone-vambraces-beta-plus": {
+      "Key": "armor-mr-bone-vambraces-beta-plus",
+      "Translation": "Bone Vambraces ß+"
+    },
+    "armor-mr-brachydios-braces-alpha-plus": {
+      "Key": "armor-mr-brachydios-braces-alpha-plus",
+      "Translation": "Brachydios Braces ⍺+"
+    },
+    "armor-mr-brachydios-braces-beta-plus": {
+      "Key": "armor-mr-brachydios-braces-beta-plus",
+      "Translation": "Brachydios Braces ß+"
+    },
+    "armor-mr-brachydios-faulds-alpha-plus": {
+      "Key": "armor-mr-brachydios-faulds-alpha-plus",
+      "Translation": "Brachydios Faulds ⍺+"
+    },
+    "armor-mr-brachydios-faulds-beta-plus": {
+      "Key": "armor-mr-brachydios-faulds-beta-plus",
+      "Translation": "Brachydios Faulds ß+"
+    },
+    "armor-mr-brachydios-greaves-alpha-plus": {
+      "Key": "armor-mr-brachydios-greaves-alpha-plus",
+      "Translation": "Brachydios Greaves ⍺+"
+    },
+    "armor-mr-brachydios-greaves-beta-plus": {
+      "Key": "armor-mr-brachydios-greaves-beta-plus",
+      "Translation": "Brachydios Greaves ß+"
+    },
+    "armor-mr-brachydios-helm-alpha-plus": {
+      "Key": "armor-mr-brachydios-helm-alpha-plus",
+      "Translation": "Brachydios Helm ⍺+"
+    },
+    "armor-mr-brachydios-helm-beta-plus": {
+      "Key": "armor-mr-brachydios-helm-beta-plus",
+      "Translation": "Brachydios Helm ß+"
+    },
+    "armor-mr-brachydios-mail-alpha-plus": {
+      "Key": "armor-mr-brachydios-mail-alpha-plus",
+      "Translation": "Brachydios Mail ⍺+"
+    },
+    "armor-mr-brachydios-mail-beta-plus": {
+      "Key": "armor-mr-brachydios-mail-beta-plus",
+      "Translation": "Brachydios Mail ß+"
+    },
+    "armor-mr-clockwork-braces-alpha-plus": {
+      "Key": "armor-mr-clockwork-braces-alpha-plus",
+      "Translation": "Clockwork Braces ⍺+"
+    },
+    "armor-mr-clockwork-braces-beta-plus": {
+      "Key": "armor-mr-clockwork-braces-beta-plus",
+      "Translation": "Clockwork Braces ß+"
+    },
+    "armor-mr-clockwork-coil-alpha-plus": {
+      "Key": "armor-mr-clockwork-coil-alpha-plus",
+      "Translation": "Clockwork Coil ⍺+"
+    },
+    "armor-mr-clockwork-coil-beta-plus": {
+      "Key": "armor-mr-clockwork-coil-beta-plus",
+      "Translation": "Clockwork Coil ß+"
+    },
+    "armor-mr-clockwork-greaves-alpha-plus": {
+      "Key": "armor-mr-clockwork-greaves-alpha-plus",
+      "Translation": "Clockwork Greaves ⍺+"
+    },
+    "armor-mr-clockwork-greaves-beta-plus": {
+      "Key": "armor-mr-clockwork-greaves-beta-plus",
+      "Translation": "Clockwork Greaves ß+"
+    },
+    "armor-mr-clockwork-helm-alpha-plus": {
+      "Key": "armor-mr-clockwork-helm-alpha-plus",
+      "Translation": "Clockwork Helm ⍺+"
+    },
+    "armor-mr-clockwork-helm-beta-plus": {
+      "Key": "armor-mr-clockwork-helm-beta-plus",
+      "Translation": "Clockwork Helm ß+"
+    },
+    "armor-mr-clockwork-mail-alpha-plus": {
+      "Key": "armor-mr-clockwork-mail-alpha-plus",
+      "Translation": "Clockwork Mail ⍺+"
+    },
+    "armor-mr-clockwork-mail-beta-plus": {
+      "Key": "armor-mr-clockwork-mail-beta-plus",
+      "Translation": "Clockwork Mail ß+"
+    },
+    "armor-mr-cortos-cape-alpha-plus": {
+      "Key": "armor-mr-cortos-cape-alpha-plus",
+      "Translation": "Cortos Cape ⍺+"
+    },
+    "armor-mr-cortos-cape-beta-plus": {
+      "Key": "armor-mr-cortos-cape-beta-plus",
+      "Translation": "Cortos Cape ß+"
+    },
+    "armor-mr-diablos-coil-alpha-plus": {
+      "Key": "armor-mr-diablos-coil-alpha-plus",
+      "Translation": "Diablos Coil ⍺+"
+    },
+    "armor-mr-diablos-coil-beta-plus": {
+      "Key": "armor-mr-diablos-coil-beta-plus",
+      "Translation": "Diablos Coil ß+"
+    },
+    "armor-mr-diablos-greaves-alpha-plus": {
+      "Key": "armor-mr-diablos-greaves-alpha-plus",
+      "Translation": "Diablos Greaves ⍺+"
+    },
+    "armor-mr-diablos-greaves-beta-plus": {
+      "Key": "armor-mr-diablos-greaves-beta-plus",
+      "Translation": "Diablos Greaves ß+"
+    },
+    "armor-mr-diablos-helm-alpha-plus": {
+      "Key": "armor-mr-diablos-helm-alpha-plus",
+      "Translation": "Diablos Helm ⍺+"
+    },
+    "armor-mr-diablos-helm-beta-plus": {
+      "Key": "armor-mr-diablos-helm-beta-plus",
+      "Translation": "Diablos Helm ß+"
+    },
+    "armor-mr-diablos-mail-alpha-plus": {
+      "Key": "armor-mr-diablos-mail-alpha-plus",
+      "Translation": "Diablos Mail ⍺+"
+    },
+    "armor-mr-diablos-mail-beta-plus": {
+      "Key": "armor-mr-diablos-mail-beta-plus",
+      "Translation": "Diablos Mail ß+"
+    },
+    "armor-mr-diablos-vambraces-alpha-plus": {
+      "Key": "armor-mr-diablos-vambraces-alpha-plus",
+      "Translation": "Diablos Vambraces ⍺+"
+    },
+    "armor-mr-diablos-vambraces-beta-plus": {
+      "Key": "armor-mr-diablos-vambraces-beta-plus",
+      "Translation": "Diablos Vambraces ß+"
+    },
+    "armor-mr-dodogama-coil-alpha-plus": {
+      "Key": "armor-mr-dodogama-coil-alpha-plus",
+      "Translation": "Dodogama Coil ⍺+"
+    },
+    "armor-mr-dodogama-coil-beta-plus": {
+      "Key": "armor-mr-dodogama-coil-beta-plus",
+      "Translation": "Dodogama Coil ß+"
+    },
+    "armor-mr-dodogama-greaves-alpha-plus": {
+      "Key": "armor-mr-dodogama-greaves-alpha-plus",
+      "Translation": "Dodogama Greaves ⍺+"
+    },
+    "armor-mr-dodogama-greaves-beta-plus": {
+      "Key": "armor-mr-dodogama-greaves-beta-plus",
+      "Translation": "Dodogama Greaves ß+"
+    },
+    "armor-mr-dodogama-helm-alpha-plus": {
+      "Key": "armor-mr-dodogama-helm-alpha-plus",
+      "Translation": "Dodogama Helm ⍺+"
+    },
+    "armor-mr-dodogama-helm-beta-plus": {
+      "Key": "armor-mr-dodogama-helm-beta-plus",
+      "Translation": "Dodogama Helm ß+"
+    },
+    "armor-mr-dodogama-mail-alpha-plus": {
+      "Key": "armor-mr-dodogama-mail-alpha-plus",
+      "Translation": "Dodogama Mail ⍺+"
+    },
+    "armor-mr-dodogama-mail-beta-plus": {
+      "Key": "armor-mr-dodogama-mail-beta-plus",
+      "Translation": "Dodogama Mail ß+"
+    },
+    "armor-mr-dodogama-vambraces-alpha-plus": {
+      "Key": "armor-mr-dodogama-vambraces-alpha-plus",
+      "Translation": "Dodogama Vambraces ⍺+"
+    },
+    "armor-mr-dodogama-vambraces-beta-plus": {
+      "Key": "armor-mr-dodogama-vambraces-beta-plus",
+      "Translation": "Dodogama Vambraces ß+"
+    },
+    "armor-mr-fulgur-coil-alpha-plus": {
+      "Key": "armor-mr-fulgur-coil-alpha-plus",
+      "Translation": "Fulgur Coil ⍺+"
+    },
+    "armor-mr-fulgur-coil-beta-plus": {
+      "Key": "armor-mr-fulgur-coil-beta-plus",
+      "Translation": "Fulgur Coil ß+"
+    },
+    "armor-mr-fulgur-greaves-alpha-plus": {
+      "Key": "armor-mr-fulgur-greaves-alpha-plus",
+      "Translation": "Fulgur Greaves ⍺+"
+    },
+    "armor-mr-fulgur-greaves-beta-plus": {
+      "Key": "armor-mr-fulgur-greaves-beta-plus",
+      "Translation": "Fulgur Greaves ß+"
+    },
+    "armor-mr-fulgur-helm-alpha-plus": {
+      "Key": "armor-mr-fulgur-helm-alpha-plus",
+      "Translation": "Fulgur Helm ⍺+"
+    },
+    "armor-mr-fulgur-helm-beta-plus": {
+      "Key": "armor-mr-fulgur-helm-beta-plus",
+      "Translation": "Fulgur Helm ß+"
+    },
+    "armor-mr-fulgur-mail-alpha-plus": {
+      "Key": "armor-mr-fulgur-mail-alpha-plus",
+      "Translation": "Fulgur Mail ⍺+"
+    },
+    "armor-mr-fulgur-mail-beta-plus": {
+      "Key": "armor-mr-fulgur-mail-beta-plus",
+      "Translation": "Fulgur Mail ß+"
+    },
+    "armor-mr-fulgur-vambraces-alpha-plus": {
+      "Key": "armor-mr-fulgur-vambraces-alpha-plus",
+      "Translation": "Fulgur Vambraces ⍺+"
+    },
+    "armor-mr-fulgur-vambraces-beta-plus": {
+      "Key": "armor-mr-fulgur-vambraces-beta-plus",
+      "Translation": "Fulgur Vambraces ß+"
+    },
+    "armor-mr-gajau-boots-alpha-plus": {
+      "Key": "armor-mr-gajau-boots-alpha-plus",
+      "Translation": "Gajau Boots ⍺+"
+    },
+    "armor-mr-gajau-boots-beta-plus": {
+      "Key": "armor-mr-gajau-boots-beta-plus",
+      "Translation": "Gajau Boots ß+"
+    },
+    "armor-mr-gastodon-horn-alpha-plus": {
+      "Key": "armor-mr-gastodon-horn-alpha-plus",
+      "Translation": "Gastodon Horn ⍺+"
+    },
+    "armor-mr-gastodon-horn-beta-plus": {
+      "Key": "armor-mr-gastodon-horn-beta-plus",
+      "Translation": "Gastodon Horn ß+"
+    },
+    "armor-mr-girros-coil-alpha-plus": {
+      "Key": "armor-mr-girros-coil-alpha-plus",
+      "Translation": "Girros Coil ⍺+"
+    },
+    "armor-mr-girros-coil-beta-plus": {
+      "Key": "armor-mr-girros-coil-beta-plus",
+      "Translation": "Girros Coil ß+"
+    },
+    "armor-mr-girros-greaves-alpha-plus": {
+      "Key": "armor-mr-girros-greaves-alpha-plus",
+      "Translation": "Girros Greaves ⍺+"
+    },
+    "armor-mr-girros-greaves-beta-plus": {
+      "Key": "armor-mr-girros-greaves-beta-plus",
+      "Translation": "Girros Greaves ß+"
+    },
+    "armor-mr-girros-headgear-alpha-plus": {
+      "Key": "armor-mr-girros-headgear-alpha-plus",
+      "Translation": "Girros Headgear ⍺+"
+    },
+    "armor-mr-girros-headgear-beta-plus": {
+      "Key": "armor-mr-girros-headgear-beta-plus",
+      "Translation": "Girros Headgear ß+"
+    },
+    "armor-mr-girros-mail-alpha-plus": {
+      "Key": "armor-mr-girros-mail-alpha-plus",
+      "Translation": "Girros Mail ⍺+"
+    },
+    "armor-mr-girros-mail-beta-plus": {
+      "Key": "armor-mr-girros-mail-beta-plus",
+      "Translation": "Girros Mail ß+"
+    },
+    "armor-mr-girros-vambraces-alpha-plus": {
+      "Key": "armor-mr-girros-vambraces-alpha-plus",
+      "Translation": "Girros Vambraces ⍺+"
+    },
+    "armor-mr-glavenus-braces-alpha-plus": {
+      "Key": "armor-mr-glavenus-braces-alpha-plus",
+      "Translation": "Glavenus Braces ⍺+"
+    },
+    "armor-mr-glavenus-braces-beta-plus": {
+      "Key": "armor-mr-glavenus-braces-beta-plus",
+      "Translation": "Glavenus Braces ß+"
+    },
+    "armor-mr-glavenus-faulds-alpha-plus": {
+      "Key": "armor-mr-glavenus-faulds-alpha-plus",
+      "Translation": "Glavenus Faulds ⍺+"
+    },
+    "armor-mr-glavenus-faulds-beta-plus": {
+      "Key": "armor-mr-glavenus-faulds-beta-plus",
+      "Translation": "Glavenus Faulds ß+"
+    },
+    "armor-mr-glavenus-greaves-alpha-plus": {
+      "Key": "armor-mr-glavenus-greaves-alpha-plus",
+      "Translation": "Glavenus Greaves ⍺+"
+    },
+    "armor-mr-glavenus-greaves-beta-plus": {
+      "Key": "armor-mr-glavenus-greaves-beta-plus",
+      "Translation": "Glavenus Greaves ß+"
+    },
+    "armor-mr-glavenus-helm-alpha-plus": {
+      "Key": "armor-mr-glavenus-helm-alpha-plus",
+      "Translation": "Glavenus Helm ⍺+"
+    },
+    "armor-mr-glavenus-helm-beta-plus": {
+      "Key": "armor-mr-glavenus-helm-beta-plus",
+      "Translation": "Glavenus Helm ß+"
+    },
+    "armor-mr-glavenus-mail-alpha-plus": {
+      "Key": "armor-mr-glavenus-mail-alpha-plus",
+      "Translation": "Glavenus Mail ⍺+"
+    },
+    "armor-mr-glavenus-mail-beta-plus": {
+      "Key": "armor-mr-glavenus-mail-beta-plus",
+      "Translation": "Glavenus Mail ß+"
+    },
+    "armor-mr-high-metal-braces-alpha-plus": {
+      "Key": "armor-mr-high-metal-braces-alpha-plus",
+      "Translation": "High Metal Braces ⍺+"
+    },
+    "armor-mr-high-metal-braces-beta-plus": {
+      "Key": "armor-mr-high-metal-braces-beta-plus",
+      "Translation": "High Metal Braces ß+"
+    },
+    "armor-mr-high-metal-coil-alpha-plus": {
+      "Key": "armor-mr-high-metal-coil-alpha-plus",
+      "Translation": "High Metal Coil ⍺+"
+    },
+    "armor-mr-high-metal-coil-beta-plus": {
+      "Key": "armor-mr-high-metal-coil-beta-plus",
+      "Translation": "High Metal Coil ß+"
+    },
+    "armor-mr-high-metal-greaves-alpha-plus": {
+      "Key": "armor-mr-high-metal-greaves-alpha-plus",
+      "Translation": "High Metal Greaves ⍺+"
+    },
+    "armor-mr-high-metal-greaves-beta-plus": {
+      "Key": "armor-mr-high-metal-greaves-beta-plus",
+      "Translation": "High Metal Greaves ß+"
+    },
+    "armor-mr-high-metal-helm-alpha-plus": {
+      "Key": "armor-mr-high-metal-helm-alpha-plus",
+      "Translation": "High Metal Helm ⍺+"
+    },
+    "armor-mr-high-metal-helm-beta-plus": {
+      "Key": "armor-mr-high-metal-helm-beta-plus",
+      "Translation": "High Metal Helm ß+"
+    },
+    "armor-mr-high-metal-mail-alpha-plus": {
+      "Key": "armor-mr-high-metal-mail-alpha-plus",
+      "Translation": "High Metal Mail ⍺+"
+    },
+    "armor-mr-high-metal-mail-beta-plus": {
+      "Key": "armor-mr-high-metal-mail-beta-plus",
+      "Translation": "High Metal Mail ß+"
+    },
+    "armor-mr-hoarcry-coil-alpha-plus": {
+      "Key": "armor-mr-hoarcry-coil-alpha-plus",
+      "Translation": "Hoarcry Coil ⍺+"
+    },
+    "armor-mr-hoarcry-coil-beta-plus": {
+      "Key": "armor-mr-hoarcry-coil-beta-plus",
+      "Translation": "Hoarcry Coil ß+"
+    },
+    "armor-mr-hoarcry-greaves-alpha-plus": {
+      "Key": "armor-mr-hoarcry-greaves-alpha-plus",
+      "Translation": "Hoarcry Greaves ⍺+"
+    },
+    "armor-mr-hoarcry-greaves-beta-plus": {
+      "Key": "armor-mr-hoarcry-greaves-beta-plus",
+      "Translation": "Hoarcry Greaves ß+"
+    },
+    "armor-mr-hoarcry-helm-alpha-plus": {
+      "Key": "armor-mr-hoarcry-helm-alpha-plus",
+      "Translation": "Hoarcry Helm ⍺+"
+    },
+    "armor-mr-hoarcry-mail-alpha-plus": {
+      "Key": "armor-mr-hoarcry-mail-alpha-plus",
+      "Translation": "Hoarcry Mail ⍺+"
+    },
+    "armor-mr-hoarcry-mail-beta-plus": {
+      "Key": "armor-mr-hoarcry-mail-beta-plus",
+      "Translation": "Hoarcry Mail ß+"
+    },
+    "armor-mr-hoarcry-vambraces-alpha-plus": {
+      "Key": "armor-mr-hoarcry-vambraces-alpha-plus",
+      "Translation": "Hoarcry Vambraces ⍺+"
+    },
+    "armor-mr-hoarcry-vambraces-beta-plus": {
+      "Key": "armor-mr-hoarcry-vambraces-beta-plus",
+      "Translation": "Hoarcry Vambraces ß+"
+    },
+    "armor-mr-hornetaur-coil-alpha-plus": {
+      "Key": "armor-mr-hornetaur-coil-alpha-plus",
+      "Translation": "Hornetaur Coil ⍺+"
+    },
+    "armor-mr-hornetaur-coil-beta-plus": {
+      "Key": "armor-mr-hornetaur-coil-beta-plus",
+      "Translation": "Hornetaur Coil ß+"
+    },
+    "armor-mr-hornetaur-greaves-alpha-plus": {
+      "Key": "armor-mr-hornetaur-greaves-alpha-plus",
+      "Translation": "Hornetaur Greaves ⍺+"
+    },
+    "armor-mr-hornetaur-greaves-beta-plus": {
+      "Key": "armor-mr-hornetaur-greaves-beta-plus",
+      "Translation": "Hornetaur Greaves ß+"
+    },
+    "armor-mr-hornetaur-helm-alpha-plus": {
+      "Key": "armor-mr-hornetaur-helm-alpha-plus",
+      "Translation": "Hornetaur Helm ⍺+"
+    },
+    "armor-mr-hornetaur-helm-beta-plus": {
+      "Key": "armor-mr-hornetaur-helm-beta-plus",
+      "Translation": "Hornetaur Helm ß+"
+    },
+    "armor-mr-hornetaur-mail-alpha-plus": {
+      "Key": "armor-mr-hornetaur-mail-alpha-plus",
+      "Translation": "Hornetaur Mail ⍺+"
+    },
+    "armor-mr-hornetaur-vambraces-alpha-plus": {
+      "Key": "armor-mr-hornetaur-vambraces-alpha-plus",
+      "Translation": "Hornetaur Vambraces ⍺+"
+    },
+    "armor-mr-hornetaur-vambraces-beta-plus": {
+      "Key": "armor-mr-hornetaur-vambraces-beta-plus",
+      "Translation": "Hornetaur Vambraces ß+"
+    },
+    "armor-mr-ingot-coil-alpha-plus": {
+      "Key": "armor-mr-ingot-coil-alpha-plus",
+      "Translation": "Ingot Coil ⍺+"
+    },
+    "armor-mr-ingot-coil-beta-alpha-plus": {
+      "Key": "armor-mr-ingot-coil-beta-alpha-plus",
+      "Translation": "Ingot Coil ß+"
+    },
+    "armor-mr-ingot-greaves-alpha-plus": {
+      "Key": "armor-mr-ingot-greaves-alpha-plus",
+      "Translation": "Ingot Greaves ⍺+"
+    },
+    "armor-mr-ingot-greaves-beta-plus": {
+      "Key": "armor-mr-ingot-greaves-beta-plus",
+      "Translation": "Ingot Greaves ß+"
+    },
+    "armor-mr-ingot-helm-alpha-plus": {
+      "Key": "armor-mr-ingot-helm-alpha-plus",
+      "Translation": "Ingot Helm ⍺+"
+    },
+    "armor-mr-ingot-helm-beta-plus": {
+      "Key": "armor-mr-ingot-helm-beta-plus",
+      "Translation": "Ingot Helm ß+"
+    },
+    "armor-mr-ingot-mail-alpha-plus": {
+      "Key": "armor-mr-ingot-mail-alpha-plus",
+      "Translation": "Ingot Mail ⍺+"
+    },
+    "armor-mr-ingot-mail-beta-plus": {
+      "Key": "armor-mr-ingot-mail-beta-plus",
+      "Translation": "Ingot Mail ß+"
+    },
+    "armor-mr-ingot-vambraces-alpha-plus": {
+      "Key": "armor-mr-ingot-vambraces-alpha-plus",
+      "Translation": "Ingot Vambraces ⍺+"
+    },
+    "armor-mr-ingot-vambraces-beta-plus": {
+      "Key": "armor-mr-ingot-vambraces-beta-plus",
+      "Translation": "Ingot Vambraces ß+"
+    },
+    "armor-mr-jagras-coil-alpha-plus": {
+      "Key": "armor-mr-jagras-coil-alpha-plus",
+      "Translation": "Jagras Coil ⍺+"
+    },
+    "armor-mr-jagras-coil-beta-plus": {
+      "Key": "armor-mr-jagras-coil-beta-plus",
+      "Translation": "Jagras Coil ß+"
+    },
+    "armor-mr-jagras-greaves-alpha-plus": {
+      "Key": "armor-mr-jagras-greaves-alpha-plus",
+      "Translation": "Jagras Greaves ⍺+"
+    },
+    "armor-mr-jagras-greaves-beta-plus": {
+      "Key": "armor-mr-jagras-greaves-beta-plus",
+      "Translation": "Jagras Greaves ß+"
+    },
+    "armor-mr-jagras-helm-alpha-plus": {
+      "Key": "armor-mr-jagras-helm-alpha-plus",
+      "Translation": "Jagras Helm ⍺+"
+    },
+    "armor-mr-jagras-helm-beta-plus": {
+      "Key": "armor-mr-jagras-helm-beta-plus",
+      "Translation": "Jagras Helm ß+"
+    },
+    "armor-mr-jagras-mail-alpha-plus": {
+      "Key": "armor-mr-jagras-mail-alpha-plus",
+      "Translation": "Jagras Mail ⍺+"
+    },
+    "armor-mr-jagras-mail-beta-plus": {
+      "Key": "armor-mr-jagras-mail-beta-plus",
+      "Translation": "Jagras Mail ß+"
+    },
+    "armor-mr-jagras-vambraces-alpha-plus": {
+      "Key": "armor-mr-jagras-vambraces-alpha-plus",
+      "Translation": "Jagras Vambraces ⍺+"
+    },
+    "armor-mr-jagras-vambraces-beta-plus": {
+      "Key": "armor-mr-jagras-vambraces-beta-plus",
+      "Translation": "Jagras Vambraces ß+"
+    },
+    "armor-mr-jyura-coil-alpha-plus": {
+      "Key": "armor-mr-jyura-coil-alpha-plus",
+      "Translation": "Jyura Coil ⍺+"
+    },
+    "armor-mr-jyura-coil-beta-plus": {
+      "Key": "armor-mr-jyura-coil-beta-plus",
+      "Translation": "Jyura Coil ß+"
+    },
+    "armor-mr-jyura-greaves-alpha-plus": {
+      "Key": "armor-mr-jyura-greaves-alpha-plus",
+      "Translation": "Jyura Greaves ⍺+"
+    },
+    "armor-mr-jyura-greaves-beta-plus": {
+      "Key": "armor-mr-jyura-greaves-beta-plus",
+      "Translation": "Jyura Greaves ß+"
+    },
+    "armor-mr-jyura-helm-alpha-plus": {
+      "Key": "armor-mr-jyura-helm-alpha-plus",
+      "Translation": "Jyura Helm ⍺+"
+    },
+    "armor-mr-jyura-helm-beta-plus": {
+      "Key": "armor-mr-jyura-helm-beta-plus",
+      "Translation": "Jyura Helm ß+"
+    },
+    "armor-mr-jyura-mail-alpha-plus": {
+      "Key": "armor-mr-jyura-mail-alpha-plus",
+      "Translation": "Jyura Mail ⍺+"
+    },
+    "armor-mr-jyura-mail-beta-plus": {
+      "Key": "armor-mr-jyura-mail-beta-plus",
+      "Translation": "Jyura Mail ß+"
+    },
+    "armor-mr-jyura-vambraces-alpha-plus": {
+      "Key": "armor-mr-jyura-vambraces-alpha-plus",
+      "Translation": "Jyura Vambraces ⍺+"
+    },
+    "armor-mr-jyura-vambraces-beta-plus": {
+      "Key": "armor-mr-jyura-vambraces-beta-plus",
+      "Translation": "Jyura Vambraces ß+"
+    },
+    "armor-mr-kadachi-coil-alpha-plus": {
+      "Key": "armor-mr-kadachi-coil-alpha-plus",
+      "Translation": "Kadachi Coil ⍺+"
+    },
+    "armor-mr-kadachi-coil-beta-plus": {
+      "Key": "armor-mr-kadachi-coil-beta-plus",
+      "Translation": "Kadachi Coil ß+"
+    },
+    "armor-mr-kadachi-greaves-alpha-plus": {
+      "Key": "armor-mr-kadachi-greaves-alpha-plus",
+      "Translation": "Kadachi Greaves ⍺+"
+    },
+    "armor-mr-kadachi-greaves-beta-plus": {
+      "Key": "armor-mr-kadachi-greaves-beta-plus",
+      "Translation": "Kadachi Greaves ß+"
+    },
+    "armor-mr-kadachi-hat-alpha-plus": {
+      "Key": "armor-mr-kadachi-hat-alpha-plus",
+      "Translation": "Kadachi Hat ⍺+"
+    },
+    "armor-mr-kadachi-hat-beta-plus": {
+      "Key": "armor-mr-kadachi-hat-beta-plus",
+      "Translation": "Kadachi Hat ß+"
+    },
+    "armor-mr-kadachi-mail-alpha-plus": {
+      "Key": "armor-mr-kadachi-mail-alpha-plus",
+      "Translation": "Kadachi Mail ⍺+"
+    },
+    "armor-mr-kadachi-mail-beta-plus": {
+      "Key": "armor-mr-kadachi-mail-beta-plus",
+      "Translation": "Kadachi Mail ß+"
+    },
+    "armor-mr-kadachi-vambraces-alpha-plus": {
+      "Key": "armor-mr-kadachi-vambraces-alpha-plus",
+      "Translation": "Kadachi Vambraces ⍺+"
+    },
+    "armor-mr-kadachi-vambraces-beta-plus": {
+      "Key": "armor-mr-kadachi-vambraces-beta-plus",
+      "Translation": "Kadachi Vambraces ß+"
+    },
+    "armor-mr-kaiser-coil-alpha-plus": {
+      "Key": "armor-mr-kaiser-coil-alpha-plus",
+      "Translation": "Kaiser Coil ⍺+"
+    },
+    "armor-mr-kaiser-coil-beta-plus": {
+      "Key": "armor-mr-kaiser-coil-beta-plus",
+      "Translation": "Kaiser Coil ß+"
+    },
+    "armor-mr-kaiser-crown-alpha-plus": {
+      "Key": "armor-mr-kaiser-crown-alpha-plus",
+      "Translation": "Kaiser Crown ⍺+"
+    },
+    "armor-mr-kaiser-crown-beta-plus": {
+      "Key": "armor-mr-kaiser-crown-beta-plus",
+      "Translation": "Kaiser Crown ß+"
+    },
+    "armor-mr-kaiser-greaves-alpha-plus": {
+      "Key": "armor-mr-kaiser-greaves-alpha-plus",
+      "Translation": "Kaiser Greaves ⍺+"
+    },
+    "armor-mr-kaiser-greaves-beta-plus": {
+      "Key": "armor-mr-kaiser-greaves-beta-plus",
+      "Translation": "Kaiser Greaves ß+"
+    },
+    "armor-mr-kaiser-mail-alpha-plus": {
+      "Key": "armor-mr-kaiser-mail-alpha-plus",
+      "Translation": "Kaiser Mail ⍺+"
+    },
+    "armor-mr-kaiser-mail-beta-plus": {
+      "Key": "armor-mr-kaiser-mail-beta-plus",
+      "Translation": "Kaiser Mail ß+"
+    },
+    "armor-mr-kaiser-vambraces-alpha-plus": {
+      "Key": "armor-mr-kaiser-vambraces-alpha-plus",
+      "Translation": "Kaiser Vambraces ⍺+"
+    },
+    "armor-mr-kaiser-vambraces-beta-plus": {
+      "Key": "armor-mr-kaiser-vambraces-beta-plus",
+      "Translation": "Kaiser Vambraces ß+"
+    },
+    "armor-mr-kestodon-guards-alpha-plus": {
+      "Key": "armor-mr-kestodon-guards-alpha-plus",
+      "Translation": "Kestodon Guards ⍺+"
+    },
+    "armor-mr-kestodon-guards-beta-plus": {
+      "Key": "armor-mr-kestodon-guards-beta-plus",
+      "Translation": "Kestodon Guards ß+"
+    },
+    "armor-mr-kulu-coil-alpha-plus": {
+      "Key": "armor-mr-kulu-coil-alpha-plus",
+      "Translation": "Kulu Coil ⍺+"
+    },
+    "armor-mr-kulu-coil-beta-plus": {
+      "Key": "armor-mr-kulu-coil-beta-plus",
+      "Translation": "Kulu Coil ß+"
+    },
+    "armor-mr-kulu-greaves-alpha-plus": {
+      "Key": "armor-mr-kulu-greaves-alpha-plus",
+      "Translation": "Kulu Greaves ⍺+"
+    },
+    "armor-mr-kulu-greaves-beta-plus": {
+      "Key": "armor-mr-kulu-greaves-beta-plus",
+      "Translation": "Kulu Greaves ß+"
+    },
+    "armor-mr-kulu-headpiece-alpha-plus": {
+      "Key": "armor-mr-kulu-headpiece-alpha-plus",
+      "Translation": "Kulu Headpiece ⍺+"
+    },
+    "armor-mr-kulu-headpiece-beta-plus": {
+      "Key": "armor-mr-kulu-headpiece-beta-plus",
+      "Translation": "Kulu Headpiece ß+"
+    },
+    "armor-mr-kulu-mail-alpha-plus": {
+      "Key": "armor-mr-kulu-mail-alpha-plus",
+      "Translation": "Kulu Mail ⍺+"
+    },
+    "armor-mr-kulu-mail-beta-plus": {
+      "Key": "armor-mr-kulu-mail-beta-plus",
+      "Translation": "Kulu Mail ß+"
+    },
+    "armor-mr-kulu-vambraces-alpha-plus": {
+      "Key": "armor-mr-kulu-vambraces-alpha-plus",
+      "Translation": "Kulu Vambraces ⍺+"
+    },
+    "armor-mr-kulu-vambraces-beta-plus": {
+      "Key": "armor-mr-kulu-vambraces-beta-plus",
+      "Translation": "Kulu Vambraces ß+"
+    },
+    "armor-mr-lavasioth-coil-alpha-plus": {
+      "Key": "armor-mr-lavasioth-coil-alpha-plus",
+      "Translation": "Lavasioth Coil ⍺+"
+    },
+    "armor-mr-lavasioth-coil-beta-plus": {
+      "Key": "armor-mr-lavasioth-coil-beta-plus",
+      "Translation": "Lavasioth Coil ß+"
+    },
+    "armor-mr-lavasioth-greaves-alpha-plus": {
+      "Key": "armor-mr-lavasioth-greaves-alpha-plus",
+      "Translation": "Lavasioth Greaves ⍺+"
+    },
+    "armor-mr-lavasioth-greaves-beta-plus": {
+      "Key": "armor-mr-lavasioth-greaves-beta-plus",
+      "Translation": "Lavasioth Greaves ß+"
+    },
+    "armor-mr-lavasioth-helm-alpha-plus": {
+      "Key": "armor-mr-lavasioth-helm-alpha-plus",
+      "Translation": "Lavasioth Helm ⍺+"
+    },
+    "armor-mr-lavasioth-helm-beta-plus": {
+      "Key": "armor-mr-lavasioth-helm-beta-plus",
+      "Translation": "Lavasioth Helm ß+"
+    },
+    "armor-mr-lavasioth-mail-alpha-plus": {
+      "Key": "armor-mr-lavasioth-mail-alpha-plus",
+      "Translation": "Lavasioth Mail ⍺+"
+    },
+    "armor-mr-lavasioth-mail-beta-plus": {
+      "Key": "armor-mr-lavasioth-mail-beta-plus",
+      "Translation": "Lavasioth Mail ß+"
+    },
+    "armor-mr-lavasioth-vambraces-alpha-plus": {
+      "Key": "armor-mr-lavasioth-vambraces-alpha-plus",
+      "Translation": "Lavasioth Vambraces ⍺+"
+    },
+    "armor-mr-lavasioth-vambraces-beta-plus": {
+      "Key": "armor-mr-lavasioth-vambraces-beta-plus",
+      "Translation": "Lavasioth Vambraces ß+"
+    },
+    "armor-mr-legiana-coil-alpha-plus": {
+      "Key": "armor-mr-legiana-coil-alpha-plus",
+      "Translation": "Legiana Coil ⍺+"
+    },
+    "armor-mr-legiana-coil-beta-plus": {
+      "Key": "armor-mr-legiana-coil-beta-plus",
+      "Translation": "Legiana Coil ß+"
+    },
+    "armor-mr-legiana-greaves-alpha-plus": {
+      "Key": "armor-mr-legiana-greaves-alpha-plus",
+      "Translation": "Legiana Greaves ⍺+"
+    },
+    "armor-mr-legiana-greaves-beta-plus": {
+      "Key": "armor-mr-legiana-greaves-beta-plus",
+      "Translation": "Legiana Greaves ß+"
+    },
+    "armor-mr-legiana-helm-alpha-plus": {
+      "Key": "armor-mr-legiana-helm-alpha-plus",
+      "Translation": "Legiana Helm ⍺+"
+    },
+    "armor-mr-legiana-helm-beta-plus": {
+      "Key": "armor-mr-legiana-helm-beta-plus",
+      "Translation": "Legiana Helm ß+"
+    },
+    "armor-mr-legiana-mail-alpha-plus": {
+      "Key": "armor-mr-legiana-mail-alpha-plus",
+      "Translation": "Legiana Mail ⍺+"
+    },
+    "armor-mr-legiana-mail-beta-plus": {
+      "Key": "armor-mr-legiana-mail-beta-plus",
+      "Translation": "Legiana Mail ß+"
+    },
+    "armor-mr-legiana-vambraces-alpha-plus": {
+      "Key": "armor-mr-legiana-vambraces-alpha-plus",
+      "Translation": "Legiana Vambraces ⍺+"
+    },
+    "armor-mr-legiana-vambraces-beta-plus": {
+      "Key": "armor-mr-legiana-vambraces-beta-plus",
+      "Translation": "Legiana Vambraces ß+"
+    },
+    "armor-mr-lumu-coil-alpha-plus": {
+      "Key": "armor-mr-lumu-coil-alpha-plus",
+      "Translation": "Lumu Coil ⍺+"
+    },
+    "armor-mr-lumu-coil-beta-plus": {
+      "Key": "armor-mr-lumu-coil-beta-plus",
+      "Translation": "Lumu Coil ß+"
+    },
+    "armor-mr-lumu-greaves-alpha-plus": {
+      "Key": "armor-mr-lumu-greaves-alpha-plus",
+      "Translation": "Lumu Greaves ⍺+"
+    },
+    "armor-mr-lumu-greaves-beta-plus": {
+      "Key": "armor-mr-lumu-greaves-beta-plus",
+      "Translation": "Lumu Greaves ß+"
+    },
+    "armor-mr-lumu-hat-alpha-plus": {
+      "Key": "armor-mr-lumu-hat-alpha-plus",
+      "Translation": "Lumu Hat ⍺+"
+    },
+    "armor-mr-lumu-hat-beta-plus": {
+      "Key": "armor-mr-lumu-hat-beta-plus",
+      "Translation": "Lumu Hat ß+"
+    },
+    "armor-mr-lumu-mail-alpha-plus": {
+      "Key": "armor-mr-lumu-mail-alpha-plus",
+      "Translation": "Lumu Mail ⍺+"
+    },
+    "armor-mr-lumu-mail-beta-plus": {
+      "Key": "armor-mr-lumu-mail-beta-plus",
+      "Translation": "Lumu Mail ß+"
+    },
+    "armor-mr-lumu-phantasm-braces-alpha-plus": {
+      "Key": "armor-mr-lumu-phantasm-braces-alpha-plus",
+      "Translation": "Lumu Phantasm Braces ⍺+"
+    },
+    "armor-mr-lumu-phantasm-braces-beta-plus": {
+      "Key": "armor-mr-lumu-phantasm-braces-beta-plus",
+      "Translation": "Lumu Phantasm Braces ß+"
+    },
+    "armor-mr-lumu-phantasm-coil-alpha-plus": {
+      "Key": "armor-mr-lumu-phantasm-coil-alpha-plus",
+      "Translation": "Lumu Phantasm Coil ⍺+"
+    },
+    "armor-mr-lumu-phantasm-coil-beta-plus": {
+      "Key": "armor-mr-lumu-phantasm-coil-beta-plus",
+      "Translation": "Lumu Phantasm Coil ß+"
+    },
+    "armor-mr-lumu-phantasm-greaves-alpha-plus": {
+      "Key": "armor-mr-lumu-phantasm-greaves-alpha-plus",
+      "Translation": "Lumu Phantasm Greaves ⍺+"
+    },
+    "armor-mr-lumu-phantasm-greaves-beta-plus": {
+      "Key": "armor-mr-lumu-phantasm-greaves-beta-plus",
+      "Translation": "Lumu Phantasm Greaves ß+"
+    },
+    "armor-mr-lumu-phantasm-hood-alpha-plus": {
+      "Key": "armor-mr-lumu-phantasm-hood-alpha-plus",
+      "Translation": "Lumu Phantasm Hood ⍺+"
+    },
+    "armor-mr-lumu-phantasm-hood-beta-plus": {
+      "Key": "armor-mr-lumu-phantasm-hood-beta-plus",
+      "Translation": "Lumu Phantasm Hood ß+"
+    },
+    "armor-mr-lumu-phantasm-mail-alpha-plus": {
+      "Key": "armor-mr-lumu-phantasm-mail-alpha-plus",
+      "Translation": "Lumu Phantasm Mail ⍺+"
+    },
+    "armor-mr-lumu-phantasm-mail-beta-plus": {
+      "Key": "armor-mr-lumu-phantasm-mail-beta-plus",
+      "Translation": "Lumu Phantasm Mail ß+"
+    },
+    "armor-mr-lumu-vambraces-alpha-plus": {
+      "Key": "armor-mr-lumu-vambraces-alpha-plus",
+      "Translation": "Lumu Vambraces ⍺+"
+    },
+    "armor-mr-lumu-vambraces-beta-plus": {
+      "Key": "armor-mr-lumu-vambraces-beta-plus",
+      "Translation": "Lumu Vambraces ß+"
+    },
+    "armor-mr-nargacuga-braces-alpha-plus": {
+      "Key": "armor-mr-nargacuga-braces-alpha-plus",
+      "Translation": "Nargacuga Braces ⍺+"
+    },
+    "armor-mr-nargacuga-braces-beta-plus": {
+      "Key": "armor-mr-nargacuga-braces-beta-plus",
+      "Translation": "Nargacuga Braces ß+"
+    },
+    "armor-mr-nargacuga-faulds-alpha-plus": {
+      "Key": "armor-mr-nargacuga-faulds-alpha-plus",
+      "Translation": "Nargacuga Faulds ⍺+"
+    },
+    "armor-mr-nargacuga-faulds-beta-plus": {
+      "Key": "armor-mr-nargacuga-faulds-beta-plus",
+      "Translation": "Nargacuga Faulds ß+"
+    },
+    "armor-mr-nargacuga-greaves-alpha-plus": {
+      "Key": "armor-mr-nargacuga-greaves-alpha-plus",
+      "Translation": "Nargacuga Greaves ⍺+"
+    },
+    "armor-mr-nargacuga-greaves-beta-plus": {
+      "Key": "armor-mr-nargacuga-greaves-beta-plus",
+      "Translation": "Nargacuga Greaves ß+"
+    },
+    "armor-mr-nargacuga-helm-alpha-plus": {
+      "Key": "armor-mr-nargacuga-helm-alpha-plus",
+      "Translation": "Nargacuga Helm ⍺+"
+    },
+    "armor-mr-nargacuga-helm-beta-plus": {
+      "Key": "armor-mr-nargacuga-helm-beta-plus",
+      "Translation": "Nargacuga Helm ß+"
+    },
+    "armor-mr-nargacuga-mail-alpha-plus": {
+      "Key": "armor-mr-nargacuga-mail-alpha-plus",
+      "Translation": "Nargacuga Mail ⍺+"
+    },
+    "armor-mr-nargacuga-mail-beta-plus": {
+      "Key": "armor-mr-nargacuga-mail-beta-plus",
+      "Translation": "Nargacuga Mail ß+"
+    },
+    "armor-mr-odogaron-coil-alpha-plus": {
+      "Key": "armor-mr-odogaron-coil-alpha-plus",
+      "Translation": "Odogaron Coil ⍺+"
+    },
+    "armor-mr-odogaron-coil-beta-plus": {
+      "Key": "armor-mr-odogaron-coil-beta-plus",
+      "Translation": "Odogaron Coil ß+"
+    },
+    "armor-mr-odogaron-greaves-alpha-plus": {
+      "Key": "armor-mr-odogaron-greaves-alpha-plus",
+      "Translation": "Odogaron Greaves ⍺+"
+    },
+    "armor-mr-odogaron-greaves-beta-plus": {
+      "Key": "armor-mr-odogaron-greaves-beta-plus",
+      "Translation": "Odogaron Greaves ß+"
+    },
+    "armor-mr-odogaron-helm-alpha-plus": {
+      "Key": "armor-mr-odogaron-helm-alpha-plus",
+      "Translation": "Odogaron Helm ⍺+"
+    },
+    "armor-mr-odogaron-helm-beta-plus": {
+      "Key": "armor-mr-odogaron-helm-beta-plus",
+      "Translation": "Odogaron Helm ß+"
+    },
+    "armor-mr-odogaron-mail-alpha-plus": {
+      "Key": "armor-mr-odogaron-mail-alpha-plus",
+      "Translation": "Odogaron Mail ⍺+"
+    },
+    "armor-mr-odogaron-mail-beta-plus": {
+      "Key": "armor-mr-odogaron-mail-beta-plus",
+      "Translation": "Odogaron Mail ß+"
+    },
+    "armor-mr-odogaron-vambraces-alpha-plus": {
+      "Key": "armor-mr-odogaron-vambraces-alpha-plus",
+      "Translation": "Odogaron Vambraces ⍺+"
+    },
+    "armor-mr-odogaron-vambraces-beta-plus": {
+      "Key": "armor-mr-odogaron-vambraces-beta-plus",
+      "Translation": "Odogaron Vambraces ß+"
+    },
+    "armor-mr-pukei-coil-alpha-plus": {
+      "Key": "armor-mr-pukei-coil-alpha-plus",
+      "Translation": "Pukei Coil ⍺+"
+    },
+    "armor-mr-pukei-coil-beta-plus": {
+      "Key": "armor-mr-pukei-coil-beta-plus",
+      "Translation": "Pukei Coil ß+"
+    },
+    "armor-mr-pukei-greaves-alpha-plus": {
+      "Key": "armor-mr-pukei-greaves-alpha-plus",
+      "Translation": "Pukei Greaves ⍺+"
+    },
+    "armor-mr-pukei-greaves-beta-plus": {
+      "Key": "armor-mr-pukei-greaves-beta-plus",
+      "Translation": "Pukei Greaves ß+"
+    },
+    "armor-mr-pukei-hat-alpha-plus": {
+      "Key": "armor-mr-pukei-hat-alpha-plus",
+      "Translation": "Pukei Hat ⍺+"
+    },
+    "armor-mr-pukei-hat-beta-plus": {
+      "Key": "armor-mr-pukei-hat-beta-plus",
+      "Translation": "Pukei Hat ß+"
+    },
+    "armor-mr-pukei-lagoon-braces-alpha-plus": {
+      "Key": "armor-mr-pukei-lagoon-braces-alpha-plus",
+      "Translation": "Pukei Lagoon Braces ⍺+"
+    },
+    "armor-mr-pukei-lagoon-braces-beta-plus": {
+      "Key": "armor-mr-pukei-lagoon-braces-beta-plus",
+      "Translation": "Pukei Lagoon Braces ß+"
+    },
+    "armor-mr-pukei-lagoon-coil-alpha-plus": {
+      "Key": "armor-mr-pukei-lagoon-coil-alpha-plus",
+      "Translation": "Pukei Lagoon Coil ⍺+"
+    },
+    "armor-mr-pukei-lagoon-coil-beta-plus": {
+      "Key": "armor-mr-pukei-lagoon-coil-beta-plus",
+      "Translation": "Pukei Lagoon Coil ß+"
+    },
+    "armor-mr-pukei-lagoon-greaves-alpha-plus": {
+      "Key": "armor-mr-pukei-lagoon-greaves-alpha-plus",
+      "Translation": "Pukei Lagoon Greaves ⍺+"
+    },
+    "armor-mr-pukei-lagoon-greaves-beta-plus": {
+      "Key": "armor-mr-pukei-lagoon-greaves-beta-plus",
+      "Translation": "Pukei Lagoon Greaves ß+"
+    },
+    "armor-mr-pukei-lagoon-hat-alpha-plus": {
+      "Key": "armor-mr-pukei-lagoon-hat-alpha-plus",
+      "Translation": "Pukei Lagoon Hat ⍺+"
+    },
+    "armor-mr-pukei-lagoon-hat-beta-plus": {
+      "Key": "armor-mr-pukei-lagoon-hat-beta-plus",
+      "Translation": "Pukei Lagoon Hat ß+"
+    },
+    "armor-mr-pukei-lagoon-mail-alpha-plus": {
+      "Key": "armor-mr-pukei-lagoon-mail-alpha-plus",
+      "Translation": "Pukei Lagoon Mail ⍺+"
+    },
+    "armor-mr-pukei-lagoon-mail-beta-plus": {
+      "Key": "armor-mr-pukei-lagoon-mail-beta-plus",
+      "Translation": "Pukei Lagoon Mail ß+"
+    },
+    "armor-mr-pukei-mail-alpha-plus": {
+      "Key": "armor-mr-pukei-mail-alpha-plus",
+      "Translation": "Pukei Mail ⍺+"
+    },
+    "armor-mr-pukei-mail-beta-plus": {
+      "Key": "armor-mr-pukei-mail-beta-plus",
+      "Translation": "Pukei Mail ß+"
+    },
+    "armor-mr-pukei-vambraces-alpha-plus": {
+      "Key": "armor-mr-pukei-vambraces-alpha-plus",
+      "Translation": "Pukei Vambraces ⍺+"
+    },
+    "armor-mr-pukei-vambraces-beta-plus": {
+      "Key": "armor-mr-pukei-vambraces-beta-plus",
+      "Translation": "Pukei Vambraces ß+"
+    },
+    "armor-mr-rath-heart-braces-alpha-plus": {
+      "Key": "armor-mr-rath-heart-braces-alpha-plus",
+      "Translation": "Rath Heart Braces ⍺+"
+    },
+    "armor-mr-rath-heart-braces-beta-plus": {
+      "Key": "armor-mr-rath-heart-braces-beta-plus",
+      "Translation": "Rath Heart Braces ß+"
+    },
+    "armor-mr-rath-heart-coil-alpha-plus": {
+      "Key": "armor-mr-rath-heart-coil-alpha-plus",
+      "Translation": "Rath Heart Coil ⍺+"
+    },
+    "armor-mr-rath-heart-coil-beta-plus": {
+      "Key": "armor-mr-rath-heart-coil-beta-plus",
+      "Translation": "Rath Heart Coil ß+"
+    },
+    "armor-mr-rath-heart-greaves-alpha-plus": {
+      "Key": "armor-mr-rath-heart-greaves-alpha-plus",
+      "Translation": "Rath Heart Greaves ⍺+"
+    },
+    "armor-mr-rath-heart-greaves-beta-plus": {
+      "Key": "armor-mr-rath-heart-greaves-beta-plus",
+      "Translation": "Rath Heart Greaves ß+"
+    },
+    "armor-mr-rath-heart-helm-alpha-plus": {
+      "Key": "armor-mr-rath-heart-helm-alpha-plus",
+      "Translation": "Rath Heart Helm ⍺+"
+    },
+    "armor-mr-rath-heart-helm-beta-plus": {
+      "Key": "armor-mr-rath-heart-helm-beta-plus",
+      "Translation": "Rath Heart Helm ß+"
+    },
+    "armor-mr-rath-heart-mail-alpha-plus": {
+      "Key": "armor-mr-rath-heart-mail-alpha-plus",
+      "Translation": "Rath Heart Mail ⍺+"
+    },
+    "armor-mr-rath-heart-mail-beta-plus": {
+      "Key": "armor-mr-rath-heart-mail-beta-plus",
+      "Translation": "Rath Heart Mail ß+"
+    },
+    "armor-mr-rathalos-coil-alpha-plus": {
+      "Key": "armor-mr-rathalos-coil-alpha-plus",
+      "Translation": "Rathalos Coil ⍺+"
+    },
+    "armor-mr-rathalos-coil-beta-plus": {
+      "Key": "armor-mr-rathalos-coil-beta-plus",
+      "Translation": "Rathalos Coil ß+"
+    },
+    "armor-mr-rathalos-greaves-alpha-plus": {
+      "Key": "armor-mr-rathalos-greaves-alpha-plus",
+      "Translation": "Rathalos Greaves ⍺+"
+    },
+    "armor-mr-rathalos-greaves-beta-plus": {
+      "Key": "armor-mr-rathalos-greaves-beta-plus",
+      "Translation": "Rathalos Greaves ß+"
+    },
+    "armor-mr-rathalos-helm-alpha-plus": {
+      "Key": "armor-mr-rathalos-helm-alpha-plus",
+      "Translation": "Rathalos Helm ⍺+"
+    },
+    "armor-mr-rathalos-helm-beta-plus": {
+      "Key": "armor-mr-rathalos-helm-beta-plus",
+      "Translation": "Rathalos Helm ß+"
+    },
+    "armor-mr-rathalos-mail-alpha-plus": {
+      "Key": "armor-mr-rathalos-mail-alpha-plus",
+      "Translation": "Rathalos Mail ⍺+"
+    },
+    "armor-mr-rathalos-mail-beta-plus": {
+      "Key": "armor-mr-rathalos-mail-beta-plus",
+      "Translation": "Rathalos Mail ß+"
+    },
+    "armor-mr-rathalos-vambraces-alpha-plus": {
+      "Key": "armor-mr-rathalos-vambraces-alpha-plus",
+      "Translation": "Rathalos Vambraces ⍺+"
+    },
+    "armor-mr-rathian-coil-alpha-plus": {
+      "Key": "armor-mr-rathian-coil-alpha-plus",
+      "Translation": "Rathian Coil ⍺+"
+    },
+    "armor-mr-rathian-coil-beta-plus": {
+      "Key": "armor-mr-rathian-coil-beta-plus",
+      "Translation": "Rathian Coil ß+"
+    },
+    "armor-mr-rathian-greaves-alpha-plus": {
+      "Key": "armor-mr-rathian-greaves-alpha-plus",
+      "Translation": "Rathian Greaves ⍺+"
+    },
+    "armor-mr-rathian-greaves-beta-plus": {
+      "Key": "armor-mr-rathian-greaves-beta-plus",
+      "Translation": "Rathian Greaves ß+"
+    },
+    "armor-mr-rathian-helm-alpha-plus": {
+      "Key": "armor-mr-rathian-helm-alpha-plus",
+      "Translation": "Rathian Helm ⍺+"
+    },
+    "armor-mr-rathian-helm-beta-plus": {
+      "Key": "armor-mr-rathian-helm-beta-plus",
+      "Translation": "Rathian Helm ß+"
+    },
+    "armor-mr-rathian-mail-alpha-plus": {
+      "Key": "armor-mr-rathian-mail-alpha-plus",
+      "Translation": "Rathian Mail ⍺+"
+    },
+    "armor-mr-rathian-mail-beta-plus": {
+      "Key": "armor-mr-rathian-mail-beta-plus",
+      "Translation": "Rathian Mail ß+"
+    },
+    "armor-mr-rathian-vambraces-alpha-plus": {
+      "Key": "armor-mr-rathian-vambraces-alpha-plus",
+      "Translation": "Rathian Vambraces ⍺+"
+    },
+    "armor-mr-rathian-vambraces-beta-plus": {
+      "Key": "armor-mr-rathian-vambraces-beta-plus",
+      "Translation": "Rathian Vambraces ß+"
+    },
+    "armor-mr-rimeguard-coil-alpha-plus": {
+      "Key": "armor-mr-rimeguard-coil-alpha-plus",
+      "Translation": "Rimeguard Coil ⍺+"
+    },
+    "armor-mr-rimeguard-coil-beta-plus": {
+      "Key": "armor-mr-rimeguard-coil-beta-plus",
+      "Translation": "Rimeguard Coil ß+"
+    },
+    "armor-mr-rimeguard-greaves-alpha-plus": {
+      "Key": "armor-mr-rimeguard-greaves-alpha-plus",
+      "Translation": "Rimeguard Greaves ⍺+"
+    },
+    "armor-mr-rimeguard-greaves-beta-plus": {
+      "Key": "armor-mr-rimeguard-greaves-beta-plus",
+      "Translation": "Rimeguard Greaves ß+"
+    },
+    "armor-mr-rimeguard-helm-alpha-plus": {
+      "Key": "armor-mr-rimeguard-helm-alpha-plus",
+      "Translation": "Rimeguard Helm ⍺+"
+    },
+    "armor-mr-rimeguard-helm-beta-plus": {
+      "Key": "armor-mr-rimeguard-helm-beta-plus",
+      "Translation": "Rimeguard Helm ß+"
+    },
+    "armor-mr-rimeguard-mail-alpha-plus": {
+      "Key": "armor-mr-rimeguard-mail-alpha-plus",
+      "Translation": "Rimeguard Mail ⍺+"
+    },
+    "armor-mr-rimeguard-mail-beta-plus": {
+      "Key": "armor-mr-rimeguard-mail-beta-plus",
+      "Translation": "Rimeguard Mail ß+"
+    },
+    "armor-mr-rimeguard-vambraces-alpha-plus": {
+      "Key": "armor-mr-rimeguard-vambraces-alpha-plus",
+      "Translation": "Rimeguard Vambraces ⍺+"
+    },
+    "armor-mr-rimeguard-vambraces-beta-plus": {
+      "Key": "armor-mr-rimeguard-vambraces-beta-plus",
+      "Translation": "Rimeguard Vambraces ß+"
+    },
+    "armor-mr-shamos-goggles-alpha-plus": {
+      "Key": "armor-mr-shamos-goggles-alpha-plus",
+      "Translation": "Shamos Goggles ⍺+"
+    },
+    "armor-mr-shamos-goggles-beta-plus": {
+      "Key": "armor-mr-shamos-goggles-beta-plus",
+      "Translation": "Shamos Goggles ß+"
+    },
+    "armor-mr-tigrex-braces-alpha-plus": {
+      "Key": "armor-mr-tigrex-braces-alpha-plus",
+      "Translation": "Tigrex Braces ⍺+"
+    },
+    "armor-mr-tigrex-braces-beta-plus": {
+      "Key": "armor-mr-tigrex-braces-beta-plus",
+      "Translation": "Tigrex Braces ß+"
+    },
+    "armor-mr-tigrex-greaves-alpha-plus": {
+      "Key": "armor-mr-tigrex-greaves-alpha-plus",
+      "Translation": "Tigrex Greaves ⍺+"
+    },
+    "armor-mr-tigrex-greaves-beta-plus": {
+      "Key": "armor-mr-tigrex-greaves-beta-plus",
+      "Translation": "Tigrex Greaves ß+"
+    },
+    "armor-mr-tigrex-helm-alpha-plus": {
+      "Key": "armor-mr-tigrex-helm-alpha-plus",
+      "Translation": "Tigrex Helm ⍺+"
+    },
+    "armor-mr-tigrex-helm-beta-plus": {
+      "Key": "armor-mr-tigrex-helm-beta-plus",
+      "Translation": "Tigrex Helm ß+"
+    },
+    "armor-mr-tigrex-mail-alpha-plus": {
+      "Key": "armor-mr-tigrex-mail-alpha-plus",
+      "Translation": "Tigrex Mail ⍺+"
+    },
+    "armor-mr-tigrex-mail-beta-plus": {
+      "Key": "armor-mr-tigrex-mail-beta-plus",
+      "Translation": "Tigrex Mail ß+"
+    },
+    "armor-mr-tigrex-tassets-alpha-plus": {
+      "Key": "armor-mr-tigrex-tassets-alpha-plus",
+      "Translation": "Tigrex Tassets ⍺+"
+    },
+    "armor-mr-tigrex-tassets-beta-plus": {
+      "Key": "armor-mr-tigrex-tassets-beta-plus",
+      "Translation": "Tigrex Tassets ß+"
+    },
+    "armor-mr-tzitzi-coil-alpha-plus": {
+      "Key": "armor-mr-tzitzi-coil-alpha-plus",
+      "Translation": "Tzitzi Coil ⍺+"
+    },
+    "armor-mr-tzitzi-coil-beta-plus": {
+      "Key": "armor-mr-tzitzi-coil-beta-plus",
+      "Translation": "Tzitzi Coil ß+"
+    },
+    "armor-mr-tzitzi-greaves-alpha-plus": {
+      "Key": "armor-mr-tzitzi-greaves-alpha-plus",
+      "Translation": "Tzitzi Greaves ⍺+"
+    },
+    "armor-mr-tzitzi-greaves-beta-plus": {
+      "Key": "armor-mr-tzitzi-greaves-beta-plus",
+      "Translation": "Tzitzi Greaves ß+"
+    },
+    "armor-mr-tzitzi-headgear-alpha-plus": {
+      "Key": "armor-mr-tzitzi-headgear-alpha-plus",
+      "Translation": "Tzitzi Headgear ⍺+"
+    },
+    "armor-mr-tzitzi-headgear-beta-plus": {
+      "Key": "armor-mr-tzitzi-headgear-beta-plus",
+      "Translation": "Tzitzi Headgear ß+"
+    },
+    "armor-mr-tzitzi-mail-alpha-plus": {
+      "Key": "armor-mr-tzitzi-mail-alpha-plus",
+      "Translation": "Tzitzi Mail ⍺+"
+    },
+    "armor-mr-tzitzi-mail-beta-plus": {
+      "Key": "armor-mr-tzitzi-mail-beta-plus",
+      "Translation": "Tzitzi Mail ß+"
+    },
+    "armor-mr-tzitzi-vambraces-alpha-plus": {
+      "Key": "armor-mr-tzitzi-vambraces-alpha-plus",
+      "Translation": "Tzitzi Vambraces ⍺+"
+    },
+    "armor-mr-tzitzi-vambraces-beta-plus": {
+      "Key": "armor-mr-tzitzi-vambraces-beta-plus",
+      "Translation": "Tzitzi Vambraces ß+"
+    },
+    "armor-mr-uragaan-coil-alpha-plus": {
+      "Key": "armor-mr-uragaan-coil-alpha-plus",
+      "Translation": "Uragaan Coil ⍺+"
+    },
+    "armor-mr-uragaan-coil-beta-plus": {
+      "Key": "armor-mr-uragaan-coil-beta-plus",
+      "Translation": "Uragaan Coil ß+"
+    },
+    "armor-mr-uragaan-greaves-alpha-plus": {
+      "Key": "armor-mr-uragaan-greaves-alpha-plus",
+      "Translation": "Uragaan Greaves ⍺+"
+    },
+    "armor-mr-uragaan-greaves-beta-plus": {
+      "Key": "armor-mr-uragaan-greaves-beta-plus",
+      "Translation": "Uragaan Greaves ß+"
+    },
+    "armor-mr-uragaan-helm-alpha-plus": {
+      "Key": "armor-mr-uragaan-helm-alpha-plus",
+      "Translation": "Uragaan Helm ⍺+"
+    },
+    "armor-mr-uragaan-helm-beta-plus": {
+      "Key": "armor-mr-uragaan-helm-beta-plus",
+      "Translation": "Uragaan Helm ß+"
+    },
+    "armor-mr-uragaan-mail-alpha-plus": {
+      "Key": "armor-mr-uragaan-mail-alpha-plus",
+      "Translation": "Uragaan Mail ⍺+"
+    },
+    "armor-mr-uragaan-mail-beta-plus": {
+      "Key": "armor-mr-uragaan-mail-beta-plus",
+      "Translation": "Uragaan Mail ß+"
+    },
+    "armor-mr-uragaan-vambraces-alpha-plus": {
+      "Key": "armor-mr-uragaan-vambraces-alpha-plus",
+      "Translation": "Uragaan Vambraces ⍺+"
+    },
+    "armor-mr-uragaan-vambraces-beta-plus": {
+      "Key": "armor-mr-uragaan-vambraces-beta-plus",
+      "Translation": "Uragaan Vambraces ß+"
+    },
+    "armor-mr-vespoid-coil-alpha-plus": {
+      "Key": "armor-mr-vespoid-coil-alpha-plus",
+      "Translation": "Vespoid Coil ⍺+"
+    },
+    "armor-mr-vespoid-coil-beta-plus": {
+      "Key": "armor-mr-vespoid-coil-beta-plus",
+      "Translation": "Vespoid Coil ß+"
+    },
+    "armor-mr-vespoid-greaves-alpha-plus": {
+      "Key": "armor-mr-vespoid-greaves-alpha-plus",
+      "Translation": "Vespoid Greaves ⍺+"
+    },
+    "armor-mr-vespoid-greaves-beta-plus": {
+      "Key": "armor-mr-vespoid-greaves-beta-plus",
+      "Translation": "Vespoid Greaves ß+"
+    },
+    "armor-mr-vespoid-helm-alpha-plus": {
+      "Key": "armor-mr-vespoid-helm-alpha-plus",
+      "Translation": "Vespoid Helm ⍺+"
+    },
+    "armor-mr-vespoid-helm-beta-plus": {
+      "Key": "armor-mr-vespoid-helm-beta-plus",
+      "Translation": "Vespoid Helm ß+"
+    },
+    "armor-mr-vespoid-mail-alpha-plus": {
+      "Key": "armor-mr-vespoid-mail-alpha-plus",
+      "Translation": "Vespoid Mail ⍺+"
+    },
+    "armor-mr-vespoid-mail-beta-plus": {
+      "Key": "armor-mr-vespoid-mail-beta-plus",
+      "Translation": "Vespoid Mail ß+"
+    },
+    "armor-mr-vespoid-vambraces-alpha-plus": {
+      "Key": "armor-mr-vespoid-vambraces-alpha-plus",
+      "Translation": "Vespoid Vambraces ⍺+"
+    },
+    "armor-mr-vespoid-vambraces-beta-plus": {
+      "Key": "armor-mr-vespoid-vambraces-beta-plus",
+      "Translation": "Vespoid Vambraces ß+"
+    },
+    "armor-mr-viper-kadachi-braces-alpha-plus": {
+      "Key": "armor-mr-viper-kadachi-braces-alpha-plus",
+      "Translation": "Viper Kadachi Braces ⍺+"
+    },
+    "armor-mr-viper-kadachi-braces-beta-plus": {
+      "Key": "armor-mr-viper-kadachi-braces-beta-plus",
+      "Translation": "Viper Kadachi Braces ß+"
+    },
+    "armor-mr-viper-kadachi-coil-alpha-plus": {
+      "Key": "armor-mr-viper-kadachi-coil-alpha-plus",
+      "Translation": "Viper Kadachi Coil ⍺+"
+    },
+    "armor-mr-viper-kadachi-coil-beta-plus": {
+      "Key": "armor-mr-viper-kadachi-coil-beta-plus",
+      "Translation": "Viper Kadachi Coil ß+"
+    },
+    "armor-mr-viper-kadachi-greaves-alpha-plus": {
+      "Key": "armor-mr-viper-kadachi-greaves-alpha-plus",
+      "Translation": "Viper Kadachi Greaves ⍺+"
+    },
+    "armor-mr-viper-kadachi-greaves-beta-plus": {
+      "Key": "armor-mr-viper-kadachi-greaves-beta-plus",
+      "Translation": "Viper Kadachi Greaves ß+"
+    },
+    "armor-mr-viper-kadachi-hat-alpha-plus": {
+      "Key": "armor-mr-viper-kadachi-hat-alpha-plus",
+      "Translation": "Viper Kadachi Hat ⍺+"
+    },
+    "armor-mr-viper-kadachi-hat-beta-plus": {
+      "Key": "armor-mr-viper-kadachi-hat-beta-plus",
+      "Translation": "Viper Kadachi Hat ß+"
+    },
+    "armor-mr-viper-kadachi-mail-alpha-plus": {
+      "Key": "armor-mr-viper-kadachi-mail-alpha-plus",
+      "Translation": "Viper Kadachi Mail ⍺"
+    },
+    "armor-mr-wulg-scarf-alpha-plus": {
+      "Key": "armor-mr-wulg-scarf-alpha-plus",
+      "Translation": "Wulg Scarf ⍺+"
+    },
+    "armor-mr-wulg-scarf-beta-plus": {
+      "Key": "armor-mr-wulg-scarf-beta-plus",
+      "Translation": "Wulg Scarf ß+"
+    },
+    "armor-mr-damascus-coil-alpha-plus": {
+      "Key": "armor-mr-damascus-coil-alpha-plus",
+      "Translation": "Damascus Coil ⍺+"
+    },
+    "armor-mr-damascus-coil-beta-plus": {
+      "Key": "armor-mr-damascus-coil-beta-plus",
+      "Translation": "Damascus Coil ß+"
+    },
+    "armor-mr-damascus-greaves-alpha-plus": {
+      "Key": "armor-mr-damascus-greaves-alpha-plus",
+      "Translation": "Damascus Greaves ⍺+"
+    },
+    "armor-mr-damascus-greaves-beta-plus": {
+      "Key": "armor-mr-damascus-greaves-beta-plus",
+      "Translation": "Damascus Greaves ß+"
+    },
+    "armor-mr-damascus-helm-alpha-plus": {
+      "Key": "armor-mr-damascus-helm-alpha-plus",
+      "Translation": "Damscus Helm ⍺+"
+    },
+    "armor-mr-damascus-helm-beta-plus": {
+      "Key": "armor-mr-damascus-helm-beta-plus",
+      "Translation": "Damscus Helm ß+"
+    },
+    "armor-mr-damascus-mail-alpha-plus": {
+      "Key": "armor-mr-damascus-mail-alpha-plus",
+      "Translation": "Damascus Mail ⍺+"
+    },
+    "armor-mr-damascus-mail-beta-plus": {
+      "Key": "armor-mr-damascus-mail-beta-plus",
+      "Translation": "Damascus Mail ß+"
+    },
+    "armor-mr-damascus-vambraces-alpha-plus": {
+      "Key": "armor-mr-damascus-vambraces-alpha-plus",
+      "Translation": "Damascus Vambraces ⍺+"
+    },
+    "armor-mr-damascus-vambraces-beta-plus": {
+      "Key": "armor-mr-damascus-vambraces-beta-plus",
+      "Translation": "Damascus Vambraces ß+"
+    },
+    "armor-mr-dober-coil-alpha-plus": {
+      "Key": "armor-mr-dober-coil-alpha-plus",
+      "Translation": "Dober Coil ⍺+"
+    },
+    "armor-mr-dober-coil-beta-plus": {
+      "Key": "armor-mr-dober-coil-beta-plus",
+      "Translation": "Dober Coil ß+"
+    },
+    "armor-mr-dober-greaves-alpha-plus": {
+      "Key": "armor-mr-dober-greaves-alpha-plus",
+      "Translation": "Dober Greaves ⍺+"
+    },
+    "armor-mr-dober-greaves-beta-plus": {
+      "Key": "armor-mr-dober-greaves-beta-plus",
+      "Translation": "Dober Greaves ß+"
+    },
+    "armor-mr-dober-helm-alpha-plus": {
+      "Key": "armor-mr-dober-helm-alpha-plus",
+      "Translation": "Dober Helm ⍺+"
+    },
+    "armor-mr-dober-helm-beta-plus": {
+      "Key": "armor-mr-dober-helm-beta-plus",
+      "Translation": "Dober Helm ß+"
+    },
+    "armor-mr-dober-mail-alpha-plus": {
+      "Key": "armor-mr-dober-mail-alpha-plus",
+      "Translation": "Dober Mail ⍺+"
+    },
+    "armor-mr-dober-mail-beta-plus": {
+      "Key": "armor-mr-dober-mail-beta-plus",
+      "Translation": "Dober Mail ß+"
+    },
+    "armor-mr-dober-vambraces-alpha-plus": {
+      "Key": "armor-mr-dober-vambraces-alpha-plus",
+      "Translation": "Dober Vambraces ⍺+"
+    },
+    "armor-mr-dober-vambraces-beta-plus": {
+      "Key": "armor-mr-dober-vambraces-beta-plus",
+      "Translation": "Dober Vambraces ß+"
+    },
+    "armor-mr-esurient-faulds-alpha-plus": {
+      "Key": "armor-mr-esurient-faulds-alpha-plus",
+      "Translation": "Esurient Faulds ⍺+"
+    },
+    "armor-mr-esurient-faulds-beta-plus": {
+      "Key": "armor-mr-esurient-faulds-beta-plus",
+      "Translation": "Esurient Faulds ß+"
+    },
+    "armor-mr-esurient-greaves-alpha-plus": {
+      "Key": "armor-mr-esurient-greaves-alpha-plus",
+      "Translation": "Esurient Greaves ⍺+"
+    },
+    "armor-mr-esurient-greaves-beta-plus": {
+      "Key": "armor-mr-esurient-greaves-beta-plus",
+      "Translation": "Esurient Greaves ß+"
+    },
+    "armor-mr-esurient-helm-alpha-plus": {
+      "Key": "armor-mr-esurient-helm-alpha-plus",
+      "Translation": "Esurient Helm ⍺+"
+    },
+    "armor-mr-esurient-helm-beta-plus": {
+      "Key": "armor-mr-esurient-helm-beta-plus",
+      "Translation": "Esurient Helm ß+"
+    },
+    "armor-mr-esurient-mail-alpha-plus": {
+      "Key": "armor-mr-esurient-mail-alpha-plus",
+      "Translation": "Esurient Mail ⍺+"
+    },
+    "armor-mr-esurient-mail-beta-plus": {
+      "Key": "armor-mr-esurient-mail-beta-plus",
+      "Translation": "Esurient Mail ß+"
+    },
+    "armor-mr-esurient-vambraces-alpha-plus": {
+      "Key": "armor-mr-esurient-vambraces-alpha-plus",
+      "Translation": "Esurient Vambraces ⍺+"
+    },
+    "armor-mr-esurient-vambraces-beta-plus": {
+      "Key": "armor-mr-esurient-vambraces-beta-plus",
+      "Translation": "Esurient Vambraces ß+"
+    },
+    "armor-mr-fellshroud-braces-alpha-plus": {
+      "Key": "armor-mr-fellshroud-braces-alpha-plus",
+      "Translation": "Fellshroud Braces ⍺+"
+    },
+    "armor-mr-fellshroud-braces-beta-plus": {
+      "Key": "armor-mr-fellshroud-braces-beta-plus",
+      "Translation": "Fellshroud Braces ß+"
+    },
+    "armor-mr-fellshroud-coil-alpha-plus": {
+      "Key": "armor-mr-fellshroud-coil-alpha-plus",
+      "Translation": "Fellshroud Coil ⍺+"
+    },
+    "armor-mr-fellshroud-coil-beta-plus": {
+      "Key": "armor-mr-fellshroud-coil-beta-plus",
+      "Translation": "Fellshroud Coil ß+"
+    },
+    "armor-mr-fellshroud-greaves-alpha-plus": {
+      "Key": "armor-mr-fellshroud-greaves-alpha-plus",
+      "Translation": "Fellshroud Greaves ⍺+"
+    },
+    "armor-mr-fellshroud-greaves-beta-plus": {
+      "Key": "armor-mr-fellshroud-greaves-beta-plus",
+      "Translation": "Fellshroud Greaves ß+"
+    },
+    "armor-mr-fellshroud-helm-alpha-plus": {
+      "Key": "armor-mr-fellshroud-helm-alpha-plus",
+      "Translation": "Fellshroud Helm ⍺+"
+    },
+    "armor-mr-fellshroud-helm-beta-plus": {
+      "Key": "armor-mr-fellshroud-helm-beta-plus",
+      "Translation": "Fellshroud Helm ß+"
+    },
+    "armor-mr-fellshroud-mail-alpha-plus": {
+      "Key": "armor-mr-fellshroud-mail-alpha-plus",
+      "Translation": "Fellshroud Mail ⍺+"
+    },
+    "armor-mr-fellshroud-mail-beta-plus": {
+      "Key": "armor-mr-fellshroud-mail-beta-plus",
+      "Translation": "Fellshroud Mail ß+"
+    },
+    "skill-offensive-guard": {
+      "Key": "skill-offensive-guard",
+      "Translation": "Offensive Guard"
+    },
+    "skill-offensive-guard-1": {
+      "Key": "skill-offensive-guard-1",
+      "Translation": "While active increases attack power by 5%"
+    },
+    "skill-offensive-guard-2": {
+      "Key": "skill-offensive-guard-2",
+      "Translation": "While active increases attack power by 10%"
+    },
+    "skill-offensive-guard-3": {
+      "Key": "skill-offensive-guard-3",
+      "Translation": "While active increases attack power by 15%"
+    },
+    "skill-offensive-guard-description": {
+      "Key": "skill-offensive-guard-description",
+      "Translation": "Temporarily increases attack power after executing a perfectly timed guard."
     }
   }

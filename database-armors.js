@@ -749,7 +749,7 @@ let lowRankArmors = [{
             'vsIce': '0',
             'vsDragon': '0',
             'skills': [{
-                'name': 'Aquatic Expert',
+                'name': 'Aquatic/Polar Mobility',
                 'level': '1'
             }, ],
             'materials': [{
@@ -1337,7 +1337,7 @@ let lowRankArmors = [{
             'vsIce': '0',
             'vsDragon': '1',
             'skills': [{
-                'name': 'Sporepuff Expert',
+                'name': 'Survival Expert',
                 'level': '1'
             }, ],
             'materials': [{
@@ -1717,7 +1717,7 @@ let lowRankArmors = [{
             'vsIce': '0',
             'vsDragon': '0',
             'skills': [{
-                'name': 'Aquatic Expert',
+                'name': 'Aquatic/Polar Mobility',
                 'level': '1'
             }, ],
             'materials': [{
@@ -5919,7 +5919,7 @@ let lowRankArmors = [{
             'vsIce': '1',
             'vsDragon': '1',
             'skills': [{
-                'name': 'Aquatic Expert',
+                'name': 'Aquatic/Polar Mobility',
                 'level': '1'
             }, ],
             'materials': [{
@@ -12056,7 +12056,7 @@ let highRankArmors = [{
             'vsIce': '0',
             'vsDragon': '0',
             'skills': [{
-                    'name': 'Aquatic Expert',
+                    'name': 'Aquatic/Polar Mobility',
                     'level': '2'
                 },
                 {
@@ -12106,7 +12106,7 @@ let highRankArmors = [{
             'vsIce': '0',
             'vsDragon': '0',
             'skills': [{
-                    'name': 'Aquatic Expert',
+                    'name': 'Aquatic/Polar Mobility',
                     'level': '1'
                 },
                 {
@@ -13884,7 +13884,7 @@ let highRankArmors = [{
             'vsIce': '0',
             'vsDragon': '1',
             'skills': [{
-                'name': 'Sporepuff Expert',
+                'name': 'Survival Expert',
                 'level': '2'
             }, ],
             'materials': [{
@@ -14038,7 +14038,7 @@ let highRankArmors = [{
                     'level': '2'
                 },
                 {
-                    'name': 'Sporepuff Expert',
+                    'name': 'Survival Expert',
                     'level': '1'
                 },
             ],
@@ -14088,7 +14088,7 @@ let highRankArmors = [{
             'vsIce': '0',
             'vsDragon': '1',
             'skills': [{
-                'name': 'Sporepuff Expert',
+                'name': 'Survival Expert',
                 'level': '1'
             }, ],
             'materials': [{
@@ -15135,7 +15135,7 @@ let highRankArmors = [{
             'vsIce': '0',
             'vsDragon': '0',
             'skills': [{
-                'name': 'Aquatic Expert',
+                'name': 'Aquatic/Polar Mobility',
                 'level': '1'
             }, ],
             'materials': [{
@@ -15218,7 +15218,7 @@ let highRankArmors = [{
                     'level': '2'
                 },
                 {
-                    'name': 'Aquatic Expert',
+                    'name': 'Aquatic/Polar Mobility',
                     'level': '1'
                 },
             ],
@@ -15338,7 +15338,7 @@ let highRankArmors = [{
             'vsIce': '0',
             'vsDragon': '0',
             'skills': [{
-                'name': 'Aquatic Expert',
+                'name': 'Aquatic/Polar Mobility',
                 'level': '1'
             }, ],
             'materials': [{
@@ -29953,7 +29953,7 @@ let highRankArmors = [{
             'vsIce': '1',
             'vsDragon': '1',
             'skills': [{
-                'name': 'Aquatic Expert',
+                'name': 'Aquatic/Polar Mobility',
                 'level': '1'
             }, ],
             'materials': [{
@@ -35590,20 +35590,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Dragon Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Vaal Hazak Cortex',
             'quantity': '3'
         }, {
             'name': 'Shadowpierce Fang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Vaal Hazak Hardclaw',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Large Elder Dragon Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'upperBody': {
@@ -35626,20 +35626,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Dragon Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Vaal Hazak Cortex',
             'quantity': '3'
         }, {
             'name': 'Deceased Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Deathweaver Membrane',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Pure Dragon Blood',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '21000',
     },
     'hands': {
@@ -35662,20 +35662,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Speed Eating',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Vaal Hazak Cortex',
             'quantity': '3'
         }, {
             'name': 'Vaal Hazak Fellwing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Shadowpierce Fang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Large Elder Dragon Bone',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '21000',
     },
     'lowerBody': {
@@ -35698,20 +35698,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Peak Performance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Vaal Hazak Cortex',
             'quantity': '3'
         }, {
             'name': 'Deceased Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Vaal Hazak Fellwing',
             'quantity': '4'
-        },{
+        }, {
             'name': 'Deathweaver Membrane',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '21000',
     },
     'legs': {
@@ -35734,20 +35734,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Dragon Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Vaal Hazak Cortex',
             'quantity': '3'
         }, {
             'name': 'Deceased Shard',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Vaal Hazak Flail',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Deathweaver Membrane',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '21000',
     },
     'totalDefense': '780',
@@ -35784,13 +35784,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Shadowpierce Fang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Vaal Hazak Hardclaw',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Large Elder Dragon Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'upperBody': {
@@ -35813,20 +35813,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Dragon Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Vaal Hazak Cortex',
             'quantity': '3'
         }, {
             'name': 'Deceased Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Deathweaver Membrane',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Pure Dragon Blood',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '21000',
     },
     'hands': {
@@ -35853,13 +35853,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Vaal Hazak Fellwing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Shadowpierce Fang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Large Elder Dragon Bone',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '21000',
     },
     'lowerBody': {
@@ -35886,13 +35886,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Deceased Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Vaal Hazak Fellwing',
             'quantity': '4'
-        },{
+        }, {
             'name': 'Deathweaver Membrane',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '21000',
     },
     'legs': {
@@ -35912,20 +35912,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Effluvia Resistance',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Vaal Hazak Cortex',
             'quantity': '3'
         }, {
             'name': 'Deceased Shard',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Vaal Hazak Flail',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Deathweaver Membrane',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '21000',
     },
     'totalDefense': '780',
@@ -37041,20 +37041,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Item Prolonger',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Coral Pukei-Pukei Cortex',
             'quantity': '3'
         }, {
             'name': 'Coral Pukei-Pukei Fellwing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Large Coral Pukei-Pukei Sac',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Flood Sac',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -37077,17 +37077,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Draw',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Coral Pukei-Pukei Cortex',
             'quantity': '2'
         }, {
             'name': 'Coral Pukei-Pukei Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -37110,17 +37110,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Power Prolonger',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Coral Pukei-Pukei Cortex',
             'quantity': '2'
         }, {
             'name': 'Coral Pukei-Pukei Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Bathycite Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -37143,17 +37143,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Partbreaker',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Coral Pukei-Pukei Cortex',
             'quantity': '2'
         }, {
             'name': 'Coral Pukei-Pukei Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Large Coral Pukei-Pukei Sac',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -37176,20 +37176,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Water Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Coral Pukei-Pukei Cortex',
             'quantity': '3'
         }, {
             'name': 'Coral Pukei-Pukei Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Coral Pukei-Pukei Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Flood Sac',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '660',
@@ -37222,20 +37222,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Item Prolonger',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Coral Pukei-Pukei Cortex',
             'quantity': '3'
         }, {
             'name': 'Coral Pukei-Pukei Fellwing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Large Coral Pukei-Pukei Sac',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Flood Sac',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -37262,10 +37262,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Coral Pukei-Pukei Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -37285,17 +37285,17 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Partbreaker',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Coral Pukei-Pukei Cortex',
             'quantity': '2'
         }, {
             'name': 'Coral Pukei-Pukei Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Bathycite Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -37318,17 +37318,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Partbreaker',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Coral Pukei-Pukei Cortex',
             'quantity': '2'
         }, {
             'name': 'Coral Pukei-Pukei Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Large Coral Pukei-Pukei Sac',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -37348,20 +37348,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Item Prolonger',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Coral Pukei-Pukei Cortex',
             'quantity': '3'
         }, {
             'name': 'Coral Pukei-Pukei Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Coral Pukei-Pukei Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Flood Sac',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '660',
@@ -37480,20 +37480,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Speed Sharpening',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pure Dragon Blood',
             'quantity': '2'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Paolumu Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Gracium',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'upperBody': {
@@ -37516,20 +37516,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Defense Boost',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pure Dragon Blood',
             'quantity': '2'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Legiana Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Purecrystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'hands': {
@@ -37552,20 +37552,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Speed Sharpening',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pure Dragon Blood',
             'quantity': '2'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Rathalos Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'lowerBody': {
@@ -37588,20 +37588,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Guard',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pure Dragon Blood',
             'quantity': '2'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Rathian Weave',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Bathycite Ore',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'legs': {
@@ -37624,20 +37624,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Guard',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pure Dragon Blood',
             'quantity': '2'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Pukei-Pukei Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Spiritvein Crystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'totalDefense': '760',
@@ -37674,13 +37674,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Paolumu Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Gracium',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'upperBody': {
@@ -37700,20 +37700,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Focus',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pure Dragon Blood',
             'quantity': '2'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Legiana Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Purecrystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'hands': {
@@ -37740,13 +37740,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Rathalos Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'lowerBody': {
@@ -37773,13 +37773,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Rathian Weave',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Bathycite Ore',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'legs': {
@@ -37802,20 +37802,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Guard',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pure Dragon Blood',
             'quantity': '2'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Pukei-Pukei Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Spiritvein Crystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'totalDefense': '760',
@@ -38262,20 +38262,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Stamina Surge',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Large Elder Dragon Bone',
             'quantity': '2'
         }, {
             'name': 'Thick Bone',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Uragaan Scute+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'upperBody': {
@@ -38298,20 +38298,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Effluvia Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Large Elder Dragon Bone',
             'quantity': '2'
         }, {
             'name': 'Thick Bone',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Jyuratodus Grandfin',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Solidbone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '21000',
     },
     'hands': {
@@ -38334,20 +38334,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Mushroomancer',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Large Elder Dragon Bone',
             'quantity': '2'
         }, {
             'name': 'Thick Bone',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Lavasioth Grandfin',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Dragonbone Artifact',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '21000',
     },
     'lowerBody': {
@@ -38370,20 +38370,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Stun Resistance',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Large Elder Dragon Bone',
             'quantity': '2'
         }, {
             'name': 'Thick Bone',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Diablos Tailcase+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '21000',
     },
     'legs': {
@@ -38406,20 +38406,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Mushroomancer',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Large Elder Dragon Bone',
             'quantity': '2'
         }, {
             'name': 'Thick Bone',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Radobaan Oilshell+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Slogbone',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '21000',
     },
     'totalDefense': '760',
@@ -38456,13 +38456,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Thick Bone',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Uragaan Scute+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'upperBody': {
@@ -38485,20 +38485,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Effluvia Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Large Elder Dragon Bone',
             'quantity': '2'
         }, {
             'name': 'Thick Bone',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Jyuratodus Grandfin',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Solidbone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '21000',
     },
     'hands': {
@@ -38521,20 +38521,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Mushroomancer',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Large Elder Dragon Bone',
             'quantity': '2'
         }, {
             'name': 'Thick Bone',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Lavasioth Grandfin',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Dragonbone Artifact',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '21000',
     },
     'lowerBody': {
@@ -38557,20 +38557,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Stun Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Large Elder Dragon Bone',
             'quantity': '2'
         }, {
             'name': 'Thick Bone',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Diablos Tailcase+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '21000',
     },
     'legs': {
@@ -38593,20 +38593,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Mushroomancer',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Large Elder Dragon Bone',
             'quantity': '2'
         }, {
             'name': 'Thick Bone',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Radobaan Oilshell+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Slogbone',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '21000',
     },
     'totalDefense': '760',
@@ -39550,20 +39550,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Paralysis Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Great Girros Thickhide',
             'quantity': '2'
         }, {
             'name': 'Great Girros Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Ultraplegia Sac',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Warped Bone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -39586,20 +39586,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Free Element/Ammo Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Great Girros Thickhide',
             'quantity': '2'
         }, {
             'name': 'Great Girros Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Great Girros Hardhood',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Girros Shard',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -39622,20 +39622,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Effluvia Resistance',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Great Girros Thickhide',
             'quantity': '2'
         }, {
             'name': 'Great Girros Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Great Girros Hardhood',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Warped Bone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -39694,20 +39694,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Free Element/Ammo Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Great Girros Thickhide',
             'quantity': '2'
         }, {
             'name': 'Great Girros Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Great Girros Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Girros Shard',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '580',
@@ -39744,13 +39744,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Great Girros Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Ultraplegia Sac',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Warped Bone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -39770,20 +39770,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Paralysis Resistance',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Great Girros Thickhide',
             'quantity': '2'
         }, {
             'name': 'Great Girros Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Great Girros Hardhood',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Girros Shard',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -39806,20 +39806,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Effluvia Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Great Girros Thickhide',
             'quantity': '2'
         }, {
             'name': 'Great Girros Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Great Girros Hardhood',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Warped Bone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -39879,13 +39879,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Great Girros Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Great Girros Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Girros Shard',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '580',
@@ -39918,20 +39918,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Handicraft',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Glavenus Cortex',
             'quantity': '2'
         }, {
             'name': 'Glavenus Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Glavenus Hellshell',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Glavenus Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -39954,20 +39954,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Focus',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Glavenus Cortex',
             'quantity': '2'
         }, {
             'name': 'Glavenus Hellshell',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Glavenus Tailedge',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Purecrystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -39990,20 +39990,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Maximum Might',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Glavenus Cortex',
             'quantity': '2'
         }, {
             'name': 'Glavenus Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Molten Bursa',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Firecell Stone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -40026,20 +40026,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Normal Shots',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Glavenus Cortex',
             'quantity': '2'
         }, {
             'name': 'Glavenus Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Glavenus Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Molten Bursa',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -40062,20 +40062,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Heat Guard',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Glavenus Cortex',
             'quantity': '2'
         }, {
             'name': 'Glavenus Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Glavenus Hardshell',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Molten Bursa',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '710',
@@ -40108,20 +40108,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Handicraft',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Glavenus Cortex',
             'quantity': '2'
         }, {
             'name': 'Glavenus Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Glavenus Hellshell',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Glavenus Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -40144,20 +40144,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Maximum Might',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Glavenus Cortex',
             'quantity': '2'
         }, {
             'name': 'Glavenus Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Molten Bursa',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Firecell Stone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -40180,20 +40180,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Focus',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Glavenus Cortex',
             'quantity': '2'
         }, {
             'name': 'Glavenus Hellshell',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Glavenus Tailedge',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Purecrystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -40220,13 +40220,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Glavenus Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Glavenus Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Molten Bursa',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -40253,13 +40253,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Glavenus Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Glavenus Hardshell',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Molten Bursa',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '710',
@@ -40292,20 +40292,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Earplugs',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Bathycite Ore',
             'quantity': '1'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tough Claw',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -40328,20 +40328,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Ice Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Bathycite Ore',
             'quantity': '1'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tough Claw',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -40364,17 +40364,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Ice Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Bathycite Ore',
             'quantity': '1'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -40397,17 +40397,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Defense Boost',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Bathycite Ore',
             'quantity': '1'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -40430,20 +40430,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Ice Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Bathycite Ore',
             'quantity': '1'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Gajau Thickhide',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '640',
@@ -40476,20 +40476,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Earplugs',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Bathycite Ore',
             'quantity': '1'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tough Claw',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -40512,20 +40512,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Ice Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Bathycite Ore',
             'quantity': '1'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tough Claw',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -40548,17 +40548,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Ice Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Bathycite Ore',
             'quantity': '1'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -40581,17 +40581,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Defense Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Bathycite Ore',
             'quantity': '1'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -40614,20 +40614,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Ice Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Bathycite Ore',
             'quantity': '1'
         }, {
             'name': 'Meldspar Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Gajau Thickhide',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '640',
@@ -40660,17 +40660,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Dragon Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Hornetaur Razorwing',
             'quantity': '2'
         }, {
             'name': 'Monster Essence',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -40693,17 +40693,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Hunger Resistance',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Hornetaur Razorwing',
             'quantity': '1'
         }, {
             'name': 'Monster Essence',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -40726,17 +40726,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Handicraft',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Hornetaur Razorwing',
             'quantity': '1'
         }, {
             'name': 'Monster Essence',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -40759,17 +40759,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Hunger Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Hornetaur Razorwing',
             'quantity': '1'
         }, {
             'name': 'Monster Essence',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -40792,17 +40792,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Dragon Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Hornetaur Razorwing',
             'quantity': '1'
         }, {
             'name': 'Monster Essence',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '580',
@@ -40835,17 +40835,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Dragon Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Hornetaur Razorwing',
             'quantity': '2'
         }, {
             'name': 'Monster Essence',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -40872,10 +40872,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Monster Essence',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -40895,17 +40895,17 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Free Meal',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Hornetaur Razorwing',
             'quantity': '1'
         }, {
             'name': 'Monster Essence',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -40932,10 +40932,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Monster Essence',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -40962,10 +40962,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Monster Essence',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '580',
@@ -40998,17 +40998,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Windproof',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Meldspar Ore',
             'quantity': '2'
         }, {
             'name': 'Monster Slogbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -41031,17 +41031,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Free Element/Ammo Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Meldspar Ore',
             'quantity': '2'
         }, {
             'name': 'Monster Slogbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Spiritvein Crystal',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -41064,17 +41064,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Thunder Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Meldspar Ore',
             'quantity': '2'
         }, {
             'name': 'Monster Slogbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Bathycite Ore',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -41097,17 +41097,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Free Element/Ammo Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Meldspar Ore',
             'quantity': '2'
         }, {
             'name': 'Monster Slogbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Purecrystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -41130,17 +41130,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Free Element/Ammo Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Meldspar Ore',
             'quantity': '2'
         }, {
             'name': 'Monster Slogbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Gracium',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '680',
@@ -41177,10 +41177,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Monster Slogbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -41203,17 +41203,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Free Element/Ammo Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Meldspar Ore',
             'quantity': '2'
         }, {
             'name': 'Monster Slogbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Spiritvein Crystal',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -41236,17 +41236,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Thunder Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Meldspar Ore',
             'quantity': '2'
         }, {
             'name': 'Monster Slogbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Bathycite Ore',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -41269,17 +41269,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Free Element/Ammo Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Meldspar Ore',
             'quantity': '2'
         }, {
             'name': 'Monster Slogbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Purecrystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -41299,17 +41299,17 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Defense Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Meldspar Ore',
             'quantity': '2'
         }, {
             'name': 'Monster Slogbone',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Gracium',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '680',
@@ -41342,20 +41342,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Attack Boost',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Great Jagras Thickhide',
             'quantity': '1'
         }, {
             'name': 'Great Jagras Shard',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Jagras Shard',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -41378,20 +41378,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Attack Boost',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Great Jagras Thickhide',
             'quantity': '1'
         }, {
             'name': 'Great Jagras Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Great Jagras Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Jagras Shard',
             'quantity': '9000'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -41414,20 +41414,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Recovery Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Great Jagras Thickhide',
             'quantity': '1'
         }, {
             'name': 'Great Jagras Mane+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Great Jagras Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tough Claw',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -41450,20 +41450,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Speed Eating',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Great Jagras Thickhide',
             'quantity': '1'
         }, {
             'name': 'Great Jagras Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Great Jagras Mane+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Jagras Shard',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -41486,20 +41486,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Recovery Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Great Jagras Thickhide',
             'quantity': '1'
         }, {
             'name': 'Great Jagras Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Great Jagras Mane+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Jagras Shard',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '580',
@@ -41532,20 +41532,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Attack Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Great Jagras Thickhide',
             'quantity': '1'
         }, {
             'name': 'Great Jagras Shard',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Jagras Shard',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -41568,20 +41568,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Attack Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Great Jagras Thickhide',
             'quantity': '1'
         }, {
             'name': 'Great Jagras Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Great Jagras Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Jagras Shard',
             'quantity': '9000'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -41604,20 +41604,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Recovery Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Great Jagras Thickhide',
             'quantity': '1'
         }, {
             'name': 'Great Jagras Mane+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Great Jagras Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tough Claw',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -41637,20 +41637,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Recovery Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Great Jagras Thickhide',
             'quantity': '1'
         }, {
             'name': 'Great Jagras Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Great Jagras Mane+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Jagras Shard',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -41677,13 +41677,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Great Jagras Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Great Jagras Mane+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Jagras Shard',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '580',
@@ -41716,20 +41716,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Focus',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Jyuratodus Cortex',
             'quantity': '1'
         }, {
             'name': 'Jyuratodus Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Jyuratodus Grandfin',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Steel Gajau Whisker',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -41752,17 +41752,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Water Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Jyuratodus Cortex',
             'quantity': '1'
         }, {
             'name': 'Jyuratodus Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Gajau Thickhide',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -41785,17 +41785,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Ice Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Jyuratodus Cortex',
             'quantity': '1'
         }, {
             'name': 'Jyuratodus',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -41818,17 +41818,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Latent Power',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Jyuratodus Cortex',
             'quantity': '1'
         }, {
             'name': 'Jyuratodus Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Flood Sac',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -41851,17 +41851,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Water Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Jyuratodus Cortex',
             'quantity': '1'
         }, {
             'name': 'Jyuratodus Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Jyuratodus Grandfin',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '580',
@@ -41894,20 +41894,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Focus',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Jyuratodus Cortex',
             'quantity': '1'
         }, {
             'name': 'Jyuratodus Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Jyuratodus Grandfin',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Steel Gajau Whisker',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -41930,17 +41930,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Water Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Jyuratodus Cortex',
             'quantity': '1'
         }, {
             'name': 'Jyuratodus Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Gajau Thickhide',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -41967,10 +41967,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Jyuratodus',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -41997,10 +41997,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Jyuratodus Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Flood Sac',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -42023,17 +42023,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Water Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Jyuratodus Cortex',
             'quantity': '1'
         }, {
             'name': 'Jyuratodus Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Jyuratodus Grandfin',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '580',
@@ -42066,20 +42066,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Evade Extender',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tobi-Kadachi Thickfur',
             'quantity': '2'
         }, {
             'name': 'Tobi-Kadachi Cathode',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tobi-Kadachi Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Essence',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -42102,17 +42102,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Constitution',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tobi-Kadachi Thickfur',
             'quantity': '2'
         }, {
             'name': 'Tobi-Kadachi Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tobi-Kadachi Membrane+',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -42135,20 +42135,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Thunder Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tobi-Kadachi Thickfur',
             'quantity': '2'
         }, {
             'name': 'Tobi-Kadachi Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tobi-Kadachi Hardclaw',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Lightning Sac',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -42171,17 +42171,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Thunder Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tobi-Kadachi Thickfur',
             'quantity': '2'
         }, {
             'name': 'Tobi-Kadachi Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Lightning Sac',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -42204,17 +42204,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Constitution',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tobi-Kadachi Thickfur',
             'quantity': '2'
         }, {
             'name': 'Tobi-Kadachi Membrane+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tobi-Kadachi Cathode',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '600',
@@ -42247,20 +42247,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Evade Extender',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tobi-Kadachi Thickfur',
             'quantity': '2'
         }, {
             'name': 'Tobi-Kadachi Cathode',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tobi-Kadachi Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Essence',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -42283,20 +42283,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Thunder Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tobi-Kadachi Thickfur',
             'quantity': '2'
         }, {
             'name': 'Tobi-Kadachi Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tobi-Kadachi Hardclaw',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Lightning Sac',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -42323,10 +42323,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Tobi-Kadachi Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tobi-Kadachi Membrane+',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -42353,10 +42353,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Tobi-Kadachi Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Lightning Sac',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -42383,10 +42383,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Tobi-Kadachi Membrane+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tobi-Kadachi Cathode',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '600',
@@ -42419,14 +42419,14 @@ let masterRankArmors = [{
         }, {
             'name': 'Focus',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Kestodon Husk',
             'quantity': '3'
         }, {
             'name': 'Thick Bone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '115',
@@ -42459,14 +42459,14 @@ let masterRankArmors = [{
         }, {
             'name': 'Focus',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Kestodon Husk',
             'quantity': '3'
         }, {
             'name': 'Thick Bone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '115',
@@ -42519,20 +42519,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Kulu-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Kulu-Ya-Ku Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Kulu-Ya-Ku Plume',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Jagras Shard',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -42555,20 +42555,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Eye',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Kulu-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Large Kulu-Ya-Ku Plume',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Kulu-Ya-Ku Beak',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Jagras Shard',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -42591,17 +42591,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Pro Transporter',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Kulu-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Kulu-Ya-Ku Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -42624,17 +42624,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Eye',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Kulu-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Large Kulu-Ya-Ku Beak',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Jagras Shard',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -42657,17 +42657,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Item Prolonger',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Kulu-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Kulu-Ya-Ku Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Jagras Shard',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '580',
@@ -42697,20 +42697,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Slinger Capacity',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Kulu-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Kulu-Ya-Ku Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Kulu-Ya-Ku Plume',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Jagras Shard',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -42733,20 +42733,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Eye',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Kulu-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Large Kulu-Ya-Ku Plume',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Kulu-Ya-Ku Beak',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Jagras Shard',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -42773,10 +42773,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Kulu-Ya-Ku Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -42796,17 +42796,17 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Item Prolonger',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Kulu-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Large Kulu-Ya-Ku Beak',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Jagras Shard',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -42829,17 +42829,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Item Prolonger',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Kulu-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Kulu-Ya-Ku Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Jagras Shard',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '580',
@@ -42892,20 +42892,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Quick Sheath',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Lavasioth Cortex',
             'quantity': '2'
         }, {
             'name': 'Lavasioth Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Lavasioth Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Gastodon Husk',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -42928,20 +42928,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Heat Guard',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Lavasioth Cortex',
             'quantity': '2'
         }, {
             'name': 'Lavasioth Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Conflagrant Sac',
             'quantity': '6'
-        },{
+        }, {
             'name': 'Monster Slogbone',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -42964,20 +42964,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Recovery Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Lavasioth Cortex',
             'quantity': '2'
         }, {
             'name': 'Lavasioth Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Lavasioth Grandfin',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -43000,20 +43000,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Recovery Up',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Lavasioth Cortex',
             'quantity': '2'
         }, {
             'name': 'Lavasioth Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Lavasioth Grandfin',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -43036,20 +43036,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Fire Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Lavasioth Cortex',
             'quantity': '2'
         }, {
             'name': 'Lavasioth Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Lavasioth Grandfin',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '8'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '700',
@@ -43082,20 +43082,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Quick Sheath',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Lavasioth Cortex',
             'quantity': '2'
         }, {
             'name': 'Lavasioth Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Lavasioth Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Gastodon Husk',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -43118,20 +43118,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Heat Guard',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Lavasioth Cortex',
             'quantity': '2'
         }, {
             'name': 'Lavasioth Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Conflagrant Sac',
             'quantity': '6'
-        },{
+        }, {
             'name': 'Monster Slogbone',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -43154,20 +43154,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Recovery Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Lavasioth Cortex',
             'quantity': '2'
         }, {
             'name': 'Lavasioth Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Lavasioth Grandfin',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -43190,20 +43190,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Recovery Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Lavasioth Cortex',
             'quantity': '2'
         }, {
             'name': 'Lavasioth Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Lavasioth Grandfin',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -43226,20 +43226,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Fire Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Lavasioth Cortex',
             'quantity': '2'
         }, {
             'name': 'Lavasioth Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Lavasioth Grandfin',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '8'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '700',
@@ -43272,20 +43272,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Ice Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Legiana Thickhide',
             'quantity': '2'
         }, {
             'name': 'Legiana Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Legiana Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Shamos Shard',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -43308,20 +43308,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Divine Blessing',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Legiana Thickhide',
             'quantity': '2'
         }, {
             'name': 'Legiana Fellwing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Legiana Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Purecrystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -43344,20 +43344,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Evade Window',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Legiana Thickhide',
             'quantity': '2'
         }, {
             'name': 'Legiana Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Legiana Hardclaw',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tough Claw',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -43380,20 +43380,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Windproof',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Legiana Thickhide',
             'quantity': '2'
         }, {
             'name': 'Legiana Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Legiana Tail Webbing+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Cryo Sac',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -43416,20 +43416,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Draw',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Legiana Thickhide',
             'quantity': '2'
         }, {
             'name': 'Legiana Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Legiana Tail Webbing+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Wingdrake Finehide',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '700',
@@ -43459,20 +43459,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Divine Blessing',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Legiana Thickhide',
             'quantity': '2'
         }, {
             'name': 'Legiana Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Legiana Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Shamos Shard',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -43495,20 +43495,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Divine Blessing',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Legiana Thickhide',
             'quantity': '2'
         }, {
             'name': 'Legiana Fellwing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Legiana Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Purecrystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -43531,20 +43531,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Evade Window',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Legiana Thickhide',
             'quantity': '2'
         }, {
             'name': 'Legiana Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Legiana Hardclaw',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tough Claw',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -43567,20 +43567,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Windproof',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Legiana Thickhide',
             'quantity': '2'
         }, {
             'name': 'Legiana Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Legiana Tail Webbing+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Cryo Sac',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -43607,13 +43607,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Legiana Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Legiana Tail Webbing+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Wingdrake Finehide',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '700',
@@ -43646,17 +43646,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Windproof',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Paolumu Thickfur',
             'quantity': '2'
         }, {
             'name': 'Paolumu Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Paolumu Cortex',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -43679,17 +43679,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Artillery',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Paolumu Thickfur',
             'quantity': '2'
         }, {
             'name': 'Paolumu Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -43712,17 +43712,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Windproof',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Paolumu Thickfur',
             'quantity': '2'
         }, {
             'name': 'Paolumu Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Bathycite Ore',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '',
     },
     'lowerBody': {
@@ -43745,17 +43745,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Windproof',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Paolumu Thickfur',
             'quantity': '2'
         }, {
             'name': 'Paolumu Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Paolumu Fellwing',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -43778,17 +43778,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Stamina Surge',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Paolumu Thickfur',
             'quantity': '2'
         }, {
             'name': 'Paolumu Fellwing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Paolumu Cortex',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '650',
@@ -43818,17 +43818,17 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Stamina Surge',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Paolumu Thickfur',
             'quantity': '2'
         }, {
             'name': 'Paolumu Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Paolumu Cortex',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -43855,10 +43855,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Paolumu Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -43881,17 +43881,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Windproof',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Paolumu Thickfur',
             'quantity': '2'
         }, {
             'name': 'Paolumu Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Bathycite Ore',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '',
     },
     'lowerBody': {
@@ -43914,17 +43914,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Windproof',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Paolumu Thickfur',
             'quantity': '2'
         }, {
             'name': 'Paolumu Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Paolumu Fellwing',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -43951,10 +43951,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Paolumu Fellwing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Paolumu Cortex',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '650',
@@ -43987,17 +43987,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Wide-Range',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Nightshade Paolumu Thickfur',
             'quantity': '2'
         }, {
             'name': 'Nightshade Paolumu Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Paolumu Cortex',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -44020,17 +44020,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Maximum Might',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Nightshade Paolumu Thickfur',
             'quantity': '2'
         }, {
             'name': 'Nightshade Paolumu Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Torpor Sac',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -44053,17 +44053,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Sleep Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Nightshade Paolumu Thickfur',
             'quantity': '2'
         }, {
             'name': 'Nightshade Paolumu Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -44086,17 +44086,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Wide-Range',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Nightshade Paolumu Tracker',
             'quantity': '2'
         }, {
             'name': 'Nightshade Paolumu Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Nightshade Paolumu Fellwing',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -44119,17 +44119,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Wide-Range',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Nightshade Paolumu Thickfur',
             'quantity': '2'
         }, {
             'name': 'Nightshade Paolumu Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Paolumu Cortex',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '660',
@@ -44166,10 +44166,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Nightshade Paolumu Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Paolumu Cortex',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -44196,10 +44196,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Nightshade Paolumu Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Torpor Sac',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -44226,10 +44226,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Nightshade Paolumu Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -44256,10 +44256,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Nightshade Paolumu Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Nightshade Paolumu Fellwing',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -44286,10 +44286,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Nightshade Paolumu Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Paolumu Cortex',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '660',
@@ -44362,20 +44362,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Piercing Shots',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Nargacuga Blackfur+',
             'quantity': '2'
         }, {
             'name': 'Nargacuga Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Nargacuga Tailspear',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Steel Gajau Whisker',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -44398,20 +44398,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Speed Crawler',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Nargacuga Blackfur+',
             'quantity': '2'
         }, {
             'name': 'Nargacuga Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Nargacuga Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Gajau Thickhide',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -44434,20 +44434,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Stealth',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Nargacuga Blackfur+',
             'quantity': '2'
         }, {
             'name': 'Nargacuga Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Nargacuga Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Prized Pelt',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -44470,20 +44470,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Stamina Surge',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Nargacuga Blackfur+',
             'quantity': '2'
         }, {
             'name': 'Nargacuga Cutwing+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Nargacuga Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Nargacuga Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -44506,20 +44506,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Peak Performance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Nargacuga Blackfur+',
             'quantity': '2'
         }, {
             'name': 'Nargacuga Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Nargacuga Cutwing+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Vespoid Razorwing',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '700',
@@ -44552,20 +44552,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Piercing Shots',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Nargacuga Blackfur+',
             'quantity': '2'
         }, {
             'name': 'Nargacuga Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Nargacuga Tailspear',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Steel Gajau Whisker',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -44592,13 +44592,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Nargacuga Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Nargacuga Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Gajau Thickhide',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -44618,20 +44618,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Stamina Surge',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Nargacuga Blackfur+',
             'quantity': '2'
         }, {
             'name': 'Nargacuga Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Nargacuga Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Prized Pelt',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -44654,20 +44654,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Stamina Surge',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Nargacuga Blackfur+',
             'quantity': '2'
         }, {
             'name': 'Nargacuga Cutwing+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Nargacuga Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Nargacuga Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -44694,13 +44694,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Nargacuga Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Nargacuga Cutwing+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Vespoid Razorwing',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '700',
@@ -44733,20 +44733,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Eye',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Hard Odogaron Sinew',
             'quantity': '2'
         }, {
             'name': 'Odogaron Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Odogaron Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Warped Bone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -44769,20 +44769,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Bleeding Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Hard Odogaron Sinew',
             'quantity': '2'
         }, {
             'name': 'Odogaron Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Odogaron Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Hornetaur Razorwing',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -44805,20 +44805,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Eye',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Hard Odogaron Sinew',
             'quantity': '2'
         }, {
             'name': 'Odogaron Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Odogaron Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Essence',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -44841,20 +44841,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Speed Sharpening',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Hard Odogaron Sinew',
             'quantity': '2'
         }, {
             'name': 'Odogaron Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Odogaron Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Slogbone',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -44877,20 +44877,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Eye',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Hard Odogaron Sinew',
             'quantity': '2'
         }, {
             'name': 'Odogaron Hardclaw',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Odogaron Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Dragonbone Artifact',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '700',
@@ -44923,20 +44923,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Eye',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Hard Odogaron Sinew',
             'quantity': '2'
         }, {
             'name': 'Odogaron Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Odogaron Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Warped Bone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -44956,20 +44956,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Speed Sharpening',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Hard Odogaron Sinew',
             'quantity': '2'
         }, {
             'name': 'Odogaron Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Odogaron Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Hornetaur Razorwing',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -44992,20 +44992,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Eye',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Hard Odogaron Sinew',
             'quantity': '2'
         }, {
             'name': 'Odogaron Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Odogaron Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Essence',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -45032,13 +45032,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Odogaron Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Odogaron Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Slogbone',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -45061,20 +45061,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Eye',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Hard Odogaron Sinew',
             'quantity': '2'
         }, {
             'name': 'Odogaron Hardclaw',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Odogaron Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Dragonbone Artifact',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '700',
@@ -45111,10 +45111,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Prized Pelt',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Thick Bone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '120',
@@ -45147,17 +45147,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Poison Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pukei-Pukei Cortex',
             'quantity': '2'
         }, {
             'name': 'Pukei-Pukei Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Pukei-Pukei Sac',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -45180,17 +45180,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Peak Performance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pukei-Pukei Cortex',
             'quantity': '2'
         }, {
             'name': 'Pukei-Pukei Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Large Pukei-Pukei Sac',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -45213,20 +45213,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Survival Expert',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pukei-Pukei Cortex',
             'quantity': '2'
         }, {
             'name': 'Pukei-Pukei Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -45249,20 +45249,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Item Prolonger',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pukei-Pukei Cortex',
             'quantity': '2'
         }, {
             'name': 'Pukei-Pukei Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Pukei-Pukei Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Deadly Poison Sac',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -45285,17 +45285,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Poison Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pukei-Pukei Cortex',
             'quantity': '2'
         }, {
             'name': 'Pukei-Pukei Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Large Pukei-Pukei Sac',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '590',
@@ -45332,10 +45332,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Pukei-Pukei Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Pukei-Pukei Sac',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -45350,7 +45350,7 @@ let masterRankArmors = [{
         'vsFire': '0',
         'vsWater': '3',
         'vsThunder': '-3',
-        'vsIce': '0', 
+        'vsIce': '0',
         'vsDragon': '1',
         'skills': [{
             'name': 'Item Prolonger',
@@ -45358,17 +45358,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Peak Performance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pukei-Pukei Cortex',
             'quantity': '2'
         }, {
             'name': 'Pukei-Pukei Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Large Pukei-Pukei Sac',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -45391,20 +45391,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Survival Expert',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pukei-Pukei Cortex',
             'quantity': '2'
         }, {
             'name': 'Pukei-Pukei Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -45427,20 +45427,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Item Prolonger',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pukei-Pukei Cortex',
             'quantity': '2'
         }, {
             'name': 'Pukei-Pukei Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Pukei-Pukei Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Deadly Poison Sac',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -45460,17 +45460,17 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Poison Resistance',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pukei-Pukei Cortex',
             'quantity': '2'
         }, {
             'name': 'Pukei-Pukei Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Large Pukei-Pukei Sac',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '590',
@@ -45503,20 +45503,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Cliffhanger',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pink Rathian Cortex',
             'quantity': '3'
         }, {
             'name': 'Pink Rathian Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Rathian Weave',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Essence',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -45539,20 +45539,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Handicraft',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pink Rathian Cortex',
             'quantity': '3'
         }, {
             'name': 'Pink Rathian Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Rathian Weave',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Shamos Shard',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -45575,20 +45575,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Handicraft',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pink Rathian Cortex',
             'quantity': '2'
         }, {
             'name': 'Pink Rathian Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Rathian Surspike',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Purecrystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -45611,20 +45611,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Poison Resistance',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pink Rathian Cortex',
             'quantity': '2'
         }, {
             'name': 'Pink Rathian Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '4'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -45647,20 +45647,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Windproof',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pink Rathian Cortex',
             'quantity': '2'
         }, {
             'name': 'Pink Rathian Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Rathian Weave',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Conflagrant Sac',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '660',
@@ -45697,13 +45697,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Pink Rathian Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Rathian Weave',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Monster Essence',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -45723,20 +45723,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Tool Specialist',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pink Rathian Cortex',
             'quantity': '3'
         }, {
             'name': 'Pink Rathian Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Rathian Weave',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Shamos Shard',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -45756,20 +45756,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Windproof',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pink Rathian Cortex',
             'quantity': '2'
         }, {
             'name': 'Pink Rathian Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Rathian Sunspike',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Purecrystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -45792,20 +45792,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Poison Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pink Rathian Cortex',
             'quantity': '2'
         }, {
             'name': 'Pink Rathian Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '4'
-        },{
+        }, {
             'name': 'Meldspar Ore',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -45825,20 +45825,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Tool Specialist',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Pink Rathian Cortex',
             'quantity': '2'
         }, {
             'name': 'Pink Rathian Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Rathian Weave',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Conflagrant Sac',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '660',
@@ -45891,20 +45891,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Fire Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rathalos Cortex',
             'quantity': '2'
         }, {
             'name': 'Rathalos Shard',
             'quantity': '4'
-        },{
+        }, {
             'name': 'Rath Wingtalon+',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Rathalos Medulla',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -45927,20 +45927,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Fire Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rathalos Cortex',
             'quantity': '2'
         }, {
             'name': 'Rathalos Fellwing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Rathalos Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Rathalos Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -45963,20 +45963,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Weakness Exploit',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rathalos Cortex',
             'quantity': '2'
         }, {
             'name': 'Rathalos Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Rathalos Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Slogbone',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -45999,20 +45999,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Focus',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rathalos Cortex',
             'quantity': '2'
         }, {
             'name': 'Rathalos Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Rathalos Fellwing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Conflagrant Sac',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -46035,20 +46035,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Attack Boost',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rathalos Cortex',
             'quantity': '2'
         }, {
             'name': 'Rathalos Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Rath Wingtalon+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Conflagrant Sac',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '700',
@@ -46085,13 +46085,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Rathalos Shard',
             'quantity': '4'
-        },{
+        }, {
             'name': 'Rath Wingtalon+',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Rathalos Medulla',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -46118,13 +46118,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Rathalos Fellwing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Rathalos Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Rathalos Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -46151,13 +46151,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Rathalos Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Rathalos Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Slogbone',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -46184,13 +46184,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Rathalos Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Rathalos Fellwing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Conflagrant Sac',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -46213,20 +46213,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Attack Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rathalos Cortex',
             'quantity': '2'
         }, {
             'name': 'Rathalos Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Rath Wingtalon+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Conflagrant Sac',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '700',
@@ -46259,17 +46259,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Poison Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rathian Cortex',
             'quantity': '2'
         }, {
             'name': 'Rathian Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Rathian Weave',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -46292,17 +46292,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Recovery Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rathian Cortex',
             'quantity': '2'
         }, {
             'name': 'Rathian Weave',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -46325,17 +46325,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Botanist',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rathian Cortex',
             'quantity': '2'
         }, {
             'name': 'Rathian Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Rathian Surspike',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -46358,17 +46358,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Health Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rathian Cortex',
             'quantity': '2'
         }, {
             'name': 'Rathian Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -46391,17 +46391,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Poison Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rathian Cortex',
             'quantity': '2'
         }, {
             'name': 'Rathian Weave',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Conflagrant Sac',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '650',
@@ -46434,17 +46434,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Poison Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rathian Cortex',
             'quantity': '2'
         }, {
             'name': 'Rathian Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Rathian Weave',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -46467,17 +46467,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Recovery Up',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rathian Cortex',
             'quantity': '2'
         }, {
             'name': 'Rathian Weave',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -46497,17 +46497,17 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Poison Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rathian Cortex',
             'quantity': '2'
         }, {
             'name': 'Rathian Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Rathian Surspike',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -46530,17 +46530,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Health Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rathian Cortex',
             'quantity': '2'
         }, {
             'name': 'Rathian Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Toughbone',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -46567,10 +46567,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Rathian Weave',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Conflagrant Sac',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '650',
@@ -46603,20 +46603,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Handicraft',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Deviljho Blackpiel',
             'quantity': '3'
         }, {
             'name': 'Deviljho Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Vile Fang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Ebony Odogaron Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'upperBody': {
@@ -46639,20 +46639,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Handicraft',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Deviljho Blackpiel',
             'quantity': '3'
         }, {
             'name': 'Vile Fang',
             'quantity': '4'
-        },{
+        }, {
             'name': 'Deviljho Flail',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Deviljho Crook',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'hands': {
@@ -46675,20 +46675,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Partbreaker',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Deviljho Blackpiel',
             'quantity': '3'
         }, {
             'name': 'Deviljho Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Black Blood',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Monster Solidbone',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '21000',
     },
     'lowerBody': {
@@ -46711,20 +46711,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Handicraft',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Deviljho Blackpiel',
             'quantity': '3'
         }, {
             'name': 'Black Blood',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Deviljho Rapper',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Rathalos Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'legs': {
@@ -46747,20 +46747,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Stamina Thief',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Deviljho Blackpiel',
             'quantity': '3'
         }, {
             'name': 'Deviljho Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Deviljho Ripper',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Dragonbone Artifact',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'totalDefense': '780',
@@ -46797,13 +46797,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Deviljho Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Vile Fang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Ebony Odogaron Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'upperBody': {
@@ -46830,13 +46830,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Vile Fang',
             'quantity': '4'
-        },{
+        }, {
             'name': 'Deviljho Flail',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Deviljho Crook',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'hands': {
@@ -46863,13 +46863,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Deviljho Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Black Blood',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Monster Solidbone',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '21000',
     },
     'lowerBody': {
@@ -46896,13 +46896,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Black Blood',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Deviljho Rapper',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Rathalos Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'legs': {
@@ -46925,20 +46925,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Stamina Thief',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Deviljho Blackpiel',
             'quantity': '3'
         }, {
             'name': 'Deviljho Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Deviljho Ripper',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Dragonbone Artifact',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'totalDefense': '780',
@@ -46991,17 +46991,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Geologist',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Shamos Shard',
             'quantity': '2'
         }, {
             'name': 'Tough Claw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Spiritvein Crystal',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '116',
@@ -47034,17 +47034,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Geologist',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Shamos Shard',
             'quantity': '2'
         }, {
             'name': 'Tough Claw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Spiritvein Crystal',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '116',
@@ -47097,20 +47097,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Evade Extender',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rimed Hide',
             'quantity': '3'
         }, {
             'name': 'Legiana Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Obsidian Icetalon',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Gracium',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '18000',
     },
     'upperBody': {
@@ -47133,20 +47133,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Marathon Runner',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rimed Hide',
             'quantity': '3'
         }, {
             'name': 'Legiana Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Stark Wing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Legiana Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '18000',
     },
     'hands': {
@@ -47169,20 +47169,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Hunger Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rimed Hide',
             'quantity': '3'
         }, {
             'name': 'Legiana Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Stark Wing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Purecrystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '18000',
     },
     'lowerBody': {
@@ -47205,20 +47205,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Focus',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rimed Hide',
             'quantity': '3'
         }, {
             'name': 'Legiana Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Stark Wing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Cryo Sac',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '18000',
     },
     'legs': {
@@ -47241,20 +47241,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Spread/Power Shots',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Rimed Hide',
             'quantity': '3'
         }, {
             'name': 'Legiana Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Obsidian Icetalon',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Frozen Bone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '18000',
     },
     'totalDefense': '730',
@@ -47291,13 +47291,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Legiana Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Obsidian Icetalon',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Gracium',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '18000',
     },
     'upperBody': {
@@ -47324,13 +47324,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Legiana Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Stark Wing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Legiana Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '18000',
     },
     'hands': {
@@ -47357,13 +47357,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Legiana Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Stark Wing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Purecrystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '18000',
     },
     'lowerBody': {
@@ -47390,13 +47390,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Legiana Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Stark Wing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Cryo Sac',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '18000',
     },
     'legs': {
@@ -47423,13 +47423,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Legiana Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Obsidian Icetalon',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Frozen Bone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '18000',
     },
     'totalDefense': '730',
@@ -47462,20 +47462,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Eye',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Teostra Cortex',
             'quantity': '3'
         }, {
             'name': 'Teostra Mane+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Teostra Hardhorn',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Large Elder Dragon Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'upperBody': {
@@ -47498,20 +47498,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Special Ammo Boost',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Teostra Cortex',
             'quantity': '3'
         }, {
             'name': 'Teostra Mane+',
             'quantity': '4'
-        },{
+        }, {
             'name': 'Teostra Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Elder Dragon Bone',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '21000',
     },
     'hands': {
@@ -47534,20 +47534,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Heat Guard',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Teostra Cortex',
             'quantity': '3'
         }, {
             'name': 'Hellfire Shard',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Teostra Hardhorn',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Fulgur Anjanath Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'lowerBody': {
@@ -47570,20 +47570,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Weakness Exploit',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Teostra Cortex',
             'quantity': '3'
         }, {
             'name': 'Hellfire Shard',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Teostra Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Pure Dragon Blood',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '21000',
     },
     'totalDefense': '780',
@@ -47616,20 +47616,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Eye',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Teostra Cortex',
             'quantity': '3'
         }, {
             'name': 'Teostra Mane+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Teostra Hardhorn',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Large Elder Dragon Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'upperBody': {
@@ -47649,20 +47649,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Latent Power',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Teostra Cortex',
             'quantity': '3'
         }, {
             'name': 'Teostra Mane+',
             'quantity': '4'
-        },{
+        }, {
             'name': 'Teostra Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Elder Dragon Bone',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '21000',
     },
     'hands': {
@@ -47685,20 +47685,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Heat Guard',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Teostra Cortex',
             'quantity': '3'
         }, {
             'name': 'Hellfire Shard',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Teostra Hardhorn',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Fulgur Anjanath Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'lowerBody': {
@@ -47725,13 +47725,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Hellfire Shard',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Teostra Fellwing',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Pure Dragon Blood',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '21000',
     },
     'legs': {
@@ -47754,20 +47754,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Blast Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Teostra Cortex',
             'quantity': '3'
         }, {
             'name': 'Fire Dragon Hardclaw',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Teostra Fellwing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Anjanath Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'totalDefense': '780',
@@ -47800,20 +47800,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Earplugs',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tigrex Cortex',
             'quantity': '2'
         }, {
             'name': 'Tigrex Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tigrex Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -47836,20 +47836,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Free Meal',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tigrex Cortex',
             'quantity': '2'
         }, {
             'name': 'Tigrex Hardclaw',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tigrex Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Vespoid Razorwing',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -47872,20 +47872,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Attack Boost',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tigrex Cortex',
             'quantity': '2'
         }, {
             'name': 'Tigrex Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tigrex Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tough Claw',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -47908,20 +47908,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Free Meal',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tigrex Cortex',
             'quantity': '2'
         }, {
             'name': 'Tigrex Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tigrex Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Thick Bone',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -47944,20 +47944,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Free Meal',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tigrex Cortex',
             'quantity': '2'
         }, {
             'name': 'Tigrex Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tigrex Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Slogbone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '710',
@@ -47990,20 +47990,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Earplugs',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tigrex Cortex',
             'quantity': '2'
         }, {
             'name': 'Tigrex Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tigrex Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -48030,13 +48030,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Tigrex Hardclaw',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tigrex Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Vespoid Razorwing',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -48059,20 +48059,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Attack Boost',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tigrex Cortex',
             'quantity': '2'
         }, {
             'name': 'Tigrex Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tigrex Hardfang',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tough Claw',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -48099,13 +48099,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Tigrex Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tigrex Hardfang',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Thick Bone',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -48132,13 +48132,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Tigrex Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Tigrex Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Slogbone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '710',
@@ -48171,20 +48171,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Stun Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tzitzi-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Tzitzi-Ya-Ku Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tzitzi-Ya-Ku Photomembrane',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Shamos Shard',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -48207,20 +48207,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Water Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tzitzi-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Tzitzi-Ya-Ku Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tzitzi-Ya-Ku Photomembrane',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Shamos Shard',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -48243,20 +48243,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Wide-Range',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tzitzi-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Tzitzi-Ya-Ku Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tzitzi-Ya-Ku Photomembrane',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Bathycite Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -48279,20 +48279,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Water Attack',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tzitzi-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Tzitzi-Ya-Ku Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tzitzi-Ya-Ku Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Shamos Shard',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -48315,20 +48315,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Wide-Range',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tzitzi-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Tzitzi-Ya-Ku Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tzitzi-Ya-Ku Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Bathycite Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '580',
@@ -48365,13 +48365,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Tzitzi-Ya-Ku Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tzitzi-Ya-Ku Photomembrane',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Shamos Shard',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -48394,20 +48394,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Water Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tzitzi-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Tzitzi-Ya-Ku Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tzitzi-Ya-Ku Photomembrane',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Shamos Shard',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -48430,20 +48430,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Wide-Range',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tzitzi-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Tzitzi-Ya-Ku Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tzitzi-Ya-Ku Photomembrane',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Bathycite Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -48470,13 +48470,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Tzitzi-Ya-Ku Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tzitzi-Ya-Ku Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Shamos Shard',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -48499,20 +48499,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Wide-Range',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Tzitzi-Ya-Ku Thickhide',
             'quantity': '2'
         }, {
             'name': 'Tzitzi-Ya-Ku Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Tzitzi-Ya-Ku Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Bathycite Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '580',
@@ -48545,20 +48545,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Flinch Free',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Uragaan Cortex',
             'quantity': '2'
         }, {
             'name': 'Uragaan Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Uragaan Scute+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Firecell Stone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -48581,20 +48581,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Blast Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Uragaan Cortex',
             'quantity': '2'
         }, {
             'name': 'Uragaan Jaw+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Uragaan Scute+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -48617,20 +48617,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Iron Skin',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Uragaan Cortex',
             'quantity': '2'
         }, {
             'name': 'Uragaan Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Uragaan Scute+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Lava Nugget',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -48653,20 +48653,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Guard',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Uragaan Cortex',
             'quantity': '2'
         }, {
             'name': 'Uragaan Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Uragaan Jaw+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Slogbone',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -48689,20 +48689,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Offensive Guard',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Uragaan Cortex',
             'quantity': '2'
         }, {
             'name': 'Uragaan Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Uragaan Marrow',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Thick Bone',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '720',
@@ -48739,13 +48739,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Uragaan Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Uragaan Scute+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Firecell Stone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '15000',
     },
     'upperBody': {
@@ -48772,13 +48772,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Uragaan Jaw+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Uragaan Scute+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Wyvern Gem',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '15000',
     },
     'hands': {
@@ -48801,20 +48801,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Iron Skin',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Uragaan Cortex',
             'quantity': '2'
         }, {
             'name': 'Uragaan Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Uragaan Scute+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Lava Nugget',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'lowerBody': {
@@ -48841,13 +48841,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Uragaan Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Uragaan Jaw+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Monster Slogbone',
             'quantity': '4'
-        },],
+        }, ],
         'cost': '15000',
     },
     'legs': {
@@ -48874,13 +48874,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Uragaan Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Uragaan Marrow',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Thick Bone',
             'quantity': '5'
-        },],
+        }, ],
         'cost': '15000',
     },
     'totalDefense': '720',
@@ -48913,20 +48913,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Coalescence',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Velkhana Cortex',
             'quantity': '3'
         }, {
             'name': 'Crystal Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Velkhana Crownhorn',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Elder Dragon Bone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '21000',
     },
     'upperBody': {
@@ -48949,20 +48949,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Critical Draw',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Velkhana Cortex',
             'quantity': '3'
         }, {
             'name': 'Velkhana Fellwing',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Velkhana Hardclaw',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Legiana Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'hands': {
@@ -48985,20 +48985,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Flinch Free',
             'level': '2'
-        },],
+        }, ],
         'materials': [{
             'name': 'Velkhana Cortex',
             'quantity': '3'
         }, {
             'name': 'Velkhana Fellwing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Velkhana Crownhorn',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Velkhana Crystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'lowerBody': {
@@ -49021,20 +49021,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Coalescence',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Velkhana Cortex',
             'quantity': '3'
         }, {
             'name': 'Crystal Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Velkhana Hardclaw',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Pure Dragon Blood',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '21000',
     },
     'legs': {
@@ -49057,20 +49057,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Coalescence',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Velkhana Cortex',
             'quantity': '3'
         }, {
             'name': 'Crystal Shard',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Velkhana Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Odogaron Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'totalDefense': '770',
@@ -49107,13 +49107,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Crystal Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Velkhana Crownhorn',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Large Elder Dragon Bone',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '21000',
     },
     'upperBody': {
@@ -49140,13 +49140,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Velkhana Fellwing',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Velkhana Hardclaw',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Legiana Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'hands': {
@@ -49169,20 +49169,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Flinch Free',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Velkhana Cortex',
             'quantity': '3'
         }, {
             'name': 'Velkhana Fellwing',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Velkhana Crownhorn',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Velkhana Crystal',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'lowerBody': {
@@ -49209,13 +49209,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Crystal Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Velkhana Hardclaw',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Pure Dragon Blood',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '21000',
     },
     'legs': {
@@ -49242,13 +49242,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Crystal Shard',
             'quantity': '3'
-        },{
+        }, {
             'name': 'Velkhana Lash',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Odogaron Mantle',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '21000',
     },
     'totalDefense': '770',
@@ -49281,17 +49281,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Paralysis Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Vesopid Razorwing',
             'quantity': '1'
         }, {
             'name': 'Monster Essence',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Thick BOne',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -49318,10 +49318,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Monster Essence',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Thick Bone',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -49344,17 +49344,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Quick Sheath',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Vespoid Razorwing',
             'quantity': '1'
         }, {
             'name': 'Monster Essence',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Thick Bone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -49377,17 +49377,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Quick Sheath',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Vespoid Razorwing',
             'quantity': '1'
         }, {
             'name': 'Monster Essence',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Thick Bone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -49410,17 +49410,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Paralysis Resistance',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Vespoid Razorwing',
             'quantity': '1'
         }, {
             'name': 'Monster Essence',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Thick Bone',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '580',
@@ -49457,10 +49457,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Monster Essence',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Thick BOne',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'upperBody': {
@@ -49487,10 +49487,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Monster Essence',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Thick Bone',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'hands': {
@@ -49517,10 +49517,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Monster Essence',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Thick Bone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'lowerBody': {
@@ -49543,17 +49543,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Quick Sheath',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Vespoid Razorwing',
             'quantity': '1'
         }, {
             'name': 'Monster Essence',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Thick Bone',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'legs': {
@@ -49580,10 +49580,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Monster Essence',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Thick Bone',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '580',
@@ -49616,20 +49616,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Paralysis Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Viper Tobi-Kadachi Thickfur',
             'quantity': '3'
         }, {
             'name': 'Viper Tobi-Kadachi Thorn',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Viper Tobi-Kadachi Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Wulg Thickfur',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -49652,17 +49652,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Evade Extender',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Viper Tobi-Kadachi Thickfur',
             'quantity': '2'
         }, {
             'name': 'Viper Tobi-Kadachi Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Viper Tobi-Kadachi Membrane+',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -49685,20 +49685,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Evade Window',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Viper Tobi-Kadachi Thickfur',
             'quantity': '2'
         }, {
             'name': 'Viper Tobi-Kadachi Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Viper Tobi-Kadachi Hardclaw',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Deadly Poison Sac',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -49721,20 +49721,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Quick Sheath',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Viper Tobi-Kadachi Thickfur',
             'quantity': '2'
         }, {
             'name': 'Viper Tobi-Kadachi Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Viper Tobi-Kadachi Membrane+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Deadly Poison Sac',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -49757,20 +49757,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Constitution',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Viper Tobi-Kadachi Thickfur',
             'quantity': '2'
         }, {
             'name': 'Viper Tobi-Kadachi Membrane+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Viper Tobi-Kadachi Thorn',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Wulg Thickfur',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '660',
@@ -49803,20 +49803,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Paralysis Attack',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Viper Tobi-Kadachi Thickfur',
             'quantity': '3'
         }, {
             'name': 'Viper Tobi-Kadachi Thorn',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Viper Tobi-Kadachi Hardclaw',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Wulg Thickfur',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'upperBody': {
@@ -49843,10 +49843,10 @@ let masterRankArmors = [{
         }, {
             'name': 'Viper Tobi-Kadachi Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Viper Tobi-Kadachi Membrane+',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'hands': {
@@ -49869,20 +49869,20 @@ let masterRankArmors = [{
         }, {
             'name': 'Evade Window',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Viper Tobi-Kadachi Thickfur',
             'quantity': '2'
         }, {
             'name': 'Viper Tobi-Kadachi Shard',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Viper Tobi-Kadachi Hardclaw',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Deadly Poison Sac',
             'quantity': '1'
-        },],
+        }, ],
         'cost': '12000',
     },
     'lowerBody': {
@@ -49902,20 +49902,20 @@ let masterRankArmors = [{
         'skills': [{
             'name': 'Constitution',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Viper Tobi-Kadachi Thickfur',
             'quantity': '2'
         }, {
             'name': 'Viper Tobi-Kadachi Shard',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Viper Tobi-Kadachi Membrane+',
             'quantity': '2'
-        },{
+        }, {
             'name': 'Deadly Poison Sac',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '12000',
     },
     'legs': {
@@ -49942,13 +49942,13 @@ let masterRankArmors = [{
         }, {
             'name': 'Viper Tobi-Kadachi Membrane+',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Viper Tobi-Kadachi Thorn',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Wulg Thickfur',
             'quantity': '3'
-        },],
+        }, ],
         'cost': '12000',
     },
     'totalDefense': '660',
@@ -49981,17 +49981,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Master Mounter',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Wulg Thickfur',
             'quantity': '3'
         }, {
             'name': 'Wingdrake Finehide',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '116',
@@ -50024,17 +50024,17 @@ let masterRankArmors = [{
         }, {
             'name': 'Master Mounter',
             'level': '1'
-        },],
+        }, ],
         'materials': [{
             'name': 'Wulg Thickfur',
             'quantity': '3'
         }, {
             'name': 'Wingdrake Finehide',
             'quantity': '1'
-        },{
+        }, {
             'name': 'Eltalite Ore',
             'quantity': '2'
-        },],
+        }, ],
         'cost': '9000',
     },
     'totalDefense': '116',

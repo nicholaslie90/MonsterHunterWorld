@@ -308,7 +308,7 @@ export class LoadoutItem extends React.PureComponent {
 
 
         //Evaluate armors
-        let armors = _.concat(database.lowRankArmors, database.highRankArmors);
+        let armors = _.concat(database.lowRankArmors, database.highRankArmors, database.masterRankArmors);
         let head = null;
         let headComponent;
         let upperBody = null;

@@ -39,6 +39,17 @@ let skills = [{
         '1': 'skill-airborne-1'
     }
 }, {
+    'name': 'Aquatic/Polar Mobility',
+    'translationKey': 'skill-aquatic-expert',
+    'icon': require('./assets/skills/aquatic_expert.png'),
+    'description': 'skill-aquatic-expert-description',
+    'maxLevel': '3',
+    'levels': {
+        '1': 'skill-aquatic-expert-1',
+        '2': 'skill-aquatic-expert-2',
+        '3': 'skill-aquatic-expert-3'
+    }
+}, {
     'name': 'Artillery',
     'translationKey': 'skill-artillery',
     'icon': require('./assets/skills/artillery.png'),
@@ -63,17 +74,6 @@ let skills = [{
         '5': 'skill-attack-boost-5',
         '6': 'skill-attack-boost-6',
         '7': 'skill-attack-boost-7',
-    }
-}, {
-    'name': 'Aquatic Expert',
-    'translationKey': 'skill-aquatic-expert',
-    'icon': require('./assets/skills/aquatic_expert.png'),
-    'description': 'skill-aquatic-expert-description',
-    'maxLevel': '3',
-    'levels': {
-        '1': 'skill-aquatic-expert-1',
-        '2': 'skill-aquatic-expert-2',
-        '3': 'skill-aquatic-expert-3'
     }
 }, {
     'name': 'BBQ Master',
@@ -896,6 +896,17 @@ let skills = [{
         '1': 'skill-nullify-wind-pressure-1'
     }
 }, {
+    'name': 'Offensive Guard',
+    'translationKey': 'skill-offensive-guard',
+    'icon': require('./assets/skills/ice_resistance.png'),
+    'description': 'skill-offensive-guard-description',
+    'maxLevel': '3',
+    'levels': {
+        '1': 'skill-offensive-guard-1',
+        '2': 'skill-offensive-guard-2',
+        '3': 'skill-offensive-guard-3',
+    }
+}, {
     'name': 'Palico Rally',
     'translationKey': 'skill-palico-rally',
     'icon': require('./assets/skills/palico_rally.png'),
@@ -1234,17 +1245,6 @@ let skills = [{
         '3': 'skill-speed-sharpening-3',
     }
 }, {
-    'name': 'Sporepuff Expert',
-    'translationKey': 'skill-sporepuff-expert',
-    'icon': require('./assets/skills/sporepuff_expert.png'),
-    'description': 'skill-sporepuff-expert-description',
-    'maxLevel': '3',
-    'levels': {
-        '1': 'skill-sporepuff-expert-1',
-        '2': 'skill-sporepuff-expert-2',
-        '3': 'skill-sporepuff-expert-3',
-    }
-}, {
     'name': 'Spread/Power Shots',
     'translationKey': 'skill-spread-power-shots',
     'icon': require('./assets/skills/spread_power_shots.png'),
@@ -1314,6 +1314,17 @@ let skills = [{
     'maxLevel': '3',
     'levels': {
         '1': 'skill-super-recovery-1',
+    }
+}, {
+    'name': 'Survival Expert',
+    'translationKey': 'skill-sporepuff-expert',
+    'icon': require('./assets/skills/sporepuff_expert.png'),
+    'description': 'skill-sporepuff-expert-description',
+    'maxLevel': '3',
+    'levels': {
+        '1': 'skill-sporepuff-expert-1',
+        '2': 'skill-sporepuff-expert-2',
+        '3': 'skill-sporepuff-expert-3',
     }
 }, {
     'name': 'Thunder Attack',

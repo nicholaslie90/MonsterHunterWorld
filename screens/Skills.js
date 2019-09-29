@@ -49,7 +49,7 @@ export class SkillItem extends React.PureComponent {
             level = <Text style={styles.item}> Lv. {this.props.level}</Text>;
 
             if (this.props.item != null) {
-                let skillBoxes = []
+                let skillBoxes = [];
                 for (let index = 0; index < this.props.level; index++) {
                     if (index === 0) {
                         skillBoxes.push(<View key={index} style={{ width: 8, height: 8, marginRight: 4, marginLeft: 12, borderColor: '#896D2F', backgroundColor: '#C8AD59', borderWidth: 1 }}></View>)
@@ -67,6 +67,23 @@ export class SkillItem extends React.PureComponent {
             }
         }
 
+        let levels = null;
+        if (item !== undefined && item.levels !== undefined){
+            levels = <Text style={[globalStyles.subtitle, themeText, { padding: 10 }]}>{
+                Object.keys(item.levels).map((key) => {
+                    let bold = [globalStyles.subtitle, { fontWeight: 'bold' }];
+                    if (level !== null && parseInt(key) <= parseInt(this.props.level)) {
+                        return <Text key={item.levels[key]}
+                                     style={[bold, themeText]}>{key}: {I18n.t(item.levels[key]).Translation}{"\n"}</Text>;
+                    } else {
+                        return <Text key={item.levels[key]}
+                                     style={[globalStyles.subtitle, themeText]}>{key}: {I18n.t(item.levels[key]).Translation}{"\n"}</Text>;
+                    }
+                })
+            }
+            </Text>;
+        }
+
         return <MHWTouchable onPress={() =>
             this.props.navigation.navigate('SkillDetail', {
                 skill: item,
@@ -77,19 +94,7 @@ export class SkillItem extends React.PureComponent {
                     <Text style={[styles.item, themeText]}>{I18n.t(item.translationKey).Translation}{level}</Text>
                     {skillLevelBoxes}
                     <Text style={[globalStyles.subtitle, themeText, { padding: 10 }]}>{I18n.t(item.description).Translation}</Text>
-                    <Text style={[globalStyles.subtitle, themeText, { padding: 10 }]}>{
-                        Object.keys(item.levels).map((key) => {
-                            let bold = [globalStyles.subtitle, { fontWeight: 'bold' }];
-                            if (level !== null && parseInt(key) <= parseInt(this.props.level)) {
-                                return <Text key={item.levels[key]}
-                                    style={[bold, themeText]}>{key}: {I18n.t(item.levels[key]).Translation}{"\n"}</Text>;
-                            } else {
-                                return <Text key={item.levels[key]}
-                                    style={[globalStyles.subtitle, themeText]}>{key}: {I18n.t(item.levels[key]).Translation}{"\n"}</Text>;
-                            }
-                        })
-                    }
-                    </Text>
+                    {levels}
                 </View>
             </View>} />;
     }
