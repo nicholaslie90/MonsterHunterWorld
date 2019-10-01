@@ -11,7 +11,7 @@ import { craftingList } from './database-crafting-list';
 import { lowRankPalicoArmors, highRankPalicoArmors, palicoGadgets, palicoArmorSets } from './database-palico';
 import { skills } from './database-skills';
 import { kinsectTrees } from './database-kinsect-trees';
-import { decorationsJewel1, decorationsJewel2, decorationsJewel3 } from './database-decorations';
+import { decorationsJewel1, decorationsJewel2, decorationsJewel3, decorationsJewel4 } from './database-decorations';
 import { charms } from './database-charms';
 import { endemicLife } from './database-endemic-life';
 import { items } from './database-items';
@@ -49,6 +49,7 @@ export {
     decorationsJewel1,
     decorationsJewel2,
     decorationsJewel3,
+    decorationsJewel4,
     craftingList,
     lowRankPalicoArmors,
     highRankPalicoArmors,
