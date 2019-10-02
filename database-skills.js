@@ -224,6 +224,26 @@ let skills = [{
         '1': 'skill-cliffhanger-1'
     }
 }, {
+    'name': 'Coalescence',
+    'translationKey': 'skill-coalescence',
+    'icon': require('./assets/skills/coalescence.png'),
+    'description': 'skill-coalescence-description',
+    'maxLevel': '3',
+    'levels': {
+        '1': 'skill-coalescence-1',
+        '2': 'skill-coalescence-2',
+        '3': 'skill-coalescence-3',
+    }
+}, {
+    'name': 'Coldproof',
+    'translationKey': 'skill-coldproof',
+    'icon': require('./assets/skills/foragers_luck.png'),
+    'description': 'skill-coldproof-description',
+    'maxLevel': '1',
+    'levels': {
+        '1': 'skill-coldproof-1',
+    }
+}, {
     'name': 'Constitution',
     'translationKey': 'skill-constitution',
     'icon': require('./assets/skills/constitution.png'),
