@@ -16961,6 +16961,28 @@ let largeMonsters = [{
         'sever': '350'
     }, ],
 }, {
+    'name': 'Rajang',
+    'translationKey': 'monster-rajang',
+    'icon': require('./assets/monsters/rajang.png'),
+    'photo': require('./assets/monsters/rajang-large.png'),
+    'type': 'Fanged Beasts',
+    'location': ['Guiding Lands'],
+    'weakness': require('./assets/monsters/weaknesses/rajang.jpg'),
+    'resistances': ['Thunder', 'Fire', 'Dragon'],
+    'weaknessFire': '0',
+    'weaknessWater': '1',
+    'weaknessThunder': '0', 
+    'weaknessIce': '3',
+    'weaknessDragon': '0',
+    'ailmentPoison': '1',
+    'ailmentSleep': '1',
+    'ailmentParalysis': '1',
+    'ailmentBlast': '2',
+    'ailmentStun': '1',
+    'severable': true,
+    'attackAilment': ['Thunderblight'],
+    'attackElement': ['Thunder']
+},{
     'name': 'Rathalos',
     'translationKey': 'monster-rathalos',
     'icon': require('./assets/monsters/rathalos.png'),

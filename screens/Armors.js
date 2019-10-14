@@ -398,7 +398,7 @@ export default class ArmorsScreen extends React.PureComponent {
                 selectedItemStyle={{width: windowWidth / 3}}
                 selectedItemTextStyle={globalStyles.tabIndicatorSelectedText}
                 selectedBorderStyle={globalStyles.tabSelectedBorderStyle}
-                titles={[I18n.t('armors-master-rank').Translation, I18n.t('armors-low-rank').Translation, I18n.t('armors-high-rank').Translation, I18n.t('armors-arena-items').Translation]}
+                titles={[I18n.t('armors-master-rank').Translation, I18n.t('armors-high-rank').Translation, I18n.t('armors-low-rank').Translation, I18n.t('armors-arena-items').Translation]}
             />
         )
     }

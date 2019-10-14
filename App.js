@@ -65,7 +65,7 @@ import QuestsFilterScreen from "./screens/QuestsFilter";
 import WeaponsFilterScreen from "./screens/WeaponsFilter";
 
 //Global configs
-console.disableYellowBox = !__DEV__;
+console.disableYellowBox = true;
 
 const RootStack = createStackNavigator({
         Home: {
@@ -98,7 +98,7 @@ const RootStack = createStackNavigator({
         Weapons: {
             screen: WeaponsScreen
         },
-        WeaponsFilter: {
+         WeaponsFilter: {
             screen: WeaponsFilterScreen,
         },
         WeaponDetail: {

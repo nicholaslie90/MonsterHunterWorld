@@ -2756,13 +2756,15 @@ export class LoadoutChooseHeadModal extends React.PureComponent {
     _searchHeads(text) {
         if (text !== undefined && text.length > 0) {
             let filteredHeadsByName = _.filter(this._prepareInitialData(), function (head) {
-                if (I18n.t(head.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                if (I18n.t(head.translationKey).Translation !== undefined &&
+                    I18n.t(head.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                     return head;
                 }
             });
 
             let matchedSkills = _.filter(database.skills, (skill) => {
-                if (I18n.t(skill.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                if (I18n.t(skill.translationKey).Translation !== undefined &&
+                    I18n.t(skill.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                     return skill;
                 }
             });
@@ -2971,13 +2973,15 @@ export class LoadoutChooseUpperBodyModal extends React.PureComponent {
     _searchUpperBodies(text) {
         if (text !== undefined && text.length > 0) {
             let filteredUpperBodiesByName = _.filter(this._prepareInitialData(), function (upperBody) {
-                if (I18n.t(upperBody.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                if (I18n.t(upperBody.translationKey).Translation !== undefined &&
+                    I18n.t(upperBody.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                     return upperBody;
                 }
             });
 
             let matchedSkills = _.filter(database.skills, (skill) => {
-                if (I18n.t(skill.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                if (I18n.t(skill.translationKey).Translation !== undefined &&
+                    I18n.t(skill.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                     return skill;
                 }
             });
@@ -3195,13 +3199,15 @@ export class LoadoutChooseHandsModal extends React.PureComponent {
     _searchHands(text) {
         if (text !== undefined && text.length > 0) {
             let filteredHandsByName = _.filter(this._prepareInitialData(), function (hand) {
-                if (I18n.t(hand.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                if (I18n.t(hand.translationKey).Translation !== undefined &&
+                    I18n.t(hand.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                     return hand;
                 }
             });
 
             let matchedSkills = _.filter(database.skills, (skill) => {
-                if (I18n.t(skill.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                if (I18n.t(skill.translationKey).Translation !== undefined &&
+                    I18n.t(skill.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                     return skill;
                 }
             });
@@ -3411,13 +3417,15 @@ export class LoadoutChooseLowerBodyModal extends React.PureComponent {
     _searchLowerBodies(text) {
         if (text !== undefined && text.length > 0) {
             let filteredLowerBodiesByName = _.filter(this._prepareInitialData(), function (lowerBody) {
-                if (I18n.t(lowerBody.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                if (I18n.t(lowerBody.translationKey).Translation !== undefined &&
+                    I18n.t(lowerBody.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                     return lowerBody;
                 }
             });
 
             let matchedSkills = _.filter(database.skills, (skill) => {
-                if (I18n.t(skill.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                if (I18n.t(skill.translationKey).Translation !== undefined &&
+                    I18n.t(skill.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                     return skill;
                 }
             });
@@ -3629,13 +3637,15 @@ export class LoadoutChooseLegsModal extends React.PureComponent {
     _searchLegs(text) {
         if (text !== undefined && text.length > 0) {
             let filteredLegsByName = _.filter(this._prepareInitialData(), function (leg) {
-                if (I18n.t(leg.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                if (I18n.t(leg.translationKey).Translation !== undefined &&
+                    I18n.t(leg.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                     return leg;
                 }
             });
 
             let matchedSkills = _.filter(database.skills, (skill) => {
-                if (I18n.t(skill.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                if (I18n.t(skill.translationKey).Translation !== undefined &&
+                    I18n.t(skill.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                     return skill;
                 }
             });
@@ -3845,7 +3855,8 @@ export class LoadoutChooseCharmModal extends React.PureComponent {
             });
 
             let matchedSkills = _.filter(database.skills, (skill) => {
-                if (I18n.t(skill.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                if (I18n.t(skill.translationKey).Translation !== undefined &&
+                    I18n.t(skill.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                     return skill;
                 }
             });
@@ -4270,7 +4281,8 @@ export class LoadoutChooseDecorationModal extends React.PureComponent {
             });
 
             let matchedSkills = _.filter(database.skills, (skill) => {
-                if (I18n.t(skill.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
+                if (I18n.t(skill.translationKey).Translation !== undefined &&
+                    I18n.t(skill.translationKey).Translation.toLowerCase().match(text.toLowerCase())) {
                     return skill;
                 }
             });

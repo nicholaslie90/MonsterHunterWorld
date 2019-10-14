@@ -40269,6 +40269,748 @@ let masterRankArmors = [{
     'totalIceDefense': '-5',
     'totalDragonDefense': '-5',
 }, {
+    'name': 'Golden Lune ⍺+',
+    'translationKey': 'armor-mr-golden-lune-alpha-plus',
+    'icon': require('./assets/armors/sets/golden_lune_alpha_plus.png'),
+    'head': {
+        'name': 'Golden Lunehelm ⍺+',
+        'translationKey': 'armor-mr-golden-lunehelm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_lunehelm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '162',
+        'slots': '2 2 -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '-4',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Health Boost',
+            'level': '2'
+        }, {
+            'name': 'Poison Attack',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Gold Rathian Cortex',
+            'quantity': '4'
+        }, {
+            'name': 'Gold Rathian Shard',
+            'quantity': '2'
+        },{
+            'name': 'Rath Gleam',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Gem',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'upperBody': {
+        'name': 'Golden Lunemail ⍺+',
+        'translationKey': 'armor-mr-golden-lunemail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_lunemail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '162',
+        'slots': '3 1 -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '-4',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Divine Blessing',
+            'level': '2'
+        }, {
+            'name': 'Resentment',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Gold Rathian Cortex',
+            'quantity': '4'
+        }, {
+            'name': 'Gold Rathian Shard',
+            'quantity': '2'
+        },{
+            'name': 'Gold Rathian Surspike',
+            'quantity': '1'
+        },{
+            'name': 'Dragonvein Solidbone',
+            'quantity': '8'
+        },],
+        'cost': '24000',
+    },
+    'hands': {
+        'name': 'Golden Lunebraces ⍺+',
+        'translationKey': 'armor-mr-golden-lunebraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_lunebraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '164',
+        'slots': '2 - -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '-4',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Resentment',
+            'level': '2'
+        }, {
+            'name': 'Poison Attack',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Gold Rathian Cortex',
+            'quantity': '4'
+        }, {
+            'name': 'Gold Rathian Shard',
+            'quantity': '2'
+        },{
+            'name': 'Rath Gleam',
+            'quantity': '2'
+        },{
+            'name': 'Rathian Mantle',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'lowerBody': {
+        'name': 'Golden Lunecoil ⍺+',
+        'translationKey': 'armor-mr-golden-lunecoil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_lunecoil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '162',
+        'slots': '2 2 -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '-4',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Divine Blessing',
+            'level': '3'
+        }, {
+            'name': 'Health Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Gold Rathian Cortex',
+            'quantity': '4'
+        }, {
+            'name': 'Gold Rathian Shard',
+            'quantity': '2'
+        },{
+            'name': 'Gold Rathian Surspike',
+            'quantity': '2'
+        },{
+            'name': 'Guiding Wasteland Crystal',
+            'quantity': '3'
+        },],
+        'cost': '24000',
+    },
+    'legs': {
+        'name': 'Golden Lunegreaves ⍺+',
+        'translationKey': 'armor-mr-golden-lunegreaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_lunegreaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '162',
+        'slots': '1 - -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '-4',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Weakness Exploit',
+            'level': '2'
+        }, {
+            'name': 'Spread/Power Shots',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Gold Rathian Cortex',
+            'quantity': '4'
+        }, {
+            'name': 'Gold Rathian Shard',
+            'quantity': '2'
+        },{
+            'name': 'Rath Gleam',
+            'quantity': '3'
+        },{
+            'name': 'Guiding Wasteland Dragonbone',
+            'quantity': '3'
+        },],
+        'cost': '24000',
+    },
+    'totalDefense': '810',
+    'totalFireDefense': '15',
+    'totalWaterDefense': '-10',
+    'totalThunderDefense': '-20',
+    'totalIceDefense': '0',
+    'totalDragonDefense': '20',
+}, {
+    'name': 'Golden Lune ß+',
+    'translationKey': 'armor-mr-golden-lune-beta-plus',
+    'icon': require('./assets/armors/sets/golden_lune_beta_plus.png'),
+    'head': {
+        'name': 'Golden Lunehelm ß+',
+        'translationKey': 'armor-mr-golden-lunehelm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_lunehelm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '162',
+        'slots': '4 2 -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '-4',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Health Boost',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Gold Rathian Cortex',
+            'quantity': '4'
+        }, {
+            'name': 'Gold Rathian Shard',
+            'quantity': '2'
+        },{
+            'name': 'Rath Gleam',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Gem',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'upperBody': {
+        'name': 'Golden Lunemail ß+',
+        'translationKey': 'armor-mr-golden-lunemail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_lunemail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '162',
+        'slots': '4 2 1',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '-4',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Divine Blessing',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Gold Rathian Cortex',
+            'quantity': '4'
+        }, {
+            'name': 'Gold Rathian Shard',
+            'quantity': '2'
+        },{
+            'name': 'Gold Rathian Surspike',
+            'quantity': '1'
+        },{
+            'name': 'Dragonvein Solidbone',
+            'quantity': '8'
+        },],
+        'cost': '24000',
+    },
+    'hands': {
+        'name': 'Golden Lunebraces ß+',
+        'translationKey': 'armor-mr-golden-lunebraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_lunebraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '164',
+        'slots': '4 2 -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '-4',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Resentment',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Gold Rathian Cortex',
+            'quantity': '4'
+        }, {
+            'name': 'Gold Rathian Shard',
+            'quantity': '2'
+        },{
+            'name': 'Rath Gleam',
+            'quantity': '2'
+        },{
+            'name': 'Rathian Mantle',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'lowerBody': {
+        'name': 'Golden Lunecoil ß+',
+        'translationKey': 'armor-mr-golden-lunecoil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_lunecoil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '162',
+        'slots': '2 2 -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '-4',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Divine Blessing',
+            'level': '3'
+        }, {
+            'name': 'Health Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Gold Rathian Cortex',
+            'quantity': '4'
+        }, {
+            'name': 'Gold Rathian Shard',
+            'quantity': '2'
+        },{
+            'name': 'Gold Rathian Surspike',
+            'quantity': '2'
+        },{
+            'name': 'Guiding Wasteland Crystal',
+            'quantity': '3'
+        },],
+        'cost': '24000',
+    },
+    'legs': {
+        'name': 'Golden Lunegreaves ß+',
+        'translationKey': 'armor-mr-golden-lunegreaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_lunegreaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '162',
+        'slots': '4 - -',
+        'vsFire': '3',
+        'vsWater': '-2',
+        'vsThunder': '-4',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Weakness Exploit',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Gold Rathian Cortex',
+            'quantity': '4'
+        }, {
+            'name': 'Gold Rathian Shard',
+            'quantity': '2'
+        },{
+            'name': 'Rath Gleam',
+            'quantity': '3'
+        },{
+            'name': 'Guiding Wasteland Dragonbone',
+            'quantity': '3'
+        },],
+        'cost': '24000',
+    },
+    'totalDefense': '810',
+    'totalFireDefense': '15',
+    'totalWaterDefense': '-10',
+    'totalThunderDefense': '-20',
+    'totalIceDefense': '0',
+    'totalDragonDefense': '20',
+}, {
+    'name': 'Guild Palace ⍺+',
+    'translationKey': 'armor-mr-guild-palace-alpha-plus',
+    'icon': require('./assets/armors/sets/guild_palace_alpha_plus.png'),
+    'head': {
+        'name': 'Guild Palace Helm ⍺+',
+        'translationKey': 'armor-mr-guild-palace-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/guild_palace_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '154',
+        'slots': '3 - -',
+        'vsFire': '1',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '1',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Health Boost',
+            'level': '2'
+        }, {
+            'name': 'Offensive Guard',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Hero King Coin',
+            'quantity': '1'
+        }, {
+            'name': 'Tigrex Coin',
+            'quantity': '2'
+        },{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        },{
+            'name': 'Velkhana Crownhorn',
+            'quantity': '2'
+        },],
+        'cost': '21000',
+    },
+    'upperBody': {
+        'name': 'Guild Palace Mail ⍺+',
+        'translationKey': 'armor-mr-guild-palace-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/guild_palace_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '154',
+        'slots': '1 1 -',
+        'vsFire': '1',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '1',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '2'
+        }, {
+            'name': 'Heroics',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Hero King Coin',
+            'quantity': '1'
+        }, {
+            'name': 'Zinogre Coin',
+            'quantity': '3'
+        },{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        },{
+            'name': 'Teostra Mane+',
+            'quantity': '3'
+        },],
+        'cost': '',
+    },
+    'hands': {
+        'name': 'Guild Palace Braces ⍺+',
+        'translationKey': 'armor-mr-guild-palace-braces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/guild_palace_braces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '154',
+        'slots': '3 - -',
+        'vsFire': '1',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '1',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Offensive Guard',
+            'level': '2'
+        }, {
+            'name': 'Heroics',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Hero King Coin',
+            'quantity': '1'
+        }, {
+            'name': 'Zinogre Coin',
+            'quantity': '2'
+        },{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        },{
+            'name': 'Daora Hardclaw',
+            'quantity': '3'
+        },],
+        'cost': '21000',
+    },
+    'lowerBody': {
+        'name': 'Guild Palace Coil ⍺+',
+        'translationKey': 'armor-mr-guild-palace-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/guild_palace_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '154',
+        'slots': '1 1 -',
+        'vsFire': '1',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '1',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '3'
+        }, {
+            'name': 'Resuscitate',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Hero King Coin',
+            'quantity': '1'
+        }, {
+            'name': 'Tigrex Coin',
+            'quantity': '3'
+        },{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        },{
+            'name': 'Deceased Shard',
+            'quantity': '4'
+        },],
+        'cost': '',
+    },
+    'legs': {
+        'name': 'Guild Palace Greaves ⍺+',
+        'translationKey': 'armor-mr-guild-palace-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/guild_palace_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '154',
+        'slots': '2 - -',
+        'vsFire': '1',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '1',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Heroics',
+            'level': '3'
+        }, {
+            'name': 'Health Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Hero King Coin',
+            'quantity': '1'
+        }, {
+            'name': 'Tigrex Coin',
+            'quantity': '3'
+        },{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        },{
+            'name': 'Deceased Shard',
+            'quantity': '4'
+        },],
+        'cost': '2100',
+    },
+    'totalDefense': '770',
+    'totalFireDefense': '5',
+    'totalWaterDefense': '10',
+    'totalThunderDefense': '10',
+    'totalIceDefense': '5',
+    'totalDragonDefense': '5',
+}, {
+    'name': 'Guild Palace ß+',
+    'translationKey': 'armor-mr-guild-palace-beta-plus',
+    'icon': require('./assets/armors/sets/guild_palace_beta_plus.png'),
+    'head': {
+        'name': 'Guild Palace Helm ß+',
+        'translationKey': 'armor-mr-guild-palace-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/guild_palace_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '154',
+        'slots': '4 2 -',
+        'vsFire': '1',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '1',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Health Boost',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Hero King Coin',
+            'quantity': '1'
+        }, {
+            'name': 'Tigrex Coin',
+            'quantity': '2'
+        },{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        },{
+            'name': 'Velkhana Crownhorn',
+            'quantity': '2'
+        },],
+        'cost': '21000',
+    },
+    'upperBody': {
+        'name': 'Guild Palace Mail ß+',
+        'translationKey': 'armor-mr-guild-palace-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/guild_palace_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '154',
+        'slots': '4 2 -',
+        'vsFire': '1',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '1',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '1'
+        }, {
+            'name': 'Heroics',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Hero King Coin',
+            'quantity': '1'
+        }, {
+            'name': 'Zinogre Coin',
+            'quantity': '3'
+        },{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        },{
+            'name': 'Teostra Mane+',
+            'quantity': '3'
+        },],
+        'cost': '',
+    },
+    'hands': {
+        'name': 'Guild Palace Braces ß+',
+        'translationKey': 'armor-mr-guild-palace-braces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/guild_palace_braces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '154',
+        'slots': '4 1 -',
+        'vsFire': '1',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '1',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Offensive Guard',
+            'level': '3'
+        }, ],
+        'materials': [{
+            'name': 'Hero King Coin',
+            'quantity': '1'
+        }, {
+            'name': 'Zinogre Coin',
+            'quantity': '2'
+        },{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        },{
+            'name': 'Daora Hardclaw',
+            'quantity': '3'
+        },],
+        'cost': '21000',
+    }, 
+    'lowerBody': {
+        'name': 'Guild Palace Coil ß+',
+        'translationKey': 'armor-mr-guild-palace-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/guild_palace_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '154',
+        'slots': '1 1 -',
+        'vsFire': '1',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '1',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '3'
+        }, {
+            'name': 'Resuscitate',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Hero King Coin',
+            'quantity': '1'
+        }, {
+            'name': 'Tigrex Coin',
+            'quantity': '3'
+        },{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        },{
+            'name': 'Deceased Shard',
+            'quantity': '4'
+        },],
+        'cost': '',
+    },
+    'legs': {
+        'name': 'Guild Palace Greaves ß+',
+        'translationKey': 'armor-mr-guild-palace-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/guild_palace_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '154',
+        'slots': '4 1 -',
+        'vsFire': '1',
+        'vsWater': '2',
+        'vsThunder': '2',
+        'vsIce': '1',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Heroics',
+            'level': '2'
+        }, {
+            'name': 'Health Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Hero King Coin',
+            'quantity': '1'
+        }, {
+            'name': 'Tigrex Coin',
+            'quantity': '3'
+        },{
+            'name': 'Black Belt Coin',
+            'quantity': '2'
+        },{
+            'name': 'Deceased Shard',
+            'quantity': '4'
+        },],
+        'cost': '2100',
+    },
+    'totalDefense': '770',
+    'totalFireDefense': '5',
+    'totalWaterDefense': '10',
+    'totalThunderDefense': '10',
+    'totalIceDefense': '5',
+    'totalDragonDefense': '5',
+},{
     'name': 'High Metal ⍺+',
     'translationKey': 'armor-mr-high-metal-alpha-plus',
     'icon': require('./assets/armors/sets/high_metal_alpha_plus.png'),
@@ -46527,6 +47269,374 @@ let masterRankArmors = [{
     'totalIceDefense': '0',
     'totalDragonDefense': '5',
 }, {
+    'name': 'Rajang ⍺+',
+    'translationKey': 'armor-mr-rajang-alpha-plus',
+    'icon': require('./assets/armors/sets/rajang_alpha_plus.png'),
+    'head': {
+        'name': 'Golden Headdress ⍺+',
+        'translationKey': 'armor-mr-golden-headdress-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_headdress_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '158',
+        'slots': '- - -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '3',
+        'vsIce': '-5',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Weakness Exploit',
+            'level': '2'
+        }, {
+            'name': 'Handicraft',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Rajang Wildpelt',
+            'quantity': '4'
+        }, {
+            'name': 'Rajang Hardhorn',
+            'quantity': '2'
+        },{
+            'name': 'Rajang Tail',
+            'quantity': '1'
+        },{
+            'name': 'Gold Rajang Pelt+',
+            'quantity': '2'
+        },],
+        'cost': '18000',
+    },
+    'upperBody': {
+        'name': 'Golden Haori ⍺+',
+        'translationKey': 'armor-mr-golden-haori-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_haori_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '158',
+        'slots': '3 1 -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '3',
+        'vsIce': '-5',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Resentment',
+            'level': '2'
+        }, {
+            'name': 'Speed Sharpening',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Rajang Wildpelt',
+            'quantity': '4'
+        }, {
+            'name': 'Rajang Hardclaw',
+            'quantity': '2'
+        },{
+            'name': 'Rajang Hardfang',
+            'quantity': '3'
+        },{
+            'name': 'Purecrystal',
+            'quantity': '1'
+        },],
+        'cost': '18000',
+    },
+    'hands': {
+        'name': 'Golden Kote ⍺+',
+        'translationKey': 'armor-mr-golden-kote-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_kote_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '158',
+        'slots': '2 - -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '3',
+        'vsIce': '-5',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Resentment',
+            'level': '1'
+        }, {
+            'name': 'Handicraft',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Rajang Wildpelt',
+            'quantity': '4'
+        }, {
+            'name': 'Rajang Hardhorn',
+            'quantity': '1'
+        },{
+            'name': 'Rajang Hardclaw',
+            'quantity': '2'
+        },{
+            'name': 'Rajang Tail',
+            'quantity': '1'
+        },],
+        'cost': '18000',
+    },
+    'lowerBody': {
+        'name': 'Golden Obi ⍺+',
+        'translationKey': 'armor-mr-golden-obi-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_obi_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '158',
+        'slots': '3 1 -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '3',
+        'vsIce': '-5',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Weakness Exploit',
+            'level': '1'
+        }, {
+            'name': 'Handicraft',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Rajang Wildpelt',
+            'quantity': '1'
+        }, {
+            'name': 'Rajang Handhorn',
+            'quantity': '1'
+        },{
+            'name': 'Rajang Hardfang',
+            'quantity': '4'
+        },{
+            'name': 'Gold Rajang Pelt+',
+            'quantity': '1'
+        },],
+        'cost': '18000',
+    },
+    'legs': {
+        'name': 'Golden Hakama ⍺+',
+        'translationKey': 'armor-mr-golden-hakama-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_hakama_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '158',
+        'slots': '2 2 -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '3',
+        'vsIce': '-5',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Resentment',
+            'level': '2'
+        }, {
+            'name': 'Attack Boost',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Rajang Wildpelt',
+            'quantity': '4'
+        }, {
+            'name': 'Rajang Hardclaw',
+            'quantity': '2'
+        },{
+            'name': 'Rajang Tail',
+            'quantity': '1'
+        },{
+            'name': 'Monster Toughbone',
+            'quantity': '6'
+        },],
+        'cost': '18000',
+    },
+    'totalDefense': '790',
+    'totalFireDefense': '10',
+    'totalWaterDefense': '0',
+    'totalThunderDefense': '15',
+    'totalIceDefense': '-25',
+    'totalDragonDefense': '10',
+}, {
+    'name': 'Rajang ß+',
+    'translationKey': 'armor-mr-rajang-beta-plus',
+    'icon': require('./assets/armors/sets/rajang_beta_plus.png'),
+    'head': {
+        'name': 'Golden Headdress ß+',
+        'translationKey': 'armor-mr-golden-headdress-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_headdress_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '158',
+        'slots': '4 1 -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '3',
+        'vsIce': '-5',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Weakness Exploit',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Rajang Wildpelt',
+            'quantity': '4'
+        }, {
+            'name': 'Rajang Hardhorn',
+            'quantity': '2'
+        },{
+            'name': 'Rajang Tail',
+            'quantity': '1'
+        },{
+            'name': 'Gold Rajang Pelt+',
+            'quantity': '2'
+        },],
+        'cost': '18000',
+    },
+    'upperBody': {
+        'name': 'Golden Haori ß+',
+        'translationKey': 'armor-mr-golden-haori-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_haori_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '158',
+        'slots': '4 1 1',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '3',
+        'vsIce': '-5',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Resentment',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Rajang Wildpelt',
+            'quantity': '4'
+        }, {
+            'name': 'Rajang Hardclaw',
+            'quantity': '2'
+        },{
+            'name': 'Rajang Hardfang',
+            'quantity': '3'
+        },{
+            'name': 'Purecrystal',
+            'quantity': '1'
+        },],
+        'cost': '18000',
+    },
+    'hands': {
+        'name': 'Golden Kote ß+',
+        'translationKey': 'armor-mr-golden-kote-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_kote_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '158',
+        'slots': '4 3 -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '3',
+        'vsIce': '-5',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Resentment',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Rajang Wildpelt',
+            'quantity': '4'
+        }, {
+            'name': 'Rajang Hardhorn',
+            'quantity': '1'
+        },{
+            'name': 'Rajang Hardclaw',
+            'quantity': '2'
+        },{
+            'name': 'Rajang Tail',
+            'quantity': '1'
+        },],
+        'cost': '18000',
+    },
+    'lowerBody': {
+        'name': 'Golden Obi ß+',
+        'translationKey': 'armor-mr-golden-obi-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_obi_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '158',
+        'slots': '4 3 -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '3',
+        'vsIce': '-5',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Weakness Exploit',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Rajang Wildpelt',
+            'quantity': '1'
+        }, {
+            'name': 'Rajang Handhorn',
+            'quantity': '1'
+        },{
+            'name': 'Rajang Hardfang',
+            'quantity': '4'
+        },{
+            'name': 'Gold Rajang Pelt+',
+            'quantity': '1'
+        },],
+        'cost': '18000',
+    },
+    'legs': {
+        'name': 'Golden Hakama ß+',
+        'translationKey': 'armor-mr-golden-hakama-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/golden_hakama_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '158',
+        'slots': '4 2 -',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '3',
+        'vsIce': '-5',
+        'vsDragon': '2',
+        'skills': [{
+            'name': 'Resentment',
+            'level': '2'
+        }, {
+            'name': 'Attack Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Rajang Wildpelt',
+            'quantity': '4'
+        }, {
+            'name': 'Rajang Hardclaw',
+            'quantity': '2'
+        },{
+            'name': 'Rajang Tail',
+            'quantity': '1'
+        },{
+            'name': 'Monster Toughbone',
+            'quantity': '6'
+        },],
+        'cost': '18000',
+    },
+    'totalDefense': '790',
+    'totalFireDefense': '10',
+    'totalWaterDefense': '0',
+    'totalThunderDefense': '15',
+    'totalIceDefense': '-25',
+    'totalDragonDefense': '10',
+},{
     'name': 'Rath Heart ⍺+',
     'translationKey': 'armor-mr-rath-heart-alpha-plus',
     'icon': require('./assets/armors/sets/rath_heart_alpha_plus.png'),
@@ -47627,6 +48737,377 @@ let masterRankArmors = [{
     'totalIceDefense': '0',
     'totalDragonDefense': '-15',
 }, {
+    'name': 'Ruiner Nergi ⍺+',
+    'translationKey': 'armor-mr-ruiner-nergi-alpha-plus',
+    'icon': require('./assets/armors/sets/ruiner_nergi_alpha_plus.png'),
+    'head': {
+        'name': 'Ruinous Helm ⍺+',
+        'translationKey': 'armor-mr-ruinous-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/ruinous_helm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '166',
+        'slots': '3 1 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Maximum Might',
+            'level': '2'
+        }, {
+            'name': 'Stamina Surge',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Nergigante Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Annihilating Greathorn',
+            'quantity': '3'
+        },{
+            'name': 'Eternal Regrowth Plate',
+            'quantity': '4'
+        },{
+            'name': 'Glavenus Mantle',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'upperBody': {
+        'name': 'Ruinous Mail ⍺+',
+        'translationKey': 'armor-mr-ruinous-mail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/ruinous_mail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '166',
+        'slots': '2 2 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Stamina Surge',
+            'level': '2'
+        }, {
+            'name': 'Maximum Might',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Nergigante Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Nergigante Hardclaw',
+            'quantity': '3'
+        },{
+            'name': 'Eternal Regrowth Plate',
+            'quantity': '2'
+        },{
+            'name': 'Nargacuga Mantle',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'hands': {
+        'name': 'Ruinous Vambraces ⍺+',
+        'translationKey': 'armor-mr-ruinous-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/ruinous_vambraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '166',
+        'slots': '3 - -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '2'
+        }, {
+            'name': 'Attack Boost',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Nergigante Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Immortal Shard',
+            'quantity': '2'
+        },{
+            'name': 'Nergigante Flail',
+            'quantity': '1'
+        },{
+            'name': 'Brachydios Pallium',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'lowerBody': {
+        'name': 'Ruinous Coil ⍺+',
+        'translationKey': 'armor-mr-ruinous-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/ruinous_coil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '166',
+        'slots': '2 1 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Attack Boost',
+            'level': '3'
+        }, {
+            'name': 'Earplugs',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Nergigante Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Immortal Shard',
+            'quantity': '1'
+        },{
+            'name': 'Annihilating Greathorn',
+            'quantity': '2'
+        },{
+            'name': 'Rathalos Mantle',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'legs': {
+        'name': 'Ruinous Greaves ⍺+',
+        'translationKey': 'armor-mr-ruinous-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/ruinous_greaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '166',
+        'slots': '2 - -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Earplugs',
+            'level': '2'
+        }, {
+            'name': 'Agitator',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Nergigante Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Immortal Shard',
+            'quantity': '2'
+        },{
+            'name': 'Eternal Regrowth Plate',
+            'quantity': '2'
+        },{
+            'name': 'Bazelgeuse Mantle',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'totalDefense': '830',
+    'totalFireDefense': '5',
+    'totalWaterDefense': '5',
+    'totalThunderDefense': '-15',
+    'totalIceDefense': '5',
+    'totalDragonDefense': '-15',
+}, {
+    'name': 'Ruiner Nergi ß+',
+    'translationKey': 'armor-mr-ruiner-nergi-beta-plus',
+    'icon': require('./assets/armors/sets/ruiner_nergi_beta_plus.png'),
+    'head': {
+        'name': 'Ruinous Helm ß+',
+        'translationKey': 'armor-mr-ruinous-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/ruinous_helm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '166',
+        'slots': '4 2 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Maximum Might',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Nergigante Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Annihilating Greathorn',
+            'quantity': '3'
+        },{
+            'name': 'Eternal Regrowth Plate',
+            'quantity': '4'
+        },{
+            'name': 'Glavenus Mantle',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'upperBody': {
+        'name': 'Ruinous Mail ß+',
+        'translationKey': 'armor-mr-ruinous-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/ruinous_mail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '166',
+        'slots': '4 2 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Stamina Surge',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Nergigante Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Nergigante Hardclaw',
+            'quantity': '3'
+        },{
+            'name': 'Eternal Regrowth Plate',
+            'quantity': '2'
+        },{
+            'name': 'Nargacuga Mantle',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'hands': {
+        'name': 'Ruinous Vambraces ß+',
+        'translationKey': 'armor-mr-ruinous-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/ruinous_vambraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '166',
+        'slots': '4 1 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Agitator',
+            'level': '2'
+        }, {
+            'name': 'Attack Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Nergigante Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Immortal Shard',
+            'quantity': '2'
+        },{
+            'name': 'Nergigante Flail',
+            'quantity': '1'
+        },{
+            'name': 'Brachydios Pallium',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    }, 
+    'lowerBody': {
+        'name': 'Ruinous Coil ß+',
+        'translationKey': 'armor-mr-ruinous-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/ruinous_coil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '166',
+        'slots': '4 1 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Attack Boost',
+            'level': '2'
+        }, {
+            'name': 'Earplugs',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Nergigante Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Immortal Shard',
+            'quantity': '1'
+        },{
+            'name': 'Annihilating Greathorn',
+            'quantity': '2'
+        },{
+            'name': 'Rathalos Mantle',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'legs': {
+        'name': 'Ruinous Greaves ß+',
+        'translationKey': 'armor-mr-ruinous-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/ruinous_greaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '166',
+        'slots': '4 1 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '-3',
+        'vsIce': '1',
+        'vsDragon': '-3',
+        'skills': [{
+            'name': 'Earplugs',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Nergigante Cortex',
+            'quantity': '3'
+        }, {
+            'name': 'Immortal Shard',
+            'quantity': '2'
+        },{
+            'name': 'Eternal Regrowth Plate',
+            'quantity': '2'
+        },{
+            'name': 'Bazelgeuse Mantle',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'totalDefense': '830',
+    'totalFireDefense': '5',
+    'totalWaterDefense': '5',
+    'totalThunderDefense': '-15',
+    'totalIceDefense': '5',
+    'totalDragonDefense': '-15',
+},{
     'name': 'Savage Jho ⍺+',
     'translationKey': 'armor-mr-savage-jho-alpha-plus',
     'icon': require('./assets/armors/sets/savage_jho_alpha_plus.png'),
@@ -49184,6 +50665,374 @@ let masterRankArmors = [{
     'totalThunderDefense': '-5',
     'totalIceDefense': '15',
     'totalDragonDefense': '0',
+}, {
+    'name': 'Silver Sol ⍺+',
+    'translationKey': 'armor-mr-silver-sol-alpha-plus',
+    'icon': require('./assets/armors/sets/silver_sol_alpha_plus.png'),
+    'head': {
+        'name': 'Silver Solhelm ⍺+',
+        'translationKey': 'armor-mr-silver-solhelm-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/silver_solhelm_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '164',
+        'slots': '2 2 -',
+        'vsFire': '4',
+        'vsWater': '-3',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Windproof',
+            'level': '2'
+        }, {
+            'name': 'Fire Attack',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Silver Rathalos Cortex',
+            'quantity': '4'
+        }, {
+            'name': 'Silver Rathalos Shard',
+            'quantity': '3'
+        },{
+            'name': 'Silver Rathalos Fellwing',
+            'quantity': '2'
+        },{
+            'name': 'Rathalos Mantle',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'upperBody': {
+        'name': 'Silver Solmail ⍺+',
+        'translationKey': 'armor-mr-silver-solmail-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/silver_solmail_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '164',
+        'slots': '1 - -',
+        'vsFire': '4',
+        'vsWater': '-3',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Critical Boost',
+            'level': '2'
+        }, {
+            'name': 'Fire Attack',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Silver Rathalos Cortex',
+            'quantity': '4'
+        }, {
+            'name': 'Silver Rathalos Fellwing',
+            'quantity': '4'
+        },{
+            'name': 'Rath Gleam',
+            'quantity': '3'
+        },{
+            'name': 'Guiding Coral Dragonbone',
+            'quantity': '3'
+        },],
+        'cost': '24000',
+    },
+    'hands': {
+        'name': 'Silver Solbraces ⍺+',
+        'translationKey': 'armor-mr-silver-solbraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/silver_solbraces_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '164',
+        'slots': '2 2 -',
+        'vsFire': '4',
+        'vsWater': '-3',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Slinger Capacity',
+            'level': '3'
+        }, {
+            'name': 'Windproof',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Silver Rathalos Cortex',
+            'quantity': '6'
+        }, {
+            'name': 'Silver Rathalos Fellwing',
+            'quantity': '3'
+        },{
+            'name': 'Silver Rathalos Lash',
+            'quantity': '1'
+        },{
+            'name': 'Dragonvein Solidbone',
+            'quantity': '8'
+        },],
+        'cost': '24000',
+    },
+    'lowerBody': {
+        'name': 'Silver Solcoil ⍺+',
+        'translationKey': 'armor-mr-silver-solcoil-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/silver_solcoil_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '164',
+        'slots': '1 1 -',
+        'vsFire': '4',
+        'vsWater': '-3',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Windproof',
+            'level': '2'
+        }, {
+            'name': 'Critical Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Silver Rathalos Cortex',
+            'quantity': '4'
+        }, {
+            'name': 'Silver Rathalos Shard',
+            'quantity': '3'
+        },{
+            'name': 'Rath Gleam',
+            'quantity': '2'
+        },{
+            'name': 'Guiding Coral Crystal',
+            'quantity': '3'
+        },],
+        'cost': '24000',
+    },
+    'legs': {
+        'name': 'Silver Solgreaves ⍺+',
+        'translationKey': 'armor-mr-silver-solgreaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/silver_solgreaves_alpha_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '164',
+        'slots': '3 2 -',
+        'vsFire': '4',
+        'vsWater': '-3',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Slinger Capacity',
+            'level': '2'
+        }, {
+            'name': 'Fire Attack',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Silver Rathalos Cortex',
+            'quantity': '6'
+        }, {
+            'name': 'Silver Rathalos Shard',
+            'quantity': '3'
+        },{
+            'name': 'Silver Rathalos Lash',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Gem',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'totalDefense': '820',
+    'totalFireDefense': '20',
+    'totalWaterDefense': '-15',
+    'totalThunderDefense': '-10',
+    'totalIceDefense': '-10',
+    'totalDragonDefense': '15',
+}, {
+    'name': 'Silver Sol ß+',
+    'translationKey': 'armor-mr-silver-sol-beta-plus',
+    'icon': require('./assets/armors/sets/silver_sol_beta_plus.png'),
+    'head': {
+        'name': 'Silver Solhelm ß+',
+        'translationKey': 'armor-mr-silver-solhelm-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_head_male.png'),
+        'iconFemale': require('./assets/armors/components/silver_solhelm_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '164',
+        'slots': '4 3 -',
+        'vsFire': '4',
+        'vsWater': '-3',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Windproof',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Silver Rathalos Cortex',
+            'quantity': '4'
+        }, {
+            'name': 'Silver Rathalos Shard',
+            'quantity': '3'
+        },{
+            'name': 'Silver Rathalos Fellwing',
+            'quantity': '2'
+        },{
+            'name': 'Rathalos Mantle',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'upperBody': {
+        'name': 'Silver Solmail ß+',
+        'translationKey': 'armor-mr-silver-solmail-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
+        'iconFemale': require('./assets/armors/components/silver_solmail_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '164',
+        'slots': '4 - -',
+        'vsFire': '4',
+        'vsWater': '-3',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Critical Boost',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Silver Rathalos Cortex',
+            'quantity': '4'
+        }, {
+            'name': 'Silver Rathalos Fellwing',
+            'quantity': '4'
+        },{
+            'name': 'Rath Gleam',
+            'quantity': '3'
+        },{
+            'name': 'Guiding Coral Dragonbone',
+            'quantity': '3'
+        },],
+        'cost': '24000',
+    },
+    'hands':  {
+        'name': 'Silver Solbraces ß+',
+        'translationKey': 'armor-mr-silver-solbraces-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_hands_male.png'),
+        'iconFemale': require('./assets/armors/components/silver_solbraces_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '164',
+        'slots': '4 2 -',
+        'vsFire': '4',
+        'vsWater': '-3',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Slinger Capacity',
+            'level': '3'
+        }, ],
+        'materials': [{
+            'name': 'Silver Rathalos Cortex',
+            'quantity': '6'
+        }, {
+            'name': 'Silver Rathalos Fellwing',
+            'quantity': '3'
+        },{
+            'name': 'Silver Rathalos Lash',
+            'quantity': '1'
+        },{
+            'name': 'Dragonvein Solidbone',
+            'quantity': '8'
+        },],
+        'cost': '24000',
+    },
+    'lowerBody': {
+        'name': 'Silver Solcoil ß+',
+        'translationKey': 'armor-mr-silver-solcoil-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_lowerBody_male.png'),
+        'iconFemale': require('./assets/armors/components/silver_solcoil_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '164',
+        'slots': '4 1 -',
+        'vsFire': '4',
+        'vsWater': '-3',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Windproof',
+            'level': '1'
+        }, {
+            'name': 'Critical Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Silver Rathalos Cortex',
+            'quantity': '4'
+        }, {
+            'name': 'Silver Rathalos Shard',
+            'quantity': '3'
+        },{
+            'name': 'Rath Gleam',
+            'quantity': '2'
+        },{
+            'name': 'Guiding Coral Crystal',
+            'quantity': '3'
+        },],
+        'cost': '24000',
+    },
+    'legs': {
+        'name': 'Silver Solgreaves ß+',
+        'translationKey': 'armor-mr-silver-solgreaves-beta-plus',
+        'iconMale': require('./assets/armors/components/placeholder_legs_male.png'),
+        'iconFemale': require('./assets/armors/components/silver_solgreaves_beta_plus_female.png'),
+        'level': '1',
+        'rarity': '12',
+        'defense': '164',
+        'slots': '4 2 1',
+        'vsFire': '4',
+        'vsWater': '-3',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '3',
+        'skills': [{
+            'name': 'Slinger Capacity',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Silver Rathalos Cortex',
+            'quantity': '6'
+        }, {
+            'name': 'Silver Rathalos Shard',
+            'quantity': '3'
+        },{
+            'name': 'Silver Rathalos Lash',
+            'quantity': '1'
+        },{
+            'name': 'Large Wyvern Gem',
+            'quantity': '1'
+        },],
+        'cost': '24000',
+    },
+    'totalDefense': '820',
+    'totalFireDefense': '20',
+    'totalWaterDefense': '-15',
+    'totalThunderDefense': '-10',
+    'totalIceDefense': '-10',
+    'totalDragonDefense': '15',
 }, {
     'name': 'Teostra ⍺+',
     'translationKey': 'armor-mr-teostra-alpha-plus',
@@ -51852,7 +53701,7 @@ let masterRankArmors = [{
     'upperBody': {
         'name': 'Zingore Mail ⍺+',
         'translationKey': 'armor-mr-zinogre-mail-alpha-plus',
-        'iconMale': require('./assets/armors/components/placeholder_upperBOdy_male.png'),
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
         'iconFemale': require('./assets/armors/components/zinogre_mail_alpha_plus_female.png'),
         'level': '1',
         'rarity': '11',
@@ -52042,7 +53891,7 @@ let masterRankArmors = [{
     'upperBody': {
         'name': 'Zingore Mail ß+',
         'translationKey': 'armor-mr-zinogre-mail-beta-plus',
-        'iconMale': require('./assets/armors/components/placeholder_upperBOdy_male.png'),
+        'iconMale': require('./assets/armors/components/placeholder_upperBody_male.png'),
         'iconFemale': require('./assets/armors/components/zinogre_mail_beta_plus_female.png'),
         'level': '1',
         'rarity': '11',
