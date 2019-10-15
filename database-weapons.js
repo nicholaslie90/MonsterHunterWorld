@@ -5527,6 +5527,102 @@ let longSwordTree = [{
                     }
                 ]
             },
+            {
+                'name': 'Iron Eschaton I',
+                'from': 'Iron Gospel II',
+                'translationKey': 'weapon-long-sword-iron-eschaton-i',
+                'icon': require('./assets/weapons/long_sword/iron_eschaton_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '9',
+                'attack': '726',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Water 140',
+                'slots': '1 1 -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Eltalite Ore',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Carbalite Ore',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Spiritvein Crystal',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Gracium',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Iron Eschaton II',
+                'from': 'Iron Eschaton I',
+                'translationKey': 'weapon-long-sword-iron-eschaton-ii',
+                'icon': require('./assets/weapons/long_sword/iron_eschaton_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '10',
+                'attack': '792',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Water 160',
+                'slots': '1 1 -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Eltalite Ore',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Meldspar Ore',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Bathycite Ore',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Iron Eschaton III',
+                'from': 'Iron Eschaton II',
+                'translationKey': 'weapon-long-sword-iron-eschaton-iii',
+                'icon': require('./assets/weapons/long_sword/iron_eschaton_iii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '11',
+                'attack': '858',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Water 180',
+                'slots': '1 1 -',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Pure Dragon Blood',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Eltalite Ore',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Meldspar Ore',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Purecryrstal',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -5880,8 +5976,137 @@ let longSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Blinding Blaze I',
+                'from': 'Dazzling Flash III',
+                'translationKey': 'weapon-long-sword-blinding-blaze-i',
+                'icon': require('./assets/weapons/long_sword/blinding_blaze_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '9',
+                'attack': '726',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Thunder 300',
+                'slots': '3 - -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Tzitzi-Ya-Ku Hardclaw',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Tzitzi-Ya-Ku Photomembrane',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Tzitzi-Ya-Ku Shard',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tough Claw',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Blinding Blaze II',
+                'from': 'Blinding Blaze I',
+                'translationKey': 'weapon-long-sword-blinding-blaze-ii',
+                'icon': require('./assets/weapons/long_sword/blinding_blaze_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '10',
+                'attack': '858',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Thunder 320',
+                'slots': '3 - -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Legiana Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tzitzi-Ya-Ku Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tzitzi-Ya-Ku Photomembrane',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Purecrystal',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-barioth-tree',
+        data: [{
+            'name': 'Ambertooth I',
+            'from': 'Blinding Blaze I',
+            'translationKey': 'weapon-long-sword-ambertooth-i',
+            'icon': require('./assets/weapons/long_sword/ambertooth_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '10',
+            'attack': '726',
+            'sharpness': 'white',
+            'affinity': '20%',
+            'element': 'Ice 210',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Barioth Hardclaw',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Barioth Cortex',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Cryo Sac',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Frozen Bone',
+                    'quantity': '3'
+                }
+            ],
+        }, {
+            'name': 'Ambertooth II',
+            'from': 'Ambertooth I',
+            'translationKey': 'weapon-long-sword-ambertooth-ii',
+            'icon': require('./assets/weapons/long_sword/ambertooth_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '10',
+            'attack': '792',
+            'sharpness': 'white',
+            'affinity': '30%',
+            'element': 'Ice 300',
+            'slots': '1 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Obsidian Icetalon',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Amber Hardfang',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Barioth Greatspike',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Large Wyvern Gem',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-kulu-ya-ku-tree',
@@ -6170,7 +6395,38 @@ let longSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Rafiq al-Nasr I',
+                'from': 'Last Dance III',
+                'translationKey': 'weapon-long-sword-rafiq-al-nasr-i',
+                'icon': require('./assets/weapons/long_sword/rafiq_al_nasr_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '9',
+                'attack': '693',
+                'sharpness': 'white',
+                'affinity': '25%',
+                'element': 'Sleep 240',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Large Kulu-Ya-Ku Beak',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Kulu-Ya-Ku Thickhide',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Kulu-Ya-Ku Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Thick Bone',
+                        'quantity': '2'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -6276,8 +6532,143 @@ let longSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Brazenreach I',
+                'from': 'Brazenridge II',
+                'translationKey': 'weapon-long-sword-brazenreach-i',
+                'icon': require('./assets/weapons/long_sword/brazenreach_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '10',
+                'attack': '792',
+                'sharpness': 'blue',
+                'affinity': '-10%',
+                'element': 'Fire 210',
+                'slots': '4 1 -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Uragaan Jaw+',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Uragaan Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Uragaan Cortex',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Meldspar Ore',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Brazenreach II',
+                'from': 'Brazenreach I',
+                'translationKey': 'weapon-long-sword-brazenreach-ii',
+                'icon': require('./assets/weapons/long_sword/brazenreach_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '10',
+                'attack': '957',
+                'sharpness': 'blue',
+                'affinity': '-10%',
+                'element': 'Fire 240',
+                'slots': '4 1 -',
+                'defenseBonus': '+35',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Acidic Glavenus Hardfang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Uragaan Jaw+',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Uragaan Scute+',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Uragaan Pallium',
+                        'quantity': '1'
+                    }
+                ],
+                'skills': [{
+                    'name': '',
+                    'level': '',
+                },],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-glavenus-tree',
+        data: [{
+            'name': 'Glavenus Spada I',
+            'from': 'Brazenridge II',
+            'translationKey': 'weapon-long-sword-glavenus-spada-i',
+            'icon': require('./assets/weapons/long_sword/glavenus_spada_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '10',
+            'attack': '759',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Fire 240',
+            'slots': '1 - -',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Glavenus Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Molten Bursa',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Eltalite Ore',
+                    'quantity': '6'
+                }
+            ],
+        }, {
+            'name': 'Glavenus Spada II',
+            'from': 'Glavenus Spada I',
+            'translationKey': 'weapon-long-sword-glavenus-spada-ii',
+            'icon': require('./assets/weapons/long_sword/glavenus_spada_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '10',
+            'attack': '825',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Fire 270',
+            'slots': '1 1 -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Ebony Odogaron Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Hellshell',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Glavenus Tailedge',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Mantle',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-rathian-tree',
@@ -6978,8 +7369,142 @@ let longSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Grand Khopesh I',
+                'from': 'Bone Reaper II',
+                'translationKey': 'weapon-long-sword-grand-khopesh-i',
+                'icon': require('./assets/weapons/long_sword/grand_khopesh_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '9',
+                'attack': '759',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Sleep 200',
+                'slots': '3 - -',
+                'defenseBonus': '+35',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Thick Bone',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Quality Bone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Monster Hardbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Frozen Bone',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Grand Khopesh II',
+                'from': 'Grand Khopesh I',
+                'translationKey': 'weapon-long-sword-grand-khopesh-ii',
+                'icon': require('./assets/weapons/long_sword/grand_khopesh_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '10',
+                'attack': '825',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Sleep 200',
+                'slots': '3 - -',
+                'defenseBonus': '+35',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Monster Solidbone',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Thick Bone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Monster Essence',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Grand Khopesh III',
+                'from': 'Grand Khopesh II',
+                'translationKey': 'weapon-long-sword-grand-khopesh-iii',
+                'icon': require('./assets/weapons/long_sword/grand_khopesh_iii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '11',
+                'attack': '924',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Sleep 200',
+                'slots': '3 - -',
+                'defenseBonus': '+35',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Large Elder Dragon Bone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Monster Solidbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Thick Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Dragonbone Artifact',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-velkhana-tree',
+        data: [{
+            'name': 'Icebrink',
+            'from': 'Grand Khopesh II',
+            'translationKey': 'weapon-long-sword-icebrink',
+            'icon': require('./assets/weapons/long_sword/icebrink.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '11',
+            'attack': '858',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Ice 240',
+            'slots': '4 - -',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Crystal Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Velkhana Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Velkhana Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Purecrystal',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-bazelgeuse-tree',
@@ -7327,8 +7852,135 @@ let longSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Anja Direfang I',
+                'from': 'Anja Scimitar III',
+                'translationKey': 'weapon-long-sword-anja-direfang-i',
+                'icon': require('./assets/weapons/long_sword/anja_direfang_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '9',
+                'attack': '759',
+                'sharpness': 'white',
+                'affinity': '-20%',
+                'element': 'Fire 480',
+                'cost': '20000',
+                'materials': [{
+                        'name': 'Anjanath Hardfang',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Anjanath Shard',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Conflagrant Sac',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Eltalite Ore',
+                        'quantity': '3'
+                    }
+                ],
+            },
+            {
+                'name': 'Anja Direfang II',
+                'from': 'Anja Direfang I',
+                'translationKey': 'weapon-long-sword-anja-direfang-ii',
+                'icon': require('./assets/weapons/long_sword/anja_direfang_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '10',
+                'attack': '891',
+                'sharpness': 'white',
+                'affinity': '-20%',
+                'element': 'Fire 600',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Azure Rathalos Cortex',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Anjanath Fur',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Heavy Anjanath Nosebone',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Anjanath Lash',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-fulgur-anjanath-tree',
+        data: [{
+            'name': 'Gnashing Fulgur I',
+            'from': 'Anja Direfang I',
+            'translationKey': 'weapon-long-sword-gnashing-fulgur-i',
+            'icon': require('./assets/weapons/long_sword/gnashing_fulgur_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '10',
+            'attack': '792',
+            'sharpness': 'white',
+            'affinity': '10%',
+            'element': 'Thunder 240',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Fulgur Anjanath Hardfang',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Fulgur Anjanath Shard',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Monster Solidbone',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Meldspar Ore',
+                    'quantity': '2'
+                }
+            ],
+        }, {
+            'name': 'Gnashing Fulgur II',
+            'from': 'Gnashing Fulgur I',
+            'translationKey': 'weapon-long-sword-gnashing-fulgur-ii',
+            'icon': require('./assets/weapons/long_sword/gnashing_fulgur_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '10',
+            'attack': '825',
+            'sharpness': 'white',
+            'affinity': '20%',
+            'element': 'Thunder 330',
+            'slots': '1 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Fulgur Anjanath Thickfur',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Heavy Fulgur Anjanath Nosebone',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Fulgur Anjanath Lash',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Lightning Sac',
+                    'quantity': '3'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-jyuratodus-tree',
@@ -7624,7 +8276,71 @@ let longSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Dipterus Varzea I',
+                'from': 'Dipterus III',
+                'translationKey': 'weapon-long-sword-dipterus-varzea-i',
+                'icon': require('./assets/weapons/long_sword/dipterus_varzea_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '9',
+                'attack': '759',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Water 390',
+                'slots': '3 1 -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Jyuratodus Grandfin',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Jyuratodus Hardfang',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Jyuratodus Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Gajau Thickhide',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Dipterus Varzea II',
+                'from': 'Dipterus Varzea I',
+                'translationKey': 'weapon-long-sword-dipterus-varzea-ii',
+                'icon': require('./assets/weapons/long_sword/dipterus_varzea_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '10',
+                'attack': '858',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Water 420',
+                'slots': '3 1 -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Monster Slogbone',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Jyuratodus Grandfin',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Flood Sac',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Steel Gajau Whisker',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -7730,8 +8446,106 @@ let longSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Deathblade Vaal Grosser',
+                'from': 'Hazak Grosser II',
+                'translationKey': 'weapon-long-sword-deathblade-vaal-grosser',
+                'icon': require('./assets/weapons/long_sword/deathblade_vaal_grosser.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '11',
+                'attack': '825',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 480',
+                'slots': '3 2 -',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Vaal Hazak Hardclaw',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Shadowpierce Fang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Deceased Shard',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Deathweaver Membrane',
+                        'quantity': '3'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-acidic-glavenus-tree',
+        data: [{
+            'name': 'Acid Scimitar I',
+            'from': 'Dipterus II',
+            'translationKey': 'weapon-long-sword-acid-scimitar-i',
+            'icon': require('./assets/weapons/long_sword/acid_scimitar_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '10',
+            'attack': '891',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Paralysis 240',
+            'slots': '4 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Acidic Glavenus Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Acidic Glavenus Spineshell',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Acidic Glavenus Tailedge',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Honed Acidcryst',
+                    'quantity': '4'
+                }
+            ],
+        },{
+            'name': 'Acid Scimitar II',
+            'from': 'Acid Scimitar I',
+            'translationKey': 'weapon-long-sword-acid-scimitar-ii',
+            'icon': require('./assets/weapons/long_sword/acid_scimitar_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '11',
+            'attack': '957',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Paralysis 260',
+            'slots': '4 - -',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Vaal Hazak Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Acidic Glavenus Hardfang',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Acidic Glavenus Spineshell',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Glavenus Mantle',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-tobi-kadachi-tree',
@@ -8027,7 +8841,71 @@ let longSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Kadachi Daito I',
+                'from': 'Kadachi Fang III',
+                'translationKey': 'weapon-long-sword-kadachi-daito-i',
+                'icon': require('./assets/weapons/long_sword/kadachi_daito_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '9',
+                'attack': '693',
+                'sharpness': 'white',
+                'affinity': '15%',
+                'element': 'Thunder 450',
+                'slots': '1 - -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Tobi-Kadachi Hardclaw',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Shard',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Thickfur',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Lightning Sac',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Kadachi Daito II',
+                'from': 'Kadachi Daito I',
+                'translationKey': 'weapon-long-sword-kadachi-daito-ii',
+                'icon': require('./assets/weapons/long_sword/kadachi_daito_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '10',
+                'attack': '759',
+                'sharpness': 'white',
+                'affinity': '15%',
+                'element': 'Thunder 510',
+                'slots': '1 - -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Hard Odogaron Sinew',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Cathode',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Membrane+',
+                        'quantity': '2'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -8223,7 +9101,38 @@ let longSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Legia Stealer+',
+                'from': 'Legia Stealer',
+                'translationKey': 'weapon-long-sword-legia-stealer-plus',
+                'icon': require('./assets/weapons/long_sword/legia_stealer_plus.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '10',
+                'attack': '693',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Ice 420',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Legiana Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Legiana Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Legiana Tail Webbing+',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Frozen Bone',
+                        'quantity': '4'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -8471,8 +9380,137 @@ let longSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            }, 
+            {
+                'name': 'Abyss Piercer I',
+                'from': 'Dark Scimitar III',
+                'translationKey': 'weapon-long-sword-abyss-piercer-i',
+                'icon': require('./assets/weapons/long_sword/abyss_piercer_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '9',
+                'attack': '660',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Paralysis 180',
+                'slots': '2 - -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Hornetaur Razorwing',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tough Claw',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Monster Essence',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Spiritvein Crystal',
+                        'quantity': '3'
+                    }
+                ]
+            },
+            {
+                'name': 'Abyss Piercer II',
+                'from': 'Abyss Piercer I',
+                'translationKey': 'weapon-long-sword-abyss-piercer-ii',
+                'icon': require('./assets/weapons/long_sword/abyss_piercer_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '10',
+                'attack': '759',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Paralysis 200',
+                'slots': '2 - -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Odogaron Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Hornetaur Razorwing',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Monster Essence',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Dragonbone Artifact',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-brachydios-tree',
+        data: [{
+            'name': 'Brachydios Scimitar I',
+            'from': 'Abyss Piercer I',
+            'translationKey': 'weapon-long-sword-brachydios-scimitar-i',
+            'icon': require('./assets/weapons/long_sword/brachydios_scimitar_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '10',
+            'attack': '726',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Blast 330',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Brachydios Crown',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Brachydios Cortex',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Glowing Slime',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Meldspar Ore',
+                    'quantity': '3'
+                }
+            ],
+        }, {
+            'name': 'Brachydios Scimitar II',
+            'from': 'Brachydios Scimitar I',
+            'translationKey': 'weapon-long-sword-brachydios-scimitar-ii',
+            'icon': require('./assets/weapons/long_sword/brachydios_scimitar_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '10',
+            'attack': '792',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Blast 480',
+            'slots': '1 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Azure Rathalos Fellwing',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Brachydios Pounder+',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Brachydios Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glowing Slime',
+                    'quantity': '5'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-dragonbone-tree',
@@ -8603,7 +9641,73 @@ let longSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Dragonseal Aldblade I',
+                'from': 'Dragonbone Stabber III',
+                'translationKey': 'weapon-long-sword-dragonseal-aldblade-i',
+                'icon': require('./assets/weapons/long_sword/dragonseal_aldblade_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '10',
+                'attack': '693',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 410',
+                'elderseal': 'Average',
+                'slots': '1 1 -',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Monster Solidbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Monster Slogbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Thick Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Dragonbone Artifact',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Dragonseal Aldblade II',
+                'from': 'Dragonseal Aldblade I',
+                'translationKey': 'weapon-long-sword-dragonseal-aldblade-ii',
+                'icon': require('./assets/weapons/long_sword/dragonseal_aldblade_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '11',
+                'attack': '792',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 630',
+                'elderseal': 'Average',
+                'slots': '1 1 -',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Large Elder Dragon Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Monster Solidbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Lavasioth Grandfin',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Large Wyvern Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -8709,8 +9813,75 @@ let longSwordTree = [{
                         'quantity': '3'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Magdaros Volcansword',
+                'from': 'Magda Facultas II',
+                'translationKey': 'weapon-long-sword-magdaros-volcansword',
+                'icon': require('./assets/weapons/long_sword/magdaros_volcansword.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '11',
+                'attack': '924',
+                'sharpness': 'white',
+                'affinity': '-20%',
+                'element': 'Blast 480',
+                'slots': '2 - -',
+                'defenseBonus': '+45',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Elder Dragonvein Bone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Dragonvein Solidbone',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Heavy Dragonvein Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Large Elder Dragon Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-namielle-tree',
+        data: [{
+            'name': 'Hydra Tornaria',
+            'from': 'Magda Facultas II',
+            'translationKey': 'weapon-long-sword-hydra-tornaria',
+            'icon': require('./assets/weapons/long_sword/hydra_tornaria.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '11',
+            'attack': '858',
+            'sharpness': 'white',
+            'affinity': '15%',
+            'element': 'Water 210',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Namielle Hardclaw',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Namielle Finehide',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Namielle Whisker',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Purecrystal',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-blacksteel-tree',
@@ -8906,7 +10077,38 @@ let longSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Imperial Flickerflame',
+                'from': 'Imperial Shimmer',
+                'translationKey': 'weapon-long-sword-imperial-flickerflame',
+                'icon': require('./assets/weapons/long_sword/imperial_flickerflame.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '11',
+                'attack': '858',
+                'sharpness': 'white',
+                'affinity': '10%',
+                'element': 'Blast 360',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Teostra Hardhorn',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Fire Dragon Hardclaw',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Teostra Mane+',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Large Elder Dragon Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -9063,6 +10265,38 @@ let longSwordTree = [{
                         'quantity': '2'
                     }
                 ]
+            },
+            {
+                'name': 'Consummate Katana',
+                'from': 'Divine Slasher',
+                'translationKey': 'weapon-long-sword-consummate-katana',
+                'icon': require('./assets/weapons/long_sword/consummate_katana.png'),
+                'weaponIcon': require('./assets/weapons/rarity/12-long-sword.png'),
+                'type': 'Long Sword',
+                'rarity': '12',
+                'attack': '924',
+                'sharpness': 'white',
+                'affinity': '-30%',
+                'element': 'Dragon 330',
+                'elderseal': 'High',
+                'cost': '80000',
+                'materials': [{
+                        'name': 'Vile Fang',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Deviljho Ripper',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Black Blood',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Deviljho Crook',
+                        'quantity': '1'
+                    }
+                ],
             },
         ]
     },
@@ -9892,6 +11126,44 @@ let longSwordTree = [{
                 'level': '1',
             }, ]
         }, ]
+    },
+    {
+        title: 'weapon-tree-rajang-tree',
+        data: [{
+            'name': 'Demon Halberd',
+            'translationKey': 'weapon-long-sword-demon-halberd',
+            'icon': require('./assets/weapons/long_sword/demon_halberd.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '11',
+            'attack': '957',
+            'sharpness': 'white',
+            'affinity': '-15%',
+            'element': 'Thunder 90',
+            'slots': '4 - -',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Rajang Hardhorn',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Rajang Hardclaw',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Rajang Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Rajang Wildpelt',
+                    'quantity': '2'
+                }
+            ],
+            'skills': [{
+                'name': '',
+                'level': '',
+            },],
+        },]
     }
 ];
 
@@ -17778,6 +19050,72 @@ let dualBladesTree = [{
                 ]
             }
         ]
+    },
+    {
+        title: 'weapon-tree-banbaro-tree',
+        data: [{
+            'name': 'Mammoth Longblade I',
+            'from': 'Jyura Hatchets III',
+            'translationKey': 'weapon-long-sword-mammoth-longblade-i',
+            'icon': require('./assets/weapons/long_sword/mammoth_longblade_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/9-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '9',
+            'attack': '825',
+            'sharpness': 'blue',
+            'affinity': '0%',
+            'element': 'Ice 220',
+            'slots': '4 - -',
+            'cost': '20000',
+            'materials': [{
+                    'name': 'Banbaro Great Horn',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Banbaro Cortex',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Banbaro Chine',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Monster Toughbone',
+                    'quantity': '3'
+                }
+            ],
+        }, {
+            'name': 'Mammoth Longblade II',
+            'from': 'Mammoth Longblade I',
+            'translationKey': 'weapon-long-sword-mammoth-longblade-ii',
+            'icon': require('./assets/weapons/long_sword/mammoth_longblade_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '10',
+            'attack': '924',
+            'sharpness': 'blue',
+            'affinity': '0%',
+            'element': 'Ice 340',
+            'slots': '4 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Monster Solidbone',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Banbaro Great Horn',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Banbaro Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Dragonbone Artifact',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-lavasioth-tree',
