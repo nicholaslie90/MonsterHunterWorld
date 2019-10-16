@@ -21590,5 +21590,313 @@ export default {
     "wishlist-empty": {
       "Key": "wishlist-empty",
       "Translation": "你的愿望清单是空的。使用在右上角的按钮，你的第一个武器/防具添加到心愿。心愿列表最多可容纳物品的无限量:)"
+    },
+    "weapon-long-sword-abyss-piercer-i": {
+      "Key": "weapon-long-sword-abyss-piercer-i",
+      "Translation": "深渊穿孔我"
+    },
+    "weapon-long-sword-abyss-piercer-ii": {
+      "Key": "weapon-long-sword-abyss-piercer-ii",
+      "Translation": "深渊穿孔II"
+    },
+    "weapon-tree-acidic-glavenus-tree": {
+      "Key": "weapon-tree-acidic-glavenus-tree",
+      "Translation": "酸性Glavenus树"
+    },
+    "weapon-long-sword-acid-scimitar-i": {
+      "Key": "weapon-long-sword-acid-scimitar-i",
+      "Translation": "酸弯刀我"
+    },
+    "weapon-long-sword-acid-scimitar-ii": {
+      "Key": "weapon-long-sword-acid-scimitar-ii",
+      "Translation": "酸弯刀II"
+    },
+    "weapon-long-sword-blinding-blaze-i": {
+      "Key": "weapon-long-sword-blinding-blaze-i",
+      "Translation": "布拉致盲我"
+    },
+    "weapon-long-sword-blinding-blaze-ii": {
+      "Key": "weapon-long-sword-blinding-blaze-ii",
+      "Translation": "布拉致盲II"
+    },
+    "weapon-tree-barioth-tree": {
+      "Key": "weapon-tree-barioth-tree",
+      "Translation": "Barioth树"
+    },
+    "weapon-long-sword-ambertooth-i": {
+      "Key": "weapon-long-sword-ambertooth-i",
+      "Translation": "Ambertooth我"
+    },
+    "weapon-long-sword-ambertooth-ii": {
+      "Key": "weapon-long-sword-ambertooth-ii",
+      "Translation": "Ambertooth II"
+    },
+    "weapon-long-sword-anja-direfang-i": {
+      "Key": "weapon-long-sword-anja-direfang-i",
+      "Translation": "安雅Direfang我"
+    },
+    "weapon-long-sword-anja-direfang-ii": {
+      "Key": "weapon-long-sword-anja-direfang-ii",
+      "Translation": "安雅Direfang II"
+    },
+    "weapon-long-sword-brachydios-scimitar-i": {
+      "Key": "weapon-long-sword-brachydios-scimitar-i",
+      "Translation": "Brachydios弯刀我"
+    },
+    "weapon-long-sword-brachydios-scimitar-ii": {
+      "Key": "weapon-long-sword-brachydios-scimitar-ii",
+      "Translation": "Brachydios弯刀II"
+    },
+    "weapon-long-sword-brazenreach-i": {
+      "Key": "weapon-long-sword-brazenreach-i",
+      "Translation": "Brazenreach我"
+    },
+    "weapon-long-sword-brazenreach-ii": {
+      "Key": "weapon-long-sword-brazenreach-ii",
+      "Translation": "Brazenreach II"
+    },
+    "weapon-long-sword-consummate-katana": {
+      "Key": "weapon-long-sword-consummate-katana",
+      "Translation": "精湛的武士刀"
+    },
+    "weapon-long-sword-deathblade-vaal-grosser": {
+      "Key": "weapon-long-sword-deathblade-vaal-grosser",
+      "Translation": "Deathblade瓦尔格罗瑟"
+    },
+    "weapon-tree-rajang-tree": {
+      "Key": "weapon-tree-rajang-tree",
+      "Translation": "拉让树"
+    },
+    "weapon-long-sword-demon-halberd": {
+      "Key": "weapon-long-sword-demon-halberd",
+      "Translation": "恶魔戟"
+    },
+    "weapon-long-sword-dipterus-varzea-i": {
+      "Key": "weapon-long-sword-dipterus-varzea-i",
+      "Translation": "Dipterus我瓦尔泽亚"
+    },
+    "weapon-long-sword-dipterus-varzea-ii": {
+      "Key": "weapon-long-sword-dipterus-varzea-ii",
+      "Translation": "Dipterus II瓦尔泽亚"
+    },
+    "weapon-long-sword-dragonseal-aldblade-i": {
+      "Key": "weapon-long-sword-dragonseal-aldblade-i",
+      "Translation": "Dragonseal Aldblade我"
+    },
+    "weapon-long-sword-dragonseal-aldblade-ii": {
+      "Key": "weapon-long-sword-dragonseal-aldblade-ii",
+      "Translation": "Dragonseal Aldblade II"
+    },
+    "weapon-tree-glavenus-tree": {
+      "Key": "weapon-tree-glavenus-tree",
+      "Translation": "Glavenus树"
+    },
+    "weapon-long-sword-glavenus-spada-i": {
+      "Key": "weapon-long-sword-glavenus-spada-i",
+      "Translation": "Glavenus我斯帕达"
+    },
+    "weapon-long-sword-glavenus-spada-ii": {
+      "Key": "weapon-long-sword-glavenus-spada-ii",
+      "Translation": "Glavenus斯巴达II"
+    },
+    "weapon-tree-fulgur-anjanath-tree": {
+      "Key": "weapon-tree-fulgur-anjanath-tree",
+      "Translation": "Fulgur Anjanath树"
+    },
+    "weapon-long-sword-gnashing-fulgur-i": {
+      "Key": "weapon-long-sword-gnashing-fulgur-i",
+      "Translation": "咬牙切齿Fulgur我"
+    },
+    "weapon-long-sword-gnashing-fulgur-ii": {
+      "Key": "weapon-long-sword-gnashing-fulgur-ii",
+      "Translation": "咬牙切齿Fulgur II"
+    },
+    "weapon-long-sword-grand-khopesh-i": {
+      "Key": "weapon-long-sword-grand-khopesh-i",
+      "Translation": "大Khopesh我"
+    },
+    "weapon-long-sword-grand-khopesh-ii": {
+      "Key": "weapon-long-sword-grand-khopesh-ii",
+      "Translation": "大Khopesh II"
+    },
+    "weapon-long-sword-grand-khopesh-iii": {
+      "Key": "weapon-long-sword-grand-khopesh-iii",
+      "Translation": "大Khopesh III"
+    },
+    "weapon-tree-namielle-tree": {
+      "Key": "weapon-tree-namielle-tree",
+      "Translation": "Namielle树"
+    },
+    "weapon-long-sword-hydra-tornaria": {
+      "Key": "weapon-long-sword-hydra-tornaria",
+      "Translation": "水润Tornaria"
+    },
+    "weapon-long-sword-icebrink": {
+      "Key": "weapon-long-sword-icebrink",
+      "Translation": "Icebrink"
+    },
+    "weapon-long-sword-imperial-flickerflame": {
+      "Key": "weapon-long-sword-imperial-flickerflame",
+      "Translation": "帝国Flickerflame"
+    },
+    "weapon-long-sword-iron-eschaton-i": {
+      "Key": "weapon-long-sword-iron-eschaton-i",
+      "Translation": "铁末世我"
+    },
+    "weapon-long-sword-iron-eschaton-ii": {
+      "Key": "weapon-long-sword-iron-eschaton-ii",
+      "Translation": "铁末世II"
+    },
+    "weapon-long-sword-iron-eschaton-iii": {
+      "Key": "weapon-long-sword-iron-eschaton-iii",
+      "Translation": "铁末世III"
+    },
+    "weapon-long-sword-kadachi-daito-i": {
+      "Key": "weapon-long-sword-kadachi-daito-i",
+      "Translation": "Kadachi大东II"
+    },
+    "weapon-long-sword-legia-stealer-plus": {
+      "Key": "weapon-long-sword-legia-stealer-plus",
+      "Translation": "莱吉亚偷窃者+"
+    },
+    "weapon-long-sword-magdaros-volcansword": {
+      "Key": "weapon-long-sword-magdaros-volcansword",
+      "Translation": "Magdaros Volcansword"
+    },
+    "weapon-tree-banbaro-tree": {
+      "Key": "weapon-tree-banbaro-tree",
+      "Translation": "Banbaro树"
+    },
+    "weapon-long-sword-mammoth-longblade-i": {
+      "Key": "weapon-long-sword-mammoth-longblade-i",
+      "Translation": "猛犸长剑我"
+    },
+    "weapon-long-sword-mammoth-longblade-ii": {
+      "Key": "weapon-long-sword-mammoth-longblade-ii",
+      "Translation": "猛犸长剑II"
+    },
+    "weapon-long-sword-rafiq-al-nasr-i": {
+      "Key": "weapon-long-sword-rafiq-al-nasr-i",
+      "Translation": "拉菲克·纳赛尔我"
+    },
+    "weapon-long-sword-rafiq-al-nasr-ii": {
+      "Key": "weapon-long-sword-rafiq-al-nasr-ii",
+      "Translation": "拉菲克·纳赛尔II"
+    },
+    "weapon-long-sword-rooksearer-long-sword": {
+      "Key": "weapon-long-sword-rooksearer-long-sword",
+      "Translation": "Rooksearer长剑"
+    },
+    "weapon-tree-tigrex-tree": {
+      "Key": "weapon-tree-tigrex-tree",
+      "Translation": "Tigrex树"
+    },
+    "weapon-long-sword-tigrine-edge": {
+      "Key": "weapon-long-sword-tigrine-edge",
+      "Translation": "Tigrine边缘"
+    },
+    "weapon-long-sword-tigrine-edge-plus": {
+      "Key": "weapon-long-sword-tigrine-edge-plus",
+      "Translation": "Tigrine边缘+"
+    },
+    "weapon-long-sword-tigrine-need": {
+      "Key": "weapon-long-sword-tigrine-need",
+      "Translation": "Tigrine极品"
+    },
+    "weapon-tree-yian-garuga-tree": {
+      "Key": "weapon-tree-yian-garuga-tree",
+      "Translation": "艾安白头树树"
+    },
+    "weapon-long-sword-usurpers-boltslicer": {
+      "Key": "weapon-long-sword-usurpers-boltslicer",
+      "Translation": "篡位的Boltslicer"
+    },
+    "weapon-long-sword-wyvern-blade-blossom": {
+      "Key": "weapon-long-sword-wyvern-blade-blossom",
+      "Translation": "翼龙刃“花”"
+    },
+    "weapon-long-sword-wyvern-blade-blossom-plus": {
+      "Key": "weapon-long-sword-wyvern-blade-blossom-plus",
+      "Translation": "翼龙刃“花” +"
+    },
+    "weapon-long-sword-wyvern-blade-indigo-plus": {
+      "Key": "weapon-long-sword-wyvern-blade-indigo-plus",
+      "Translation": "翼龙刃“靛蓝” +"
+    },
+    "weapon-long-sword-wyvern-blade-empyrean": {
+      "Key": "weapon-long-sword-wyvern-blade-empyrean",
+      "Translation": "翼龙刃“崇高，”"
+    },
+    "weapon-tree-shara-ishvalda-tree": {
+      "Key": "weapon-tree-shara-ishvalda-tree",
+      "Translation": "沙雷Ishvalda树"
+    },
+    "weapon-long-sword-radiant-flow": {
+      "Key": "weapon-long-sword-radiant-flow",
+      "Translation": "辐射流量"
+    },
+    "weapon-long-sword-reverent-elusarca": {
+      "Key": "weapon-long-sword-reverent-elusarca",
+      "Translation": "虔诚Elusarca"
+    },
+    "weapon-tree-zinogre-tree": {
+      "Key": "weapon-tree-zinogre-tree",
+      "Translation": "Zinogre树"
+    },
+    "weapon-long-sword-usurper-boltslicer-plus": {
+      "Key": "weapon-long-sword-usurper-boltslicer-plus",
+      "Translation": "篡位Boltslicer +"
+    },
+    "weapon-long-sword-hoarcry-stealer": {
+      "Key": "weapon-long-sword-hoarcry-stealer",
+      "Translation": "Hoarcry偷窃者"
+    },
+    "weapon-long-sword-despots-boltbreaker": {
+      "Key": "weapon-long-sword-despots-boltbreaker",
+      "Translation": "暴君的Boltbreaker"
+    },
+    "weapon-long-sword-daito-crow": {
+      "Key": "weapon-long-sword-daito-crow",
+      "Translation": "大东乌鸦"
+    },
+    "weapon-tree-viper-kadachi-tree": {
+      "Key": "weapon-tree-viper-kadachi-tree",
+      "Translation": "蝰蛇Kadachi树"
+    },
+    "weapon-long-sword-crimson-viperfang-i": {
+      "Key": "weapon-long-sword-crimson-viperfang-i",
+      "Translation": "深红Viperfang我"
+    },
+    "weapon-long-sword-crimson-viperfang-ii": {
+      "Key": "weapon-long-sword-crimson-viperfang-ii",
+      "Translation": "深红Viperfang II"
+    },
+    "weapon-long-sword-black-tornaria": {
+      "Key": "weapon-long-sword-black-tornaria",
+      "Translation": "黑Tornaria"
+    },
+    "weapon-long-sword-bazel-prozio-rooksearer": {
+      "Key": "weapon-long-sword-bazel-prozio-rooksearer",
+      "Translation": "巴泽尔Prozio Rooksearer"
+    },
+    "weapon-long-sword-apsara-glacia": {
+      "Key": "weapon-long-sword-apsara-glacia",
+      "Translation": "仙女Glacia"
+    },
+    "weapon-tree-nargacuga-tree": {
+      "Key": "weapon-tree-nargacuga-tree",
+      "Translation": "Nargacuga树"
+    },
+    "weapon-long-sword-hidden-saber": {
+      "Key": "weapon-long-sword-hidden-saber",
+      "Translation": "隐剑"
+    },
+    "weapon-long-sword-hidden-saber-plus": {
+      "Key": "weapon-long-sword-hidden-saber-plus",
+      "Translation": "隐剑+"
+    },
+    "weapon-long-sword-deepest-night": {
+      "Key": "weapon-long-sword-deepest-night",
+      "Translation": "最深的夜"
     }
   }
