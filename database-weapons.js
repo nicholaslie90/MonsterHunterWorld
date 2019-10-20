@@ -39907,8 +39907,180 @@ let gunlanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Chrome Halberd I',
+                'from': 'Chrome Gunlance II',
+                'translationKey': 'weapon-gunlance-chrome-halberd-i',
+                'icon': require('./assets/weapons/gunlance/chrome_halberd_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '9',
+                'attack': '506',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Blast (300)',
+                'slots': '1 1 -',
+                'shellingType': 'Normal',
+                'shellingLevel': 'Lv 4',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Eltalite Ore',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Carbalite Ore',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Spiritvein Crystal',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Gracium',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Chrome Halberd II',
+                'from': 'Chrome Halberd I',
+                'translationKey': 'weapon-gunlance-chrome-halberd-ii',
+                'icon': require('./assets/weapons/gunlance/chrome_halberd_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '10',
+                'attack': '552',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Blast (330)',
+                'slots': '1 1 -',
+                'shellingType': 'Normal',
+                'shellingLevel': 'Lv 5',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Eltalite Ore',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Meldspar Ore',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Bathycite Ore',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Chrome Halberd III',
+                'from': 'Chrome Halberd II',
+                'translationKey': 'weapon-gunlance-chrome-halberd-iii',
+                'icon': require('./assets/weapons/gunlance/chrome_halberd_iii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '11',
+                'attack': '598',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Blast (360)',
+                'slots': '1 1 -',
+                'shellingType': 'Normal',
+                'shellingLevel': 'Lv 6',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Pure Dragon Blood',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Eltalite Ore',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Meldspar Ore',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Purecrystal',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-yian-garuga-tree',
+        data: [{
+            'name': 'Blackwing Gunlance I',
+            'from': 'Chrome Halberd II',
+            'translationKey': 'weapon-gunlance-blackwing-gunlance-i',
+            'icon': require('./assets/weapons/gunlance/blackwing_gunlance_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '598',
+            'sharpness': 'white',
+            'affinity': '20%',
+            'element': 'Poison 210',
+            'slots': '3 - -',
+            'shellingType': 'Long',
+            'shellingLevel': 'Lv 5',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Garuga Shard',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Garuga Silverpelt',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Garuga Auricle',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Fey Wyvern Gem',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Blackwing Gunlance II',
+            'from': 'Blackwing Gunlance I',
+            'translationKey': 'weapon-gunlance-blackwing-gunlance-ii',
+            'icon': require('./assets/weapons/gunlance/blackwing_gunlance_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '11',
+            'attack': '621',
+            'sharpness': 'white',
+            'affinity': '25%',
+            'element': 'Poison 240',
+            'slots': '3 - -',
+            'shellingType': 'Long',
+            'shellingLevel': 'Lv 6',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Scratched Shell',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Garuga Fellwing',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Fancy Beak',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Large Wyvern Gem',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-nergigante-tree',
@@ -40017,7 +40189,42 @@ let gunlanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Ruinous Eradication',
+                'from': 'Eradication Flame',
+                'translationKey': 'weapon-gunlance-ruinous-eradication',
+                'icon': require('./assets/weapons/gunlance/ruinous-eradication.png'),
+                'weaponIcon': require('./assets/weapons/rarity/12-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '12',
+                'attack': '667',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 210',
+                'elderseal': 'High',
+                'slots': '2 - -',
+                'shellingType': 'Wide',
+                'shellingLevel': 'Lv 5',
+                'cost': '80000',
+                'materials': [{
+                        'name': 'Annihilating Greathorn',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Nergigante Hardclaw',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Eternal Regrowth Plate',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Large Elder Dragon Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -40322,8 +40529,179 @@ let gunlanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Mythic Kadachi Striker+',
+                'from': 'Mythic Kadachi Striker',
+                'translationKey': 'weapon-gunlance-mythic-kadachi-striker-plus',
+                'icon': require('./assets/weapons/gunlance/mythical_kadachi_striker_plus.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '9',
+                'attack': '483',
+                'sharpness': 'white',
+                'affinity': '20%',
+                'element': 'Thunder 450',
+                'slots': '1 - -',
+                'shellingType': 'Long',
+                'shellingLevel': 'Lv 4',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Tobi-Kadachi Hardclaw',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Shard',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Thickfur',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Lightning Sac',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Thundering Striker',
+                'from': 'Mything Kadachi Striker+',
+                'translationKey': 'weapon-gunlance-thundering-striker',
+                'icon': require('./assets/weapons/gunlance/thundering_striker.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '10',
+                'attack': '529',
+                'sharpness': 'white',
+                'affinity': '20%',
+                'element': 'Thunder 510',
+                'slots': '1 - -',
+                'shellingType': 'Long',
+                'shellingLevel': 'Lv 5',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Hard Odogaron Sinew',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Cathode',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Membrane+',
+                        'quantity': '2'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-viper-kadachi-tree',
+        data: [{
+            'name': 'Crimson Ember',
+            'from': 'Mythic Kadachi Striker',
+            'translationKey': 'weapon-gunlance-crimson-ember',
+            'icon': require('./assets/weapons/gunlance/crimson_ember.png'),
+            'weaponIcon': require('./assets/weapons/rarity/9-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '9',
+            'attack': '529',
+            'sharpness': 'white',
+            'affinity': '15%',
+            'element': 'Paralysis 270',
+            'slots': '1 - -',
+            'shellingType': 'Long',
+            'shellingLevel': 'Lv 4',
+            'cost': '20000',
+            'materials': [{
+                    'name': 'Viper Tobi-Kadachi Hardclaw',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Viper Tobi-Kadachi Shard',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Viper Tobi-Kadachi Thickfur',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Ultraplegia Sac',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Crimson Ember+',
+            'from': 'Crimson Ember',
+            'translationKey': 'weapon-gunlance-crimson-ember-plus',
+            'icon': require('./assets/weapons/gunlance/crimson_ember_plus.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '575',
+            'sharpness': 'white',
+            'affinity': '15%',
+            'element': 'Paralysis 300',
+            'slots': '1 - -',
+            'shellingType': 'Long',
+            'shellingLevel': 'Lv 5',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Acidic Glavenus Spineshell',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Viper Tobi-Kadachi Thorn',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Viper Tobi-Kadachi Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Viper Tobi-Kadachi Membrane+',
+                    'quantity': '2'
+                }
+            ],
+        }, {
+            'name': 'Crimson Hornet',
+            'from': 'Crimson Ember+',
+            'translationKey': 'weapon-gunlance-crimson-hornet',
+            'icon': require('./assets/weapons/gunlance/crimson_hornet.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '11',
+            'attack': '598',
+            'sharpness': 'white',
+            'affinity': '15%',
+            'element': 'Paralysis 330',
+            'slots': '1 - -',
+            'shellingType': 'Long',
+            'shellingLevel': 'Lv 6',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Large Elder Dragon Bone',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Viper Tobi-Kadachi Thorn',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Ultraplegia Sac',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Large Wyvern Gem',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-rathalos-tree',
@@ -40586,6 +40964,108 @@ let gunlanceTree = [{
                     }
                 ]
             },
+            {
+                'name': 'Blue Chariot+',
+                'from': 'Blue Chariot',
+                'translationKey': 'weapon-gunlance-blue-chariot-plus',
+                'icon': require('./assets/weapons/gunlance/blue_chariot_plus.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '10',
+                'attack': '506',
+                'sharpness': 'white',
+                'affinity': '20%',
+                'element': 'Fire 270',
+                'slots': '1 - -',
+                'shellingType': 'Long',
+                'shellingLevel': 'Lv 5',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Rathalos Shard',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Rathalos Cortex',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Rathalos Fellwing',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Rath Wingtalon+',
+                        'quantity': '4'
+                    }
+                ],
+            },
+            {
+                'name': 'Soul Chariot',
+                'from': 'Blue Chariot+',
+                'translationKey': 'weapon-gunlance-soul-chariot',
+                'icon': require('./assets/weapons/gunlance/soul_chariot.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '10',
+                'attack': '552',
+                'sharpness': 'white',
+                'affinity': '20%',
+                'element': 'Fire 300',
+                'slots': '1 - -',
+                'shellingType': 'Long',
+                'shellingLevel': 'Lv 5',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Azure Rathalos Shard',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Azure Rathalos Cortex',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Azure Rathalos Fellwing',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Rathalos Mantle',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Chariot Gun',
+                'from': 'Soul Chariot',
+                'translationKey': 'weapon-gunlance-chariot-gun',
+                'icon': require('./assets/weapons/gunlance/chariot_gun.png'),
+                'weaponIcon': require('./assets/weapons/rarity/12-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '12',
+                'attack': '621',
+                'sharpness': 'white',
+                'affinity': '20%',
+                'element': 'Fire 330',
+                'slots': '2 - -',
+                'shellingType': 'Long',
+                'shellingLevel': 'Lv 6',
+                'cost': '80000',
+                'materials': [{
+                        'name': 'Silver Rathalos Shard',
+                        'quantity': '8'
+                    },
+                    {
+                        'name': 'Silver Rathalos Cortex',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Silver Rathalos Lash',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Rath Gleam',
+                        'quantity': '2'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -40792,7 +41272,105 @@ let gunlanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Royal Burst+',
+                'from': 'Royal Burst',
+                'translationKey': 'weapon-gunlance-royal-burst-plus',
+                'icon': require('./assets/weapons/gunlance/royal_burst_plus.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '9',
+                'attack': '529',
+                'sharpness': 'white',
+                'affinity': '15%',
+                'element': 'Poison 360',
+                'slots': '1 - -',
+                'shellingType': 'Normal',
+                'shellingLevel': 'Lv 5',
+                'cost': '20000',
+                'materials': [{
+                        'name': 'Rathian Surspike',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Rathian Shard',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Rathian Cortex',
+                        'quantity': '4'
+                    },
+                ],
+            },
+            {
+                'name': 'Highness\'s Fury',
+                'from': 'Royal Burst+',
+                'translationKey': 'weapon-gunlance-highnesss-fury',
+                'icon': require('./assets/weapons/gunlance/highnesss_fury.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '10',
+                'attack': '598',
+                'sharpness': 'white',
+                'affinity': '15%',
+                'element': 'Poison 390',
+                'slots': '1 - -',
+                'shellingType': 'Normal',
+                'shellingLevel': 'Lv 5',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Monster Solidbone',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Pink Rathian Shard',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Pink Rathian Cortex',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Rathian Mantle',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Queen\'s Panoply',
+                'from': 'Highness\'s Fury',
+                'translationKey': 'weapon-gunlance-queens-panoply',
+                'icon': require('./assets/weapons/gunlance/queens_panoply.png'),
+                'weaponIcon': require('./assets/weapons/rarity/12-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '12',
+                'attack': '667',
+                'sharpness': 'white',
+                'affinity': '15%',
+                'element': 'Poison 450',
+                'slots': '1 - -',
+                'shellingType': 'Normal',
+                'shellingLevel': 'Lv 6',
+                'cost': '80000',
+                'materials': [{
+                        'name': 'Gold Rathian Surspike',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Gold Rathian Shard',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Gold Rathian Cortex',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Rath Gleam',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -41105,8 +41683,176 @@ let gunlanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Jyura Demolisher I',
+                'from': 'Jyura Buster III',
+                'translationKey': 'weapon-gunlance-jyura-demolisher-i',
+                'icon': require('./assets/weapons/gunlance/jyura_demolisher_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '9',
+                'attack': '506',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Water 390',
+                'slots': '3 1 -',
+                'shellingType': 'Wide',
+                'shellingLevel': 'Lv 4',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Jyuratodus Grandfin',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Jyuratodus Hardfang',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Jyuratodus Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Gajau Thickhide',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Jyura Demolisher II',
+                'from': 'Jyura Demolisher I',
+                'translationKey': 'weapon-gunlance-jyura-demolisher-ii',
+                'icon': require('./assets/weapons/gunlance/jyura_demolisher_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '10',
+                'attack': '598',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Water 420',
+                'slots': '3 1 -',
+                'shellingType': 'Wide',
+                'shellingLevel': 'Lv 5',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Monster Slogbone',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Jyuratodus Grandfin',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Flood Sac',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Steel Gajau Whisker',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-barioth-tree',
+        data: [{
+            'name': 'Twinfang',
+            'from': 'Jyura Demolisher I',
+            'translationKey': 'weapon-gunlance-twinfang',
+            'icon': require('./assets/weapons/gunlance/twinfang.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '506',
+            'sharpness': 'white',
+            'affinity': '20%',
+            'element': 'Ice 210',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 4',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Barioth Hardclaw',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Barioth Cortex',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Cryo Sac',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Frozen Bone',
+                    'quantity': '3'
+                }
+            ],
+        }, {
+            'name': 'Twinfang+',
+            'from': 'Twinfang',
+            'translationKey': 'weapon-gunlance-twinfang-plus',
+            'icon': require('./assets/weapons/gunlance/twinfang_plus.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '529',
+            'sharpness': 'white',
+            'affinity': '25%',
+            'element': 'Ice 270',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 5',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Obsidian Icetalon',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Amber Hardfang',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Barioth Greatspike',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Large Wyvern Gem',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Ambermarch',
+            'from': 'Twinlance+',
+            'translationKey': 'weapon-gunlance-ambermarch',
+            'icon': require('./assets/weapons/gunlance/ambermarch.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '11',
+            'attack': '575',
+            'sharpness': 'white',
+            'affinity': '30%',
+            'element': 'Ice 330',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 5',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Velkhana Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Barioth Hardclaw',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Amber Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Large Elder Dragon Bone',
+                    'quantity': '5'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-legiana-tree',
@@ -41309,8 +42055,144 @@ let gunlanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Legiana Cannon III',
+                'from': 'Legiana Cannon II',
+                'translationKey': 'weapon-gunlance-legiana-cannon-iii',
+                'icon': require('./assets/weapons/gunlance/legiana_cannon_iii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '10',
+                'attack': '483',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Ice 450',
+                'shellingType': 'Normal',
+                'shellingLevel': 'Lv 5',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Legiana Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Legiana Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Legiana Tail Webbing+',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Frozen Bone',
+                        'quantity': '3'
+                    }
+                ],
+            },
+            {
+                'name': 'Hoarcry Cannon',
+                'from': 'Legiana Cannon III',
+                'translationKey': 'weapon-gunlance-hoarcry-cannon',
+                'icon': require('./assets/weapons/gunlance/hoarcry_cannon.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '10',
+                'attack': '529',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Ice 570',
+                'slots': '1 - -',
+                'shellingType': 'Normal',
+                'shellingLevel': 'Lv 6',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Obsidian Icetalon',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Rimed Hide',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Stark Wing',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Cryo Sac',
+                        'quantity': '4'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-nargacuga-tree',
+        data: [{
+            'name': 'Hidden Cannon I',
+            'from': 'Legiana Cannon II',
+            'translationKey': 'weapon-gunlance-hidden-cannon-i',
+            'icon': require('./assets/weapons/gunlance/hidden_cannon_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '483',
+            'sharpness': 'white',
+            'affinity': '15%',
+            'element': 'Poison (420)',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 4',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Nargacuga Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Nargacuga Shard',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Nargacuga Tailspear',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Meldspar Ore',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Hidden Cannon II',
+            'from': 'Hidden Cannon I',
+            'translationKey': 'weapon-gunlance-hidden-cannon-ii',
+            'icon': require('./assets/weapons/gunlance/hidden_cannon_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '529',
+            'sharpness': 'purple',
+            'affinity': '20%',
+            'element': 'Poison (570)',
+            'slots': '1 - -',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 5',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Fulgur Anjanath Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Nargacuga Cutwing+',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Nargacuga Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Nargacuga Mantle',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-bone-tree',
@@ -41675,8 +42557,183 @@ let gunlanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Dragonpike "Quake" I',
+                'from': 'Great Bone Gunlance II',
+                'translationKey': 'weapon-gunlance-dragonpike-quake-i',
+                'icon': require('./assets/weapons/gunlance/dragonpike_quake_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '9',
+                'attack': '529',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Thunder (300)',
+                'slots': '3 - -',
+                'defenseBonus': '+35',
+                'shellingType': 'Long',
+                'shellingLevel': 'Lv 4',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Thick Bone',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Quality Bone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Monster Hardbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Frozen Bone',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Dragonpike "Quake" II',
+                'from': 'Dragonpike "Quake" I',
+                'translationKey': 'weapon-gunlance-dragonpike-quake-ii',
+                'icon': require('./assets/weapons/gunlance/dragonpike_quake_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '10',
+                'attack': '575',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Thunder (330)',
+                'slots': '3 - -',
+                'defenseBonus': '+35',
+                'shellingType': 'Long',
+                'shellingLevel': 'Lv 5',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Monster Solidbone',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Thick Bone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Monster Essence',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Dragonpike "Quake" III',
+                'from': 'Dragonpike "Quake" II',
+                'translationKey': 'weapon-gunlance-dragonpike-quake-iii',
+                'icon': require('./assets/weapons/gunlance/dragonpike_quake_iii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '11',
+                'attack': '644',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Thunder (360)',
+                'slots': '3 - -',
+                'defenseBonus': '+35',
+                'shellingType': 'Long',
+                'shellingLevel': 'Lv 5',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Large Elder Dragon Bone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Monster Solidbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Thick Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Dragonbone Artifact',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-velkhana-tree',
+        data: [{
+            'name': 'Eisritter',
+            'from': 'Dragonpike "Quake" II',
+            'translationKey': 'weapon-gunlance-eisritter',
+            'icon': require('./assets/weapons/gunlance/eisritter.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '11',
+            'attack': '598',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Ice 240',
+            'slots': '4 - -',
+            'shellingType': 'Normal',
+            'shellingLevel': 'Lv 6',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Crystal Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Velkhana Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Velkhana Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Purecrystal',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Vorpal Icefort',
+            'from': 'Eisritter',
+            'translationKey': 'weapon-gunlance-vorpal-icefort',
+            'icon': require('./assets/weapons/gunlance/vorpal_icefort.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '12',
+            'attack': '621',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Ice 270',
+            'slots': '4 - -',
+            'shellingType': 'Normal',
+            'shellingLevel': 'Lv 6',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Shara Ishvalda Tenderclaw',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Velkhana Crownhorn',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Velkhana Hardclaw',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Velkhana Crystal',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-bazelgeuse-tree',
@@ -41781,11 +42838,45 @@ let gunlanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Bazelpride',
+                'from': 'Bazel Buster II',
+                'translationKey': 'weapon-gunlance-bazelpride',
+                'icon': require('./assets/weapons/gunlance/bazelpride.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '11',
+                'attack': '598',
+                'sharpness': 'white',
+                'affinity': '-10%',
+                'element': 'Blast 270',
+                'slots': '1 1 -',
+                'shellingType': 'Wide',
+                'shellingLevel': 'Lv 5',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Bazelgeuse Hardclaw',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Bazelgeuse Shard',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Distilled Blast Fluid',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Meldspar Ore',
+                        'quantity': '5'
+                    }
+                ],
+            },
         ]
     },
     {
-        title: 'Great Jagras Tree',
+        title: 'weapon-tree-great-jagras-tree',
         data: [{
                 'name': 'Jagras Gunlance I',
                 'from': 'Bone Gunlance II',
@@ -42088,11 +43179,247 @@ let gunlanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Glutton\'s Fang I',
+                'from': 'Glutton Gunlance III',
+                'translationKey': 'weapon-gunlance-gluttons-fang-i',
+                'icon': require('./assets/weapons/gunlance/gluttons_fang_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '9',
+                'attack': '529',
+                'sharpness': 'blue',
+                'affinity': '0%',
+                'element': 'Sleep (360)',
+                'slots': '3 3 -',
+                'shellingType': 'Normal',
+                'shellingLevel': 'Lv 4',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Great Jagras Shard',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Great Jagras Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Great Jagras Mane+',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Jagras Shard',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Glutton\'s Fang II',
+                'from': 'Glutton\'s Fang I',
+                'translationKey': 'weapon-gunlance-gluttons-fang-ii',
+                'icon': require('./assets/weapons/gunlance/gluttons_fang_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '10',
+                'attack': '598',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Sleep (420)',
+                'slots': '3 3 -',
+                'shellingType': 'Normal',
+                'shellingLevel': 'Lv 6',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Great Jagras Hardclaw',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Great Jagras Thickhide',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Tough Claw',
+                        'quantity': '3'
+                    }
+                ],
+            },
         ]
     },
     {
-        title: 'Great Girros Tree',
+        title: 'weapon-tree-tigrex-tree',
+        data: [{
+            'name': 'Tiger Blast',
+            'from': 'Glutton\'s Fang I',
+            'translationKey': 'weapon-gunlance-tiger-blast',
+            'icon': require('./assets/weapons/gunlance/tiger_blast.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '575',
+            'sharpness': 'white',
+            'affinity': '-15%',
+            'element': 'Blast (300)',
+            'shellingType': 'Long',
+            'shellingLevel': 'Lv 5',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Tigrex Hardclaw',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Tigrex Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Monster Slogbone',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Thick Bone',
+                    'quantity': '5'
+                }
+            ],
+        }, {
+            'name': 'Tiger Blast+',
+            'from': 'Tiger Blast',
+            'translationKey': 'weapon-gunlance-tiger-blast',
+            'icon': require('./assets/weapons/gunlance/tiger_blast_plus.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '621',
+            'sharpness': 'white',
+            'affinity': '-15%',
+            'element': 'Blast (330)',
+            'shellingType': 'Long',
+            'shellingLevel': 'Lv 5',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Blackcurl Stouthorn',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Tigrex Hardfang',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Tigrex Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Tigrex Mantle',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Tigrex Gunlance',
+            'from': 'Tigrex Blast+',
+            'translationKey': 'weapon-gunlance-tigrex-gunlance',
+            'icon': require('./assets/weapons/gunlance/tigrex_gunlance.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '11',
+            'attack': '644',
+            'sharpness': 'white',
+            'affinity': '-15%',
+            'element': 'Blast (360)',
+            'shellingType': 'Long',
+            'shellingLevel': 'Lv 5',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Daora Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Tigrex Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Tigrex Cortex',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Pure Dragon Blood',
+                    'quantity': '5'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-brute-tigrex-tree',
+        data: [{
+            'name': 'Accursed Blast',
+            'from': 'Tiger Blast',
+            'translationKey': 'weapon-gunlance-accursed-blast',
+            'icon': require('./assets/weapons/gunlance/accursed_blast.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '11',
+            'attack': '644',
+            'sharpness': 'white',
+            'affinity': '-30%',
+            'element': 'Sleep (240)',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 5',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Brute Tigrex Hardclaw',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Brute Tigrex Shard',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Brute Tigrex Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Large Wyvern Gem',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Flamebite',
+            'from': 'Accursed Blast',
+            'translationKey': 'weapon-gunlance-flamebite',
+            'icon': require('./assets/weapons/gunlance/flamebite.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '12',
+            'attack': '667',
+            'sharpness': 'white',
+            'affinity': '-30%',
+            'element': 'Sleep (270)',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 5',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Tempered Ebonjaw',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Brute Tigrex Hardclaw',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Brute Tigrex Hardfang',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Tigrex Mantle',
+                    'quantity': '1'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-great-girros-tree',
         data: [{
                 'name': 'Girros Gunlance I',
                 'from': 'Jagras Gunlance I',
@@ -42334,8 +43661,144 @@ let gunlanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Nightveil Gunlance I',
+                'from': 'Deathfang Gunlance III',
+                'translationKey': 'weapon-gunlance-nightveil-gunlance-i',
+                'icon': require('./assets/weapons/gunlance/nightveil_gunlance_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '9',
+                'attack': '460',
+                'sharpness': 'white',
+                'affinity': '20%',
+                'element': 'Paralysis 480',
+                'shellingType': 'Normal',
+                'shellingLevel': 'Lv 4',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Great Girros Hardfang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Great Girros Lash',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Ultraplegia Sac',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tough Claw',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Nightveil Gunlance II',
+                'from': 'Nightveil Gunlance I',
+                'translationKey': 'weapon-gunlance-nightveil-gunlance-ii',
+                'icon': require('./assets/weapons/gunlance/nightveil_gunlance_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '10',
+                'attack': '552',
+                'sharpness': 'white',
+                'affinity': '20%',
+                'element': 'Paralysis 510',
+                'shellingType': 'Normal',
+                'shellingLevel': 'Lv 5',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Odogaron Hardfang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Great Girros Shard',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Great Girros Hardfang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Fey Wyvern Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-glavenus-tree',
+        data: [{
+            'name': 'Glavenus Buster I',
+            'from': 'Nightveil Gunlance I',
+            'translationKey': 'weapon-gunlance-glavenus-buster-i',
+            'icon': require('./assets/weapons/gunlance/glavenus_buster_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '529',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Fire 300',
+            'slots': '1 - -',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 4',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Glavenus Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Molten Bursa',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Eltalite Ore',
+                    'quantity': '6'
+                }
+            ],
+        }, {
+            'name': 'Glavenus Buster II',
+            'from': 'Glavenus Buster I',
+            'translationKey': 'weapon-gunlance-glavenus-buster-ii',
+            'icon': require('./assets/weapons/gunlance/glavenus_buster_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '575',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Fire 390',
+            'slots': '1 1 -',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 5',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Ebony Odogaron Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Hellshell',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Glavenus Tailedge',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Mantle',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-vaal-hazak-tree',
@@ -42442,11 +43905,116 @@ let gunlanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Deathlance Vaal Spysa',
+                'from': 'Hazak Spysa II',
+                'translationKey': 'weapon-gunlance-deathlance-vaal-spysa',
+                'icon': require('./assets/weapons/gunlance/deathlance_vaal_spysa.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '11',
+                'attack': '575',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 510',
+                'elderseal': 'Average',
+                'slots': '2 2 -',
+                'shellingType': 'Long',
+                'shellingLevel': 'Lv 6',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Vaal Hazak Hardclaw',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Shadowpierce Fang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Deceased Shard',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Deathweaver Membrane',
+                        'quantity': '3'
+                    }
+                ],
+            },
         ]
     },
     {
-        title: 'Barroth Tree',
+        title: 'weapon-tree-acidic-glavenus-tree',
+        data: [{
+            'name': 'Acid Buster I',
+            'from': 'Hazak Spysa II',
+            'translationKey': 'weapon-gunlance-acid-buster-i',
+            'icon': require('./assets/weapons/gunlance/acid_buster_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '621',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Paralysis (300)',
+            'slots': '4 - -',
+            'shellingType': 'Normal',
+            'shellingLevel': 'Lv 5',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Acidic Glavenus Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Acidic Glavenus Spineshell',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Acidic Glavenus Tailedge',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Honed Acidcryst',
+                    'quantity': '4'
+                }
+            ],
+        }, {
+            'name': 'Acid Buster II',
+            'from': 'Acid Buster I',
+            'translationKey': 'weapon-gunlance-acid-buster-ii',
+            'icon': require('./assets/weapons/gunlance/acid_buster_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '11',
+            'attack': '667',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Paralysis (330)',
+            'slots': '4 - -',
+            'shellingType': 'Normal',
+            'shellingLevel': 'Lv 6',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Vaal Hazak Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Acidic Glavenus Hardfang',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Acidic Glavenus Spineshell',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Glavenus Mantle',
+                    'quantity': '1'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-barroth-tree',
         data: [{
                 'name': 'Carapace Cannon I',
                 'from': 'Bone Gunlance II',
@@ -42748,8 +44316,319 @@ let gunlanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Barroth Bluff I',
+                'from': 'Barroth Blaster III',
+                'translationKey': 'weapon-gunlance-barroth-bluff-i',
+                'icon': require('./assets/weapons/gunlance/barroth_bluff_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '9',
+                'attack': '529',
+                'sharpness': 'white',
+                'affinity': '-10%',
+                'element': 'Paralysis (450)',
+                'slots': '2 2 -',
+                'shellingType': 'Wide',
+                'shellingLevel': 'Lv 4',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Barroth Hardclaw',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Barroth Cortex',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Barroth Chine',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Kestodon Husk',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Barroth Bluff II',
+                'from': 'Barroth Bluff I',
+                'translationKey': 'weapon-gunlance-barroth-bluff-ii',
+                'icon': require('./assets/weapons/gunlance/barroth_bluff_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '10',
+                'attack': '621',
+                'sharpness': 'white',
+                'affinity': '-10%',
+                'element': 'Paralysis (510)',
+                'slots': '2 2 -',
+                'defenseBonus': '+25',
+                'shellingType': 'Wide',
+                'shellingLevel': 'Lv 5',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Diablos Cortex',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Barroth Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Barroth Crown',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-brachydios-tree',
+        data: [{
+            'name': 'Brachydios Buster I',
+            'from': 'Barroth Bluff I',
+            'translationKey': 'weapon-gunlance-brachydios-buster-i',
+            'icon': require('./assets/weapons/gunlance/brachydios_buster_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '529',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Blast 300',
+            'shellingType': 'Normal',
+            'shellingLevel': 'Lv 5',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Brachydios Crown',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Brachydios Cortex',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Glowing Slime',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Meldspar Ore',
+                    'quantity': '3'
+                }
+            ],
+        }, {
+            'name': 'Brachydios Buster II',
+            'from': 'Brachydios Buster I',
+            'translationKey': 'weapon-gunlance-brachydios-buster-ii',
+            'icon': require('./assets/weapons/gunlance/brachydios_buster_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '552',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Blast 480',
+            'slots': '1 - -',
+            'shellingType': 'Normal',
+            'shellingLevel': 'Lv 6',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Azure Rathalos Fellwing',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Brachydios Pounder+',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Brachydios Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glowing Slime',
+                    'quantity': '5'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-banbaro-tree',
+        data: [{
+            'name': 'Mammoth Gunlance I',
+            'from': 'Barroth Blaster III',
+            'translationKey': 'weapon-gunlance-mammoth-gunlance-i',
+            'icon': require('./assets/weapons/gunlance/mammoth_gunlance_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/9-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '9',
+            'attack': '552',
+            'sharpness': 'blue',
+            'affinity': '0%',
+            'element': 'Ice (420)',
+            'slots': '4 - -',
+            'shellingType': 'Normal',
+            'shellingLevel': 'Lv 5',
+            'cost': '20000',
+            'materials': [{
+                    'name': 'Banbaro Great Horn',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Banbaro Cortex',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Banbaro Chine',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Monster Toughbone',
+                    'quantity': '3'
+                }
+            ],
+        }, {
+            'name': 'Mammoth Gunlance II',
+            'from': 'Mammoth Gunlance I',
+            'translationKey': 'weapon-gunlance-mammoth-gunlance-ii',
+            'icon': require('./assets/weapons/gunlance/mammoth_gunlance_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '644',
+            'sharpness': 'blue',
+            'affinity': '0%',
+            'element': 'Ice (510)',
+            'slots': '4 - -',
+            'shellingType': 'Normal',
+            'shellingLevel': 'Lv 6',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Monster Solidbone',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Banbaro Great Horn',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Banbaro Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Dragonbone Artifact',
+                    'quantity': '1'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-zinogre-tree',
+        data: [{
+            'name': 'Usurper\'s Roar',
+            'from': 'Mammoth Gunlance I',
+            'translationKey': 'weapon-gunlance-usurpers-roar',
+            'icon': require('./assets/weapons/gunlance/usurpers_roar.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '552',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Thunder 240',
+            'slots': '2 - -',
+            'shellingType': 'Normal',
+            'shellingLevel': 'Lv 6',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Zinogre Hardclaw',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Zinogre Deathly Shocker',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Zinogre Cortex',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Lightning Sac',
+                    'quantity': '3'
+                }
+            ],
+        }, {
+            'name': 'Usurper\'s Roar+',
+            'from': 'Usurper\'s Roar',
+            'translationKey': 'weapon-gunlance-usurpers-roar-plus',
+            'icon': require('./assets/weapons/gunlance/usurpers_roar_plus.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '11',
+            'attack': '575',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Thunder 300',
+            'slots': '2 - -',
+            'shellingType': 'Normal',
+            'shellingLevel': 'Lv 6',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Zinogre Hardhorn',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Zinogre Electrofur+',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Fulgurbug',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Zinogre Skymerald',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Despot\'s Phlogiston',
+            'from': 'Usurper\'s Roar+',
+            'translationKey': 'weapon-gunlance-despots-phlogiston',
+            'icon': require('./assets/weapons/gunlance/despots_phlogiston.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '12',
+            'attack': '598',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Thunder 450',
+            'slots': '2 - -',
+            'shellingType': 'Normal',
+            'shellingLevel': 'Lv 6',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Spirivein Solidbone',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Zinogre Hardhorn',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Zinogre Deathly Shocker',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Large Elder Dragon Gem',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-anjanath-tree',
@@ -42998,8 +44877,143 @@ let gunlanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Anjanath Flamelance I',
+                'from': 'Anja Cannon III',
+                'translationKey': 'weapon-gunlance-anjanath-flamelance-i',
+                'icon': require('./assets/weapons/gunlance/anjanath_flamelance_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '9',
+                'attack': '529',
+                'sharpness': 'white',
+                'affinity': '-20%',
+                'element': 'Fire 540',
+                'shellingType': 'Long',
+                'shellingLevel': 'Lv 5',
+                'cost': '20000',
+                'materials': [{
+                        'name': 'Anjanath Hardfang',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Anjanath Shard',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Conflagrant Sac',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Eltalite Ore',
+                        'quantity': '3'
+                    }
+                ],
+            },
+            {
+                'name': 'Anjanath Flamelance II',
+                'from': 'Anjanath Flamelance I',
+                'translationKey': 'weapon-gunlance-anjanath-flamelance-ii',
+                'icon': require('./assets/weapons/gunlance/anjanath_flamelance_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '10',
+                'attack': '621',
+                'sharpness': 'white',
+                'affinity': '-20%',
+                'element': 'Fire 600',
+                'shellingType': 'Long',
+                'shellingLevel': 'Lv 5',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Azure Rathalos Cortex',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Anjanath Fur',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Heavy Anjanath Nosebone',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Anjanath Lash',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-fulgur-anjanath-tree',
+        data: [{
+            'name': 'Ending Fulgur I',
+            'from': 'Anjanath Flamelance I',
+            'translationKey': 'weapon-gunlance-ending-fulgur-i',
+            'icon': require('./assets/weapons/gunlance/ending_fulgur_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '552',
+            'sharpness': 'white',
+            'affinity': '10%',
+            'element': 'Thunder 240',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 5',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Fulgur Anjanath Hardfang',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Fulgur Anjanath Shard',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Monster Solidbone',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Meldspar Ore',
+                    'quantity': '2'
+                }
+            ],
+        }, {
+            'name': 'Ending Fulgur II',
+            'from': 'Ending Fulgur I',
+            'translationKey': 'weapon-gunlance-ending-fulgur-ii',
+            'icon': require('./assets/weapons/gunlance/ending_fulgur_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '575',
+            'sharpness': 'white',
+            'affinity': '20%',
+            'element': 'Thunder 330',
+            'slots': '1 - -',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 5',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Fulgur Anjanath Thickfur',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Heavy Fulgur Anjanath Nosebone',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Fulgur Anjanath Lash',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Lightning Sac',
+                    'quantity': '3'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-dragonbone-tree',
@@ -43146,7 +45160,76 @@ let gunlanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Dragonseal Gunlance I',
+                'from': 'Dragonbone Gunlance III',
+                'translationKey': 'weapon-gunlance-dragonseal-gunlance-i',
+                'icon': require('./assets/weapons/gunlance/dragonseal_gunlance_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '10',
+                'attack': '483',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 540',
+                'elderseal': 'Average',
+                'slots': '1 1 -',
+                'shellingType': 'Normal',
+                'shellingLevel': 'Lv 5',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Monster Solidbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Monster Slogbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Thick Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Dragonbone Artifact',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Dragonseal Gunlance II',
+                'from': 'Dragonseal Gunlance I',
+                'translationKey': 'weapon-gunlance-dragonseal-gunlance-ii',
+                'icon': require('./assets/weapons/gunlance/dragonseal_gunlance_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '11',
+                'attack': '552',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 660',
+                'slots': '1 1 -',
+                'shellingType': 'Normal',
+                'shellingLevel': 'Lv 6',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Large Elder Dragon Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Monster Solidbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Lavasioth Grandfin',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Large Wyvern Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
