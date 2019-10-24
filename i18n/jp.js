@@ -21898,5 +21898,289 @@ export default {
     "weapon-long-sword-deepest-night": {
       "Key": "weapon-long-sword-deepest-night",
       "Translation": "最も深い夜"
+    },
+    "weapon-gunlance-chrome-halberd-i": {
+      "Key": "weapon-gunlance-chrome-halberd-i",
+      "Translation": "クロームハルバードI"
+    },
+    "weapon-gunlance-chrome-halberd-ii": {
+      "Key": "weapon-gunlance-chrome-halberd-ii",
+      "Translation": "クロームハルバードII"
+    },
+    "weapon-gunlance-chrome-halberd-iii": {
+      "Key": "weapon-gunlance-chrome-halberd-iii",
+      "Translation": "クロームハルバードIII"
+    },
+    "weapon-gunlance-blackwing-gunlance-i": {
+      "Key": "weapon-gunlance-blackwing-gunlance-i",
+      "Translation": "Blackwing Gunlance I"
+    },
+    "weapon-gunlance-blackwing-gunlance-ii": {
+      "Key": "weapon-gunlance-blackwing-gunlance-ii",
+      "Translation": "Blackwing Gunlance II"
+    },
+    "weapon-gunlance-ruinous-eradication": {
+      "Key": "weapon-gunlance-ruinous-eradication",
+      "Translation": "破滅的な撲滅"
+    },
+    "weapon-gunlance-mythic-kadachi-striker-plus": {
+      "Key": "weapon-gunlance-mythic-kadachi-striker-plus",
+      "Translation": "神話Kadachiストライカー+"
+    },
+    "weapon-gunlance-crimson-ember": {
+      "Key": "weapon-gunlance-crimson-ember",
+      "Translation": "クリムゾンエンバー"
+    },
+    "weapon-gunlance-crimson-ember-plus": {
+      "Key": "weapon-gunlance-crimson-ember-plus",
+      "Translation": "クリムゾンエンバー+"
+    },
+    "weapon-gunlance-crimson-hornet": {
+      "Key": "weapon-gunlance-crimson-hornet",
+      "Translation": "クリムゾンホーネット"
+    },
+    "weapon-gunlance-blue-chariot-plus": {
+      "Key": "weapon-gunlance-blue-chariot-plus",
+      "Translation": "ブルーチャリオット+"
+    },
+    "weapon-gunlance-soul-chariot": {
+      "Key": "weapon-gunlance-soul-chariot",
+      "Translation": "ソウルチャリオット"
+    },
+    "weapon-gunlance-chariot-gun": {
+      "Key": "weapon-gunlance-chariot-gun",
+      "Translation": "チャリオットガン"
+    },
+    "weapon-gunlance-royal-burst-plus": {
+      "Key": "weapon-gunlance-royal-burst-plus",
+      "Translation": "ロイヤルバースト+"
+    },
+    "weapon-gunlance-highnesss-fury": {
+      "Key": "weapon-gunlance-highnesss-fury",
+      "Translation": "殿下のフューリー"
+    },
+    "weapon-gunlance-queens-panoply": {
+      "Key": "weapon-gunlance-queens-panoply",
+      "Translation": "女王の一式"
+    },
+    "weapon-gunlance-jyura-demolisher-i": {
+      "Key": "weapon-gunlance-jyura-demolisher-i",
+      "Translation": "Jyura Demolisher I"
+    },
+    "weapon-gunlance-jyura-demolisher-ii": {
+      "Key": "weapon-gunlance-jyura-demolisher-ii",
+      "Translation": "Jyura Demolisher II"
+    },
+    "weapon-gunlance-twinfang": {
+      "Key": "weapon-gunlance-twinfang",
+      "Translation": "Twinfang"
+    },
+    "weapon-gunlance-twinfang-plus": {
+      "Key": "weapon-gunlance-twinfang-plus",
+      "Translation": "Twinfang +"
+    },
+    "weapon-gunlance-legiana-cannon-iii": {
+      "Key": "weapon-gunlance-legiana-cannon-iii",
+      "Translation": "LegianaキャノンIII"
+    },
+    "weapon-gunlance-hoarcry-cannon": {
+      "Key": "weapon-gunlance-hoarcry-cannon",
+      "Translation": "Hoarcryキャノン"
+    },
+    "weapon-gunlance-hidden-cannon-i": {
+      "Key": "weapon-gunlance-hidden-cannon-i",
+      "Translation": "隠しキャノンI"
+    },
+    "weapon-gunlance-hidden-cannon-ii": {
+      "Key": "weapon-gunlance-hidden-cannon-ii",
+      "Translation": "隠しキャノンII"
+    },
+    "weapon-gunlance-dragonpike-quake-i": {
+      "Key": "weapon-gunlance-dragonpike-quake-i",
+      "Translation": "Dragonpike \"クエイク\" I"
+    },
+    "weapon-gunlance-dragonpike-quake-ii": {
+      "Key": "weapon-gunlance-dragonpike-quake-ii",
+      "Translation": "Dragonpike \"クエイク\" II"
+    },
+    "weapon-gunlance-dragonpike-quake-iii": {
+      "Key": "weapon-gunlance-dragonpike-quake-iii",
+      "Translation": "Dragonpike \"クエイク\" III"
+    },
+    "weapon-gunlance-eisritter": {
+      "Key": "weapon-gunlance-eisritter",
+      "Translation": "Eisritter"
+    },
+    "weapon-gunlance-vorpal-icefort": {
+      "Key": "weapon-gunlance-vorpal-icefort",
+      "Translation": "ヴォーパルIcefort"
+    },
+    "weapon-gunlance-bazelpride": {
+      "Key": "weapon-gunlance-bazelpride",
+      "Translation": "Bazelpride"
+    },
+    "weapon-gunlance-gluttons-fang-i": {
+      "Key": "weapon-gunlance-gluttons-fang-i",
+      "Translation": "大食いの牙I"
+    },
+    "weapon-gunlance-gluttons-fang-ii": {
+      "Key": "weapon-gunlance-gluttons-fang-ii",
+      "Translation": "大食いの牙II"
+    },
+    "weapon-gunlance-tiger-blast": {
+      "Key": "weapon-gunlance-tiger-blast",
+      "Translation": "タイガーブラスト"
+    },
+    "weapon-gunlance-tiger-blast-plus": {
+      "Key": "weapon-gunlance-tiger-blast-plus",
+      "Translation": "タイガーブラスト+"
+    },
+    "weapon-tree-brute-tigrex-tree": {
+      "Key": "weapon-tree-brute-tigrex-tree",
+      "Translation": "ブルート轟竜の木"
+    },
+    "weapon-gunlance-accursed-blast": {
+      "Key": "weapon-gunlance-accursed-blast",
+      "Translation": "呪われたブラスト"
+    },
+    "weapon-gunlance-flamebite": {
+      "Key": "weapon-gunlance-flamebite",
+      "Translation": "Flamebite"
+    },
+    "weapon-gunlance-nightveil-gunlance-i": {
+      "Key": "weapon-gunlance-nightveil-gunlance-i",
+      "Translation": "Nightveil Gunlance I"
+    },
+    "weapon-gunlance-nightveil-gunlance-ii": {
+      "Key": "weapon-gunlance-nightveil-gunlance-ii",
+      "Translation": "Nightveil Gunlance II"
+    },
+    "weapon-gunlance-glavenus-buster-i": {
+      "Key": "weapon-gunlance-glavenus-buster-i",
+      "Translation": "GlavenusバスターI"
+    },
+    "weapon-gunlance-glavenus-buster-ii": {
+      "Key": "weapon-gunlance-glavenus-buster-ii",
+      "Translation": "GlavenusバスターII"
+    },
+    "weapon-gunlance-deathlance-vaal-spysa": {
+      "Key": "weapon-gunlance-deathlance-vaal-spysa",
+      "Translation": "DeathlanceヴァールSpysa"
+    },
+    "weapon-gunlance-acid-buster-i": {
+      "Key": "weapon-gunlance-acid-buster-i",
+      "Translation": "酸バスターI"
+    },
+    "weapon-gunlance-acid-buster-ii": {
+      "Key": "weapon-gunlance-acid-buster-ii",
+      "Translation": "酸バスターII"
+    },
+    "weapon-gunlance-barroth-bluff-i": {
+      "Key": "weapon-gunlance-barroth-bluff-i",
+      "Translation": "BarrothブラフI"
+    },
+    "weapon-gunlance-barroth-bluff-ii": {
+      "Key": "weapon-gunlance-barroth-bluff-ii",
+      "Translation": "BarrothブラフII"
+    },
+    "weapon-gunlance-brachydios-buster-i": {
+      "Key": "weapon-gunlance-brachydios-buster-i",
+      "Translation": "BrachydiosバスターI"
+    },
+    "weapon-gunlance-brachydios-buster-ii": {
+      "Key": "weapon-gunlance-brachydios-buster-ii",
+      "Translation": "BrachydiosバスターII"
+    },
+    "weapon-gunlance-mammoth-gunlance-i": {
+      "Key": "weapon-gunlance-mammoth-gunlance-i",
+      "Translation": "マンモスGunlance II"
+    },
+    "weapon-gunlance-usurpers-roar": {
+      "Key": "weapon-gunlance-usurpers-roar",
+      "Translation": "強奪者の咆哮"
+    },
+    "weapon-gunlance-usurpers-roar-plus": {
+      "Key": "weapon-gunlance-usurpers-roar-plus",
+      "Translation": "強奪者の咆哮+"
+    },
+    "weapon-gunlance-despots-phlogiston": {
+      "Key": "weapon-gunlance-despots-phlogiston",
+      "Translation": "専制君主のフロギストン"
+    },
+    "weapon-gunlance-anjanath-flamelance-i": {
+      "Key": "weapon-gunlance-anjanath-flamelance-i",
+      "Translation": "Anjanath Flamelance I"
+    },
+    "weapon-gunlance-anjanath-flamelance-ii": {
+      "Key": "weapon-gunlance-anjanath-flamelance-ii",
+      "Translation": "Anjanath Flamelance II"
+    },
+    "weapon-gunlance-ending-fulgur-i": {
+      "Key": "weapon-gunlance-ending-fulgur-i",
+      "Translation": "Fulgur Iの終了"
+    },
+    "weapon-gunlance-ending-fulgur-ii": {
+      "Key": "weapon-gunlance-ending-fulgur-ii",
+      "Translation": "Fulgur IIエンディング"
+    },
+    "weapon-gunlance-dragonseal-gunlance-i": {
+      "Key": "weapon-gunlance-dragonseal-gunlance-i",
+      "Translation": "Dragonseal Gunlance I"
+    },
+    "weapon-gunlance-dragonseal-gunlance-ii": {
+      "Key": "weapon-gunlance-dragonseal-gunlance-ii",
+      "Translation": "Dragonseal Gunlance II"
+    },
+    "weapon-gunlance-broken-silence": {
+      "Key": "weapon-gunlance-broken-silence",
+      "Translation": "壊れた沈黙"
+    },
+    "weapon-gunlance-magda-lahat-reforged": {
+      "Key": "weapon-gunlance-magda-lahat-reforged",
+      "Translation": "マグダLahat Reforged"
+    },
+    "weapon-gunlance-hydra-ephyra": {
+      "Key": "weapon-gunlance-hydra-ephyra",
+      "Translation": "ハイドラEphyra"
+    },
+    "weapon-gunlance-black-ephyra": {
+      "Key": "weapon-gunlance-black-ephyra",
+      "Translation": "ブラックEphyra"
+    },
+    "weapon-gunlance-daoras-tempest": {
+      "Key": "weapon-gunlance-daoras-tempest",
+      "Translation": "Daoraのテンペスト"
+    },
+    "weapon-gunlance-consummate-gunlance": {
+      "Key": "weapon-gunlance-consummate-gunlance",
+      "Translation": "至上Gunlance"
+    },
+    "weapon-gunlance-soulfire-talon-blaze": {
+      "Key": "weapon-gunlance-soulfire-talon-blaze",
+      "Translation": "Soulfireタロン「ブレイズ」"
+    },
+    "weapon-gunlance-soulfire-talon-ruin": {
+      "Key": "weapon-gunlance-soulfire-talon-ruin",
+      "Translation": "Soulfireタロン「遺跡」"
+    },
+    "weapon-gunlance-soulfire-talon-styx": {
+      "Key": "weapon-gunlance-soulfire-talon-styx",
+      "Translation": "Soulfireタロン「三途の川」"
+    },
+    "weapon-gunlance-demon-gunlance": {
+      "Key": "weapon-gunlance-demon-gunlance",
+      "Translation": "悪魔Gunlance"
+    },
+    "weapon-gunlance-great-demon-gunlance": {
+      "Key": "weapon-gunlance-great-demon-gunlance",
+      "Translation": "大魔王Gunlance"
+    },
+    "weapon-gunlance-gajalaka-firestabber": {
+      "Key": "weapon-gunlance-gajalaka-firestabber",
+      "Translation": "Gajalaka Firestabber"
+    },
+    "weapon-gunlance-gajalaka-firepike": {
+      "Key": "weapon-gunlance-gajalaka-firepike",
+      "Translation": "Gajalaka Firepike"
     }
   }

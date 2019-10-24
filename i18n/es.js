@@ -21898,5 +21898,289 @@ export default {
     "weapon-long-sword-deepest-night": {
       "Key": "weapon-long-sword-deepest-night",
       "Translation": "Noche profunda"
+    },
+    "weapon-gunlance-chrome-halberd-i": {
+      "Key": "weapon-gunlance-chrome-halberd-i",
+      "Translation": "Chrome Halberd I"
+    },
+    "weapon-gunlance-chrome-halberd-ii": {
+      "Key": "weapon-gunlance-chrome-halberd-ii",
+      "Translation": "Chrome Halberd II"
+    },
+    "weapon-gunlance-chrome-halberd-iii": {
+      "Key": "weapon-gunlance-chrome-halberd-iii",
+      "Translation": "Chrome Halberd III"
+    },
+    "weapon-gunlance-blackwing-gunlance-i": {
+      "Key": "weapon-gunlance-blackwing-gunlance-i",
+      "Translation": "Blackwing Gunlance I"
+    },
+    "weapon-gunlance-blackwing-gunlance-ii": {
+      "Key": "weapon-gunlance-blackwing-gunlance-ii",
+      "Translation": "Blackwing Gunlance II"
+    },
+    "weapon-gunlance-ruinous-eradication": {
+      "Key": "weapon-gunlance-ruinous-eradication",
+      "Translation": "Erradicación ruinosa"
+    },
+    "weapon-gunlance-mythic-kadachi-striker-plus": {
+      "Key": "weapon-gunlance-mythic-kadachi-striker-plus",
+      "Translation": "Mythic Kadachi El delantero +"
+    },
+    "weapon-gunlance-crimson-ember": {
+      "Key": "weapon-gunlance-crimson-ember",
+      "Translation": "carmesí Ember"
+    },
+    "weapon-gunlance-crimson-ember-plus": {
+      "Key": "weapon-gunlance-crimson-ember-plus",
+      "Translation": "Carmesí Ember +"
+    },
+    "weapon-gunlance-crimson-hornet": {
+      "Key": "weapon-gunlance-crimson-hornet",
+      "Translation": "carmesí del avispón"
+    },
+    "weapon-gunlance-blue-chariot-plus": {
+      "Key": "weapon-gunlance-blue-chariot-plus",
+      "Translation": "Azul carro +"
+    },
+    "weapon-gunlance-soul-chariot": {
+      "Key": "weapon-gunlance-soul-chariot",
+      "Translation": "alma Chariot"
+    },
+    "weapon-gunlance-chariot-gun": {
+      "Key": "weapon-gunlance-chariot-gun",
+      "Translation": "Pistola carro"
+    },
+    "weapon-gunlance-royal-burst-plus": {
+      "Key": "weapon-gunlance-royal-burst-plus",
+      "Translation": "Burst Real +"
+    },
+    "weapon-gunlance-highnesss-fury": {
+      "Key": "weapon-gunlance-highnesss-fury",
+      "Translation": "Furia de la alteza"
+    },
+    "weapon-gunlance-queens-panoply": {
+      "Key": "weapon-gunlance-queens-panoply",
+      "Translation": "Panoplia Reina"
+    },
+    "weapon-gunlance-jyura-demolisher-i": {
+      "Key": "weapon-gunlance-jyura-demolisher-i",
+      "Translation": "Jyura Demoledor I"
+    },
+    "weapon-gunlance-jyura-demolisher-ii": {
+      "Key": "weapon-gunlance-jyura-demolisher-ii",
+      "Translation": "Jyura Demoledor II"
+    },
+    "weapon-gunlance-twinfang": {
+      "Key": "weapon-gunlance-twinfang",
+      "Translation": "Twinfang"
+    },
+    "weapon-gunlance-twinfang-plus": {
+      "Key": "weapon-gunlance-twinfang-plus",
+      "Translation": "Twinfang +"
+    },
+    "weapon-gunlance-legiana-cannon-iii": {
+      "Key": "weapon-gunlance-legiana-cannon-iii",
+      "Translation": "Legiana cañón III"
+    },
+    "weapon-gunlance-hoarcry-cannon": {
+      "Key": "weapon-gunlance-hoarcry-cannon",
+      "Translation": "Hoarcry cañón"
+    },
+    "weapon-gunlance-hidden-cannon-i": {
+      "Key": "weapon-gunlance-hidden-cannon-i",
+      "Translation": "Me oculto cañón"
+    },
+    "weapon-gunlance-hidden-cannon-ii": {
+      "Key": "weapon-gunlance-hidden-cannon-ii",
+      "Translation": "Oculto Cañón II"
+    },
+    "weapon-gunlance-dragonpike-quake-i": {
+      "Key": "weapon-gunlance-dragonpike-quake-i",
+      "Translation": "Dragonpike \"Quake\" Yo"
+    },
+    "weapon-gunlance-dragonpike-quake-ii": {
+      "Key": "weapon-gunlance-dragonpike-quake-ii",
+      "Translation": "Dragonpike \"Quake\" II"
+    },
+    "weapon-gunlance-dragonpike-quake-iii": {
+      "Key": "weapon-gunlance-dragonpike-quake-iii",
+      "Translation": "Dragonpike \"Quake\" III"
+    },
+    "weapon-gunlance-eisritter": {
+      "Key": "weapon-gunlance-eisritter",
+      "Translation": "Eisritter"
+    },
+    "weapon-gunlance-vorpal-icefort": {
+      "Key": "weapon-gunlance-vorpal-icefort",
+      "Translation": "vorpal Icefort"
+    },
+    "weapon-gunlance-bazelpride": {
+      "Key": "weapon-gunlance-bazelpride",
+      "Translation": "Bazelpride"
+    },
+    "weapon-gunlance-gluttons-fang-i": {
+      "Key": "weapon-gunlance-gluttons-fang-i",
+      "Translation": "Glotón de colmillo I"
+    },
+    "weapon-gunlance-gluttons-fang-ii": {
+      "Key": "weapon-gunlance-gluttons-fang-ii",
+      "Translation": "Glotón de colmillo II"
+    },
+    "weapon-gunlance-tiger-blast": {
+      "Key": "weapon-gunlance-tiger-blast",
+      "Translation": "tigre explosiva"
+    },
+    "weapon-gunlance-tiger-blast-plus": {
+      "Key": "weapon-gunlance-tiger-blast-plus",
+      "Translation": "Tigre explosiva +"
+    },
+    "weapon-tree-brute-tigrex-tree": {
+      "Key": "weapon-tree-brute-tigrex-tree",
+      "Translation": "Árbol bruta Tigrex"
+    },
+    "weapon-gunlance-accursed-blast": {
+      "Key": "weapon-gunlance-accursed-blast",
+      "Translation": "explosión maldita"
+    },
+    "weapon-gunlance-flamebite": {
+      "Key": "weapon-gunlance-flamebite",
+      "Translation": "Flamebite"
+    },
+    "weapon-gunlance-nightveil-gunlance-i": {
+      "Key": "weapon-gunlance-nightveil-gunlance-i",
+      "Translation": "Nightveil Gunlance I"
+    },
+    "weapon-gunlance-nightveil-gunlance-ii": {
+      "Key": "weapon-gunlance-nightveil-gunlance-ii",
+      "Translation": "Nightveil Gunlance II"
+    },
+    "weapon-gunlance-glavenus-buster-i": {
+      "Key": "weapon-gunlance-glavenus-buster-i",
+      "Translation": "Glavenus Buster I"
+    },
+    "weapon-gunlance-glavenus-buster-ii": {
+      "Key": "weapon-gunlance-glavenus-buster-ii",
+      "Translation": "Glavenus Buster II"
+    },
+    "weapon-gunlance-deathlance-vaal-spysa": {
+      "Key": "weapon-gunlance-deathlance-vaal-spysa",
+      "Translation": "Deathlance Vaal Spysa"
+    },
+    "weapon-gunlance-acid-buster-i": {
+      "Key": "weapon-gunlance-acid-buster-i",
+      "Translation": "Acid Buster I"
+    },
+    "weapon-gunlance-acid-buster-ii": {
+      "Key": "weapon-gunlance-acid-buster-ii",
+      "Translation": "Acid Buster II"
+    },
+    "weapon-gunlance-barroth-bluff-i": {
+      "Key": "weapon-gunlance-barroth-bluff-i",
+      "Translation": "Barroth Bluff I"
+    },
+    "weapon-gunlance-barroth-bluff-ii": {
+      "Key": "weapon-gunlance-barroth-bluff-ii",
+      "Translation": "Barroth Bluff II"
+    },
+    "weapon-gunlance-brachydios-buster-i": {
+      "Key": "weapon-gunlance-brachydios-buster-i",
+      "Translation": "Brachydios Buster I"
+    },
+    "weapon-gunlance-brachydios-buster-ii": {
+      "Key": "weapon-gunlance-brachydios-buster-ii",
+      "Translation": "Brachydios Buster II"
+    },
+    "weapon-gunlance-mammoth-gunlance-i": {
+      "Key": "weapon-gunlance-mammoth-gunlance-i",
+      "Translation": "Mammoth Gunlance II"
+    },
+    "weapon-gunlance-usurpers-roar": {
+      "Key": "weapon-gunlance-usurpers-roar",
+      "Translation": "Rugido del usurpador"
+    },
+    "weapon-gunlance-usurpers-roar-plus": {
+      "Key": "weapon-gunlance-usurpers-roar-plus",
+      "Translation": "Rugido del usurpador +"
+    },
+    "weapon-gunlance-despots-phlogiston": {
+      "Key": "weapon-gunlance-despots-phlogiston",
+      "Translation": "Phlogiston Déspota"
+    },
+    "weapon-gunlance-anjanath-flamelance-i": {
+      "Key": "weapon-gunlance-anjanath-flamelance-i",
+      "Translation": "Anjanath lanza de fuego I"
+    },
+    "weapon-gunlance-anjanath-flamelance-ii": {
+      "Key": "weapon-gunlance-anjanath-flamelance-ii",
+      "Translation": "Anjanath lanza de fuego II"
+    },
+    "weapon-gunlance-ending-fulgur-i": {
+      "Key": "weapon-gunlance-ending-fulgur-i",
+      "Translation": "Terminando Fulgur I"
+    },
+    "weapon-gunlance-ending-fulgur-ii": {
+      "Key": "weapon-gunlance-ending-fulgur-ii",
+      "Translation": "Terminando Fulgur II"
+    },
+    "weapon-gunlance-dragonseal-gunlance-i": {
+      "Key": "weapon-gunlance-dragonseal-gunlance-i",
+      "Translation": "Dragonseal Gunlance I"
+    },
+    "weapon-gunlance-dragonseal-gunlance-ii": {
+      "Key": "weapon-gunlance-dragonseal-gunlance-ii",
+      "Translation": "Dragonseal Gunlance II"
+    },
+    "weapon-gunlance-broken-silence": {
+      "Key": "weapon-gunlance-broken-silence",
+      "Translation": "El silencio roto"
+    },
+    "weapon-gunlance-magda-lahat-reforged": {
+      "Key": "weapon-gunlance-magda-lahat-reforged",
+      "Translation": "Magda Lahat reforjada"
+    },
+    "weapon-gunlance-hydra-ephyra": {
+      "Key": "weapon-gunlance-hydra-ephyra",
+      "Translation": "Hydra Ephyra"
+    },
+    "weapon-gunlance-black-ephyra": {
+      "Key": "weapon-gunlance-black-ephyra",
+      "Translation": "negro Ephyra"
+    },
+    "weapon-gunlance-daoras-tempest": {
+      "Key": "weapon-gunlance-daoras-tempest",
+      "Translation": "La tempestad de daora"
+    },
+    "weapon-gunlance-consummate-gunlance": {
+      "Key": "weapon-gunlance-consummate-gunlance",
+      "Translation": "consumada Gunlance"
+    },
+    "weapon-gunlance-soulfire-talon-blaze": {
+      "Key": "weapon-gunlance-soulfire-talon-blaze",
+      "Translation": "Soulfire Talon \"Blaze\""
+    },
+    "weapon-gunlance-soulfire-talon-ruin": {
+      "Key": "weapon-gunlance-soulfire-talon-ruin",
+      "Translation": "Soulfire Talon \"Ruina\""
+    },
+    "weapon-gunlance-soulfire-talon-styx": {
+      "Key": "weapon-gunlance-soulfire-talon-styx",
+      "Translation": "Soulfire Talon \"Styx\""
+    },
+    "weapon-gunlance-demon-gunlance": {
+      "Key": "weapon-gunlance-demon-gunlance",
+      "Translation": "demonio Gunlance"
+    },
+    "weapon-gunlance-great-demon-gunlance": {
+      "Key": "weapon-gunlance-great-demon-gunlance",
+      "Translation": "Gran Demonio Gunlance"
+    },
+    "weapon-gunlance-gajalaka-firestabber": {
+      "Key": "weapon-gunlance-gajalaka-firestabber",
+      "Translation": "Gajalaka Firestabber"
+    },
+    "weapon-gunlance-gajalaka-firepike": {
+      "Key": "weapon-gunlance-gajalaka-firepike",
+      "Translation": "Gajalaka Firepike"
     }
   }

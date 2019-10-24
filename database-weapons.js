@@ -40194,7 +40194,7 @@ let gunlanceTree = [{
                 'name': 'Ruinous Eradication',
                 'from': 'Eradication Flame',
                 'translationKey': 'weapon-gunlance-ruinous-eradication',
-                'icon': require('./assets/weapons/gunlance/ruinous-eradication.png'),
+                'icon': require('./assets/weapons/gunlance/ruinous_eradication.png'),
                 'weaponIcon': require('./assets/weapons/rarity/12-gunlance.png'),
                 'type': 'Gunlance',
                 'rarity': '12',
@@ -45233,6 +45233,45 @@ let gunlanceTree = [{
         ]
     },
     {
+        title: 'weapon-tree-shara-ishvalda-tree',
+        data: [{
+            'name': 'Broken Silence',
+            'from': 'Dragonseal Gunlance I',
+            'translationKey': 'weapon-gunlance-broken-silence',
+            'icon': require('./assets/weapons/gunlance/broken_silence.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '12',
+            'attack': '644',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Dragon (510)',
+            'elderseal': 'High',
+            'slots': '1 1 -',
+            'defenseBonus': '+30',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 5',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Shara Ishvalda Tenderclaw',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Shara Ishvalda Tenderscale',
+                    'quantity': '6'
+                },
+                {
+                    'name': 'Shara Ishvalda Tenderplate',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Shara Ishvalda Gem',
+                    'quantity': '1'
+                }
+            ],
+        },]
+    },
+    {
         title: 'weapon-tree-zorah-magdaros-tree',
         data: [{
                 'name': 'Magda Lahat',
@@ -45335,8 +45374,111 @@ let gunlanceTree = [{
                         'quantity': '3'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Magda Lahat Reforged',
+                'from': 'Earthshaker Magda Lahat',
+                'translationKey': 'weapon-gunlance-magda-lahat-reforged',
+                'icon': require('./assets/weapons/gunlance/magda_lahat_reforged.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '11',
+                'attack': '644',
+                'sharpness': 'white',
+                'affinity': '-10%',
+                'element': 'Blast 450',
+                'slots': '2 - -',
+                'defenseBonus': '+45',
+                'shellingType': 'Long',
+                'shellingLevel': 'Lv 6',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Elder Dragonvein Bone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Dragonvein Solidbone',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Heavy Dragonvein Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Large Elder Dragon Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-namielle-tree',
+        data: [{
+            'name': 'Hydra Ephyra',
+            'from': 'Earthshaker Magda Lahat',
+            'translationKey': 'weapon-gunlance-hydra-ephyra',
+            'icon': require('./assets/weapons/gunlance/hydra_ephyra.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '11',
+            'attack': '621',
+            'sharpness': 'white',
+            'affinity': '15%',
+            'element': 'Water 330',
+            'shellingType': 'Normal',
+            'shellingLevel': 'Lv 6',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Namielle Hardclaw',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Namielle Finehide',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Namielle Whisker',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Purecrystal',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Black Ephyra',
+            'from': 'Hydra Ephyra',
+            'translationKey': 'weapon-gunlance-black-ephyra',
+            'icon': require('./assets/weapons/gunlance/black_ephyra.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '12',
+            'attack': '644',
+            'sharpness': 'white',
+            'affinity': '15%',
+            'element': 'Water 390',
+            'shellingType': 'Normal',
+            'shellingLevel': 'Lv 6',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Shara Ishvalda Tenderclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Namielle Whisker',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Namielle Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Large Elder Dragon Gem',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-blacksteel-tree',
@@ -45538,7 +45680,41 @@ let gunlanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Daora\'s Tempest',
+                'from': 'Daora\'s Brigia',
+                'translationKey': 'weapon-gunlance-daoras-tempest',
+                'icon': require('./assets/weapons/gunlance/daoras_tempest.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+                'type': 'Gunlance',
+                'rarity': '11',
+                'attack': '598',
+                'sharpness': 'white',
+                'affinity': '10%',
+                'element': 'Ice 270',
+                'slots': '3 - -',
+                'shellingType': 'Long',
+                'shellingLevel': 'Lv 5',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Daora Hardhorn',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Daora Hardclaw',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Daora Shard',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Large Elder Dragon Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -45696,7 +45872,39 @@ let gunlanceTree = [{
                     'quantity': '1'
                 }
             ]
-        }, ]
+        }, {
+            'name': 'Consummate Gunlance',
+            'from': 'Insatiable Gunlance',
+            'translationKey': 'weapon-gunlance-consummate-gunlance',
+            'icon': require('./assets/weapons/gunlance/consummate_gunlance.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '12',
+            'attack': '644',
+            'sharpness': 'white',
+            'affinity': '-30%',
+            'element': 'Dragon 390',
+            'shellingType': 'Long',
+            'shellingLevel': 'Lv 6',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Vile Fang',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Deviljho Ripper',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Black Blood',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Deviljho Crook',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-kulve-taroth-relic-weapons',
@@ -46285,7 +46493,44 @@ let gunlanceTree = [{
                 'name': 'Guts',
                 'level': '1',
             }, ],
-        }, ]
+        }, {
+            'name': 'Soulfire Talon "Blaze"',
+            'from': 'Empress Hown "Blaze"',
+            'translationKey': 'weapon-gunlance-soulfire-talon-blaze',
+            'icon': require('./assets/weapons/gunlance/soulfire_talon_blaze.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '12',
+            'attack': '575',
+            'sharpness': 'white',
+            'affinity': '20%',
+            'element': 'Blast 270',
+            'slots': '2 1 -',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 5',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Lunastra Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Lunastra Hardhorn',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Lunastra Mane+',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Large Elder Dragon Gem',
+                    'quantity': '1'
+                }
+            ],
+            'skills': [{
+                'name': 'Guts',
+                'level': '1',
+            }, ],
+        },]
     }, {
         title: 'weapon-tree-lunastra-nergigante-tree',
         data: [{
@@ -46318,6 +46563,43 @@ let gunlanceTree = [{
                 },
                 {
                     'name': 'Nergigante Gem',
+                    'quantity': '1'
+                }
+            ],
+            'skills': [{
+                'name': 'Hasten Recovery',
+                'level': '1',
+            }, ],
+        }, {
+            'name': 'Soulfire Talon "Ruin"',
+            'from': 'Empress Howl "Ruin"',
+            'translationKey': 'weapon-gunlance-soulfire-talon-ruin',
+            'icon': require('./assets/weapons/gunlance/soulfire_talon_ruin.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '12',
+            'attack': '621',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Blast 210',
+            'slots': '2 2 -',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 5',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Lunastra Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Annihilating Greathorn',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Eternal Regrowth Plate',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Large Elder Dragon Gem',
                     'quantity': '1'
                 }
             ],
@@ -46366,7 +46648,184 @@ let gunlanceTree = [{
                 'name': 'Razor Sharp/Spare Shot',
                 'level': '1',
             }, ],
+        }, {
+            'name': 'Soulfire Talon "Styx"',
+            'from': 'Empress Howl "Styx"',
+            'translationKey': 'weapon-gunlance-soulfire-talon-styx',
+            'icon': require('./assets/weapons/gunlance/soulfire_talon_styx.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '12',
+            'attack': '575',
+            'sharpness': 'white',
+            'affinity': '10%',
+            'element': 'Blast 330',
+            'slots': '3 3 -',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 5',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Lunastra Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Lunatra Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Elder Spiritvein Bone',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Large Elder Dragon Gem',
+                    'quantity': '1'
+                }
+            ],
+            'skills': [{
+                'name': 'Razor Sharp/Spare Shot',
+                'level': '1',
+            }, ],
         }, ]
+    },
+    {
+        title: 'weapon-tree-workshop-weapon-tree',
+        data: [{
+            'name': 'Demon Gunlance',
+            'translationKey': 'weapon-gunlance-demon-gunlance',
+            'icon': require('./assets/weapons/gunlance/demon_gunlance.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '11',
+            'attack': '644',
+            'sharpness': 'white',
+            'affinity': '-15%',
+            'element': 'Thunder 90',
+            'slots': '4 - -',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 5',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Rajang Hardhorn',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Rajang Hardclaw',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Rajang Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Rajang Wildpelt',
+                    'quantity': '2'
+                }
+            ],
+        }, {
+            'name': 'Great Demon Gunlance',
+            'from': 'Demon Gunlance',
+            'translationKey': 'weapon-gunlance-great-demon-gunlance',
+            'icon': require('./assets/weapons/gunlance/great_demon_gunlance.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '12',
+            'attack': '656',
+            'sharpness': 'white',
+            'affinity': '-15%',
+            'element': 'Thunder 120',
+            'slots': '4 - -',
+            'shellingType': 'Wide',
+            'shellingLevel': 'Lv 6',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Tempered Glimmerpelt',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Rajang Hardhorn',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Rajang Hardfang',
+                    'quantity': '7'
+                },
+                {
+                    'name': 'Gold Rajang Pelt+',
+                    'quantity': '3'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-workshop-weapon-tree',
+        data: [{
+            'name': 'Gajalaka Firestabber',
+            'translationKey': 'weapon-gunlance-gajalaka-firestabber',
+            'icon': require('./assets/weapons/gunlance/gajalaka_firestabber.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '10',
+            'attack': '575',
+            'sharpness': 'blue',
+            'affinity': '0%',
+            'element': 'Dragon (390)',
+            'slots': '4 - -',
+            'shellingType': 'Normal',
+            'shellingLevel': 'Lv 4',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Booster Ticket',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Dodogama Mandible',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Frozen Bone',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Eltalite Ore',
+                    'quantity': '15'
+                }
+            ],
+        }, {
+            'name': 'Gajalaka Firepike',
+            'from': 'Gajalaka Firestabber',
+            'translationKey': 'weapon-gunlance-gajalaka-firepike',
+            'icon': require('./assets/weapons/gunlance/gajalaka_firepike.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-gunlance.png'),
+            'type': 'Gunlance',
+            'rarity': '11',
+            'attack': '621',
+            'sharpness': 'blue',
+            'affinity': '0%',
+            'element': 'Dragon (45)',
+            'elderseal': 'High',
+            'slots': '4 - -',
+            'defenseBonus': '+30',
+            'shellingType': 'Normal',
+            'shellingLevel': 'Lv 5',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Monster Solidbone',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Uragaan Jaw+',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Uragaan Shard',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Purecrystal',
+                    'quantity': '1'
+                }
+            ],
+        },]
     }
 ];
 

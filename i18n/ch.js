@@ -20689,7 +20689,7 @@ export default {
     },
     "weapon-long-sword-kjarr-sword-decay": {
       "Key": "weapon-long-sword-kjarr-sword-decay",
-      "Translation": "Kjárr剑“衰变”"
+      "Translation": "Kjárr剑“衰减”"
     },
     "weapon-long-sword-kjarr-sword-fire": {
       "Key": "weapon-long-sword-kjarr-sword-fire",
@@ -21898,5 +21898,289 @@ export default {
     "weapon-long-sword-deepest-night": {
       "Key": "weapon-long-sword-deepest-night",
       "Translation": "最深的夜"
+    },
+    "weapon-gunlance-chrome-halberd-i": {
+      "Key": "weapon-gunlance-chrome-halberd-i",
+      "Translation": "铬戟我"
+    },
+    "weapon-gunlance-chrome-halberd-ii": {
+      "Key": "weapon-gunlance-chrome-halberd-ii",
+      "Translation": "铬戟II"
+    },
+    "weapon-gunlance-chrome-halberd-iii": {
+      "Key": "weapon-gunlance-chrome-halberd-iii",
+      "Translation": "铬戟III"
+    },
+    "weapon-gunlance-blackwing-gunlance-i": {
+      "Key": "weapon-gunlance-blackwing-gunlance-i",
+      "Translation": "黑翼Gunlance我"
+    },
+    "weapon-gunlance-blackwing-gunlance-ii": {
+      "Key": "weapon-gunlance-blackwing-gunlance-ii",
+      "Translation": "黑翼Gunlance II"
+    },
+    "weapon-gunlance-ruinous-eradication": {
+      "Key": "weapon-gunlance-ruinous-eradication",
+      "Translation": "毁灭性根除"
+    },
+    "weapon-gunlance-mythic-kadachi-striker-plus": {
+      "Key": "weapon-gunlance-mythic-kadachi-striker-plus",
+      "Translation": "神话Kadachi前锋+"
+    },
+    "weapon-gunlance-crimson-ember": {
+      "Key": "weapon-gunlance-crimson-ember",
+      "Translation": "深红灰烬"
+    },
+    "weapon-gunlance-crimson-ember-plus": {
+      "Key": "weapon-gunlance-crimson-ember-plus",
+      "Translation": "深红Ember公司+"
+    },
+    "weapon-gunlance-crimson-hornet": {
+      "Key": "weapon-gunlance-crimson-hornet",
+      "Translation": "深红大黄蜂"
+    },
+    "weapon-gunlance-blue-chariot-plus": {
+      "Key": "weapon-gunlance-blue-chariot-plus",
+      "Translation": "蓝色战车+"
+    },
+    "weapon-gunlance-soul-chariot": {
+      "Key": "weapon-gunlance-soul-chariot",
+      "Translation": "灵魂战车"
+    },
+    "weapon-gunlance-chariot-gun": {
+      "Key": "weapon-gunlance-chariot-gun",
+      "Translation": "战车炮"
+    },
+    "weapon-gunlance-royal-burst-plus": {
+      "Key": "weapon-gunlance-royal-burst-plus",
+      "Translation": "皇家连拍+"
+    },
+    "weapon-gunlance-highnesss-fury": {
+      "Key": "weapon-gunlance-highnesss-fury",
+      "Translation": "殿下之怒"
+    },
+    "weapon-gunlance-queens-panoply": {
+      "Key": "weapon-gunlance-queens-panoply",
+      "Translation": "皇后的华服美饰"
+    },
+    "weapon-gunlance-jyura-demolisher-i": {
+      "Key": "weapon-gunlance-jyura-demolisher-i",
+      "Translation": "Jyura攻城我"
+    },
+    "weapon-gunlance-jyura-demolisher-ii": {
+      "Key": "weapon-gunlance-jyura-demolisher-ii",
+      "Translation": "Jyura毁灭者II"
+    },
+    "weapon-gunlance-twinfang": {
+      "Key": "weapon-gunlance-twinfang",
+      "Translation": "Twinfang"
+    },
+    "weapon-gunlance-twinfang-plus": {
+      "Key": "weapon-gunlance-twinfang-plus",
+      "Translation": "Twinfang +"
+    },
+    "weapon-gunlance-legiana-cannon-iii": {
+      "Key": "weapon-gunlance-legiana-cannon-iii",
+      "Translation": "Legiana炮III"
+    },
+    "weapon-gunlance-hoarcry-cannon": {
+      "Key": "weapon-gunlance-hoarcry-cannon",
+      "Translation": "Hoarcry炮"
+    },
+    "weapon-gunlance-hidden-cannon-i": {
+      "Key": "weapon-gunlance-hidden-cannon-i",
+      "Translation": "隐藏加农炮I"
+    },
+    "weapon-gunlance-hidden-cannon-ii": {
+      "Key": "weapon-gunlance-hidden-cannon-ii",
+      "Translation": "隐藏的大炮II"
+    },
+    "weapon-gunlance-dragonpike-quake-i": {
+      "Key": "weapon-gunlance-dragonpike-quake-i",
+      "Translation": "Dragonpike“雷神之锤”我"
+    },
+    "weapon-gunlance-dragonpike-quake-ii": {
+      "Key": "weapon-gunlance-dragonpike-quake-ii",
+      "Translation": "Dragonpike “雷神之锤” II"
+    },
+    "weapon-gunlance-dragonpike-quake-iii": {
+      "Key": "weapon-gunlance-dragonpike-quake-iii",
+      "Translation": "Dragonpike “雷神之锤” III"
+    },
+    "weapon-gunlance-eisritter": {
+      "Key": "weapon-gunlance-eisritter",
+      "Translation": "Eisritter"
+    },
+    "weapon-gunlance-vorpal-icefort": {
+      "Key": "weapon-gunlance-vorpal-icefort",
+      "Translation": "Vorpal Icefort"
+    },
+    "weapon-gunlance-bazelpride": {
+      "Key": "weapon-gunlance-bazelpride",
+      "Translation": "Bazelpride"
+    },
+    "weapon-gunlance-gluttons-fang-i": {
+      "Key": "weapon-gunlance-gluttons-fang-i",
+      "Translation": "馋嘴的我方"
+    },
+    "weapon-gunlance-gluttons-fang-ii": {
+      "Key": "weapon-gunlance-gluttons-fang-ii",
+      "Translation": "馋嘴的方二"
+    },
+    "weapon-gunlance-tiger-blast": {
+      "Key": "weapon-gunlance-tiger-blast",
+      "Translation": "老虎冲"
+    },
+    "weapon-gunlance-tiger-blast-plus": {
+      "Key": "weapon-gunlance-tiger-blast-plus",
+      "Translation": "老虎冲+"
+    },
+    "weapon-tree-brute-tigrex-tree": {
+      "Key": "weapon-tree-brute-tigrex-tree",
+      "Translation": "蛮力Tigrex树"
+    },
+    "weapon-gunlance-accursed-blast": {
+      "Key": "weapon-gunlance-accursed-blast",
+      "Translation": "诅咒爆炸"
+    },
+    "weapon-gunlance-flamebite": {
+      "Key": "weapon-gunlance-flamebite",
+      "Translation": "Flamebite"
+    },
+    "weapon-gunlance-nightveil-gunlance-i": {
+      "Key": "weapon-gunlance-nightveil-gunlance-i",
+      "Translation": "Nightveil Gunlance我"
+    },
+    "weapon-gunlance-nightveil-gunlance-ii": {
+      "Key": "weapon-gunlance-nightveil-gunlance-ii",
+      "Translation": "Nightveil Gunlance II"
+    },
+    "weapon-gunlance-glavenus-buster-i": {
+      "Key": "weapon-gunlance-glavenus-buster-i",
+      "Translation": "Glavenus巴斯特我"
+    },
+    "weapon-gunlance-glavenus-buster-ii": {
+      "Key": "weapon-gunlance-glavenus-buster-ii",
+      "Translation": "Glavenus巴斯特II"
+    },
+    "weapon-gunlance-deathlance-vaal-spysa": {
+      "Key": "weapon-gunlance-deathlance-vaal-spysa",
+      "Translation": "Deathlance瓦尔Spysa"
+    },
+    "weapon-gunlance-acid-buster-i": {
+      "Key": "weapon-gunlance-acid-buster-i",
+      "Translation": "酸巴斯特我"
+    },
+    "weapon-gunlance-acid-buster-ii": {
+      "Key": "weapon-gunlance-acid-buster-ii",
+      "Translation": "酸巴斯特II"
+    },
+    "weapon-gunlance-barroth-bluff-i": {
+      "Key": "weapon-gunlance-barroth-bluff-i",
+      "Translation": "Barroth忽悠我"
+    },
+    "weapon-gunlance-barroth-bluff-ii": {
+      "Key": "weapon-gunlance-barroth-bluff-ii",
+      "Translation": "Barroth崖II"
+    },
+    "weapon-gunlance-brachydios-buster-i": {
+      "Key": "weapon-gunlance-brachydios-buster-i",
+      "Translation": "Brachydios巴斯特我"
+    },
+    "weapon-gunlance-brachydios-buster-ii": {
+      "Key": "weapon-gunlance-brachydios-buster-ii",
+      "Translation": "Brachydios巴斯特II"
+    },
+    "weapon-gunlance-mammoth-gunlance-i": {
+      "Key": "weapon-gunlance-mammoth-gunlance-i",
+      "Translation": "猛犸Gunlance II"
+    },
+    "weapon-gunlance-usurpers-roar": {
+      "Key": "weapon-gunlance-usurpers-roar",
+      "Translation": "篡位者的咆哮"
+    },
+    "weapon-gunlance-usurpers-roar-plus": {
+      "Key": "weapon-gunlance-usurpers-roar-plus",
+      "Translation": "篡位者的咆哮+"
+    },
+    "weapon-gunlance-despots-phlogiston": {
+      "Key": "weapon-gunlance-despots-phlogiston",
+      "Translation": "暴君的燃素"
+    },
+    "weapon-gunlance-anjanath-flamelance-i": {
+      "Key": "weapon-gunlance-anjanath-flamelance-i",
+      "Translation": "Anjanath Flamelance我"
+    },
+    "weapon-gunlance-anjanath-flamelance-ii": {
+      "Key": "weapon-gunlance-anjanath-flamelance-ii",
+      "Translation": "Anjanath Flamelance II"
+    },
+    "weapon-gunlance-ending-fulgur-i": {
+      "Key": "weapon-gunlance-ending-fulgur-i",
+      "Translation": "结束Fulgur我"
+    },
+    "weapon-gunlance-ending-fulgur-ii": {
+      "Key": "weapon-gunlance-ending-fulgur-ii",
+      "Translation": "结束Fulgur II"
+    },
+    "weapon-gunlance-dragonseal-gunlance-i": {
+      "Key": "weapon-gunlance-dragonseal-gunlance-i",
+      "Translation": "Dragonseal Gunlance我"
+    },
+    "weapon-gunlance-dragonseal-gunlance-ii": {
+      "Key": "weapon-gunlance-dragonseal-gunlance-ii",
+      "Translation": "Dragonseal Gunlance II"
+    },
+    "weapon-gunlance-broken-silence": {
+      "Key": "weapon-gunlance-broken-silence",
+      "Translation": "残破的沉默"
+    },
+    "weapon-gunlance-magda-lahat-reforged": {
+      "Key": "weapon-gunlance-magda-lahat-reforged",
+      "Translation": "玛格达拉哈特重铸"
+    },
+    "weapon-gunlance-hydra-ephyra": {
+      "Key": "weapon-gunlance-hydra-ephyra",
+      "Translation": "水润碟状幼体"
+    },
+    "weapon-gunlance-black-ephyra": {
+      "Key": "weapon-gunlance-black-ephyra",
+      "Translation": "黑碟状幼体"
+    },
+    "weapon-gunlance-daoras-tempest": {
+      "Key": "weapon-gunlance-daoras-tempest",
+      "Translation": "Daora的暴风雨"
+    },
+    "weapon-gunlance-consummate-gunlance": {
+      "Key": "weapon-gunlance-consummate-gunlance",
+      "Translation": "完善Gunlance"
+    },
+    "weapon-gunlance-soulfire-talon-blaze": {
+      "Key": "weapon-gunlance-soulfire-talon-blaze",
+      "Translation": "灵魂之火泰龙“大火”"
+    },
+    "weapon-gunlance-soulfire-talon-ruin": {
+      "Key": "weapon-gunlance-soulfire-talon-ruin",
+      "Translation": "灵魂之火泰龙“三绝”"
+    },
+    "weapon-gunlance-soulfire-talon-styx": {
+      "Key": "weapon-gunlance-soulfire-talon-styx",
+      "Translation": "灵魂之火泰龙“冥河”"
+    },
+    "weapon-gunlance-demon-gunlance": {
+      "Key": "weapon-gunlance-demon-gunlance",
+      "Translation": "恶魔Gunlance"
+    },
+    "weapon-gunlance-great-demon-gunlance": {
+      "Key": "weapon-gunlance-great-demon-gunlance",
+      "Translation": "大恶魔Gunlance"
+    },
+    "weapon-gunlance-gajalaka-firestabber": {
+      "Key": "weapon-gunlance-gajalaka-firestabber",
+      "Translation": "Gajalaka Firestabber"
+    },
+    "weapon-gunlance-gajalaka-firepike": {
+      "Key": "weapon-gunlance-gajalaka-firepike",
+      "Translation": "Gajalaka Firepike"
     }
   }

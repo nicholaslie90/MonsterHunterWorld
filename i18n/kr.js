@@ -10981,7 +10981,7 @@ export default {
     },
     "poogie-using-poogie-text": {
       "Key": "poogie-using-poogie-text",
-      "Translation": "Poogie을 사용하려면 퀘스트에서 반환 할 때 Poogie 당신을 접견 지점에 도착해야합니다. 단순히 Poggie을 선택하고 컨트롤러가 진동을 시작하거나 손에 Poogie 흔들 때까지 아스 테라 주위를 수행 한 후 그를 내려 놓고. Poogie 항목을 발견하면, 항목을 검색 할과 상호 작용합니다. 당신은 시도 당 하나 개의 항목을 찾을 수 있습니다. 다른 항목을 찾으려면, 당신은 다른 탐구에 가서 한 번 더 Poogie를 사용하는 퀘스트에서 반환해야합니다."
+      "Translation": "Poogie를 사용하려면, 당신은 탐구에서 반환 할 때 Poogie 당신을 접견 지점에 도착해야합니다. 단순히 Poggie을 선택하고 컨트롤러가 진동을 시작하거나 손에 Poogie 흔들 때까지 아스 테라 주위를 수행 한 후 그를 내려 놓고. Poogie 항목을 발견하면, 항목을 검색 할과 상호 작용합니다. 당신은 시도 당 하나 개의 항목을 찾을 수 있습니다. 다른 항목을 찾으려면, 당신은 다른 탐구에 가서 한 번 더 Poogie를 사용하는 퀘스트에서 반환해야합니다."
     },
     "poogie-white-jammies": {
       "Key": "poogie-white-jammies",
@@ -21898,5 +21898,289 @@ export default {
     "weapon-long-sword-deepest-night": {
       "Key": "weapon-long-sword-deepest-night",
       "Translation": "깊은 밤"
+    },
+    "weapon-gunlance-chrome-halberd-i": {
+      "Key": "weapon-gunlance-chrome-halberd-i",
+      "Translation": "크롬 미늘창 I"
+    },
+    "weapon-gunlance-chrome-halberd-ii": {
+      "Key": "weapon-gunlance-chrome-halberd-ii",
+      "Translation": "크롬 미늘창 II"
+    },
+    "weapon-gunlance-chrome-halberd-iii": {
+      "Key": "weapon-gunlance-chrome-halberd-iii",
+      "Translation": "크롬 미늘창 III"
+    },
+    "weapon-gunlance-blackwing-gunlance-i": {
+      "Key": "weapon-gunlance-blackwing-gunlance-i",
+      "Translation": "검은 날개 Gunlance I"
+    },
+    "weapon-gunlance-blackwing-gunlance-ii": {
+      "Key": "weapon-gunlance-blackwing-gunlance-ii",
+      "Translation": "검은 날개 Gunlance II"
+    },
+    "weapon-gunlance-ruinous-eradication": {
+      "Key": "weapon-gunlance-ruinous-eradication",
+      "Translation": "파멸을 가져 오는 박멸"
+    },
+    "weapon-gunlance-mythic-kadachi-striker-plus": {
+      "Key": "weapon-gunlance-mythic-kadachi-striker-plus",
+      "Translation": "신화 Kadachi 스트라이커 +"
+    },
+    "weapon-gunlance-crimson-ember": {
+      "Key": "weapon-gunlance-crimson-ember",
+      "Translation": "크림슨 엠버"
+    },
+    "weapon-gunlance-crimson-ember-plus": {
+      "Key": "weapon-gunlance-crimson-ember-plus",
+      "Translation": "크림슨 엠버 +"
+    },
+    "weapon-gunlance-crimson-hornet": {
+      "Key": "weapon-gunlance-crimson-hornet",
+      "Translation": "크림슨 호넷"
+    },
+    "weapon-gunlance-blue-chariot-plus": {
+      "Key": "weapon-gunlance-blue-chariot-plus",
+      "Translation": "블루 전차 +"
+    },
+    "weapon-gunlance-soul-chariot": {
+      "Key": "weapon-gunlance-soul-chariot",
+      "Translation": "영혼의 전차"
+    },
+    "weapon-gunlance-chariot-gun": {
+      "Key": "weapon-gunlance-chariot-gun",
+      "Translation": "전차 건"
+    },
+    "weapon-gunlance-royal-burst-plus": {
+      "Key": "weapon-gunlance-royal-burst-plus",
+      "Translation": "로얄 버스트 +"
+    },
+    "weapon-gunlance-highnesss-fury": {
+      "Key": "weapon-gunlance-highnesss-fury",
+      "Translation": "전하의 분노"
+    },
+    "weapon-gunlance-queens-panoply": {
+      "Key": "weapon-gunlance-queens-panoply",
+      "Translation": "여왕의 갑옷"
+    },
+    "weapon-gunlance-jyura-demolisher-i": {
+      "Key": "weapon-gunlance-jyura-demolisher-i",
+      "Translation": "Jyura 디몰 리셔 I"
+    },
+    "weapon-gunlance-jyura-demolisher-ii": {
+      "Key": "weapon-gunlance-jyura-demolisher-ii",
+      "Translation": "Jyura 디몰 리셔 II"
+    },
+    "weapon-gunlance-twinfang": {
+      "Key": "weapon-gunlance-twinfang",
+      "Translation": "Twinfang"
+    },
+    "weapon-gunlance-twinfang-plus": {
+      "Key": "weapon-gunlance-twinfang-plus",
+      "Translation": "Twinfang +"
+    },
+    "weapon-gunlance-legiana-cannon-iii": {
+      "Key": "weapon-gunlance-legiana-cannon-iii",
+      "Translation": "Legiana 캐논 III"
+    },
+    "weapon-gunlance-hoarcry-cannon": {
+      "Key": "weapon-gunlance-hoarcry-cannon",
+      "Translation": "Hoarcry 캐논"
+    },
+    "weapon-gunlance-hidden-cannon-i": {
+      "Key": "weapon-gunlance-hidden-cannon-i",
+      "Translation": "숨겨진 대포 I"
+    },
+    "weapon-gunlance-hidden-cannon-ii": {
+      "Key": "weapon-gunlance-hidden-cannon-ii",
+      "Translation": "숨겨진 캐논 II"
+    },
+    "weapon-gunlance-dragonpike-quake-i": {
+      "Key": "weapon-gunlance-dragonpike-quake-i",
+      "Translation": "Dragonpike \"퀘이크\"I"
+    },
+    "weapon-gunlance-dragonpike-quake-ii": {
+      "Key": "weapon-gunlance-dragonpike-quake-ii",
+      "Translation": "Dragonpike \"퀘이크\"II"
+    },
+    "weapon-gunlance-dragonpike-quake-iii": {
+      "Key": "weapon-gunlance-dragonpike-quake-iii",
+      "Translation": "Dragonpike \"퀘이크\"III"
+    },
+    "weapon-gunlance-eisritter": {
+      "Key": "weapon-gunlance-eisritter",
+      "Translation": "Eisritter"
+    },
+    "weapon-gunlance-vorpal-icefort": {
+      "Key": "weapon-gunlance-vorpal-icefort",
+      "Translation": "보팔 Icefort"
+    },
+    "weapon-gunlance-bazelpride": {
+      "Key": "weapon-gunlance-bazelpride",
+      "Translation": "Bazelpride"
+    },
+    "weapon-gunlance-gluttons-fang-i": {
+      "Key": "weapon-gunlance-gluttons-fang-i",
+      "Translation": "대식가의 팡 I"
+    },
+    "weapon-gunlance-gluttons-fang-ii": {
+      "Key": "weapon-gunlance-gluttons-fang-ii",
+      "Translation": "대식가의 송곳니 II"
+    },
+    "weapon-gunlance-tiger-blast": {
+      "Key": "weapon-gunlance-tiger-blast",
+      "Translation": "타이거 돌풍"
+    },
+    "weapon-gunlance-tiger-blast-plus": {
+      "Key": "weapon-gunlance-tiger-blast-plus",
+      "Translation": "타이거 돌풍 +"
+    },
+    "weapon-tree-brute-tigrex-tree": {
+      "Key": "weapon-tree-brute-tigrex-tree",
+      "Translation": "브 루트 Tigrex 트리"
+    },
+    "weapon-gunlance-accursed-blast": {
+      "Key": "weapon-gunlance-accursed-blast",
+      "Translation": "저주 돌풍"
+    },
+    "weapon-gunlance-flamebite": {
+      "Key": "weapon-gunlance-flamebite",
+      "Translation": "Flamebite"
+    },
+    "weapon-gunlance-nightveil-gunlance-i": {
+      "Key": "weapon-gunlance-nightveil-gunlance-i",
+      "Translation": "Nightveil Gunlance I"
+    },
+    "weapon-gunlance-nightveil-gunlance-ii": {
+      "Key": "weapon-gunlance-nightveil-gunlance-ii",
+      "Translation": "Nightveil Gunlance II"
+    },
+    "weapon-gunlance-glavenus-buster-i": {
+      "Key": "weapon-gunlance-glavenus-buster-i",
+      "Translation": "Glavenus 버스터 I"
+    },
+    "weapon-gunlance-glavenus-buster-ii": {
+      "Key": "weapon-gunlance-glavenus-buster-ii",
+      "Translation": "Glavenus 버스터 II"
+    },
+    "weapon-gunlance-deathlance-vaal-spysa": {
+      "Key": "weapon-gunlance-deathlance-vaal-spysa",
+      "Translation": "Deathlance Vaal Spysa"
+    },
+    "weapon-gunlance-acid-buster-i": {
+      "Key": "weapon-gunlance-acid-buster-i",
+      "Translation": "산 버스터 I"
+    },
+    "weapon-gunlance-acid-buster-ii": {
+      "Key": "weapon-gunlance-acid-buster-ii",
+      "Translation": "산 버스터 II"
+    },
+    "weapon-gunlance-barroth-bluff-i": {
+      "Key": "weapon-gunlance-barroth-bluff-i",
+      "Translation": "Barroth 블러 프 I"
+    },
+    "weapon-gunlance-barroth-bluff-ii": {
+      "Key": "weapon-gunlance-barroth-bluff-ii",
+      "Translation": "Barroth 블러 프 II"
+    },
+    "weapon-gunlance-brachydios-buster-i": {
+      "Key": "weapon-gunlance-brachydios-buster-i",
+      "Translation": "Brachydios 버스터 I"
+    },
+    "weapon-gunlance-brachydios-buster-ii": {
+      "Key": "weapon-gunlance-brachydios-buster-ii",
+      "Translation": "Brachydios 버스터 II"
+    },
+    "weapon-gunlance-mammoth-gunlance-i": {
+      "Key": "weapon-gunlance-mammoth-gunlance-i",
+      "Translation": "맘모스 Gunlance II"
+    },
+    "weapon-gunlance-usurpers-roar": {
+      "Key": "weapon-gunlance-usurpers-roar",
+      "Translation": "횡령의 포효"
+    },
+    "weapon-gunlance-usurpers-roar-plus": {
+      "Key": "weapon-gunlance-usurpers-roar-plus",
+      "Translation": "횡령의 포효 +"
+    },
+    "weapon-gunlance-despots-phlogiston": {
+      "Key": "weapon-gunlance-despots-phlogiston",
+      "Translation": "군주의 플로지스톤"
+    },
+    "weapon-gunlance-anjanath-flamelance-i": {
+      "Key": "weapon-gunlance-anjanath-flamelance-i",
+      "Translation": "Anjanath Flamelance I"
+    },
+    "weapon-gunlance-anjanath-flamelance-ii": {
+      "Key": "weapon-gunlance-anjanath-flamelance-ii",
+      "Translation": "Anjanath Flamelance II"
+    },
+    "weapon-gunlance-ending-fulgur-i": {
+      "Key": "weapon-gunlance-ending-fulgur-i",
+      "Translation": "Fulgur I 종료"
+    },
+    "weapon-gunlance-ending-fulgur-ii": {
+      "Key": "weapon-gunlance-ending-fulgur-ii",
+      "Translation": "Fulgur II 종료"
+    },
+    "weapon-gunlance-dragonseal-gunlance-i": {
+      "Key": "weapon-gunlance-dragonseal-gunlance-i",
+      "Translation": "Dragonseal Gunlance I"
+    },
+    "weapon-gunlance-dragonseal-gunlance-ii": {
+      "Key": "weapon-gunlance-dragonseal-gunlance-ii",
+      "Translation": "Dragonseal Gunlance II"
+    },
+    "weapon-gunlance-broken-silence": {
+      "Key": "weapon-gunlance-broken-silence",
+      "Translation": "깨진 침묵"
+    },
+    "weapon-gunlance-magda-lahat-reforged": {
+      "Key": "weapon-gunlance-magda-lahat-reforged",
+      "Translation": "마그 Lahat Reforged"
+    },
+    "weapon-gunlance-hydra-ephyra": {
+      "Key": "weapon-gunlance-hydra-ephyra",
+      "Translation": "히드라 Ephyra"
+    },
+    "weapon-gunlance-black-ephyra": {
+      "Key": "weapon-gunlance-black-ephyra",
+      "Translation": "블랙 Ephyra"
+    },
+    "weapon-gunlance-daoras-tempest": {
+      "Key": "weapon-gunlance-daoras-tempest",
+      "Translation": "Daora의 폭풍우"
+    },
+    "weapon-gunlance-consummate-gunlance": {
+      "Key": "weapon-gunlance-consummate-gunlance",
+      "Translation": "유능한 Gunlance"
+    },
+    "weapon-gunlance-soulfire-talon-blaze": {
+      "Key": "weapon-gunlance-soulfire-talon-blaze",
+      "Translation": "Soulfire 발톱 \"불꽃\""
+    },
+    "weapon-gunlance-soulfire-talon-ruin": {
+      "Key": "weapon-gunlance-soulfire-talon-ruin",
+      "Translation": "Soulfire 발톱 \"파멸\""
+    },
+    "weapon-gunlance-soulfire-talon-styx": {
+      "Key": "weapon-gunlance-soulfire-talon-styx",
+      "Translation": "Soulfire 발톱 '스틱스'"
+    },
+    "weapon-gunlance-demon-gunlance": {
+      "Key": "weapon-gunlance-demon-gunlance",
+      "Translation": "악마 Gunlance"
+    },
+    "weapon-gunlance-great-demon-gunlance": {
+      "Key": "weapon-gunlance-great-demon-gunlance",
+      "Translation": "위대한 악마 Gunlance"
+    },
+    "weapon-gunlance-gajalaka-firestabber": {
+      "Key": "weapon-gunlance-gajalaka-firestabber",
+      "Translation": "Gajalaka Firestabber"
+    },
+    "weapon-gunlance-gajalaka-firepike": {
+      "Key": "weapon-gunlance-gajalaka-firepike",
+      "Translation": "Gajalaka Firepike"
     }
   }
