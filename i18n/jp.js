@@ -7065,7 +7065,7 @@ export default {
     },
     "armor-mr-viper-kadachi-hat-alpha-plus": {
       "Key": "armor-mr-viper-kadachi-hat-alpha-plus",
-      "Translation": "バイパーKadachiハット⍺+"
+      "Translation": "毒蛇Kadachiハット⍺+"
     },
     "armor-mr-viper-kadachi-hat-beta-plus": {
       "Key": "armor-mr-viper-kadachi-hat-beta-plus",
@@ -7497,7 +7497,7 @@ export default {
     },
     "armor-shamos-description": {
       "Key": "armor-shamos-description",
-      "Translation": "これらのShamosゴーグルは着用者が暗闇の中で見ることができるようにする特殊なプロセスを経てきました。"
+      "Translation": "このShamosゴーグルは着用者が暗闇の中で見ることができるようにする特殊なプロセスを経てきました。"
     },
     "armor-strategist-description": {
       "Key": "armor-strategist-description",
@@ -7997,7 +7997,7 @@ export default {
     },
     "endemic-life-whetfish-description": {
       "Key": "endemic-life-whetfish-description",
-      "Translation": "彼らは比較的深い水の中を泳ぐのが好き。それはすぐに噛まれていない場合ルアーを揺らすお試しください！"
+      "Translation": "彼らは比較的深い水の中を泳ぐが好き。それはすぐに噛まれていない場合ルアーを揺らすお試しください！"
     },
     "endemic-life-wiggler-description": {
       "Key": "endemic-life-wiggler-description",
@@ -8197,7 +8197,7 @@ export default {
     },
     "layered-armor-brigade-layered-arms": {
       "Key": "layered-armor-brigade-layered-arms",
-      "Translation": "旅団レイヤードアームズ"
+      "Translation": "旅団層状腕"
     },
     "layered-armor-brigade-layered-chest": {
       "Key": "layered-armor-brigade-layered-chest",
@@ -10241,7 +10241,7 @@ export default {
     },
     "play-guide-power-guard-description": {
       "Key": "play-guide-power-guard-description",
-      "Translation": "パワーガードは大幅にガード反応中にプッシュバックを減少させます。また、あなたはさらに、任意の方向に攻撃にあなたが連鎖することができ、より迅速反撃を行うことができます。"
+      "Translation": "パワーガードは大幅にガード反応中にプッシュバックを減少させます。それはまた、あなたが任意の方向に攻撃にさらに連鎖することができます迅速に反撃を実行することができます。"
     },
     "play-guide-preparing-for-a-hunt": {
       "Key": "play-guide-preparing-for-a-hunt",
@@ -10653,7 +10653,7 @@ export default {
     },
     "play-guide-the-research-base-description": {
       "Key": "play-guide-the-research-base-description",
-      "Translation": "研究者はベースcurrnetly大渓谷にかかっている第三艦隊の90％を構成します。その飛行船のバルーンはモンスターによって破壊された後の第3艦隊が閉じ込められていました。彼らは現在、腐ったヴェイルの研究を行っています。"
+      "Translation": "研究者は、ベースcurrnetly大渓谷にかかっている第三艦隊の90％を構成します。その飛行船のバルーンはモンスターによって破壊された後の第3艦隊が閉じ込められていました。彼らは現在、腐ったヴェイルの研究を行っています。"
     },
     "play-guide-the-research-commission": {
       "Key": "play-guide-the-research-commission",
@@ -10669,7 +10669,7 @@ export default {
     },
     "play-guide-the-smithy": {
       "Key": "play-guide-the-smithy",
-      "Translation": "スミシー"
+      "Translation": "鍛治場"
     },
     "play-guide-the-tale-of-the-five": {
       "Key": "play-guide-the-tale-of-the-five",
@@ -10869,7 +10869,7 @@ export default {
     },
     "poogie-about-poogie-text": {
       "Key": "poogie-about-poogie-text",
-      "Translation": "Poogieはアステラで見つかった豚の名前です。 Poogieを使用するには、あなたはクエストからアステラに戻ったときPoogieはあなたに挨拶するまで、各クエストの間、多くの場合、彼をペットにする必要があります。"
+      "Translation": "Poogieはアステラで見られる豚の名前です。 Poogieを使用するには、あなたはクエストからアステラに戻ったときPoogieはあなたに挨拶するまで、各クエストの間、多くの場合、彼をペットにする必要があります。"
     },
     "poogie-apprentice-fiver": {
       "Key": "poogie-apprentice-fiver",
@@ -11453,7 +11453,7 @@ export default {
     },
     "quest-camp-crasher-tips": {
       "Key": "quest-camp-crasher-tips",
-      "Translation": "東北キャンプ（11）から開始し、またはセクタ5へのあなたの方法を確認して北に向かう一方で、目標足跡/羽を探します。あなたのパスは、いくつかの点で交差する必要があります。"
+      "Translation": "北へ向かうながら北東キャンプ（11）から開始し、またはセクタ5へのあなたの方法を確認し、ターゲットの足跡/羽を探します。あなたのパスは、いくつかの点で交差する必要があります。"
     },
     "quest-chef-quest-a-rotten-request": {
       "Key": "quest-chef-quest-a-rotten-request",
@@ -12345,7 +12345,7 @@ export default {
     },
     "quest-left-quite-the-impression-description": {
       "Key": "quest-left-quite-the-impression-description",
-      "Translation": "ゾラMagdarosの兆候はあなたの心がビートをスキップすることはありませんか？ただ畏敬の念を起こさせるようになり、そのスケールがクローズアップ見て、私はあなたを保証してみましょう。それは、我々はより多くのことを学ぶことが不可欠です。"
+      "Translation": "ゾラMagdarosの兆候はあなたの心がビートをスキップすることはありませんか？ただ驚嘆ようであるそのスケールがクローズアップ見て、私はあなたを確保しましょう。それは、我々はより多くのことを学ぶことが不可欠です。"
     },
     "quest-left-quite-the-impression-notes": {
       "Key": "quest-left-quite-the-impression-notes",
@@ -13493,7 +13493,7 @@ export default {
     },
     "quest-the-current-situation-description": {
       "Key": "quest-the-current-situation-description",
-      "Translation": "私に触れないでください！私をtouhないでください！ *ザップ*私はMEに触れないようにあなたに言いました！ブラストトビ-Kadachiはアップ示されており、現在、私は取得せずに何も触れることができない -  * ZAP * OUCH！"
+      "Translation": "私に触れないでください！私をtouhないで！ *ザップ*私はMEに触れないようにあなたに言いました！ブラストトビ-Kadachiはアップ示されており、現在、私は取得せずに何も触れることができない -  * ZAP * OUCH！"
     },
     "quest-the-current-situation-tips": {
       "Key": "quest-the-current-situation-tips",
@@ -15313,7 +15313,7 @@ export default {
     },
     "skill-geologist-1": {
       "Key": "skill-geologist-1",
-      "Translation": "あなたはbonepilesから1つの余分の時間を収集することができます。"
+      "Translation": "あなたはbonepilesから1羽の余分の時間を収集することができます。"
     },
     "skill-geologist-2": {
       "Key": "skill-geologist-2",
@@ -17181,7 +17181,7 @@ export default {
     },
     "trophy-i-am-the-reinforcements-description": {
       "Key": "trophy-i-am-the-reinforcements-description",
-      "Translation": "SOSフレアへの対応、そして完全な10個のクエストを助けます。"
+      "Translation": "SOSフレアへの対応、そして完全な10クエストを助けます。"
     },
     "trophy-impregnable-defense": {
       "Key": "trophy-impregnable-defense",
@@ -20593,7 +20593,7 @@ export default {
     },
     "weapon-long-sword-gyre-gold-katana": {
       "Key": "weapon-long-sword-gyre-gold-katana",
-      "Translation": "GYREゴールドカタナ"
+      "Translation": "ジャイルゴールドカタナ"
     },
     "weapon-long-sword-hard-bone-reaper-i": {
       "Key": "weapon-long-sword-hard-bone-reaper-i",
@@ -22182,5 +22182,297 @@ export default {
     "weapon-gunlance-gajalaka-firepike": {
       "Key": "weapon-gunlance-gajalaka-firepike",
       "Translation": "Gajalaka Firepike"
+    },
+    "weapon-dual-blades-chrome-cross-i": {
+      "Key": "weapon-dual-blades-chrome-cross-i",
+      "Translation": "クロームクロスI"
+    },
+    "weapon-dual-blades-chrome-cross-ii": {
+      "Key": "weapon-dual-blades-chrome-cross-ii",
+      "Translation": "クロームクロスII"
+    },
+    "weapon-dual-blades-chrome-cross-iii": {
+      "Key": "weapon-dual-blades-chrome-cross-iii",
+      "Translation": "クロームクロスIII"
+    },
+    "weapon-dual-blades-usurpers-fulgur": {
+      "Key": "weapon-dual-blades-usurpers-fulgur",
+      "Translation": "強奪者のFulgur"
+    },
+    "weapon-dual-blades-usurpers-fulgur-plus": {
+      "Key": "weapon-dual-blades-usurpers-fulgur-plus",
+      "Translation": "強奪者のFulgur +"
+    },
+    "weapon-dual-blades-despots-blitz": {
+      "Key": "weapon-dual-blades-despots-blitz",
+      "Translation": "専制君主のブリッツ"
+    },
+    "weapon-dual-blades-ruinous-decimation": {
+      "Key": "weapon-dual-blades-ruinous-decimation",
+      "Translation": "破滅的なデシメーション"
+    },
+    "weapon-dual-blades-cross-destroyers-i": {
+      "Key": "weapon-dual-blades-cross-destroyers-i",
+      "Translation": "クロス駆逐艦I"
+    },
+    "weapon-dual-blades-cross-destroyers-ii": {
+      "Key": "weapon-dual-blades-cross-destroyers-ii",
+      "Translation": "クロス駆逐艦II"
+    },
+    "weapon-dual-blades-hidden-tomahawk-i": {
+      "Key": "weapon-dual-blades-hidden-tomahawk-i",
+      "Translation": "隠されたトマホークI"
+    },
+    "weapon-dual-blades-hidden-tomahawk-ii": {
+      "Key": "weapon-dual-blades-hidden-tomahawk-ii",
+      "Translation": "隠されたトマホークII"
+    },
+    "weapon-dual-blades-blazing-warhawks": {
+      "Key": "weapon-dual-blades-blazing-warhawks",
+      "Translation": "ブレイジングWarhawks"
+    },
+    "weapon-dual-blades-bazel-bombers": {
+      "Key": "weapon-dual-blades-bazel-bombers",
+      "Translation": "Bazel爆撃機"
+    },
+    "weapon-dual-blades-blizzarioths": {
+      "Key": "weapon-dual-blades-blizzarioths",
+      "Translation": "Blizzarioths"
+    },
+    "weapon-dual-blades-blizzarioths-plus": {
+      "Key": "weapon-dual-blades-blizzarioths-plus",
+      "Translation": "Blizzarioths +"
+    },
+    "weapon-dual-blades-mountain-blizzarioths": {
+      "Key": "weapon-dual-blades-mountain-blizzarioths",
+      "Translation": "マウンテンBlizzarioths"
+    },
+    "weapon-dual-blades-asefar-al-nasr-i": {
+      "Key": "weapon-dual-blades-asefar-al-nasr-i",
+      "Translation": "Asefarアル・ナスルI"
+    },
+    "weapon-dual-blades-asefar-al-nasr-ii": {
+      "Key": "weapon-dual-blades-asefar-al-nasr-ii",
+      "Translation": "Asefarアル・ナスルII"
+    },
+    "weapon-dual-blades-rex-chain-ii": {
+      "Key": "weapon-dual-blades-rex-chain-ii",
+      "Translation": "レックスチェーンII"
+    },
+    "weapon-dual-blades-accursed-chain": {
+      "Key": "weapon-dual-blades-accursed-chain",
+      "Translation": "呪われたチェーン"
+    },
+    "weapon-dual-blades-twin-flames": {
+      "Key": "weapon-dual-blades-twin-flames",
+      "Translation": "ツイン炎"
+    },
+    "weapon-dual-blades-wyvern-lovers": {
+      "Key": "weapon-dual-blades-wyvern-lovers",
+      "Translation": "ワイバーン恋人"
+    },
+    "weapon-dual-blades-guild-knight-sabers": {
+      "Key": "weapon-dual-blades-guild-knight-sabers",
+      "Translation": "ギルドナイトセイバーズ"
+    },
+    "weapon-dual-blades-master-sabers": {
+      "Key": "weapon-dual-blades-master-sabers",
+      "Translation": "マスターセイバーズ"
+    },
+    "weapon-dual-blades-holy-guild-knight": {
+      "Key": "weapon-dual-blades-holy-guild-knight",
+      "Translation": "聖騎士ギルド"
+    },
+    "weapon-dual-blades-hulking-choppers-i": {
+      "Key": "weapon-dual-blades-hulking-choppers-i",
+      "Translation": "図体の大きいチョッパーI"
+    },
+    "weapon-dual-blades-hulking-choppers-ii": {
+      "Key": "weapon-dual-blades-hulking-choppers-ii",
+      "Translation": "図体の大きいチョッパーズII"
+    },
+    "weapon-dual-blades-hulking-choppers-iii": {
+      "Key": "weapon-dual-blades-hulking-choppers-iii",
+      "Translation": "図体の大きいチョッパーIII"
+    },
+    "weapon-dual-blades-icefeather": {
+      "Key": "weapon-dual-blades-icefeather",
+      "Translation": "Icefeather"
+    },
+    "weapon-dual-blades-untouched-hel": {
+      "Key": "weapon-dual-blades-untouched-hel",
+      "Translation": "手つかずのヘル"
+    },
+    "weapon-dual-blades-anja-twinrippers-i": {
+      "Key": "weapon-dual-blades-anja-twinrippers-i",
+      "Translation": "アニャTwinrippers I"
+    },
+    "weapon-dual-blades-anja-twinrippers-ii": {
+      "Key": "weapon-dual-blades-anja-twinrippers-ii",
+      "Translation": "アニャTwinrippers II"
+    },
+    "weapon-dual-blades-fulguring-tornado-i": {
+      "Key": "weapon-dual-blades-fulguring-tornado-i",
+      "Translation": "FulguringトルネードI"
+    },
+    "weapon-dual-blades-fulguring-tornado-ii": {
+      "Key": "weapon-dual-blades-fulguring-tornado-ii",
+      "Translation": "FulguringトルネードII"
+    },
+    "weapon-dual-blades-diablos-clubs-iii": {
+      "Key": "weapon-dual-blades-diablos-clubs-iii",
+      "Translation": "角竜クラブIII"
+    },
+    "weapon-dual-blades-thanatos-mauls": {
+      "Key": "weapon-dual-blades-thanatos-mauls",
+      "Translation": "タナトスMauls"
+    },
+    "weapon-dual-blades-sulfurteinn-ortho": {
+      "Key": "weapon-dual-blades-sulfurteinn-ortho",
+      "Translation": "Sulfurteinnオーソ"
+    },
+    "weapon-dual-blades-the-stripping-shears": {
+      "Key": "weapon-dual-blades-the-stripping-shears",
+      "Translation": "ストリップシアーズ"
+    },
+    "weapon-dual-blades-mammoth-direbones-i": {
+      "Key": "weapon-dual-blades-mammoth-direbones-i",
+      "Translation": "マンモスDirebones I"
+    },
+    "weapon-dual-blades-mammoth-direbones-ii": {
+      "Key": "weapon-dual-blades-mammoth-direbones-ii",
+      "Translation": "マンモスDirebones II"
+    },
+    "weapon-dual-blades-jyura-keenblades-i": {
+      "Key": "weapon-dual-blades-jyura-keenblades-i",
+      "Translation": "Jyura Keenblades I"
+    },
+    "weapon-dual-blades-jyura-keenblades-ii": {
+      "Key": "weapon-dual-blades-jyura-keenblades-ii",
+      "Translation": "Jyura Keenblades II"
+    },
+    "weapon-dual-blades-raven-tessen": {
+      "Key": "weapon-dual-blades-raven-tessen",
+      "Translation": "レイヴンTessen"
+    },
+    "weapon-dual-blades-wolf-tessen": {
+      "Key": "weapon-dual-blades-wolf-tessen",
+      "Translation": "ウルフTessen"
+    },
+    "weapon-dual-blades-beo-hatchets-i": {
+      "Key": "weapon-dual-blades-beo-hatchets-i",
+      "Translation": "BEO Hatchets I"
+    },
+    "weapon-dual-blades-beo-hatchets-ii": {
+      "Key": "weapon-dual-blades-beo-hatchets-ii",
+      "Translation": "BEO Hatchets II"
+    },
+    "weapon-dual-blades-shattering-flames-i": {
+      "Key": "weapon-dual-blades-shattering-flames-i",
+      "Translation": "破砕炎I"
+    },
+    "weapon-dual-blades-shattering-flames-ii": {
+      "Key": "weapon-dual-blades-shattering-flames-ii",
+      "Translation": "炎IIを粉砕"
+    },
+    "weapon-dual-blades-smoldering-cities": {
+      "Key": "weapon-dual-blades-smoldering-cities",
+      "Translation": "くすぶり都市"
+    },
+    "weapon-dual-blades-smoldering-cities-plus": {
+      "Key": "weapon-dual-blades-smoldering-cities-plus",
+      "Translation": "+都市をくすぶり"
+    },
+    "weapon-dual-blades-smoldering-kingdoms": {
+      "Key": "weapon-dual-blades-smoldering-kingdoms",
+      "Translation": "くすぶり王国"
+    },
+    "weapon-dual-blades-abyss-eaters-i": {
+      "Key": "weapon-dual-blades-abyss-eaters-i",
+      "Translation": "アビス食いI"
+    },
+    "weapon-dual-blades-abyss-eaters-ii": {
+      "Key": "weapon-dual-blades-abyss-eaters-ii",
+      "Translation": "アビス食いII"
+    },
+    "weapon-dual-blades-brachydios-blasters-i": {
+      "Key": "weapon-dual-blades-brachydios-blasters-i",
+      "Translation": "BrachydiosブラスターI"
+    },
+    "weapon-dual-blades-brachydios-blasters-ii": {
+      "Key": "weapon-dual-blades-brachydios-blasters-ii",
+      "Translation": "BrachydiosブラスターII"
+    },
+    "weapon-dual-blades-kadachi-greathawks-i": {
+      "Key": "weapon-dual-blades-kadachi-greathawks-i",
+      "Translation": "Kadachi Greathawks I"
+    },
+    "weapon-dual-blades-kadachi-greathawks-ii": {
+      "Key": "weapon-dual-blades-kadachi-greathawks-ii",
+      "Translation": "Kadachi Greathawks II"
+    },
+    "weapon-dual-blades-crimson-viperclaws-i": {
+      "Key": "weapon-dual-blades-crimson-viperclaws-i",
+      "Translation": "クリムゾンViperclaws I"
+    },
+    "weapon-dual-blades-crimson-viperclaws-ii": {
+      "Key": "weapon-dual-blades-crimson-viperclaws-ii",
+      "Translation": "クリムゾンViperclaws II"
+    },
+    "weapon-dual-blades-sin-plus": {
+      "Key": "weapon-dual-blades-sin-plus",
+      "Translation": "罪+"
+    },
+    "weapon-dual-blades-crime": {
+      "Key": "weapon-dual-blades-crime",
+      "Translation": "犯罪"
+    },
+    "weapon-dual-blades-nether-chainblades": {
+      "Key": "weapon-dual-blades-nether-chainblades",
+      "Translation": "ネザーChainblades"
+    },
+    "weapon-dual-blades-death-row": {
+      "Key": "weapon-dual-blades-death-row",
+      "Translation": "デス・ロウ"
+    },
+    "weapon-dual-blades-enduring-sacrifice": {
+      "Key": "weapon-dual-blades-enduring-sacrifice",
+      "Translation": "不朽のサクリファイス"
+    },
+    "weapon-dual-blades-enduring-surrender": {
+      "Key": "weapon-dual-blades-enduring-surrender",
+      "Translation": "不朽のサレンダー"
+    },
+    "weapon-dual-blades-wunderkirins": {
+      "Key": "weapon-dual-blades-wunderkirins",
+      "Translation": "Wunderkirins"
+    },
+    "weapon-dual-blades-magdaros-volcancross": {
+      "Key": "weapon-dual-blades-magdaros-volcancross",
+      "Translation": "Magdaros Volcancross"
+    },
+    "weapon-dual-blades-blizzard-and-blaze": {
+      "Key": "weapon-dual-blades-blizzard-and-blaze",
+      "Translation": "ブリザードとブレイズ"
+    },
+    "weapon-dual-blades-soulfire-fangs-blaze": {
+      "Key": "weapon-dual-blades-soulfire-fangs-blaze",
+      "Translation": "Soulfire牙「ブレイズ」"
+    },
+    "weapon-dual-blades-soulfire-fangs-styx": {
+      "Key": "weapon-dual-blades-soulfire-fangs-styx",
+      "Translation": "Soulfire牙「三途の川」"
+    },
+    "weapon-dual-blades-downy-paradise": {
+      "Key": "weapon-dual-blades-downy-paradise",
+      "Translation": "ダウニーパラダイス"
+    },
+    "weapon-dual-blades-suzuka-takamaru": {
+      "Key": "weapon-dual-blades-suzuka-takamaru",
+      "Translation": "鈴鹿高丸"
+    },
+    "weapon-dual-blades-suzuka-otakemaru": {
+      "Key": "weapon-dual-blades-suzuka-otakemaru",
+      "Translation": "鈴鹿Otakemaru"
     }
   }

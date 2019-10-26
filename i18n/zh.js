@@ -3285,7 +3285,7 @@ export default {
     },
     "armor-kushala-description": {
       "Key": "armor-kushala-description",
-      "Translation": "護甲從Kushala Daora零件。它就像一個古老的神靈栩栩如生的雕像。"
+      "Translation": "護甲從Kushala Daora零件。它類似於一個古老的神來生活的雕像。"
     },
     "armor-kushala-gamma-description": {
       "Key": "armor-kushala-gamma-description",
@@ -3297,7 +3297,7 @@ export default {
     },
     "armor-leather-description": {
       "Key": "armor-leather-description",
-      "Translation": "護甲做出處理的怪物隱藏的。安全的選擇，設計用於多種用途。"
+      "Translation": "裝甲使得處理後的怪物隱藏的。安全的選擇，設計用於多種用途。"
     },
     "armor-legiana-description": {
       "Key": "armor-legiana-description",
@@ -5097,7 +5097,7 @@ export default {
     },
     "armor-mr-esurient-mail-alpha-plus": {
       "Key": "armor-mr-esurient-mail-alpha-plus",
-      "Translation": "貪吃郵件⍺+"
+      "Translation": "饕郵件⍺+"
     },
     "armor-mr-esurient-mail-beta-plus": {
       "Key": "armor-mr-esurient-mail-beta-plus",
@@ -10565,7 +10565,7 @@ export default {
     },
     "play-guide-tailraiders-description": {
       "Key": "play-guide-tailraiders-description",
-      "Translation": "您Palico可以說和Grimalkynes和某些其他怪物說服他們幫助你的狩獵。那些你交好會陪你的時間很短的Tailraiders。"
+      "Translation": "您Palico能說話和Grimalkynes和某些其他怪物來說服他們幫助你在你的狩獵。那些你交好會陪你的時間很短的Tailraiders。"
     },
     "play-guide-tempered-monsters": {
       "Key": "play-guide-tempered-monsters",
@@ -12541,7 +12541,7 @@ export default {
     },
     "quest-objective-deliver-10-super-abalone": {
       "Key": "quest-objective-deliver-10-super-abalone",
-      "Translation": "投放10次超級鮑魚"
+      "Translation": "提供10超級鮑魚"
     },
     "quest-objective-deliver-10-wigglers": {
       "Key": "quest-objective-deliver-10-wigglers",
@@ -16149,7 +16149,7 @@ export default {
     },
     "skill-pro-transporter-description": {
       "Key": "skill-pro-transporter-description",
-      "Translation": "使你的速度，同時運輸的物品，並降低其下降的可能性。"
+      "Translation": "使你的速度，同時運輸物品，並減少丟棄其中的可能性。"
     },
     "skill-protective-polish": {
       "Key": "skill-protective-polish",
@@ -16449,7 +16449,7 @@ export default {
     },
     "skill-speed-eating-1": {
       "Key": "skill-speed-eating-1",
-      "Translation": "略incresases項目的使用速度。"
+      "Translation": "略incresases項目利用速度。"
     },
     "skill-speed-eating-2": {
       "Key": "skill-speed-eating-2",
@@ -16901,7 +16901,7 @@ export default {
     },
     "trophy-bourgeois-hunter-description": {
       "Key": "trophy-bourgeois-hunter-description",
-      "Translation": "擁有百萬zenny"
+      "Translation": "具備百萬zenny"
     },
     "trophy-bristles-for-all": {
       "Key": "trophy-bristles-for-all",
@@ -18665,7 +18665,7 @@ export default {
     },
     "weapon-great-sword-taroth-blaze-decay": {
       "Key": "weapon-great-sword-taroth-blaze-decay",
-      "Translation": "Taroth大火“衰變”"
+      "Translation": "Taroth火焰“衰變”"
     },
     "weapon-great-sword-taroth-blaze-erupter": {
       "Key": "weapon-great-sword-taroth-blaze-erupter",
@@ -19713,7 +19713,7 @@ export default {
     },
     "weapon-hunting-horn-lumu-barone-ii": {
       "Key": "weapon-hunting-horn-lumu-barone-ii",
-      "Translation": "陸慕巴羅II"
+      "Translation": "陸慕巴羅二"
     },
     "weapon-hunting-horn-lumu-barone-iii": {
       "Key": "weapon-hunting-horn-lumu-barone-iii",
@@ -19973,7 +19973,7 @@ export default {
     },
     "weapon-lance-bone-lance-ii": {
       "Key": "weapon-lance-bone-lance-ii",
-      "Translation": "骨蘭斯III"
+      "Translation": "蘭斯骨III"
     },
     "weapon-lance-carapace-lance-i": {
       "Key": "weapon-lance-carapace-lance-i",
@@ -20925,11 +20925,11 @@ export default {
     },
     "weapon-sword-and-shield-blacksteel-sword-i": {
       "Key": "weapon-sword-and-shield-blacksteel-sword-i",
-      "Translation": "劍黑鋼我"
+      "Translation": "黑鋼劍我"
     },
     "weapon-sword-and-shield-blacksteel-sword-ii": {
       "Key": "weapon-sword-and-shield-blacksteel-sword-ii",
-      "Translation": "劍黑鋼II"
+      "Translation": "亮劍黑鋼II"
     },
     "weapon-sword-and-shield-blazing-edge-i": {
       "Key": "weapon-sword-and-shield-blazing-edge-i",
@@ -22182,5 +22182,297 @@ export default {
     "weapon-gunlance-gajalaka-firepike": {
       "Key": "weapon-gunlance-gajalaka-firepike",
       "Translation": "Gajalaka Firepike"
+    },
+    "weapon-dual-blades-chrome-cross-i": {
+      "Key": "weapon-dual-blades-chrome-cross-i",
+      "Translation": "鍍鉻十字我"
+    },
+    "weapon-dual-blades-chrome-cross-ii": {
+      "Key": "weapon-dual-blades-chrome-cross-ii",
+      "Translation": "鍍鉻十字II"
+    },
+    "weapon-dual-blades-chrome-cross-iii": {
+      "Key": "weapon-dual-blades-chrome-cross-iii",
+      "Translation": "鍍鉻十字III"
+    },
+    "weapon-dual-blades-usurpers-fulgur": {
+      "Key": "weapon-dual-blades-usurpers-fulgur",
+      "Translation": "篡位的Fulgur"
+    },
+    "weapon-dual-blades-usurpers-fulgur-plus": {
+      "Key": "weapon-dual-blades-usurpers-fulgur-plus",
+      "Translation": "篡位的Fulgur +"
+    },
+    "weapon-dual-blades-despots-blitz": {
+      "Key": "weapon-dual-blades-despots-blitz",
+      "Translation": "暴君的閃電戰"
+    },
+    "weapon-dual-blades-ruinous-decimation": {
+      "Key": "weapon-dual-blades-ruinous-decimation",
+      "Translation": "毀滅性的抽取"
+    },
+    "weapon-dual-blades-cross-destroyers-i": {
+      "Key": "weapon-dual-blades-cross-destroyers-i",
+      "Translation": "十字驅逐艦我"
+    },
+    "weapon-dual-blades-cross-destroyers-ii": {
+      "Key": "weapon-dual-blades-cross-destroyers-ii",
+      "Translation": "十字驅逐艦II"
+    },
+    "weapon-dual-blades-hidden-tomahawk-i": {
+      "Key": "weapon-dual-blades-hidden-tomahawk-i",
+      "Translation": "隱藏戰斧我"
+    },
+    "weapon-dual-blades-hidden-tomahawk-ii": {
+      "Key": "weapon-dual-blades-hidden-tomahawk-ii",
+      "Translation": "隱藏的戰斧II"
+    },
+    "weapon-dual-blades-blazing-warhawks": {
+      "Key": "weapon-dual-blades-blazing-warhawks",
+      "Translation": "熾天Warhawks"
+    },
+    "weapon-dual-blades-bazel-bombers": {
+      "Key": "weapon-dual-blades-bazel-bombers",
+      "Translation": "巴澤爾轟炸機"
+    },
+    "weapon-dual-blades-blizzarioths": {
+      "Key": "weapon-dual-blades-blizzarioths",
+      "Translation": "Blizzarioths"
+    },
+    "weapon-dual-blades-blizzarioths-plus": {
+      "Key": "weapon-dual-blades-blizzarioths-plus",
+      "Translation": "Blizzarioths +"
+    },
+    "weapon-dual-blades-mountain-blizzarioths": {
+      "Key": "weapon-dual-blades-mountain-blizzarioths",
+      "Translation": "山Blizzarioths"
+    },
+    "weapon-dual-blades-asefar-al-nasr-i": {
+      "Key": "weapon-dual-blades-asefar-al-nasr-i",
+      "Translation": "Asefar人，我納斯爾"
+    },
+    "weapon-dual-blades-asefar-al-nasr-ii": {
+      "Key": "weapon-dual-blades-asefar-al-nasr-ii",
+      "Translation": "Asefar AL-II納斯爾"
+    },
+    "weapon-dual-blades-rex-chain-ii": {
+      "Key": "weapon-dual-blades-rex-chain-ii",
+      "Translation": "雷克斯鏈II"
+    },
+    "weapon-dual-blades-accursed-chain": {
+      "Key": "weapon-dual-blades-accursed-chain",
+      "Translation": "詛咒鏈"
+    },
+    "weapon-dual-blades-twin-flames": {
+      "Key": "weapon-dual-blades-twin-flames",
+      "Translation": "雙火焰"
+    },
+    "weapon-dual-blades-wyvern-lovers": {
+      "Key": "weapon-dual-blades-wyvern-lovers",
+      "Translation": "飛龍情人"
+    },
+    "weapon-dual-blades-guild-knight-sabers": {
+      "Key": "weapon-dual-blades-guild-knight-sabers",
+      "Translation": "公會騎士軍刀"
+    },
+    "weapon-dual-blades-master-sabers": {
+      "Key": "weapon-dual-blades-master-sabers",
+      "Translation": "主軍刀"
+    },
+    "weapon-dual-blades-holy-guild-knight": {
+      "Key": "weapon-dual-blades-holy-guild-knight",
+      "Translation": "聖騎士公會"
+    },
+    "weapon-dual-blades-hulking-choppers-i": {
+      "Key": "weapon-dual-blades-hulking-choppers-i",
+      "Translation": "笨重的砍刀我"
+    },
+    "weapon-dual-blades-hulking-choppers-ii": {
+      "Key": "weapon-dual-blades-hulking-choppers-ii",
+      "Translation": "笨重的砍刀II"
+    },
+    "weapon-dual-blades-hulking-choppers-iii": {
+      "Key": "weapon-dual-blades-hulking-choppers-iii",
+      "Translation": "笨重的砍刀III"
+    },
+    "weapon-dual-blades-icefeather": {
+      "Key": "weapon-dual-blades-icefeather",
+      "Translation": "Icefeather"
+    },
+    "weapon-dual-blades-untouched-hel": {
+      "Key": "weapon-dual-blades-untouched-hel",
+      "Translation": "非接觸赫爾"
+    },
+    "weapon-dual-blades-anja-twinrippers-i": {
+      "Key": "weapon-dual-blades-anja-twinrippers-i",
+      "Translation": "安雅Twinrippers我"
+    },
+    "weapon-dual-blades-anja-twinrippers-ii": {
+      "Key": "weapon-dual-blades-anja-twinrippers-ii",
+      "Translation": "安雅Twinrippers II"
+    },
+    "weapon-dual-blades-fulguring-tornado-i": {
+      "Key": "weapon-dual-blades-fulguring-tornado-i",
+      "Translation": "Fulguring龍捲風我"
+    },
+    "weapon-dual-blades-fulguring-tornado-ii": {
+      "Key": "weapon-dual-blades-fulguring-tornado-ii",
+      "Translation": "Fulguring旋風II"
+    },
+    "weapon-dual-blades-diablos-clubs-iii": {
+      "Key": "weapon-dual-blades-diablos-clubs-iii",
+      "Translation": "Diablo的俱樂部III"
+    },
+    "weapon-dual-blades-thanatos-mauls": {
+      "Key": "weapon-dual-blades-thanatos-mauls",
+      "Translation": "托斯Mauls"
+    },
+    "weapon-dual-blades-sulfurteinn-ortho": {
+      "Key": "weapon-dual-blades-sulfurteinn-ortho",
+      "Translation": "Sulfurteinn鄰"
+    },
+    "weapon-dual-blades-the-stripping-shears": {
+      "Key": "weapon-dual-blades-the-stripping-shears",
+      "Translation": "剝皮剪"
+    },
+    "weapon-dual-blades-mammoth-direbones-i": {
+      "Key": "weapon-dual-blades-mammoth-direbones-i",
+      "Translation": "猛獁Direbones我"
+    },
+    "weapon-dual-blades-mammoth-direbones-ii": {
+      "Key": "weapon-dual-blades-mammoth-direbones-ii",
+      "Translation": "猛獁Direbones II"
+    },
+    "weapon-dual-blades-jyura-keenblades-i": {
+      "Key": "weapon-dual-blades-jyura-keenblades-i",
+      "Translation": "Jyura Keenblades我"
+    },
+    "weapon-dual-blades-jyura-keenblades-ii": {
+      "Key": "weapon-dual-blades-jyura-keenblades-ii",
+      "Translation": "Jyura Keenblades II"
+    },
+    "weapon-dual-blades-raven-tessen": {
+      "Key": "weapon-dual-blades-raven-tessen",
+      "Translation": "烏鴉Tessen"
+    },
+    "weapon-dual-blades-wolf-tessen": {
+      "Key": "weapon-dual-blades-wolf-tessen",
+      "Translation": "沃爾夫Tessen"
+    },
+    "weapon-dual-blades-beo-hatchets-i": {
+      "Key": "weapon-dual-blades-beo-hatchets-i",
+      "Translation": "BEO斧子我"
+    },
+    "weapon-dual-blades-beo-hatchets-ii": {
+      "Key": "weapon-dual-blades-beo-hatchets-ii",
+      "Translation": "BEO斧子II"
+    },
+    "weapon-dual-blades-shattering-flames-i": {
+      "Key": "weapon-dual-blades-shattering-flames-i",
+      "Translation": "驚天動地的火焰我"
+    },
+    "weapon-dual-blades-shattering-flames-ii": {
+      "Key": "weapon-dual-blades-shattering-flames-ii",
+      "Translation": "驚天動地II火焰"
+    },
+    "weapon-dual-blades-smoldering-cities": {
+      "Key": "weapon-dual-blades-smoldering-cities",
+      "Translation": "陰燃城市"
+    },
+    "weapon-dual-blades-smoldering-cities-plus": {
+      "Key": "weapon-dual-blades-smoldering-cities-plus",
+      "Translation": "陰燃城市+"
+    },
+    "weapon-dual-blades-smoldering-kingdoms": {
+      "Key": "weapon-dual-blades-smoldering-kingdoms",
+      "Translation": "悶燒演義"
+    },
+    "weapon-dual-blades-abyss-eaters-i": {
+      "Key": "weapon-dual-blades-abyss-eaters-i",
+      "Translation": "深淵食者我"
+    },
+    "weapon-dual-blades-abyss-eaters-ii": {
+      "Key": "weapon-dual-blades-abyss-eaters-ii",
+      "Translation": "深淵食者II"
+    },
+    "weapon-dual-blades-brachydios-blasters-i": {
+      "Key": "weapon-dual-blades-brachydios-blasters-i",
+      "Translation": "Brachydios我放炮"
+    },
+    "weapon-dual-blades-brachydios-blasters-ii": {
+      "Key": "weapon-dual-blades-brachydios-blasters-ii",
+      "Translation": "Brachydios放炮II"
+    },
+    "weapon-dual-blades-kadachi-greathawks-i": {
+      "Key": "weapon-dual-blades-kadachi-greathawks-i",
+      "Translation": "Kadachi Greathawks我"
+    },
+    "weapon-dual-blades-kadachi-greathawks-ii": {
+      "Key": "weapon-dual-blades-kadachi-greathawks-ii",
+      "Translation": "Kadachi Greathawks II"
+    },
+    "weapon-dual-blades-crimson-viperclaws-i": {
+      "Key": "weapon-dual-blades-crimson-viperclaws-i",
+      "Translation": "深紅Viperclaws我"
+    },
+    "weapon-dual-blades-crimson-viperclaws-ii": {
+      "Key": "weapon-dual-blades-crimson-viperclaws-ii",
+      "Translation": "深紅Viperclaws II"
+    },
+    "weapon-dual-blades-sin-plus": {
+      "Key": "weapon-dual-blades-sin-plus",
+      "Translation": "仙+"
+    },
+    "weapon-dual-blades-crime": {
+      "Key": "weapon-dual-blades-crime",
+      "Translation": "犯罪"
+    },
+    "weapon-dual-blades-nether-chainblades": {
+      "Key": "weapon-dual-blades-nether-chainblades",
+      "Translation": "虛空Chainblades"
+    },
+    "weapon-dual-blades-death-row": {
+      "Key": "weapon-dual-blades-death-row",
+      "Translation": "死囚"
+    },
+    "weapon-dual-blades-enduring-sacrifice": {
+      "Key": "weapon-dual-blades-enduring-sacrifice",
+      "Translation": "持久犧牲"
+    },
+    "weapon-dual-blades-enduring-surrender": {
+      "Key": "weapon-dual-blades-enduring-surrender",
+      "Translation": "持久投降"
+    },
+    "weapon-dual-blades-wunderkirins": {
+      "Key": "weapon-dual-blades-wunderkirins",
+      "Translation": "Wunderkirins"
+    },
+    "weapon-dual-blades-magdaros-volcancross": {
+      "Key": "weapon-dual-blades-magdaros-volcancross",
+      "Translation": "Magdaros Volcancross"
+    },
+    "weapon-dual-blades-blizzard-and-blaze": {
+      "Key": "weapon-dual-blades-blizzard-and-blaze",
+      "Translation": "暴雪與火焰"
+    },
+    "weapon-dual-blades-soulfire-fangs-blaze": {
+      "Key": "weapon-dual-blades-soulfire-fangs-blaze",
+      "Translation": "靈魂之火獠牙“大火”"
+    },
+    "weapon-dual-blades-soulfire-fangs-styx": {
+      "Key": "weapon-dual-blades-soulfire-fangs-styx",
+      "Translation": "靈魂之火獠牙“冥河”"
+    },
+    "weapon-dual-blades-downy-paradise": {
+      "Key": "weapon-dual-blades-downy-paradise",
+      "Translation": "柔和的天堂"
+    },
+    "weapon-dual-blades-suzuka-takamaru": {
+      "Key": "weapon-dual-blades-suzuka-takamaru",
+      "Translation": "鈴鹿高丸"
+    },
+    "weapon-dual-blades-suzuka-otakemaru": {
+      "Key": "weapon-dual-blades-suzuka-otakemaru",
+      "Translation": "鈴鹿Otakemaru"
     }
   }

@@ -3293,7 +3293,7 @@ export default {
     },
     "armor-lavasioth-description": {
       "Key": "armor-lavasioth-description",
-      "Translation": "Thick Lavasioth Schal unterzog einen mühsamen Behandlungsprozess diese Panzerung zu ergeben. Wirklich ein Kunstwerk."
+      "Translation": "Thick Lavasioth Schale unterzog ein mühsamer Behandlungsprozess diese Panzerung zu ergeben. Wirklich ein Kunstwerk."
     },
     "armor-leather-description": {
       "Key": "armor-leather-description",
@@ -4285,7 +4285,7 @@ export default {
     },
     "armor-mr-alloy-mail-alpha-plus": {
       "Key": "armor-mr-alloy-mail-alpha-plus",
-      "Translation": "Alloy Mail-⍺ +"
+      "Translation": "Alloy Post ⍺ +"
     },
     "armor-mr-alloy-vambraces-alpha-plus": {
       "Key": "armor-mr-alloy-vambraces-alpha-plus",
@@ -7149,7 +7149,7 @@ export default {
     },
     "armor-mr-zorah-alpha-plus": {
       "Key": "armor-mr-zorah-alpha-plus",
-      "Translation": "Zorah ⍺ +"
+      "Translation": "Zora + ⍺"
     },
     "armor-mr-zorah-beta-plus": {
       "Key": "armor-mr-zorah-beta-plus",
@@ -7601,7 +7601,7 @@ export default {
     },
     "critical-bounties-important-notes": {
       "Key": "critical-bounties-important-notes",
-      "Translation": "Es gibt drei Forscher, dass Sie auf dem Gebiet begegnen heraus können. Die Endemic Leben Forscher, die Lynian Forscher und die Piscine Forscher \\ n \\ nWenn setzen Sie auf einer Expedition aus, nur einen Forscher in der Zone laichen. Welche Forscher Spawns, auf der Weltkarte angezeigt, wenn Sie Ihre Entdeckungsreise Ziel wählen. Jedes Mal, wenn Sie einen Auftrag, Expedition oder Untersuchung abgeschlossen ist, es Änderungen, die Forscher laicht. Deshalb ist es wichtig, die Weltkarte regelmäßig zu überprüfen. \\ N \\ nEs ist wichtig zu jedem Forscher in jeder Zone zu sprechen, um durch die kritischen Bounties jeden Forscher Fortschritte. Da es zufällig die Forscher Spawns (iV siehe Hinweis), ist es einfach, auf diesen kritischen Bounties zu verpassen. \\ N \\ nWenn ein Forscher eine Prämie zu bieten hat, werden sie als ein gelbes Ausrufezeichen angezeigt werden (!) Auf der Karte . Ich habe nicht immer diese Markierungen auf der Karte und das ist, warum ich auf diesem kritischen Bounties verpaßt. Sobald Sie auf Entdeckungsreise sind, öffnen Sie die Weltkarte und verwenden Sie die L1 / R1 Tasten, um die Endemic Leben Filter auszuwählen, um es einfacher zu erkennen. \\ N \\ nWenn ein Forscher keine Prämie zu bieten hat, werden sie als leuchtend grün erscheinen Punkt (.) auf der Karte. \\ n \\ nNach Sie eine kritische Prämie werden, erhalten Sie auf den jeweiligen Forscher sprechen kann ihn / sie zu informieren, dass Sie die Prämie abgeschlossen. Allerdings müssen Sie immer auf das Research Center in Astera sprechen, um die Prämie zu vervollständigen und die Belohnungen erhalten. \\ N \\ nWenn Sie nicht den Forscher sprechen, nachdem eine Prämie abgeschlossen und Sie sind dabei, um sie in einer neuen Zone zu sprechen eine neue Prämie zu akzeptieren, ist es möglich, dass Sie mit dem Forscher zweimal sprechen. Einmal informieren ihn / sie, dass Sie die vorherige Prämie abgeschlossen. Ein anderes Mal der kritische Prämie der neuen Zone zu initiieren \\ n \\ nChoosing die Low Rank oder hohe Rang Ziel spielt keine Rolle, mit Ausnahme von Drachen Aussparung, die nur Rang hoch ist \\ n \\ nLynian Bounties:.. Jedes Mal, wenn Sie kritzelt finden Sie können sie mit Ihrem Scout Fliegen markieren und sie werden dich auf die nächste doodle führen. Dadurch führt Sie zu den unten genannten Stellen. Nach einem Clan anzuzufreunden, können Sie Ihre Palico in Ihrem Zimmer oder in der Forschungsstation sprechen. Ihre Palico werden Ihnen sagen, dann die neuen Tricks es gelernt."
+      "Translation": "Es gibt drei Forscher, dass Sie auf dem Gebiet begegnen heraus können. Die Endemic Leben Forscher, die Lynian Forscher und die Piscine Forscher \\ n \\ nWenn setzen Sie auf einer Expedition aus, nur einen Forscher in der Zone laichen. Welche Forscher Spawns, auf der Weltkarte angezeigt, wenn Sie Ihre Entdeckungsreise Ziel wählen. Jedes Mal, wenn Sie einen Auftrag, Expedition oder Untersuchung abgeschlossen ist, es Änderungen, die Forscher laicht. Deshalb ist es wichtig, die Weltkarte regelmäßig zu überprüfen. \\ N \\ nEs ist wichtig zu jedem Forscher in jeder Zone zu sprechen, um durch die kritischen Bounties jeden Forscher Fortschritte. Da es zufällig die Forscher Spawns (iV siehe Hinweis), ist es einfach, auf diesen kritischen Bounties zu verpassen. \\ N \\ nWenn ein Forscher eine Prämie zu bieten hat, werden sie als ein gelbes Ausrufezeichen angezeigt werden (!) Auf der Karte . Ich habe nicht immer diese Markierungen auf der Karte und das ist, warum ich auf diesem kritischen Bounties verpaßt. Sobald Sie auf Entdeckungsreise sind, öffnen Sie die Weltkarte und verwenden Sie die L1 / R1 Tasten, um die Endemic Leben Filter auszuwählen, um es einfacher zu erkennen. \\ N \\ nWenn ein Forscher keine Prämie zu bieten hat, werden sie als leuchtend grün erscheinen dot (.) auf der Karte. \\ n \\ nNach Sie eine kritische Prämie werden, erhalten Sie auf den jeweiligen Forscher sprechen kann ihn / sie zu informieren, dass Sie die Prämie abgeschlossen. Allerdings müssen Sie immer auf das Research Center in Astera sprechen, um die Prämie zu vervollständigen und die Belohnungen erhalten. \\ N \\ nWenn Sie nicht den Forscher sprechen, nachdem eine Prämie abgeschlossen und Sie sind dabei, um sie in einer neuen Zone zu sprechen eine neue Prämie zu akzeptieren, ist es möglich, dass Sie mit dem Forscher zweimal sprechen. Einmal informieren ihn / sie, dass Sie die vorherige Prämie abgeschlossen. Ein anderes Mal der kritische Prämie der neuen Zone zu initiieren \\ n \\ nChoosing die Low Rank oder hohe Rang Ziel spielt keine Rolle, mit Ausnahme von Drachen Aussparung, die nur Rang hoch ist \\ n \\ nLynian Bounties:.. Jedes Mal, wenn Sie kritzelt finden Sie können sie mit Ihrem Scout Fliegen markieren und sie werden dich auf die nächste doodle führen. Dadurch führt Sie zu den unten genannten Stellen. Nach einem Clan anzuzufreunden, können Sie Ihre Palico in Ihrem Zimmer oder in der Forschungsstation sprechen. Ihre Palico werden Ihnen sagen, dann die neuen Tricks es gelernt."
     },
     "critical-bounties-notes": {
       "Key": "critical-bounties-notes",
@@ -7641,7 +7641,7 @@ export default {
     },
     "critical-bounties-requirements-notes": {
       "Key": "critical-bounties-requirements-notes",
-      "Translation": "- Erfassen Net \\ n- Angelrute \\ n- Ghillie Mantle (unlocked nach der Haupthandlung Zuordnung Hunter Rang 3 abgeschlossen - Flying Sparks. Tobi-Kadachi)"
+      "Translation": "- Erfassen Net \\ n- Fishing Rod \\ n- Ghillie Mantle (unlocked nach der Haupthandlung Zuordnung Hunter Rang 3 abgeschlossen - Flying Sparks. Tobi-Kadachi)"
     },
     "critical-bounties-research-help-bomb-beetle-capture": {
       "Key": "critical-bounties-research-help-bomb-beetle-capture",
@@ -7901,7 +7901,7 @@ export default {
     },
     "endemic-life-king-marlin-description": {
       "Key": "endemic-life-king-marlin-description",
-      "Translation": "Ich wusste, dass diese das Ufer auf der Suche nach Beute zu nähern sind bekannt, aber gute Arbeit geleistet fangen Sie es! Und nicht Ihren Pol in dem Prozess zu verlieren!"
+      "Translation": "Ich wusste, dass diese am Ufer auf der Suche nach Beute zu nähern, sind bekannt aber gute Arbeit geleistet fangen Sie es! Und nicht Ihren Pol in dem Prozess zu verlieren!"
     },
     "endemic-life-moonlight-gecko-description": {
       "Key": "endemic-life-moonlight-gecko-description",
@@ -8173,7 +8173,7 @@ export default {
     },
     "layered-armor-blossom-layered-chest": {
       "Key": "layered-armor-blossom-layered-chest",
-      "Translation": "Blossom Layered Chest"
+      "Translation": "Blüten-Layered Chest"
     },
     "layered-armor-blossom-layered-head": {
       "Key": "layered-armor-blossom-layered-head",
@@ -9077,7 +9077,7 @@ export default {
     },
     "monster-rathian-characteristics": {
       "Key": "monster-rathian-characteristics",
-      "Translation": "Wyverns bekannt als das „Queens des Landes.“ Landräuber, sie überwältigen Beute mit ihrem giftigen Schwanz und kräftigen Beinen."
+      "Translation": "Wyverns bekannt als das „Queens des Landes.“ Landräubern, sie überwältigen Beute mit ihren giftigen Schwanz und kräftigen Beinen."
     },
     "monster-rathian-useful-information": {
       "Key": "monster-rathian-useful-information",
@@ -10349,7 +10349,7 @@ export default {
     },
     "play-guide-sleeptoads-description": {
       "Key": "play-guide-sleeptoads-description",
-      "Translation": "Bei einem Treffer, läßt sleeptoads ein Spray von Gas stark genug, um selbst große Monster einzuschläfern."
+      "Translation": "Bei einem Treffer, läßt sleeptoads ein Spray von Gas stark genug, um sogar große Monster einzuschläfern."
     },
     "play-guide-slinger": {
       "Key": "play-guide-slinger",
@@ -10509,7 +10509,7 @@ export default {
     },
     "play-guide-switch-gauge-description": {
       "Key": "play-guide-switch-gauge-description",
-      "Translation": "Atacking in Schwert-Modus verbraucht die Switch Spur. Der Wechsel von Schwert-Modus zu Ax-Modus füllt eine kleine Menge des Sensors. Der Sensor wird automatisch auch im Laufe der Zeit nachzufüllen."
+      "Translation": "Atacking in Schwert-Modus verbraucht die Switch Spur. Der Wechsel von Schwert-Modus zu Ax-Modus füllt eine kleine Menge des Sensors. Der Sensor wird automatisch auch im Laufe der Zeit nachzuzufüllen."
     },
     "play-guide-sword-and-shield": {
       "Key": "play-guide-sword-and-shield",
@@ -10601,7 +10601,7 @@ export default {
     },
     "play-guide-the-botanical-research-center-description": {
       "Key": "play-guide-the-botanical-research-center-description",
-      "Translation": "Der Botanische Research Center ermöglicht es Ihnen, verschiedene Elemente zu pflegen. Darüber hinaus können Sie die Menge der Produkte erhöhen, indem Dünger kultiviert."
+      "Translation": "Der Botanische Research Center ermöglicht es Ihnen, verschiedene Elemente zu pflegen. Zusätzlich können Sie die Menge der Produkte erhöhen, indem Dünger kultiviert."
     },
     "play-guide-the-canteen": {
       "Key": "play-guide-the-canteen",
@@ -10753,7 +10753,7 @@ export default {
     },
     "play-guide-upgrading-weapons-description": {
       "Key": "play-guide-upgrading-weapons-description",
-      "Translation": "Sie können Ihre Waffen, indem sie bei der Smithy Upgrade unter Verwendung der Materialien verbessern Sie auf die Jagd sammeln."
+      "Translation": "Können Sie Ihre Waffen, indem sie bei der Smithy Upgrade unter Verwendung der Materialien verbessern Sie auf die Jagd sammeln."
     },
     "play-guide-useful-functions": {
       "Key": "play-guide-useful-functions",
@@ -10873,7 +10873,7 @@ export default {
     },
     "poogie-apprentice-fiver": {
       "Key": "poogie-apprentice-fiver",
-      "Translation": "Apprentice Fiver"
+      "Translation": "Lehrling Fiver"
     },
     "poogie-apprentice-fiver-how-to-get": {
       "Key": "poogie-apprentice-fiver-how-to-get",
@@ -11041,7 +11041,7 @@ export default {
     },
     "quest-a-colossal-task-description": {
       "Key": "quest-a-colossal-task-description",
-      "Translation": "Die Operation wird in der Everstream zu beginnen. Tun Sie alles zu zwingen Zorah Magdaros auf das Meer. Wir dürfen nicht scheitern! die Sapphire-Stern-Licht Weg kann!"
+      "Translation": "Die Operation wird in der Everstream zu beginnen. Tun Sie alles zu zwingen Zorah Magdaros auf das Meer. Wir dürfen nicht scheitern! der Sapphire Star Light Weg kann!"
     },
     "quest-a-colossal-task-tips": {
       "Key": "quest-a-colossal-task-tips",
@@ -11457,7 +11457,7 @@ export default {
     },
     "quest-chef-quest-a-rotten-request": {
       "Key": "quest-chef-quest-a-rotten-request",
-      "Translation": "Chef Quest spielen! A Rotten anfordern"
+      "Translation": "Chef spielen! A Rotten anfordern"
     },
     "quest-chef-quest-a-rotten-request-description": {
       "Key": "quest-chef-quest-a-rotten-request-description",
@@ -11473,11 +11473,11 @@ export default {
     },
     "quest-chef-quest-gajalaka-lockdown": {
       "Key": "quest-chef-quest-gajalaka-lockdown",
-      "Translation": "Chef Quest spielen! Gajalaka Lockdown"
+      "Translation": "Chef spielen! Gajalaka Lockdown"
     },
     "quest-chef-quest-gajalaka-lockdown-description": {
       "Key": "quest-chef-quest-gajalaka-lockdown-description",
-      "Translation": "Meow mein Gott! Sind diese lil‘Jungs tryin' auf Sie biegen? Zeigen Sie ihnen, was Sie packin '! Lassen Sie uns sagen ... 10 Wiederholungen! * Unlocks eine neue Kantine Zutaten auf erstem Mal Fertigstellung."
+      "Translation": "Meow mein Gott! Sind diese lil Jungs‘tryin' auf Sie biegen? Zeigen Sie ihnen, was Sie packin '! Lassen Sie uns sagen ... 10 Wiederholungen! * Unlocks eine neue Kantine Zutaten auf erstem Mal Fertigstellung."
     },
     "quest-chef-quest-gajalaka-lockdown-notable-rewards": {
       "Key": "quest-chef-quest-gajalaka-lockdown-notable-rewards",
@@ -11485,7 +11485,7 @@ export default {
     },
     "quest-chef-quest-pumped-to-deliver": {
       "Key": "quest-chef-quest-pumped-to-deliver",
-      "Translation": "Chef Quest spielen! Pumped Deliver"
+      "Translation": "Chef spielen! Pumped Deliver"
     },
     "quest-chef-quest-pumped-to-deliver-description": {
       "Key": "quest-chef-quest-pumped-to-deliver-description",
@@ -12541,7 +12541,7 @@ export default {
     },
     "quest-objective-deliver-10-super-abalone": {
       "Key": "quest-objective-deliver-10-super-abalone",
-      "Translation": "Geben Sie 10 Super-Abalone"
+      "Translation": "Deliver 10 Super-Abalone"
     },
     "quest-objective-deliver-10-wigglers": {
       "Key": "quest-objective-deliver-10-wigglers",
@@ -12917,7 +12917,7 @@ export default {
     },
     "quest-other-monsters": {
       "Key": "quest-other-monsters",
-      "Translation": "Anderes Monster"
+      "Translation": "andere Monsters"
     },
     "quest-pandoras-arena": {
       "Key": "quest-pandoras-arena",
@@ -14657,7 +14657,7 @@ export default {
     },
     "skill-botanist-4": {
       "Key": "skill-botanist-4",
-      "Translation": "Ein zusätzlicher Verbrauch Kräuter, Obst, Nüsse, Samt, Insekten- oder Pilz Artikel pro sammeln."
+      "Translation": "Ein zusätzlicher Verbrauch Kräuter, Obst, Nuss, Samt, Insekten- oder Pilz Artikel pro sammeln."
     },
     "skill-botanist-description": {
       "Key": "skill-botanist-description",
@@ -18305,7 +18305,7 @@ export default {
     },
     "weapon-great-sword-bone-blade-iii": {
       "Key": "weapon-great-sword-bone-blade-iii",
-      "Translation": "Knochen Blade-III"
+      "Translation": "Knochen Klinge III"
     },
     "weapon-great-sword-bone-slasher-i": {
       "Key": "weapon-great-sword-bone-slasher-i",
@@ -22182,5 +22182,297 @@ export default {
     "weapon-gunlance-gajalaka-firepike": {
       "Key": "weapon-gunlance-gajalaka-firepike",
       "Translation": "Gajalaka Firepike"
+    },
+    "weapon-dual-blades-chrome-cross-i": {
+      "Key": "weapon-dual-blades-chrome-cross-i",
+      "Translation": "Chrome Kreuz I"
+    },
+    "weapon-dual-blades-chrome-cross-ii": {
+      "Key": "weapon-dual-blades-chrome-cross-ii",
+      "Translation": "Chrome Kreuz II"
+    },
+    "weapon-dual-blades-chrome-cross-iii": {
+      "Key": "weapon-dual-blades-chrome-cross-iii",
+      "Translation": "Chrome Kreuz III"
+    },
+    "weapon-dual-blades-usurpers-fulgur": {
+      "Key": "weapon-dual-blades-usurpers-fulgur",
+      "Translation": "Usurpator des Fulgur"
+    },
+    "weapon-dual-blades-usurpers-fulgur-plus": {
+      "Key": "weapon-dual-blades-usurpers-fulgur-plus",
+      "Translation": "Usurpator des Fulgur +"
+    },
+    "weapon-dual-blades-despots-blitz": {
+      "Key": "weapon-dual-blades-despots-blitz",
+      "Translation": "Despoten-Blitz"
+    },
+    "weapon-dual-blades-ruinous-decimation": {
+      "Key": "weapon-dual-blades-ruinous-decimation",
+      "Translation": "verderblich Dezimierung"
+    },
+    "weapon-dual-blades-cross-destroyers-i": {
+      "Key": "weapon-dual-blades-cross-destroyers-i",
+      "Translation": "Kreuz Destroyers I"
+    },
+    "weapon-dual-blades-cross-destroyers-ii": {
+      "Key": "weapon-dual-blades-cross-destroyers-ii",
+      "Translation": "Kreuz Destroyers II"
+    },
+    "weapon-dual-blades-hidden-tomahawk-i": {
+      "Key": "weapon-dual-blades-hidden-tomahawk-i",
+      "Translation": "Versteckte Tomahawk I"
+    },
+    "weapon-dual-blades-hidden-tomahawk-ii": {
+      "Key": "weapon-dual-blades-hidden-tomahawk-ii",
+      "Translation": "Versteckte Tomahawk II"
+    },
+    "weapon-dual-blades-blazing-warhawks": {
+      "Key": "weapon-dual-blades-blazing-warhawks",
+      "Translation": "Blazing Warhawks"
+    },
+    "weapon-dual-blades-bazel-bombers": {
+      "Key": "weapon-dual-blades-bazel-bombers",
+      "Translation": "Bazel Bombers"
+    },
+    "weapon-dual-blades-blizzarioths": {
+      "Key": "weapon-dual-blades-blizzarioths",
+      "Translation": "Blizzarioths"
+    },
+    "weapon-dual-blades-blizzarioths-plus": {
+      "Key": "weapon-dual-blades-blizzarioths-plus",
+      "Translation": "Blizzarioths +"
+    },
+    "weapon-dual-blades-mountain-blizzarioths": {
+      "Key": "weapon-dual-blades-mountain-blizzarioths",
+      "Translation": "Berg Blizzarioths"
+    },
+    "weapon-dual-blades-asefar-al-nasr-i": {
+      "Key": "weapon-dual-blades-asefar-al-nasr-i",
+      "Translation": "Asefar al-Nasr I"
+    },
+    "weapon-dual-blades-asefar-al-nasr-ii": {
+      "Key": "weapon-dual-blades-asefar-al-nasr-ii",
+      "Translation": "Asefar al-Nasr II"
+    },
+    "weapon-dual-blades-rex-chain-ii": {
+      "Key": "weapon-dual-blades-rex-chain-ii",
+      "Translation": "Rex Kette II"
+    },
+    "weapon-dual-blades-accursed-chain": {
+      "Key": "weapon-dual-blades-accursed-chain",
+      "Translation": "Accursed Kette"
+    },
+    "weapon-dual-blades-twin-flames": {
+      "Key": "weapon-dual-blades-twin-flames",
+      "Translation": "Zwillingsflammen"
+    },
+    "weapon-dual-blades-wyvern-lovers": {
+      "Key": "weapon-dual-blades-wyvern-lovers",
+      "Translation": "Wyvern Lovers"
+    },
+    "weapon-dual-blades-guild-knight-sabers": {
+      "Key": "weapon-dual-blades-guild-knight-sabers",
+      "Translation": "Guild Knight Sabers"
+    },
+    "weapon-dual-blades-master-sabers": {
+      "Key": "weapon-dual-blades-master-sabers",
+      "Translation": "Master Sabres"
+    },
+    "weapon-dual-blades-holy-guild-knight": {
+      "Key": "weapon-dual-blades-holy-guild-knight",
+      "Translation": "Heiliger Guild Ritter"
+    },
+    "weapon-dual-blades-hulking-choppers-i": {
+      "Key": "weapon-dual-blades-hulking-choppers-i",
+      "Translation": "Hulking Choppers I"
+    },
+    "weapon-dual-blades-hulking-choppers-ii": {
+      "Key": "weapon-dual-blades-hulking-choppers-ii",
+      "Translation": "Hulking Choppers II"
+    },
+    "weapon-dual-blades-hulking-choppers-iii": {
+      "Key": "weapon-dual-blades-hulking-choppers-iii",
+      "Translation": "Hulking Choppers III"
+    },
+    "weapon-dual-blades-icefeather": {
+      "Key": "weapon-dual-blades-icefeather",
+      "Translation": "Icefeather"
+    },
+    "weapon-dual-blades-untouched-hel": {
+      "Key": "weapon-dual-blades-untouched-hel",
+      "Translation": "unberührte Hel"
+    },
+    "weapon-dual-blades-anja-twinrippers-i": {
+      "Key": "weapon-dual-blades-anja-twinrippers-i",
+      "Translation": "Anja Twinrippers I"
+    },
+    "weapon-dual-blades-anja-twinrippers-ii": {
+      "Key": "weapon-dual-blades-anja-twinrippers-ii",
+      "Translation": "Anja Twinrippers II"
+    },
+    "weapon-dual-blades-fulguring-tornado-i": {
+      "Key": "weapon-dual-blades-fulguring-tornado-i",
+      "Translation": "Fulguring Tornado I"
+    },
+    "weapon-dual-blades-fulguring-tornado-ii": {
+      "Key": "weapon-dual-blades-fulguring-tornado-ii",
+      "Translation": "Fulguring Tornado II"
+    },
+    "weapon-dual-blades-diablos-clubs-iii": {
+      "Key": "weapon-dual-blades-diablos-clubs-iii",
+      "Translation": "Diablos Clubs III"
+    },
+    "weapon-dual-blades-thanatos-mauls": {
+      "Key": "weapon-dual-blades-thanatos-mauls",
+      "Translation": "Thanatos Maul"
+    },
+    "weapon-dual-blades-sulfurteinn-ortho": {
+      "Key": "weapon-dual-blades-sulfurteinn-ortho",
+      "Translation": "Sulfurteinn Ortho"
+    },
+    "weapon-dual-blades-the-stripping-shears": {
+      "Key": "weapon-dual-blades-the-stripping-shears",
+      "Translation": "Das Stripping-Scheren"
+    },
+    "weapon-dual-blades-mammoth-direbones-i": {
+      "Key": "weapon-dual-blades-mammoth-direbones-i",
+      "Translation": "Mammoth Direbones I"
+    },
+    "weapon-dual-blades-mammoth-direbones-ii": {
+      "Key": "weapon-dual-blades-mammoth-direbones-ii",
+      "Translation": "Mammoth Direbones II"
+    },
+    "weapon-dual-blades-jyura-keenblades-i": {
+      "Key": "weapon-dual-blades-jyura-keenblades-i",
+      "Translation": "Jyura Keenblades I"
+    },
+    "weapon-dual-blades-jyura-keenblades-ii": {
+      "Key": "weapon-dual-blades-jyura-keenblades-ii",
+      "Translation": "Jyura Keenblades II"
+    },
+    "weapon-dual-blades-raven-tessen": {
+      "Key": "weapon-dual-blades-raven-tessen",
+      "Translation": "Raven Tessen"
+    },
+    "weapon-dual-blades-wolf-tessen": {
+      "Key": "weapon-dual-blades-wolf-tessen",
+      "Translation": "Wolf Tessen"
+    },
+    "weapon-dual-blades-beo-hatchets-i": {
+      "Key": "weapon-dual-blades-beo-hatchets-i",
+      "Translation": "Beo Beile I"
+    },
+    "weapon-dual-blades-beo-hatchets-ii": {
+      "Key": "weapon-dual-blades-beo-hatchets-ii",
+      "Translation": "Beo Beile II"
+    },
+    "weapon-dual-blades-shattering-flames-i": {
+      "Key": "weapon-dual-blades-shattering-flames-i",
+      "Translation": "Bewegend Flames I"
+    },
+    "weapon-dual-blades-shattering-flames-ii": {
+      "Key": "weapon-dual-blades-shattering-flames-ii",
+      "Translation": "Bewegend Flames II"
+    },
+    "weapon-dual-blades-smoldering-cities": {
+      "Key": "weapon-dual-blades-smoldering-cities",
+      "Translation": "schwelende Städte"
+    },
+    "weapon-dual-blades-smoldering-cities-plus": {
+      "Key": "weapon-dual-blades-smoldering-cities-plus",
+      "Translation": "Schwelende Städte +"
+    },
+    "weapon-dual-blades-smoldering-kingdoms": {
+      "Key": "weapon-dual-blades-smoldering-kingdoms",
+      "Translation": "Smoldering Kingdoms"
+    },
+    "weapon-dual-blades-abyss-eaters-i": {
+      "Key": "weapon-dual-blades-abyss-eaters-i",
+      "Translation": "Abyss Eaters I"
+    },
+    "weapon-dual-blades-abyss-eaters-ii": {
+      "Key": "weapon-dual-blades-abyss-eaters-ii",
+      "Translation": "Abyss Eaters II"
+    },
+    "weapon-dual-blades-brachydios-blasters-i": {
+      "Key": "weapon-dual-blades-brachydios-blasters-i",
+      "Translation": "Brachydios Blasters I"
+    },
+    "weapon-dual-blades-brachydios-blasters-ii": {
+      "Key": "weapon-dual-blades-brachydios-blasters-ii",
+      "Translation": "Brachydios Blasters II"
+    },
+    "weapon-dual-blades-kadachi-greathawks-i": {
+      "Key": "weapon-dual-blades-kadachi-greathawks-i",
+      "Translation": "Kadachi Greathawks I"
+    },
+    "weapon-dual-blades-kadachi-greathawks-ii": {
+      "Key": "weapon-dual-blades-kadachi-greathawks-ii",
+      "Translation": "Kadachi Greathawks II"
+    },
+    "weapon-dual-blades-crimson-viperclaws-i": {
+      "Key": "weapon-dual-blades-crimson-viperclaws-i",
+      "Translation": "Hochrot Viperclaws I"
+    },
+    "weapon-dual-blades-crimson-viperclaws-ii": {
+      "Key": "weapon-dual-blades-crimson-viperclaws-ii",
+      "Translation": "Hochrot Viperclaws II"
+    },
+    "weapon-dual-blades-sin-plus": {
+      "Key": "weapon-dual-blades-sin-plus",
+      "Translation": "Sin +"
+    },
+    "weapon-dual-blades-crime": {
+      "Key": "weapon-dual-blades-crime",
+      "Translation": "Verbrechen"
+    },
+    "weapon-dual-blades-nether-chainblades": {
+      "Key": "weapon-dual-blades-nether-chainblades",
+      "Translation": "Nether Chainblades"
+    },
+    "weapon-dual-blades-death-row": {
+      "Key": "weapon-dual-blades-death-row",
+      "Translation": "Todeszelle"
+    },
+    "weapon-dual-blades-enduring-sacrifice": {
+      "Key": "weapon-dual-blades-enduring-sacrifice",
+      "Translation": "Enduring Sacrifice"
+    },
+    "weapon-dual-blades-enduring-surrender": {
+      "Key": "weapon-dual-blades-enduring-surrender",
+      "Translation": "Enduring Auslieferung"
+    },
+    "weapon-dual-blades-wunderkirins": {
+      "Key": "weapon-dual-blades-wunderkirins",
+      "Translation": "Wunderkirins"
+    },
+    "weapon-dual-blades-magdaros-volcancross": {
+      "Key": "weapon-dual-blades-magdaros-volcancross",
+      "Translation": "Magdaros Volcancross"
+    },
+    "weapon-dual-blades-blizzard-and-blaze": {
+      "Key": "weapon-dual-blades-blizzard-and-blaze",
+      "Translation": "Blizzard und Blaze"
+    },
+    "weapon-dual-blades-soulfire-fangs-blaze": {
+      "Key": "weapon-dual-blades-soulfire-fangs-blaze",
+      "Translation": "Soulfire Fangs \"Blaze\""
+    },
+    "weapon-dual-blades-soulfire-fangs-styx": {
+      "Key": "weapon-dual-blades-soulfire-fangs-styx",
+      "Translation": "Soulfire Fangs \"Styx\""
+    },
+    "weapon-dual-blades-downy-paradise": {
+      "Key": "weapon-dual-blades-downy-paradise",
+      "Translation": "downy Paradise"
+    },
+    "weapon-dual-blades-suzuka-takamaru": {
+      "Key": "weapon-dual-blades-suzuka-takamaru",
+      "Translation": "Suzuka Takamaru"
+    },
+    "weapon-dual-blades-suzuka-otakemaru": {
+      "Key": "weapon-dual-blades-suzuka-otakemaru",
+      "Translation": "Suzuka Otakemaru"
     }
   }

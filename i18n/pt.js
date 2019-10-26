@@ -9,7 +9,7 @@ export default {
     },
     "armor-baan-description": {
       "Key": "armor-baan-description",
-      "Translation": "Uma mistura de chapeamento pesado e osso conceder esta armadura Radobaan defesa quase impenetrável."
+      "Translation": "A mistura de chapeamento pesado e osso conceder esta armadura Radobaan defesa quase impenetrável."
     },
     "armor-barnos-description": {
       "Key": "armor-barnos-description",
@@ -53,7 +53,7 @@ export default {
     },
     "armor-butterfly-description": {
       "Key": "armor-butterfly-description",
-      "Translation": "armadura do brilho feita a partir de partes de insectos. Seu peso leve e cor são a prova da classe de um."
+      "Translation": "armadura do brilho feitos a partir de peças de insectos. Seu peso leve e cor são a prova da classe de um."
     },
     "armor-chainmail-description": {
       "Key": "armor-chainmail-description",
@@ -1993,7 +1993,7 @@ export default {
     },
     "armor-hr-kulu-mail-beta": {
       "Key": "armor-hr-kulu-mail-beta",
-      "Translation": "ß Kulu correio"
+      "Translation": "ß Kulu email"
     },
     "armor-hr-kulu-vambraces-alpha": {
       "Key": "armor-hr-kulu-vambraces-alpha",
@@ -3017,7 +3017,7 @@ export default {
     },
     "armor-hr-vangis-mail-beta": {
       "Key": "armor-hr-vangis-mail-beta",
-      "Translation": "ß vangis correio"
+      "Translation": "ß vangis email"
     },
     "armor-hr-vangis-vambraces-alpha": {
       "Key": "armor-hr-vangis-vambraces-alpha",
@@ -4649,7 +4649,7 @@ export default {
     },
     "armor-mr-black-belt-braces-alpha-plus": {
       "Key": "armor-mr-black-belt-braces-alpha-plus",
-      "Translation": "Black Belt Suspensórios ⍺ +"
+      "Translation": "Black Belt Suspensórios + ⍺"
     },
     "armor-mr-black-belt-braces-beta-plus": {
       "Key": "armor-mr-black-belt-braces-beta-plus",
@@ -4665,7 +4665,7 @@ export default {
     },
     "armor-mr-black-belt-helm-alpha-plus": {
       "Key": "armor-mr-black-belt-helm-alpha-plus",
-      "Translation": "Black Belt Helm ⍺ +"
+      "Translation": "Black Belt Helm + ⍺"
     },
     "armor-mr-black-belt-helm-beta-plus": {
       "Key": "armor-mr-black-belt-helm-beta-plus",
@@ -7937,7 +7937,7 @@ export default {
     },
     "endemic-life-pink-parexus-description": {
       "Key": "endemic-life-pink-parexus-description",
-      "Translation": "Estes peixes são encontrados em todo o Novo Mundo, mostrar de alguma biologia primitiva incrível, e eles são a pesca fácil, mesmo para iniciantes!"
+      "Translation": "Estes peixes são encontrados em todo o Novo Mundo, mostrar de alguma biologia primitiva incrível, e eles são a pesca fácil até mesmo para iniciantes!"
     },
     "endemic-life-platinumfish-description": {
       "Key": "endemic-life-platinumfish-description",
@@ -9901,7 +9901,7 @@ export default {
     },
     "play-guide-investigation-efficacy-description": {
       "Key": "play-guide-investigation-efficacy-description",
-      "Translation": "Quanto maior o nível de pesquisa, o mais fácil será para desbloquear investigações."
+      "Translation": "O maior seu nível de investigação, mais fácil será para desbloquear investigações."
     },
     "play-guide-investigations": {
       "Key": "play-guide-investigations",
@@ -10337,7 +10337,7 @@ export default {
     },
     "play-guide-shelling-description": {
       "Key": "play-guide-shelling-description",
-      "Translation": "Descascar é o único que pode causar dano fixo a partes de um monstro independentemente de suas resistências. No entanto, ele também consome uma grande parte do Medidor de Nitidez, por isso não pode ser usado quando a nitidez está no vermelho."
+      "Translation": "Descascar é o único que pode causar dano fixo a partes de um monstro independentemente de suas resistências. No entanto, ele também consome uma boa parte do Medidor de Nitidez, por isso não pode ser usado quando a nitidez está no vermelho."
     },
     "play-guide-skills-and-decorations": {
       "Key": "play-guide-skills-and-decorations",
@@ -11017,7 +11017,7 @@ export default {
     },
     "quest-a-bone-to-pick-description": {
       "Key": "quest-a-bone-to-pick-description",
-      "Translation": "É quase impossível para qualquer um dos nossos pesquisadores para estudar fósseis no Rotten Vale porque eles continuam ficar preso a essa maldita Radobaan rolando lá em baixo ..."
+      "Translation": "É quase impossível para qualquer um dos nossos pesquisadores para estudar os fósseis no Rotten Vale porque eles continuam ficar preso a essa maldita Radobaan rolando lá em baixo ..."
     },
     "quest-a-bone-to-pick-tips": {
       "Key": "quest-a-bone-to-pick-tips",
@@ -11141,7 +11141,7 @@ export default {
     },
     "quest-a-nose-for-an-eye-description": {
       "Key": "quest-a-nose-for-an-eye-description",
-      "Translation": "Na minha época, nós não precisamos destas Scoutflies para rastrear monstros, mas este é o Novo Mundo ... Eu localizei alguns monstros interessantes para você. Vá pegá-los. (Os pontos de RH Bonus recompensado após a conclusão.)"
+      "Translation": "Na minha época, nós não precisamos destas Scoutflies para rastrear monstros, mas este é o Novo Mundo ... Eu localizei alguns monstros interessantes para si. Vá pegá-los. (Os pontos de RH Bonus recompensado após a conclusão.)"
     },
     "quest-a-portent-of-disaster": {
       "Key": "quest-a-portent-of-disaster",
@@ -11433,7 +11433,7 @@ export default {
     },
     "quest-butting-heads-with-nature": {
       "Key": "quest-butting-heads-with-nature",
-      "Translation": "Cabeças de terminação com a Natureza"
+      "Translation": "Batendo de frente com a Natureza"
     },
     "quest-butting-heads-with-nature-description": {
       "Key": "quest-butting-heads-with-nature-description",
@@ -20337,7 +20337,7 @@ export default {
     },
     "weapon-lance-taroth-crest-stream": {
       "Key": "weapon-lance-taroth-crest-stream",
-      "Translation": "Taroth Crest \"Stream\""
+      "Translation": "Taroth crista \"Stream\""
     },
     "weapon-lance-taroth-crest-thief": {
       "Key": "weapon-lance-taroth-crest-thief",
@@ -22182,5 +22182,297 @@ export default {
     "weapon-gunlance-gajalaka-firepike": {
       "Key": "weapon-gunlance-gajalaka-firepike",
       "Translation": "Gajalaka Firepike"
+    },
+    "weapon-dual-blades-chrome-cross-i": {
+      "Key": "weapon-dual-blades-chrome-cross-i",
+      "Translation": "Chrome Cruz I"
+    },
+    "weapon-dual-blades-chrome-cross-ii": {
+      "Key": "weapon-dual-blades-chrome-cross-ii",
+      "Translation": "Chrome Cruz II"
+    },
+    "weapon-dual-blades-chrome-cross-iii": {
+      "Key": "weapon-dual-blades-chrome-cross-iii",
+      "Translation": "Cromo III Cruz"
+    },
+    "weapon-dual-blades-usurpers-fulgur": {
+      "Key": "weapon-dual-blades-usurpers-fulgur",
+      "Translation": "Fulgur usurpador"
+    },
+    "weapon-dual-blades-usurpers-fulgur-plus": {
+      "Key": "weapon-dual-blades-usurpers-fulgur-plus",
+      "Translation": "usurpador Fulgur +"
+    },
+    "weapon-dual-blades-despots-blitz": {
+      "Key": "weapon-dual-blades-despots-blitz",
+      "Translation": "Blitz déspota"
+    },
+    "weapon-dual-blades-ruinous-decimation": {
+      "Key": "weapon-dual-blades-ruinous-decimation",
+      "Translation": "Decimation ruinosa"
+    },
+    "weapon-dual-blades-cross-destroyers-i": {
+      "Key": "weapon-dual-blades-cross-destroyers-i",
+      "Translation": "Cruz Destroyers I"
+    },
+    "weapon-dual-blades-cross-destroyers-ii": {
+      "Key": "weapon-dual-blades-cross-destroyers-ii",
+      "Translation": "Cruz Destroyers II"
+    },
+    "weapon-dual-blades-hidden-tomahawk-i": {
+      "Key": "weapon-dual-blades-hidden-tomahawk-i",
+      "Translation": "Oculto Tomahawk I"
+    },
+    "weapon-dual-blades-hidden-tomahawk-ii": {
+      "Key": "weapon-dual-blades-hidden-tomahawk-ii",
+      "Translation": "Oculto Tomahawk II"
+    },
+    "weapon-dual-blades-blazing-warhawks": {
+      "Key": "weapon-dual-blades-blazing-warhawks",
+      "Translation": "Blazing Warhawks"
+    },
+    "weapon-dual-blades-bazel-bombers": {
+      "Key": "weapon-dual-blades-bazel-bombers",
+      "Translation": "Bombers Bazel"
+    },
+    "weapon-dual-blades-blizzarioths": {
+      "Key": "weapon-dual-blades-blizzarioths",
+      "Translation": "Blizzarioths"
+    },
+    "weapon-dual-blades-blizzarioths-plus": {
+      "Key": "weapon-dual-blades-blizzarioths-plus",
+      "Translation": "Blizzarioths +"
+    },
+    "weapon-dual-blades-mountain-blizzarioths": {
+      "Key": "weapon-dual-blades-mountain-blizzarioths",
+      "Translation": "montanha Blizzarioths"
+    },
+    "weapon-dual-blades-asefar-al-nasr-i": {
+      "Key": "weapon-dual-blades-asefar-al-nasr-i",
+      "Translation": "Asefar al-Nasr I"
+    },
+    "weapon-dual-blades-asefar-al-nasr-ii": {
+      "Key": "weapon-dual-blades-asefar-al-nasr-ii",
+      "Translation": "Asefar al-Nasr II"
+    },
+    "weapon-dual-blades-rex-chain-ii": {
+      "Key": "weapon-dual-blades-rex-chain-ii",
+      "Translation": "Rex Cadeia II"
+    },
+    "weapon-dual-blades-accursed-chain": {
+      "Key": "weapon-dual-blades-accursed-chain",
+      "Translation": "Cadeia Accursed"
+    },
+    "weapon-dual-blades-twin-flames": {
+      "Key": "weapon-dual-blades-twin-flames",
+      "Translation": "Chamas Gêmeas"
+    },
+    "weapon-dual-blades-wyvern-lovers": {
+      "Key": "weapon-dual-blades-wyvern-lovers",
+      "Translation": "amantes Wyvern"
+    },
+    "weapon-dual-blades-guild-knight-sabers": {
+      "Key": "weapon-dual-blades-guild-knight-sabers",
+      "Translation": "Aliança Cavaleiro Sabres"
+    },
+    "weapon-dual-blades-master-sabers": {
+      "Key": "weapon-dual-blades-master-sabers",
+      "Translation": "Sabres mestre"
+    },
+    "weapon-dual-blades-holy-guild-knight": {
+      "Key": "weapon-dual-blades-holy-guild-knight",
+      "Translation": "Santa Aliança Cavaleiro"
+    },
+    "weapon-dual-blades-hulking-choppers-i": {
+      "Key": "weapon-dual-blades-hulking-choppers-i",
+      "Translation": "Desmedido Choppers I"
+    },
+    "weapon-dual-blades-hulking-choppers-ii": {
+      "Key": "weapon-dual-blades-hulking-choppers-ii",
+      "Translation": "Desmedido Choppers II"
+    },
+    "weapon-dual-blades-hulking-choppers-iii": {
+      "Key": "weapon-dual-blades-hulking-choppers-iii",
+      "Translation": "Volumosa interruptores inversores III"
+    },
+    "weapon-dual-blades-icefeather": {
+      "Key": "weapon-dual-blades-icefeather",
+      "Translation": "Icefeather"
+    },
+    "weapon-dual-blades-untouched-hel": {
+      "Key": "weapon-dual-blades-untouched-hel",
+      "Translation": "Hel intocado"
+    },
+    "weapon-dual-blades-anja-twinrippers-i": {
+      "Key": "weapon-dual-blades-anja-twinrippers-i",
+      "Translation": "Anja Twinrippers I"
+    },
+    "weapon-dual-blades-anja-twinrippers-ii": {
+      "Key": "weapon-dual-blades-anja-twinrippers-ii",
+      "Translation": "Anja Twinrippers II"
+    },
+    "weapon-dual-blades-fulguring-tornado-i": {
+      "Key": "weapon-dual-blades-fulguring-tornado-i",
+      "Translation": "Fulguring Tornado I"
+    },
+    "weapon-dual-blades-fulguring-tornado-ii": {
+      "Key": "weapon-dual-blades-fulguring-tornado-ii",
+      "Translation": "Fulguring Tornado II"
+    },
+    "weapon-dual-blades-diablos-clubs-iii": {
+      "Key": "weapon-dual-blades-diablos-clubs-iii",
+      "Translation": "Diablos clubes III"
+    },
+    "weapon-dual-blades-thanatos-mauls": {
+      "Key": "weapon-dual-blades-thanatos-mauls",
+      "Translation": "Thanatos Mauls"
+    },
+    "weapon-dual-blades-sulfurteinn-ortho": {
+      "Key": "weapon-dual-blades-sulfurteinn-ortho",
+      "Translation": "Sulfurteinn Ortho"
+    },
+    "weapon-dual-blades-the-stripping-shears": {
+      "Key": "weapon-dual-blades-the-stripping-shears",
+      "Translation": "As tesouras de decapagem"
+    },
+    "weapon-dual-blades-mammoth-direbones-i": {
+      "Key": "weapon-dual-blades-mammoth-direbones-i",
+      "Translation": "Mammoth Direbones I"
+    },
+    "weapon-dual-blades-mammoth-direbones-ii": {
+      "Key": "weapon-dual-blades-mammoth-direbones-ii",
+      "Translation": "Mammoth Direbones II"
+    },
+    "weapon-dual-blades-jyura-keenblades-i": {
+      "Key": "weapon-dual-blades-jyura-keenblades-i",
+      "Translation": "Jyura Keenblades I"
+    },
+    "weapon-dual-blades-jyura-keenblades-ii": {
+      "Key": "weapon-dual-blades-jyura-keenblades-ii",
+      "Translation": "Jyura Keenblades II"
+    },
+    "weapon-dual-blades-raven-tessen": {
+      "Key": "weapon-dual-blades-raven-tessen",
+      "Translation": "corvo Tessen"
+    },
+    "weapon-dual-blades-wolf-tessen": {
+      "Key": "weapon-dual-blades-wolf-tessen",
+      "Translation": "lobo Tessen"
+    },
+    "weapon-dual-blades-beo-hatchets-i": {
+      "Key": "weapon-dual-blades-beo-hatchets-i",
+      "Translation": "Beo Machados I"
+    },
+    "weapon-dual-blades-beo-hatchets-ii": {
+      "Key": "weapon-dual-blades-beo-hatchets-ii",
+      "Translation": "Beo Hatchets II"
+    },
+    "weapon-dual-blades-shattering-flames-i": {
+      "Key": "weapon-dual-blades-shattering-flames-i",
+      "Translation": "Quebrando Chamas I"
+    },
+    "weapon-dual-blades-shattering-flames-ii": {
+      "Key": "weapon-dual-blades-shattering-flames-ii",
+      "Translation": "Quebrando Chamas II"
+    },
+    "weapon-dual-blades-smoldering-cities": {
+      "Key": "weapon-dual-blades-smoldering-cities",
+      "Translation": "Cidades fumegantes"
+    },
+    "weapon-dual-blades-smoldering-cities-plus": {
+      "Key": "weapon-dual-blades-smoldering-cities-plus",
+      "Translation": "Latente Cidades +"
+    },
+    "weapon-dual-blades-smoldering-kingdoms": {
+      "Key": "weapon-dual-blades-smoldering-kingdoms",
+      "Translation": "fumegantes Kingdoms"
+    },
+    "weapon-dual-blades-abyss-eaters-i": {
+      "Key": "weapon-dual-blades-abyss-eaters-i",
+      "Translation": "Abyss Eaters I"
+    },
+    "weapon-dual-blades-abyss-eaters-ii": {
+      "Key": "weapon-dual-blades-abyss-eaters-ii",
+      "Translation": "Abyss Eaters II"
+    },
+    "weapon-dual-blades-brachydios-blasters-i": {
+      "Key": "weapon-dual-blades-brachydios-blasters-i",
+      "Translation": "Brachydios Blasters I"
+    },
+    "weapon-dual-blades-brachydios-blasters-ii": {
+      "Key": "weapon-dual-blades-brachydios-blasters-ii",
+      "Translation": "Brachydios Blasters II"
+    },
+    "weapon-dual-blades-kadachi-greathawks-i": {
+      "Key": "weapon-dual-blades-kadachi-greathawks-i",
+      "Translation": "Kadachi Greathawks I"
+    },
+    "weapon-dual-blades-kadachi-greathawks-ii": {
+      "Key": "weapon-dual-blades-kadachi-greathawks-ii",
+      "Translation": "Kadachi Greathawks II"
+    },
+    "weapon-dual-blades-crimson-viperclaws-i": {
+      "Key": "weapon-dual-blades-crimson-viperclaws-i",
+      "Translation": "Carmesim Viperclaws I"
+    },
+    "weapon-dual-blades-crimson-viperclaws-ii": {
+      "Key": "weapon-dual-blades-crimson-viperclaws-ii",
+      "Translation": "Carmesim Viperclaws II"
+    },
+    "weapon-dual-blades-sin-plus": {
+      "Key": "weapon-dual-blades-sin-plus",
+      "Translation": "pecado +"
+    },
+    "weapon-dual-blades-crime": {
+      "Key": "weapon-dual-blades-crime",
+      "Translation": "Crime"
+    },
+    "weapon-dual-blades-nether-chainblades": {
+      "Key": "weapon-dual-blades-nether-chainblades",
+      "Translation": "Nether Chainblades"
+    },
+    "weapon-dual-blades-death-row": {
+      "Key": "weapon-dual-blades-death-row",
+      "Translation": "Corredor da morte"
+    },
+    "weapon-dual-blades-enduring-sacrifice": {
+      "Key": "weapon-dual-blades-enduring-sacrifice",
+      "Translation": "Sacrifício Enduring"
+    },
+    "weapon-dual-blades-enduring-surrender": {
+      "Key": "weapon-dual-blades-enduring-surrender",
+      "Translation": "Rendição Enduring"
+    },
+    "weapon-dual-blades-wunderkirins": {
+      "Key": "weapon-dual-blades-wunderkirins",
+      "Translation": "Wunderkirins"
+    },
+    "weapon-dual-blades-magdaros-volcancross": {
+      "Key": "weapon-dual-blades-magdaros-volcancross",
+      "Translation": "Magdaros Volcancross"
+    },
+    "weapon-dual-blades-blizzard-and-blaze": {
+      "Key": "weapon-dual-blades-blizzard-and-blaze",
+      "Translation": "Blizzard e chama"
+    },
+    "weapon-dual-blades-soulfire-fangs-blaze": {
+      "Key": "weapon-dual-blades-soulfire-fangs-blaze",
+      "Translation": "Soulfire Fangs \"chama\""
+    },
+    "weapon-dual-blades-soulfire-fangs-styx": {
+      "Key": "weapon-dual-blades-soulfire-fangs-styx",
+      "Translation": "Soulfire Fangs \"Styx\""
+    },
+    "weapon-dual-blades-downy-paradise": {
+      "Key": "weapon-dual-blades-downy-paradise",
+      "Translation": "downy Paraíso"
+    },
+    "weapon-dual-blades-suzuka-takamaru": {
+      "Key": "weapon-dual-blades-suzuka-takamaru",
+      "Translation": "Suzuka Takamaru"
+    },
+    "weapon-dual-blades-suzuka-otakemaru": {
+      "Key": "weapon-dual-blades-suzuka-otakemaru",
+      "Translation": "Suzuka Otakemaru"
     }
   }

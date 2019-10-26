@@ -1453,7 +1453,7 @@ export default {
     },
     "armor-hr-high-metal-greaves-beta": {
       "Key": "armor-hr-high-metal-greaves-beta",
-      "Translation": "สูงเอสเอสเมทัลสนับ"
+      "Translation": "สูงßโลหะสนับ"
     },
     "armor-hr-high-metal-helm-alpha": {
       "Key": "armor-hr-high-metal-helm-alpha",
@@ -3281,7 +3281,7 @@ export default {
     },
     "armor-kulve-taroth-description": {
       "Key": "armor-kulve-taroth-description",
-      "Translation": "Kulve Taroth เกราะที่ส่องกับแสงที่อุดมไปด้วย ความโกรธที่น่ากลัวของแม่เทพธิดาอยู่ภายใน"
+      "Translation": "Kulve Taroth ชุดเกราะที่ส่องกับแสงอุดมไปด้วย ความโกรธที่น่ากลัวของแม่เทพธิดาอยู่ภายใน"
     },
     "armor-kushala-description": {
       "Key": "armor-kushala-description",
@@ -4817,7 +4817,7 @@ export default {
     },
     "armor-mr-clockwork-greaves-alpha-plus": {
       "Key": "armor-mr-clockwork-greaves-alpha-plus",
-      "Translation": "ลานสนับ⍺ +"
+      "Translation": "Clockwork สนับ⍺ +"
     },
     "armor-mr-clockwork-greaves-beta-plus": {
       "Key": "armor-mr-clockwork-greaves-beta-plus",
@@ -6741,7 +6741,7 @@ export default {
     },
     "armor-mr-silver-sol-beta-plus": {
       "Key": "armor-mr-silver-sol-beta-plus",
-      "Translation": "เงินโซลบาท +"
+      "Translation": "เงินโซล + SS"
     },
     "armor-mr-silver-solbraces-alpha-plus": {
       "Key": "armor-mr-silver-solbraces-alpha-plus",
@@ -7593,7 +7593,7 @@ export default {
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics-tips": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics-tips",
-      "Translation": "รางวัลนี้สามารถหยิบขึ้นมาที่นักวิจัย Lynian ในแอสเทราหลังจากที่คุณได้เสร็จสิ้นแรก 4 เควส Lynian วิจัย นักวิจัยขอให้คุณค้นพบ 10 Gajalaka Doodles. \\ n \\ n เป็นสิ่งสำคัญที่จะต้องทราบว่าสิ่งเหล่านี้วางไข่เฉพาะในช่วงนี้และรางวัลเฉพาะในสถานที่อันดับสูง คุณสามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 5 และ 1 เส้นขยุกขยิกในพื้นที่ 15 ในป่าโบราณ คุณสามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 3 และ 1 เส้นขยุกขยิกในพื้นที่ 7 ใน Wildspire เสีย. \\ n \\ n สามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 12 ใน Coral ไฮแลนด์ คุณสามารถค้นหา 2 ภาพดูเดิลในพื้นที่ 3 และ 3 ภาพดูเดิลในพื้นที่ 15 ในเน่าร์ทเวล เมื่อคุณกลับไปแอสเทรานักวิจัยต้องการให้ท่านออกไปหาค่าย Gajalaka. \\ n \\ n การค้นหานักวิจัยในพื้นที่ 8 มังกรพักผ่อน ในการเริ่มต้นเงินรางวัลที่จะต้องมีในเวลากลางคืน วางบน Ghillie เสื้อคลุมของคุณและพูดคุยกับผู้นำที่แคมป์ไฟในด้านหลังของค่าย รางวัล: ตอนนี้ Palico ของคุณสามารถใช้ค๊อกเทล meowlotov และพูดคุยกับ Gastodon"
+      "Translation": "รางวัลนี้สามารถจะหยิบขึ้นมาที่นักวิจัย Lynian ในแอสเทราหลังจากที่คุณได้เสร็จสิ้นแรก 4 เควส Lynian วิจัย นักวิจัยขอให้คุณค้นพบ 10 Gajalaka Doodles. \\ n \\ n เป็นสิ่งสำคัญที่จะต้องทราบว่าสิ่งเหล่านี้วางไข่เฉพาะในช่วงนี้และรางวัลเฉพาะในสถานที่อันดับสูง คุณสามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 5 และ 1 เส้นขยุกขยิกในพื้นที่ 15 ในป่าโบราณ คุณสามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 3 และ 1 เส้นขยุกขยิกในพื้นที่ 7 ใน Wildspire เสีย. \\ n \\ n สามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 12 ใน Coral ไฮแลนด์ คุณสามารถค้นหา 2 ภาพดูเดิลในพื้นที่ 3 และ 3 ภาพดูเดิลในพื้นที่ 15 ในเน่าร์ทเวล เมื่อคุณกลับไปแอสเทรานักวิจัยต้องการให้ท่านออกไปหาค่าย Gajalaka. \\ n \\ n การค้นหานักวิจัยในพื้นที่ 8 มังกรพักผ่อน ในการเริ่มต้นเงินรางวัลที่จะต้องมีในเวลากลางคืน วางบน Ghillie เสื้อคลุมของคุณและพูดคุยกับผู้นำที่แคมป์ไฟในด้านหลังของค่าย ของรางวัล: ตอนนี้ Palico ของคุณสามารถใช้ค๊อกเทล meowlotov และพูดคุยกับ Gastodon"
     },
     "critical-bounties-important": {
       "Key": "critical-bounties-important",
@@ -7913,7 +7913,7 @@ export default {
     },
     "endemic-life-nitrotoad-description": {
       "Key": "endemic-life-nitrotoad-description",
-      "Translation": "ของเหลวนี้ร้านค้าระเบิด! แต่ไม่ต้องกังวลฉันได้เรียนรู้บทเรียนของฉันกับคางคกผมจะไม่ได้สัมผัสหนึ่งนี้ ... เอ่อ ... มันคือการรั่วไหล ... ?"
+      "Translation": "ของเหลวนี้ร้านค้าระเบิด! แต่ไม่ต้องกังวลฉันได้เรียนรู้บทเรียนของฉันกับคางคกผมจะไม่ได้สัมผัสคนนี้ ... เอ่อ ... มันคือการรั่วไหล ... ?"
     },
     "endemic-life-omenfly-description": {
       "Key": "endemic-life-omenfly-description",
@@ -9105,7 +9105,7 @@ export default {
     },
     "monster-shamos-useful-information": {
       "Key": "monster-shamos-useful-information",
-      "Translation": "มอนสเตอร์ขนาดเล็กออกหากินเวลากลางคืน พวกเขาโดยเฉพาะอย่างยิ่งความเสี่ยงที่จะ blinding แฟลช Tzitzi-Ya-Ku แต่ได้รับทราบเพื่อแก๊งขึ้นกับศัตรู"
+      "Translation": "มอนสเตอร์ขนาดเล็กออกหากินเวลากลางคืน โดยเฉพาะอย่างยิ่งพวกเขากำลังเสี่ยงต่อการ blinding แฟลช Tzitzi ยา-Ku แต่ได้รับทราบเพื่อแก๊งขึ้นกับศัตรู"
     },
     "monster-shara-ishvalda": {
       "Key": "monster-shara-ishvalda",
@@ -9497,7 +9497,7 @@ export default {
     },
     "play-guide-collecting-safari-rewards-description": {
       "Key": "play-guide-collecting-safari-rewards-description",
-      "Translation": "Tailraider Safaris ใช้เวลาที่จะเสร็จสมบูรณ์ดังนั้นคุณจะต้องดำเนินการใน questes หรือการเดินทางในขณะที่พวกเขากำลังสัตย์ซื่อ นอกจากนี้คุณยังสามารถเก็บผลตอบแทนในขณะที่ซาฟารียังคงต่อเนื่องหรือยกเลิกอย่างต่อเนื่องซาฟารี"
+      "Translation": "Tailraider Safaris ใช้เวลาในการเสร็จสมบูรณ์ดังนั้นคุณจะต้องดำเนินการใน questes หรือการเดินทางในขณะที่พวกเขากำลังสัตย์ซื่อ นอกจากนี้คุณยังสามารถเก็บผลตอบแทนในขณะที่ซาฟารียังคงต่อเนื่องหรือยกเลิกอย่างต่อเนื่องซาฟารี"
     },
     "play-guide-critical-range": {
       "Key": "play-guide-critical-range",
@@ -11385,7 +11385,7 @@ export default {
     },
     "quest-ballooning-problems-description": {
       "Key": "quest-ballooning-problems-description",
-      "Translation": "... ฉันขอโทษฉันเพียงแค่ retched คิดเกี่ยวกับใบหน้าของมอนสเตอร์ที่ อย่างจริงจังคุณจะทำมันชอบ ... และเราเกินไป ล่ามันและเรือเหาะวิศวกรจะมีทุกอย่างที่เขาต้องการ"
+      "Translation": "... ฉันขอโทษฉันเพียงแค่ retched คิดเกี่ยวกับใบหน้าของมอนสเตอร์ที่ อย่างจริงจังที่คุณจะทำมันชอบ ... และเราเกินไป ล่ามันและเรือเหาะวิศวกรจะมีทุกอย่างที่เขาต้องการ"
     },
     "quest-bazelgeuse-in-the-field-of-fire": {
       "Key": "quest-bazelgeuse-in-the-field-of-fire",
@@ -12945,7 +12945,7 @@ export default {
     },
     "quest-pretty-in-pink-description": {
       "Key": "quest-pretty-in-pink-description",
-      "Translation": "ทีมงานภาคสนามได้เห็นระเฑียรสีชมพูสะกดรอยตามสัตว์ป่าท้องถิ่น ชนิดย่อยเช่นนี้เป็นที่มีคุณค่าสูงสำหรับความพยายามของการวิจัยของคณะกรรมาธิการ รับไปล่า!"
+      "Translation": "ทีมงานภาคสนามได้เห็นระเฑียรสีชมพูสะกดรอยตามสัตว์ป่าท้องถิ่น ชนิดย่อยเช่นนี้มีคุณค่าสูงสำหรับการวิจัยของคณะกรรมาธิการ รับไปล่า!"
     },
     "quest-pretty-in-pink-notes": {
       "Key": "quest-pretty-in-pink-notes",
@@ -12961,7 +12961,7 @@ export default {
     },
     "quest-prickly-predicament-notable-rewards": {
       "Key": "quest-prickly-predicament-notable-rewards",
-      "Translation": "ปลดล็อครายการต่อไปนี้การเพาะปลูก: Nulberry อาจ Seed เมล็ดยืนกราน Antidote สมุนไพรไฟสมุนไพร Flowfern หิมะสมุนไพร, การนอนหลับสมุนไพร Smokenut, Dragonfell Berry, Blastnut, Dragonstrike อ่อนนุช Slashberry, Bomberry, Flamenut, Blazenut"
+      "Translation": "ปลดล็อครายการต่อไปนี้การเพาะปลูก: Nulberry อาจ Seed เมล็ดยืนกราน Antidote สมุนไพรไฟสมุนไพร Flowfern หิมะ Herb นอนสมุนไพร Smokenut, Dragonfell Berry, Blastnut, Dragonstrike อ่อนนุช Slashberry, Bomberry, Flamenut, Blazenut"
     },
     "quest-prickly-predicament-tips": {
       "Key": "quest-prickly-predicament-tips",
@@ -12997,7 +12997,7 @@ export default {
     },
     "quest-rathalos-in-blue-description": {
       "Key": "quest-rathalos-in-blue-description",
-      "Translation": "ทีมงานภาคสนามได้ด่าง Azure Rathalos patroling ท้องฟ้า ชนิดย่อยเช่นนี้เป็นที่มีคุณค่าสูงสำหรับความพยายามของการวิจัยของคณะกรรมาธิการ รับไปล่า!"
+      "Translation": "ทีมงานภาคสนามได้ด่าง Azure Rathalos patroling ท้องฟ้า ชนิดย่อยเช่นนี้มีคุณค่าสูงสำหรับการวิจัยของคณะกรรมาธิการ รับไปล่า!"
     },
     "quest-rathalos-in-blue-notes": {
       "Key": "quest-rathalos-in-blue-notes",
@@ -13049,7 +13049,7 @@ export default {
     },
     "quest-rollin-with-the-uragaan-description": {
       "Key": "quest-rollin-with-the-uragaan-description",
-      "Translation": "Urk หัวของฉันยังคงปั่นจากสิ่งที่ฉันเพิ่งเห็น เราต้องการใครสักคนที่จะออกก่อกวนเหล่านี้ก่อนใครได้รับอึดอัดใจ การแสวงหานี้สำหรับจำนวนมากของเกราะทรงกลม!"
+      "Translation": "Urk หัวของฉันยังคงปั่นจากสิ่งที่ฉันเพิ่งเห็น เราต้องการใครสักคนที่จะออกก่อกวนเหล่านี้ก่อนใครได้รับอึดอัดใจ การแสวงหานี้สำหรับจำนวนมากของเกราะ Spheres ครับ"
     },
     "quest-royal-relocation": {
       "Key": "quest-royal-relocation",
@@ -13349,7 +13349,7 @@ export default {
     },
     "quest-special-arena-odogaron": {
       "Key": "quest-special-arena-odogaron",
-      "Translation": "สนามกีฬาพิเศษ: Odogaron"
+      "Translation": "Arena พิเศษ: Odogaron"
     },
     "quest-special-arena-odogaron-tips": {
       "Key": "quest-special-arena-odogaron-tips",
@@ -16869,7 +16869,7 @@ export default {
     },
     "trophy-another-giant-crown-description": {
       "Key": "trophy-another-giant-crown-description",
-      "Translation": "ได้รับมงกุฎทองแรกของคุณสำหรับการจับภาพชีวิตประจำถิ่นในตำแหน่งหลัก"
+      "Translation": "ขอรับมงกุฎทองแรกของคุณสำหรับการจับภาพชีวิตประจำถิ่นในตำแหน่งหลัก"
     },
     "trophy-another-miniature-crown": {
       "Key": "trophy-another-miniature-crown",
@@ -19645,7 +19645,7 @@ export default {
     },
     "weapon-hunting-horn-heavy-bone-horn-i": {
       "Key": "weapon-hunting-horn-heavy-bone-horn-i",
-      "Translation": "หนักกระดูกฮอร์นผม"
+      "Translation": "หนักกระดูกผมฮอร์น"
     },
     "weapon-hunting-horn-heavy-bone-horn-ii": {
       "Key": "weapon-hunting-horn-heavy-bone-horn-ii",
@@ -22182,5 +22182,297 @@ export default {
     "weapon-gunlance-gajalaka-firepike": {
       "Key": "weapon-gunlance-gajalaka-firepike",
       "Translation": "Gajalaka Firepike"
+    },
+    "weapon-dual-blades-chrome-cross-i": {
+      "Key": "weapon-dual-blades-chrome-cross-i",
+      "Translation": "โครเมี่ยมครอฉัน"
+    },
+    "weapon-dual-blades-chrome-cross-ii": {
+      "Key": "weapon-dual-blades-chrome-cross-ii",
+      "Translation": "โครเมี่ยมครอสครั้งที่สอง"
+    },
+    "weapon-dual-blades-chrome-cross-iii": {
+      "Key": "weapon-dual-blades-chrome-cross-iii",
+      "Translation": "โครเมี่ยมครอส III"
+    },
+    "weapon-dual-blades-usurpers-fulgur": {
+      "Key": "weapon-dual-blades-usurpers-fulgur",
+      "Translation": "ทรราชของ Fulgur"
+    },
+    "weapon-dual-blades-usurpers-fulgur-plus": {
+      "Key": "weapon-dual-blades-usurpers-fulgur-plus",
+      "Translation": "ทรราชของ Fulgur +"
+    },
+    "weapon-dual-blades-despots-blitz": {
+      "Key": "weapon-dual-blades-despots-blitz",
+      "Translation": "เผด็จการของสายฟ้าแลบ"
+    },
+    "weapon-dual-blades-ruinous-decimation": {
+      "Key": "weapon-dual-blades-ruinous-decimation",
+      "Translation": "ล้างล่มจม"
+    },
+    "weapon-dual-blades-cross-destroyers-i": {
+      "Key": "weapon-dual-blades-cross-destroyers-i",
+      "Translation": "ข้ามฆ่าฉัน"
+    },
+    "weapon-dual-blades-cross-destroyers-ii": {
+      "Key": "weapon-dual-blades-cross-destroyers-ii",
+      "Translation": "ครอสครั้งที่สองมุ่งมั่น"
+    },
+    "weapon-dual-blades-hidden-tomahawk-i": {
+      "Key": "weapon-dual-blades-hidden-tomahawk-i",
+      "Translation": "ซ่อน Tomahawk ฉัน"
+    },
+    "weapon-dual-blades-hidden-tomahawk-ii": {
+      "Key": "weapon-dual-blades-hidden-tomahawk-ii",
+      "Translation": "ซ่อน Tomahawk ครั้งที่สอง"
+    },
+    "weapon-dual-blades-blazing-warhawks": {
+      "Key": "weapon-dual-blades-blazing-warhawks",
+      "Translation": "Blazing Warhawks"
+    },
+    "weapon-dual-blades-bazel-bombers": {
+      "Key": "weapon-dual-blades-bazel-bombers",
+      "Translation": "เครื่องบินทิ้งระเบิด Bazel"
+    },
+    "weapon-dual-blades-blizzarioths": {
+      "Key": "weapon-dual-blades-blizzarioths",
+      "Translation": "Blizzarioths"
+    },
+    "weapon-dual-blades-blizzarioths-plus": {
+      "Key": "weapon-dual-blades-blizzarioths-plus",
+      "Translation": "Blizzarioths +"
+    },
+    "weapon-dual-blades-mountain-blizzarioths": {
+      "Key": "weapon-dual-blades-mountain-blizzarioths",
+      "Translation": "Blizzarioths ภูเขา"
+    },
+    "weapon-dual-blades-asefar-al-nasr-i": {
+      "Key": "weapon-dual-blades-asefar-al-nasr-i",
+      "Translation": "Asefar Al-Nasr ฉัน"
+    },
+    "weapon-dual-blades-asefar-al-nasr-ii": {
+      "Key": "weapon-dual-blades-asefar-al-nasr-ii",
+      "Translation": "Asefar อัลนาสร์ไอ"
+    },
+    "weapon-dual-blades-rex-chain-ii": {
+      "Key": "weapon-dual-blades-rex-chain-ii",
+      "Translation": "เร็กซ์เชนครั้งที่สอง"
+    },
+    "weapon-dual-blades-accursed-chain": {
+      "Key": "weapon-dual-blades-accursed-chain",
+      "Translation": "โซ่ที่ถูกสาปแช่ง"
+    },
+    "weapon-dual-blades-twin-flames": {
+      "Key": "weapon-dual-blades-twin-flames",
+      "Translation": "แฝดเปลวไฟ"
+    },
+    "weapon-dual-blades-wyvern-lovers": {
+      "Key": "weapon-dual-blades-wyvern-lovers",
+      "Translation": "คนรัก Wyvern"
+    },
+    "weapon-dual-blades-guild-knight-sabers": {
+      "Key": "weapon-dual-blades-guild-knight-sabers",
+      "Translation": "สมาคมอัศวินสง"
+    },
+    "weapon-dual-blades-master-sabers": {
+      "Key": "weapon-dual-blades-master-sabers",
+      "Translation": "โทสง"
+    },
+    "weapon-dual-blades-holy-guild-knight": {
+      "Key": "weapon-dual-blades-holy-guild-knight",
+      "Translation": "ศักดิ์สิทธิ์สมาคมอัศวิน"
+    },
+    "weapon-dual-blades-hulking-choppers-i": {
+      "Key": "weapon-dual-blades-hulking-choppers-i",
+      "Translation": "อุ้ยอ้าย Choppers ฉัน"
+    },
+    "weapon-dual-blades-hulking-choppers-ii": {
+      "Key": "weapon-dual-blades-hulking-choppers-ii",
+      "Translation": "อุ้ยอ้าย Choppers ครั้งที่สอง"
+    },
+    "weapon-dual-blades-hulking-choppers-iii": {
+      "Key": "weapon-dual-blades-hulking-choppers-iii",
+      "Translation": "อุ้ยอ้าย Choppers III"
+    },
+    "weapon-dual-blades-icefeather": {
+      "Key": "weapon-dual-blades-icefeather",
+      "Translation": "Icefeather"
+    },
+    "weapon-dual-blades-untouched-hel": {
+      "Key": "weapon-dual-blades-untouched-hel",
+      "Translation": "เฮลแตะต้อง"
+    },
+    "weapon-dual-blades-anja-twinrippers-i": {
+      "Key": "weapon-dual-blades-anja-twinrippers-i",
+      "Translation": "Anja Twinrippers ฉัน"
+    },
+    "weapon-dual-blades-anja-twinrippers-ii": {
+      "Key": "weapon-dual-blades-anja-twinrippers-ii",
+      "Translation": "Anja Twinrippers ครั้งที่สอง"
+    },
+    "weapon-dual-blades-fulguring-tornado-i": {
+      "Key": "weapon-dual-blades-fulguring-tornado-i",
+      "Translation": "Fulguring ทอร์นาโดฉัน"
+    },
+    "weapon-dual-blades-fulguring-tornado-ii": {
+      "Key": "weapon-dual-blades-fulguring-tornado-ii",
+      "Translation": "Fulguring ทอร์นาโดครั้งที่สอง"
+    },
+    "weapon-dual-blades-diablos-clubs-iii": {
+      "Key": "weapon-dual-blades-diablos-clubs-iii",
+      "Translation": "Diablos คลับ III"
+    },
+    "weapon-dual-blades-thanatos-mauls": {
+      "Key": "weapon-dual-blades-thanatos-mauls",
+      "Translation": "Thanatos mauls"
+    },
+    "weapon-dual-blades-sulfurteinn-ortho": {
+      "Key": "weapon-dual-blades-sulfurteinn-ortho",
+      "Translation": "Sulfurteinn Ortho"
+    },
+    "weapon-dual-blades-the-stripping-shears": {
+      "Key": "weapon-dual-blades-the-stripping-shears",
+      "Translation": "ลอกกรรไกร"
+    },
+    "weapon-dual-blades-mammoth-direbones-i": {
+      "Key": "weapon-dual-blades-mammoth-direbones-i",
+      "Translation": "แมมมอ ธ Direbones ฉัน"
+    },
+    "weapon-dual-blades-mammoth-direbones-ii": {
+      "Key": "weapon-dual-blades-mammoth-direbones-ii",
+      "Translation": "แมมมอ ธ Direbones ครั้งที่สอง"
+    },
+    "weapon-dual-blades-jyura-keenblades-i": {
+      "Key": "weapon-dual-blades-jyura-keenblades-i",
+      "Translation": "Jyura Keenblades ฉัน"
+    },
+    "weapon-dual-blades-jyura-keenblades-ii": {
+      "Key": "weapon-dual-blades-jyura-keenblades-ii",
+      "Translation": "Jyura Keenblades ครั้งที่สอง"
+    },
+    "weapon-dual-blades-raven-tessen": {
+      "Key": "weapon-dual-blades-raven-tessen",
+      "Translation": "กา Tessen"
+    },
+    "weapon-dual-blades-wolf-tessen": {
+      "Key": "weapon-dual-blades-wolf-tessen",
+      "Translation": "หมาป่า Tessen"
+    },
+    "weapon-dual-blades-beo-hatchets-i": {
+      "Key": "weapon-dual-blades-beo-hatchets-i",
+      "Translation": "Beo ด้ามฉัน"
+    },
+    "weapon-dual-blades-beo-hatchets-ii": {
+      "Key": "weapon-dual-blades-beo-hatchets-ii",
+      "Translation": "Beo ด้ามครั้งที่สอง"
+    },
+    "weapon-dual-blades-shattering-flames-i": {
+      "Key": "weapon-dual-blades-shattering-flames-i",
+      "Translation": "ป่นปี้เปลวไฟฉัน"
+    },
+    "weapon-dual-blades-shattering-flames-ii": {
+      "Key": "weapon-dual-blades-shattering-flames-ii",
+      "Translation": "ป่นปี้เปลวไฟครั้งที่สอง"
+    },
+    "weapon-dual-blades-smoldering-cities": {
+      "Key": "weapon-dual-blades-smoldering-cities",
+      "Translation": "เมืองระอุ"
+    },
+    "weapon-dual-blades-smoldering-cities-plus": {
+      "Key": "weapon-dual-blades-smoldering-cities-plus",
+      "Translation": "ระอุเมือง +"
+    },
+    "weapon-dual-blades-smoldering-kingdoms": {
+      "Key": "weapon-dual-blades-smoldering-kingdoms",
+      "Translation": "รุมก๊ก"
+    },
+    "weapon-dual-blades-abyss-eaters-i": {
+      "Key": "weapon-dual-blades-abyss-eaters-i",
+      "Translation": "เหวเสพฉัน"
+    },
+    "weapon-dual-blades-abyss-eaters-ii": {
+      "Key": "weapon-dual-blades-abyss-eaters-ii",
+      "Translation": "เหวเสพ II"
+    },
+    "weapon-dual-blades-brachydios-blasters-i": {
+      "Key": "weapon-dual-blades-brachydios-blasters-i",
+      "Translation": "Brachydios Blasters ฉัน"
+    },
+    "weapon-dual-blades-brachydios-blasters-ii": {
+      "Key": "weapon-dual-blades-brachydios-blasters-ii",
+      "Translation": "Brachydios Blasters ครั้งที่สอง"
+    },
+    "weapon-dual-blades-kadachi-greathawks-i": {
+      "Key": "weapon-dual-blades-kadachi-greathawks-i",
+      "Translation": "Kadachi Greathawks ฉัน"
+    },
+    "weapon-dual-blades-kadachi-greathawks-ii": {
+      "Key": "weapon-dual-blades-kadachi-greathawks-ii",
+      "Translation": "Kadachi Greathawks ครั้งที่สอง"
+    },
+    "weapon-dual-blades-crimson-viperclaws-i": {
+      "Key": "weapon-dual-blades-crimson-viperclaws-i",
+      "Translation": "สีแดงเข้ม Viperclaws ฉัน"
+    },
+    "weapon-dual-blades-crimson-viperclaws-ii": {
+      "Key": "weapon-dual-blades-crimson-viperclaws-ii",
+      "Translation": "สีแดงเข้ม Viperclaws ครั้งที่สอง"
+    },
+    "weapon-dual-blades-sin-plus": {
+      "Key": "weapon-dual-blades-sin-plus",
+      "Translation": "Sin +"
+    },
+    "weapon-dual-blades-crime": {
+      "Key": "weapon-dual-blades-crime",
+      "Translation": "อาชญากรรม"
+    },
+    "weapon-dual-blades-nether-chainblades": {
+      "Key": "weapon-dual-blades-nether-chainblades",
+      "Translation": "Nether Chainblades"
+    },
+    "weapon-dual-blades-death-row": {
+      "Key": "weapon-dual-blades-death-row",
+      "Translation": "ประหาร"
+    },
+    "weapon-dual-blades-enduring-sacrifice": {
+      "Key": "weapon-dual-blades-enduring-sacrifice",
+      "Translation": "เสียสละนาน"
+    },
+    "weapon-dual-blades-enduring-surrender": {
+      "Key": "weapon-dual-blades-enduring-surrender",
+      "Translation": "ยอมจำนนนาน"
+    },
+    "weapon-dual-blades-wunderkirins": {
+      "Key": "weapon-dual-blades-wunderkirins",
+      "Translation": "Wunderkirins"
+    },
+    "weapon-dual-blades-magdaros-volcancross": {
+      "Key": "weapon-dual-blades-magdaros-volcancross",
+      "Translation": "Magdaros Volcancross"
+    },
+    "weapon-dual-blades-blizzard-and-blaze": {
+      "Key": "weapon-dual-blades-blizzard-and-blaze",
+      "Translation": "พายุหิมะและ Blaze"
+    },
+    "weapon-dual-blades-soulfire-fangs-blaze": {
+      "Key": "weapon-dual-blades-soulfire-fangs-blaze",
+      "Translation": "Soulfire เขี้ยว \"Blaze\""
+    },
+    "weapon-dual-blades-soulfire-fangs-styx": {
+      "Key": "weapon-dual-blades-soulfire-fangs-styx",
+      "Translation": "Soulfire เขี้ยว \"ปรภพ\""
+    },
+    "weapon-dual-blades-downy-paradise": {
+      "Key": "weapon-dual-blades-downy-paradise",
+      "Translation": "Downy พาราไดซ์"
+    },
+    "weapon-dual-blades-suzuka-takamaru": {
+      "Key": "weapon-dual-blades-suzuka-takamaru",
+      "Translation": "ซูซูกะเซอร์ Takamaru"
+    },
+    "weapon-dual-blades-suzuka-otakemaru": {
+      "Key": "weapon-dual-blades-suzuka-otakemaru",
+      "Translation": "ซูซูกะเซอร์ Otakemaru"
     }
   }

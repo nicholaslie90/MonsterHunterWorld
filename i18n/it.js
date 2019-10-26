@@ -8605,7 +8605,7 @@ export default {
     },
     "monster-azure-rathalos-useful-information": {
       "Key": "monster-azure-rathalos-useful-information",
-      "Translation": "Contrastare il suo attacco aereo osservando i suoi schemi di volo e scoprire il momento giusto per farlo cadere dal cielo. Una volta a terra, perde la sua capacità di eseguire attacchi consecutivi, rendendo il combattimento molto più facile."
+      "Translation": "Contrastare il suo attacco aereo osservando i suoi schemi di volo e scoprire il momento giusto per farlo cadere dal cielo. Una volta a terra e perde la capacità di eseguire attacchi consecutivi, rendendo il combattimento molto più facile."
     },
     "monster-banbaro": {
       "Key": "monster-banbaro",
@@ -8793,7 +8793,7 @@ export default {
     },
     "monster-great-jagras-useful-information": {
       "Key": "monster-great-jagras-useful-information",
-      "Translation": "Anche dopo un pasto gigante, un grande Jagras può usare il suo stomaco ampliato per attaccare ignari cacciatori. Obiettivo per la sua pancia per costringerlo a vomitare la sua preda e indebolire in modo significativo."
+      "Translation": "Anche dopo un pasto gigante, una grande Jagras può usare il suo stomaco ampliato per attaccare ignari cacciatori. Obiettivo per la sua pancia per costringerlo a vomitare la sua preda e indebolire in modo significativo."
     },
     "monster-hornetaur": {
       "Key": "monster-hornetaur",
@@ -9473,7 +9473,7 @@ export default {
     },
     "play-guide-charms-description": {
       "Key": "play-guide-charms-description",
-      "Translation": "Charms possono essere equipaggiati per attivare le abilità utili."
+      "Translation": "Charms possono essere dotati di attivare competenze utili."
     },
     "play-guide-charybdis": {
       "Key": "play-guide-charybdis",
@@ -10901,7 +10901,7 @@ export default {
     },
     "poogie-buzzy-bee-how-to-get": {
       "Key": "poogie-buzzy-bee-how-to-get",
-      "Translation": "Parlate con il vostro Poogie durante l'evento Spring Blossom."
+      "Translation": "Parlate con il vostro Poogie corso della manifestazione Spring Blossom."
     },
     "poogie-costumes": {
       "Key": "poogie-costumes",
@@ -13129,7 +13129,7 @@ export default {
     },
     "quest-scratching-the-itch-description": {
       "Key": "quest-scratching-the-itch-description",
-      "Translation": "Questa mattina mi sono svegliato ad una brillante epifania! Ho un'idea per qualcosa ogni cacciatore ha bisogno dopo una lunga giornata in campo ... backscratchers Odogaron!"
+      "Translation": "Questa mattina mi sono svegliato a una brillante epifania! Ho un'idea per qualcosa ogni cacciatore ha bisogno dopo una lunga giornata in campo ... backscratchers Odogaron!"
     },
     "quest-showdown-the-muck-and-the-maul": {
       "Key": "quest-showdown-the-muck-and-the-maul",
@@ -14429,7 +14429,7 @@ export default {
     },
     "skill-aquatic-expert-3": {
       "Key": "skill-aquatic-expert-3",
-      "Translation": "Impedisce all'acqua di rallentamento movimento e migliora notevolmente l'evasione mentre in acqua."
+      "Translation": "Impedisce all'acqua da rallentare il movimento e migliora notevolmente l'evasione mentre in acqua."
     },
     "skill-aquatic-expert-description": {
       "Key": "skill-aquatic-expert-description",
@@ -14729,7 +14729,7 @@ export default {
     },
     "skill-coalescence-1": {
       "Key": "skill-coalescence-1",
-      "Translation": "Mentre è attivo, concede Attacco + 12, la potenza di attacco Element 30, e stato l'accumulo di + 5%"
+      "Translation": "Mentre attiva, concede Attacco + 12, la potenza di attacco Element 30, e stato l'accumulo di + 5%"
     },
     "skill-coalescence-2": {
       "Key": "skill-coalescence-2",
@@ -17385,7 +17385,7 @@ export default {
     },
     "trophy-personal-treasure": {
       "Key": "trophy-personal-treasure",
-      "Translation": "tesoro personale"
+      "Translation": "Treasure Personal"
     },
     "trophy-personal-treasure-description": {
       "Key": "trophy-personal-treasure-description",
@@ -22182,5 +22182,297 @@ export default {
     "weapon-gunlance-gajalaka-firepike": {
       "Key": "weapon-gunlance-gajalaka-firepike",
       "Translation": "Gajalaka Firepike"
+    },
+    "weapon-dual-blades-chrome-cross-i": {
+      "Key": "weapon-dual-blades-chrome-cross-i",
+      "Translation": "Chrome Croce I"
+    },
+    "weapon-dual-blades-chrome-cross-ii": {
+      "Key": "weapon-dual-blades-chrome-cross-ii",
+      "Translation": "Chrome Croce II"
+    },
+    "weapon-dual-blades-chrome-cross-iii": {
+      "Key": "weapon-dual-blades-chrome-cross-iii",
+      "Translation": "Chrome Croce III"
+    },
+    "weapon-dual-blades-usurpers-fulgur": {
+      "Key": "weapon-dual-blades-usurpers-fulgur",
+      "Translation": "Fulgur di Usurpatore"
+    },
+    "weapon-dual-blades-usurpers-fulgur-plus": {
+      "Key": "weapon-dual-blades-usurpers-fulgur-plus",
+      "Translation": "dell'usurpatore Fulgur +"
+    },
+    "weapon-dual-blades-despots-blitz": {
+      "Key": "weapon-dual-blades-despots-blitz",
+      "Translation": "Blitz di despota"
+    },
+    "weapon-dual-blades-ruinous-decimation": {
+      "Key": "weapon-dual-blades-ruinous-decimation",
+      "Translation": "Decimazione ruinous"
+    },
+    "weapon-dual-blades-cross-destroyers-i": {
+      "Key": "weapon-dual-blades-cross-destroyers-i",
+      "Translation": "Croce Destroyers I"
+    },
+    "weapon-dual-blades-cross-destroyers-ii": {
+      "Key": "weapon-dual-blades-cross-destroyers-ii",
+      "Translation": "Croce Destroyers II"
+    },
+    "weapon-dual-blades-hidden-tomahawk-i": {
+      "Key": "weapon-dual-blades-hidden-tomahawk-i",
+      "Translation": "Hidden Tomahawk I"
+    },
+    "weapon-dual-blades-hidden-tomahawk-ii": {
+      "Key": "weapon-dual-blades-hidden-tomahawk-ii",
+      "Translation": "Hidden Tomahawk II"
+    },
+    "weapon-dual-blades-blazing-warhawks": {
+      "Key": "weapon-dual-blades-blazing-warhawks",
+      "Translation": "Blazing Warhawks"
+    },
+    "weapon-dual-blades-bazel-bombers": {
+      "Key": "weapon-dual-blades-bazel-bombers",
+      "Translation": "Bombers Bazel"
+    },
+    "weapon-dual-blades-blizzarioths": {
+      "Key": "weapon-dual-blades-blizzarioths",
+      "Translation": "Blizzarioths"
+    },
+    "weapon-dual-blades-blizzarioths-plus": {
+      "Key": "weapon-dual-blades-blizzarioths-plus",
+      "Translation": "Blizzarioths +"
+    },
+    "weapon-dual-blades-mountain-blizzarioths": {
+      "Key": "weapon-dual-blades-mountain-blizzarioths",
+      "Translation": "Mountain Blizzarioths"
+    },
+    "weapon-dual-blades-asefar-al-nasr-i": {
+      "Key": "weapon-dual-blades-asefar-al-nasr-i",
+      "Translation": "Asefar al-Nasr I"
+    },
+    "weapon-dual-blades-asefar-al-nasr-ii": {
+      "Key": "weapon-dual-blades-asefar-al-nasr-ii",
+      "Translation": "Asefar al-Nasr II"
+    },
+    "weapon-dual-blades-rex-chain-ii": {
+      "Key": "weapon-dual-blades-rex-chain-ii",
+      "Translation": "Catena Rex II"
+    },
+    "weapon-dual-blades-accursed-chain": {
+      "Key": "weapon-dual-blades-accursed-chain",
+      "Translation": "catena maledetto"
+    },
+    "weapon-dual-blades-twin-flames": {
+      "Key": "weapon-dual-blades-twin-flames",
+      "Translation": "Doppia Fiamme"
+    },
+    "weapon-dual-blades-wyvern-lovers": {
+      "Key": "weapon-dual-blades-wyvern-lovers",
+      "Translation": "Wyvern Lovers"
+    },
+    "weapon-dual-blades-guild-knight-sabers": {
+      "Key": "weapon-dual-blades-guild-knight-sabers",
+      "Translation": "Guild Cavaliere Sabres"
+    },
+    "weapon-dual-blades-master-sabers": {
+      "Key": "weapon-dual-blades-master-sabers",
+      "Translation": "Maestro Sabres"
+    },
+    "weapon-dual-blades-holy-guild-knight": {
+      "Key": "weapon-dual-blades-holy-guild-knight",
+      "Translation": "Santa Gilda Cavaliere"
+    },
+    "weapon-dual-blades-hulking-choppers-i": {
+      "Key": "weapon-dual-blades-hulking-choppers-i",
+      "Translation": "Hulking Choppers I"
+    },
+    "weapon-dual-blades-hulking-choppers-ii": {
+      "Key": "weapon-dual-blades-hulking-choppers-ii",
+      "Translation": "Hulking Choppers II"
+    },
+    "weapon-dual-blades-hulking-choppers-iii": {
+      "Key": "weapon-dual-blades-hulking-choppers-iii",
+      "Translation": "Hulking Choppers III"
+    },
+    "weapon-dual-blades-icefeather": {
+      "Key": "weapon-dual-blades-icefeather",
+      "Translation": "Icefeather"
+    },
+    "weapon-dual-blades-untouched-hel": {
+      "Key": "weapon-dual-blades-untouched-hel",
+      "Translation": "Hel Untouched"
+    },
+    "weapon-dual-blades-anja-twinrippers-i": {
+      "Key": "weapon-dual-blades-anja-twinrippers-i",
+      "Translation": "Anja Twinrippers I"
+    },
+    "weapon-dual-blades-anja-twinrippers-ii": {
+      "Key": "weapon-dual-blades-anja-twinrippers-ii",
+      "Translation": "Anja Twinrippers II"
+    },
+    "weapon-dual-blades-fulguring-tornado-i": {
+      "Key": "weapon-dual-blades-fulguring-tornado-i",
+      "Translation": "Fulguring Tornado I"
+    },
+    "weapon-dual-blades-fulguring-tornado-ii": {
+      "Key": "weapon-dual-blades-fulguring-tornado-ii",
+      "Translation": "Fulguring Tornado II"
+    },
+    "weapon-dual-blades-diablos-clubs-iii": {
+      "Key": "weapon-dual-blades-diablos-clubs-iii",
+      "Translation": "Diablos club III"
+    },
+    "weapon-dual-blades-thanatos-mauls": {
+      "Key": "weapon-dual-blades-thanatos-mauls",
+      "Translation": "Thanatos Mauls"
+    },
+    "weapon-dual-blades-sulfurteinn-ortho": {
+      "Key": "weapon-dual-blades-sulfurteinn-ortho",
+      "Translation": "Sulfurteinn Ortho"
+    },
+    "weapon-dual-blades-the-stripping-shears": {
+      "Key": "weapon-dual-blades-the-stripping-shears",
+      "Translation": "Le cesoie Spogliarello"
+    },
+    "weapon-dual-blades-mammoth-direbones-i": {
+      "Key": "weapon-dual-blades-mammoth-direbones-i",
+      "Translation": "Mammoth Direbones I"
+    },
+    "weapon-dual-blades-mammoth-direbones-ii": {
+      "Key": "weapon-dual-blades-mammoth-direbones-ii",
+      "Translation": "Mammoth Direbones II"
+    },
+    "weapon-dual-blades-jyura-keenblades-i": {
+      "Key": "weapon-dual-blades-jyura-keenblades-i",
+      "Translation": "Jyura Keenblades I"
+    },
+    "weapon-dual-blades-jyura-keenblades-ii": {
+      "Key": "weapon-dual-blades-jyura-keenblades-ii",
+      "Translation": "Jyura Keenblades II"
+    },
+    "weapon-dual-blades-raven-tessen": {
+      "Key": "weapon-dual-blades-raven-tessen",
+      "Translation": "Raven Tessen"
+    },
+    "weapon-dual-blades-wolf-tessen": {
+      "Key": "weapon-dual-blades-wolf-tessen",
+      "Translation": "Lupo Tessen"
+    },
+    "weapon-dual-blades-beo-hatchets-i": {
+      "Key": "weapon-dual-blades-beo-hatchets-i",
+      "Translation": "Beo Hatchets I"
+    },
+    "weapon-dual-blades-beo-hatchets-ii": {
+      "Key": "weapon-dual-blades-beo-hatchets-ii",
+      "Translation": "Beo Hatchets II"
+    },
+    "weapon-dual-blades-shattering-flames-i": {
+      "Key": "weapon-dual-blades-shattering-flames-i",
+      "Translation": "Shattering Flames I"
+    },
+    "weapon-dual-blades-shattering-flames-ii": {
+      "Key": "weapon-dual-blades-shattering-flames-ii",
+      "Translation": "Shattering Fiamme II"
+    },
+    "weapon-dual-blades-smoldering-cities": {
+      "Key": "weapon-dual-blades-smoldering-cities",
+      "Translation": "Città fumanti"
+    },
+    "weapon-dual-blades-smoldering-cities-plus": {
+      "Key": "weapon-dual-blades-smoldering-cities-plus",
+      "Translation": "Fumante Città +"
+    },
+    "weapon-dual-blades-smoldering-kingdoms": {
+      "Key": "weapon-dual-blades-smoldering-kingdoms",
+      "Translation": "Brace Regni"
+    },
+    "weapon-dual-blades-abyss-eaters-i": {
+      "Key": "weapon-dual-blades-abyss-eaters-i",
+      "Translation": "Abyss Eaters I"
+    },
+    "weapon-dual-blades-abyss-eaters-ii": {
+      "Key": "weapon-dual-blades-abyss-eaters-ii",
+      "Translation": "Abyss Eaters II"
+    },
+    "weapon-dual-blades-brachydios-blasters-i": {
+      "Key": "weapon-dual-blades-brachydios-blasters-i",
+      "Translation": "Brachydios Blasters I"
+    },
+    "weapon-dual-blades-brachydios-blasters-ii": {
+      "Key": "weapon-dual-blades-brachydios-blasters-ii",
+      "Translation": "Brachydios Blasters II"
+    },
+    "weapon-dual-blades-kadachi-greathawks-i": {
+      "Key": "weapon-dual-blades-kadachi-greathawks-i",
+      "Translation": "Kadachi Greathawks I"
+    },
+    "weapon-dual-blades-kadachi-greathawks-ii": {
+      "Key": "weapon-dual-blades-kadachi-greathawks-ii",
+      "Translation": "Kadachi Greathawks II"
+    },
+    "weapon-dual-blades-crimson-viperclaws-i": {
+      "Key": "weapon-dual-blades-crimson-viperclaws-i",
+      "Translation": "Crimson Viperclaws I"
+    },
+    "weapon-dual-blades-crimson-viperclaws-ii": {
+      "Key": "weapon-dual-blades-crimson-viperclaws-ii",
+      "Translation": "Crimson Viperclaws II"
+    },
+    "weapon-dual-blades-sin-plus": {
+      "Key": "weapon-dual-blades-sin-plus",
+      "Translation": "Sin +"
+    },
+    "weapon-dual-blades-crime": {
+      "Key": "weapon-dual-blades-crime",
+      "Translation": "crimine"
+    },
+    "weapon-dual-blades-nether-chainblades": {
+      "Key": "weapon-dual-blades-nether-chainblades",
+      "Translation": "Nether Chainblades"
+    },
+    "weapon-dual-blades-death-row": {
+      "Key": "weapon-dual-blades-death-row",
+      "Translation": "Death Row"
+    },
+    "weapon-dual-blades-enduring-sacrifice": {
+      "Key": "weapon-dual-blades-enduring-sacrifice",
+      "Translation": "Sacrificio Enduring"
+    },
+    "weapon-dual-blades-enduring-surrender": {
+      "Key": "weapon-dual-blades-enduring-surrender",
+      "Translation": "Surrender Enduring"
+    },
+    "weapon-dual-blades-wunderkirins": {
+      "Key": "weapon-dual-blades-wunderkirins",
+      "Translation": "Wunderkirins"
+    },
+    "weapon-dual-blades-magdaros-volcancross": {
+      "Key": "weapon-dual-blades-magdaros-volcancross",
+      "Translation": "Magdaros Volcancross"
+    },
+    "weapon-dual-blades-blizzard-and-blaze": {
+      "Key": "weapon-dual-blades-blizzard-and-blaze",
+      "Translation": "Blizzard e Blaze"
+    },
+    "weapon-dual-blades-soulfire-fangs-blaze": {
+      "Key": "weapon-dual-blades-soulfire-fangs-blaze",
+      "Translation": "Soulfire Zanne \"Blaze\""
+    },
+    "weapon-dual-blades-soulfire-fangs-styx": {
+      "Key": "weapon-dual-blades-soulfire-fangs-styx",
+      "Translation": "Soulfire Zanne \"Styx\""
+    },
+    "weapon-dual-blades-downy-paradise": {
+      "Key": "weapon-dual-blades-downy-paradise",
+      "Translation": "Downy Paradise"
+    },
+    "weapon-dual-blades-suzuka-takamaru": {
+      "Key": "weapon-dual-blades-suzuka-takamaru",
+      "Translation": "Suzuka Takamaru"
+    },
+    "weapon-dual-blades-suzuka-otakemaru": {
+      "Key": "weapon-dual-blades-suzuka-otakemaru",
+      "Translation": "Suzuka Otakemaru"
     }
   }

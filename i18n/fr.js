@@ -225,7 +225,7 @@ export default {
     },
     "armor-empress-mail-description": {
       "Key": "armor-empress-mail-description",
-      "Translation": "Comme un trésor sacré stocké dans une forteresse, la flamme bleue de Lunastra est scellé à l'intérieur."
+      "Translation": "Comme un trésor sacré stocké dans une forteresse, la flamme bleue de Lunastra est scellé dans."
     },
     "armor-empress-vambraces-description": {
       "Key": "armor-empress-vambraces-description",
@@ -2245,7 +2245,7 @@ export default {
     },
     "armor-hr-leather-trousers-beta": {
       "Key": "armor-hr-leather-trousers-beta",
-      "Translation": "Pantalon en cuir ß"
+      "Translation": "Pantalons en cuir ß"
     },
     "armor-hr-legiana-alpha": {
       "Key": "armor-hr-legiana-alpha",
@@ -3301,7 +3301,7 @@ export default {
     },
     "armor-legiana-description": {
       "Key": "armor-legiana-description",
-      "Translation": "Armure portée par les maîtres éprouvés du vent. Fait de pièces Legiana, il scintille d'un bleu perçant."
+      "Translation": "Armure portée par les maîtres éprouvés du vent. Fait de pièces Legiana il scintille d'un bleu perçant."
     },
     "armor-lr-alloy": {
       "Key": "armor-lr-alloy",
@@ -3825,7 +3825,7 @@ export default {
     },
     "armor-lr-kadachi-greaves": {
       "Key": "armor-lr-kadachi-greaves",
-      "Translation": "Grèves Kadachi"
+      "Translation": "Kadachi Grèves"
     },
     "armor-lr-kadachi-helm": {
       "Key": "armor-lr-kadachi-helm",
@@ -4221,7 +4221,7 @@ export default {
     },
     "armor-mr-acidic-glavenus-coil-alpha-plus": {
       "Key": "armor-mr-acidic-glavenus-coil-alpha-plus",
-      "Translation": "Glavenus Coil ⍺ Acidic +"
+      "Translation": "Acidic Glavenus Coil ⍺ +"
     },
     "armor-mr-acidic-glavenus-coil-beta-plus": {
       "Key": "armor-mr-acidic-glavenus-coil-beta-plus",
@@ -4229,7 +4229,7 @@ export default {
     },
     "armor-mr-acidic-glavenus-greaves-alpha-plus": {
       "Key": "armor-mr-acidic-glavenus-greaves-alpha-plus",
-      "Translation": "Grèves ⍺ Glavenus Acidic +"
+      "Translation": "Acidic Glavenus Grèves ⍺ +"
     },
     "armor-mr-acidic-glavenus-greaves-beta-plus": {
       "Key": "armor-mr-acidic-glavenus-greaves-beta-plus",
@@ -4333,11 +4333,11 @@ export default {
     },
     "armor-mr-anja-vambraces-alpha-plus": {
       "Key": "armor-mr-anja-vambraces-alpha-plus",
-      "Translation": "Anja + Brassards ⍺"
+      "Translation": "Anja Brassards ⍺ +"
     },
     "armor-mr-anja-vambraces-beta-plus": {
       "Key": "armor-mr-anja-vambraces-beta-plus",
-      "Translation": "ß Anja + vambraces"
+      "Translation": "ß Anja Brassards +"
     },
     "armor-mr-artian-alpha-plus": {
       "Key": "armor-mr-artian-alpha-plus",
@@ -8633,7 +8633,7 @@ export default {
     },
     "monster-barroth-useful-information": {
       "Key": "monster-barroth-useful-information",
-      "Translation": "Bien qu'il utilise la boue durcie comme une armure, Barroth peut aussi le jeter hors de son corps comme une attaque. Utiliser des armes d'éléments d'eau ou votre Slinger frapper peu à peu sa boue."
+      "Translation": "Bien qu'il utilise la boue durcie comme une armure, peut également Barroth le jeter hors de son corps comme d'une attaque. Utiliser des armes d'éléments d'eau ou votre Slinger frapper peu à peu sa boue."
     },
     "monster-bazelgeuse": {
       "Key": "monster-bazelgeuse",
@@ -9289,7 +9289,7 @@ export default {
     },
     "play-guide-armor-spheres-description": {
       "Key": "play-guide-armor-spheres-description",
-      "Translation": "Vous pouvez mettre à jour votre armure en utilisant des sphères d'armure. sphères d'armure peuvent être obtenus en récompense de quête ou en remplissant des primes au Centre des ressources."
+      "Translation": "Vous pouvez mettre à jour votre armure en utilisant des sphères d'armure. sphères d'armure peuvent être obtenus comme récompense de quête ou en remplissant des primes au Centre des ressources."
     },
     "play-guide-astera-news": {
       "Key": "play-guide-astera-news",
@@ -9401,7 +9401,7 @@ export default {
     },
     "play-guide-camera-types": {
       "Key": "play-guide-camera-types",
-      "Translation": "Types de l'appareil photo"
+      "Translation": "Types de caméra"
     },
     "play-guide-camera-types-description": {
       "Key": "play-guide-camera-types-description",
@@ -11181,7 +11181,7 @@ export default {
     },
     "quest-a-rush-of-blood-description": {
       "Key": "quest-a-rush-of-blood-description",
-      "Translation": "Oh non! Il y a ths grand ol » monstre qui ressemble beaucoup à notre Rush! Le Gottal de quelqu'un calme le grand garçon vers le bas! Aidez-nous, et nous allons vous donner quelques engins spéciaux pour votre Palico!"
+      "Translation": "Oh non! Il y a ths grand ol » monstre qui ressemble beaucoup à notre Rush! Le Gottal de quelqu'un calme le grand garçon vers le bas! Aidez-nous, et nous allons vous donner quelques engins spécial pour votre Palico!"
     },
     "quest-a-scalding-scoop": {
       "Key": "quest-a-scalding-scoop",
@@ -12085,7 +12085,7 @@ export default {
     },
     "quest-fungal-flexin-in-the-ancient-forest-description": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-description",
-      "Translation": "Suppléments? A ma cantine? Pfft! Nous sommes tous organiques, bébé! Si vous avez besoin de la vitamine D, obtenir un peu Gourmet Shroomcaps!"
+      "Translation": "Suppléments? A ma cantine? Pfft! Nous sommes tous bio, bébé! Si vous avez besoin de la vitamine D, obtenir un peu Gourmet Shroomcaps!"
     },
     "quest-fungal-flexin-in-the-ancient-forest-notable-rewards": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-notable-rewards",
@@ -13061,7 +13061,7 @@ export default {
     },
     "quest-royal-relocation-tips": {
       "Key": "quest-royal-relocation-tips",
-      "Translation": "Ne vous embêtez pas avec la protection de poison si vous ne pouvez pas empêcher complètement, juste apporter avec vous et Antidote utiliser l'équipement résistant au feu. À partir de Southwest Camp (1), vers le nord dans le secteur 2 forêt pour trouver la cible. Rathian est encore susceptible d'empoisonner malgré ses attaques empoisonnées de sorte que le Poisoncup dans le secteur 3 peuvent être utilisés. Son nid est de l'autre côté de la carte dans le secteur 12, Voyage rapide à l'Est Camp (11) et monter les vignes après l'eau."
+      "Translation": "Ne vous embêtez pas avec la protection de poison si vous ne pouvez pas empêcher complètement, juste apporter avec vous et Antidote utiliser l'équipement résistant au feu. À partir de Southwest Camp (1), vers le nord dans le secteur 2 forêt pour trouver la cible. Rathian est encore susceptible d'empoisonner malgré ses attaques empoisonnées de sorte que le Poisoncup dans le secteur 3 peuvent être utilisés. Son nid est de l'autre de la carte du secteur 12, Voyage rapide à l'Est Camp (11) et monter les vignes après l'eau."
     },
     "quest-rrrrrumble-in-the-waste": {
       "Key": "quest-rrrrrumble-in-the-waste",
@@ -13589,7 +13589,7 @@ export default {
     },
     "quest-the-heart-of-the-nora-description": {
       "Key": "quest-the-heart-of-the-nora-description",
-      "Translation": "Non ... Coeur de Mère! Les survivants se cachent dans la montagne seront enterrés si vous ne prenez pas tomber ces monstres. Surmonter cette menace et je vais vous fournir un équipement spécial!"
+      "Translation": "Non ... Coeur de Mère! Les survivants se cachent dans la montagne seront enterrés si vous ne prenez pas tomber ces monstres. Surmonter cette menace, et je vous fournir un équipement spécial!"
     },
     "quest-the-heralds-of-destruction-cry": {
       "Key": "quest-the-heralds-of-destruction-cry",
@@ -14369,7 +14369,7 @@ export default {
     },
     "skill-affinity-sliding-1": {
       "Key": "skill-affinity-sliding-1",
-      "Translation": "Augmente l'affinité de 30% pendant une courte période après glissement."
+      "Translation": "Augmente l'affinité de 30% pour une courte période après glissement."
     },
     "skill-affinity-sliding-description": {
       "Key": "skill-affinity-sliding-description",
@@ -14669,7 +14669,7 @@ export default {
     },
     "skill-bow-charge-plus-1": {
       "Key": "skill-bow-charge-plus-1",
-      "Translation": "Active effet de la compétence."
+      "Translation": "Effet de la compétence active."
     },
     "skill-bow-charge-plus-description": {
       "Key": "skill-bow-charge-plus-description",
@@ -14749,7 +14749,7 @@ export default {
     },
     "skill-coldproof-1": {
       "Key": "skill-coldproof-1",
-      "Translation": "Active effet de la compétence."
+      "Translation": "Effet de la compétence active."
     },
     "skill-coldproof-description": {
       "Key": "skill-coldproof-description",
@@ -15397,7 +15397,7 @@ export default {
     },
     "skill-guts-1": {
       "Key": "skill-guts-1",
-      "Translation": "Active effet de la compétence."
+      "Translation": "Effet de la compétence active."
     },
     "skill-guts-description": {
       "Key": "skill-guts-description",
@@ -15421,7 +15421,7 @@ export default {
     },
     "skill-handicraft-4": {
       "Key": "skill-handicraft-4",
-      "Translation": "netteté de l'arme + 40"
+      "Translation": "netteté Weapon + 40"
     },
     "skill-handicraft-5": {
       "Key": "skill-handicraft-5",
@@ -15437,7 +15437,7 @@ export default {
     },
     "skill-hasten-recovery-1": {
       "Key": "skill-hasten-recovery-1",
-      "Translation": "Active effet de la compétence."
+      "Translation": "Effet de la compétence active."
     },
     "skill-hasten-recovery-description": {
       "Key": "skill-hasten-recovery-description",
@@ -15829,7 +15829,7 @@ export default {
     },
     "skill-minds-eye-ballistics-1": {
       "Key": "skill-minds-eye-ballistics-1",
-      "Translation": "Active effet de la compétence."
+      "Translation": "Effet de la compétence active."
     },
     "skill-minds-eye-ballistics-description": {
       "Key": "skill-minds-eye-ballistics-description",
@@ -16201,7 +16201,7 @@ export default {
     },
     "skill-razor-sharp-spare-shot-1": {
       "Key": "skill-razor-sharp-spare-shot-1",
-      "Translation": "Active effet de la compétence."
+      "Translation": "Effet de la compétence active."
     },
     "skill-razor-sharp-spare-shot-description": {
       "Key": "skill-razor-sharp-spare-shot-description",
@@ -18029,7 +18029,7 @@ export default {
     },
     "weapon-dual-blades-luminous-daggers-ii": {
       "Key": "weapon-dual-blades-luminous-daggers-ii",
-      "Translation": "Lumineux Dagues II"
+      "Translation": "II lumineux Dagues"
     },
     "weapon-dual-blades-lurk-gold-twinblades": {
       "Key": "weapon-dual-blades-lurk-gold-twinblades",
@@ -20977,7 +20977,7 @@ export default {
     },
     "weapon-sword-and-shield-chief-kukri-i": {
       "Key": "weapon-sword-and-shield-chief-kukri-i",
-      "Translation": "Chef Kukri I"
+      "Translation": "Chef Koukri I"
     },
     "weapon-sword-and-shield-chief-kukri-ii": {
       "Key": "weapon-sword-and-shield-chief-kukri-ii",
@@ -21945,7 +21945,7 @@ export default {
     },
     "weapon-gunlance-soul-chariot": {
       "Key": "weapon-gunlance-soul-chariot",
-      "Translation": "Chariot âme"
+      "Translation": "Ame Chariot"
     },
     "weapon-gunlance-chariot-gun": {
       "Key": "weapon-gunlance-chariot-gun",
@@ -22182,5 +22182,297 @@ export default {
     "weapon-gunlance-gajalaka-firepike": {
       "Key": "weapon-gunlance-gajalaka-firepike",
       "Translation": "Gajalaka Firepike"
+    },
+    "weapon-dual-blades-chrome-cross-i": {
+      "Key": "weapon-dual-blades-chrome-cross-i",
+      "Translation": "Croix Chrome I"
+    },
+    "weapon-dual-blades-chrome-cross-ii": {
+      "Key": "weapon-dual-blades-chrome-cross-ii",
+      "Translation": "Croix II Chrome"
+    },
+    "weapon-dual-blades-chrome-cross-iii": {
+      "Key": "weapon-dual-blades-chrome-cross-iii",
+      "Translation": "Cross Chrome III"
+    },
+    "weapon-dual-blades-usurpers-fulgur": {
+      "Key": "weapon-dual-blades-usurpers-fulgur",
+      "Translation": "Fulgur de Usurpateur"
+    },
+    "weapon-dual-blades-usurpers-fulgur-plus": {
+      "Key": "weapon-dual-blades-usurpers-fulgur-plus",
+      "Translation": "Fulgur de Usurpateur +"
+    },
+    "weapon-dual-blades-despots-blitz": {
+      "Key": "weapon-dual-blades-despots-blitz",
+      "Translation": "Blitz Despot"
+    },
+    "weapon-dual-blades-ruinous-decimation": {
+      "Key": "weapon-dual-blades-ruinous-decimation",
+      "Translation": "ruineux décimation"
+    },
+    "weapon-dual-blades-cross-destroyers-i": {
+      "Key": "weapon-dual-blades-cross-destroyers-i",
+      "Translation": "Croix Destroyers I"
+    },
+    "weapon-dual-blades-cross-destroyers-ii": {
+      "Key": "weapon-dual-blades-cross-destroyers-ii",
+      "Translation": "Croix Destroyers II"
+    },
+    "weapon-dual-blades-hidden-tomahawk-i": {
+      "Key": "weapon-dual-blades-hidden-tomahawk-i",
+      "Translation": "Caché Tomahawk I"
+    },
+    "weapon-dual-blades-hidden-tomahawk-ii": {
+      "Key": "weapon-dual-blades-hidden-tomahawk-ii",
+      "Translation": "Caché Tomahawk II"
+    },
+    "weapon-dual-blades-blazing-warhawks": {
+      "Key": "weapon-dual-blades-blazing-warhawks",
+      "Translation": "Warhawks flamboyante"
+    },
+    "weapon-dual-blades-bazel-bombers": {
+      "Key": "weapon-dual-blades-bazel-bombers",
+      "Translation": "Bazel Bombers"
+    },
+    "weapon-dual-blades-blizzarioths": {
+      "Key": "weapon-dual-blades-blizzarioths",
+      "Translation": "Blizzarioths"
+    },
+    "weapon-dual-blades-blizzarioths-plus": {
+      "Key": "weapon-dual-blades-blizzarioths-plus",
+      "Translation": "Blizzarioths +"
+    },
+    "weapon-dual-blades-mountain-blizzarioths": {
+      "Key": "weapon-dual-blades-mountain-blizzarioths",
+      "Translation": "montagne Blizzarioths"
+    },
+    "weapon-dual-blades-asefar-al-nasr-i": {
+      "Key": "weapon-dual-blades-asefar-al-nasr-i",
+      "Translation": "Asefar al-Nasr I"
+    },
+    "weapon-dual-blades-asefar-al-nasr-ii": {
+      "Key": "weapon-dual-blades-asefar-al-nasr-ii",
+      "Translation": "Asefar al-Nasr II"
+    },
+    "weapon-dual-blades-rex-chain-ii": {
+      "Key": "weapon-dual-blades-rex-chain-ii",
+      "Translation": "Rex Chain II"
+    },
+    "weapon-dual-blades-accursed-chain": {
+      "Key": "weapon-dual-blades-accursed-chain",
+      "Translation": "chaîne maudite"
+    },
+    "weapon-dual-blades-twin-flames": {
+      "Key": "weapon-dual-blades-twin-flames",
+      "Translation": "Twin Flames"
+    },
+    "weapon-dual-blades-wyvern-lovers": {
+      "Key": "weapon-dual-blades-wyvern-lovers",
+      "Translation": "Wyvern Lovers"
+    },
+    "weapon-dual-blades-guild-knight-sabers": {
+      "Key": "weapon-dual-blades-guild-knight-sabers",
+      "Translation": "Guilde chevalier Sabres"
+    },
+    "weapon-dual-blades-master-sabers": {
+      "Key": "weapon-dual-blades-master-sabers",
+      "Translation": "maître Sabres"
+    },
+    "weapon-dual-blades-holy-guild-knight": {
+      "Key": "weapon-dual-blades-holy-guild-knight",
+      "Translation": "Saint-Guilde Chevalier"
+    },
+    "weapon-dual-blades-hulking-choppers-i": {
+      "Key": "weapon-dual-blades-hulking-choppers-i",
+      "Translation": "Massifs Choppers I"
+    },
+    "weapon-dual-blades-hulking-choppers-ii": {
+      "Key": "weapon-dual-blades-hulking-choppers-ii",
+      "Translation": "Massifs Choppers II"
+    },
+    "weapon-dual-blades-hulking-choppers-iii": {
+      "Key": "weapon-dual-blades-hulking-choppers-iii",
+      "Translation": "Hulking Choppers III"
+    },
+    "weapon-dual-blades-icefeather": {
+      "Key": "weapon-dual-blades-icefeather",
+      "Translation": "Icefeather"
+    },
+    "weapon-dual-blades-untouched-hel": {
+      "Key": "weapon-dual-blades-untouched-hel",
+      "Translation": "Untouched Hel"
+    },
+    "weapon-dual-blades-anja-twinrippers-i": {
+      "Key": "weapon-dual-blades-anja-twinrippers-i",
+      "Translation": "Anja Twinrippers I"
+    },
+    "weapon-dual-blades-anja-twinrippers-ii": {
+      "Key": "weapon-dual-blades-anja-twinrippers-ii",
+      "Translation": "Anja Twinrippers II"
+    },
+    "weapon-dual-blades-fulguring-tornado-i": {
+      "Key": "weapon-dual-blades-fulguring-tornado-i",
+      "Translation": "Fulguring Tornado I"
+    },
+    "weapon-dual-blades-fulguring-tornado-ii": {
+      "Key": "weapon-dual-blades-fulguring-tornado-ii",
+      "Translation": "Fulguring Tornado II"
+    },
+    "weapon-dual-blades-diablos-clubs-iii": {
+      "Key": "weapon-dual-blades-diablos-clubs-iii",
+      "Translation": "Diablos Clubs III"
+    },
+    "weapon-dual-blades-thanatos-mauls": {
+      "Key": "weapon-dual-blades-thanatos-mauls",
+      "Translation": "Thanatos Mauls"
+    },
+    "weapon-dual-blades-sulfurteinn-ortho": {
+      "Key": "weapon-dual-blades-sulfurteinn-ortho",
+      "Translation": "Sulfurteinn Ortho"
+    },
+    "weapon-dual-blades-the-stripping-shears": {
+      "Key": "weapon-dual-blades-the-stripping-shears",
+      "Translation": "Les ciseaux de découverture"
+    },
+    "weapon-dual-blades-mammoth-direbones-i": {
+      "Key": "weapon-dual-blades-mammoth-direbones-i",
+      "Translation": "Mammoth Direbones I"
+    },
+    "weapon-dual-blades-mammoth-direbones-ii": {
+      "Key": "weapon-dual-blades-mammoth-direbones-ii",
+      "Translation": "Mammoth Direbones II"
+    },
+    "weapon-dual-blades-jyura-keenblades-i": {
+      "Key": "weapon-dual-blades-jyura-keenblades-i",
+      "Translation": "Jyura Keenblades I"
+    },
+    "weapon-dual-blades-jyura-keenblades-ii": {
+      "Key": "weapon-dual-blades-jyura-keenblades-ii",
+      "Translation": "Jyura Keenblades II"
+    },
+    "weapon-dual-blades-raven-tessen": {
+      "Key": "weapon-dual-blades-raven-tessen",
+      "Translation": "Raven Tessen"
+    },
+    "weapon-dual-blades-wolf-tessen": {
+      "Key": "weapon-dual-blades-wolf-tessen",
+      "Translation": "loup Tessen"
+    },
+    "weapon-dual-blades-beo-hatchets-i": {
+      "Key": "weapon-dual-blades-beo-hatchets-i",
+      "Translation": "Beo hachettes I"
+    },
+    "weapon-dual-blades-beo-hatchets-ii": {
+      "Key": "weapon-dual-blades-beo-hatchets-ii",
+      "Translation": "Beo II hachettes"
+    },
+    "weapon-dual-blades-shattering-flames-i": {
+      "Key": "weapon-dual-blades-shattering-flames-i",
+      "Translation": "Shattering Flames I"
+    },
+    "weapon-dual-blades-shattering-flames-ii": {
+      "Key": "weapon-dual-blades-shattering-flames-ii",
+      "Translation": "Shattering Flames II"
+    },
+    "weapon-dual-blades-smoldering-cities": {
+      "Key": "weapon-dual-blades-smoldering-cities",
+      "Translation": "Villes fumantes"
+    },
+    "weapon-dual-blades-smoldering-cities-plus": {
+      "Key": "weapon-dual-blades-smoldering-cities-plus",
+      "Translation": "Couvant Villes +"
+    },
+    "weapon-dual-blades-smoldering-kingdoms": {
+      "Key": "weapon-dual-blades-smoldering-kingdoms",
+      "Translation": "Ambres Royaumes"
+    },
+    "weapon-dual-blades-abyss-eaters-i": {
+      "Key": "weapon-dual-blades-abyss-eaters-i",
+      "Translation": "Abyss Eaters I"
+    },
+    "weapon-dual-blades-abyss-eaters-ii": {
+      "Key": "weapon-dual-blades-abyss-eaters-ii",
+      "Translation": "Abyss Eaters II"
+    },
+    "weapon-dual-blades-brachydios-blasters-i": {
+      "Key": "weapon-dual-blades-brachydios-blasters-i",
+      "Translation": "Brachydios Blasters I"
+    },
+    "weapon-dual-blades-brachydios-blasters-ii": {
+      "Key": "weapon-dual-blades-brachydios-blasters-ii",
+      "Translation": "Brachydios Blasters II"
+    },
+    "weapon-dual-blades-kadachi-greathawks-i": {
+      "Key": "weapon-dual-blades-kadachi-greathawks-i",
+      "Translation": "Kadachi Greathawks I"
+    },
+    "weapon-dual-blades-kadachi-greathawks-ii": {
+      "Key": "weapon-dual-blades-kadachi-greathawks-ii",
+      "Translation": "Kadachi Greathawks II"
+    },
+    "weapon-dual-blades-crimson-viperclaws-i": {
+      "Key": "weapon-dual-blades-crimson-viperclaws-i",
+      "Translation": "Crimson Viperclaws I"
+    },
+    "weapon-dual-blades-crimson-viperclaws-ii": {
+      "Key": "weapon-dual-blades-crimson-viperclaws-ii",
+      "Translation": "Crimson Viperclaws II"
+    },
+    "weapon-dual-blades-sin-plus": {
+      "Key": "weapon-dual-blades-sin-plus",
+      "Translation": "Sin +"
+    },
+    "weapon-dual-blades-crime": {
+      "Key": "weapon-dual-blades-crime",
+      "Translation": "la criminalité"
+    },
+    "weapon-dual-blades-nether-chainblades": {
+      "Key": "weapon-dual-blades-nether-chainblades",
+      "Translation": "Nether Chainblades"
+    },
+    "weapon-dual-blades-death-row": {
+      "Key": "weapon-dual-blades-death-row",
+      "Translation": "Couloir de la mort"
+    },
+    "weapon-dual-blades-enduring-sacrifice": {
+      "Key": "weapon-dual-blades-enduring-sacrifice",
+      "Translation": "Sacrifice Enduring"
+    },
+    "weapon-dual-blades-enduring-surrender": {
+      "Key": "weapon-dual-blades-enduring-surrender",
+      "Translation": "Remise Enduring"
+    },
+    "weapon-dual-blades-wunderkirins": {
+      "Key": "weapon-dual-blades-wunderkirins",
+      "Translation": "Wunderkirins"
+    },
+    "weapon-dual-blades-magdaros-volcancross": {
+      "Key": "weapon-dual-blades-magdaros-volcancross",
+      "Translation": "Magdaros Volcancross"
+    },
+    "weapon-dual-blades-blizzard-and-blaze": {
+      "Key": "weapon-dual-blades-blizzard-and-blaze",
+      "Translation": "Blizzard et Blaze"
+    },
+    "weapon-dual-blades-soulfire-fangs-blaze": {
+      "Key": "weapon-dual-blades-soulfire-fangs-blaze",
+      "Translation": "Soulfire Fangs \"Blaze\""
+    },
+    "weapon-dual-blades-soulfire-fangs-styx": {
+      "Key": "weapon-dual-blades-soulfire-fangs-styx",
+      "Translation": "Soulfire Fangs \"Styx\""
+    },
+    "weapon-dual-blades-downy-paradise": {
+      "Key": "weapon-dual-blades-downy-paradise",
+      "Translation": "Downy Paradise"
+    },
+    "weapon-dual-blades-suzuka-takamaru": {
+      "Key": "weapon-dual-blades-suzuka-takamaru",
+      "Translation": "Suzuka Takamaru"
+    },
+    "weapon-dual-blades-suzuka-otakemaru": {
+      "Key": "weapon-dual-blades-suzuka-otakemaru",
+      "Translation": "Suzuka Otakemaru"
     }
   }
