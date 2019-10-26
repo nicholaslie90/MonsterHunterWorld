@@ -19252,7 +19252,7 @@ let dualBladesTree = [{
             'attack': '322',
             'sharpness': 'white',
             'affinity': '10%',
-            'element': 'Poison 270',
+            'element': 'Poison 270, Fire 270',
             'slots': '1 - -',
             'cost': '24000',
             'materials': [{
@@ -19283,7 +19283,7 @@ let dualBladesTree = [{
             'attack': '336',
             'sharpness': 'white',
             'affinity': '10%',
-            'element': 'Poison 300',
+            'element': 'Poison 300, Fire 300',
             'slots': '1 - -',
             'cost': '32000',
             'materials': [{
@@ -19314,7 +19314,7 @@ let dualBladesTree = [{
             'attack': '378',
             'sharpness': 'white',
             'affinity': '15%',
-            'element': 'Poison 360',
+            'element': 'Poison 360, Fire 360',
             'slots': '2 - -',
             'cost': '80000',
             'materials': [{
@@ -20813,6 +20813,138 @@ let dualBladesTree = [{
         },]
     },
     {
+        title: 'weapon-tree-banbaro-tree',
+        data: [{
+            'name': 'Mammoth Direbones I',
+            'from': 'Diablos Clubs II',
+            'translationKey': 'weapon-dual-blades-mammoth-direbones-i',
+            'icon': require('./assets/weapons/dual_blades/mammoth_direbones_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/9-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '9',
+            'attack': '336',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Ice (330)',
+            'slots': '4 - -',
+            'cost': '20000',
+            'materials': [{
+                    'name': 'Banbaro Great Horn',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Banbaro Cortex',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Banbaro Chine',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Monster Toughbone',
+                    'quantity': '3'
+                }
+            ],
+        }, {
+            'name': 'Mammoth Direbones II',
+            'from': 'Mammoth Direbones I',
+            'translationKey': 'weapon-dual-blades-mammoth-direbones-ii',
+            'icon': require('./assets/weapons/dual_blades/mammoth_direbones_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '10',
+            'attack': '392',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Ice (360)',
+            'slots': '4 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Monster Solidbone',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Banbaro Great Horn',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Banbaro Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Dragonbone Artifact',
+                    'quantity': '1'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-banbaro-tree',
+        data: [{
+            'name': 'Mammoth Longblade I',
+            'from': 'Jyura Hatchets III',
+            'translationKey': 'weapon-long-sword-mammoth-longblade-i',
+            'icon': require('./assets/weapons/long_sword/mammoth_longblade_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/9-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '9',
+            'attack': '825',
+            'sharpness': 'blue',
+            'affinity': '0%',
+            'element': 'Ice 220',
+            'slots': '4 - -',
+            'cost': '20000',
+            'materials': [{
+                    'name': 'Banbaro Great Horn',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Banbaro Cortex',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Banbaro Chine',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Monster Toughbone',
+                    'quantity': '3'
+                }
+            ],
+        }, {
+            'name': 'Mammoth Longblade II',
+            'from': 'Mammoth Longblade I',
+            'translationKey': 'weapon-long-sword-mammoth-longblade-ii',
+            'icon': require('./assets/weapons/long_sword/mammoth_longblade_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
+            'type': 'Long Sword',
+            'rarity': '10',
+            'attack': '924',
+            'sharpness': 'blue',
+            'affinity': '0%',
+            'element': 'Ice 340',
+            'slots': '4 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Monster Solidbone',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Banbaro Great Horn',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Banbaro Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Dragonbone Artifact',
+                    'quantity': '1'
+                }
+            ],
+        },]
+    },
+    {
         title: 'weapon-tree-jyuratodus-tree',
         data: [{
                 'name': 'Madness Pangas I',
@@ -21105,70 +21237,200 @@ let dualBladesTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Jyura Keenblades I',
+                'from': 'Jyura Hatchets III',
+                'translationKey': 'weapon-dual-blades-jyura-keenblades-i',
+                'icon': require('./assets/weapons/dual_blades/jyura_keenblades_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-dual-blades.png'),
+                'type': 'Dual Blades',
+                'rarity': '9',
+                'attack': '322',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Water 240',
+                'slots': '3 - -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Jyuratodus Grandfin',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Jyuratodus Hardfang',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Jyuratodus Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Gajau Thickhide',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Jyura Keenblades II',
+                'from': 'Jyura Keenblades I',
+                'translationKey': 'weapon-dual-blades-jyura-keenblades-ii',
+                'icon': require('./assets/weapons/dual_blades/jyura_keenblades_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+                'type': 'Dual Blades',
+                'rarity': '10',
+                'attack': '364',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Water 300',
+                'slots': '3 1 -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Monster Slogbone',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Jyuratodus Grandfin',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Flood Sac',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Steel Gajau Whisker',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
-        title: 'weapon-tree-banbaro-tree',
+        title: 'weapon-tree-yian-garuga-tree',
         data: [{
-            'name': 'Mammoth Longblade I',
-            'from': 'Jyura Hatchets III',
-            'translationKey': 'weapon-long-sword-mammoth-longblade-i',
-            'icon': require('./assets/weapons/long_sword/mammoth_longblade_i.png'),
-            'weaponIcon': require('./assets/weapons/rarity/9-long-sword.png'),
-            'type': 'Long Sword',
-            'rarity': '9',
-            'attack': '825',
-            'sharpness': 'blue',
-            'affinity': '0%',
-            'element': 'Ice 220',
-            'slots': '4 - -',
-            'cost': '20000',
+            'name': 'Raven Tessen',
+            'from': 'Jyura Keenblades I',
+            'translationKey': 'weapon-dual-blades-raven-tessen',
+            'icon': require('./assets/weapons/dual_blades/raven_tessen.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '10',
+            'attack': '350',
+            'sharpness': 'purple',
+            'affinity': '15%',
+            'element': 'Poison 180',
+            'slots': '3 - -',
+            'cost': '32000',
             'materials': [{
-                    'name': 'Banbaro Great Horn',
-                    'quantity': '1'
-                },
-                {
-                    'name': 'Banbaro Cortex',
-                    'quantity': '2'
-                },
-                {
-                    'name': 'Banbaro Chine',
-                    'quantity': '2'
-                },
-                {
-                    'name': 'Monster Toughbone',
+                    'name': 'Garuga Shard',
                     'quantity': '3'
+                },
+                {
+                    'name': 'Garuga Silverpelt',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Garuga Auricle',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Fey Wyvern Gem',
+                    'quantity': '1'
                 }
             ],
         }, {
-            'name': 'Mammoth Longblade II',
-            'from': 'Mammoth Longblade I',
-            'translationKey': 'weapon-long-sword-mammoth-longblade-ii',
-            'icon': require('./assets/weapons/long_sword/mammoth_longblade_ii.png'),
-            'weaponIcon': require('./assets/weapons/rarity/10-long-sword.png'),
-            'type': 'Long Sword',
-            'rarity': '10',
-            'attack': '924',
-            'sharpness': 'blue',
-            'affinity': '0%',
-            'element': 'Ice 340',
-            'slots': '4 - -',
-            'cost': '32000',
+            'name': 'Wolf Tessen',
+            'from': 'Raven Tessen',
+            'translationKey': 'weapon-dual-blades-wolf-tessen',
+            'icon': require('./assets/weapons/dual_blades/wolf_tessen.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '11',
+            'attack': '378',
+            'sharpness': 'purple',
+            'affinity': '20%',
+            'element': 'Poison 210',
+            'slots': '3 - -',
+            'cost': '56000',
             'materials': [{
-                    'name': 'Monster Solidbone',
+                    'name': 'Scratched Shell',
                     'quantity': '3'
                 },
                 {
-                    'name': 'Banbaro Great Horn',
-                    'quantity': '3'
-                },
-                {
-                    'name': 'Banbaro Lash',
+                    'name': 'Garuga Fellwing',
                     'quantity': '2'
                 },
                 {
-                    'name': 'Dragonbone Artifact',
+                    'name': 'Fancy Beak',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Large Wyvern Gem',
+                    'quantity': '1'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-beotodus-tree',
+        data: [{
+            'name': 'Beo Hatchets I',
+            'from': 'Jyura Hatchets III',
+            'translationKey': 'weapon-dual-blades-beo-hatchets-i',
+            'icon': require('./assets/weapons/dual_blades/beo_hatchets_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/9-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '9',
+            'attack': '294',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Ice 270',
+            'slots': '2 1 -',
+            'cost': '16000',
+            'materials': [{
+                    'name': 'Beotodus Grandfin',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Beotodus Hardhorn',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Beotodus Shard',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Frozen Bone',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Beo Hatchets II',
+            'from': 'Beo Hatchets I',
+            'translationKey': 'weapon-dual-blades-beo-hatchets-ii',
+            'icon': require('./assets/weapons/dual_blades/beo_hatchets_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '10',
+            'attack': '350',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Ice 360',
+            'slots': '2 1 -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Rimed Hide',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Beotodus Grandfin',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Cryo Sac',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Large Wyvern Gem',
                     'quantity': '1'
                 }
             ],
@@ -21271,8 +21533,169 @@ let dualBladesTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Shattering Flames I',
+                'from': 'Lava Cyclone II',
+                'translationKey': 'weapon-dual-blades-shattering-flames-i',
+                'icon': require('./assets/weapons/dual_blades/shattering_flames_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+                'type': 'Dual Blades',
+                'rarity': '10',
+                'attack': '350',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Fire 180',
+                'slots': '4 2 -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Lavasioth Grandfin',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Lavasioth Hardfang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Lavasioth Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Barnos Hardclaw',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Shattering Flames II',
+                'from': 'Shattering Flames I',
+                'translationKey': 'weapon-dual-blades-shattering-flames-ii',
+                'icon': require('./assets/weapons/dual_blades/shattering_flames_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+                'type': 'Dual Blades',
+                'rarity': '10',
+                'attack': '364',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Fire 210',
+                'slots': '4 2 -',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Azure Rathalos Cortex',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Lavasioth Grandfin',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Lavasioth Hardfang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Monster Solidbone',
+                        'quantity': '3'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-glavenus-tree',
+        data: [{
+            'name': 'Smoldering Cities',
+            'from': 'Lava Cyclone II',
+            'translationKey': 'weapon-dual-blades-smoldering-cities',
+            'icon': require('./assets/weapons/dual_blades/smoldering_cities.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '10',
+            'attack': '308',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Fire 150',
+            'slots': '1 - -',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Glavenus Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Molten Bursa',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Eltalite Ore',
+                    'quantity': '6'
+                }
+            ],
+        }, {
+            'name': 'Smoldering Cities+',
+            'from': 'Smoldering Cities',
+            'translationKey': 'weapon-dual-blades-smoldering-cities-plus',
+            'icon': require('./assets/weapons/dual_blades/smoldering_cities_plus.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '10',
+            'attack': '336',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Fire 180',
+            'slots': '1 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Ebony Odogaron Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Hellshell',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Glavenus Tailedge',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Mantle',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Smoldering Kingdoms',
+            'from': 'Smoldering Cities+',
+            'translationKey': 'weapon-dual-blades-smoldering-kingdoms',
+            'icon': require('./assets/weapons/dual_blades/smoldering_kingdoms.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '11',
+            'attack': '364',
+            'sharpness': 'purple',
+            'affinity': '0%',
+            'element': 'Fire 240',
+            'slots': '1 - -',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Fire Dragon Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Hardfang',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Glavenus Hellshell',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Pure Dragon Blood',
+                    'quantity': '3'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-hornetaur-tree',
@@ -21519,8 +21942,137 @@ let dualBladesTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Abyss Eaters I',
+                'from': 'Dark Ripper III',
+                'translationKey': 'weapon-dual-blades-abyss-eaters-i',
+                'icon': require('./assets/weapons/dual_blades/abyss_eaters_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-dual-blades.png'),
+                'type': 'Dual Blades',
+                'rarity': '9',
+                'attack': '280',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Paralysis (150)',
+                'slots': '2 - -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Hornetaur Razorwing',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tough Claw',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Monster Essence',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Spiritvein Crystal',
+                        'quantity': '3'
+                    }
+                ],
+            },
+            {
+                'name': 'Abyss Eaters II',
+                'from': 'Abyss Eaters I',
+                'translationKey': 'weapon-dual-blades-abyss-eaters-ii',
+                'icon': require('./assets/weapons/dual_blades/abyss_eaters_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+                'type': 'Dual Blades',
+                'rarity': '10',
+                'attack': '322',
+                'sharpness': 'purple',
+                'affinity': '0%',
+                'element': 'Paralysis (210)',
+                'slots': '2 - -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Odogaron Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Hornetaur Razorwing',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Monster Essence',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Dragonbone Artifact',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-brachydios-tree',
+        data: [{
+            'name': 'Brachydios Blasters I',
+            'from': 'Abyss Eaters I',
+            'translationKey': 'weapon-dual-blades-brachydios-blasters-i',
+            'icon': require('./assets/weapons/dual_blades/brachydios_blasters_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '10',
+            'attack': '308',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Blast 240',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Brachydios Crown',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Brachydios Cortex',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Glowing Slime',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Meldspar Ore',
+                    'quantity': '3'
+                }
+            ],
+        }, {
+            'name': 'Brachydios Blasters II',
+            'from': 'Brachydios Blasters I',
+            'translationKey': 'weapon-dual-blades-brachydios-blasters-ii',
+            'icon': require('./assets/weapons/dual_blades/brachydios_blasters_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '10',
+            'attack': '336',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Blast 300',
+            'slots': '1 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Azure Rathalos Fellwing',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Brachydios Pounder+',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Brachydios Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glowing Slime',
+                    'quantity': '5'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-tobi-kadachi-tree',
@@ -21816,8 +22368,138 @@ let dualBladesTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Kadachi Greathawks I',
+                'from': 'Kadachi Claws III',
+                'translationKey': 'weapon-dual-blades-kadachi-greathawks-i',
+                'icon': require('./assets/weapons/dual_blades/kadachi_greathawks_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-dual-blades.png'),
+                'type': 'Dual Blades',
+                'rarity': '9',
+                'attack': '294',
+                'sharpness': 'white',
+                'affinity': '10%',
+                'element': 'Thunder 210',
+                'slots': '1 - -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Tobi-Kadachi Hardclaw',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Shard',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Thickfur',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Lightning Sac',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Kadachi Greathawks II',
+                'from': 'Kadachi Greathawks I',
+                'translationKey': 'weapon-dual-blades-kadachi-greathawks-ii',
+                'icon': require('./assets/weapons/dual_blades/kadachi_greathawks_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+                'type': 'Dual Blades',
+                'rarity': '10',
+                'attack': '322',
+                'sharpness': 'purple',
+                'affinity': '10%',
+                'element': 'Thunder 330',
+                'slots': '1 - -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Hard Odogaron Sinew',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Cathode',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Membrane+',
+                        'quantity': '2'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-viper-kadachi-tree',
+        data: [{
+            'name': 'Crimson Viperclaws I',
+            'from': 'Kadachi Greathawks I',
+            'translationKey': 'weapon-dual-blades-crimson-viperclaws-i',
+            'icon': require('./assets/weapons/dual_blades/crimson_viperclaws_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/9-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '9',
+            'attack': '322',
+            'sharpness': 'white',
+            'affinity': '10%',
+            'element': 'Poison 240',
+            'slots': '1 - -',
+            'cost': '20000',
+            'materials': [{
+                    'name': 'Viper Tobi-Kadachi Hardclaw',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Viper Tobi-Kadachi Shard',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Viper Tobi-Kadachi Thickfur',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Deadly Poison Sac',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Crimson Viperclaws II',
+            'from': 'Crimson Viperclaws I',
+            'translationKey': 'weapon-dual-blades-crimson-viperclaws-ii',
+            'icon': require('./assets/weapons/dual_blades/crimson_viperclaws_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '10',
+            'attack': '350',
+            'sharpness': 'purple',
+            'affinity': '10%',
+            'element': 'Poison 270',
+            'slots': '1 1 -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Acidic Glavenus Spineshell',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Viper Tobi-Kadachi Thorn',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Viper Tobi-Kadachi Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Viper Tobi-Kadachi Membrane+',
+                    'quantity': '2'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-odogaron-tree',
@@ -22012,8 +22694,136 @@ let dualBladesTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Sin+',
+                'from': 'Sin',
+                'translationKey': 'weapon-dual-blades-sin-plus',
+                'icon': require('./assets/weapons/dual_blades/sin_plus.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+                'type': 'Dual Blades',
+                'rarity': '10',
+                'attack': '308',
+                'sharpness': 'white',
+                'affinity': '20%',
+                'element': 'Fire (210)',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Odogaron Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Odogaron Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Odogaron Hardfang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    }
+                ],
+            },
+            {
+                'name': 'Crime',
+                'from': 'Sin+',
+                'translationKey': 'weapon-dual-blades-crime',
+                'icon': require('./assets/weapons/dual_blades/crime.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+                'type': 'Dual Blades',
+                'rarity': '10',
+                'attack': '322',
+                'sharpness': 'white',
+                'affinity': '30%',
+                'element': 'Fire (300)',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Acidic Glavenus Tailedge',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Odogaron Hardclaw',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Odogaron Lash',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Odogaron Mantle',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-ebony-odogaron-tree',
+        data: [{
+            'name': 'Nether Chainblades',
+            'from': 'Sin+',
+            'translationKey': 'weapon-dual-blades-nether-chainblades',
+            'icon': require('./assets/weapons/dual_blades/nether_chainblades.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '10',
+            'attack': '322',
+            'sharpness': 'white',
+            'affinity': '20%',
+            'element': 'Dragon 240',
+            'elderseal': 'High',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Ebony Odogaron Hardclaw',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Ebony Odogaron Shard',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Ebony Odogaron Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Dragonbone Artifact',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Death Row',
+            'from': 'Nether Chainblades',
+            'translationKey': 'weapon-dual-blades-death-row',
+            'icon': require('./assets/weapons/dual_blades/death_row.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '11',
+            'attack': '336',
+            'sharpness': 'white',
+            'affinity': '20%',
+            'element': 'Dragon 300',
+            'elderseal': 'High',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Namielle Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Ebony Odogaron Hardclaw',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Ebony Odogaron Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Ebony Odogaron Mantle',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-dragonbone-tree',
@@ -22158,8 +22968,111 @@ let dualBladesTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Enduring Sacrifice',
+                'from': 'Enduring Schism',
+                'translationKey': 'weapon-dual-blades-enduring-sacrifice',
+                'icon': require('./assets/weapons/dual_blades/enduring_sacrifice.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-dual-blades.png'),
+                'type': 'Dual Blades',
+                'rarity': '10',
+                'attack': '294',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 390',
+                'elderseal': 'Average',
+                'slots': '1 1 -',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Monster Solidbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Monster Slogbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Thick Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Dragonbone Artifact',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Enduring Surrender',
+                'from': 'Enduring Sacrifice',
+                'translationKey': 'weapon-dual-blades-enduring-surrender',
+                'icon': require('./assets/weapons/dual_blades/enduring_surrender.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-dual-blades.png'),
+                'type': 'Dual Blades',
+                'rarity': '11',
+                'attack': '336',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 510',
+                'elderseal': 'Average',
+                'slots': '1 1 -',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Large Elder Dragon Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Monster Solidbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Lavasioth Grandfin',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Large Wyvern GEm',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-shara-ishvalda-tree',
+        data: [{
+            'name': 'Boundless Farsight',
+            'from': 'Enduring Sacrifice',
+            'translationKey': 'weapon-dual-blades-boundless-farsight',
+            'icon': require('./assets/weapons/dual_blades/boundless_farsight.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '12',
+            'attack': '392',
+            'sharpness': 'purple',
+            'affinity': '0%',
+            'element': 'Dragon (330)',
+            'elderseal': 'High',
+            'slots': '1 1 -',
+            'defenseBonus': '+30',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Shara Ishvalda Tenderclaw',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Shara Ishvalda Tenderscale',
+                    'quantity': '6'
+                },
+                {
+                    'name': 'Shara Ishvalda Tenderplate',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Shara Ishvalda Gem',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-kirin-tree',
@@ -22309,7 +23222,38 @@ let dualBladesTree = [{
                         'quantity': '2'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Wunderkirins',
+                'from': 'Monarch',
+                'translationKey': 'weapon-dual-blades-wunderkirins',
+                'icon': require('./assets/weapons/dual_blades/wunderkirins.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-dual-blades.png'),
+                'type': 'Dual Blades',
+                'rarity': '11',
+                'attack': '336',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Thunder 450',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Kirin Azure Horn+',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Kirin Finehide',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Kirin Silvermane',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Purecrystal',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -22415,11 +23359,44 @@ let dualBladesTree = [{
                         'quantity': '3'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Magdaros Volcancross',
+                'from': 'Magda Ungulae II',
+                'translationKey': 'weapon-dual-blades-magdaros-volcancross',
+                'icon': require('./assets/weapons/dual_blades/magdaros_volcancross.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-dual-blades.png'),
+                'type': 'Dual Blades',
+                'rarity': '11',
+                'attack': '392',
+                'sharpness': 'white',
+                'affinity': '-20%',
+                'element': 'Blast 240',
+                'slots': '2 - -',
+                'defenseBonus': '+45',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Elder Dragonvein Bone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Dragonvein Solidbone',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Heavy Dragonvein Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Large Elder Dragon Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
-        title: 'Blacksteel Twins I',
+        title: 'weapon-tree-blacksteel-tree',
         data: [{
                 'name': 'Blacksteel Twins I',
                 'translationKey': 'weapon-dual-blades-blacksteel-twins-i',
@@ -22614,7 +23591,39 @@ let dualBladesTree = [{
                         'quantity': '2'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Blizzard and Blaze',
+                'from': 'Fire and Ice',
+                'translationKey': 'weapon-dual-blades-blizzard-and-blaze',
+                'icon': require('./assets/weapons/dual_blades/blizzard_and_blaze.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-dual-blades.png'),
+                'type': 'Dual Blades',
+                'rarity': '11',
+                'attack': '364',
+                'sharpness': 'purple',
+                'affinity': '10%',
+                'element': 'Ice 330, Blast 330',
+                'slots': '2 - -',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Daora Hardclaw',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Fire Dragon Hardclaw',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Purecrystal',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Large Elder Dragon Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -22769,6 +23778,37 @@ let dualBladesTree = [{
                     'quantity': '1'
                 }
             ]
+        }, {
+            'name': 'Consummate Pair',
+            'from': 'Wrathful Predation',
+            'translationKey': 'weapon-dual-blades-consummate-pair',
+            'icon': require('./assets/weapons/dual_blades/consummate_pair.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '12',
+            'attack': '392',
+            'sharpness': 'purple',
+            'affinity': '-15%',
+            'element': 'Dragon 210',
+            'elderseal': 'High',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Vile Fang',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Deviljho Rapper',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Black Blood',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Deviljho Crook',
+                    'quantity': '1'
+                }
+            ],
         }, ]
     },
     {
@@ -23332,7 +24372,42 @@ let dualBladesTree = [{
                 'name': 'Guts',
                 'level': '1',
             }, ],
-        }, ]
+        }, {
+            'name': 'Soulfire Fangs "Blaze"',
+            'from': 'Empress Daggers "Blaze"',
+            'translationKey': 'weapon-dual-blades-soulfire-fangs-blaze',
+            'icon': require('./assets/weapons/dual_blades/soulfire_fangs_blaze.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '12',
+            'attack': '350',
+            'sharpness': 'purple',
+            'affinity': '20%',
+            'element': 'Blast 120',
+            'slots': '2 1 -',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Lunastra Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Lunastra Hardhorn',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Lunastra Mane+',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Large Elder Dragon Gem',
+                    'quantity': '1'
+                }
+            ],
+            'skills': [{
+                'name': 'Guts',
+                'level': '1'
+            },]
+        },]
     },
     {
         title: 'weapon-tree-lunastra-nergigante-tree',
@@ -23372,7 +24447,42 @@ let dualBladesTree = [{
                 'name': 'Hasten Recovery',
                 'level': '1',
             }, ],
-        }, ]
+        }, {
+            'name': 'Soulfire Fangs "Ruin"',
+            'from': 'Empress Daggers "Ruin"',
+            'translationKey': 'weapon-dual-blades-soulfire-fangs-ruin',
+            'icon': require('./assets/weapons/dual_blades/soulfire_fangs_ruin.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '12',
+            'attack': '378',
+            'sharpness': 'purple',
+            'affinity': '0%',
+            'element': 'Blast 90',
+            'slots': '2 2 -',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Lunastra Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Annihilating Greathorn',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Eternal Regrowth Plate',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Large Elder Dragon Gem',
+                    'quantity': '1'
+                }
+            ],
+            'skills': [{
+                'name': 'Hasten Recovery',
+                'level': '1'
+            },]
+        },]
     },
     {
         title: 'weapon-tree-lunastra-xenojiiva-tree',
@@ -23412,7 +24522,42 @@ let dualBladesTree = [{
                 'name': 'Razor Sharp/Spare Shot',
                 'level': '1',
             }, ],
-        }, ]
+        }, {
+            'name': 'Soulfire Fangs "Styx"',
+            'from': 'Empress Daggers "Styx"',
+            'translationKey': 'weapon-dual-blades-soulfire-fangs-styx',
+            'icon': require('./assets/weapons/dual_blades/soulfire_fangs_styx.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '12',
+            'attack': '350',
+            'sharpness': 'purple',
+            'affinity': '10%',
+            'element': 'Blast 150',
+            'slots': '3 3 -',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Lunastra Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Lunastra Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Elder Spiritvein Bone',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Large Elder Dragon Gem',
+                    'quantity': '1'
+                }
+            ],
+            'skills': [{
+                'name': 'Razor Sharp/Spare Shot',
+                'level': '1'
+            },]
+        },]
     },
     {
         title: 'weapon-tree-workshop-weapon-tree',
@@ -23478,7 +24623,37 @@ let dualBladesTree = [{
                     'quantity': '1'
                 }
             ],
-        }, ]
+        }, {
+            'name': 'Downy Paradise',
+            'from': 'Downy Crake Love',
+            'translationKey': 'weapon-dual-blades-downy-paradise',
+            'icon': require('./assets/weapons/dual_blades/downy_paradise.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '11',
+            'attack': '364',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Sleep 180',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Research Commission Ticket+',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Paolumu Thickfur',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Torpor Sac',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Conqueror\'s Seal',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-the-witcher-tree',
@@ -23516,7 +24691,72 @@ let dualBladesTree = [{
                 }
             ],
         }, ]
-    }
+    },
+    {
+        title: 'weapon-tree-rajang-tree',
+        data: [{
+            'name': 'Suzuka Takamaru',
+            'translationKey': 'weapon-dual-blades-suzuka-takamaru',
+            'icon': require('./assets/weapons/dual_blades/suzuka_takamaru.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '11',
+            'attack': '406',
+            'sharpness': 'white',
+            'affinity': '-10%',
+            'element': 'Thunder 60',
+            'slots': '4 - -',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Rajang Hardhorn',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Rajang Hardclaw',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Rajang Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Rajang Wildpelt',
+                    'quantity': '2'
+                }
+            ],
+        }, {
+            'name': 'Suzuka Otakemaru',
+            'from': 'Suzuka Takamaru',
+            'translationKey': 'weapon-dual-blades-suzuka-otakemaru',
+            'icon': require('./assets/weapons/dual_blades/suzuka_otakemaru.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-dual-blades.png'),
+            'type': 'Dual Blades',
+            'rarity': '12',
+            'attack': '434',
+            'sharpness': 'white',
+            'affinity': '-10%',
+            'element': 'Thunder 90',
+            'slots': '4 - -',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Tempered Glimmerpelt',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Rajang Hardhorn',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Rajang Hardfang',
+                    'quantity': '7'
+                },
+                {
+                    'name': 'Gold Rajang Pelt+',
+                    'quantity': '3'
+                }
+            ],
+        }, ]
+    },
 ];
 
 let hammerTree = [{
