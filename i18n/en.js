@@ -22474,5 +22474,293 @@ export default {
     "weapon-dual-blades-suzuka-otakemaru": {
       "Key": "weapon-dual-blades-suzuka-otakemaru",
       "Translation": "Suzuka Otakemaru"
+    },
+    "weapon-great-sword-chrome-deathscythe-i": {
+      "Key": "weapon-great-sword-chrome-deathscythe-i",
+      "Translation": "Chrome Deathscythe I"
+    },
+    "weapon-great-sword-chrome-deathscythe-ii": {
+      "Key": "weapon-great-sword-chrome-deathscythe-ii",
+      "Translation": "Chrome Deathscythe II"
+    },
+    "weapon-great-sword-ruinous-atrocity": {
+      "Key": "weapon-great-sword-ruinous-atrocity",
+      "Translation": "Ruinous Atrocity"
+    },
+    "weapon-great-sword-lightning-punisher-iv": {
+      "Key": "weapon-great-sword-lightning-punisher-iv",
+      "Translation": "Lightning Punisher IV"
+    },
+    "weapon-great-sword-severing-bolt-i": {
+      "Key": "weapon-great-sword-severing-bolt-i",
+      "Translation": "Severing Bolt I"
+    },
+    "weapon-great-sword-frost-blaze-iii": {
+      "Key": "weapon-great-sword-frost-blaze-iii",
+      "Translation": "Frost Blaze III"
+    },
+    "weapon-great-sword-icicle-fang": {
+      "Key": "weapon-great-sword-icicle-fang",
+      "Translation": "Icicle Fang"
+    },
+    "weapon-great-sword-icicle-fang-plus": {
+      "Key": "weapon-great-sword-icicle-fang-plus",
+      "Translation": "Icicle Fang+"
+    },
+    "weapon-great-sword-paladire": {
+      "Key": "weapon-great-sword-paladire",
+      "Translation": "Paladire"
+    },
+    "weapon-great-sword-jagras-deathclaw-i": {
+      "Key": "weapon-great-sword-jagras-deathclaw-i",
+      "Translation": "Jagras Deathclaw I"
+    },
+    "weapon-great-sword-jagras-deathclaw-ii": {
+      "Key": "weapon-great-sword-jagras-deathclaw-ii",
+      "Translation": "Jagras Deathclaw II"
+    },
+    "weapon-great-sword-mammoth-greataxe-i": {
+      "Key": "weapon-great-sword-mammoth-greataxe-i",
+      "Translation": "Mammoth Greataxe I"
+    },
+    "weapon-great-sword-mammoth-greataxe-ii": {
+      "Key": "weapon-great-sword-mammoth-greataxe-ii",
+      "Translation": "Mammoth Greataxe II"
+    },
+    "weapon-great-sword-naaga-guillotine-i": {
+      "Key": "weapon-great-sword-naaga-guillotine-i",
+      "Translation": "Naaga Guillotine I"
+    },
+    "weapon-great-sword-naaga-guillotine-ii": {
+      "Key": "weapon-great-sword-naaga-guillotine-ii",
+      "Translation": "Naaga Guillotine II"
+    },
+    "weapon-great-sword-hidden-blade-i": {
+      "Key": "weapon-great-sword-hidden-blade-i",
+      "Translation": "Hidden Blade I"
+    },
+    "weapon-great-sword-hidden-blade-ii": {
+      "Key": "weapon-great-sword-hidden-blade-ii",
+      "Translation": "Hidden Blade II"
+    },
+    "weapon-great-sword-pyre-cleaver-i": {
+      "Key": "weapon-great-sword-pyre-cleaver-i",
+      "Translation": "Pyre Cleaver I"
+    },
+    "weapon-great-sword-pyre-cleaver-ii": {
+      "Key": "weapon-great-sword-pyre-cleaver-ii",
+      "Translation": "Pyre Cleaver II"
+    },
+    "weapon-great-sword-glavenus-blaze-i": {
+      "Key": "weapon-great-sword-glavenus-blaze-i",
+      "Translation": "Glavenus Blaze I"
+    },
+    "weapon-great-sword-glavenus-blaze-ii": {
+      "Key": "weapon-great-sword-glavenus-blaze-ii",
+      "Translation": "Glavenus Blaze II"
+    },
+    "weapon-great-sword-datura-hellspine-i": {
+      "Key": "weapon-great-sword-datura-hellspine-i",
+      "Translation": "Datura Hellspine I"
+    },
+    "weapon-great-sword-datura-hellspine-ii": {
+      "Key": "weapon-great-sword-datura-hellspine-ii",
+      "Translation": "Datura Hellspine II"
+    },
+    "weapon-tree-nightshade-lumu-tree": {
+      "Key": "weapon-tree-nightshade-lumu-tree",
+      "Translation": "Nightshade Lumu Tree"
+    },
+    "weapon-great-sword-nyx-razor-i": {
+      "Key": "weapon-great-sword-nyx-razor-i",
+      "Translation": "Nyx Razor I"
+    },
+    "weapon-great-sword-nyx-razor-ii": {
+      "Key": "weapon-great-sword-nyx-razor-ii",
+      "Translation": "Nyx Razor II"
+    },
+    "weapon-great-sword-rathalos-glinsword-plus": {
+      "Key": "weapon-great-sword-rathalos-glinsword-plus",
+      "Translation": "Rathalos Glinsword+"
+    },
+    "weapon-great-sword-rathflame-glinsword": {
+      "Key": "weapon-great-sword-rathflame-glinsword",
+      "Translation": "Rathflame Glinsword"
+    },
+    "weapon-great-sword-rathalos-gleamsword": {
+      "Key": "weapon-great-sword-rathalos-gleamsword",
+      "Translation": "Rathalos Gleamsword"
+    },
+    "weapon-great-sword-ogres-jaw-i": {
+      "Key": "weapon-great-sword-ogres-jaw-i",
+      "Translation": "Ogre's Jaw I"
+    },
+    "weapon-great-sword-ogres-jaw-ii": {
+      "Key": "weapon-great-sword-ogres-jaw-ii",
+      "Translation": "Ogre's Jaw II"
+    },
+    "weapon-great-sword-ogres-jaw-iii": {
+      "Key": "weapon-great-sword-ogres-jaw-iii",
+      "Translation": "Ogre's Jaw III"
+    },
+    "weapon-great-sword-icewing": {
+      "Key": "weapon-great-sword-icewing",
+      "Translation": "Icewing"
+    },
+    "weapon-great-sword-winged-seraphyd": {
+      "Key": "weapon-great-sword-winged-seraphyd",
+      "Translation": "Winged Seraphyd"
+    },
+    "weapon-great-sword-tiger-jawblade": {
+      "Key": "weapon-great-sword-tiger-jawblade",
+      "Translation": "Tiger Jawblade"
+    },
+    "weapon-great-sword-tiger-jawblade-plus": {
+      "Key": "weapon-great-sword-tiger-jawblade-plus",
+      "Translation": "Tiger Jawblade+"
+    },
+    "weapon-great-sword-tigrex-great-sword": {
+      "Key": "weapon-great-sword-tigrex-great-sword",
+      "Translation": "Tigrex Great Sword"
+    },
+    "weapon-great-sword-accursed-blade": {
+      "Key": "weapon-great-sword-accursed-blade",
+      "Translation": "Accursed Blade"
+    },
+    "weapon-great-sword-wildbite": {
+      "Key": "weapon-great-sword-wildbite",
+      "Translation": "Wildbite"
+    },
+    "weapon-great-sword-monstrous-madness": {
+      "Key": "weapon-great-sword-monstrous-madness",
+      "Translation": "Monstrous Madness"
+    },
+    "weapon-great-sword-don-monstro": {
+      "Key": "weapon-great-sword-don-monstro",
+      "Translation": "Don Monstro"
+    },
+    "weapon-great-sword-gnashing-flammenzahn-plus": {
+      "Key": "weapon-great-sword-gnashing-flammenzahn-plus",
+      "Translation": "Gnashing Flammenzahn+"
+    },
+    "weapon-great-sword-lohenzahn": {
+      "Key": "weapon-great-sword-lohenzahn",
+      "Translation": "Lohenzahn"
+    },
+    "weapon-great-sword-donnerzahn": {
+      "Key": "weapon-great-sword-donnerzahn",
+      "Translation": "Donnerzahn"
+    },
+    "weapon-great-sword-donnerzahn-plus": {
+      "Key": "weapon-great-sword-donnerzahn-plus",
+      "Translation": "Donnerzahn+"
+    },
+    "weapon-great-sword-fulgurations-edge": {
+      "Key": "weapon-great-sword-fulgurations-edge",
+      "Translation": "Fulguration's Edge"
+    },
+    "weapon-great-sword-water-golem-iv": {
+      "Key": "weapon-great-sword-water-golem-iv",
+      "Translation": "Water Golem IV"
+    },
+    "weapon-great-sword-laguna-golem-i": {
+      "Key": "weapon-great-sword-laguna-golem-i",
+      "Translation": "Laguna Golem I"
+    },
+    "weapon-great-sword-laguna-golem-ii": {
+      "Key": "weapon-great-sword-laguna-golem-ii",
+      "Translation": "Laguna Golem II"
+    },
+    "weapon-great-sword-beo-slasher-i": {
+      "Key": "weapon-great-sword-beo-slasher-i",
+      "Translation": "Beo Slasher I"
+    },
+    "weapon-great-sword-beo-slasher-ii": {
+      "Key": "weapon-great-sword-beo-slasher-ii",
+      "Translation": "Beo Slasher II"
+    },
+    "weapon-great-sword-barroth-greatedge-i": {
+      "Key": "weapon-great-sword-barroth-greatedge-i",
+      "Translation": "Barroth Greatedge I"
+    },
+    "weapon-great-sword-barroth-greatedge-ii": {
+      "Key": "weapon-great-sword-barroth-greatedge-ii",
+      "Translation": "Barroth Greatedge II"
+    },
+    "weapon-great-sword-acid-shredder-i": {
+      "Key": "weapon-great-sword-acid-shredder-i",
+      "Translation": "Acid Shredder I"
+    },
+    "weapon-great-sword-acid-shredder-ii": {
+      "Key": "weapon-great-sword-acid-shredder-ii",
+      "Translation": "Acid Shredder II"
+    },
+    "weapon-great-sword-radobaan-grindblade-i": {
+      "Key": "weapon-great-sword-radobaan-grindblade-i",
+      "Translation": "Radobaan Grindblade I"
+    },
+    "weapon-great-sword-dios-blade": {
+      "Key": "weapon-great-sword-dios-blade",
+      "Translation": "Dios Blade"
+    },
+    "weapon-great-sword-brach-attack": {
+      "Key": "weapon-great-sword-brach-attack",
+      "Translation": "Brach Attack"
+    },
+    "weapon-great-sword-dragonseal-sword-i": {
+      "Key": "weapon-great-sword-dragonseal-sword-i",
+      "Translation": "Dragonseal Sword I"
+    },
+    "weapon-great-sword-dragonseal-sword-ii": {
+      "Key": "weapon-great-sword-dragonseal-sword-ii",
+      "Translation": "Dragonseal Sword II"
+    },
+    "weapon-great-sword-immovable-dharma": {
+      "Key": "weapon-great-sword-immovable-dharma",
+      "Translation": "Immovable Dharma"
+    },
+    "weapon-great-sword-emperor-thundersword": {
+      "Key": "weapon-great-sword-emperor-thundersword",
+      "Translation": "Emperor Thundersword"
+    },
+    "weapon-great-sword-magdaros-volcanblade": {
+      "Key": "weapon-great-sword-magdaros-volcanblade",
+      "Translation": "Magdaros Volcanblade"
+    },
+    "weapon-great-sword-daoras-tughril-beg": {
+      "Key": "weapon-great-sword-daoras-tughril-beg",
+      "Translation": "Daora's Tughril Beg"
+    },
+    "weapon-great-sword-ultra-wyvern-jawblade": {
+      "Key": "weapon-great-sword-ultra-wyvern-jawblade",
+      "Translation": "Ultra Wyvern Jawblade"
+    },
+    "weapon-great-sword-soulfire-edge-blaze": {
+      "Key": "weapon-great-sword-soulfire-edge-blaze",
+      "Translation": "Soulfire Edge \"Blaze\""
+    },
+    "weapon-great-sword-soulfire-edge-ruin": {
+      "Key": "weapon-great-sword-soulfire-edge-ruin",
+      "Translation": "Soulfire Edge \"Ruin\""
+    },
+    "weapon-great-sword-soulfire-edge-styx": {
+      "Key": "weapon-great-sword-soulfire-edge-styx",
+      "Translation": "Soulfire Edge \"Styx\""
+    },
+    "weapon-great-sword-demon-rod": {
+      "Key": "weapon-great-sword-demon-rod",
+      "Translation": "Great Demon Rod"
+    },
+    "weapon-great-sword-frozen-speartuna": {
+      "Key": "weapon-great-sword-frozen-speartuna",
+      "Translation": "Frozen Speartuna"
+    },
+    "weapon-great-sword-freezer-speartuna": {
+      "Key": "weapon-great-sword-freezer-speartuna",
+      "Translation": "Freezer Speartuna"
+    },
+    "weapon-great-sword-xiphias-gladius": {
+      "Key": "weapon-great-sword-xiphias-gladius",
+      "Translation": "Xiphias Gladius"
     }
   }

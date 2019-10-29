@@ -7557,7 +7557,7 @@ export default {
     },
     "armors-total-defense": {
       "Key": "armors-total-defense",
-      "Translation": "Def Totale:"
+      "Translation": "Def Total:"
     },
     "armors-total-dragon-defense": {
       "Key": "armors-total-dragon-defense",
@@ -7645,7 +7645,7 @@ export default {
     },
     "critical-bounties-research-help-bomb-beetle-capture": {
       "Key": "critical-bounties-research-help-bomb-beetle-capture",
-      "Translation": "Ricerca Aiuto: Bomba Beetle Capture"
+      "Translation": "Ricerca Aiuto: Bomb Beetle Capture"
     },
     "critical-bounties-research-help-bomb-beetle-capture-tips": {
       "Key": "critical-bounties-research-help-bomb-beetle-capture-tips",
@@ -7689,7 +7689,7 @@ export default {
     },
     "critical-bounties-research-help-phantom-bird-tips": {
       "Key": "critical-bounties-research-help-phantom-bird-tips",
-      "Translation": "Questa generosità può essere ritirato in qualsiasi zona se il primo 5 Endemico Vita Critical Bounties e le prime 5 Piscine Bounties critici sono stati completati. \\ N gruppo \\ nA di Plasmopara schiribille può apparire sul retro di un Apceros o un Aptonoth. Apceros possono essere trovati nella zona 1 della Wildspire rifiuti (sud-ovest di Camp (1)). \\ N \\ nAptonoth possono essere trovati nella zona 1 della foresta antica (sud-ovest di Camp (1)). Viaggiare avanti e indietro tra queste zone. Mettere sul tuo manto Ghillie prima di lasciare il campo."
+      "Translation": "Questa generosità può essere ritirato in qualsiasi zona se il primo 5 Endemico Vita Critical Bounties e le prime 5 Piscine Bounties critici sono stati completati. \\ N gruppo \\ nA di Plasmopara schiribille può apparire sul retro di un Apceros o un Aptonoth. Apceros possono essere trovati nella zona 1 della Wildspire rifiuti (sud-ovest di Camp (1)). \\ N \\ nAptonoth possono essere trovati nella zona 1 della foresta antica (sud-ovest di Camp (1)). Viaggiare avanti e indietro tra queste zone. Indossa il tuo Mantello Ghillie prima di lasciare il campo."
     },
     "critical-bounties-research-help-pink-parexus-capture": {
       "Key": "critical-bounties-research-help-pink-parexus-capture",
@@ -7701,7 +7701,7 @@ export default {
     },
     "critical-bounties-research-help-platinumfish-capture": {
       "Key": "critical-bounties-research-help-platinumfish-capture",
-      "Translation": "Ricerca Aiuto: Cattura Platinumfish"
+      "Translation": "Ricerca Help: Cattura Platinumfish"
     },
     "critical-bounties-research-help-platinumfish-capture-tips": {
       "Key": "critical-bounties-research-help-platinumfish-capture-tips",
@@ -7753,7 +7753,7 @@ export default {
     },
     "endemic-life-andangler-description": {
       "Key": "endemic-life-andangler-description",
-      "Translation": "A loro piace disegnare Volante Meduso alla loro luce e ... CHOMP! Sarebbe sicuramente la pena di stare svegli tutta la notte a guardare in azione!"
+      "Translation": "A loro piace disegnare Volante Meduso alla loro luce e ... CHOMP! Sarebbe sicuramente la pena di stare svegli tutta la notte per vederli in azione!"
     },
     "endemic-life-augurfly-description": {
       "Key": "endemic-life-augurfly-description",
@@ -8605,7 +8605,7 @@ export default {
     },
     "monster-azure-rathalos-useful-information": {
       "Key": "monster-azure-rathalos-useful-information",
-      "Translation": "Contrastare il suo attacco aereo osservando i suoi schemi di volo e scoprire il momento giusto per farlo cadere dal cielo. Una volta a terra e perde la capacità di eseguire attacchi consecutivi, rendendo il combattimento molto più facile."
+      "Translation": "Contrastare il suo attacco aereo osservando i suoi schemi di volo e scoprire il momento giusto per farlo cadere dal cielo. Una volta a terra, perde la sua capacità di eseguire attacchi consecutivi, rendendo il combattimento molto più facile."
     },
     "monster-banbaro": {
       "Key": "monster-banbaro",
@@ -8793,7 +8793,7 @@ export default {
     },
     "monster-great-jagras-useful-information": {
       "Key": "monster-great-jagras-useful-information",
-      "Translation": "Anche dopo un pasto gigante, una grande Jagras può usare il suo stomaco ampliato per attaccare ignari cacciatori. Obiettivo per la sua pancia per costringerlo a vomitare la sua preda e indebolire in modo significativo."
+      "Translation": "Anche dopo un pasto gigante, un grande Jagras può usare il suo stomaco ampliato per attaccare ignari cacciatori. Obiettivo per la sua pancia per costringerlo a vomitare la sua preda e indebolire in modo significativo."
     },
     "monster-hornetaur": {
       "Key": "monster-hornetaur",
@@ -9473,7 +9473,7 @@ export default {
     },
     "play-guide-charms-description": {
       "Key": "play-guide-charms-description",
-      "Translation": "Charms possono essere dotati di attivare competenze utili."
+      "Translation": "Charms possono essere equipaggiati per attivare le abilità utili."
     },
     "play-guide-charybdis": {
       "Key": "play-guide-charybdis",
@@ -9513,7 +9513,7 @@ export default {
     },
     "play-guide-crouching-and-camouflage-description": {
       "Key": "play-guide-crouching-and-camouflage-description",
-      "Translation": "Premere il pulsante di schivare in piedi ancora per Crouch. Accovacciato in borse di pennello si mimetica in modo da poter nascondere da mostri."
+      "Translation": "Premere il pulsante di schivare in piedi ancora per Crouch. Crouching in borse di pennello si mimetica in modo da poter nascondere da mostri."
     },
     "play-guide-cultivating-items": {
       "Key": "play-guide-cultivating-items",
@@ -9681,7 +9681,7 @@ export default {
     },
     "play-guide-endemic-pets-description": {
       "Key": "play-guide-endemic-pets-description",
-      "Translation": "creature endemiche catturate possono essere collocati in vari punti nella vostra camera. Alcuni criters può essere eseguito solo in aree specifiche della vostra camera, e il numero è possibile inserire dipende dalla tpye della stanza. Parlate con il vostro governante per posizionare i vostri animali domestici."
+      "Translation": "creature endemiche catturate possono essere collocati in vari punti nella vostra camera. Alcuni criters può essere eseguito solo in aree specifiche del vostra camera, e il numero è possibile inserire dipende dalla tpye della stanza. Parlate con il vostro governante per posizionare i vostri animali domestici."
     },
     "play-guide-equipment-slots": {
       "Key": "play-guide-equipment-slots",
@@ -10017,7 +10017,7 @@ export default {
     },
     "play-guide-lynian-researcher-description": {
       "Key": "play-guide-lynian-researcher-description",
-      "Translation": "Un esperto avvizzito nel campo della ricerca Lynian. Anche se dedicato alla ricerca in Grimalkynes, egli è da meno dai veloci, target sornione dei suoi studi. Ora egli è alla ricerca di un cacciatore utile per aiutarlo nella sua ricerca."
+      "Translation": "Un esperto avvizzito nel campo della ricerca Lynian. Nonostante dedicata alla ricerca in Grimalkynes, egli è da meno dai veloci, target sornione dei suoi studi. Ora egli è alla ricerca di un cacciatore utile per aiutarlo nella sua ricerca."
     },
     "play-guide-max-potions": {
       "Key": "play-guide-max-potions",
@@ -10409,7 +10409,7 @@ export default {
     },
     "play-guide-sos-flares-description": {
       "Key": "play-guide-sos-flares-description",
-      "Translation": "Durante una missione, è possibile accedere al menu per inviare un bagliore SOS. Questo sarà indetto un bando per altri cacciatori di aiutarvi con la vostra ricerca. Questo è utile se vi trovate manca i numeri per compiere una missione difficile."
+      "Translation": "Durante una missione, è possibile accedere al menu per inviare un bagliore SOS. Ciò indetto un bando per altri cacciatori di aiutarvi con la vostra ricerca. Questo è utile se vi trovate manca i numeri per compiere una missione difficile."
     },
     "play-guide-specialized-tools": {
       "Key": "play-guide-specialized-tools",
@@ -10901,7 +10901,7 @@ export default {
     },
     "poogie-buzzy-bee-how-to-get": {
       "Key": "poogie-buzzy-bee-how-to-get",
-      "Translation": "Parlate con il vostro Poogie corso della manifestazione Spring Blossom."
+      "Translation": "Parlate con il vostro Poogie durante l'evento Spring Blossom."
     },
     "poogie-costumes": {
       "Key": "poogie-costumes",
@@ -13129,7 +13129,7 @@ export default {
     },
     "quest-scratching-the-itch-description": {
       "Key": "quest-scratching-the-itch-description",
-      "Translation": "Questa mattina mi sono svegliato a una brillante epifania! Ho un'idea per qualcosa ogni cacciatore ha bisogno dopo una lunga giornata in campo ... backscratchers Odogaron!"
+      "Translation": "Questa mattina mi sono svegliato ad una brillante epifania! Ho un'idea per qualcosa ogni cacciatore ha bisogno dopo una lunga giornata in campo ... backscratchers Odogaron!"
     },
     "quest-showdown-the-muck-and-the-maul": {
       "Key": "quest-showdown-the-muck-and-the-maul",
@@ -13405,7 +13405,7 @@ export default {
     },
     "quest-special-arena-tobi-kadachi-description": {
       "Key": "quest-special-arena-tobi-kadachi-description",
-      "Translation": "Un nuovo sfidante: Tobi-Kadachi, il Leaping Lizard, il maestro Bite! Che sarà lui a pulire il vostro orologio con scosse tuono! Pensi di poter andare in punta di piedi - ehm, in punta di artiglio con questa pesante hitter !?"
+      "Translation": "Un nuovo sfidante: Tobi-Kadachi, il Salto della Lucertola, il maestro Bite! Che sarà lui a pulire il vostro orologio con scosse tuono! Pensi di poter andare in punta di piedi - ehm, in punta di artiglio con questa pesante hitter !?"
     },
     "quest-special-arena-tobi-kadachi-tips": {
       "Key": "quest-special-arena-tobi-kadachi-tips",
@@ -14429,7 +14429,7 @@ export default {
     },
     "skill-aquatic-expert-3": {
       "Key": "skill-aquatic-expert-3",
-      "Translation": "Impedisce all'acqua da rallentare il movimento e migliora notevolmente l'evasione mentre in acqua."
+      "Translation": "Impedisce all'acqua di rallentamento movimento e migliora notevolmente l'evasione mentre in acqua."
     },
     "skill-aquatic-expert-description": {
       "Key": "skill-aquatic-expert-description",
@@ -14729,7 +14729,7 @@ export default {
     },
     "skill-coalescence-1": {
       "Key": "skill-coalescence-1",
-      "Translation": "Mentre attiva, concede Attacco + 12, la potenza di attacco Element 30, e stato l'accumulo di + 5%"
+      "Translation": "Mentre è attivo, concede Attacco + 12, la potenza di attacco Element 30, e stato l'accumulo di + 5%"
     },
     "skill-coalescence-2": {
       "Key": "skill-coalescence-2",
@@ -15885,7 +15885,7 @@ export default {
     },
     "skill-normal-shots-1": {
       "Key": "skill-normal-shots-1",
-      "Translation": "Aumenta la potenza di munizioni normale e frecce normali."
+      "Translation": "Aumenta la potenza di munizioni normale e normali frecce."
     },
     "skill-normal-shots-description": {
       "Key": "skill-normal-shots-description",
@@ -17385,7 +17385,7 @@ export default {
     },
     "trophy-personal-treasure": {
       "Key": "trophy-personal-treasure",
-      "Translation": "Treasure Personal"
+      "Translation": "tesoro personale"
     },
     "trophy-personal-treasure-description": {
       "Key": "trophy-personal-treasure-description",
@@ -18085,7 +18085,7 @@ export default {
     },
     "weapon-dual-blades-pulsar-hatchets-i": {
       "Key": "weapon-dual-blades-pulsar-hatchets-i",
-      "Translation": "Pulsar Hatchets I"
+      "Translation": "Pulsar Accette I"
     },
     "weapon-dual-blades-pulsar-hatchets-ii": {
       "Key": "weapon-dual-blades-pulsar-hatchets-ii",
@@ -22474,5 +22474,293 @@ export default {
     "weapon-dual-blades-suzuka-otakemaru": {
       "Key": "weapon-dual-blades-suzuka-otakemaru",
       "Translation": "Suzuka Otakemaru"
+    },
+    "weapon-great-sword-chrome-deathscythe-i": {
+      "Key": "weapon-great-sword-chrome-deathscythe-i",
+      "Translation": "Chrome Deathscythe I"
+    },
+    "weapon-great-sword-chrome-deathscythe-ii": {
+      "Key": "weapon-great-sword-chrome-deathscythe-ii",
+      "Translation": "Chrome Deathscythe II"
+    },
+    "weapon-great-sword-ruinous-atrocity": {
+      "Key": "weapon-great-sword-ruinous-atrocity",
+      "Translation": "Atrocity ruinous"
+    },
+    "weapon-great-sword-lightning-punisher-iv": {
+      "Key": "weapon-great-sword-lightning-punisher-iv",
+      "Translation": "Fulmine Punisher IV"
+    },
+    "weapon-great-sword-severing-bolt-i": {
+      "Key": "weapon-great-sword-severing-bolt-i",
+      "Translation": "Severing Bolt I"
+    },
+    "weapon-great-sword-frost-blaze-iii": {
+      "Key": "weapon-great-sword-frost-blaze-iii",
+      "Translation": "Gelo Blaze III"
+    },
+    "weapon-great-sword-icicle-fang": {
+      "Key": "weapon-great-sword-icicle-fang",
+      "Translation": "Icicle Fang"
+    },
+    "weapon-great-sword-icicle-fang-plus": {
+      "Key": "weapon-great-sword-icicle-fang-plus",
+      "Translation": "Icicle Fang +"
+    },
+    "weapon-great-sword-paladire": {
+      "Key": "weapon-great-sword-paladire",
+      "Translation": "Paladire"
+    },
+    "weapon-great-sword-jagras-deathclaw-i": {
+      "Key": "weapon-great-sword-jagras-deathclaw-i",
+      "Translation": "Jagras Granfiamorte I"
+    },
+    "weapon-great-sword-jagras-deathclaw-ii": {
+      "Key": "weapon-great-sword-jagras-deathclaw-ii",
+      "Translation": "Jagras Granfiamorte II"
+    },
+    "weapon-great-sword-mammoth-greataxe-i": {
+      "Key": "weapon-great-sword-mammoth-greataxe-i",
+      "Translation": "Mammoth Greataxe I"
+    },
+    "weapon-great-sword-mammoth-greataxe-ii": {
+      "Key": "weapon-great-sword-mammoth-greataxe-ii",
+      "Translation": "Mammoth Greataxe II"
+    },
+    "weapon-great-sword-naaga-guillotine-i": {
+      "Key": "weapon-great-sword-naaga-guillotine-i",
+      "Translation": "Naaga Ghigliottina I"
+    },
+    "weapon-great-sword-naaga-guillotine-ii": {
+      "Key": "weapon-great-sword-naaga-guillotine-ii",
+      "Translation": "Naaga Ghigliottina II"
+    },
+    "weapon-great-sword-hidden-blade-i": {
+      "Key": "weapon-great-sword-hidden-blade-i",
+      "Translation": "Lama nascosta I"
+    },
+    "weapon-great-sword-hidden-blade-ii": {
+      "Key": "weapon-great-sword-hidden-blade-ii",
+      "Translation": "Hidden Blade II"
+    },
+    "weapon-great-sword-pyre-cleaver-i": {
+      "Key": "weapon-great-sword-pyre-cleaver-i",
+      "Translation": "Pyre Cleaver I"
+    },
+    "weapon-great-sword-pyre-cleaver-ii": {
+      "Key": "weapon-great-sword-pyre-cleaver-ii",
+      "Translation": "Pyre Cleaver II"
+    },
+    "weapon-great-sword-glavenus-blaze-i": {
+      "Key": "weapon-great-sword-glavenus-blaze-i",
+      "Translation": "Glavenus Blaze I"
+    },
+    "weapon-great-sword-glavenus-blaze-ii": {
+      "Key": "weapon-great-sword-glavenus-blaze-ii",
+      "Translation": "Glavenus Blaze II"
+    },
+    "weapon-great-sword-datura-hellspine-i": {
+      "Key": "weapon-great-sword-datura-hellspine-i",
+      "Translation": "Datura Hellspine I"
+    },
+    "weapon-great-sword-datura-hellspine-ii": {
+      "Key": "weapon-great-sword-datura-hellspine-ii",
+      "Translation": "Datura Hellspine II"
+    },
+    "weapon-tree-nightshade-lumu-tree": {
+      "Key": "weapon-tree-nightshade-lumu-tree",
+      "Translation": "Nightshade Lumu Albero"
+    },
+    "weapon-great-sword-nyx-razor-i": {
+      "Key": "weapon-great-sword-nyx-razor-i",
+      "Translation": "Nyx Razor I"
+    },
+    "weapon-great-sword-nyx-razor-ii": {
+      "Key": "weapon-great-sword-nyx-razor-ii",
+      "Translation": "Nyx Razor II"
+    },
+    "weapon-great-sword-rathalos-glinsword-plus": {
+      "Key": "weapon-great-sword-rathalos-glinsword-plus",
+      "Translation": "Rathalos Glinsword +"
+    },
+    "weapon-great-sword-rathflame-glinsword": {
+      "Key": "weapon-great-sword-rathflame-glinsword",
+      "Translation": "Rathflame Glinsword"
+    },
+    "weapon-great-sword-rathalos-gleamsword": {
+      "Key": "weapon-great-sword-rathalos-gleamsword",
+      "Translation": "Rathalos Gleamsword"
+    },
+    "weapon-great-sword-ogres-jaw-i": {
+      "Key": "weapon-great-sword-ogres-jaw-i",
+      "Translation": "dell'orco Jaw I"
+    },
+    "weapon-great-sword-ogres-jaw-ii": {
+      "Key": "weapon-great-sword-ogres-jaw-ii",
+      "Translation": "dell'orco Jaw II"
+    },
+    "weapon-great-sword-ogres-jaw-iii": {
+      "Key": "weapon-great-sword-ogres-jaw-iii",
+      "Translation": "dell'orco Jaw III"
+    },
+    "weapon-great-sword-icewing": {
+      "Key": "weapon-great-sword-icewing",
+      "Translation": "Icewing"
+    },
+    "weapon-great-sword-winged-seraphyd": {
+      "Key": "weapon-great-sword-winged-seraphyd",
+      "Translation": "Winged Seraphyd"
+    },
+    "weapon-great-sword-tiger-jawblade": {
+      "Key": "weapon-great-sword-tiger-jawblade",
+      "Translation": "Tiger Jawblade"
+    },
+    "weapon-great-sword-tiger-jawblade-plus": {
+      "Key": "weapon-great-sword-tiger-jawblade-plus",
+      "Translation": "Tiger Jawblade +"
+    },
+    "weapon-great-sword-tigrex-great-sword": {
+      "Key": "weapon-great-sword-tigrex-great-sword",
+      "Translation": "Tigrex Grande Sword"
+    },
+    "weapon-great-sword-accursed-blade": {
+      "Key": "weapon-great-sword-accursed-blade",
+      "Translation": "maledetto lama"
+    },
+    "weapon-great-sword-wildbite": {
+      "Key": "weapon-great-sword-wildbite",
+      "Translation": "Wildbite"
+    },
+    "weapon-great-sword-monstrous-madness": {
+      "Key": "weapon-great-sword-monstrous-madness",
+      "Translation": "Madness mostruoso"
+    },
+    "weapon-great-sword-don-monstro": {
+      "Key": "weapon-great-sword-don-monstro",
+      "Translation": "Don Monstro"
+    },
+    "weapon-great-sword-gnashing-flammenzahn-plus": {
+      "Key": "weapon-great-sword-gnashing-flammenzahn-plus",
+      "Translation": "Digrignando Flammenzahn +"
+    },
+    "weapon-great-sword-lohenzahn": {
+      "Key": "weapon-great-sword-lohenzahn",
+      "Translation": "Lohenzahn"
+    },
+    "weapon-great-sword-donnerzahn": {
+      "Key": "weapon-great-sword-donnerzahn",
+      "Translation": "Donnerzahn"
+    },
+    "weapon-great-sword-donnerzahn-plus": {
+      "Key": "weapon-great-sword-donnerzahn-plus",
+      "Translation": "Donnerzahn +"
+    },
+    "weapon-great-sword-fulgurations-edge": {
+      "Key": "weapon-great-sword-fulgurations-edge",
+      "Translation": "Bordo di folgorazione"
+    },
+    "weapon-great-sword-water-golem-iv": {
+      "Key": "weapon-great-sword-water-golem-iv",
+      "Translation": "Acqua Golem IV"
+    },
+    "weapon-great-sword-laguna-golem-i": {
+      "Key": "weapon-great-sword-laguna-golem-i",
+      "Translation": "Laguna Golem I"
+    },
+    "weapon-great-sword-laguna-golem-ii": {
+      "Key": "weapon-great-sword-laguna-golem-ii",
+      "Translation": "Laguna Golem II"
+    },
+    "weapon-great-sword-beo-slasher-i": {
+      "Key": "weapon-great-sword-beo-slasher-i",
+      "Translation": "Beo Slasher I"
+    },
+    "weapon-great-sword-beo-slasher-ii": {
+      "Key": "weapon-great-sword-beo-slasher-ii",
+      "Translation": "Beo Slasher II"
+    },
+    "weapon-great-sword-barroth-greatedge-i": {
+      "Key": "weapon-great-sword-barroth-greatedge-i",
+      "Translation": "Barroth Greatedge I"
+    },
+    "weapon-great-sword-barroth-greatedge-ii": {
+      "Key": "weapon-great-sword-barroth-greatedge-ii",
+      "Translation": "Barroth Greatedge II"
+    },
+    "weapon-great-sword-acid-shredder-i": {
+      "Key": "weapon-great-sword-acid-shredder-i",
+      "Translation": "Acid Shredder I"
+    },
+    "weapon-great-sword-acid-shredder-ii": {
+      "Key": "weapon-great-sword-acid-shredder-ii",
+      "Translation": "Acid Shredder II"
+    },
+    "weapon-great-sword-radobaan-grindblade-i": {
+      "Key": "weapon-great-sword-radobaan-grindblade-i",
+      "Translation": "Radobaan Grindblade I"
+    },
+    "weapon-great-sword-dios-blade": {
+      "Key": "weapon-great-sword-dios-blade",
+      "Translation": "Dios lama"
+    },
+    "weapon-great-sword-brach-attack": {
+      "Key": "weapon-great-sword-brach-attack",
+      "Translation": "Attacco Brach"
+    },
+    "weapon-great-sword-dragonseal-sword-i": {
+      "Key": "weapon-great-sword-dragonseal-sword-i",
+      "Translation": "Dragonseal spada I"
+    },
+    "weapon-great-sword-dragonseal-sword-ii": {
+      "Key": "weapon-great-sword-dragonseal-sword-ii",
+      "Translation": "Dragonseal Sword II"
+    },
+    "weapon-great-sword-immovable-dharma": {
+      "Key": "weapon-great-sword-immovable-dharma",
+      "Translation": "inamovibili Dharma"
+    },
+    "weapon-great-sword-emperor-thundersword": {
+      "Key": "weapon-great-sword-emperor-thundersword",
+      "Translation": "imperatore Thundersword"
+    },
+    "weapon-great-sword-magdaros-volcanblade": {
+      "Key": "weapon-great-sword-magdaros-volcanblade",
+      "Translation": "Magdaros Volcanblade"
+    },
+    "weapon-great-sword-daoras-tughril-beg": {
+      "Key": "weapon-great-sword-daoras-tughril-beg",
+      "Translation": "Tughril Beg di Daora"
+    },
+    "weapon-great-sword-ultra-wyvern-jawblade": {
+      "Key": "weapon-great-sword-ultra-wyvern-jawblade",
+      "Translation": "Ultra Wyvern Jawblade"
+    },
+    "weapon-great-sword-soulfire-edge-blaze": {
+      "Key": "weapon-great-sword-soulfire-edge-blaze",
+      "Translation": "Soulfire Edge \"Blaze\""
+    },
+    "weapon-great-sword-soulfire-edge-ruin": {
+      "Key": "weapon-great-sword-soulfire-edge-ruin",
+      "Translation": "Soulfire Edge \"Ruin\""
+    },
+    "weapon-great-sword-soulfire-edge-styx": {
+      "Key": "weapon-great-sword-soulfire-edge-styx",
+      "Translation": "Soulfire Edge \"Styx\""
+    },
+    "weapon-great-sword-demon-rod": {
+      "Key": "weapon-great-sword-demon-rod",
+      "Translation": "Grande Demone Rod"
+    },
+    "weapon-great-sword-frozen-speartuna": {
+      "Key": "weapon-great-sword-frozen-speartuna",
+      "Translation": "congelato Speartuna"
+    },
+    "weapon-great-sword-freezer-speartuna": {
+      "Key": "weapon-great-sword-freezer-speartuna",
+      "Translation": "Congelatore Speartuna"
+    },
+    "weapon-great-sword-xiphias-gladius": {
+      "Key": "weapon-great-sword-xiphias-gladius",
+      "Translation": "Xiphias Gladius"
     }
   }

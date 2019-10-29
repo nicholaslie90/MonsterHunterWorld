@@ -356,6 +356,102 @@ let greatSwordTree = [{
                     }
                 ]
             },
+            {
+                'name': 'Chrome Deathscythe I',
+                'from': 'Chrome Razor II',
+                'translationKey': 'weapon-great-sword-chrome-deathscythe-i',
+                'icon': require('./assets/weapons/great_sword/chrome_deathscythe_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '9',
+                'attack': '1056',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Poison (480)',
+                'slots': '1 1 -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Eltalite Ore',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Carbalite Ore',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Spiritvein Crystal',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Gracium',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Chrome Deathscythe II',
+                'from': 'Chrome Deathscythe I',
+                'translationKey': 'weapon-great-sword-chrome-deathscythe-ii',
+                'icon': require('./assets/weapons/great_sword/chrome_deathscythe_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1152',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Poison (510)',
+                'slots': '1 1 -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Eltalite Ore',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Meldspar Ore',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Bathycite Ore',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Chrome Deathscythe III',
+                'from': 'Chrome Deathscythe II',
+                'translationKey': 'weapon-great-sword-chrome-deathscythe-iii',
+                'icon': require('./assets/weapons/great_sword/chrome_deathscythe_iii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '11',
+                'attack': '1248',
+                'sharpness': 'purple',
+                'affinity': '0%',
+                'element': 'Poison (540)',
+                'slots': '1 1 -',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Pure Dragon Blood',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Eltalite Ore',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Meldspar Ore',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Purecrystal',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -461,7 +557,39 @@ let greatSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Ruinous Atrocity',
+                'from': 'Purgation\'s Atrocity',
+                'translationKey': 'weapon-great-sword-ruinous-atrocity',
+                'icon': require('./assets/weapons/great_sword/ruinous_atrocity.png'),
+                'weaponIcon': require('./assets/weapons/rarity/12-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '12',
+                'attack': '1344',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 240',
+                'slots': '1 - -',
+                'cost': '80000',
+                'materials': [{
+                        'name': 'Annihilating Greathorn',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Nergigante Hardclaw',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Eternal Regrowth Plate',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Large Elder Dragon Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -714,6 +842,102 @@ let greatSwordTree = [{
                     },
                 ]
             },
+            {
+                'name': 'Lightning Punisher IV',
+                'from': 'Lightning Punisher III',
+                'translationKey': 'weapon-great-sword-lightning-punisher-iv',
+                'icon': require('./assets/weapons/great_sword/lightning_punisher_iv.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '9',
+                'attack': '1008',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Thunder 270',
+                'slots': '2 - -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Tobi-Kadachi Hardclaw',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Shard',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Thickfur',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Lightning Sac',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Severing Bolt I',
+                'from': 'Lightning Punisher IV',
+                'translationKey': 'weapon-great-sword-severing-bolt-i',
+                'icon': require('./assets/weapons/great_sword/severing_bolt_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1152',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Thunder 390',
+                'slots': '2 - -',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Zinogre Hardclaw',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Zinogre Deathly Shocker',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Zinogre Cortex',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Lightning Sac',
+                        'quantity': '3'
+                    }
+                ],
+            },
+            {
+                'name': 'Severing Bolt II',
+                'from': 'Severing Bolt I',
+                'translationKey': 'weapon-great-sword-severing-bolt-ii',
+                'icon': require('./assets/weapons/great_sword/severing_bolt_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '11',
+                'attack': '1200',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Thunder 510',
+                'slots': '2 1 -',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Zinogre Hardhorn',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Zinogre Electrofur+',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Fulgurbug',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Zinogre Skymerald',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -914,7 +1138,133 @@ let greatSwordTree = [{
                         'quantity': '1'
                     },
                 ]
-            }
+            },
+            {
+                'name': 'Frost Blaze III',
+                'from': 'Frost Blaze II',
+                'translationKey': 'weapon-great-sword-frost-blaze-iii',
+                'icon': require('./assets/weapons/great_sword/frost_blaze_iii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '9',
+                'attack': '960',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Ice 420',
+                'slots': '3 - -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Gracium',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Eltalite Ore',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Cryo Sac',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Wulg Thickfur',
+                        'quantity': '3'
+                    }
+                ],
+            },
+            {
+                'name': 'Icicle Fang',
+                'from': 'Frost Blaze III',
+                'translationKey': 'weapon-great-sword-icicle-fang',
+                'icon': require('./assets/weapons/great_sword/icicle_fang.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1008',
+                'sharpness': 'white',
+                'affinity': '20%',
+                'element': 'Ice 480',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Barioth Hardclaw',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Barioth Cortex',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Cryo Sac',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Frozen Bone',
+                        'quantity': '3'
+                    }
+                ],
+            },
+            {
+                'name': 'Icicle Fang+',
+                'from': 'Icicle Fang',
+                'translationKey': 'weapon-great-sword-icicle-fang-plus',
+                'icon': require('./assets/weapons/great_sword/icicle_fang_plus.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1152',
+                'sharpness': 'white',
+                'affinity': '30%',
+                'element': 'Ice 510',
+                'slots': '',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Obsidian Icetalon',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Amber Hardfang',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Barioth Greatspike',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Large Wyvern Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Paladire',
+                'from': 'Icicle Fang+',
+                'translationKey': 'weapon-great-sword-paladire',
+                'icon': require('./assets/weapons/great_sword/paladire.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '11',
+                'attack': '1200',
+                'sharpness': 'white',
+                'affinity': '35%',
+                'element': 'Ice 540',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Velkhana Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Barioth Hardclaw',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Amber Hardfang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Large Elder Dragon Bone',
+                        'quantity': '5'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -1215,8 +1565,138 @@ let greatSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Jagras Deathclaw I',
+                'from': 'Jagras Hacker III',
+                'translationKey': 'weapon-great-sword-jagras-deathclaw-i',
+                'icon': require('./assets/weapons/great_sword/jagras_deathclaw_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '9',
+                'attack': '1104',
+                'sharpness': 'blue',
+                'affinity': '0%',
+                'element': 'Water (450)',
+                'slots': '3 3 -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Great Jagras Shard',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Great Jagras Hardclaw',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Great Jagras Mane+',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Jagras Shard',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Jagras Deathclaw II',
+                'from': 'Jagras Deathclaw I',
+                'translationKey': 'weapon-great-sword-jagras-deathclaw-ii',
+                'icon': require('./assets/weapons/great_sword/jagras_deathclaw_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1248',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Water (600)',
+                'slots': '3 3 -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Great Jagras Hardclaw',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Great Jagras Thickhide',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Tough Claw',
+                        'quantity': '3'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-banbaro-tree',
+        data: [{
+            'name': 'Mammoth Greataxe I',
+            'from': 'Jagras Deathclaw I',
+            'translationKey': 'weapon-great-sword-mammoth-greataxe-i',
+            'icon': require('./assets/weapons/great_sword/mammoth_greataxe_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/9-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '9',
+            'attack': '1200',
+            'sharpness': 'blue',
+            'affinity': '0%',
+            'element': 'Ice (450)',
+            'slots': '4 - -',
+            'cost': '20000',
+            'materials': [{
+                    'name': 'Banbaro Great Horn',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Banbaro Cortex',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Banbaro Chine',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Monster Toughbone',
+                    'quantity': '3'
+                }
+            ],
+        }, {
+            'name': 'Mammoth Greataxe II',
+            'from': 'Mammoth Greataxe I',
+            'translationKey': 'weapon-great-sword-mammoth-greataxe-ii',
+            'icon': require('./assets/weapons/great_sword/mammoth_greataxe_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '10',
+            'attack': '1344',
+            'sharpness': 'blue',
+            'affinity': '0%',
+            'element': 'Ice (600)',
+            'slots': '4 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Monster Solidbone',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Banbaro Great Horn',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Banbaro Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Dragonbone Artifact',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-great-girros-tree',
@@ -1456,8 +1936,135 @@ let greatSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Naaga Guillotine I',
+                'from': 'Malady\'s Kiss III',
+                'translationKey': 'weapon-great-sword-naaga-guillotine-i',
+                'icon': require('./assets/weapons/great_sword/naaga_guillotine_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '9',
+                'attack': '960',
+                'sharpness': 'white',
+                'affinity': '20%',
+                'element': 'Paralysis 480',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Great Girros Hardfang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Great Girros Lash',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Ultraplegia Sac',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tough Claw',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Naaga Guillotine II',
+                'from': 'Naaga Guillotine I',
+                'translationKey': 'weapon-great-sword-naaga-guillotine-ii',
+                'icon': require('./assets/weapons/great_sword/naaga_guillotine_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1152',
+                'sharpness': 'white',
+                'affinity': '25%',
+                'element': 'Paralysis 510',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Odogaron Hardfang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Great Girros Shard',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Great Girros Hardhood',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Fey Wyvern Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-nargacuga-tree',
+        data: [{
+            'name': 'Hidden Blade I',
+            'from': 'Naaga Guillotine I',
+            'translationKey': 'weapon-great-sword-hidden-blade-i',
+            'icon': require('./assets/weapons/great_sword/hidden_blade_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '10',
+            'attack': '1008',
+            'sharpness': 'white',
+            'affinity': '20%',
+            'element': 'Poison (480)',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Nargacuga Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Nargacuga Shard',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Nargacuga Tailspear',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Meldspar Ore',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Hidden Blade II',
+            'from': 'Hidden Blade I',
+            'translationKey': 'weapon-great-sword-hidden-blade-ii',
+            'icon': require('./assets/weapons/great_sword/hidden_blade_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '10',
+            'attack': '1152',
+            'sharpness': 'purple',
+            'affinity': '25%',
+            'element': 'Poison (660)',
+            'slots': '1 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Fulgur Anjanath Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Nargacuga Cutwing+',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Nargacuga Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Nargacuga Mantle',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-lavasioth-tree',
@@ -1556,8 +2163,138 @@ let greatSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Pyre Cleaver I',
+                'from': 'Lava Blaze II',
+                'translationKey': 'weapon-great-sword-pyre-cleaver-i',
+                'icon': require('./assets/weapons/great_sword/pyre_cleaver_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1104',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Fire 630',
+                'slots': '4 2 -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Lavasioth Grandfin',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Lavasioth Hardfang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Lavasioth Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Barnos Hardclaw',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Pyre Cleaver II',
+                'from': 'Pyre Cleaver I',
+                'translationKey': 'weapon-great-sword-pyre-cleaver-ii',
+                'icon': require('./assets/weapons/great_sword/pyre_cleaver_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1200',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Fire 660',
+                'slots': '4 2 -',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Azure Rathalos Cortex',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Lavasioth Grandfin',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Lavasioth Hardfang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Monster Solidbone',
+                        'quantity': '3'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-glavenus-tree',
+        data: [{
+            'name': 'Glavenus Blaze I',
+            'from': 'Lava Blaze II',
+            'translationKey': 'weapon-great-sword-glavenus-blaze-i',
+            'icon': require('./assets/weapons/great_sword/glavenus_blaze_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '10',
+            'attack': '1104',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Fire 420',
+            'slots': '1 - -',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Glavenus Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Molten Bursa',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Eltalite Ore',
+                    'quantity': '6'
+                }
+            ],
+        }, {
+            'name': 'Glavenus Blaze II',
+            'from': 'Glavenus Blaze I',
+            'translationKey': 'weapon-great-sword-glavenus-blaze-ii',
+            'icon': require('./assets/weapons/great_sword/glavenus_blaze_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '10',
+            'attack': '1200',
+            'sharpness': 'purple',
+            'affinity': '0%',
+            'element': 'Fire 450',
+            'slots': '1 1 -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Ebony Odogaron Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Hellshell',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Glavenus Tailedge',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Mantle',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-pukei-pukei-tree',
@@ -1853,8 +2590,138 @@ let greatSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Datura Hellspine I',
+                'from': 'Datura Blaze III',
+                'translationKey': 'weapon-great-sword-datura-hellspine-i',
+                'icon': require('./assets/weapons/great_sword/datura_hellspine_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '9',
+                'attack': '960',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Poison 600',
+                'slots': '2 1 -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Pukei-Pukei Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Pukei-Pukei Fellwing',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Deadly Poison Sac',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Monster Toughbone',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Datura Hellspine II',
+                'from': 'Datura Hellspine I',
+                'translationKey': 'weapon-great-sword-datura-hellspine-ii',
+                'icon': require('./assets/weapons/great_sword/datura_hellspine_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1152',
+                'sharpness': 'purple',
+                'affinity': '0%',
+                'element': 'Poison 660',
+                'slots': '2 1 -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Rathian Surspike',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Large Pukei-Pukei Sac',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Pukei-Pukei Lash',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-nightshade-lumu-tree',
+        data: [{
+            'name': 'Nyx Razor I',
+            'from': 'Datura Hellspine I',
+            'translationKey': 'weapon-great-sword-nyx-razor-i',
+            'icon': require('./assets/weapons/great_sword/nyx_razor_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/9-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '9',
+            'attack': '1056',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Sleep 510',
+            'slots': '2 - -',
+            'cost': '20000',
+            'materials': [{
+                    'name': 'Nightshade Paolumu Thickfur',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Paolumu Cortex',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Nightshade Paolumu Fellwing',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Torpor Sac',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Nyx Razor II',
+            'from': 'Nyx Razor I',
+            'translationKey': 'weapon-great-sword-nyx-razor-ii',
+            'icon': require('./assets/weapons/great_sword/nyx_razor_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '10',
+            'attack': '1152',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Sleep 540',
+            'slots': '2 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Black Diablos Chine',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Nightshade Paolumu Shard',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Nightshade Paolumu Fellwing',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Large Wyvern Gem',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-rathalos-tree',
@@ -2105,7 +2972,103 @@ let greatSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Rathalos Glinsword+',
+                'from': 'Rathalos Glinsword',
+                'translationKey': 'weapon-great-sword-rathalos-glinsword-plus',
+                'icon': require('./assets/weapons/great_sword/rathalos_glinsword_plus.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1056',
+                'sharpness': 'white',
+                'affinity': '15%',
+                'element': 'Fire 300',
+                'slots': '1 - -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Rathalos Shard',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Rathalos Cortex',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Rathalos Fellwing',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Rath Wingtalon+',
+                        'quantity': '4'
+                    }
+                ],
+            },
+            {
+                'name': 'Rathflame Glinsword',
+                'from': 'Rathalos Glinsword+',
+                'translationKey': 'weapon-great-sword-rathflame-glinsword',
+                'icon': require('./assets/weapons/great_sword/rathflame_glinsword.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1152',
+                'sharpness': 'white',
+                'affinity': '20%',
+                'element': 'Fire 330',
+                'slots': '1 - -',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Azure Rathalos Shard',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Azure Rathalos Cortex',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Azure Rathalos Fellwing',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Rathalos Mantle',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Rathalos Gleamsword',
+                'from': 'Rathflame Glinsword',
+                'translationKey': 'weapon-great-sword-rathalos-gleamsword',
+                'icon': require('./assets/weapons/great_sword/rathalos_gleamsword.png'),
+                'weaponIcon': require('./assets/weapons/rarity/12-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '12',
+                'attack': '1296',
+                'sharpness': 'purple',
+                'affinity': '25%',
+                'element': 'Fire 390',
+                'slots': '2 - -',
+                'cost': '80000',
+                'materials': [{
+                        'name': 'Silver Rathalos Shard',
+                        'quantity': '8'
+                    },
+                    {
+                        'name': 'Silver Rathalos Cortex',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Silver Rathalos Lash',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Rath Gleam',
+                        'quantity': '2'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -2455,8 +3418,329 @@ let greatSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Ogre\'s Jaw I',
+                'from': 'Giant Jawblade II',
+                'translationKey': 'weapon-great-sword-ogres-jaw-i',
+                'icon': require('./assets/weapons/great_sword/ogres_jaw_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '9',
+                'attack': '1104',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Ice (390)',
+                'slots': '3 - -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Thick Bone',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Quality Bone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Monster Hardbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Frozen Bone',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Ogre\'s Jaw II',
+                'from': 'Ogre\'s Jaw I',
+                'translationKey': 'weapon-great-sword-ogres-jaw-ii',
+                'icon': require('./assets/weapons/great_sword/ogres_jaw_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1200',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Ice (420)',
+                'slots': '3 - -',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Monster Solidbone',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Thick Bone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Monster Essence',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Ogre\'s Jaw III',
+                'from': 'Ogre\'s Jaw II',
+                'translationKey': 'weapon-great-sword-ogres-jaw-iii',
+                'icon': require('./assets/weapons/great_sword/ogres_jaw_iii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '11',
+                'attack': '1344',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Ice (480)',
+                'slots': '3 - -',
+                'defenseBonus': '+35',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Large Elder Dragon Bone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Monster Solidbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Thick Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Dragonbone Artifact',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-velkhana-tree',
+        data: [{
+            'name': 'Icewing',
+            'from': 'Ogre\'s Jaw II',
+            'translationKey': 'weapon-great-sword-icewing',
+            'icon': require('./assets/weapons/great_sword/icewing.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '11',
+            'attack': '1248',
+            'sharpness': 'purple',
+            'affinity': '0%',
+            'element': 'Ice 330',
+            'slots': '4 - -',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Crystal Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Velkhana Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Velkhana Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Purecrystal',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Winged Seraphyd',
+            'from': 'Icewing',
+            'translationKey': 'weapon-great-sword-winged-seraphyd',
+            'icon': require('./assets/weapons/great_sword/winged_seraphyd.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '12',
+            'attack': '1296',
+            'sharpness': 'purple',
+            'affinity': '0%',
+            'element': 'Ice 450',
+            'slots': '4 - -',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Shara Ishvalda Tenderclaw',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Velkhana Crowhorn',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Velkhana Hardclaw',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Velkhana Crystal',
+                    'quantity': '1'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-tigrex-tree',
+        data: [{
+            'name': 'Tiger Jawblade',
+            'from': 'Ogre\'s Jaw I',
+            'translationKey': 'weapon-great-sword-tiger-jawblade',
+            'icon': require('./assets/weapons/great_sword/tiger_jawblade.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '10',
+            'attack': '1200',
+            'sharpness': 'white',
+            'affinity': '-20%',
+            'element': 'Blast (390)',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Tigrex Hardclaw',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Tigrex Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Monster Slogbone',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Thick Bone',
+                    'quantity': '5'
+                }
+            ],
+        }, {
+            'name': 'Tiger Jawblade+',
+            'from': 'Tiger Jawblade',
+            'translationKey': 'weapon-great-sword-tiger-jawblade-plus',
+            'icon': require('./assets/weapons/great_sword/tiger_jawblade_plus.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '10',
+            'attack': '1248',
+            'sharpness': 'white',
+            'affinity': '-20%',
+            'element': 'Blast (420)',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Blackcurl Stouthorn',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Tigrex Hardfang',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Tigrex Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Tigrex Mantle',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Tigrex Great Sword',
+            'from': 'Tiger Jawblade+',
+            'translationKey': 'weapon-great-sword-tigrex-great-sword',
+            'icon': require('./assets/weapons/great_sword/tigrex_great_sword.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '11',
+            'attack': '1344',
+            'sharpness': 'white',
+            'affinity': '-20%',
+            'element': 'Blast (450)',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Daora Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Tigrex Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Tigrex Cortex',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Pure Dragon Blood',
+                    'quantity': '5'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-brute-tigrex-tree',
+        data: [{
+            'name': 'Accursed Blade',
+            'from': 'Tiger Jawblade',
+            'translationKey': 'weapon-great-sword-accursed-blade',
+            'icon': require('./assets/weapons/great_sword/accursed_blade.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '11',
+            'attack': '1344',
+            'sharpness': 'purple',
+            'affinity': '-30%',
+            'element': 'Sleep (330)',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Brute Tigrex Hardclaw',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Brute Tigrex Shard',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Brute Tigrex Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Large Wyvern Gem',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Wildbite',
+            'from': 'Accursed Blade',
+            'translationKey': 'weapon-great-sword-wildbite',
+            'icon': require('./assets/weapons/great_sword/wildbite.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '12',
+            'attack': '1392',
+            'sharpness': 'purple',
+            'affinity': '-30%',
+            'element': 'Sleep (390)',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Tempered Ebonjaw',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Brute Tigrex Hardclaw',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Brute Tigrex Hardfang',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Tigrex Mantle',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-vaal-hazak-tree',
@@ -2561,7 +3845,73 @@ let greatSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Monstrous Madness',
+                'from': 'Leviathan\'s Fury',
+                'translationKey': 'weapon-great-sword-monstrous-madness',
+                'icon': require('./assets/weapons/great_sword/monstrous_madness.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '11',
+                'attack': '1104',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 420',
+                'elderseal': 'Average',
+                'slots': '2 2 -',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Vaal Hazak Hardclaw',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Shadowpierce Fang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Deceased Shard',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Deathweaver Membrane',
+                        'quantity': '3'
+                    }
+                ],
+            },
+            {
+                'name': 'Don Monstro',
+                'from': 'Monstrous Madness',
+                'translationKey': 'weapon-great-sword-don-monstro',
+                'icon': require('./assets/weapons/great_sword/don_monstro.png'),
+                'weaponIcon': require('./assets/weapons/rarity/12-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '12',
+                'attack': '1200',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 570',
+                'elderseal': 'Average',
+                'slots': '2 2 -',
+                'cost': '80000',
+                'materials': [{
+                        'name': 'Shara Ishvalda Tenderclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Vaal Hazak Hardclaw',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Vaal Hazak Flail',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Large Elder Dragon Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -2712,8 +4062,165 @@ let greatSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Gnashing Flammenzahn+',
+                'from': 'Gnashing Flammenzahn',
+                'translationKey': 'weapon-great-sword-gnashing-flammenzahn-plus',
+                'icon': require('./assets/weapons/great_sword/gnashing_flammenzahn_plus.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '9',
+                'attack': '1104',
+                'sharpness': 'white',
+                'affinity': '-30%',
+                'element': 'Fire 600',
+                'cost': '20000',
+                'materials': [{
+                        'name': 'Anjanath Hardfang',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Anjanath Shard',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Conflagrant Sac',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Eltalite Ore',
+                        'quantity': '3'
+                    }
+                ],
+            },
+            {
+                'name': 'Lohenzahn',
+                'from': 'Gnashing Flammenzahn+',
+                'translationKey': 'weapon-great-sword-lohenzahn',
+                'icon': require('./assets/weapons/great_sword/lohenzahn.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1296',
+                'sharpness': 'white',
+                'affinity': '-30%',
+                'element': 'Fire 720',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Azure Rathalos Cortex',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Anjanath Fur',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Heavy Anjanath Nosebone',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Anjanath Lash',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-fulgur-anjanath-tree',
+        data: [{
+            'name': 'Donnerzahn',
+            'from': 'Gnashing Flammenzahn+',
+            'translationKey': 'weapon-great-sword-donnerzahn',
+            'icon': require('./assets/weapons/great_sword/donnerzahn.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '10',
+            'attack': '1152',
+            'sharpness': 'white',
+            'affinity': '10%',
+            'element': 'Thunder 300',
+            'slots': '',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Fulgur Anjanath Hardfang',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Fulgur Anjanath Shard',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Monster Solidbone',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Meldspar Ore',
+                    'quantity': '2'
+                }
+            ],
+        }, {
+            'name': 'Donnerzahn+',
+            'from': 'Donnerzahn',
+            'translationKey': 'weapon-great-sword-donnerzahn-plus',
+            'icon': require('./assets/weapons/great_sword/donnerzahn_plus.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '10',
+            'attack': '1200',
+            'sharpness': 'white',
+            'affinity': '20%',
+            'element': 'Thunder 330',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Fulgur Anjanath Thickfur',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Heavy Fulgur Anjanath Nosebone',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Fulgur Anjanath Lash',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Lightning Sac',
+                    'quantity': '3'
+                }
+            ],
+        }, {
+            'name': 'Fulguration\'s Edge',
+            'from': 'Donnerzahn+',
+            'translationKey': 'weapon-great-sword-fulgurations-edge',
+            'icon': require('./assets/weapons/great_sword/fulgurations_edge.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '11',
+            'attack': '1248',
+            'sharpness': 'white',
+            'affinity': '25%',
+            'element': 'Thunder 360',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Kirin Silvermane',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Fulgur Anjanath Hardfang',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Fulgur Anjanath Thickfur',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Fulgur Anjanath Mantle',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-water-element-tree',
@@ -3013,8 +4520,170 @@ let greatSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Water Golem IV',
+                'from': 'Water Golem III',
+                'translationKey': 'weapon-great-sword-water-golem-iv',
+                'icon': require('./assets/weapons/great_sword/water_golem_iv.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '9',
+                'attack': '1008',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Water 360',
+                'slots': '2 - -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Jyuratodus Grandfin',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Jyuratodus Hardfang',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Jyuratodus Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Gajau Thickhide',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Laguna Golem I',
+                'from': 'Water Golem IV',
+                'translationKey': 'weapon-great-sword-laguna-golem-i',
+                'icon': require('./assets/weapons/great_sword/laguna_golem_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '9',
+                'attack': '1056',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Water 480',
+                'slots': '2 1 -',
+                'cost': '20000',
+                'materials': [{
+                        'name': 'Coral Pukei-Pukei Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Coral Pukei-Pukei Fellwing',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Flood Sac',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Bathycite Ore',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Laguna Golem II',
+                'from': 'Laguna Golem I',
+                'translationKey': 'weapon-great-sword-laguna-golem-ii',
+                'icon': require('./assets/weapons/great_sword/laguna_golem_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1152',
+                'sharpness': 'purple',
+                'affinity': '0%',
+                'element': 'Water 510',
+                'slots': '2 1 -',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Acidic Glavenus Hardfang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Monster Solidbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Large Coral Pukei-Pukei Sac',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Coral Pukei-Pukei Lash',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-beotodus-tree',
+        data: [{
+            'name': 'Beo Slasher I',
+            'from': 'Water Golem III',
+            'translationKey': 'weapon-great-sword-beo-slasher-i',
+            'icon': require('./assets/weapons/great_sword/beo_slasher_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/9-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '9',
+            'attack': '1008',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Ice 390',
+            'slots': '2 1 -',
+            'cost': '16000',
+            'materials': [{
+                    'name': 'Beotodus Grandfin',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Beotodus Hardhorn',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Beotodus Shard',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Frozen Bone',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Beo Slasher II',
+            'from': 'Beo Slasher I',
+            'translationKey': 'weapon-great-sword-beo-slasher-ii',
+            'icon': require('./assets/weapons/great_sword/beo_slasher_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '10',
+            'attack': '1200',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Ice 480',
+            'slots': '2 1 -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Rimed Hide',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Beotodus Grandfin',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Cryo Sac',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Large Wyvern Gem',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-barroth-tree',
@@ -3316,8 +4985,139 @@ let greatSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Barroth Greatedge I',
+                'from': 'Barroth Shredder III',
+                'translationKey': 'weapon-great-sword-barroth-greatedge-i',
+                'icon': require('./assets/weapons/great_sword/barroth_greatedge_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '9',
+                'attack': '1152',
+                'sharpness': 'white',
+                'affinity': '-20%',
+                'element': 'Paralysis (450)',
+                'slots': '2 2 -',
+                'defenseBonus': '+25',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Barroth Hardclaw',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Barroth Cortex',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Barroth Chine',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Kestodon Husk',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Barroth Greatedge II',
+                'from': 'Barroth Greatedge I',
+                'translationKey': 'weapon-great-sword-barroth-greatedge-ii',
+                'icon': require('./assets/weapons/great_sword/barroth_greatedge_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1296',
+                'sharpness': 'white',
+                'affinity': '-20%',
+                'element': 'Paralysis (600)',
+                'slots': '2 2 -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Diablos Cortex',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Barroth Hardlcaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Barroth Crown',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-acidic-glavenus-tree',
+        data: [{
+            'name': 'Acid Shredder I',
+            'from': 'Barroth Greatedge I',
+            'translationKey': 'weapon-great-sword-acid-shredder-i',
+            'icon': require('./assets/weapons/great_sword/acid_shredder_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '10',
+            'attack': '1296',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Paralysis (390)',
+            'slots': '4 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Acidic Glavenus Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Acidic Glavenus Spineshell',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Acidic Glavenus Tailedge',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Honed Acidcryst',
+                    'quantity': '4'
+                }
+            ],
+        }, {
+            'name': 'Acid Shredder II',
+            'from': 'Acid Shredder I',
+            'translationKey': 'weapon-great-sword-acid-shredder-ii',
+            'icon': require('./assets/weapons/great_sword/acid_shredder_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '11',
+            'attack': '1392',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Paralysis (420)',
+            'slots': '4 - -',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Vaal Hazak Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Acidic Glavenus Hardfang',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Acidic Glavenus Spineshell',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Glavenus Mantle',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-radobaan-tree',
@@ -3566,8 +5366,137 @@ let greatSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Radobaan Grindblade I',
+                'from': 'Radobaan Slab III',
+                'translationKey': 'weapon-great-sword-radobaan-grindblade-i',
+                'icon': require('./assets/weapons/great_sword/radobaan_grindblade_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '9',
+                'attack': '1056',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Sleep 330',
+                'defenseBonus': '+35',
+                'cost': '20000',
+                'materials': [{
+                        'name': 'Radobaan Cortex',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Radobaan Shard',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Torpor Sac',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Monster Toughbone',
+                        'quantity': '3'
+                    }
+                ],
+            },
+            {
+                'name': 'Radobaan Grindblade II',
+                'from': 'Radobaan Grindblade I',
+                'translationKey': 'weapon-great-sword-radobaan-grindblade-ii',
+                'icon': require('./assets/weapons/great_sword/radobaan_grindblade_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1200',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Sleep 390',
+                'defenseBonus': '+35',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Monster Solidbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Large Wyvern Bonemass',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Radobaan Oilshell+',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Thick Bone',
+                        'quantity': '5'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-brachydios-tree',
+        data: [{
+            'name': 'Dios Blade',
+            'from': 'Radobaan Grindblade I',
+            'translationKey': 'weapon-great-sword-dios-blade',
+            'icon': require('./assets/weapons/great_sword/dios_blade.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '10',
+            'attack': '1056',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Blast 360',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Brachydios Crown',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Brachydios Cortex',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Glowing Slime',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Meldspar Ore',
+                    'quantity': '3'
+                }
+            ],
+        }, {
+            'name': 'Brach Attack',
+            'from': 'Dios Blade',
+            'translationKey': 'weapon-great-sword-brach-attack',
+            'icon': require('./assets/weapons/great_sword/brach_attack.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '11',
+            'attack': '1200',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Blast 570',
+            'slots': '1 - -',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Distilled Blast Fluid',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Brachydios Crown',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Fine Brachydios Ebonshell',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Brachydios Pallium',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-dragonbone-tree',
@@ -3712,8 +5641,111 @@ let greatSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Dragonseal Sword I',
+                'from': 'Dragonseal Cleaver III',
+                'translationKey': 'weapon-great-sword-dragonseal-sword-i',
+                'icon': require('./assets/weapons/great_sword/dragonseal_sword_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '10',
+                'attack': '1008',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 600',
+                'elderseal': 'Average',
+                'slots': '1 1 -',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Monster Solidbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Monster Slogbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Thick Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Dragonbone Artifact',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Dragonseal Sword II',
+                'from': 'Dragonseal Sword I',
+                'translationKey': 'weapon-great-sword-dragonseal-sword-ii',
+                'icon': require('./assets/weapons/great_sword/dragonseal_sword_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '11',
+                'attack': '1152',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 720',
+                'elderseal': 'Average',
+                'slots': '1 1 -',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Large Elder Dragon Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Monster Solidbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Lavasioth Grandfin',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Large Wyvern Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-shara-ishvalda-tree',
+        data: [{
+            'name': 'Immovable Dharma',
+            'from': 'Dragonseal Sword I',
+            'translationKey': 'weapon-great-sword-immovable-dharma',
+            'icon': require('./assets/weapons/great_sword/immovable_dharma.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '12',
+            'attack': '1344',
+            'sharpness': 'purple',
+            'affinity': '0%',
+            'element': 'Dragon (540)',
+            'elderseal': 'High',
+            'slots': '1 1 -',
+            'defenseBonus': '+30',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Shara Ishvalda Tenderclaw',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Shara Ishvalda Tenderscale',
+                    'quantity': '6'
+                },
+                {
+                    'name': 'Shara Ishvalda Tenderplate',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Shara Ishvalda Gem',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-kirin-tree',
@@ -3863,7 +5895,38 @@ let greatSwordTree = [{
                         'quantity': '2'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Emperor Thundersword',
+                'from': 'King Thundersword',
+                'translationKey': 'weapon-great-sword-emperor-thundersword',
+                'icon': require('./assets/weapons/great_sword/emperor_thundersword.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '11',
+                'attack': '1152',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Thunder 720',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Kirin Azure Horn+',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Kirin Finehide',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Kirin Silvermane',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Purecrystal',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -3969,7 +6032,40 @@ let greatSwordTree = [{
                         'quantity': '3'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Magdaros Volcanblade',
+                'from': 'Magda Potestas II',
+                'translationKey': 'weapon-great-sword-magdaros-volcanblade',
+                'icon': require('./assets/weapons/great_sword/magdaros_volcanblade.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '11',
+                'attack': '1344',
+                'sharpness': 'purple',
+                'affinity': '-20%',
+                'element': 'Blast 580',
+                'slots': '2 - -',
+                'defenseBonus': '+45',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Elder Dragonvein Bone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Dragonvein Solidbone',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Heavy Dragonvein Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Large Elder Dragon Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -4168,7 +6264,39 @@ let greatSwordTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Daora\'s Tughril Beg',
+                'from': 'Daora\'s Decimator',
+                'translationKey': 'weapon-great-sword-daoras-tughril-beg',
+                'icon': require('./assets/weapons/great_sword/daoras_tughril_beg.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+                'type': 'Great Sword',
+                'rarity': '11',
+                'attack': '1248',
+                'sharpness': 'purple',
+                'affinity': '15%',
+                'element': 'Ice 330',
+                'slots': '2 - -',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Daora Hardhorn',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Daora Hardclaw',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Daora Shard',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Large Elder Dragon Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -4323,7 +6451,38 @@ let greatSwordTree = [{
                         'quantity': '2'
                     }
                 ]
-            },
+            }, {
+            'name': 'Ultra Wyvern Jawblade',
+            'from': 'Great Wyvern Jawblade',
+            'translationKey': 'weapon-great-sword-ultra-wyvern-jawblade',
+            'icon': require('./assets/weapons/great_sword/ultra_wyvern_jawblade.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '11',
+            'attack': '1392',
+            'sharpness': 'blue',
+            'affinity': '0%',
+            'element': 'Blast (360)',
+            'slots': '4 - -',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Hero King Coin',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Glavenus Coin',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Nargacuga Coin',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Banbaro Coin',
+                    'quantity': '2'
+                }
+            ],
+        },
         ]
     },
     {
@@ -4425,7 +6584,38 @@ let greatSwordTree = [{
                     'quantity': '1'
                 },
             ]
-        }, ]
+        }, {
+            'name': 'Consummate Blade',
+            'from': 'Anguish',
+            'translationKey': 'weapon-great-sword-consumate-blade',
+            'icon': require('./assets/weapons/great_sword/consummate_blade.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '12',
+            'attack': '1344',
+            'sharpness': 'purple',
+            'affinity': '-30%',
+            'element': 'Dragon 390',
+            'elderseal': 'High',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Vile Fang',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Deviljho Ripper',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Black Blood',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Deviljho Crook',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-wyvern-ignition',
@@ -5085,6 +7275,41 @@ let greatSwordTree = [{
                 'name': 'Guts',
                 'level': '1',
             }, ]
+        }, {
+            'name': 'Soulfire Edge "Blaze"',
+            'from': 'Empress Galea "Blaze"',
+            'translationKey': 'weapon-great-sword-soulfire-edge-blaze',
+            'icon': require('./assets/weapons/great_sword/soulfire_edge_blaze.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '12',
+            'attack': '1200',
+            'sharpness': 'purple',
+            'affinity': '25%',
+            'element': 'Blast 390',
+            'slots': '2 1 -',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Lunastra Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Lunastra Hardhorn',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Lunastra Mane+',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Large Elder Dragon Gem',
+                    'quantity': '1'
+                }
+            ],
+            'skills': [{
+                'name': 'Guts',
+                'level': '1'
+            },]
         }, ]
     },
     {
@@ -5125,6 +7350,41 @@ let greatSwordTree = [{
                 'name': 'Hasten Recovery',
                 'level': '1',
             }, ]
+        }, {
+            'name': 'Soulfire Edge "Ruin"',
+            'from': 'Empress Galea "Ruin"',
+            'translationKey': 'weapon-great-sword-soulfire-edge-ruin',
+            'icon': require('./assets/weapons/great_sword/soulfire_edge_ruin.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '12',
+            'attack': '1296',
+            'sharpness': 'purple',
+            'affinity': '0%',
+            'element': 'Blast 330',
+            'slots': '2 2 -',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Lunastra Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Annihilating Greathorn',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Eternal Regrowth Plate',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Large Elder Dragon Gem',
+                    'quantity': '1'
+                }
+            ],
+            'skills': [{
+                'name': 'Hasten Recovery',
+                'level': '1'
+            },]
         }, ]
     },
     {
@@ -5165,8 +7425,200 @@ let greatSwordTree = [{
                 'name': 'Razor Sharp/Spare Shot',
                 'level': '1',
             }, ]
-        }, ]
-    }
+        }, {
+            'name': 'Soulfire Edge "Styx"',
+            'from': 'Empress Galea "Styx"',
+            'translationKey': 'weapon-great-sword-soulfire-edge-styx',
+            'icon': require('./assets/weapons/great_sword/soulfire_edge_styx.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '12',
+            'attack': '1200',
+            'sharpness': 'purple',
+            'affinity': '15%',
+            'element': 'Blast 480',
+            'slots': '3 3 -',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Lunastra Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Lunastra Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Elder Spiritvein Bone',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Large Elder Dragon Gem',
+                    'quantity': '1'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-rajang-tree',
+        data: [{
+            'name': 'Demon Rod',
+            'translationKey': 'weapon-great-sword-demon-rod',
+            'icon': require('./assets/weapons/great_sword/demon_rod.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '11',
+            'attack': '1392',
+            'sharpness': 'white',
+            'affinity': '-15%',
+            'element': 'Thunder 150',
+            'slots': '4 - -',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Rajang Hardhorn',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Rajang Hardclaw',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Rajang Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Rajang Wildpelt',
+                    'quantity': '2'
+                }
+            ],
+        }, {
+            'name': 'Great Demon Rod',
+            'from': 'Demon Rod',
+            'translationKey': 'weapon-great-sword-great-demon-rod',
+            'icon': require('./assets/weapons/great_sword/great_demon_rod.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '12',
+            'attack': '1488',
+            'sharpness': 'white',
+            'affinity': '-15%',
+            'element': 'Thunder 180',
+            'slots': '4 - -',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Tempered Glimmerpelt',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Rajang Hardhorn',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Rajang Hardfang',
+                    'quantity': '7'
+                },
+                {
+                    'name': 'Gold Rajang Pelt+',
+                    'quantity': '3'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-workshop-weapon-tree',
+        data: [{
+            'name': 'Frozen Speartuna',
+            'translationKey': 'weapon-great-sword-frozen-speartuna',
+            'icon': require('./assets/weapons/great_sword/frozen_speartuna.png'),
+            'weaponIcon': require('./assets/weapons/rarity/9-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '9',
+            'attack': '912',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Ice 510',
+            'slots': '1 - -',
+            'cost': '18000',
+            'materials': [{
+                    'name': 'Freezer Ticket',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Monster Toughbone',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Cryo Sac',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Gracium',
+                    'quantity': '2'
+                }
+            ],
+        }, {
+            'name': 'Freezer Speartuna',
+            'from': 'Frozen Speartuna',
+            'translationKey': 'weapon-great-sword-freezer-speartuna',
+            'icon': require('./assets/weapons/great_sword/freezer_speartuna.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '10',
+            'attack': '1008',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Ice 570',
+            'slots': '1 - -',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Freezer Ticket',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Monster Slogbone',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Cryo Sac',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Purecrystal',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Xiphias Gladius',
+            'from': 'Freezer Speartuna',
+            'translationKey': 'weapon-great-sword-xiphias-gladius',
+            'icon': require('./assets/weapons/great_sword/xiphias_gladius.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-great-sword.png'),
+            'type': 'Great Sword',
+            'rarity': '11',
+            'attack': '1152',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Ice 690',
+            'slots': '1 - -',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Freezer Ticket',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Monster Solidbone',
+                    'quantity': '6'
+                },
+                {
+                    'name': 'Cryo Sac',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Conqueror\'s Seal',
+                    'quantity': '2'
+                }
+            ],
+        },]
+    },
 ];
 
 let longSwordTree = [{

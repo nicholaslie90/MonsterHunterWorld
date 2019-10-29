@@ -1453,7 +1453,7 @@ export default {
     },
     "armor-hr-high-metal-greaves-beta": {
       "Key": "armor-hr-high-metal-greaves-beta",
-      "Translation": "สูงßโลหะสนับ"
+      "Translation": "สูงเอสเอสเมทัลสนับ"
     },
     "armor-hr-high-metal-helm-alpha": {
       "Key": "armor-hr-high-metal-helm-alpha",
@@ -1545,7 +1545,7 @@ export default {
     },
     "armor-hr-hunters-headgear-alpha": {
       "Key": "armor-hr-hunters-headgear-alpha",
-      "Translation": "ฮันเตอร์หมวก⍺"
+      "Translation": "ฮันเตอร์ของหมวก⍺"
     },
     "armor-hr-hunters-headgear-beta": {
       "Key": "armor-hr-hunters-headgear-beta",
@@ -3281,7 +3281,7 @@ export default {
     },
     "armor-kulve-taroth-description": {
       "Key": "armor-kulve-taroth-description",
-      "Translation": "Kulve Taroth ชุดเกราะที่ส่องกับแสงอุดมไปด้วย ความโกรธที่น่ากลัวของแม่เทพธิดาอยู่ภายใน"
+      "Translation": "Kulve Taroth เกราะที่ส่องกับแสงที่อุดมไปด้วย ความโกรธที่น่ากลัวของแม่เทพธิดาอยู่ภายใน"
     },
     "armor-kushala-description": {
       "Key": "armor-kushala-description",
@@ -4817,7 +4817,7 @@ export default {
     },
     "armor-mr-clockwork-greaves-alpha-plus": {
       "Key": "armor-mr-clockwork-greaves-alpha-plus",
-      "Translation": "Clockwork สนับ⍺ +"
+      "Translation": "ลานสนับ⍺ +"
     },
     "armor-mr-clockwork-greaves-beta-plus": {
       "Key": "armor-mr-clockwork-greaves-beta-plus",
@@ -6369,7 +6369,7 @@ export default {
     },
     "armor-mr-pukei-lagoon-greaves-alpha-plus": {
       "Key": "armor-mr-pukei-lagoon-greaves-alpha-plus",
-      "Translation": "Pukei ลากูนสนับ⍺ +"
+      "Translation": "Pukei ลากูนนับ⍺ +"
     },
     "armor-mr-pukei-lagoon-greaves-beta-plus": {
       "Key": "armor-mr-pukei-lagoon-greaves-beta-plus",
@@ -6741,7 +6741,7 @@ export default {
     },
     "armor-mr-silver-sol-beta-plus": {
       "Key": "armor-mr-silver-sol-beta-plus",
-      "Translation": "เงินโซล + SS"
+      "Translation": "เงินโซลบาท +"
     },
     "armor-mr-silver-solbraces-alpha-plus": {
       "Key": "armor-mr-silver-solbraces-alpha-plus",
@@ -7593,7 +7593,7 @@ export default {
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics-tips": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics-tips",
-      "Translation": "รางวัลนี้สามารถจะหยิบขึ้นมาที่นักวิจัย Lynian ในแอสเทราหลังจากที่คุณได้เสร็จสิ้นแรก 4 เควส Lynian วิจัย นักวิจัยขอให้คุณค้นพบ 10 Gajalaka Doodles. \\ n \\ n เป็นสิ่งสำคัญที่จะต้องทราบว่าสิ่งเหล่านี้วางไข่เฉพาะในช่วงนี้และรางวัลเฉพาะในสถานที่อันดับสูง คุณสามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 5 และ 1 เส้นขยุกขยิกในพื้นที่ 15 ในป่าโบราณ คุณสามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 3 และ 1 เส้นขยุกขยิกในพื้นที่ 7 ใน Wildspire เสีย. \\ n \\ n สามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 12 ใน Coral ไฮแลนด์ คุณสามารถค้นหา 2 ภาพดูเดิลในพื้นที่ 3 และ 3 ภาพดูเดิลในพื้นที่ 15 ในเน่าร์ทเวล เมื่อคุณกลับไปแอสเทรานักวิจัยต้องการให้ท่านออกไปหาค่าย Gajalaka. \\ n \\ n การค้นหานักวิจัยในพื้นที่ 8 มังกรพักผ่อน ในการเริ่มต้นเงินรางวัลที่จะต้องมีในเวลากลางคืน วางบน Ghillie เสื้อคลุมของคุณและพูดคุยกับผู้นำที่แคมป์ไฟในด้านหลังของค่าย ของรางวัล: ตอนนี้ Palico ของคุณสามารถใช้ค๊อกเทล meowlotov และพูดคุยกับ Gastodon"
+      "Translation": "รางวัลนี้สามารถหยิบขึ้นมาที่นักวิจัย Lynian ในแอสเทราหลังจากที่คุณได้เสร็จสิ้นแรก 4 เควส Lynian วิจัย นักวิจัยขอให้คุณค้นพบ 10 Gajalaka Doodles. \\ n \\ n เป็นสิ่งสำคัญที่จะต้องทราบว่าสิ่งเหล่านี้วางไข่เฉพาะในช่วงนี้และรางวัลเฉพาะในสถานที่อันดับสูง คุณสามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 5 และ 1 เส้นขยุกขยิกในพื้นที่ 15 ในป่าโบราณ คุณสามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 3 และ 1 เส้นขยุกขยิกในพื้นที่ 7 ใน Wildspire เสีย. \\ n \\ n สามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 12 ใน Coral ไฮแลนด์ คุณสามารถค้นหา 2 ภาพดูเดิลในพื้นที่ 3 และ 3 ภาพดูเดิลในพื้นที่ 15 ในเน่าร์ทเวล เมื่อคุณกลับไปแอสเทรานักวิจัยต้องการให้ท่านออกไปหาค่าย Gajalaka. \\ n \\ n การค้นหานักวิจัยในพื้นที่ 8 มังกรพักผ่อน ในการเริ่มต้นเงินรางวัลที่จะต้องมีในเวลากลางคืน วางบน Ghillie เสื้อคลุมของคุณและพูดคุยกับผู้นำที่แคมป์ไฟในด้านหลังของค่าย รางวัล: ตอนนี้ Palico ของคุณสามารถใช้ค๊อกเทล meowlotov และพูดคุยกับ Gastodon"
     },
     "critical-bounties-important": {
       "Key": "critical-bounties-important",
@@ -7913,7 +7913,7 @@ export default {
     },
     "endemic-life-nitrotoad-description": {
       "Key": "endemic-life-nitrotoad-description",
-      "Translation": "ของเหลวนี้ร้านค้าระเบิด! แต่ไม่ต้องกังวลฉันได้เรียนรู้บทเรียนของฉันกับคางคกผมจะไม่ได้สัมผัสคนนี้ ... เอ่อ ... มันคือการรั่วไหล ... ?"
+      "Translation": "ของเหลวนี้ร้านค้าระเบิด! แต่ไม่ต้องกังวลฉันได้เรียนรู้บทเรียนของฉันกับคางคกผมจะไม่ได้สัมผัสหนึ่งนี้ ... เอ่อ ... มันคือการรั่วไหล ... ?"
     },
     "endemic-life-omenfly-description": {
       "Key": "endemic-life-omenfly-description",
@@ -8881,7 +8881,7 @@ export default {
     },
     "monster-kushala-daora-characteristics": {
       "Key": "monster-kushala-daora-characteristics",
-      "Translation": "มังกรผู้สูงอายุที่ปกป้องตัวเองด้วยลมที่รุนแรงให้บุคคลอื่นเข้าใกล้มัน ผิวของมันประกอบด้วยยาก, เครื่องชั่งน้ำหนักโลหะ"
+      "Translation": "มังกรผู้สูงอายุที่ปกป้องตัวเองด้วยลมที่รุนแรงให้บุคคลอื่นเข้าใกล้มัน ผิวของมันประกอบด้วยยาก, เครื่องชั่งน้ำหนักที่เป็นโลหะ"
     },
     "monster-kushala-daora-useful-information": {
       "Key": "monster-kushala-daora-useful-information",
@@ -9105,7 +9105,7 @@ export default {
     },
     "monster-shamos-useful-information": {
       "Key": "monster-shamos-useful-information",
-      "Translation": "มอนสเตอร์ขนาดเล็กออกหากินเวลากลางคืน โดยเฉพาะอย่างยิ่งพวกเขากำลังเสี่ยงต่อการ blinding แฟลช Tzitzi ยา-Ku แต่ได้รับทราบเพื่อแก๊งขึ้นกับศัตรู"
+      "Translation": "มอนสเตอร์ขนาดเล็กออกหากินเวลากลางคืน พวกเขาโดยเฉพาะอย่างยิ่งความเสี่ยงที่จะ blinding แฟลช Tzitzi-Ya-Ku แต่ได้รับทราบเพื่อแก๊งขึ้นกับศัตรู"
     },
     "monster-shara-ishvalda": {
       "Key": "monster-shara-ishvalda",
@@ -9233,7 +9233,7 @@ export default {
     },
     "play-guide-accepting-guild-cards-description": {
       "Key": "play-guide-accepting-guild-cards-description",
-      "Translation": "คุณ cn ยอมรับการ์ด Guild คุณได้รับโดยการเลือกกิลด์การ์ดจากเมนูเริ่มต้น โปรดทราบว่าคุณสามารถถือได้ถึงยี่สิบไม่ยอมรับบัตรสมาคม"
+      "Translation": "cn คุณยอมรับการ์ด Guild คุณได้รับโดยการเลือกกิลด์การ์ดจากเมนูเริ่มต้น โปรดทราบว่าคุณสามารถถือได้ถึงยี่สิบไม่ยอมรับบัตรสมาคม"
     },
     "play-guide-actions-with-weapon-drawn": {
       "Key": "play-guide-actions-with-weapon-drawn",
@@ -9497,7 +9497,7 @@ export default {
     },
     "play-guide-collecting-safari-rewards-description": {
       "Key": "play-guide-collecting-safari-rewards-description",
-      "Translation": "Tailraider Safaris ใช้เวลาในการเสร็จสมบูรณ์ดังนั้นคุณจะต้องดำเนินการใน questes หรือการเดินทางในขณะที่พวกเขากำลังสัตย์ซื่อ นอกจากนี้คุณยังสามารถเก็บผลตอบแทนในขณะที่ซาฟารียังคงต่อเนื่องหรือยกเลิกอย่างต่อเนื่องซาฟารี"
+      "Translation": "Tailraider Safaris ใช้เวลาที่จะเสร็จสมบูรณ์ดังนั้นคุณจะต้องดำเนินการใน questes หรือการเดินทางในขณะที่พวกเขากำลังสัตย์ซื่อ นอกจากนี้คุณยังสามารถเก็บผลตอบแทนในขณะที่ซาฟารียังคงต่อเนื่องหรือยกเลิกอย่างต่อเนื่องซาฟารี"
     },
     "play-guide-critical-range": {
       "Key": "play-guide-critical-range",
@@ -10185,7 +10185,7 @@ export default {
     },
     "play-guide-paratoads-description": {
       "Key": "play-guide-paratoads-description",
-      "Translation": "เมื่อหลง paratoads ปล่อยสเปรย์ของก๊าซแข็งแรงพอที่จะทำให้เป็นอัมพาตมอนสเตอร์ขนาดใหญ่แม้กระทั่ง"
+      "Translation": "เมื่อหลง paratoads ปล่อยก๊าซสเปรย์แข็งแรงพอที่จะทำให้เป็นอัมพาตสัตว์ประหลาดขนาดใหญ่แม้กระทั่ง"
     },
     "play-guide-performance-effect-radius": {
       "Key": "play-guide-performance-effect-radius",
@@ -11385,7 +11385,7 @@ export default {
     },
     "quest-ballooning-problems-description": {
       "Key": "quest-ballooning-problems-description",
-      "Translation": "... ฉันขอโทษฉันเพียงแค่ retched คิดเกี่ยวกับใบหน้าของมอนสเตอร์ที่ อย่างจริงจังที่คุณจะทำมันชอบ ... และเราเกินไป ล่ามันและเรือเหาะวิศวกรจะมีทุกอย่างที่เขาต้องการ"
+      "Translation": "... ฉันขอโทษฉันเพียงแค่ retched คิดเกี่ยวกับใบหน้าของมอนสเตอร์ที่ อย่างจริงจังคุณจะทำมันชอบ ... และเราเกินไป ล่ามันและเรือเหาะวิศวกรจะมีทุกอย่างที่เขาต้องการ"
     },
     "quest-bazelgeuse-in-the-field-of-fire": {
       "Key": "quest-bazelgeuse-in-the-field-of-fire",
@@ -12201,7 +12201,7 @@ export default {
     },
     "quest-horned-tyrant-below-the-sands": {
       "Key": "quest-horned-tyrant-below-the-sands",
-      "Translation": "ทรราชหงอนด้านล่างแซนด์ส"
+      "Translation": "ทรราชหงอนด้านล่างทราย"
     },
     "quest-horned-tyrant-below-the-sands-description": {
       "Key": "quest-horned-tyrant-below-the-sands-description",
@@ -12945,7 +12945,7 @@ export default {
     },
     "quest-pretty-in-pink-description": {
       "Key": "quest-pretty-in-pink-description",
-      "Translation": "ทีมงานภาคสนามได้เห็นระเฑียรสีชมพูสะกดรอยตามสัตว์ป่าท้องถิ่น ชนิดย่อยเช่นนี้มีคุณค่าสูงสำหรับการวิจัยของคณะกรรมาธิการ รับไปล่า!"
+      "Translation": "ทีมงานภาคสนามได้เห็นระเฑียรสีชมพูสะกดรอยตามสัตว์ป่าท้องถิ่น ชนิดย่อยเช่นนี้เป็นที่มีคุณค่าสูงสำหรับความพยายามของการวิจัยของคณะกรรมาธิการ รับไปล่า!"
     },
     "quest-pretty-in-pink-notes": {
       "Key": "quest-pretty-in-pink-notes",
@@ -12961,7 +12961,7 @@ export default {
     },
     "quest-prickly-predicament-notable-rewards": {
       "Key": "quest-prickly-predicament-notable-rewards",
-      "Translation": "ปลดล็อครายการต่อไปนี้การเพาะปลูก: Nulberry อาจ Seed เมล็ดยืนกราน Antidote สมุนไพรไฟสมุนไพร Flowfern หิมะ Herb นอนสมุนไพร Smokenut, Dragonfell Berry, Blastnut, Dragonstrike อ่อนนุช Slashberry, Bomberry, Flamenut, Blazenut"
+      "Translation": "ปลดล็อครายการต่อไปนี้การเพาะปลูก: Nulberry อาจ Seed เมล็ดยืนกราน Antidote สมุนไพรไฟสมุนไพร Flowfern หิมะสมุนไพร, การนอนหลับสมุนไพร Smokenut, Dragonfell Berry, Blastnut, Dragonstrike อ่อนนุช Slashberry, Bomberry, Flamenut, Blazenut"
     },
     "quest-prickly-predicament-tips": {
       "Key": "quest-prickly-predicament-tips",
@@ -12997,7 +12997,7 @@ export default {
     },
     "quest-rathalos-in-blue-description": {
       "Key": "quest-rathalos-in-blue-description",
-      "Translation": "ทีมงานภาคสนามได้ด่าง Azure Rathalos patroling ท้องฟ้า ชนิดย่อยเช่นนี้มีคุณค่าสูงสำหรับการวิจัยของคณะกรรมาธิการ รับไปล่า!"
+      "Translation": "ทีมงานภาคสนามได้ด่าง Azure Rathalos patroling ท้องฟ้า ชนิดย่อยเช่นนี้เป็นที่มีคุณค่าสูงสำหรับความพยายามของการวิจัยของคณะกรรมาธิการ รับไปล่า!"
     },
     "quest-rathalos-in-blue-notes": {
       "Key": "quest-rathalos-in-blue-notes",
@@ -13049,7 +13049,7 @@ export default {
     },
     "quest-rollin-with-the-uragaan-description": {
       "Key": "quest-rollin-with-the-uragaan-description",
-      "Translation": "Urk หัวของฉันยังคงปั่นจากสิ่งที่ฉันเพิ่งเห็น เราต้องการใครสักคนที่จะออกก่อกวนเหล่านี้ก่อนใครได้รับอึดอัดใจ การแสวงหานี้สำหรับจำนวนมากของเกราะ Spheres ครับ"
+      "Translation": "Urk หัวของฉันยังคงปั่นจากสิ่งที่ฉันเพิ่งเห็น เราต้องการใครสักคนที่จะออกก่อกวนเหล่านี้ก่อนใครได้รับอึดอัดใจ การแสวงหานี้สำหรับจำนวนมากของเกราะทรงกลม!"
     },
     "quest-royal-relocation": {
       "Key": "quest-royal-relocation",
@@ -13349,7 +13349,7 @@ export default {
     },
     "quest-special-arena-odogaron": {
       "Key": "quest-special-arena-odogaron",
-      "Translation": "Arena พิเศษ: Odogaron"
+      "Translation": "สนามกีฬาพิเศษ: Odogaron"
     },
     "quest-special-arena-odogaron-tips": {
       "Key": "quest-special-arena-odogaron-tips",
@@ -14181,7 +14181,7 @@ export default {
     },
     "settings-join-discord-text": {
       "Key": "settings-join-discord-text",
-      "Translation": "เข้าร่วมกับเซิร์ฟเวอร์ความขัดแย้งของฉัน! พูดคุยกับผู้เล่นอื่น ๆ หารือเกี่ยวกับมอนสเตอร์และกลยุทธ์การตั้งค่าห้องเกมให้เพื่อนใหม่และสนทนากับผมโดยตรง :)"
+      "Translation": "เข้าร่วมกับเซิร์ฟเวอร์ความขัดแย้งของฉัน! พูดคุยกับผู้เล่นอื่นหารือเกี่ยวกับมอนสเตอร์และกลยุทธ์การตั้งค่าห้องเกมให้เพื่อนใหม่และสนทนากับผมโดยตรง :)"
     },
     "settings-language": {
       "Key": "settings-language",
@@ -15917,7 +15917,7 @@ export default {
     },
     "skill-offensive-guard-3": {
       "Key": "skill-offensive-guard-3",
-      "Translation": "ในขณะที่การเพิ่มขึ้นของการใช้งานโจมตีพลังงานโดย 15%"
+      "Translation": "ในขณะที่เพิ่มขึ้นของการใช้งานโจมตีพลังงานโดย 15%"
     },
     "skill-offensive-guard-description": {
       "Key": "skill-offensive-guard-description",
@@ -16869,7 +16869,7 @@ export default {
     },
     "trophy-another-giant-crown-description": {
       "Key": "trophy-another-giant-crown-description",
-      "Translation": "ขอรับมงกุฎทองแรกของคุณสำหรับการจับภาพชีวิตประจำถิ่นในตำแหน่งหลัก"
+      "Translation": "ได้รับมงกุฎทองแรกของคุณสำหรับการจับภาพชีวิตประจำถิ่นในตำแหน่งหลัก"
     },
     "trophy-another-miniature-crown": {
       "Key": "trophy-another-miniature-crown",
@@ -16957,7 +16957,7 @@ export default {
     },
     "trophy-confronting-the-unknown-description": {
       "Key": "trophy-confronting-the-unknown-description",
-      "Translation": "ล่ามอนสเตอร์ที่แตกต่างกันครั้งแรกของคุณ"
+      "Translation": "ตามล่ามอนสเตอร์ที่แตกต่างกันครั้งแรกของคุณ"
     },
     "trophy-conqueror-of-the-hinterlands": {
       "Key": "trophy-conqueror-of-the-hinterlands",
@@ -17565,7 +17565,7 @@ export default {
     },
     "trophy-the-true-hunt-begins-description": {
       "Key": "trophy-the-true-hunt-begins-description",
-      "Translation": "ล่าสัตว์ประหลาดขนาดใหญ่ครั้งแรกของคุณในการแสวงหายศต้นแบบ"
+      "Translation": "ล่ามอนสเตอร์ขนาดใหญ่ครั้งแรกของคุณในการแสวงหายศต้นแบบ"
     },
     "trophy-time-to-get-serious": {
       "Key": "trophy-time-to-get-serious",
@@ -17661,7 +17661,7 @@ export default {
     },
     "ui-fanged-wyverns": {
       "Key": "ui-fanged-wyverns",
-      "Translation": "เขี้ยว Wyverns"
+      "Translation": "Wyverns เขี้ยว"
     },
     "ui-filter": {
       "Key": "ui-filter",
@@ -19169,7 +19169,7 @@ export default {
     },
     "weapon-hammer-gold-thunder-bludgeon": {
       "Key": "weapon-hammer-gold-thunder-bludgeon",
-      "Translation": "ทันเดอร์ทองกระบอง"
+      "Translation": "ทองกระบองทันเดอร์"
     },
     "weapon-hammer-gold-water-bludgeon": {
       "Key": "weapon-hammer-gold-water-bludgeon",
@@ -19229,7 +19229,7 @@ export default {
     },
     "weapon-hammer-iron-hammer-iii": {
       "Key": "weapon-hammer-iron-hammer-iii",
-      "Translation": "เหล็กค้อน III"
+      "Translation": "เหล็กค้อนที่สาม"
     },
     "weapon-hammer-jail-hammer": {
       "Key": "weapon-hammer-jail-hammer",
@@ -19645,7 +19645,7 @@ export default {
     },
     "weapon-hunting-horn-heavy-bone-horn-i": {
       "Key": "weapon-hunting-horn-heavy-bone-horn-i",
-      "Translation": "หนักกระดูกผมฮอร์น"
+      "Translation": "หนักกระดูกฮอร์นผม"
     },
     "weapon-hunting-horn-heavy-bone-horn-ii": {
       "Key": "weapon-hunting-horn-heavy-bone-horn-ii",
@@ -22225,7 +22225,7 @@ export default {
     },
     "weapon-dual-blades-hidden-tomahawk-ii": {
       "Key": "weapon-dual-blades-hidden-tomahawk-ii",
-      "Translation": "ซ่อน Tomahawk ครั้งที่สอง"
+      "Translation": "ซ่อน Tomahawk II"
     },
     "weapon-dual-blades-blazing-warhawks": {
       "Key": "weapon-dual-blades-blazing-warhawks",
@@ -22474,5 +22474,293 @@ export default {
     "weapon-dual-blades-suzuka-otakemaru": {
       "Key": "weapon-dual-blades-suzuka-otakemaru",
       "Translation": "ซูซูกะเซอร์ Otakemaru"
+    },
+    "weapon-great-sword-chrome-deathscythe-i": {
+      "Key": "weapon-great-sword-chrome-deathscythe-i",
+      "Translation": "โครเมี่ยม Deathscythe ฉัน"
+    },
+    "weapon-great-sword-chrome-deathscythe-ii": {
+      "Key": "weapon-great-sword-chrome-deathscythe-ii",
+      "Translation": "โครเมี่ยม Deathscythe ครั้งที่สอง"
+    },
+    "weapon-great-sword-ruinous-atrocity": {
+      "Key": "weapon-great-sword-ruinous-atrocity",
+      "Translation": "โหดร้ายล่มจม"
+    },
+    "weapon-great-sword-lightning-punisher-iv": {
+      "Key": "weapon-great-sword-lightning-punisher-iv",
+      "Translation": "สายฟ้าลงโทษ IV"
+    },
+    "weapon-great-sword-severing-bolt-i": {
+      "Key": "weapon-great-sword-severing-bolt-i",
+      "Translation": "ขาดกลอนฉัน"
+    },
+    "weapon-great-sword-frost-blaze-iii": {
+      "Key": "weapon-great-sword-frost-blaze-iii",
+      "Translation": "ฟรอสต์ Blaze III"
+    },
+    "weapon-great-sword-icicle-fang": {
+      "Key": "weapon-great-sword-icicle-fang",
+      "Translation": "หยาดฝาง"
+    },
+    "weapon-great-sword-icicle-fang-plus": {
+      "Key": "weapon-great-sword-icicle-fang-plus",
+      "Translation": "หยาดฝาง +"
+    },
+    "weapon-great-sword-paladire": {
+      "Key": "weapon-great-sword-paladire",
+      "Translation": "Paladire"
+    },
+    "weapon-great-sword-jagras-deathclaw-i": {
+      "Key": "weapon-great-sword-jagras-deathclaw-i",
+      "Translation": "Jagras Deathclaw ฉัน"
+    },
+    "weapon-great-sword-jagras-deathclaw-ii": {
+      "Key": "weapon-great-sword-jagras-deathclaw-ii",
+      "Translation": "Jagras Deathclaw ครั้งที่สอง"
+    },
+    "weapon-great-sword-mammoth-greataxe-i": {
+      "Key": "weapon-great-sword-mammoth-greataxe-i",
+      "Translation": "แมมมอ ธ Greataxe ฉัน"
+    },
+    "weapon-great-sword-mammoth-greataxe-ii": {
+      "Key": "weapon-great-sword-mammoth-greataxe-ii",
+      "Translation": "แมมมอ ธ Greataxe ครั้งที่สอง"
+    },
+    "weapon-great-sword-naaga-guillotine-i": {
+      "Key": "weapon-great-sword-naaga-guillotine-i",
+      "Translation": "Naaga กิโยตินฉัน"
+    },
+    "weapon-great-sword-naaga-guillotine-ii": {
+      "Key": "weapon-great-sword-naaga-guillotine-ii",
+      "Translation": "Naaga กิโยตินที่สอง"
+    },
+    "weapon-great-sword-hidden-blade-i": {
+      "Key": "weapon-great-sword-hidden-blade-i",
+      "Translation": "Hidden Blade ฉัน"
+    },
+    "weapon-great-sword-hidden-blade-ii": {
+      "Key": "weapon-great-sword-hidden-blade-ii",
+      "Translation": "Hidden Blade II"
+    },
+    "weapon-great-sword-pyre-cleaver-i": {
+      "Key": "weapon-great-sword-pyre-cleaver-i",
+      "Translation": "เมรุเผาตอฉัน"
+    },
+    "weapon-great-sword-pyre-cleaver-ii": {
+      "Key": "weapon-great-sword-pyre-cleaver-ii",
+      "Translation": "เมรุเผาตครั้งที่สอง"
+    },
+    "weapon-great-sword-glavenus-blaze-i": {
+      "Key": "weapon-great-sword-glavenus-blaze-i",
+      "Translation": "Glavenus Blaze ฉัน"
+    },
+    "weapon-great-sword-glavenus-blaze-ii": {
+      "Key": "weapon-great-sword-glavenus-blaze-ii",
+      "Translation": "Glavenus Blaze ครั้งที่สอง"
+    },
+    "weapon-great-sword-datura-hellspine-i": {
+      "Key": "weapon-great-sword-datura-hellspine-i",
+      "Translation": "ลำโพง Hellspine ฉัน"
+    },
+    "weapon-great-sword-datura-hellspine-ii": {
+      "Key": "weapon-great-sword-datura-hellspine-ii",
+      "Translation": "ลำโพง Hellspine ครั้งที่สอง"
+    },
+    "weapon-tree-nightshade-lumu-tree": {
+      "Key": "weapon-tree-nightshade-lumu-tree",
+      "Translation": "ราตรี Lumu ต้นไม้"
+    },
+    "weapon-great-sword-nyx-razor-i": {
+      "Key": "weapon-great-sword-nyx-razor-i",
+      "Translation": "Nyx มีดโกนผม"
+    },
+    "weapon-great-sword-nyx-razor-ii": {
+      "Key": "weapon-great-sword-nyx-razor-ii",
+      "Translation": "Nyx มีดโกนครั้งที่สอง"
+    },
+    "weapon-great-sword-rathalos-glinsword-plus": {
+      "Key": "weapon-great-sword-rathalos-glinsword-plus",
+      "Translation": "Rathalos Glinsword +"
+    },
+    "weapon-great-sword-rathflame-glinsword": {
+      "Key": "weapon-great-sword-rathflame-glinsword",
+      "Translation": "Rathflame Glinsword"
+    },
+    "weapon-great-sword-rathalos-gleamsword": {
+      "Key": "weapon-great-sword-rathalos-gleamsword",
+      "Translation": "Rathalos Gleamsword"
+    },
+    "weapon-great-sword-ogres-jaw-i": {
+      "Key": "weapon-great-sword-ogres-jaw-i",
+      "Translation": "Ogre ของขากรรไกรผม"
+    },
+    "weapon-great-sword-ogres-jaw-ii": {
+      "Key": "weapon-great-sword-ogres-jaw-ii",
+      "Translation": "Ogre ของขากรรไกรที่สอง"
+    },
+    "weapon-great-sword-ogres-jaw-iii": {
+      "Key": "weapon-great-sword-ogres-jaw-iii",
+      "Translation": "Ogre ของขากรรไกร III"
+    },
+    "weapon-great-sword-icewing": {
+      "Key": "weapon-great-sword-icewing",
+      "Translation": "Icewing"
+    },
+    "weapon-great-sword-winged-seraphyd": {
+      "Key": "weapon-great-sword-winged-seraphyd",
+      "Translation": "ปีก Seraphyd"
+    },
+    "weapon-great-sword-tiger-jawblade": {
+      "Key": "weapon-great-sword-tiger-jawblade",
+      "Translation": "เสือ Jawblade"
+    },
+    "weapon-great-sword-tiger-jawblade-plus": {
+      "Key": "weapon-great-sword-tiger-jawblade-plus",
+      "Translation": "เสือ Jawblade +"
+    },
+    "weapon-great-sword-tigrex-great-sword": {
+      "Key": "weapon-great-sword-tigrex-great-sword",
+      "Translation": "Tigrex มหาราชดาบ"
+    },
+    "weapon-great-sword-accursed-blade": {
+      "Key": "weapon-great-sword-accursed-blade",
+      "Translation": "อัปรีย์ Blade"
+    },
+    "weapon-great-sword-wildbite": {
+      "Key": "weapon-great-sword-wildbite",
+      "Translation": "Wildbite"
+    },
+    "weapon-great-sword-monstrous-madness": {
+      "Key": "weapon-great-sword-monstrous-madness",
+      "Translation": "บ้ามหึมา"
+    },
+    "weapon-great-sword-don-monstro": {
+      "Key": "weapon-great-sword-don-monstro",
+      "Translation": "ดอน Monstro"
+    },
+    "weapon-great-sword-gnashing-flammenzahn-plus": {
+      "Key": "weapon-great-sword-gnashing-flammenzahn-plus",
+      "Translation": "ขบ Flammenzahn +"
+    },
+    "weapon-great-sword-lohenzahn": {
+      "Key": "weapon-great-sword-lohenzahn",
+      "Translation": "Lohenzahn"
+    },
+    "weapon-great-sword-donnerzahn": {
+      "Key": "weapon-great-sword-donnerzahn",
+      "Translation": "Donnerzahn"
+    },
+    "weapon-great-sword-donnerzahn-plus": {
+      "Key": "weapon-great-sword-donnerzahn-plus",
+      "Translation": "Donnerzahn +"
+    },
+    "weapon-great-sword-fulgurations-edge": {
+      "Key": "weapon-great-sword-fulgurations-edge",
+      "Translation": "fulguration ขอบ"
+    },
+    "weapon-great-sword-water-golem-iv": {
+      "Key": "weapon-great-sword-water-golem-iv",
+      "Translation": "น้ำ Golem IV"
+    },
+    "weapon-great-sword-laguna-golem-i": {
+      "Key": "weapon-great-sword-laguna-golem-i",
+      "Translation": "ลากูน่า Golem ฉัน"
+    },
+    "weapon-great-sword-laguna-golem-ii": {
+      "Key": "weapon-great-sword-laguna-golem-ii",
+      "Translation": "ลากูน่า Golem ครั้งที่สอง"
+    },
+    "weapon-great-sword-beo-slasher-i": {
+      "Key": "weapon-great-sword-beo-slasher-i",
+      "Translation": "Beo Slasher ฉัน"
+    },
+    "weapon-great-sword-beo-slasher-ii": {
+      "Key": "weapon-great-sword-beo-slasher-ii",
+      "Translation": "Beo Slasher ครั้งที่สอง"
+    },
+    "weapon-great-sword-barroth-greatedge-i": {
+      "Key": "weapon-great-sword-barroth-greatedge-i",
+      "Translation": "Barroth Greatedge ฉัน"
+    },
+    "weapon-great-sword-barroth-greatedge-ii": {
+      "Key": "weapon-great-sword-barroth-greatedge-ii",
+      "Translation": "Barroth Greatedge ครั้งที่สอง"
+    },
+    "weapon-great-sword-acid-shredder-i": {
+      "Key": "weapon-great-sword-acid-shredder-i",
+      "Translation": "กรด Shredder ฉัน"
+    },
+    "weapon-great-sword-acid-shredder-ii": {
+      "Key": "weapon-great-sword-acid-shredder-ii",
+      "Translation": "กรด Shredder ครั้งที่สอง"
+    },
+    "weapon-great-sword-radobaan-grindblade-i": {
+      "Key": "weapon-great-sword-radobaan-grindblade-i",
+      "Translation": "Radobaan Grindblade ฉัน"
+    },
+    "weapon-great-sword-dios-blade": {
+      "Key": "weapon-great-sword-dios-blade",
+      "Translation": "Dios Blade"
+    },
+    "weapon-great-sword-brach-attack": {
+      "Key": "weapon-great-sword-brach-attack",
+      "Translation": "สาขาการโจมตี"
+    },
+    "weapon-great-sword-dragonseal-sword-i": {
+      "Key": "weapon-great-sword-dragonseal-sword-i",
+      "Translation": "Dragonseal ดาบฉัน"
+    },
+    "weapon-great-sword-dragonseal-sword-ii": {
+      "Key": "weapon-great-sword-dragonseal-sword-ii",
+      "Translation": "Dragonseal ดาบที่สอง"
+    },
+    "weapon-great-sword-immovable-dharma": {
+      "Key": "weapon-great-sword-immovable-dharma",
+      "Translation": "อสังหาริมทรัพย์ธรรมะ"
+    },
+    "weapon-great-sword-emperor-thundersword": {
+      "Key": "weapon-great-sword-emperor-thundersword",
+      "Translation": "จักรพรรดิ Thundersword"
+    },
+    "weapon-great-sword-magdaros-volcanblade": {
+      "Key": "weapon-great-sword-magdaros-volcanblade",
+      "Translation": "Magdaros Volcanblade"
+    },
+    "weapon-great-sword-daoras-tughril-beg": {
+      "Key": "weapon-great-sword-daoras-tughril-beg",
+      "Translation": "Daora ของ Tughril Beg"
+    },
+    "weapon-great-sword-ultra-wyvern-jawblade": {
+      "Key": "weapon-great-sword-ultra-wyvern-jawblade",
+      "Translation": "อัลตร้า Wyvern Jawblade"
+    },
+    "weapon-great-sword-soulfire-edge-blaze": {
+      "Key": "weapon-great-sword-soulfire-edge-blaze",
+      "Translation": "Soulfire ขอบ \"Blaze\""
+    },
+    "weapon-great-sword-soulfire-edge-ruin": {
+      "Key": "weapon-great-sword-soulfire-edge-ruin",
+      "Translation": "Soulfire ขอบ \"ทำลาย\""
+    },
+    "weapon-great-sword-soulfire-edge-styx": {
+      "Key": "weapon-great-sword-soulfire-edge-styx",
+      "Translation": "Soulfire ขอบ \"ปรภพ\""
+    },
+    "weapon-great-sword-demon-rod": {
+      "Key": "weapon-great-sword-demon-rod",
+      "Translation": "ที่ดีปีศาจร็อด"
+    },
+    "weapon-great-sword-frozen-speartuna": {
+      "Key": "weapon-great-sword-frozen-speartuna",
+      "Translation": "แช่แข็ง Speartuna"
+    },
+    "weapon-great-sword-freezer-speartuna": {
+      "Key": "weapon-great-sword-freezer-speartuna",
+      "Translation": "ตู้แช่แข็ง Speartuna"
+    },
+    "weapon-great-sword-xiphias-gladius": {
+      "Key": "weapon-great-sword-xiphias-gladius",
+      "Translation": "Xiphias Gladius"
     }
   }

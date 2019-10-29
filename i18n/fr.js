@@ -225,7 +225,7 @@ export default {
     },
     "armor-empress-mail-description": {
       "Key": "armor-empress-mail-description",
-      "Translation": "Comme un trésor sacré stocké dans une forteresse, la flamme bleue de Lunastra est scellé dans."
+      "Translation": "Comme un trésor sacré stocké dans une forteresse, la flamme bleue de Lunastra est scellé à l'intérieur."
     },
     "armor-empress-vambraces-description": {
       "Key": "armor-empress-vambraces-description",
@@ -241,7 +241,7 @@ export default {
     },
     "armor-gala-suit-description": {
       "Key": "armor-gala-suit-description",
-      "Translation": "Nécessite un billet d'appréciation à l'artisanat. Cette armure magnifique éblouit aussi brillamment que l'appréciation Fest."
+      "Translation": "Nécessite une vente de billets d'appréciation pour l'artisanat. Cette armure magnifique éblouit aussi brillamment que l'appréciation Fest."
     },
     "armor-gastodon-description": {
       "Key": "armor-gastodon-description",
@@ -3301,7 +3301,7 @@ export default {
     },
     "armor-legiana-description": {
       "Key": "armor-legiana-description",
-      "Translation": "Armure portée par les maîtres éprouvés du vent. Fait de pièces Legiana il scintille d'un bleu perçant."
+      "Translation": "Armure portée par les maîtres éprouvés du vent. Fait de pièces Legiana, il scintille d'un bleu perçant."
     },
     "armor-lr-alloy": {
       "Key": "armor-lr-alloy",
@@ -3825,7 +3825,7 @@ export default {
     },
     "armor-lr-kadachi-greaves": {
       "Key": "armor-lr-kadachi-greaves",
-      "Translation": "Kadachi Grèves"
+      "Translation": "Grèves Kadachi"
     },
     "armor-lr-kadachi-helm": {
       "Key": "armor-lr-kadachi-helm",
@@ -4073,7 +4073,7 @@ export default {
     },
     "armor-lr-queen-beetle-brachia": {
       "Key": "armor-lr-queen-beetle-brachia",
-      "Translation": "Reine Beetle brachia"
+      "Translation": "Queen Beetle brachia"
     },
     "armor-lr-queen-beetle-crura": {
       "Key": "armor-lr-queen-beetle-crura",
@@ -4221,7 +4221,7 @@ export default {
     },
     "armor-mr-acidic-glavenus-coil-alpha-plus": {
       "Key": "armor-mr-acidic-glavenus-coil-alpha-plus",
-      "Translation": "Acidic Glavenus Coil ⍺ +"
+      "Translation": "Glavenus Coil ⍺ Acidic +"
     },
     "armor-mr-acidic-glavenus-coil-beta-plus": {
       "Key": "armor-mr-acidic-glavenus-coil-beta-plus",
@@ -4229,7 +4229,7 @@ export default {
     },
     "armor-mr-acidic-glavenus-greaves-alpha-plus": {
       "Key": "armor-mr-acidic-glavenus-greaves-alpha-plus",
-      "Translation": "Acidic Glavenus Grèves ⍺ +"
+      "Translation": "Grèves ⍺ Glavenus Acidic +"
     },
     "armor-mr-acidic-glavenus-greaves-beta-plus": {
       "Key": "armor-mr-acidic-glavenus-greaves-beta-plus",
@@ -4333,11 +4333,11 @@ export default {
     },
     "armor-mr-anja-vambraces-alpha-plus": {
       "Key": "armor-mr-anja-vambraces-alpha-plus",
-      "Translation": "Anja Brassards ⍺ +"
+      "Translation": "Anja + Brassards ⍺"
     },
     "armor-mr-anja-vambraces-beta-plus": {
       "Key": "armor-mr-anja-vambraces-beta-plus",
-      "Translation": "ß Anja Brassards +"
+      "Translation": "ß Anja + vambraces"
     },
     "armor-mr-artian-alpha-plus": {
       "Key": "armor-mr-artian-alpha-plus",
@@ -5761,7 +5761,7 @@ export default {
     },
     "armor-mr-kadachi-hat-beta-plus": {
       "Key": "armor-mr-kadachi-hat-beta-plus",
-      "Translation": "Kadachi Chapeau ß +"
+      "Translation": "Kadachi Hat + ß"
     },
     "armor-mr-kadachi-mail-alpha-plus": {
       "Key": "armor-mr-kadachi-mail-alpha-plus",
@@ -6737,7 +6737,7 @@ export default {
     },
     "armor-mr-silver-sol-alpha-plus": {
       "Key": "armor-mr-silver-sol-alpha-plus",
-      "Translation": "Argent Sol ⍺ +"
+      "Translation": "Sol argent ⍺ +"
     },
     "armor-mr-silver-sol-beta-plus": {
       "Key": "armor-mr-silver-sol-beta-plus",
@@ -7329,7 +7329,7 @@ export default {
     },
     "armor-set-bonus-skill-hasten-recovery-description": {
       "Key": "armor-set-bonus-skill-hasten-recovery-description",
-      "Translation": "Régénère votre santé que vous attaquez un monstre sans cesse. Récupération varie selon l'arme."
+      "Translation": "Régénère votre santé que vous attaquez un monstre sans cesse. Récupération varie en arme."
     },
     "armor-set-bonus-skill-igni-intensity": {
       "Key": "armor-set-bonus-skill-igni-intensity",
@@ -7513,7 +7513,7 @@ export default {
     },
     "armor-uragaan-description": {
       "Key": "armor-uragaan-description",
-      "Translation": "armure lourde a fait de lourdes pièces Uragaan, et chaque once de celui-ci ajoute à sa défense."
+      "Translation": "armure lourde fait de lourdes pièces Uragaan, et chaque once de ajoute à sa défense."
     },
     "armor-vaal-hazak-description": {
       "Key": "armor-vaal-hazak-description",
@@ -8537,7 +8537,7 @@ export default {
     },
     "layered-armor-shadow-shades-how-to-get": {
       "Key": "layered-armor-shadow-shades-how-to-get",
-      "Translation": "Remplissez Tapi dans la livraison Ombres."
+      "Translation": "Remplissez Tapi dans la livraison ombres."
     },
     "layered-armor-shadow-shades-layered-head": {
       "Key": "layered-armor-shadow-shades-layered-head",
@@ -8621,7 +8621,7 @@ export default {
     },
     "monster-barnos-useful-information": {
       "Key": "monster-barnos-useful-information",
-      "Translation": "wingdrakes ferventes qui ont prospéré dans des conditions de vie difficiles. Ils ciblent les intrus avec un agent acide unique, puis attaque comme un essaim."
+      "Translation": "wingdrakes ferventes qui ont prospéré dans des conditions de vie difficiles. Ils ciblent les intrus avec un agent acide unique, puis attaquer comme un essaim."
     },
     "monster-barroth": {
       "Key": "monster-barroth",
@@ -8633,7 +8633,7 @@ export default {
     },
     "monster-barroth-useful-information": {
       "Key": "monster-barroth-useful-information",
-      "Translation": "Bien qu'il utilise la boue durcie comme une armure, peut également Barroth le jeter hors de son corps comme d'une attaque. Utiliser des armes d'éléments d'eau ou votre Slinger frapper peu à peu sa boue."
+      "Translation": "Bien qu'il utilise la boue durcie comme une armure, Barroth peut aussi le jeter hors de son corps comme une attaque. Utiliser des armes d'éléments d'eau ou votre Slinger frapper peu à peu sa boue."
     },
     "monster-bazelgeuse": {
       "Key": "monster-bazelgeuse",
@@ -9289,7 +9289,7 @@ export default {
     },
     "play-guide-armor-spheres-description": {
       "Key": "play-guide-armor-spheres-description",
-      "Translation": "Vous pouvez mettre à jour votre armure en utilisant des sphères d'armure. sphères d'armure peuvent être obtenus comme récompense de quête ou en remplissant des primes au Centre des ressources."
+      "Translation": "Vous pouvez mettre à jour votre armure en utilisant des sphères d'armure. sphères d'armure peuvent être obtenus en récompense de quête ou en remplissant des primes au Centre des ressources."
     },
     "play-guide-astera-news": {
       "Key": "play-guide-astera-news",
@@ -9329,7 +9329,7 @@ export default {
     },
     "play-guide-bounty-rewards-description": {
       "Key": "play-guide-bounty-rewards-description",
-      "Translation": "Une fois que vous avez terminé une Bouty, vous pouvez visiter le Centre de ressources pour recueillir les récompenses, qui sont souvent des sphères d'armure et les points de recherche."
+      "Translation": "Une fois que vous avez terminé un Bouty, vous pouvez visiter le Centre de ressources pour recueillir les récompenses, qui sont souvent des sphères d'armure et les points de recherche."
     },
     "play-guide-bounty-updates": {
       "Key": "play-guide-bounty-updates",
@@ -9401,7 +9401,7 @@ export default {
     },
     "play-guide-camera-types": {
       "Key": "play-guide-camera-types",
-      "Translation": "Types de caméra"
+      "Translation": "Types de l'appareil photo"
     },
     "play-guide-camera-types-description": {
       "Key": "play-guide-camera-types-description",
@@ -9725,7 +9725,7 @@ export default {
     },
     "play-guide-flashflies-description": {
       "Key": "play-guide-flashflies-description",
-      "Translation": "Lorsque vous êtes touché, flashflies émettent un flash de lumière qui peut étourdir mosnters. Le flash est plus forte lorsque plus Flashflies sont frappés à la fois."
+      "Translation": "Lorsque vous êtes touché, flashflies émettent un flash de lumière qui peut étourdir mosnters. Le flash est plus forte quand Flashflies est frappé à la fois."
     },
     "play-guide-foresight-slash": {
       "Key": "play-guide-foresight-slash",
@@ -10305,7 +10305,7 @@ export default {
     },
     "play-guide-scatternuts-description": {
       "Key": "play-guide-scatternuts-description",
-      "Translation": "Scatternuts peuvent être récupérés et utilisés comme munitions Slinger. Quand ils ont frappé quelque chose, ils se brisent, émettant un bruit fort et petites ondes de choc qui peut étourdir les monstres."
+      "Translation": "Scatternuts peuvent être récupérés et utilisés comme Slinger munitions. Quand ils ont frappé quelque chose, ils se brisent, émettant un bruit fort et petites ondes de choc qui peut étourdir les monstres."
     },
     "play-guide-scoutflies": {
       "Key": "play-guide-scoutflies",
@@ -10881,7 +10881,7 @@ export default {
     },
     "poogie-bacon-behemoth": {
       "Key": "poogie-bacon-behemoth",
-      "Translation": "Bacon Behemoth"
+      "Translation": "Bacon Béhémoth"
     },
     "poogie-bacon-behemoth-how-to-get": {
       "Key": "poogie-bacon-behemoth-how-to-get",
@@ -11181,7 +11181,7 @@ export default {
     },
     "quest-a-rush-of-blood-description": {
       "Key": "quest-a-rush-of-blood-description",
-      "Translation": "Oh non! Il y a ths grand ol » monstre qui ressemble beaucoup à notre Rush! Le Gottal de quelqu'un calme le grand garçon vers le bas! Aidez-nous, et nous allons vous donner quelques engins spécial pour votre Palico!"
+      "Translation": "Oh non! Il y a ths grand ol » monstre qui ressemble beaucoup à notre Rush! Le Gottal de quelqu'un calme le grand garçon vers le bas! Aidez-nous, et nous allons vous donner quelques engins spéciaux pour votre Palico!"
     },
     "quest-a-scalding-scoop": {
       "Key": "quest-a-scalding-scoop",
@@ -12617,7 +12617,7 @@ export default {
     },
     "quest-objective-hunt-a-barroth": {
       "Key": "quest-objective-hunt-a-barroth",
-      "Translation": "Hunt a Barroth"
+      "Translation": "Chassez un Barroth"
     },
     "quest-objective-hunt-a-bazelgeuse": {
       "Key": "quest-objective-hunt-a-bazelgeuse",
@@ -12937,7 +12937,7 @@ export default {
     },
     "quest-persistent-pests-tips": {
       "Key": "quest-persistent-pests-tips",
-      "Translation": "À partir de Sud-Camp (1), vers l'ouest pour trouver le premier groupe dans le secteur 3. Grimpez la vigne et aller vers le nord dans le secteur 4 pour trouver un grand nombre d'entre eux, quelques relancement de la piscine de sang. (Vous pouvez capturer Scavantula dans ce domaine, assurez-vous de ne pas les effaroucher)"
+      "Translation": "À partir de Sud-Camp (1), vers l'ouest pour trouver le premier groupe dans le secteur 3. Grimpez la vigne et aller vers le nord dans le secteur 4 pour trouver un grand nombre d'entre eux, quelques relancement de la piscine de sang. (Vous pouvez capturer Scavantula dans cette zone, assurez-vous de ne pas les effaroucher)"
     },
     "quest-pretty-in-pink": {
       "Key": "quest-pretty-in-pink",
@@ -13061,7 +13061,7 @@ export default {
     },
     "quest-royal-relocation-tips": {
       "Key": "quest-royal-relocation-tips",
-      "Translation": "Ne vous embêtez pas avec la protection de poison si vous ne pouvez pas empêcher complètement, juste apporter avec vous et Antidote utiliser l'équipement résistant au feu. À partir de Southwest Camp (1), vers le nord dans le secteur 2 forêt pour trouver la cible. Rathian est encore susceptible d'empoisonner malgré ses attaques empoisonnées de sorte que le Poisoncup dans le secteur 3 peuvent être utilisés. Son nid est de l'autre de la carte du secteur 12, Voyage rapide à l'Est Camp (11) et monter les vignes après l'eau."
+      "Translation": "Ne vous embêtez pas avec la protection de poison si vous ne pouvez pas empêcher complètement, juste apporter avec vous et Antidote utiliser l'équipement résistant au feu. À partir de Southwest Camp (1), vers le nord dans le secteur 2 forêt pour trouver la cible. Rathian est encore susceptible d'empoisonner malgré ses attaques empoisonnées de sorte que le Poisoncup dans le secteur 3 peuvent être utilisés. Son nid est de l'autre côté de la carte dans le secteur 12, Voyage rapide à l'Est Camp (11) et monter les vignes après l'eau."
     },
     "quest-rrrrrumble-in-the-waste": {
       "Key": "quest-rrrrrumble-in-the-waste",
@@ -13589,7 +13589,7 @@ export default {
     },
     "quest-the-heart-of-the-nora-description": {
       "Key": "quest-the-heart-of-the-nora-description",
-      "Translation": "Non ... Coeur de Mère! Les survivants se cachent dans la montagne seront enterrés si vous ne prenez pas tomber ces monstres. Surmonter cette menace, et je vous fournir un équipement spécial!"
+      "Translation": "Non ... Coeur de Mère! Les survivants se cachent dans la montagne seront enterrés si vous ne prenez pas tomber ces monstres. Surmonter cette menace et je vais vous fournir un équipement spécial!"
     },
     "quest-the-heralds-of-destruction-cry": {
       "Key": "quest-the-heralds-of-destruction-cry",
@@ -14301,7 +14301,7 @@ export default {
     },
     "settings-remove-ads-text": {
       "Key": "settings-remove-ads-text",
-      "Translation": "Supprimer les annonces et profiter de la succession écran supplémentaire! Si vous avez acheté et les annonces sont diffusées encore, essayez de cliquer sur ce bouton une nouvelle fois pour supprimer les annonces. Si vous avez des problèmes, contactez-moi dès que possible par courriel et je vais vous aider dès que possible!"
+      "Translation": "Supprimer les annonces et profiter de la succession écran supplémentaire! Si vous avez acheté et les annonces sont diffusées encore, essayez de cliquer sur ce bouton une nouvelle fois pour supprimer les annonces. Si vous avez des problèmes, contactez-moi par courriel dès que possible et je vais vous aider dès que possible!"
     },
     "settings-restore-purchase": {
       "Key": "settings-restore-purchase",
@@ -14369,7 +14369,7 @@ export default {
     },
     "skill-affinity-sliding-1": {
       "Key": "skill-affinity-sliding-1",
-      "Translation": "Augmente l'affinité de 30% pour une courte période après glissement."
+      "Translation": "Augmente l'affinité de 30% pendant une courte période après glissement."
     },
     "skill-affinity-sliding-description": {
       "Key": "skill-affinity-sliding-description",
@@ -14669,7 +14669,7 @@ export default {
     },
     "skill-bow-charge-plus-1": {
       "Key": "skill-bow-charge-plus-1",
-      "Translation": "Effet de la compétence active."
+      "Translation": "Active effet de la compétence."
     },
     "skill-bow-charge-plus-description": {
       "Key": "skill-bow-charge-plus-description",
@@ -14749,7 +14749,7 @@ export default {
     },
     "skill-coldproof-1": {
       "Key": "skill-coldproof-1",
-      "Translation": "Effet de la compétence active."
+      "Translation": "Active effet de la compétence."
     },
     "skill-coldproof-description": {
       "Key": "skill-coldproof-description",
@@ -14893,7 +14893,7 @@ export default {
     },
     "skill-defense-boost-2": {
       "Key": "skill-defense-boost-2",
-      "Translation": "défense 10"
+      "Translation": "défense +10"
     },
     "skill-defense-boost-3": {
       "Key": "skill-defense-boost-3",
@@ -15397,7 +15397,7 @@ export default {
     },
     "skill-guts-1": {
       "Key": "skill-guts-1",
-      "Translation": "Effet de la compétence active."
+      "Translation": "Active effet de la compétence."
     },
     "skill-guts-description": {
       "Key": "skill-guts-description",
@@ -15421,7 +15421,7 @@ export default {
     },
     "skill-handicraft-4": {
       "Key": "skill-handicraft-4",
-      "Translation": "netteté Weapon + 40"
+      "Translation": "netteté de l'arme + 40"
     },
     "skill-handicraft-5": {
       "Key": "skill-handicraft-5",
@@ -15437,11 +15437,11 @@ export default {
     },
     "skill-hasten-recovery-1": {
       "Key": "skill-hasten-recovery-1",
-      "Translation": "Effet de la compétence active."
+      "Translation": "Active effet de la compétence."
     },
     "skill-hasten-recovery-description": {
       "Key": "skill-hasten-recovery-description",
-      "Translation": "Régénère votre santé que vous attaquez un monstre sans cesse. Récupération varie selon l'arme."
+      "Translation": "Régénère votre santé que vous attaquez un monstre sans cesse. Récupération varie en arme."
     },
     "skill-health-boost": {
       "Key": "skill-health-boost",
@@ -15717,7 +15717,7 @@ export default {
     },
     "skill-latent-power-5": {
       "Key": "skill-latent-power-5",
-      "Translation": "Tant qu'elle est active, augmente l'affinité de 50% et réduit l'épuisement de l'endurance de 50%."
+      "Translation": "Tant qu'il est actif, augmente l'affinité de 50% et réduit l'épuisement de l'endurance de 50%."
     },
     "skill-latent-power-description": {
       "Key": "skill-latent-power-description",
@@ -15829,7 +15829,7 @@ export default {
     },
     "skill-minds-eye-ballistics-1": {
       "Key": "skill-minds-eye-ballistics-1",
-      "Translation": "Effet de la compétence active."
+      "Translation": "Active effet de la compétence."
     },
     "skill-minds-eye-ballistics-description": {
       "Key": "skill-minds-eye-ballistics-description",
@@ -16013,7 +16013,7 @@ export default {
     },
     "skill-partbreaker-2": {
       "Key": "skill-partbreaker-2",
-      "Translation": "dommages Partie + 20%"
+      "Translation": "dommages Partie 20% +"
     },
     "skill-partbreaker-3": {
       "Key": "skill-partbreaker-3",
@@ -16201,7 +16201,7 @@ export default {
     },
     "skill-razor-sharp-spare-shot-1": {
       "Key": "skill-razor-sharp-spare-shot-1",
-      "Translation": "Effet de la compétence active."
+      "Translation": "Active effet de la compétence."
     },
     "skill-razor-sharp-spare-shot-description": {
       "Key": "skill-razor-sharp-spare-shot-description",
@@ -17045,7 +17045,7 @@ export default {
     },
     "trophy-evolving-ecology-description": {
       "Key": "trophy-evolving-ecology-description",
-      "Translation": "Soulever toute la région au niveau 7."
+      "Translation": "Lever toutes les régions de niveau 7."
     },
     "trophy-experienced-rider": {
       "Key": "trophy-experienced-rider",
@@ -18029,7 +18029,7 @@ export default {
     },
     "weapon-dual-blades-luminous-daggers-ii": {
       "Key": "weapon-dual-blades-luminous-daggers-ii",
-      "Translation": "II lumineux Dagues"
+      "Translation": "Lumineux Dagues II"
     },
     "weapon-dual-blades-lurk-gold-twinblades": {
       "Key": "weapon-dual-blades-lurk-gold-twinblades",
@@ -19629,7 +19629,7 @@ export default {
     },
     "weapon-hunting-horn-great-bagpipe-iii": {
       "Key": "weapon-hunting-horn-great-bagpipe-iii",
-      "Translation": "Grande Cornemuse III"
+      "Translation": "Great Cornemuse III"
     },
     "weapon-hunting-horn-hard-bone-horn-i": {
       "Key": "weapon-hunting-horn-hard-bone-horn-i",
@@ -19777,7 +19777,7 @@ export default {
     },
     "weapon-hunting-horn-sonic-horn-ii": {
       "Key": "weapon-hunting-horn-sonic-horn-ii",
-      "Translation": "Sonic II Corne"
+      "Translation": "Sonic II Klaxon"
     },
     "weapon-hunting-horn-sonic-horn-iii": {
       "Key": "weapon-hunting-horn-sonic-horn-iii",
@@ -20221,7 +20221,7 @@ export default {
     },
     "weapon-lance-kulu-lance-iii": {
       "Key": "weapon-lance-kulu-lance-iii",
-      "Translation": "Kulu Lance III"
+      "Translation": "Lance kulu III"
     },
     "weapon-lance-legiana-halberd-i": {
       "Key": "weapon-lance-legiana-halberd-i",
@@ -20853,7 +20853,7 @@ export default {
     },
     "weapon-long-sword-thief-gold-katana": {
       "Key": "weapon-long-sword-thief-gold-katana",
-      "Translation": "Voleur d'or Katana"
+      "Translation": "Gold Thief Katana"
     },
     "weapon-long-sword-wyvern-blade-azure": {
       "Key": "weapon-long-sword-wyvern-blade-azure",
@@ -20977,7 +20977,7 @@ export default {
     },
     "weapon-sword-and-shield-chief-kukri-i": {
       "Key": "weapon-sword-and-shield-chief-kukri-i",
-      "Translation": "Chef Koukri I"
+      "Translation": "Chef Kukri I"
     },
     "weapon-sword-and-shield-chief-kukri-ii": {
       "Key": "weapon-sword-and-shield-chief-kukri-ii",
@@ -21257,7 +21257,7 @@ export default {
     },
     "weapon-sword-and-shield-numb-gold-scimitar": {
       "Key": "weapon-sword-and-shield-numb-gold-scimitar",
-      "Translation": "Numb Or Scimitar"
+      "Translation": "Engourdis Or Scimitar"
     },
     "weapon-sword-and-shield-princess-rapier": {
       "Key": "weapon-sword-and-shield-princess-rapier",
@@ -21609,7 +21609,7 @@ export default {
     },
     "weapon-long-sword-acid-scimitar-ii": {
       "Key": "weapon-long-sword-acid-scimitar-ii",
-      "Translation": "Acide Scimitar II"
+      "Translation": "Scimitar II Acide"
     },
     "weapon-long-sword-blinding-blaze-i": {
       "Key": "weapon-long-sword-blinding-blaze-i",
@@ -21945,7 +21945,7 @@ export default {
     },
     "weapon-gunlance-soul-chariot": {
       "Key": "weapon-gunlance-soul-chariot",
-      "Translation": "Ame Chariot"
+      "Translation": "Chariot âme"
     },
     "weapon-gunlance-chariot-gun": {
       "Key": "weapon-gunlance-chariot-gun",
@@ -22474,5 +22474,293 @@ export default {
     "weapon-dual-blades-suzuka-otakemaru": {
       "Key": "weapon-dual-blades-suzuka-otakemaru",
       "Translation": "Suzuka Otakemaru"
+    },
+    "weapon-great-sword-chrome-deathscythe-i": {
+      "Key": "weapon-great-sword-chrome-deathscythe-i",
+      "Translation": "Chrome Deathscythe I"
+    },
+    "weapon-great-sword-chrome-deathscythe-ii": {
+      "Key": "weapon-great-sword-chrome-deathscythe-ii",
+      "Translation": "Chrome Deathscythe II"
+    },
+    "weapon-great-sword-ruinous-atrocity": {
+      "Key": "weapon-great-sword-ruinous-atrocity",
+      "Translation": "ruineux Atrocity"
+    },
+    "weapon-great-sword-lightning-punisher-iv": {
+      "Key": "weapon-great-sword-lightning-punisher-iv",
+      "Translation": "Foudre Punisher IV"
+    },
+    "weapon-great-sword-severing-bolt-i": {
+      "Key": "weapon-great-sword-severing-bolt-i",
+      "Translation": "Sectionnant Bolt I"
+    },
+    "weapon-great-sword-frost-blaze-iii": {
+      "Key": "weapon-great-sword-frost-blaze-iii",
+      "Translation": "Blaze III gel"
+    },
+    "weapon-great-sword-icicle-fang": {
+      "Key": "weapon-great-sword-icicle-fang",
+      "Translation": "Icicle Fang"
+    },
+    "weapon-great-sword-icicle-fang-plus": {
+      "Key": "weapon-great-sword-icicle-fang-plus",
+      "Translation": "Icicle Fang +"
+    },
+    "weapon-great-sword-paladire": {
+      "Key": "weapon-great-sword-paladire",
+      "Translation": "Paladire"
+    },
+    "weapon-great-sword-jagras-deathclaw-i": {
+      "Key": "weapon-great-sword-jagras-deathclaw-i",
+      "Translation": "Jagras Griffemort I"
+    },
+    "weapon-great-sword-jagras-deathclaw-ii": {
+      "Key": "weapon-great-sword-jagras-deathclaw-ii",
+      "Translation": "Jagras Griffemort II"
+    },
+    "weapon-great-sword-mammoth-greataxe-i": {
+      "Key": "weapon-great-sword-mammoth-greataxe-i",
+      "Translation": "Mammoth Bardiche I"
+    },
+    "weapon-great-sword-mammoth-greataxe-ii": {
+      "Key": "weapon-great-sword-mammoth-greataxe-ii",
+      "Translation": "Mammoth Bardiche II"
+    },
+    "weapon-great-sword-naaga-guillotine-i": {
+      "Key": "weapon-great-sword-naaga-guillotine-i",
+      "Translation": "Naaga Guillotine I"
+    },
+    "weapon-great-sword-naaga-guillotine-ii": {
+      "Key": "weapon-great-sword-naaga-guillotine-ii",
+      "Translation": "Naaga Guillotine II"
+    },
+    "weapon-great-sword-hidden-blade-i": {
+      "Key": "weapon-great-sword-hidden-blade-i",
+      "Translation": "Lame cachée I"
+    },
+    "weapon-great-sword-hidden-blade-ii": {
+      "Key": "weapon-great-sword-hidden-blade-ii",
+      "Translation": "Invisible Blade II"
+    },
+    "weapon-great-sword-pyre-cleaver-i": {
+      "Key": "weapon-great-sword-pyre-cleaver-i",
+      "Translation": "Pyre Cleaver I"
+    },
+    "weapon-great-sword-pyre-cleaver-ii": {
+      "Key": "weapon-great-sword-pyre-cleaver-ii",
+      "Translation": "Pyre Cleaver II"
+    },
+    "weapon-great-sword-glavenus-blaze-i": {
+      "Key": "weapon-great-sword-glavenus-blaze-i",
+      "Translation": "Glavenus Blaze I"
+    },
+    "weapon-great-sword-glavenus-blaze-ii": {
+      "Key": "weapon-great-sword-glavenus-blaze-ii",
+      "Translation": "Glavenus Blaze II"
+    },
+    "weapon-great-sword-datura-hellspine-i": {
+      "Key": "weapon-great-sword-datura-hellspine-i",
+      "Translation": "Datura Hellspine I"
+    },
+    "weapon-great-sword-datura-hellspine-ii": {
+      "Key": "weapon-great-sword-datura-hellspine-ii",
+      "Translation": "Datura Hellspine II"
+    },
+    "weapon-tree-nightshade-lumu-tree": {
+      "Key": "weapon-tree-nightshade-lumu-tree",
+      "Translation": "Morelle Lumu Arbre"
+    },
+    "weapon-great-sword-nyx-razor-i": {
+      "Key": "weapon-great-sword-nyx-razor-i",
+      "Translation": "Nyx rasoir I"
+    },
+    "weapon-great-sword-nyx-razor-ii": {
+      "Key": "weapon-great-sword-nyx-razor-ii",
+      "Translation": "Nyx Razor II"
+    },
+    "weapon-great-sword-rathalos-glinsword-plus": {
+      "Key": "weapon-great-sword-rathalos-glinsword-plus",
+      "Translation": "Rathalos Glinsword +"
+    },
+    "weapon-great-sword-rathflame-glinsword": {
+      "Key": "weapon-great-sword-rathflame-glinsword",
+      "Translation": "Rathflame Glinsword"
+    },
+    "weapon-great-sword-rathalos-gleamsword": {
+      "Key": "weapon-great-sword-rathalos-gleamsword",
+      "Translation": "Rathalos Gleamsword"
+    },
+    "weapon-great-sword-ogres-jaw-i": {
+      "Key": "weapon-great-sword-ogres-jaw-i",
+      "Translation": "Jaw Ogre I"
+    },
+    "weapon-great-sword-ogres-jaw-ii": {
+      "Key": "weapon-great-sword-ogres-jaw-ii",
+      "Translation": "Jaw II Ogre"
+    },
+    "weapon-great-sword-ogres-jaw-iii": {
+      "Key": "weapon-great-sword-ogres-jaw-iii",
+      "Translation": "Jaw III Ogre"
+    },
+    "weapon-great-sword-icewing": {
+      "Key": "weapon-great-sword-icewing",
+      "Translation": "Icewing"
+    },
+    "weapon-great-sword-winged-seraphyd": {
+      "Key": "weapon-great-sword-winged-seraphyd",
+      "Translation": "ailée Seraphyd"
+    },
+    "weapon-great-sword-tiger-jawblade": {
+      "Key": "weapon-great-sword-tiger-jawblade",
+      "Translation": "Tiger Jawblade"
+    },
+    "weapon-great-sword-tiger-jawblade-plus": {
+      "Key": "weapon-great-sword-tiger-jawblade-plus",
+      "Translation": "Tiger Jawblade +"
+    },
+    "weapon-great-sword-tigrex-great-sword": {
+      "Key": "weapon-great-sword-tigrex-great-sword",
+      "Translation": "Tigrex Grande épée"
+    },
+    "weapon-great-sword-accursed-blade": {
+      "Key": "weapon-great-sword-accursed-blade",
+      "Translation": "lame maudite"
+    },
+    "weapon-great-sword-wildbite": {
+      "Key": "weapon-great-sword-wildbite",
+      "Translation": "Wildbite"
+    },
+    "weapon-great-sword-monstrous-madness": {
+      "Key": "weapon-great-sword-monstrous-madness",
+      "Translation": "Madness monstrueux"
+    },
+    "weapon-great-sword-don-monstro": {
+      "Key": "weapon-great-sword-don-monstro",
+      "Translation": "Don Monstro"
+    },
+    "weapon-great-sword-gnashing-flammenzahn-plus": {
+      "Key": "weapon-great-sword-gnashing-flammenzahn-plus",
+      "Translation": "+ Flammenzahn grincements"
+    },
+    "weapon-great-sword-lohenzahn": {
+      "Key": "weapon-great-sword-lohenzahn",
+      "Translation": "Lohenzahn"
+    },
+    "weapon-great-sword-donnerzahn": {
+      "Key": "weapon-great-sword-donnerzahn",
+      "Translation": "Donnerzahn"
+    },
+    "weapon-great-sword-donnerzahn-plus": {
+      "Key": "weapon-great-sword-donnerzahn-plus",
+      "Translation": "Donnerzahn +"
+    },
+    "weapon-great-sword-fulgurations-edge": {
+      "Key": "weapon-great-sword-fulgurations-edge",
+      "Translation": "Edge fulguration"
+    },
+    "weapon-great-sword-water-golem-iv": {
+      "Key": "weapon-great-sword-water-golem-iv",
+      "Translation": "Eau Golem IV"
+    },
+    "weapon-great-sword-laguna-golem-i": {
+      "Key": "weapon-great-sword-laguna-golem-i",
+      "Translation": "Laguna Golem I"
+    },
+    "weapon-great-sword-laguna-golem-ii": {
+      "Key": "weapon-great-sword-laguna-golem-ii",
+      "Translation": "Laguna II Golem"
+    },
+    "weapon-great-sword-beo-slasher-i": {
+      "Key": "weapon-great-sword-beo-slasher-i",
+      "Translation": "Beo Slasher I"
+    },
+    "weapon-great-sword-beo-slasher-ii": {
+      "Key": "weapon-great-sword-beo-slasher-ii",
+      "Translation": "Beo Slasher II"
+    },
+    "weapon-great-sword-barroth-greatedge-i": {
+      "Key": "weapon-great-sword-barroth-greatedge-i",
+      "Translation": "Barroth Greatedge I"
+    },
+    "weapon-great-sword-barroth-greatedge-ii": {
+      "Key": "weapon-great-sword-barroth-greatedge-ii",
+      "Translation": "Barroth Greatedge II"
+    },
+    "weapon-great-sword-acid-shredder-i": {
+      "Key": "weapon-great-sword-acid-shredder-i",
+      "Translation": "Acide Shredder I"
+    },
+    "weapon-great-sword-acid-shredder-ii": {
+      "Key": "weapon-great-sword-acid-shredder-ii",
+      "Translation": "Acid Shredder II"
+    },
+    "weapon-great-sword-radobaan-grindblade-i": {
+      "Key": "weapon-great-sword-radobaan-grindblade-i",
+      "Translation": "Radobaan Grindblade I"
+    },
+    "weapon-great-sword-dios-blade": {
+      "Key": "weapon-great-sword-dios-blade",
+      "Translation": "Dios lame"
+    },
+    "weapon-great-sword-brach-attack": {
+      "Key": "weapon-great-sword-brach-attack",
+      "Translation": "Attaque Brach"
+    },
+    "weapon-great-sword-dragonseal-sword-i": {
+      "Key": "weapon-great-sword-dragonseal-sword-i",
+      "Translation": "Dragonseal épée I"
+    },
+    "weapon-great-sword-dragonseal-sword-ii": {
+      "Key": "weapon-great-sword-dragonseal-sword-ii",
+      "Translation": "Dragonseal épée II"
+    },
+    "weapon-great-sword-immovable-dharma": {
+      "Key": "weapon-great-sword-immovable-dharma",
+      "Translation": "Dharma Immovable"
+    },
+    "weapon-great-sword-emperor-thundersword": {
+      "Key": "weapon-great-sword-emperor-thundersword",
+      "Translation": "empereur Thundersword"
+    },
+    "weapon-great-sword-magdaros-volcanblade": {
+      "Key": "weapon-great-sword-magdaros-volcanblade",
+      "Translation": "Magdaros Volcanblade"
+    },
+    "weapon-great-sword-daoras-tughril-beg": {
+      "Key": "weapon-great-sword-daoras-tughril-beg",
+      "Translation": "Tughril de Daora Beg"
+    },
+    "weapon-great-sword-ultra-wyvern-jawblade": {
+      "Key": "weapon-great-sword-ultra-wyvern-jawblade",
+      "Translation": "Ultra Wyvern Jawblade"
+    },
+    "weapon-great-sword-soulfire-edge-blaze": {
+      "Key": "weapon-great-sword-soulfire-edge-blaze",
+      "Translation": "Soulfire Edge \"Blaze\""
+    },
+    "weapon-great-sword-soulfire-edge-ruin": {
+      "Key": "weapon-great-sword-soulfire-edge-ruin",
+      "Translation": "Soulfire Edge \"ruine\""
+    },
+    "weapon-great-sword-soulfire-edge-styx": {
+      "Key": "weapon-great-sword-soulfire-edge-styx",
+      "Translation": "Soulfire Edge \"Styx\""
+    },
+    "weapon-great-sword-demon-rod": {
+      "Key": "weapon-great-sword-demon-rod",
+      "Translation": "Shinmakoku Rod"
+    },
+    "weapon-great-sword-frozen-speartuna": {
+      "Key": "weapon-great-sword-frozen-speartuna",
+      "Translation": "Frozen Speartuna"
+    },
+    "weapon-great-sword-freezer-speartuna": {
+      "Key": "weapon-great-sword-freezer-speartuna",
+      "Translation": "congélateur Speartuna"
+    },
+    "weapon-great-sword-xiphias-gladius": {
+      "Key": "weapon-great-sword-xiphias-gladius",
+      "Translation": "Xiphias Gladius"
     }
   }

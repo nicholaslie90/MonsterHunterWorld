@@ -9,7 +9,7 @@ export default {
     },
     "armor-baan-description": {
       "Key": "armor-baan-description",
-      "Translation": "A mistura de chapeamento pesado e osso conceder esta armadura Radobaan defesa quase impenetrável."
+      "Translation": "Uma mistura de chapeamento pesado e osso conceder esta armadura Radobaan defesa quase impenetrável."
     },
     "armor-barnos-description": {
       "Key": "armor-barnos-description",
@@ -53,7 +53,7 @@ export default {
     },
     "armor-butterfly-description": {
       "Key": "armor-butterfly-description",
-      "Translation": "armadura do brilho feitos a partir de peças de insectos. Seu peso leve e cor são a prova da classe de um."
+      "Translation": "armadura do brilho feita a partir de partes de insectos. Seu peso leve e cor são a prova da classe de um."
     },
     "armor-chainmail-description": {
       "Key": "armor-chainmail-description",
@@ -1649,7 +1649,7 @@ export default {
     },
     "armor-hr-jagras-mail-alpha": {
       "Key": "armor-hr-jagras-mail-alpha",
-      "Translation": "Jagras Correio ⍺"
+      "Translation": "Jagras Mail ⍺"
     },
     "armor-hr-jagras-mail-beta": {
       "Key": "armor-hr-jagras-mail-beta",
@@ -1993,7 +1993,7 @@ export default {
     },
     "armor-hr-kulu-mail-beta": {
       "Key": "armor-hr-kulu-mail-beta",
-      "Translation": "ß Kulu email"
+      "Translation": "ß Kulu correio"
     },
     "armor-hr-kulu-vambraces-alpha": {
       "Key": "armor-hr-kulu-vambraces-alpha",
@@ -3017,7 +3017,7 @@ export default {
     },
     "armor-hr-vangis-mail-beta": {
       "Key": "armor-hr-vangis-mail-beta",
-      "Translation": "ß vangis email"
+      "Translation": "ß vangis correio"
     },
     "armor-hr-vangis-vambraces-alpha": {
       "Key": "armor-hr-vangis-vambraces-alpha",
@@ -4649,7 +4649,7 @@ export default {
     },
     "armor-mr-black-belt-braces-alpha-plus": {
       "Key": "armor-mr-black-belt-braces-alpha-plus",
-      "Translation": "Black Belt Suspensórios + ⍺"
+      "Translation": "Black Belt Suspensórios ⍺ +"
     },
     "armor-mr-black-belt-braces-beta-plus": {
       "Key": "armor-mr-black-belt-braces-beta-plus",
@@ -4665,11 +4665,11 @@ export default {
     },
     "armor-mr-black-belt-helm-alpha-plus": {
       "Key": "armor-mr-black-belt-helm-alpha-plus",
-      "Translation": "Black Belt Helm + ⍺"
+      "Translation": "Black Belt Helm ⍺ +"
     },
     "armor-mr-black-belt-helm-beta-plus": {
       "Key": "armor-mr-black-belt-helm-beta-plus",
-      "Translation": "ß Preto Helm Belt +"
+      "Translation": "ß Preto Helm + Belt"
     },
     "armor-mr-black-belt-mail-alpha-plus": {
       "Key": "armor-mr-black-belt-mail-alpha-plus",
@@ -7525,7 +7525,7 @@ export default {
     },
     "armor-vespoid-description": {
       "Key": "armor-vespoid-description",
-      "Translation": "Armadura feita de carapaça Vespoid duro. Embora fraco para disparar elemento, que oferece defesa sólida."
+      "Translation": "Armadura feita de carapaça Vespoid rígido. Embora fraco para disparar elemento, que oferece defesa sólida."
     },
     "armor-wiggler-head-description": {
       "Key": "armor-wiggler-head-description",
@@ -7937,7 +7937,7 @@ export default {
     },
     "endemic-life-pink-parexus-description": {
       "Key": "endemic-life-pink-parexus-description",
-      "Translation": "Estes peixes são encontrados em todo o Novo Mundo, mostrar de alguma biologia primitiva incrível, e eles são a pesca fácil até mesmo para iniciantes!"
+      "Translation": "Estes peixes são encontrados em todo o Novo Mundo, mostrar de alguma biologia primitiva incrível, e eles são a pesca fácil, mesmo para iniciantes!"
     },
     "endemic-life-platinumfish-description": {
       "Key": "endemic-life-platinumfish-description",
@@ -8641,7 +8641,7 @@ export default {
     },
     "monster-bazelgeuse-characteristics": {
       "Key": "monster-bazelgeuse-characteristics",
-      "Translation": "Um wyvern voando nefasto que viaja ao Novo Mundo em busca de presas. Ele espalha escalas explosivos em uma ampla área de rapina sobre tudo o que é pego na explosão."
+      "Translation": "Um wyvern voando nefasto que viaja ao Novo Mundo em busca de presas. Ele espalha escalas explosivos em uma ampla área de rapina sobre tudo o que é pego pela explosão."
     },
     "monster-bazelgeuse-useful-information": {
       "Key": "monster-bazelgeuse-useful-information",
@@ -9397,7 +9397,7 @@ export default {
     },
     "play-guide-camera-settings-description": {
       "Key": "play-guide-camera-settings-description",
-      "Translation": "É possível alterar diversas configurações da câmera a partir do menu Iniciar."
+      "Translation": "Você pode alterar várias definições da câmera a partir do menu Iniciar."
     },
     "play-guide-camera-types": {
       "Key": "play-guide-camera-types",
@@ -9761,7 +9761,7 @@ export default {
     },
     "play-guide-getting-the-behemoths-attention-description": {
       "Key": "play-guide-getting-the-behemoths-attention-description",
-      "Translation": "Um caçador com uma arma projetada para o bloqueio deve atacar a cabeça do Behemoth para obter a sua atenção. Quando o Behemoth vai em um rampage e sua cabeça é difícil de atacar, usar uma arma com propriedades paralisia ou montar a besta para criar uma abertura."
+      "Translation": "Um caçador com uma arma projetada para o bloqueio deve atacar cabeça do Behemoth para obter a sua atenção. Quando o Behemoth vai em um rampage e sua cabeça é difícil de atacar, usar uma arma com propriedades paralisia ou montar a besta para criar uma abertura."
     },
     "play-guide-great-fish": {
       "Key": "play-guide-great-fish",
@@ -9901,7 +9901,7 @@ export default {
     },
     "play-guide-investigation-efficacy-description": {
       "Key": "play-guide-investigation-efficacy-description",
-      "Translation": "O maior seu nível de investigação, mais fácil será para desbloquear investigações."
+      "Translation": "Quanto maior o nível de pesquisa, o mais fácil será para desbloquear investigações."
     },
     "play-guide-investigations": {
       "Key": "play-guide-investigations",
@@ -10017,7 +10017,7 @@ export default {
     },
     "play-guide-lynian-researcher-description": {
       "Key": "play-guide-lynian-researcher-description",
-      "Translation": "Um especialista enrugado no domínio da investigação Lynian. Embora dedicado à investigação em Grimalkynes, ele é superado pelos rápidos metas, sly de seus estudos. Agora ele está buscando um caçador útil para ajudá-lo em sua pesquisa."
+      "Translation": "Um especialista enrugado no domínio da investigação Lynian. Embora dedicado à investigação em Grimalkynes, ele é superado pelos rápidos metas, sly de seus estudos. Agora, ele está à procura de um caçador útil para ajudá-lo em sua pesquisa."
     },
     "play-guide-max-potions": {
       "Key": "play-guide-max-potions",
@@ -10025,7 +10025,7 @@ export default {
     },
     "play-guide-max-potions-description": {
       "Key": "play-guide-max-potions-description",
-      "Translation": "Estas poderosas poções restaurar não só completamente sua saúde, btu também restaurar a sua saúde máxima ao seu limite. poções Max pode ser trabalhada através da combinação de uma mandrágora com mega-nutrientes."
+      "Translation": "Estas poderosas poções restaurar não só completamente sua saúde, btu também restaurar a sua saúde máxima ao seu limite. poções Max pode ser trabalhada através da combinação de uma mandrágora com Mega nutrientes."
     },
     "play-guide-meal-effect-duration": {
       "Key": "play-guide-meal-effect-duration",
@@ -10337,7 +10337,7 @@ export default {
     },
     "play-guide-shelling-description": {
       "Key": "play-guide-shelling-description",
-      "Translation": "Descascar é o único que pode causar dano fixo a partes de um monstro independentemente de suas resistências. No entanto, ele também consome uma boa parte do Medidor de Nitidez, por isso não pode ser usado quando a nitidez está no vermelho."
+      "Translation": "Descascar é o único que pode causar dano fixo a partes de um monstro independentemente de suas resistências. No entanto, ele também consome uma grande parte do Medidor de Nitidez, por isso não pode ser usado quando a nitidez está no vermelho."
     },
     "play-guide-skills-and-decorations": {
       "Key": "play-guide-skills-and-decorations",
@@ -11017,7 +11017,7 @@ export default {
     },
     "quest-a-bone-to-pick-description": {
       "Key": "quest-a-bone-to-pick-description",
-      "Translation": "É quase impossível para qualquer um dos nossos pesquisadores para estudar os fósseis no Rotten Vale porque eles continuam ficar preso a essa maldita Radobaan rolando lá em baixo ..."
+      "Translation": "É quase impossível para qualquer um dos nossos pesquisadores para estudar fósseis no Rotten Vale porque eles continuam ficar preso a essa maldita Radobaan rolando lá em baixo ..."
     },
     "quest-a-bone-to-pick-tips": {
       "Key": "quest-a-bone-to-pick-tips",
@@ -11089,7 +11089,7 @@ export default {
     },
     "quest-a-hair-raising-experience-description": {
       "Key": "quest-a-hair-raising-experience-description",
-      "Translation": "Nós começamos um relatório perturbador de uma invulgarmente poderoso Tobi-Kadachi aparecendo na floresta antiga. Comece a sua investigação o mais rápido possível, mas cuidado com a sua velocidade relâmpago!"
+      "Translation": "Nós começamos um relatório perturbadora de uma invulgarmente poderoso Tobi-Kadachi aparecendo na floresta antiga. Comece a sua investigação o mais rápido possível, mas cuidado com a sua velocidade relâmpago!"
     },
     "quest-a-hair-raising-experience-notes": {
       "Key": "quest-a-hair-raising-experience-notes",
@@ -11141,7 +11141,7 @@ export default {
     },
     "quest-a-nose-for-an-eye-description": {
       "Key": "quest-a-nose-for-an-eye-description",
-      "Translation": "Na minha época, nós não precisamos destas Scoutflies para rastrear monstros, mas este é o Novo Mundo ... Eu localizei alguns monstros interessantes para si. Vá pegá-los. (Os pontos de RH Bonus recompensado após a conclusão.)"
+      "Translation": "Na minha época, nós não precisamos destas Scoutflies para rastrear monstros, mas este é o Novo Mundo ... Eu localizei alguns monstros interessantes para você. Vá pegá-los. (Os pontos de RH Bonus recompensado após a conclusão.)"
     },
     "quest-a-portent-of-disaster": {
       "Key": "quest-a-portent-of-disaster",
@@ -11161,7 +11161,7 @@ export default {
     },
     "quest-a-rotten-thing-to-do-description": {
       "Key": "quest-a-rotten-thing-to-do-description",
-      "Translation": "I foi trabalho-k-rei do Rotten V-Vale quando um G-G-Grande Girros me z-z-eletrocutado por trás. Eu g-saí em uma única peça, mas eu ainda sou tudo t-t-tingly ... Termine o j-j-trabalho para mim? P-Por favor!"
+      "Translation": "Fiquei trabalho-k-rei do Rotten V-Vale quando um G-G-Grande Girros me z-z-eletrocutado por trás. Eu g-saí em uma única peça, mas eu ainda sou tudo t-t-tingly ... Termine o j-j-trabalho para mim? P-Por favor!"
     },
     "quest-a-rotten-thing-to-do-tips": {
       "Key": "quest-a-rotten-thing-to-do-tips",
@@ -11433,7 +11433,7 @@ export default {
     },
     "quest-butting-heads-with-nature": {
       "Key": "quest-butting-heads-with-nature",
-      "Translation": "Batendo de frente com a Natureza"
+      "Translation": "Cabeças de terminação com a Natureza"
     },
     "quest-butting-heads-with-nature-description": {
       "Key": "quest-butting-heads-with-nature-description",
@@ -12141,7 +12141,7 @@ export default {
     },
     "quest-gone-in-a-flash-notes": {
       "Key": "quest-gone-in-a-flash-notes",
-      "Translation": "Esta é a primeira missão no jogo pedindo-lhe para matar um dragão Elder. Essa busca é desbloqueado via, completando as quatro missões opcionais que exigem a captura de grandes monstros dadas pelo Impaciente biólogo."
+      "Translation": "Esta é a primeira missão no jogo pedindo-lhe para matar um dragão Elder. Essa busca é desbloqueado via, completando as quatro missões opcionais requerem que você capture grandes monstros dadas pelo Impaciente biólogo."
     },
     "quest-googly-eyed-green-monster": {
       "Key": "quest-googly-eyed-green-monster",
@@ -15505,7 +15505,7 @@ export default {
     },
     "skill-heroics-3": {
       "Key": "skill-heroics-3",
-      "Translation": "Embora activo, aumenta o poder de ataque em 15% e aumenta a defesa em 25 pontos."
+      "Translation": "Embora activo, aumenta o poder de ataque de 15% e aumenta de defesa em 25 pontos."
     },
     "skill-heroics-4": {
       "Key": "skill-heroics-4",
@@ -16885,7 +16885,7 @@ export default {
     },
     "trophy-architectural-artist-description": {
       "Key": "trophy-architectural-artist-description",
-      "Translation": "Tem 120 tipos diferentes de decoração do quarto para escolher."
+      "Translation": "Tenha 120 diferentes tipos de decoração do quarto para escolher."
     },
     "trophy-bosom-buddies": {
       "Key": "trophy-bosom-buddies",
@@ -20337,7 +20337,7 @@ export default {
     },
     "weapon-lance-taroth-crest-stream": {
       "Key": "weapon-lance-taroth-crest-stream",
-      "Translation": "Taroth crista \"Stream\""
+      "Translation": "Taroth Crest \"Stream\""
     },
     "weapon-lance-taroth-crest-thief": {
       "Key": "weapon-lance-taroth-crest-thief",
@@ -22474,5 +22474,293 @@ export default {
     "weapon-dual-blades-suzuka-otakemaru": {
       "Key": "weapon-dual-blades-suzuka-otakemaru",
       "Translation": "Suzuka Otakemaru"
+    },
+    "weapon-great-sword-chrome-deathscythe-i": {
+      "Key": "weapon-great-sword-chrome-deathscythe-i",
+      "Translation": "Chrome Deathscythe I"
+    },
+    "weapon-great-sword-chrome-deathscythe-ii": {
+      "Key": "weapon-great-sword-chrome-deathscythe-ii",
+      "Translation": "Chrome Deathscythe II"
+    },
+    "weapon-great-sword-ruinous-atrocity": {
+      "Key": "weapon-great-sword-ruinous-atrocity",
+      "Translation": "Atrocity ruinosa"
+    },
+    "weapon-great-sword-lightning-punisher-iv": {
+      "Key": "weapon-great-sword-lightning-punisher-iv",
+      "Translation": "Relâmpago Punisher IV"
+    },
+    "weapon-great-sword-severing-bolt-i": {
+      "Key": "weapon-great-sword-severing-bolt-i",
+      "Translation": "Cortando Parafuso I"
+    },
+    "weapon-great-sword-frost-blaze-iii": {
+      "Key": "weapon-great-sword-frost-blaze-iii",
+      "Translation": "Chama III geada"
+    },
+    "weapon-great-sword-icicle-fang": {
+      "Key": "weapon-great-sword-icicle-fang",
+      "Translation": "sincelo fang"
+    },
+    "weapon-great-sword-icicle-fang-plus": {
+      "Key": "weapon-great-sword-icicle-fang-plus",
+      "Translation": "Sincelo fang +"
+    },
+    "weapon-great-sword-paladire": {
+      "Key": "weapon-great-sword-paladire",
+      "Translation": "Paladire"
+    },
+    "weapon-great-sword-jagras-deathclaw-i": {
+      "Key": "weapon-great-sword-jagras-deathclaw-i",
+      "Translation": "Jagras Deathclaw I"
+    },
+    "weapon-great-sword-jagras-deathclaw-ii": {
+      "Key": "weapon-great-sword-jagras-deathclaw-ii",
+      "Translation": "Jagras Deathclaw II"
+    },
+    "weapon-great-sword-mammoth-greataxe-i": {
+      "Key": "weapon-great-sword-mammoth-greataxe-i",
+      "Translation": "Mammoth Greataxe I"
+    },
+    "weapon-great-sword-mammoth-greataxe-ii": {
+      "Key": "weapon-great-sword-mammoth-greataxe-ii",
+      "Translation": "Mammoth Greataxe II"
+    },
+    "weapon-great-sword-naaga-guillotine-i": {
+      "Key": "weapon-great-sword-naaga-guillotine-i",
+      "Translation": "Naaga Guilhotina I"
+    },
+    "weapon-great-sword-naaga-guillotine-ii": {
+      "Key": "weapon-great-sword-naaga-guillotine-ii",
+      "Translation": "Naaga Guilhotina II"
+    },
+    "weapon-great-sword-hidden-blade-i": {
+      "Key": "weapon-great-sword-hidden-blade-i",
+      "Translation": "Oculto Lâmina I"
+    },
+    "weapon-great-sword-hidden-blade-ii": {
+      "Key": "weapon-great-sword-hidden-blade-ii",
+      "Translation": "Oculto Blade II"
+    },
+    "weapon-great-sword-pyre-cleaver-i": {
+      "Key": "weapon-great-sword-pyre-cleaver-i",
+      "Translation": "Pira Cleaver I"
+    },
+    "weapon-great-sword-pyre-cleaver-ii": {
+      "Key": "weapon-great-sword-pyre-cleaver-ii",
+      "Translation": "Pira Cleaver II"
+    },
+    "weapon-great-sword-glavenus-blaze-i": {
+      "Key": "weapon-great-sword-glavenus-blaze-i",
+      "Translation": "Glavenus chama I"
+    },
+    "weapon-great-sword-glavenus-blaze-ii": {
+      "Key": "weapon-great-sword-glavenus-blaze-ii",
+      "Translation": "Glavenus chama II"
+    },
+    "weapon-great-sword-datura-hellspine-i": {
+      "Key": "weapon-great-sword-datura-hellspine-i",
+      "Translation": "Datura Hellspine I"
+    },
+    "weapon-great-sword-datura-hellspine-ii": {
+      "Key": "weapon-great-sword-datura-hellspine-ii",
+      "Translation": "Datura Hellspine II"
+    },
+    "weapon-tree-nightshade-lumu-tree": {
+      "Key": "weapon-tree-nightshade-lumu-tree",
+      "Translation": "Nightshade Árvore Lumu"
+    },
+    "weapon-great-sword-nyx-razor-i": {
+      "Key": "weapon-great-sword-nyx-razor-i",
+      "Translation": "Nyx Navalha I"
+    },
+    "weapon-great-sword-nyx-razor-ii": {
+      "Key": "weapon-great-sword-nyx-razor-ii",
+      "Translation": "Nyx Navalha II"
+    },
+    "weapon-great-sword-rathalos-glinsword-plus": {
+      "Key": "weapon-great-sword-rathalos-glinsword-plus",
+      "Translation": "Rathalos Glinsword +"
+    },
+    "weapon-great-sword-rathflame-glinsword": {
+      "Key": "weapon-great-sword-rathflame-glinsword",
+      "Translation": "Rathflame Glinsword"
+    },
+    "weapon-great-sword-rathalos-gleamsword": {
+      "Key": "weapon-great-sword-rathalos-gleamsword",
+      "Translation": "Rathalos Gleamsword"
+    },
+    "weapon-great-sword-ogres-jaw-i": {
+      "Key": "weapon-great-sword-ogres-jaw-i",
+      "Translation": "ogro Jaw I"
+    },
+    "weapon-great-sword-ogres-jaw-ii": {
+      "Key": "weapon-great-sword-ogres-jaw-ii",
+      "Translation": "ogro Jaw II"
+    },
+    "weapon-great-sword-ogres-jaw-iii": {
+      "Key": "weapon-great-sword-ogres-jaw-iii",
+      "Translation": "ogro Jaw III"
+    },
+    "weapon-great-sword-icewing": {
+      "Key": "weapon-great-sword-icewing",
+      "Translation": "Icewing"
+    },
+    "weapon-great-sword-winged-seraphyd": {
+      "Key": "weapon-great-sword-winged-seraphyd",
+      "Translation": "Winged Seraphyd"
+    },
+    "weapon-great-sword-tiger-jawblade": {
+      "Key": "weapon-great-sword-tiger-jawblade",
+      "Translation": "Tiger Jawblade"
+    },
+    "weapon-great-sword-tiger-jawblade-plus": {
+      "Key": "weapon-great-sword-tiger-jawblade-plus",
+      "Translation": "Tiger Jawblade +"
+    },
+    "weapon-great-sword-tigrex-great-sword": {
+      "Key": "weapon-great-sword-tigrex-great-sword",
+      "Translation": "Tigrex Grande espada"
+    },
+    "weapon-great-sword-accursed-blade": {
+      "Key": "weapon-great-sword-accursed-blade",
+      "Translation": "maldito Lâmina"
+    },
+    "weapon-great-sword-wildbite": {
+      "Key": "weapon-great-sword-wildbite",
+      "Translation": "Wildbite"
+    },
+    "weapon-great-sword-monstrous-madness": {
+      "Key": "weapon-great-sword-monstrous-madness",
+      "Translation": "Loucura monstruosa"
+    },
+    "weapon-great-sword-don-monstro": {
+      "Key": "weapon-great-sword-don-monstro",
+      "Translation": "Don Monstro"
+    },
+    "weapon-great-sword-gnashing-flammenzahn-plus": {
+      "Key": "weapon-great-sword-gnashing-flammenzahn-plus",
+      "Translation": "Ranger Flammenzahn +"
+    },
+    "weapon-great-sword-lohenzahn": {
+      "Key": "weapon-great-sword-lohenzahn",
+      "Translation": "Lohenzahn"
+    },
+    "weapon-great-sword-donnerzahn": {
+      "Key": "weapon-great-sword-donnerzahn",
+      "Translation": "Donnerzahn"
+    },
+    "weapon-great-sword-donnerzahn-plus": {
+      "Key": "weapon-great-sword-donnerzahn-plus",
+      "Translation": "Donnerzahn +"
+    },
+    "weapon-great-sword-fulgurations-edge": {
+      "Key": "weapon-great-sword-fulgurations-edge",
+      "Translation": "Borda da fulguração"
+    },
+    "weapon-great-sword-water-golem-iv": {
+      "Key": "weapon-great-sword-water-golem-iv",
+      "Translation": "Água Golem IV"
+    },
+    "weapon-great-sword-laguna-golem-i": {
+      "Key": "weapon-great-sword-laguna-golem-i",
+      "Translation": "Laguna Golem I"
+    },
+    "weapon-great-sword-laguna-golem-ii": {
+      "Key": "weapon-great-sword-laguna-golem-ii",
+      "Translation": "Laguna Golem II"
+    },
+    "weapon-great-sword-beo-slasher-i": {
+      "Key": "weapon-great-sword-beo-slasher-i",
+      "Translation": "Beo Slasher I"
+    },
+    "weapon-great-sword-beo-slasher-ii": {
+      "Key": "weapon-great-sword-beo-slasher-ii",
+      "Translation": "Beo Slasher II"
+    },
+    "weapon-great-sword-barroth-greatedge-i": {
+      "Key": "weapon-great-sword-barroth-greatedge-i",
+      "Translation": "Barroth Greatedge I"
+    },
+    "weapon-great-sword-barroth-greatedge-ii": {
+      "Key": "weapon-great-sword-barroth-greatedge-ii",
+      "Translation": "Barroth Greatedge II"
+    },
+    "weapon-great-sword-acid-shredder-i": {
+      "Key": "weapon-great-sword-acid-shredder-i",
+      "Translation": "Ácido Shredder I"
+    },
+    "weapon-great-sword-acid-shredder-ii": {
+      "Key": "weapon-great-sword-acid-shredder-ii",
+      "Translation": "Ácido Trituradora II"
+    },
+    "weapon-great-sword-radobaan-grindblade-i": {
+      "Key": "weapon-great-sword-radobaan-grindblade-i",
+      "Translation": "Radobaan Grindblade I"
+    },
+    "weapon-great-sword-dios-blade": {
+      "Key": "weapon-great-sword-dios-blade",
+      "Translation": "Dios Lâmina"
+    },
+    "weapon-great-sword-brach-attack": {
+      "Key": "weapon-great-sword-brach-attack",
+      "Translation": "Ataque Brach"
+    },
+    "weapon-great-sword-dragonseal-sword-i": {
+      "Key": "weapon-great-sword-dragonseal-sword-i",
+      "Translation": "Dragonseal Espada I"
+    },
+    "weapon-great-sword-dragonseal-sword-ii": {
+      "Key": "weapon-great-sword-dragonseal-sword-ii",
+      "Translation": "Dragonseal Espada II"
+    },
+    "weapon-great-sword-immovable-dharma": {
+      "Key": "weapon-great-sword-immovable-dharma",
+      "Translation": "imóveis Dharma"
+    },
+    "weapon-great-sword-emperor-thundersword": {
+      "Key": "weapon-great-sword-emperor-thundersword",
+      "Translation": "Imperador Thundersword"
+    },
+    "weapon-great-sword-magdaros-volcanblade": {
+      "Key": "weapon-great-sword-magdaros-volcanblade",
+      "Translation": "Magdaros Volcanblade"
+    },
+    "weapon-great-sword-daoras-tughril-beg": {
+      "Key": "weapon-great-sword-daoras-tughril-beg",
+      "Translation": "Tughril Beg de Daora"
+    },
+    "weapon-great-sword-ultra-wyvern-jawblade": {
+      "Key": "weapon-great-sword-ultra-wyvern-jawblade",
+      "Translation": "Ultra Wyvern Jawblade"
+    },
+    "weapon-great-sword-soulfire-edge-blaze": {
+      "Key": "weapon-great-sword-soulfire-edge-blaze",
+      "Translation": "Soulfire Edge \"chama\""
+    },
+    "weapon-great-sword-soulfire-edge-ruin": {
+      "Key": "weapon-great-sword-soulfire-edge-ruin",
+      "Translation": "Soulfire Edge \"Ruin\""
+    },
+    "weapon-great-sword-soulfire-edge-styx": {
+      "Key": "weapon-great-sword-soulfire-edge-styx",
+      "Translation": "Soulfire Edge \"Styx\""
+    },
+    "weapon-great-sword-demon-rod": {
+      "Key": "weapon-great-sword-demon-rod",
+      "Translation": "Grande Demônio Rod"
+    },
+    "weapon-great-sword-frozen-speartuna": {
+      "Key": "weapon-great-sword-frozen-speartuna",
+      "Translation": "congelado Speartuna"
+    },
+    "weapon-great-sword-freezer-speartuna": {
+      "Key": "weapon-great-sword-freezer-speartuna",
+      "Translation": "Freezer Speartuna"
+    },
+    "weapon-great-sword-xiphias-gladius": {
+      "Key": "weapon-great-sword-xiphias-gladius",
+      "Translation": "Xiphias Gladius"
     }
   }

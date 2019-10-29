@@ -5681,7 +5681,7 @@ export default {
     },
     "armor-mr-jagras-vambraces-beta-plus": {
       "Key": "armor-mr-jagras-vambraces-beta-plus",
-      "Translation": "Jagras 완갑 ß +"
+      "Translation": "Jagras 완갑 SS +"
     },
     "armor-mr-jyura-alpha-plus": {
       "Key": "armor-mr-jyura-alpha-plus",
@@ -7829,7 +7829,7 @@ export default {
     },
     "endemic-life-flashfly-description": {
       "Key": "endemic-life-flashfly-description",
-      "Translation": "와우,이 강아지의 BRIGHT! 심지어 대형 몬스터가 그것에 의해 기절 할 것이다, 나는 확신한다. 그것은 살아있는 플래시 폭탄처럼 ... 날개!"
+      "Translation": "와,이 강아지의 BRIGHT! 심지어 대형 몬스터가 그것에 의해 기절 할 것이다, 나는 확신한다. 그것은 살아있는 플래시 폭탄처럼 ... 날개!"
     },
     "endemic-life-flowering-cactuar-cutting-description": {
       "Key": "endemic-life-flowering-cactuar-cutting-description",
@@ -8641,7 +8641,7 @@ export default {
     },
     "monster-bazelgeuse-characteristics": {
       "Key": "monster-bazelgeuse-characteristics",
-      "Translation": "먹이를 찾기 위해 새로운 세계를 이동하는 사악한 비행 와이번. 그것은 폭발에 잡힐 어떤 먹이로하는 넓은 지역에 폭발 규모를 없앤다."
+      "Translation": "먹이를 찾아 새로운 세계를 이동하는 사악한 비행 와이번. 그것은 폭발에 잡힐 어떤 먹이로하는 넓은 지역에 폭발 규모를 없앤다."
     },
     "monster-bazelgeuse-useful-information": {
       "Key": "monster-bazelgeuse-useful-information",
@@ -9153,7 +9153,7 @@ export default {
     },
     "monster-tzitzi-ya-ku-characteristics": {
       "Key": "monster-tzitzi-ya-ku-characteristics",
-      "Translation": "머리 근처 특별한 펄스 기관이 이상한 괴물 블라인드 먹이와 적을 모두. 그런 다음 마무리 타격을 전달하기 위해 강력한 다리를 사용합니다."
+      "Translation": "머리 근처 특별한 펄스 기관이 이상한 괴물 블라인드 먹이와 적 모두. 그런 다음 마무리 타격을 전달하기 위해 강력한 다리를 사용합니다."
     },
     "monster-tzitzi-ya-ku-useful-information": {
       "Key": "monster-tzitzi-ya-ku-useful-information",
@@ -9709,7 +9709,7 @@ export default {
     },
     "play-guide-fertilizers-description": {
       "Key": "play-guide-fertilizers-description",
-      "Translation": "당신은 식물 연구 센터에서 비료를 사용하는 연구 포인트를 보낼 수 있습니다. 비료 각 수확에서 얻은 아이템의 양을 증가 시키거나 배양 시간을 단축 할 수있다."
+      "Translation": "당신은 식물 연구 센터에서 비료를 사용하는 연구 포인트를 보낼 수 있습니다. 비료 각 수확에 의한 상품의 양을 증가 또는 배양 시간을 단축 할 수있다."
     },
     "play-guide-flashbugs": {
       "Key": "play-guide-flashbugs",
@@ -12477,7 +12477,7 @@ export default {
     },
     "quest-no-remorse-no-surrender-description": {
       "Key": "quest-no-remorse-no-surrender-description",
-      "Translation": "나는 황제와 한 자리에서 자신의 황후를 모두 볼 살 것이라고 생각하지. 그것은 당신이 자신의 통치를 끝의 영광을 만 피팅입니다."
+      "Translation": "나는 황제와 한 자리에서 자신의 황후를 모두 볼 살 것이라고 생각하지. 당신이 자신의 통치를 끝의 영광을 만 피팅입니다."
     },
     "quest-no-tomorrow-for-usurpers": {
       "Key": "quest-no-tomorrow-for-usurpers",
@@ -13069,7 +13069,7 @@ export default {
     },
     "quest-rrrrrumble-in-the-waste-conditions": {
       "Key": "quest-rrrrrumble-in-the-waste-conditions",
-      "Translation": "퀘스트가 욱신 거리고 맛으로 시작 후 세 번째 함대 마스터에 의해 제공"
+      "Translation": "퀘스트가 따끔 맛으로 시작 후 세 번째 함대 마스터에 의해 제공"
     },
     "quest-rrrrrumble-in-the-waste-description": {
       "Key": "quest-rrrrrumble-in-the-waste-description",
@@ -13297,7 +13297,7 @@ export default {
     },
     "quest-special-arena-hr-radobaan": {
       "Key": "quest-special-arena-hr-radobaan",
-      "Translation": "특별 아레나 : HR Radobaan"
+      "Translation": "특별 경기장 : HR Radobaan"
     },
     "quest-special-arena-hr-radobaan-notes": {
       "Key": "quest-special-arena-hr-radobaan-notes",
@@ -14369,7 +14369,7 @@ export default {
     },
     "skill-affinity-sliding-1": {
       "Key": "skill-affinity-sliding-1",
-      "Translation": "슬라이딩 후 짧은 시간 동안 30 %의 친 화성을 증가시킨다."
+      "Translation": "슬라이딩 후 짧은 시간을 30 %의 친 화성을 증가시킨다."
     },
     "skill-affinity-sliding-description": {
       "Key": "skill-affinity-sliding-description",
@@ -15317,7 +15317,7 @@ export default {
     },
     "skill-geologist-2": {
       "Key": "skill-geologist-2",
-      "Translation": "당신이 bonepiles 및 특수 아이템 수집 점에서 하나 개의 여분의 시간을 수집 할 수 있습니다."
+      "Translation": "당신이 bonepiles 및 특수 아이템 수집 점에서 하나의 여분의 시간을 수집 할 수 있습니다."
     },
     "skill-geologist-3": {
       "Key": "skill-geologist-3",
@@ -16993,7 +16993,7 @@ export default {
     },
     "trophy-defender-of-astera": {
       "Key": "trophy-defender-of-astera",
-      "Translation": "아스 테라의 수호자"
+      "Translation": "아스의 수비수"
     },
     "trophy-defender-of-astera-description": {
       "Key": "trophy-defender-of-astera-description",
@@ -21321,7 +21321,7 @@ export default {
     },
     "weapon-sword-and-shield-stream-gold-scimitar": {
       "Key": "weapon-sword-and-shield-stream-gold-scimitar",
-      "Translation": "스트림 금 시미"
+      "Translation": "스트림 골드 시미"
     },
     "weapon-sword-and-shield-tar-gold-scimitar": {
       "Key": "weapon-sword-and-shield-tar-gold-scimitar",
@@ -21785,7 +21785,7 @@ export default {
     },
     "weapon-long-sword-rooksearer-long-sword": {
       "Key": "weapon-long-sword-rooksearer-long-sword",
-      "Translation": "Rooksearer 장검"
+      "Translation": "Rooksearer 롱 소드"
     },
     "weapon-tree-tigrex-tree": {
       "Key": "weapon-tree-tigrex-tree",
@@ -22474,5 +22474,293 @@ export default {
     "weapon-dual-blades-suzuka-otakemaru": {
       "Key": "weapon-dual-blades-suzuka-otakemaru",
       "Translation": "스즈카 Otakemaru"
+    },
+    "weapon-great-sword-chrome-deathscythe-i": {
+      "Key": "weapon-great-sword-chrome-deathscythe-i",
+      "Translation": "크롬 Deathscythe I"
+    },
+    "weapon-great-sword-chrome-deathscythe-ii": {
+      "Key": "weapon-great-sword-chrome-deathscythe-ii",
+      "Translation": "크롬 Deathscythe II"
+    },
+    "weapon-great-sword-ruinous-atrocity": {
+      "Key": "weapon-great-sword-ruinous-atrocity",
+      "Translation": "파멸을 가져 오는 만행"
+    },
+    "weapon-great-sword-lightning-punisher-iv": {
+      "Key": "weapon-great-sword-lightning-punisher-iv",
+      "Translation": "번개 벌 IV"
+    },
+    "weapon-great-sword-severing-bolt-i": {
+      "Key": "weapon-great-sword-severing-bolt-i",
+      "Translation": "볼트 I를 절단"
+    },
+    "weapon-great-sword-frost-blaze-iii": {
+      "Key": "weapon-great-sword-frost-blaze-iii",
+      "Translation": "프로스트 블레이즈 III"
+    },
+    "weapon-great-sword-icicle-fang": {
+      "Key": "weapon-great-sword-icicle-fang",
+      "Translation": "고드름 팡"
+    },
+    "weapon-great-sword-icicle-fang-plus": {
+      "Key": "weapon-great-sword-icicle-fang-plus",
+      "Translation": "고드름 팡 +"
+    },
+    "weapon-great-sword-paladire": {
+      "Key": "weapon-great-sword-paladire",
+      "Translation": "Paladire"
+    },
+    "weapon-great-sword-jagras-deathclaw-i": {
+      "Key": "weapon-great-sword-jagras-deathclaw-i",
+      "Translation": "Jagras Deathclaw I"
+    },
+    "weapon-great-sword-jagras-deathclaw-ii": {
+      "Key": "weapon-great-sword-jagras-deathclaw-ii",
+      "Translation": "Jagras Deathclaw II"
+    },
+    "weapon-great-sword-mammoth-greataxe-i": {
+      "Key": "weapon-great-sword-mammoth-greataxe-i",
+      "Translation": "맘모스 Greataxe I"
+    },
+    "weapon-great-sword-mammoth-greataxe-ii": {
+      "Key": "weapon-great-sword-mammoth-greataxe-ii",
+      "Translation": "맘모스 Greataxe II"
+    },
+    "weapon-great-sword-naaga-guillotine-i": {
+      "Key": "weapon-great-sword-naaga-guillotine-i",
+      "Translation": "Naaga 단두대 I"
+    },
+    "weapon-great-sword-naaga-guillotine-ii": {
+      "Key": "weapon-great-sword-naaga-guillotine-ii",
+      "Translation": "Naaga 단두대 II"
+    },
+    "weapon-great-sword-hidden-blade-i": {
+      "Key": "weapon-great-sword-hidden-blade-i",
+      "Translation": "숨겨진 블레이드 I"
+    },
+    "weapon-great-sword-hidden-blade-ii": {
+      "Key": "weapon-great-sword-hidden-blade-ii",
+      "Translation": "숨겨진 블레이드 II"
+    },
+    "weapon-great-sword-pyre-cleaver-i": {
+      "Key": "weapon-great-sword-pyre-cleaver-i",
+      "Translation": "장작 더미 클리버 I"
+    },
+    "weapon-great-sword-pyre-cleaver-ii": {
+      "Key": "weapon-great-sword-pyre-cleaver-ii",
+      "Translation": "장작 더미 클리버 II"
+    },
+    "weapon-great-sword-glavenus-blaze-i": {
+      "Key": "weapon-great-sword-glavenus-blaze-i",
+      "Translation": "Glavenus 블레이즈 I"
+    },
+    "weapon-great-sword-glavenus-blaze-ii": {
+      "Key": "weapon-great-sword-glavenus-blaze-ii",
+      "Translation": "Glavenus 블레이즈 II"
+    },
+    "weapon-great-sword-datura-hellspine-i": {
+      "Key": "weapon-great-sword-datura-hellspine-i",
+      "Translation": "흰 독말풀 Hellspine I"
+    },
+    "weapon-great-sword-datura-hellspine-ii": {
+      "Key": "weapon-great-sword-datura-hellspine-ii",
+      "Translation": "흰 독말풀 Hellspine II"
+    },
+    "weapon-tree-nightshade-lumu-tree": {
+      "Key": "weapon-tree-nightshade-lumu-tree",
+      "Translation": "도나 Lumu 트리"
+    },
+    "weapon-great-sword-nyx-razor-i": {
+      "Key": "weapon-great-sword-nyx-razor-i",
+      "Translation": "NYX 면도기 I"
+    },
+    "weapon-great-sword-nyx-razor-ii": {
+      "Key": "weapon-great-sword-nyx-razor-ii",
+      "Translation": "NYX 면도기 II"
+    },
+    "weapon-great-sword-rathalos-glinsword-plus": {
+      "Key": "weapon-great-sword-rathalos-glinsword-plus",
+      "Translation": "Rathalos Glinsword +"
+    },
+    "weapon-great-sword-rathflame-glinsword": {
+      "Key": "weapon-great-sword-rathflame-glinsword",
+      "Translation": "Rathflame Glinsword"
+    },
+    "weapon-great-sword-rathalos-gleamsword": {
+      "Key": "weapon-great-sword-rathalos-gleamsword",
+      "Translation": "Rathalos Gleamsword"
+    },
+    "weapon-great-sword-ogres-jaw-i": {
+      "Key": "weapon-great-sword-ogres-jaw-i",
+      "Translation": "오우거의 턱 I"
+    },
+    "weapon-great-sword-ogres-jaw-ii": {
+      "Key": "weapon-great-sword-ogres-jaw-ii",
+      "Translation": "오우거의 턱 II"
+    },
+    "weapon-great-sword-ogres-jaw-iii": {
+      "Key": "weapon-great-sword-ogres-jaw-iii",
+      "Translation": "오우거의 턱 III"
+    },
+    "weapon-great-sword-icewing": {
+      "Key": "weapon-great-sword-icewing",
+      "Translation": "Icewing"
+    },
+    "weapon-great-sword-winged-seraphyd": {
+      "Key": "weapon-great-sword-winged-seraphyd",
+      "Translation": "날개 달린 Seraphyd"
+    },
+    "weapon-great-sword-tiger-jawblade": {
+      "Key": "weapon-great-sword-tiger-jawblade",
+      "Translation": "타이거 Jawblade"
+    },
+    "weapon-great-sword-tiger-jawblade-plus": {
+      "Key": "weapon-great-sword-tiger-jawblade-plus",
+      "Translation": "타이거 Jawblade +"
+    },
+    "weapon-great-sword-tigrex-great-sword": {
+      "Key": "weapon-great-sword-tigrex-great-sword",
+      "Translation": "Tigrex 대검"
+    },
+    "weapon-great-sword-accursed-blade": {
+      "Key": "weapon-great-sword-accursed-blade",
+      "Translation": "저주 블레이드"
+    },
+    "weapon-great-sword-wildbite": {
+      "Key": "weapon-great-sword-wildbite",
+      "Translation": "Wildbite"
+    },
+    "weapon-great-sword-monstrous-madness": {
+      "Key": "weapon-great-sword-monstrous-madness",
+      "Translation": "괴물의 광기"
+    },
+    "weapon-great-sword-don-monstro": {
+      "Key": "weapon-great-sword-don-monstro",
+      "Translation": "돈 괴물 '몬 스트로"
+    },
+    "weapon-great-sword-gnashing-flammenzahn-plus": {
+      "Key": "weapon-great-sword-gnashing-flammenzahn-plus",
+      "Translation": "Flammenzahn +를 갊이 있으리라"
+    },
+    "weapon-great-sword-lohenzahn": {
+      "Key": "weapon-great-sword-lohenzahn",
+      "Translation": "Lohenzahn"
+    },
+    "weapon-great-sword-donnerzahn": {
+      "Key": "weapon-great-sword-donnerzahn",
+      "Translation": "Donnerzahn"
+    },
+    "weapon-great-sword-donnerzahn-plus": {
+      "Key": "weapon-great-sword-donnerzahn-plus",
+      "Translation": "Donnerzahn +"
+    },
+    "weapon-great-sword-fulgurations-edge": {
+      "Key": "weapon-great-sword-fulgurations-edge",
+      "Translation": "방전 요법의 에지"
+    },
+    "weapon-great-sword-water-golem-iv": {
+      "Key": "weapon-great-sword-water-golem-iv",
+      "Translation": "물 골렘 IV"
+    },
+    "weapon-great-sword-laguna-golem-i": {
+      "Key": "weapon-great-sword-laguna-golem-i",
+      "Translation": "라구나 골렘 I"
+    },
+    "weapon-great-sword-laguna-golem-ii": {
+      "Key": "weapon-great-sword-laguna-golem-ii",
+      "Translation": "라구나 골렘 II"
+    },
+    "weapon-great-sword-beo-slasher-i": {
+      "Key": "weapon-great-sword-beo-slasher-i",
+      "Translation": "BEO 슬래셔 I"
+    },
+    "weapon-great-sword-beo-slasher-ii": {
+      "Key": "weapon-great-sword-beo-slasher-ii",
+      "Translation": "BEO 슬래셔 II"
+    },
+    "weapon-great-sword-barroth-greatedge-i": {
+      "Key": "weapon-great-sword-barroth-greatedge-i",
+      "Translation": "Barroth Greatedge I"
+    },
+    "weapon-great-sword-barroth-greatedge-ii": {
+      "Key": "weapon-great-sword-barroth-greatedge-ii",
+      "Translation": "Barroth Greatedge II"
+    },
+    "weapon-great-sword-acid-shredder-i": {
+      "Key": "weapon-great-sword-acid-shredder-i",
+      "Translation": "산 슈레더 I"
+    },
+    "weapon-great-sword-acid-shredder-ii": {
+      "Key": "weapon-great-sword-acid-shredder-ii",
+      "Translation": "산 슈레더 II"
+    },
+    "weapon-great-sword-radobaan-grindblade-i": {
+      "Key": "weapon-great-sword-radobaan-grindblade-i",
+      "Translation": "Radobaan Grindblade I"
+    },
+    "weapon-great-sword-dios-blade": {
+      "Key": "weapon-great-sword-dios-blade",
+      "Translation": "디오스 블레이드"
+    },
+    "weapon-great-sword-brach-attack": {
+      "Key": "weapon-great-sword-brach-attack",
+      "Translation": "Brach 공격"
+    },
+    "weapon-great-sword-dragonseal-sword-i": {
+      "Key": "weapon-great-sword-dragonseal-sword-i",
+      "Translation": "Dragonseal 검 I"
+    },
+    "weapon-great-sword-dragonseal-sword-ii": {
+      "Key": "weapon-great-sword-dragonseal-sword-ii",
+      "Translation": "Dragonseal 소드 II"
+    },
+    "weapon-great-sword-immovable-dharma": {
+      "Key": "weapon-great-sword-immovable-dharma",
+      "Translation": "움직일 달마"
+    },
+    "weapon-great-sword-emperor-thundersword": {
+      "Key": "weapon-great-sword-emperor-thundersword",
+      "Translation": "황제 Thundersword"
+    },
+    "weapon-great-sword-magdaros-volcanblade": {
+      "Key": "weapon-great-sword-magdaros-volcanblade",
+      "Translation": "Magdaros Volcanblade"
+    },
+    "weapon-great-sword-daoras-tughril-beg": {
+      "Key": "weapon-great-sword-daoras-tughril-beg",
+      "Translation": "Daora의 토 그릴 베그 구걸"
+    },
+    "weapon-great-sword-ultra-wyvern-jawblade": {
+      "Key": "weapon-great-sword-ultra-wyvern-jawblade",
+      "Translation": "매우 와이번 Jawblade"
+    },
+    "weapon-great-sword-soulfire-edge-blaze": {
+      "Key": "weapon-great-sword-soulfire-edge-blaze",
+      "Translation": "Soulfire 에지 \"불꽃\""
+    },
+    "weapon-great-sword-soulfire-edge-ruin": {
+      "Key": "weapon-great-sword-soulfire-edge-ruin",
+      "Translation": "Soulfire 에지 \"파멸\""
+    },
+    "weapon-great-sword-soulfire-edge-styx": {
+      "Key": "weapon-great-sword-soulfire-edge-styx",
+      "Translation": "Soulfire 에지 '스틱스'"
+    },
+    "weapon-great-sword-demon-rod": {
+      "Key": "weapon-great-sword-demon-rod",
+      "Translation": "위대한 악마로드"
+    },
+    "weapon-great-sword-frozen-speartuna": {
+      "Key": "weapon-great-sword-frozen-speartuna",
+      "Translation": "냉동 Speartuna"
+    },
+    "weapon-great-sword-freezer-speartuna": {
+      "Key": "weapon-great-sword-freezer-speartuna",
+      "Translation": "냉동고 Speartuna"
+    },
+    "weapon-great-sword-xiphias-gladius": {
+      "Key": "weapon-great-sword-xiphias-gladius",
+      "Translation": "황새치 GLADIUS"
     }
   }

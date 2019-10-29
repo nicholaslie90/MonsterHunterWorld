@@ -889,7 +889,7 @@ export default {
     },
     "armor-hr-death-stench-bowels-beta": {
       "Key": "armor-hr-death-stench-bowels-beta",
-      "Translation": "死の悪臭腸ß"
+      "Translation": "死の悪臭腸のß"
     },
     "armor-hr-death-stench-brain-alpha": {
       "Key": "armor-hr-death-stench-brain-alpha",
@@ -6925,7 +6925,7 @@ export default {
     },
     "armor-mr-tzitzi-vambraces-beta-plus": {
       "Key": "armor-mr-tzitzi-vambraces-beta-plus",
-      "Translation": "Tzitzi Vambracesß+"
+      "Translation": "Tzitzi Vambracesのß+"
     },
     "armor-mr-uragaan-alpha-plus": {
       "Key": "armor-mr-uragaan-alpha-plus",
@@ -7065,7 +7065,7 @@ export default {
     },
     "armor-mr-viper-kadachi-hat-alpha-plus": {
       "Key": "armor-mr-viper-kadachi-hat-alpha-plus",
-      "Translation": "毒蛇Kadachiハット⍺+"
+      "Translation": "バイパーKadachiハット⍺+"
     },
     "armor-mr-viper-kadachi-hat-beta-plus": {
       "Key": "armor-mr-viper-kadachi-hat-beta-plus",
@@ -7497,7 +7497,7 @@ export default {
     },
     "armor-shamos-description": {
       "Key": "armor-shamos-description",
-      "Translation": "このShamosゴーグルは着用者が暗闇の中で見ることができるようにする特殊なプロセスを経てきました。"
+      "Translation": "これらのShamosゴーグルは着用者が暗闇の中で見ることができるようにする特殊なプロセスを経てきました。"
     },
     "armor-strategist-description": {
       "Key": "armor-strategist-description",
@@ -7517,7 +7517,7 @@ export default {
     },
     "armor-vaal-hazak-description": {
       "Key": "armor-vaal-hazak-description",
-      "Translation": "囁きは絶望を包含することをドン誰いずれかを促し、このヴァールHazakの鎧を悩ませ、そして消費します..."
+      "Translation": "囁きは絶望を受け入れるためにそれを着用誰いずれかを促し、このヴァールHazak鎧に出没し、消費します..."
     },
     "armor-vaal-hazak-gamma-description": {
       "Key": "armor-vaal-hazak-gamma-description",
@@ -7657,7 +7657,7 @@ export default {
     },
     "critical-bounties-research-help-capture-the-ancient-tips": {
       "Key": "critical-bounties-research-help-capture-the-ancient-tips",
-      "Translation": "この恵みは、最初の5つの風土病ライフクリティカル恵みあればどのゾーンにピックアップすることができ、第1の5枚の魚クリティカル手配書が完成されています\\ n \\ nAのPetricanthsはロットンヴェイル（中央キャンプ（のエリア15に水でキャッチすることができます11））が、唯一Grimalkyneに最も近い水域インチ\\ nは\\ nAのPetricanthsものエルダー凹部（東キャンプ（8））のキャンプテントの後ろのエリア8に水でキャッチすることができます。これらのゾーンの間で前後に移動します。"
+      "Translation": "この恵みは、最初の5つの風土病ライフクリティカル恵みあればどのゾーンにピックアップすることができ、第1の5枚の魚クリティカル手配書が完成されています\\ n \\ nAのPetricanthsはロットンヴェイル（中央キャンプ（のエリア15に水でキャッチすることができます11））が、唯一Grimalkyneに最も近い水域で。\\ N \\ nAのPetricanthsもエルダーの凹部（イースタンキャンプのキャンプのテントの後ろのエリア8に水の中にキャッチすることができます（8））。これらのゾーンの間で前後に移動します。"
     },
     "critical-bounties-research-help-carrier-ant-capture": {
       "Key": "critical-bounties-research-help-carrier-ant-capture",
@@ -7997,7 +7997,7 @@ export default {
     },
     "endemic-life-whetfish-description": {
       "Key": "endemic-life-whetfish-description",
-      "Translation": "彼らは比較的深い水の中を泳ぐが好き。それはすぐに噛まれていない場合ルアーを揺らすお試しください！"
+      "Translation": "彼らは比較的深い水の中を泳ぐのが好き。それはすぐに噛まれていない場合ルアーを揺らすお試しください！"
     },
     "endemic-life-wiggler-description": {
       "Key": "endemic-life-wiggler-description",
@@ -8197,7 +8197,7 @@ export default {
     },
     "layered-armor-brigade-layered-arms": {
       "Key": "layered-armor-brigade-layered-arms",
-      "Translation": "旅団層状腕"
+      "Translation": "旅団レイヤードアームズ"
     },
     "layered-armor-brigade-layered-chest": {
       "Key": "layered-armor-brigade-layered-chest",
@@ -8293,7 +8293,7 @@ export default {
     },
     "layered-armor-commission-how-to-get": {
       "Key": "layered-armor-commission-how-to-get",
-      "Translation": "ザ・コミッシュ配信を指令完了します。"
+      "Translation": "ザ・コミッシュ配信を指令完了。"
     },
     "layered-armor-dante": {
       "Key": "layered-armor-dante",
@@ -9017,7 +9017,7 @@ export default {
     },
     "monster-pink-rathian-characteristics": {
       "Key": "monster-pink-rathian-characteristics",
-      "Translation": "鮮やかなピンクの鱗を持つ亜種。ピンクRathiansは殺すためで移動する前に毒で獲物を弱め、より巧み通常Rathiansよりも彼らの有毒な尾を振るいます。"
+      "Translation": "鮮やかなピンクの鱗を持つ亜種。ピンクRathiansは殺すためで移動する前に毒で獲物を弱め、通常のRathians以上に巧みに自分の毒性尾を振るいます。"
     },
     "monster-pink-rathian-useful-information": {
       "Key": "monster-pink-rathian-useful-information",
@@ -9221,7 +9221,7 @@ export default {
     },
     "monster-zorah-magdaros-useful-information": {
       "Key": "monster-zorah-magdaros-useful-information",
-      "Translation": "通常攻撃は、その山のようなシェルに凹みを作ることはできません。そのような大砲や投石などのより大きな武器を利用する、または直接その外殻の部分に露出している「magmacore」熱器官を攻撃します。"
+      "Translation": "通常攻撃は、その山のようなシェルに凹みを作ることはできません。そのような大砲や投石などのより大きな武器を利用し、直接その外殻の部分に露出している「magmacore」熱器官を攻撃します。"
     },
     "play-guide-about-the-commission": {
       "Key": "play-guide-about-the-commission",
@@ -9337,7 +9337,7 @@ export default {
     },
     "play-guide-bounty-updates-description": {
       "Key": "play-guide-bounty-updates-description",
-      "Translation": "あなたがクエストや遠征から戻るwhenevr登録可能恵みのリストが更新されます。あなたは報奨金を登録したら、[スタート]メニューから、その詳細を確認することができます。"
+      "Translation": "あなたがクエストや遠征から戻るwhenevr、登録可能恵みのリストが更新されます。あなたは報奨金を登録したら、[スタート]メニューから、その詳細を確認することができます。"
     },
     "play-guide-bow": {
       "Key": "play-guide-bow",
@@ -9769,7 +9769,7 @@ export default {
     },
     "play-guide-great-fish-description": {
       "Key": "play-guide-great-fish-description",
-      "Translation": "魚の多くの種が異常に大きい「偉大な」の標本を持っています。これらは、より多くの研究のポイントでアイテムとその結果として使用されるより強力な効果を持っています。"
+      "Translation": "魚の多くの種が異常に大きい「偉大な」の標本を持っています。アイテムとして使用され、より多くの研究・ポイントになりとき、これらは、より強力な効果を持っています。"
     },
     "play-guide-great-sword": {
       "Key": "play-guide-great-sword",
@@ -10057,7 +10057,7 @@ export default {
     },
     "play-guide-midair-evasion-and-attacks": {
       "Key": "play-guide-midair-evasion-and-attacks",
-      "Translation": "空中回避と攻撃"
+      "Translation": "上空の回避と攻撃"
     },
     "play-guide-midair-evasion-and-attacks-description": {
       "Key": "play-guide-midair-evasion-and-attacks-description",
@@ -10241,7 +10241,7 @@ export default {
     },
     "play-guide-power-guard-description": {
       "Key": "play-guide-power-guard-description",
-      "Translation": "パワーガードは大幅にガード反応中にプッシュバックを減少させます。それはまた、あなたが任意の方向に攻撃にさらに連鎖することができます迅速に反撃を実行することができます。"
+      "Translation": "パワーガードは大幅にガード反応中にプッシュバックを減少させます。また、あなたはさらに、任意の方向に攻撃にあなたが連鎖することができ、より迅速反撃を行うことができます。"
     },
     "play-guide-preparing-for-a-hunt": {
       "Key": "play-guide-preparing-for-a-hunt",
@@ -10653,7 +10653,7 @@ export default {
     },
     "play-guide-the-research-base-description": {
       "Key": "play-guide-the-research-base-description",
-      "Translation": "研究者は、ベースcurrnetly大渓谷にかかっている第三艦隊の90％を構成します。その飛行船のバルーンはモンスターによって破壊された後の第3艦隊が閉じ込められていました。彼らは現在、腐ったヴェイルの研究を行っています。"
+      "Translation": "研究者はベースcurrnetly大渓谷にかかっている第三艦隊の90％を構成します。その飛行船のバルーンはモンスターによって破壊された後の第3艦隊が閉じ込められていました。彼らは現在、腐ったヴェイルの研究を行っています。"
     },
     "play-guide-the-research-commission": {
       "Key": "play-guide-the-research-commission",
@@ -10669,7 +10669,7 @@ export default {
     },
     "play-guide-the-smithy": {
       "Key": "play-guide-the-smithy",
-      "Translation": "鍛治場"
+      "Translation": "スミシー"
     },
     "play-guide-the-tale-of-the-five": {
       "Key": "play-guide-the-tale-of-the-five",
@@ -10869,7 +10869,7 @@ export default {
     },
     "poogie-about-poogie-text": {
       "Key": "poogie-about-poogie-text",
-      "Translation": "Poogieはアステラで見られる豚の名前です。 Poogieを使用するには、あなたはクエストからアステラに戻ったときPoogieはあなたに挨拶するまで、各クエストの間、多くの場合、彼をペットにする必要があります。"
+      "Translation": "Poogieはアステラで見つかった豚の名前です。 Poogieを使用するには、あなたはクエストからアステラに戻ったときPoogieはあなたに挨拶するまで、各クエストの間、多くの場合、彼をペットにする必要があります。"
     },
     "poogie-apprentice-fiver": {
       "Key": "poogie-apprentice-fiver",
@@ -11045,7 +11045,7 @@ export default {
     },
     "quest-a-colossal-task-tips": {
       "Key": "quest-a-colossal-task-tips",
-      "Translation": "ゾラMagdaros'背中に着陸するwingdrakeを使用して起動します。後であなたの着陸地点の近くにいくつかの石をつかむようにしてください。まっすぐ行くと、あなたはゾラのMagmacoreの1に達する必要があります。それはかわすことから噴出溶岩を確認して破壊します。 Magmacoreは破壊上に材料をドロップします。ゾラの「尾」の頭とあなたは別のMagmacoreと洞窟を見つけるまで下る、それを破壊する。\\ nは\\ nNowあなたの方法を作るすべての方法までゾラMagdarosボディ、左サイドからの登山は、あなたは大きなマグマ岩に遭遇する必要があります、あなたは30RPのためにそれを破壊することができます。一度トップにあなたは、あなたが今、それを破壊することができ、最後のMagmacoreが立っているだけでなくどこのいくつかの種類を下にジャンプすることができますが、その前に現れNergigante可能だと後で戻ってくる必要があります。 \\ nは\\ NGO Nergiganteの弱いバージョンの世話をし、それに行うことが十分なダメージ後逃げるだろう、あなたはその後、残りのMagmacoreを破壊する必要があります。すべてMagmacoreが破壊されると、バリアの上にあなたをもたらすためにWingdrakeのを待ちます。あなたは待っている間、ゾラの右脇腹に分割する別の岩を見つけることができます。 \\ nは\\非バリア、負荷の大砲や火災は、ゾラの位置に大砲をラインアップすることを確認すること、ゾラMagdarosを排出するために、一度に5個の砲弾を発射してみてください。これ以上の弾薬がない場合は、別の大砲に切り替えます。ある時点で、フィールドチームリーダーは、少しずつボートに向かって移動、大砲を発射保つ、まだそれを使用していない、ドラゴンスレイヤーについてお話します。ときは？NPC？ゾラMagdarosはドラゴンスレイヤーを活性化し、ゾラの攻撃を停止するためにボートのレバーを使用して、大きな攻撃用に充電していると言います。ゾラMagdarosがあきらめるまでこの後、それは時間と大砲のボールの問題です。"
+      "Translation": "ゾラMagdaros'背中に着陸するwingdrakeを使用して起動します。後であなたの着陸地点の近くにいくつかの石をつかむようにしてください。まっすぐ行くと、あなたはゾラのMagmacoreの1に達する必要があります。それはかわすことから噴出溶岩を確認して破壊します。 Magmacoreは破壊上に材料をドロップします。ゾラの「尾」の頭とあなたは別のMagmacoreと洞窟を見つけるまで下る、それを破壊する。\\ nは\\ nNowあなたの方法を作るすべての方法までゾラMagdarosボディ、左サイドからの登山は、あなたは大きなマグマ岩に遭遇する必要があります、あなたは30RPのためにそれを破壊することができます。一度トップにあなたは、あなたが今、それを破壊することができ、最後のMagmacoreが立っているだけでなくどこのいくつかの種類を下にジャンプすることができますが、その前に現れNergigante可能だと後で戻ってくる必要があります。 \\ nは\\ NGO Nergiganteの弱いバージョンの世話をし、それに行うことが十分なダメージ後逃げるだろう、あなたはその後、残りのMagmacoreを破壊する必要があります。すべてMagmacoreが破壊されると、バリアの上にあなたをもたらすためにWingdrakeのを待ちます。あなたは待っている間、ゾラの右脇腹に分割する別の岩を見つけることができます。 \\ nは\\非バリア、負荷の大砲や火災は、ゾラの位置に大砲をラインアップすることを確認すること、ゾラMagdarosを排出するために、一度に5個の砲弾を発射してみてください。これ以上の弾薬がない場合は、別の大砲に切り替えます。ある時点で、フィールドチームリーダーは、少しずつボートに向かって移動、大砲を発射保つ、まだそれを使用していない、ドラゴンスレイヤーについてお話します。ときは？NPC？ゾラMagdarosはドラゴンスレイヤーを活性化し、ゾラの攻撃を停止するためにボートのレバーを使用して、大きな攻撃用に充電していると言います。ゾラMagdarosがあきらめるまでこの後は、それだけの時間と大砲ボールの問題です。"
     },
     "quest-a-crown-of-mud-and-anger": {
       "Key": "quest-a-crown-of-mud-and-anger",
@@ -11261,7 +11261,7 @@ export default {
     },
     "quest-a-tzitzi-for-science-description": {
       "Key": "quest-a-tzitzi-for-science-description",
-      "Translation": "私たちは、それがその敵を盲目にするために、光の点滅を発するか、コーラルハイランドのTzitzi-YA-区の話を聞きました。私たちは、invovled mchanicsを知っている必要があります。フィールドのチームは、我々の研究のための1つを狩りしてください！"
+      "Translation": "私たちは、それがその敵を盲目にするため、光の点滅を発するか、コーラルハイランドのTzitzi-YA-区の話を聞きました。私たちは、invovled mchanicsを知っている必要があります。フィールドのチームは、我々の研究のための1つを狩りしてください！"
     },
     "quest-a-tzitzi-for-science-tips": {
       "Key": "quest-a-tzitzi-for-science-tips",
@@ -11305,7 +11305,7 @@ export default {
     },
     "quest-a-wound-and-a-thirst-description": {
       "Key": "quest-a-wound-and-a-thirst-description",
-      "Translation": "Nergiganteの長いエルダークロッシングの向こう側から私たちを見つめたが、今はその所在のリードを持っています。我々はそれを学ぶことができれば、それはクロッシングの本質を明らかにすることができます。"
+      "Translation": "Nergiganteの長いエルダークロッシングの向こう側から私たちを見つめたが、今はその所在のリードを持っています。私たちはそれを学ぶことができれば、それはクロッシングの本質を明らかにすることができます。"
     },
     "quest-arena-quest-01": {
       "Key": "quest-arena-quest-01",
@@ -11453,7 +11453,7 @@ export default {
     },
     "quest-camp-crasher-tips": {
       "Key": "quest-camp-crasher-tips",
-      "Translation": "北へ向かうながら北東キャンプ（11）から開始し、またはセクタ5へのあなたの方法を確認し、ターゲットの足跡/羽を探します。あなたのパスは、いくつかの点で交差する必要があります。"
+      "Translation": "東北キャンプ（11）から開始し、またはセクタ5へのあなたの方法を確認して北に向かう一方で、目標足跡/羽を探します。あなたのパスは、いくつかの点で交差する必要があります。"
     },
     "quest-chef-quest-a-rotten-request": {
       "Key": "quest-chef-quest-a-rotten-request",
@@ -11949,7 +11949,7 @@ export default {
     },
     "quest-contract-trouble-in-the-ancient-forest-description": {
       "Key": "quest-contract-trouble-in-the-ancient-forest-description",
-      "Translation": "注意フィールドチーム！異常が古代の森で発見されました。ウィッチャーは、この問題を解決するのに役立ちます。このクエストでは、RiviaのGeraltとしてプレーすることになります。"
+      "Translation": "注意フィールドチーム！異常が古代の森で発見されました。ウィッチャーは、この問題を解決するのに役立ちます。このクエストでは、RiviaのGeraltとして再生するために取得します。"
     },
     "quest-contract-woodland-spirit": {
       "Key": "quest-contract-woodland-spirit",
@@ -11985,7 +11985,7 @@ export default {
     },
     "quest-dodogama-drama-description": {
       "Key": "quest-dodogama-drama-description",
-      "Translation": "ねえ、私たちは周りのローミング非常に細かいモンスター標本の報告を得ています。私たちは、この機会につかむ必要があるので、我々はあなたができるだけ早く調査する必要があります！"
+      "Translation": "ねえ、私たちは周りのローミング非常に細かいモンスター標本の報告を得ています。私たちはこの機会につかむ必要があるので、私たちはあなたができるだけ早く調査する必要があります！"
     },
     "quest-dodogama-drama-tips": {
       "Key": "quest-dodogama-drama-tips",
@@ -12337,7 +12337,7 @@ export default {
     },
     "quest-lavasioth-monster-of-magma-description": {
       "Key": "quest-lavasioth-monster-of-magma-description",
-      "Translation": "ねえ、私たちは周りのローミング非常に細かいモンスター標本の報告を得ています。私たちは、この機会につかむ必要があるので、我々はあなたができるだけ早く調査する必要があります！"
+      "Translation": "ねえ、私たちは周りのローミング非常に細かいモンスター標本の報告を得ています。私たちはこの機会につかむ必要があるので、私たちはあなたができるだけ早く調査する必要があります！"
     },
     "quest-left-quite-the-impression": {
       "Key": "quest-left-quite-the-impression",
@@ -12345,7 +12345,7 @@ export default {
     },
     "quest-left-quite-the-impression-description": {
       "Key": "quest-left-quite-the-impression-description",
-      "Translation": "ゾラMagdarosの兆候はあなたの心がビートをスキップすることはありませんか？ただ驚嘆ようであるそのスケールがクローズアップ見て、私はあなたを確保しましょう。それは、我々はより多くのことを学ぶことが不可欠です。"
+      "Translation": "ゾラMagdarosの兆候はあなたの心がビートをスキップすることはありませんか？ただ畏敬の念を起こさせるようになり、そのスケールがクローズアップ見て、私はあなたを保証してみましょう。それは、我々はより多くのことを学ぶことが不可欠です。"
     },
     "quest-left-quite-the-impression-notes": {
       "Key": "quest-left-quite-the-impression-notes",
@@ -12453,7 +12453,7 @@ export default {
     },
     "quest-mired-in-the-spire-tips": {
       "Key": "quest-mired-in-the-spire-tips",
-      "Translation": "北ヘッド（美食マグロがキャンプで見つけることができます）、中央キャンプ（6）から起動し、ターゲットはKestodonの周りでなければなりません。それはあなたがそれをマウントするスライド/ジャンプ攻撃を使用しようとすることができセクター8に向かって逃げる必要があります。それは、その身体に泥を更新する部門7に向かって逃げるでしょう。それはあまりにも弱い取得を開始すると、それはセクター9に向かって逃亡し、泥の中に自分自身をカバーします。この領域で戦ったときにあなたの動きに水の影響を過小評価しないでください。それは深い水の中にショックトラップを配置することも不可能です。"
+      "Translation": "北ヘッド（美食マグロがキャンプで見つけることができます）、中央キャンプ（6）から起動し、ターゲットはKestodonの周りでなければなりません。それはあなたがそれを実装するためにスライド/ジャンプ攻撃を使用しようとすることができセクター8に向かって逃げる必要があります。それは、その身体に泥を更新する部門7に向かって逃げるでしょう。それはあまりにも弱い取得を開始すると、それはセクター9に向かって逃亡し、泥の中に自分自身をカバーします。この領域で戦ったときにあなたの動きに水の影響を過小評価しないでください。それは深い水の中にショックトラップを配置することも不可能です。"
     },
     "quest-new-world-sky-new-world-flower": {
       "Key": "quest-new-world-sky-new-world-flower",
@@ -12517,7 +12517,7 @@ export default {
     },
     "quest-objective-capture-an-odogaron": {
       "Key": "quest-objective-capture-an-odogaron",
-      "Translation": "Odogaronをキャプチャ"
+      "Translation": "Odogaronをキャプチャし"
     },
     "quest-objective-complete-the-assignment": {
       "Key": "quest-objective-complete-the-assignment",
@@ -12913,7 +12913,7 @@ export default {
     },
     "quest-ore-eating-occupier-description": {
       "Key": "quest-ore-eating-occupier-description",
-      "Translation": "私たちは、周りのローミング非常に細かいモンスター標本の報告を得ています。私たちは、この機会につかむ必要があるので、我々はあなたができるだけ早く調査する必要があります！"
+      "Translation": "私たちは、周りのローミング非常に細かいモンスター標本の報告を得ています。私たちはこの機会につかむ必要があるので、私たちはあなたができるだけ早く調査する必要があります！"
     },
     "quest-other-monsters": {
       "Key": "quest-other-monsters",
@@ -13201,7 +13201,7 @@ export default {
     },
     "quest-special-arena-barroth-description": {
       "Key": "quest-special-arena-barroth-description",
-      "Translation": "新しい挑戦者：Barroth、図体の大きいずつき、スカル、クラッカー！この男に負け、そしてあなたの名前は泥です！あなたはつま先からつま先までを行くCA考えて ​​- えー、トウ - 爪、この重い打者と！"
+      "Translation": "新しい挑戦。Barroth、図体の大きいずつき、スカル、クラッカー！この男に負け、そしてあなたの名前は泥です！あなたはつま先からつま先までを行くCA考えて ​​- えー、トウ - 爪、この重い打者と！"
     },
     "quest-special-arena-barroth-tips": {
       "Key": "quest-special-arena-barroth-tips",
@@ -13493,7 +13493,7 @@ export default {
     },
     "quest-the-current-situation-description": {
       "Key": "quest-the-current-situation-description",
-      "Translation": "私に触れないでください！私をtouhないで！ *ザップ*私はMEに触れないようにあなたに言いました！ブラストトビ-Kadachiはアップ示されており、現在、私は取得せずに何も触れることができない -  * ZAP * OUCH！"
+      "Translation": "私に触れないでください！私をtouhないでください！ *ザップ*私はMEに触れないようにあなたに言いました！ブラストトビ-Kadachiはアップ示されており、現在、私は取得せずに何も触れることができない -  * ZAP * OUCH！"
     },
     "quest-the-current-situation-tips": {
       "Key": "quest-the-current-situation-tips",
@@ -13721,7 +13721,7 @@ export default {
     },
     "quest-the-sleeping-sylvan-queen-description": {
       "Key": "quest-the-sleeping-sylvan-queen-description",
-      "Translation": "生態系に大きな変化は、彼らの自然の生息地からモンスターを駆動しています。古代の森に頭とすぐに侵略Rathianのあなたの調査を開始！"
+      "Translation": "生態系に大きな変化は、彼らの自然の生息地からモンスターを駆動しています。古代の森に頭とすぐに侵略Rathianあなたの調査を開始！"
     },
     "quest-the-sleeping-sylvan-queen-notes": {
       "Key": "quest-the-sleeping-sylvan-queen-notes",
@@ -13741,7 +13741,7 @@ export default {
     },
     "quest-the-white-winds-of-the-new-world-conditions": {
       "Key": "quest-the-white-winds-of-the-new-world-conditions",
-      "Translation": "8件までの他のすべてのオプションのクエストを完了"
+      "Translation": "8件まで他のすべてのオプションのクエストを完了"
     },
     "quest-the-white-winds-of-the-new-world-description": {
       "Key": "quest-the-white-winds-of-the-new-world-description",
@@ -13877,7 +13877,7 @@ export default {
     },
     "quest-two-horned-hostility-description": {
       "Key": "quest-two-horned-hostility-description",
-      "Translation": "ねえ、私たちは周りのローミング非常に細かいモンスター標本の報告を得ています。私たちは、この機会につかむ必要があるので、我々はあなたができるだけ早く調査する必要があります！"
+      "Translation": "ねえ、私たちは周りのローミング非常に細かいモンスター標本の報告を得ています。私たちはこの機会につかむ必要があるので、私たちはあなたができるだけ早く調査する必要があります！"
     },
     "quest-two-horned-hostility-notes": {
       "Key": "quest-two-horned-hostility-notes",
@@ -14645,7 +14645,7 @@ export default {
     },
     "skill-botanist-1": {
       "Key": "skill-botanist-1",
-      "Translation": "集まるごとに1つの余分消耗ハーブアイテム。"
+      "Translation": "集まるごとに1行の余分消耗ハーブアイテム。"
     },
     "skill-botanist-2": {
       "Key": "skill-botanist-2",
@@ -15313,7 +15313,7 @@ export default {
     },
     "skill-geologist-1": {
       "Key": "skill-geologist-1",
-      "Translation": "あなたはbonepilesから1羽の余分の時間を収集することができます。"
+      "Translation": "あなたはbonepilesから1つの余分の時間を収集することができます。"
     },
     "skill-geologist-2": {
       "Key": "skill-geologist-2",
@@ -15941,7 +15941,7 @@ export default {
     },
     "skill-palico-rally-4": {
       "Key": "skill-palico-rally-4",
-      "Translation": "Palicoの攻撃力と防御力が20％増加します。"
+      "Translation": "20％Palicoの攻撃力と防御力を増加させます。"
     },
     "skill-palico-rally-5": {
       "Key": "skill-palico-rally-5",
@@ -16601,7 +16601,7 @@ export default {
     },
     "skill-stun-resistance-3": {
       "Key": "skill-stun-resistance-3",
-      "Translation": "スタンを防ぎます。"
+      "Translation": "スタンガンを防ぎます。"
     },
     "skill-stun-resistance-description": {
       "Key": "skill-stun-resistance-description",
@@ -17181,7 +17181,7 @@ export default {
     },
     "trophy-i-am-the-reinforcements-description": {
       "Key": "trophy-i-am-the-reinforcements-description",
-      "Translation": "SOSフレアへの対応、そして完全な10クエストを助けます。"
+      "Translation": "SOSフレアへの対応、そして完全な10個のクエストを助けます。"
     },
     "trophy-impregnable-defense": {
       "Key": "trophy-impregnable-defense",
@@ -17205,7 +17205,7 @@ export default {
     },
     "trophy-indomitable-description": {
       "Key": "trophy-indomitable-description",
-      "Translation": "50匹の焼きモンスターを狩ります。"
+      "Translation": "50焼きモンスターを狩ります。"
     },
     "trophy-indomitable-spirit": {
       "Key": "trophy-indomitable-spirit",
@@ -17281,7 +17281,7 @@ export default {
     },
     "trophy-miniature-crown-collector-description": {
       "Key": "trophy-miniature-crown-collector-description",
-      "Translation": "あなたの狩猟ログに10匹の以上のモンスターのための小型の王冠を取得します。"
+      "Translation": "あなたの狩猟ログに10以上monstersのためのミニチュアクラウンを取得します。"
     },
     "trophy-miniature-crown-description": {
       "Key": "trophy-miniature-crown-description",
@@ -17793,7 +17793,7 @@ export default {
     },
     "weapon-dual-blades-bone-hatchets-ii": {
       "Key": "weapon-dual-blades-bone-hatchets-ii",
-      "Translation": "ボーンHatchets II"
+      "Translation": "骨Hatchets II"
     },
     "weapon-dual-blades-bone-hatchets-iii": {
       "Key": "weapon-dual-blades-bone-hatchets-iii",
@@ -20593,7 +20593,7 @@ export default {
     },
     "weapon-long-sword-gyre-gold-katana": {
       "Key": "weapon-long-sword-gyre-gold-katana",
-      "Translation": "ジャイルゴールドカタナ"
+      "Translation": "GYREゴールドカタナ"
     },
     "weapon-long-sword-hard-bone-reaper-i": {
       "Key": "weapon-long-sword-hard-bone-reaper-i",
@@ -22474,5 +22474,293 @@ export default {
     "weapon-dual-blades-suzuka-otakemaru": {
       "Key": "weapon-dual-blades-suzuka-otakemaru",
       "Translation": "鈴鹿Otakemaru"
+    },
+    "weapon-great-sword-chrome-deathscythe-i": {
+      "Key": "weapon-great-sword-chrome-deathscythe-i",
+      "Translation": "クロームデスI"
+    },
+    "weapon-great-sword-chrome-deathscythe-ii": {
+      "Key": "weapon-great-sword-chrome-deathscythe-ii",
+      "Translation": "クロームデスII"
+    },
+    "weapon-great-sword-ruinous-atrocity": {
+      "Key": "weapon-great-sword-ruinous-atrocity",
+      "Translation": "破滅的な残虐行為"
+    },
+    "weapon-great-sword-lightning-punisher-iv": {
+      "Key": "weapon-great-sword-lightning-punisher-iv",
+      "Translation": "ライトニングパニッシャーIV"
+    },
+    "weapon-great-sword-severing-bolt-i": {
+      "Key": "weapon-great-sword-severing-bolt-i",
+      "Translation": "ボルトIを切断"
+    },
+    "weapon-great-sword-frost-blaze-iii": {
+      "Key": "weapon-great-sword-frost-blaze-iii",
+      "Translation": "フロストブレイズIII"
+    },
+    "weapon-great-sword-icicle-fang": {
+      "Key": "weapon-great-sword-icicle-fang",
+      "Translation": "つららの牙"
+    },
+    "weapon-great-sword-icicle-fang-plus": {
+      "Key": "weapon-great-sword-icicle-fang-plus",
+      "Translation": "つらら牙+"
+    },
+    "weapon-great-sword-paladire": {
+      "Key": "weapon-great-sword-paladire",
+      "Translation": "Paladire"
+    },
+    "weapon-great-sword-jagras-deathclaw-i": {
+      "Key": "weapon-great-sword-jagras-deathclaw-i",
+      "Translation": "Jagras Deathclaw I"
+    },
+    "weapon-great-sword-jagras-deathclaw-ii": {
+      "Key": "weapon-great-sword-jagras-deathclaw-ii",
+      "Translation": "Jagras Deathclaw II"
+    },
+    "weapon-great-sword-mammoth-greataxe-i": {
+      "Key": "weapon-great-sword-mammoth-greataxe-i",
+      "Translation": "マンモスGreataxe I"
+    },
+    "weapon-great-sword-mammoth-greataxe-ii": {
+      "Key": "weapon-great-sword-mammoth-greataxe-ii",
+      "Translation": "マンモスGreataxe II"
+    },
+    "weapon-great-sword-naaga-guillotine-i": {
+      "Key": "weapon-great-sword-naaga-guillotine-i",
+      "Translation": "NaagaギロチンI"
+    },
+    "weapon-great-sword-naaga-guillotine-ii": {
+      "Key": "weapon-great-sword-naaga-guillotine-ii",
+      "Translation": "NaagaギロチンII"
+    },
+    "weapon-great-sword-hidden-blade-i": {
+      "Key": "weapon-great-sword-hidden-blade-i",
+      "Translation": "隠し剣鬼の爪I"
+    },
+    "weapon-great-sword-hidden-blade-ii": {
+      "Key": "weapon-great-sword-hidden-blade-ii",
+      "Translation": "隠し剣鬼の爪II"
+    },
+    "weapon-great-sword-pyre-cleaver-i": {
+      "Key": "weapon-great-sword-pyre-cleaver-i",
+      "Translation": "火葬包丁I"
+    },
+    "weapon-great-sword-pyre-cleaver-ii": {
+      "Key": "weapon-great-sword-pyre-cleaver-ii",
+      "Translation": "火葬包丁II"
+    },
+    "weapon-great-sword-glavenus-blaze-i": {
+      "Key": "weapon-great-sword-glavenus-blaze-i",
+      "Translation": "GlavenusブレイズI"
+    },
+    "weapon-great-sword-glavenus-blaze-ii": {
+      "Key": "weapon-great-sword-glavenus-blaze-ii",
+      "Translation": "GlavenusブレイズII"
+    },
+    "weapon-great-sword-datura-hellspine-i": {
+      "Key": "weapon-great-sword-datura-hellspine-i",
+      "Translation": "チョウセンアサガオHellspine I"
+    },
+    "weapon-great-sword-datura-hellspine-ii": {
+      "Key": "weapon-great-sword-datura-hellspine-ii",
+      "Translation": "チョウセンアサガオHellspine II"
+    },
+    "weapon-tree-nightshade-lumu-tree": {
+      "Key": "weapon-tree-nightshade-lumu-tree",
+      "Translation": "ホオズキLumuツリー"
+    },
+    "weapon-great-sword-nyx-razor-i": {
+      "Key": "weapon-great-sword-nyx-razor-i",
+      "Translation": "ニュクスカミソリI"
+    },
+    "weapon-great-sword-nyx-razor-ii": {
+      "Key": "weapon-great-sword-nyx-razor-ii",
+      "Translation": "ニュクスレイザーII"
+    },
+    "weapon-great-sword-rathalos-glinsword-plus": {
+      "Key": "weapon-great-sword-rathalos-glinsword-plus",
+      "Translation": "火竜Glinsword +"
+    },
+    "weapon-great-sword-rathflame-glinsword": {
+      "Key": "weapon-great-sword-rathflame-glinsword",
+      "Translation": "Rathflame Glinsword"
+    },
+    "weapon-great-sword-rathalos-gleamsword": {
+      "Key": "weapon-great-sword-rathalos-gleamsword",
+      "Translation": "火竜Gleamsword"
+    },
+    "weapon-great-sword-ogres-jaw-i": {
+      "Key": "weapon-great-sword-ogres-jaw-i",
+      "Translation": "鬼のジョーI"
+    },
+    "weapon-great-sword-ogres-jaw-ii": {
+      "Key": "weapon-great-sword-ogres-jaw-ii",
+      "Translation": "鬼の顎II"
+    },
+    "weapon-great-sword-ogres-jaw-iii": {
+      "Key": "weapon-great-sword-ogres-jaw-iii",
+      "Translation": "鬼の顎III"
+    },
+    "weapon-great-sword-icewing": {
+      "Key": "weapon-great-sword-icewing",
+      "Translation": "Icewing"
+    },
+    "weapon-great-sword-winged-seraphyd": {
+      "Key": "weapon-great-sword-winged-seraphyd",
+      "Translation": "翼Seraphyd"
+    },
+    "weapon-great-sword-tiger-jawblade": {
+      "Key": "weapon-great-sword-tiger-jawblade",
+      "Translation": "タイガーJawblade"
+    },
+    "weapon-great-sword-tiger-jawblade-plus": {
+      "Key": "weapon-great-sword-tiger-jawblade-plus",
+      "Translation": "タイガーJawblade +"
+    },
+    "weapon-great-sword-tigrex-great-sword": {
+      "Key": "weapon-great-sword-tigrex-great-sword",
+      "Translation": "轟竜のグレートソード"
+    },
+    "weapon-great-sword-accursed-blade": {
+      "Key": "weapon-great-sword-accursed-blade",
+      "Translation": "呪われたブレード"
+    },
+    "weapon-great-sword-wildbite": {
+      "Key": "weapon-great-sword-wildbite",
+      "Translation": "Wildbite"
+    },
+    "weapon-great-sword-monstrous-madness": {
+      "Key": "weapon-great-sword-monstrous-madness",
+      "Translation": "巨大な狂気"
+    },
+    "weapon-great-sword-don-monstro": {
+      "Key": "weapon-great-sword-don-monstro",
+      "Translation": "ドンMonstro"
+    },
+    "weapon-great-sword-gnashing-flammenzahn-plus": {
+      "Key": "weapon-great-sword-gnashing-flammenzahn-plus",
+      "Translation": "+ Flammenzahnを歯ぎしり"
+    },
+    "weapon-great-sword-lohenzahn": {
+      "Key": "weapon-great-sword-lohenzahn",
+      "Translation": "Lohenzahn"
+    },
+    "weapon-great-sword-donnerzahn": {
+      "Key": "weapon-great-sword-donnerzahn",
+      "Translation": "Donnerzahn"
+    },
+    "weapon-great-sword-donnerzahn-plus": {
+      "Key": "weapon-great-sword-donnerzahn-plus",
+      "Translation": "Donnerzahn +"
+    },
+    "weapon-great-sword-fulgurations-edge": {
+      "Key": "weapon-great-sword-fulgurations-edge",
+      "Translation": "高周波療法のエッジ"
+    },
+    "weapon-great-sword-water-golem-iv": {
+      "Key": "weapon-great-sword-water-golem-iv",
+      "Translation": "水ゴーレムIV"
+    },
+    "weapon-great-sword-laguna-golem-i": {
+      "Key": "weapon-great-sword-laguna-golem-i",
+      "Translation": "ラグナゴーレムI"
+    },
+    "weapon-great-sword-laguna-golem-ii": {
+      "Key": "weapon-great-sword-laguna-golem-ii",
+      "Translation": "ラグナゴーレムII"
+    },
+    "weapon-great-sword-beo-slasher-i": {
+      "Key": "weapon-great-sword-beo-slasher-i",
+      "Translation": "BEOスラッシャーI"
+    },
+    "weapon-great-sword-beo-slasher-ii": {
+      "Key": "weapon-great-sword-beo-slasher-ii",
+      "Translation": "BEOスラッシャーII"
+    },
+    "weapon-great-sword-barroth-greatedge-i": {
+      "Key": "weapon-great-sword-barroth-greatedge-i",
+      "Translation": "Barroth Greatedge I"
+    },
+    "weapon-great-sword-barroth-greatedge-ii": {
+      "Key": "weapon-great-sword-barroth-greatedge-ii",
+      "Translation": "Barroth Greatedge II"
+    },
+    "weapon-great-sword-acid-shredder-i": {
+      "Key": "weapon-great-sword-acid-shredder-i",
+      "Translation": "酸シュレッダーI"
+    },
+    "weapon-great-sword-acid-shredder-ii": {
+      "Key": "weapon-great-sword-acid-shredder-ii",
+      "Translation": "酸シュレッダーII"
+    },
+    "weapon-great-sword-radobaan-grindblade-i": {
+      "Key": "weapon-great-sword-radobaan-grindblade-i",
+      "Translation": "Radobaan Grindblade I"
+    },
+    "weapon-great-sword-dios-blade": {
+      "Key": "weapon-great-sword-dios-blade",
+      "Translation": "ディオスブレイド"
+    },
+    "weapon-great-sword-brach-attack": {
+      "Key": "weapon-great-sword-brach-attack",
+      "Translation": "Brachアタック"
+    },
+    "weapon-great-sword-dragonseal-sword-i": {
+      "Key": "weapon-great-sword-dragonseal-sword-i",
+      "Translation": "Dragonseal剣I"
+    },
+    "weapon-great-sword-dragonseal-sword-ii": {
+      "Key": "weapon-great-sword-dragonseal-sword-ii",
+      "Translation": "DragonsealソードII"
+    },
+    "weapon-great-sword-immovable-dharma": {
+      "Key": "weapon-great-sword-immovable-dharma",
+      "Translation": "不動のダルマ"
+    },
+    "weapon-great-sword-emperor-thundersword": {
+      "Key": "weapon-great-sword-emperor-thundersword",
+      "Translation": "皇帝Thundersword"
+    },
+    "weapon-great-sword-magdaros-volcanblade": {
+      "Key": "weapon-great-sword-magdaros-volcanblade",
+      "Translation": "Magdaros Volcanblade"
+    },
+    "weapon-great-sword-daoras-tughril-beg": {
+      "Key": "weapon-great-sword-daoras-tughril-beg",
+      "Translation": "Daoraのトゥグリル・ベグベグ"
+    },
+    "weapon-great-sword-ultra-wyvern-jawblade": {
+      "Key": "weapon-great-sword-ultra-wyvern-jawblade",
+      "Translation": "ウルトラワイバーンJawblade"
+    },
+    "weapon-great-sword-soulfire-edge-blaze": {
+      "Key": "weapon-great-sword-soulfire-edge-blaze",
+      "Translation": "Soulfireエッジ「ブレイズ」"
+    },
+    "weapon-great-sword-soulfire-edge-ruin": {
+      "Key": "weapon-great-sword-soulfire-edge-ruin",
+      "Translation": "Soulfireエッジ「遺跡」"
+    },
+    "weapon-great-sword-soulfire-edge-styx": {
+      "Key": "weapon-great-sword-soulfire-edge-styx",
+      "Translation": "Soulfireエッジ「三途の川」"
+    },
+    "weapon-great-sword-demon-rod": {
+      "Key": "weapon-great-sword-demon-rod",
+      "Translation": "大魔王ロッド"
+    },
+    "weapon-great-sword-frozen-speartuna": {
+      "Key": "weapon-great-sword-frozen-speartuna",
+      "Translation": "冷凍Speartuna"
+    },
+    "weapon-great-sword-freezer-speartuna": {
+      "Key": "weapon-great-sword-freezer-speartuna",
+      "Translation": "冷凍庫Speartuna"
+    },
+    "weapon-great-sword-xiphias-gladius": {
+      "Key": "weapon-great-sword-xiphias-gladius",
+      "Translation": "Xiphiasグラディウス"
     }
   }

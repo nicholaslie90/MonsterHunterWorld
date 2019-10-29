@@ -101,7 +101,7 @@ export default {
     },
     "armor-dantes-hair-description": {
       "Key": "armor-dantes-hair-description",
-      "Translation": "Formado después de Dante, el cazador de demonios. Permite a todos saber que no es de por aquí."
+      "Translation": "Moda después de Dante, el cazador de demonios. Permite a todos saber que no es de por aquí."
     },
     "armor-dantes-leather-boots-description": {
       "Key": "armor-dantes-leather-boots-description",
@@ -3277,7 +3277,7 @@ export default {
     },
     "armor-kulu-ya-ku-head-description": {
       "Key": "armor-kulu-ya-ku-head-description",
-      "Translation": "armadura de cabeza de moda después de un Kulu-Ya-Ku. Don de esto, y puede que tenga un anhelo de algunos huevos ..."
+      "Translation": "armadura de la cabeza de moda después de un Kulu-Ya-Ku. Don de esto, y puede que tenga un anhelo de algunos huevos ..."
     },
     "armor-kulve-taroth-description": {
       "Key": "armor-kulve-taroth-description",
@@ -3297,7 +3297,7 @@ export default {
     },
     "armor-leather-description": {
       "Key": "armor-leather-description",
-      "Translation": "Armadura hecha de piel de monstruo tratada. Una elección segura, diseñado para su uso polivalente."
+      "Translation": "Armadura hecho de cuero tratado monstruo. Una elección segura, diseñado para su uso polivalente."
     },
     "armor-legiana-description": {
       "Key": "armor-legiana-description",
@@ -3445,7 +3445,7 @@ export default {
     },
     "armor-lr-bone-vambraces": {
       "Key": "armor-lr-bone-vambraces",
-      "Translation": "óseas Protegebrazos"
+      "Translation": "Bone Avambrazos"
     },
     "armor-lr-brigade": {
       "Key": "armor-lr-brigade",
@@ -4689,7 +4689,7 @@ export default {
     },
     "armor-mr-blackveil-hazak-alpha-plus": {
       "Key": "armor-mr-blackveil-hazak-alpha-plus",
-      "Translation": "Blackveil Hazak ⍺ +"
+      "Translation": "+ Blackveil Hazak ⍺"
     },
     "armor-mr-blackveil-hazak-beta-plus": {
       "Key": "armor-mr-blackveil-hazak-beta-plus",
@@ -6165,7 +6165,7 @@ export default {
     },
     "armor-mr-lumu-vambraces-alpha-plus": {
       "Key": "armor-mr-lumu-vambraces-alpha-plus",
-      "Translation": "Avambrazos lumu ⍺ +"
+      "Translation": "Lumu Protegebrazos ⍺ +"
     },
     "armor-mr-lumu-vambraces-beta-plus": {
       "Key": "armor-mr-lumu-vambraces-beta-plus",
@@ -6657,7 +6657,7 @@ export default {
     },
     "armor-mr-savage-jho-beta-plus": {
       "Key": "armor-mr-savage-jho-beta-plus",
-      "Translation": "ß salvaje Jho +"
+      "Translation": "SS salvaje Jho +"
     },
     "armor-mr-seething-bazel-alpha-plus": {
       "Key": "armor-mr-seething-bazel-alpha-plus",
@@ -7593,7 +7593,7 @@ export default {
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics-tips": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics-tips",
-      "Translation": "Esta recompensa puede ser recogido en el Investigador Lynian en Astera después de haber completado los primeros 4 misiones Lynian de investigación. El investigador pregunta a descubrir 10 Gajalaka garabatos. \\ N \\ nSe es importante tener en cuenta que estos sólo desovan durante esta recompensa y sólo en lugares de alto rango. Puede encontrar 1 Doodle en el área 5 y 1 Doodle en la zona 15 en el bosque antiguo. Puede encontrar 1 Doodle en el área 3 y 1 del Doodle en la zona 7 de la Wildspire residuos. \\ N \\ nNo puede encontrar 1 Doodle en la zona 12 en las tierras altas de coral. Puede encontrar 2 garabatos en la zona 3 y 3 garabatos en la zona 15 en la putrefacta Vale. Cuando regresa al Astera, el investigador quiere que se dispuso a encontrar el campamento Gajalaka. \\ N \\ nBuscar el investigador en la zona 8 en el hueco de dragón. Con el fin de iniciar la generosidad, que tiene que ser la noche. Poner en su Ghillie Mantle y hablar con el líder en el fuego de campamento en la parte trasera del campamento. Recompensa: Su Palico ahora puede utilizar meowlotov cóctel y hablar con Gastodon."
+      "Translation": "Esta recompensa puede ser recogido en el Investigador Lynian en Astera después de haber completado los primeros 4 misiones Lynian de investigación. El investigador pregunta a descubrir 10 Gajalaka garabatos. \\ N \\ nSe es importante tener en cuenta que estos sólo desovan durante esta recompensa y sólo en lugares de alto rango. Puede encontrar 1 Doodle en el área 5 y 1 Doodle en la zona 15 en el bosque antiguo. Puede encontrar 1 Doodle en la zona 3 y 1 del Doodle en la zona de las 7 de la Wildspire Residuos. \\ N \\ nNo puede encontrar 1 Doodle en la zona 12 en las tierras altas de Coral. Puede encontrar 2 garabatos en la zona 3 y 3 garabatos en la zona 15 en la putrefacta Vale. Cuando regresa al Astera, el investigador quiere que se dispuso a encontrar el campamento Gajalaka. \\ N \\ nBuscar el investigador en la zona 8 en el hueco de dragón. Con el fin de iniciar la generosidad, que tiene que ser la noche. Poner en su Ghillie Mantle y hablar con el líder en el fuego de campamento en la parte trasera del campamento. Recompensa: Su Palico ahora puede utilizar meowlotov cóctel y hablar con Gastodon."
     },
     "critical-bounties-important": {
       "Key": "critical-bounties-important",
@@ -8573,7 +8573,7 @@ export default {
     },
     "monster-anjanath-characteristics": {
       "Key": "monster-anjanath-characteristics",
-      "Translation": "Las patrullas Anjanath el bosque antiguo, en busca de su comida favorita, Aptonoth. Este monstruo agresivo atacará cualquier cosa sin duda alguna."
+      "Translation": "Las patrullas Anjanath el bosque antiguo, buscando su comida favorita, Aptonoth. Este monstruo agresivo atacará cualquier cosa sin duda alguna."
     },
     "monster-anjanath-useful-information": {
       "Key": "monster-anjanath-useful-information",
@@ -8585,7 +8585,7 @@ export default {
     },
     "monster-apceros-useful-information": {
       "Key": "monster-apceros-useful-information",
-      "Translation": "Herbívoros que habitan en el Wildspire residuos. Han desarrollado ocultar particularmente difícil de evitar los atacantes, y se sabe que reunirse en grupos para defenderse."
+      "Translation": "Herbívoros que habitan en el Wildspire residuos. Han desarrollado ocultar particularmente difícil de evitar los atacantes, y se sabe que se reúnen en grupos para defenderse."
     },
     "monster-aptonoth": {
       "Key": "monster-aptonoth",
@@ -8789,7 +8789,7 @@ export default {
     },
     "monster-great-jagras-characteristics": {
       "Key": "monster-great-jagras-characteristics",
-      "Translation": "El líder de la manada de la Jagras. Cuando se conocen hambrientos, Great Jagras para atacar a los monstruos más fuertes Tham sí mismos. Se hincha a proporciones increíbles después de tragar presas."
+      "Translation": "El líder de la manada de la Jagras. Cuando se conocen hambrientos, Great Jagras para atacar a los monstruos más fuertes Tham sí mismos. Es hincha de una manera increíble después de tragar presas."
     },
     "monster-great-jagras-useful-information": {
       "Key": "monster-great-jagras-useful-information",
@@ -8997,7 +8997,7 @@ export default {
     },
     "monster-odogaron-useful-information": {
       "Key": "monster-odogaron-useful-information",
-      "Translation": "garras desagradables de Odogaron causan sangrado abundante y deben evitarse a toda costa. Utilizar la carne para atraer en trampas, escalonar, o coaccionar en ataques de rabia cansar a cabo y hacer que sea más fácil de tratar."
+      "Translation": "garras desagradables de Odogaron ocasionen un sangrado excesivo y debe ser evitado a toda costa. Utilizar la carne para atraer en trampas, escalonar, o coaccionar en ataques de rabia cansar a cabo y hacer que sea más fácil de tratar."
     },
     "monster-paolumu": {
       "Key": "monster-paolumu",
@@ -9569,7 +9569,7 @@ export default {
     },
     "play-guide-deploying-tailraider-safaris-description": {
       "Key": "play-guide-deploying-tailraider-safaris-description",
-      "Translation": "Puede implementar Tailraiders y Palicoes otros jugadores en safaris expedicionaria, donde van a recoger objetos y materiales y desbloquear las investigaciones para usted. investigaciones apuntan costo safaris a desplegar."
+      "Translation": "Puede implementar Tailraiders y Palicoes otros jugadores en safaris expedicionaria, donde van a recoger objetos y materiales y desbloquear las investigaciones para usted. investigaciones apuntan costo Safaris a desplegar."
     },
     "play-guide-deployment-routes": {
       "Key": "play-guide-deployment-routes",
@@ -10593,7 +10593,7 @@ export default {
     },
     "play-guide-the-argosy-sets-sail-description": {
       "Key": "play-guide-the-argosy-sets-sail-description",
-      "Translation": "El Argosy sólo queda en el puerto durante un tiempo limitado."
+      "Translation": "El Argosy sólo queda en puerto por un tiempo limitado."
     },
     "play-guide-the-botanical-research-center": {
       "Key": "play-guide-the-botanical-research-center",
@@ -10685,7 +10685,7 @@ export default {
     },
     "play-guide-the-training-area-description": {
       "Key": "play-guide-the-training-area-description",
-      "Translation": "Puede probar cualquiera de los catorce tipos de armas diferentes en el área de capacitación. Para viajar a la zona de entrenamiento, hablar con el ama de llaves en su habitación."
+      "Translation": "Puede probar cualquiera de los catorce tipos de armas diferentes en el área de formación. Para viajar a la zona de entrenamiento, hablar con el ama de llaves en su habitación."
     },
     "play-guide-tip-list": {
       "Key": "play-guide-tip-list",
@@ -10753,7 +10753,7 @@ export default {
     },
     "play-guide-upgrading-weapons-description": {
       "Key": "play-guide-upgrading-weapons-description",
-      "Translation": "Puede mejorar sus armas por parte de la actualización de ellos en el Smithy utilizando los materiales que recogen en las cacerías."
+      "Translation": "Puede mejorar sus armas mediante la mejora de ellos en el Smithy utilizando los materiales que recogen en las cacerías."
     },
     "play-guide-useful-functions": {
       "Key": "play-guide-useful-functions",
@@ -10825,7 +10825,7 @@ export default {
     },
     "play-guide-weapon-and-kinsect-combinations-description": {
       "Key": "play-guide-weapon-and-kinsect-combinations-description",
-      "Translation": "Puede equipar su guja de insectos con diferentes tipos de Kinsects. Considere cada tipo Kinsect junto a los refuerzos de tipo Glaive para encontrar combinaciones eficaces."
+      "Translation": "Se puede dotar a su guja de insectos con los diferentes tipos de Kinsects. Considere cada tipo Kinsect junto a los refuerzos de tipo Glaive para encontrar combinaciones eficaces."
     },
     "play-guide-weapon-info": {
       "Key": "play-guide-weapon-info",
@@ -11141,7 +11141,7 @@ export default {
     },
     "quest-a-nose-for-an-eye-description": {
       "Key": "quest-a-nose-for-an-eye-description",
-      "Translation": "En mi día, no necesitamos estas Scoutflies para localizar a los monstruos, pero esto es el nuevo mundo ... He localizado algunos monstruos interesantes para usted. Ve por ellos. (Puntos de bonificación de recursos humanos premiados al finalizar.)"
+      "Translation": "En mi día, no necesitamos estas Scoutflies para localizar a los monstruos, pero este es el nuevo mundo ... He localizado algunos monstruos interesantes para usted. Ve por ellos. (Puntos de bonificación de recursos humanos premiados al finalizar.)"
     },
     "quest-a-portent-of-disaster": {
       "Key": "quest-a-portent-of-disaster",
@@ -11329,7 +11329,7 @@ export default {
     },
     "quest-arena-quest-03-description": {
       "Key": "quest-arena-quest-03-description",
-      "Translation": "En la esquina monstruo: Rathian, la Reina o' Green, el Skyborne Slasher! No permita que la señora enfadada; ella es veneno! Quién tiene las agallas para luchar contra ella con armas y armaduras conjunto?"
+      "Translation": "En la esquina monstruo: Rathian, la Reina o' Green, el Skyborne Slasher! No permita que la señora enfadada; ella es veneno! ¿Quién tiene las agallas para luchar contra ella con armas y armaduras conjunto?"
     },
     "quest-arena-quest-04": {
       "Key": "quest-arena-quest-04",
@@ -11949,7 +11949,7 @@ export default {
     },
     "quest-contract-trouble-in-the-ancient-forest-description": {
       "Key": "quest-contract-trouble-in-the-ancient-forest-description",
-      "Translation": "La atención del equipo de campo! Una anomalía ha sido descubierto en el bosque antiguo. Ayuda al brujo resolver este problema. En esta búsqueda, se llega a jugar como Geralt de Rivia."
+      "Translation": "La atención del equipo de campo! Una anomalía se ha descubierto en el bosque antiguo. Ayuda al brujo resolver este problema. En esta búsqueda, se llega a jugar como Geralt de Rivia."
     },
     "quest-contract-woodland-spirit": {
       "Key": "quest-contract-woodland-spirit",
@@ -12361,7 +12361,7 @@ export default {
     },
     "quest-legiana-highlands-royalty": {
       "Key": "quest-legiana-highlands-royalty",
-      "Translation": "Legiana: Royalty Highlands"
+      "Translation": "Legiana: Highlands Royalty"
     },
     "quest-legiana-highlands-royalty-description": {
       "Key": "quest-legiana-highlands-royalty-description",
@@ -13061,7 +13061,7 @@ export default {
     },
     "quest-royal-relocation-tips": {
       "Key": "quest-royal-relocation-tips",
-      "Translation": "No se moleste con la protección del veneno si no se puede evitar por completo, así que traiga Antídoto con usted y usar equipos contra incendios resistentes. Empezar desde suroeste Camp (1), hacia el norte en el bosque sector 2 para encontrar el objetivo. Rathian sigue siendo susceptible al veneno a pesar de sus ataques de veneno por lo que el Poisoncup en el sector 3 se pueden utilizar. Su nido está en el otro lado del mapa en el sector 12, los viajes rápidos a Campo del Este (11) y subir las vides después del agua."
+      "Translation": "No se moleste con la protección del veneno si no se puede evitar por completo, así que traiga Antídoto con usted y utilizar el fuego equipos resistentes. Empezar desde suroeste Camp (1), hacia el norte en el bosque sector 2 para encontrar el objetivo. Rathian sigue siendo susceptible al veneno a pesar de sus ataques de veneno por lo que el Poisoncup en el sector 3 se pueden utilizar. Su nido está en el otro lado del mapa en el sector 12, los viajes rápidos a Campo del Este (11) y subir las vides después del agua."
     },
     "quest-rrrrrumble-in-the-waste": {
       "Key": "quest-rrrrrumble-in-the-waste",
@@ -13193,7 +13193,7 @@ export default {
     },
     "quest-special-arena-anjanath-tips": {
       "Key": "quest-special-arena-anjanath-tips",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-barroth": {
       "Key": "quest-special-arena-barroth",
@@ -13205,7 +13205,7 @@ export default {
     },
     "quest-special-arena-barroth-tips": {
       "Key": "quest-special-arena-barroth-tips",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-diablos": {
       "Key": "quest-special-arena-diablos",
@@ -13217,7 +13217,7 @@ export default {
     },
     "quest-special-arena-diablos-tips": {
       "Key": "quest-special-arena-diablos-tips",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-hr-anjanath": {
       "Key": "quest-special-arena-hr-anjanath",
@@ -13225,7 +13225,7 @@ export default {
     },
     "quest-special-arena-hr-anjanath-notes": {
       "Key": "quest-special-arena-hr-anjanath-notes",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-hr-azure-rathalos": {
       "Key": "quest-special-arena-hr-azure-rathalos",
@@ -13233,7 +13233,7 @@ export default {
     },
     "quest-special-arena-hr-azure-rathalos-notes": {
       "Key": "quest-special-arena-hr-azure-rathalos-notes",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-hr-barroth": {
       "Key": "quest-special-arena-hr-barroth",
@@ -13241,7 +13241,7 @@ export default {
     },
     "quest-special-arena-hr-barroth-notes": {
       "Key": "quest-special-arena-hr-barroth-notes",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-hr-black-diablos": {
       "Key": "quest-special-arena-hr-black-diablos",
@@ -13249,7 +13249,7 @@ export default {
     },
     "quest-special-arena-hr-black-diablos-notes": {
       "Key": "quest-special-arena-hr-black-diablos-notes",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-hr-diablos": {
       "Key": "quest-special-arena-hr-diablos",
@@ -13257,7 +13257,7 @@ export default {
     },
     "quest-special-arena-hr-diablos-notes": {
       "Key": "quest-special-arena-hr-diablos-notes",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-hr-legiana": {
       "Key": "quest-special-arena-hr-legiana",
@@ -13265,7 +13265,7 @@ export default {
     },
     "quest-special-arena-hr-legiana-notes": {
       "Key": "quest-special-arena-hr-legiana-notes",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-hr-odogaron": {
       "Key": "quest-special-arena-hr-odogaron",
@@ -13273,7 +13273,7 @@ export default {
     },
     "quest-special-arena-hr-odogaron-notes": {
       "Key": "quest-special-arena-hr-odogaron-notes",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-hr-paolumu": {
       "Key": "quest-special-arena-hr-paolumu",
@@ -13281,7 +13281,7 @@ export default {
     },
     "quest-special-arena-hr-paolumu-notes": {
       "Key": "quest-special-arena-hr-paolumu-notes",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-hr-pink-rathian": {
       "Key": "quest-special-arena-hr-pink-rathian",
@@ -13293,7 +13293,7 @@ export default {
     },
     "quest-special-arena-hr-pukei-pukei-notes": {
       "Key": "quest-special-arena-hr-pukei-pukei-notes",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-hr-radobaan": {
       "Key": "quest-special-arena-hr-radobaan",
@@ -13301,7 +13301,7 @@ export default {
     },
     "quest-special-arena-hr-radobaan-notes": {
       "Key": "quest-special-arena-hr-radobaan-notes",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-hr-rathalos": {
       "Key": "quest-special-arena-hr-rathalos",
@@ -13313,7 +13313,7 @@ export default {
     },
     "quest-special-arena-hr-rathalos-notes": {
       "Key": "quest-special-arena-hr-rathalos-notes",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-hr-rathian": {
       "Key": "quest-special-arena-hr-rathian",
@@ -13321,7 +13321,7 @@ export default {
     },
     "quest-special-arena-hr-rathian-notes": {
       "Key": "quest-special-arena-hr-rathian-notes",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-hr-tobi-kadachi": {
       "Key": "quest-special-arena-hr-tobi-kadachi",
@@ -13329,7 +13329,7 @@ export default {
     },
     "quest-special-arena-hr-tobi-kadachi-notes": {
       "Key": "quest-special-arena-hr-tobi-kadachi-notes",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-hr-uragaan": {
       "Key": "quest-special-arena-hr-uragaan",
@@ -13337,7 +13337,7 @@ export default {
     },
     "quest-special-arena-hr-uragaan-notes": {
       "Key": "quest-special-arena-hr-uragaan-notes",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-legiana": {
       "Key": "quest-special-arena-legiana",
@@ -13345,7 +13345,7 @@ export default {
     },
     "quest-special-arena-legiana-tips": {
       "Key": "quest-special-arena-legiana-tips",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-odogaron": {
       "Key": "quest-special-arena-odogaron",
@@ -13353,7 +13353,7 @@ export default {
     },
     "quest-special-arena-odogaron-tips": {
       "Key": "quest-special-arena-odogaron-tips",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-paolumu": {
       "Key": "quest-special-arena-paolumu",
@@ -13365,7 +13365,7 @@ export default {
     },
     "quest-special-arena-paolumu-tips": {
       "Key": "quest-special-arena-paolumu-tips",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-pukei-pukei": {
       "Key": "quest-special-arena-pukei-pukei",
@@ -13373,7 +13373,7 @@ export default {
     },
     "quest-special-arena-pukei-pukei-tips": {
       "Key": "quest-special-arena-pukei-pukei-tips",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-radobaan": {
       "Key": "quest-special-arena-radobaan",
@@ -13381,7 +13381,7 @@ export default {
     },
     "quest-special-arena-radobaan-tips": {
       "Key": "quest-special-arena-radobaan-tips",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-rathalos": {
       "Key": "quest-special-arena-rathalos",
@@ -13389,7 +13389,7 @@ export default {
     },
     "quest-special-arena-rathalos-tips": {
       "Key": "quest-special-arena-rathalos-tips",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-rathian": {
       "Key": "quest-special-arena-rathian",
@@ -13397,7 +13397,7 @@ export default {
     },
     "quest-special-arena-rathian-tips": {
       "Key": "quest-special-arena-rathian-tips",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-special-arena-tobi-kadachi": {
       "Key": "quest-special-arena-tobi-kadachi",
@@ -13409,7 +13409,7 @@ export default {
     },
     "quest-special-arena-tobi-kadachi-tips": {
       "Key": "quest-special-arena-tobi-kadachi-tips",
-      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún punto de la historia, la mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
+      "Translation": "Arena especial quests EIF el jugador contra una selección de grandes monstruos en un único mapa. El jugador puede utilizar Cannon, balistas, una trampa de piedra que cae y después de algún momento de la historia, el mortal Dragonslayer para ayudarles a luchar contra sus enemigos. Estas misiones aparecen una vez que el jugador de capturar su primer monstruo de una especie dada y es de una altura suficiente Hunter Rank."
     },
     "quest-stirrings-from-the-grave": {
       "Key": "quest-stirrings-from-the-grave",
@@ -13537,7 +13537,7 @@ export default {
     },
     "quest-the-fires-of-hell-bite-deep-description": {
       "Key": "quest-the-fires-of-hell-bite-deep-description",
-      "Translation": "Tenemos un quicio Teostra en pie de guerra. Parece que fue expulsado de su reino. La pregunta es, ¿qué hizo el Kickin'? Tiempo para investigar!"
+      "Translation": "Tenemos un quicio Teostra en pie de guerra. Parece que fue expulsado de su reino. La pregunta es, ¿qué hizo el Kickin'? Tiempo de investigación!"
     },
     "quest-the-food-chain-dominator": {
       "Key": "quest-the-food-chain-dominator",
@@ -13761,7 +13761,7 @@ export default {
     },
     "quest-the-winds-of-wrath-bite-deep-description": {
       "Key": "quest-the-winds-of-wrath-bite-deep-description",
-      "Translation": "Tenemos un Kushala Daora 'redonda, desgarrando correr las cosas. Parece que fue expulsado de su territorio. La pregunta es, ¿qué hizo el Kickin'? Tiempo para investigar!"
+      "Translation": "Tenemos un Kushala Daora 'redonda, desgarrando correr las cosas. Parece que fue expulsado de su territorio. La pregunta es, ¿qué hizo el Kickin'? Tiempo de investigación!"
     },
     "quest-this-is-how-revolts-start": {
       "Key": "quest-this-is-how-revolts-start",
@@ -13817,7 +13817,7 @@ export default {
     },
     "quest-todays-special-hunter-flambe-description": {
       "Key": "quest-todays-special-hunter-flambe-description",
-      "Translation": "Socio, somos parte de la cadena alimentaria también si se piensa en ello. Y eso es una mala noticia para nosotros si un Deviljho consigue un antojo de una hamburguesa cazador! Por lo tanto, vamos a cazarlo antes de que estemos almuerzo!"
+      "Translation": "Socio, somos parte de la cadena alimentaria también si se piensa en ello. Y eso es una mala noticia para nosotros si un Deviljho consigue un antojo de una hamburguesa cazador! Por lo tanto, vamos a cazarlo antes de estar el almuerzo!"
     },
     "quest-todays-special-hunter-flambe-notes": {
       "Key": "quest-todays-special-hunter-flambe-notes",
@@ -15129,7 +15129,7 @@ export default {
     },
     "skill-evade-extender-3": {
       "Key": "skill-evade-extender-3",
-      "Translation": "En gran medida se extiende la distancia evasión."
+      "Translation": "Enormemente se extiende la distancia evasión."
     },
     "skill-evade-extender-description": {
       "Key": "skill-evade-extender-description",
@@ -16137,7 +16137,7 @@ export default {
     },
     "skill-power-prolonger-description": {
       "Key": "skill-power-prolonger-description",
-      "Translation": "Permite largas espadas, cuchillas dobles, glaives de insectos, ejes de conmutación, y sus hojas de carga para permanecer encendido por más tiempo."
+      "Translation": "Permite largas espadas, cuchillas dobles, glaives de insectos, ejes de conmutación, y sus hojas carga para permanecer encendido por más tiempo."
     },
     "skill-pro-transporter": {
       "Key": "skill-pro-transporter",
@@ -16513,7 +16513,7 @@ export default {
     },
     "skill-spread-power-shots-description": {
       "Key": "skill-spread-power-shots-description",
-      "Translation": "Aumenta la potencia de ataque de munición difusión y dispararon flechas de energía."
+      "Translation": "Aumenta el poder de ataque de munición difusión y dispararon flechas de energía."
     },
     "skill-stamina-cap-up": {
       "Key": "skill-stamina-cap-up",
@@ -16541,7 +16541,7 @@ export default {
     },
     "skill-stamina-surge-3": {
       "Key": "skill-stamina-surge-3",
-      "Translation": "la velocidad de recuperación de Resistencia + 30%."
+      "Translation": "velocidad recuperación Resistencia + 30%."
     },
     "skill-stamina-surge-description": {
       "Key": "skill-stamina-surge-description",
@@ -16561,7 +16561,7 @@ export default {
     },
     "skill-stamina-thief-3": {
       "Key": "skill-stamina-thief-3",
-      "Translation": "poder de escape + el 30%."
+      "Translation": "poder de escape + 30%."
     },
     "skill-stamina-thief-description": {
       "Key": "skill-stamina-thief-description",
@@ -16797,7 +16797,7 @@ export default {
     },
     "skill-wide-range-5": {
       "Key": "skill-wide-range-5",
-      "Translation": "Los productos que afectan a los aliados cercanos en un radio mucho más amplia, con plena eficacia."
+      "Translation": "Elementos afectan a los aliados cercanos en un radio mucho más amplia, con plena eficacia."
     },
     "skill-wide-range-description": {
       "Key": "skill-wide-range-description",
@@ -17393,7 +17393,7 @@ export default {
     },
     "trophy-power-is-everything": {
       "Key": "trophy-power-is-everything",
-      "Translation": "El poder es Todo"
+      "Translation": "Poder lo es todo"
     },
     "trophy-power-is-everything-description": {
       "Key": "trophy-power-is-everything-description",
@@ -17921,7 +17921,7 @@ export default {
     },
     "weapon-dual-blades-freeze-chain-ii": {
       "Key": "weapon-dual-blades-freeze-chain-ii",
-      "Translation": "Cadena congelación II"
+      "Translation": "II Cadena de congelación"
     },
     "weapon-dual-blades-freeze-daggers-i": {
       "Key": "weapon-dual-blades-freeze-daggers-i",
@@ -19145,7 +19145,7 @@ export default {
     },
     "weapon-hammer-fossil-bludgeon-iii": {
       "Key": "weapon-hammer-fossil-bludgeon-iii",
-      "Translation": "Fósil Bludgeon III"
+      "Translation": "Fossil Bludgeon III"
     },
     "weapon-hammer-frozen-core": {
       "Key": "weapon-hammer-frozen-core",
@@ -22474,5 +22474,293 @@ export default {
     "weapon-dual-blades-suzuka-otakemaru": {
       "Key": "weapon-dual-blades-suzuka-otakemaru",
       "Translation": "Suzuka Otakemaru"
+    },
+    "weapon-great-sword-chrome-deathscythe-i": {
+      "Key": "weapon-great-sword-chrome-deathscythe-i",
+      "Translation": "Chrome Deathscythe I"
+    },
+    "weapon-great-sword-chrome-deathscythe-ii": {
+      "Key": "weapon-great-sword-chrome-deathscythe-ii",
+      "Translation": "Chrome Deathscythe II"
+    },
+    "weapon-great-sword-ruinous-atrocity": {
+      "Key": "weapon-great-sword-ruinous-atrocity",
+      "Translation": "Atrocidad ruinosa"
+    },
+    "weapon-great-sword-lightning-punisher-iv": {
+      "Key": "weapon-great-sword-lightning-punisher-iv",
+      "Translation": "Relámpago Punisher IV"
+    },
+    "weapon-great-sword-severing-bolt-i": {
+      "Key": "weapon-great-sword-severing-bolt-i",
+      "Translation": "La ruptura del perno I"
+    },
+    "weapon-great-sword-frost-blaze-iii": {
+      "Key": "weapon-great-sword-frost-blaze-iii",
+      "Translation": "Helada Blaze III"
+    },
+    "weapon-great-sword-icicle-fang": {
+      "Key": "weapon-great-sword-icicle-fang",
+      "Translation": "carámbano colmillo"
+    },
+    "weapon-great-sword-icicle-fang-plus": {
+      "Key": "weapon-great-sword-icicle-fang-plus",
+      "Translation": "Carámbano colmillo +"
+    },
+    "weapon-great-sword-paladire": {
+      "Key": "weapon-great-sword-paladire",
+      "Translation": "Paladire"
+    },
+    "weapon-great-sword-jagras-deathclaw-i": {
+      "Key": "weapon-great-sword-jagras-deathclaw-i",
+      "Translation": "Jagras Deathclaw I"
+    },
+    "weapon-great-sword-jagras-deathclaw-ii": {
+      "Key": "weapon-great-sword-jagras-deathclaw-ii",
+      "Translation": "Jagras Deathclaw II"
+    },
+    "weapon-great-sword-mammoth-greataxe-i": {
+      "Key": "weapon-great-sword-mammoth-greataxe-i",
+      "Translation": "Mammoth Gran hacha I"
+    },
+    "weapon-great-sword-mammoth-greataxe-ii": {
+      "Key": "weapon-great-sword-mammoth-greataxe-ii",
+      "Translation": "Mammoth Gran hacha II"
+    },
+    "weapon-great-sword-naaga-guillotine-i": {
+      "Key": "weapon-great-sword-naaga-guillotine-i",
+      "Translation": "Naaga guillotina I"
+    },
+    "weapon-great-sword-naaga-guillotine-ii": {
+      "Key": "weapon-great-sword-naaga-guillotine-ii",
+      "Translation": "Naaga guillotina II"
+    },
+    "weapon-great-sword-hidden-blade-i": {
+      "Key": "weapon-great-sword-hidden-blade-i",
+      "Translation": "Hoja oculta I"
+    },
+    "weapon-great-sword-hidden-blade-ii": {
+      "Key": "weapon-great-sword-hidden-blade-ii",
+      "Translation": "Hoja oculta II"
+    },
+    "weapon-great-sword-pyre-cleaver-i": {
+      "Key": "weapon-great-sword-pyre-cleaver-i",
+      "Translation": "Pira Cleaver I"
+    },
+    "weapon-great-sword-pyre-cleaver-ii": {
+      "Key": "weapon-great-sword-pyre-cleaver-ii",
+      "Translation": "Pira Cleaver II"
+    },
+    "weapon-great-sword-glavenus-blaze-i": {
+      "Key": "weapon-great-sword-glavenus-blaze-i",
+      "Translation": "Glavenus Blaze I"
+    },
+    "weapon-great-sword-glavenus-blaze-ii": {
+      "Key": "weapon-great-sword-glavenus-blaze-ii",
+      "Translation": "Glavenus Blaze II"
+    },
+    "weapon-great-sword-datura-hellspine-i": {
+      "Key": "weapon-great-sword-datura-hellspine-i",
+      "Translation": "Datura I Hellspine"
+    },
+    "weapon-great-sword-datura-hellspine-ii": {
+      "Key": "weapon-great-sword-datura-hellspine-ii",
+      "Translation": "Datura Hellspine II"
+    },
+    "weapon-tree-nightshade-lumu-tree": {
+      "Key": "weapon-tree-nightshade-lumu-tree",
+      "Translation": "Solanáceas Lumu árbol"
+    },
+    "weapon-great-sword-nyx-razor-i": {
+      "Key": "weapon-great-sword-nyx-razor-i",
+      "Translation": "Nyx Razor I"
+    },
+    "weapon-great-sword-nyx-razor-ii": {
+      "Key": "weapon-great-sword-nyx-razor-ii",
+      "Translation": "Nyx Razor II"
+    },
+    "weapon-great-sword-rathalos-glinsword-plus": {
+      "Key": "weapon-great-sword-rathalos-glinsword-plus",
+      "Translation": "Rathalos Glinsword +"
+    },
+    "weapon-great-sword-rathflame-glinsword": {
+      "Key": "weapon-great-sword-rathflame-glinsword",
+      "Translation": "Rathflame Glinsword"
+    },
+    "weapon-great-sword-rathalos-gleamsword": {
+      "Key": "weapon-great-sword-rathalos-gleamsword",
+      "Translation": "rathalos Gleamsword"
+    },
+    "weapon-great-sword-ogres-jaw-i": {
+      "Key": "weapon-great-sword-ogres-jaw-i",
+      "Translation": "ogro de mandíbula I"
+    },
+    "weapon-great-sword-ogres-jaw-ii": {
+      "Key": "weapon-great-sword-ogres-jaw-ii",
+      "Translation": "ogro de mandíbula II"
+    },
+    "weapon-great-sword-ogres-jaw-iii": {
+      "Key": "weapon-great-sword-ogres-jaw-iii",
+      "Translation": "de Ogre Jaw III"
+    },
+    "weapon-great-sword-icewing": {
+      "Key": "weapon-great-sword-icewing",
+      "Translation": "Icewing"
+    },
+    "weapon-great-sword-winged-seraphyd": {
+      "Key": "weapon-great-sword-winged-seraphyd",
+      "Translation": "alado Seraphyd"
+    },
+    "weapon-great-sword-tiger-jawblade": {
+      "Key": "weapon-great-sword-tiger-jawblade",
+      "Translation": "tigre Jawblade"
+    },
+    "weapon-great-sword-tiger-jawblade-plus": {
+      "Key": "weapon-great-sword-tiger-jawblade-plus",
+      "Translation": "Tigre Jawblade +"
+    },
+    "weapon-great-sword-tigrex-great-sword": {
+      "Key": "weapon-great-sword-tigrex-great-sword",
+      "Translation": "Tigrex Gran Espada"
+    },
+    "weapon-great-sword-accursed-blade": {
+      "Key": "weapon-great-sword-accursed-blade",
+      "Translation": "maldita hoja"
+    },
+    "weapon-great-sword-wildbite": {
+      "Key": "weapon-great-sword-wildbite",
+      "Translation": "Wildbite"
+    },
+    "weapon-great-sword-monstrous-madness": {
+      "Key": "weapon-great-sword-monstrous-madness",
+      "Translation": "La locura monstruosa"
+    },
+    "weapon-great-sword-don-monstro": {
+      "Key": "weapon-great-sword-don-monstro",
+      "Translation": "Don Monstro"
+    },
+    "weapon-great-sword-gnashing-flammenzahn-plus": {
+      "Key": "weapon-great-sword-gnashing-flammenzahn-plus",
+      "Translation": "Rechinando Flammenzahn +"
+    },
+    "weapon-great-sword-lohenzahn": {
+      "Key": "weapon-great-sword-lohenzahn",
+      "Translation": "Lohenzahn"
+    },
+    "weapon-great-sword-donnerzahn": {
+      "Key": "weapon-great-sword-donnerzahn",
+      "Translation": "Donnerzahn"
+    },
+    "weapon-great-sword-donnerzahn-plus": {
+      "Key": "weapon-great-sword-donnerzahn-plus",
+      "Translation": "Donnerzahn +"
+    },
+    "weapon-great-sword-fulgurations-edge": {
+      "Key": "weapon-great-sword-fulgurations-edge",
+      "Translation": "Borde de fulguración"
+    },
+    "weapon-great-sword-water-golem-iv": {
+      "Key": "weapon-great-sword-water-golem-iv",
+      "Translation": "Agua Golem IV"
+    },
+    "weapon-great-sword-laguna-golem-i": {
+      "Key": "weapon-great-sword-laguna-golem-i",
+      "Translation": "Laguna I Golem"
+    },
+    "weapon-great-sword-laguna-golem-ii": {
+      "Key": "weapon-great-sword-laguna-golem-ii",
+      "Translation": "Laguna Golem II"
+    },
+    "weapon-great-sword-beo-slasher-i": {
+      "Key": "weapon-great-sword-beo-slasher-i",
+      "Translation": "Beo Slasher I"
+    },
+    "weapon-great-sword-beo-slasher-ii": {
+      "Key": "weapon-great-sword-beo-slasher-ii",
+      "Translation": "Beo Slasher II"
+    },
+    "weapon-great-sword-barroth-greatedge-i": {
+      "Key": "weapon-great-sword-barroth-greatedge-i",
+      "Translation": "Barroth Greatedge I"
+    },
+    "weapon-great-sword-barroth-greatedge-ii": {
+      "Key": "weapon-great-sword-barroth-greatedge-ii",
+      "Translation": "Barroth Greatedge II"
+    },
+    "weapon-great-sword-acid-shredder-i": {
+      "Key": "weapon-great-sword-acid-shredder-i",
+      "Translation": "Acid Shredder I"
+    },
+    "weapon-great-sword-acid-shredder-ii": {
+      "Key": "weapon-great-sword-acid-shredder-ii",
+      "Translation": "Acid Shredder II"
+    },
+    "weapon-great-sword-radobaan-grindblade-i": {
+      "Key": "weapon-great-sword-radobaan-grindblade-i",
+      "Translation": "Radobaan Grindblade I"
+    },
+    "weapon-great-sword-dios-blade": {
+      "Key": "weapon-great-sword-dios-blade",
+      "Translation": "Dios cuchilla"
+    },
+    "weapon-great-sword-brach-attack": {
+      "Key": "weapon-great-sword-brach-attack",
+      "Translation": "Ataque Brach"
+    },
+    "weapon-great-sword-dragonseal-sword-i": {
+      "Key": "weapon-great-sword-dragonseal-sword-i",
+      "Translation": "Dragonseal Espada I"
+    },
+    "weapon-great-sword-dragonseal-sword-ii": {
+      "Key": "weapon-great-sword-dragonseal-sword-ii",
+      "Translation": "Dragonseal Espada II"
+    },
+    "weapon-great-sword-immovable-dharma": {
+      "Key": "weapon-great-sword-immovable-dharma",
+      "Translation": "inmuebles Dharma"
+    },
+    "weapon-great-sword-emperor-thundersword": {
+      "Key": "weapon-great-sword-emperor-thundersword",
+      "Translation": "emperador Thundersword"
+    },
+    "weapon-great-sword-magdaros-volcanblade": {
+      "Key": "weapon-great-sword-magdaros-volcanblade",
+      "Translation": "Magdaros Volcanblade"
+    },
+    "weapon-great-sword-daoras-tughril-beg": {
+      "Key": "weapon-great-sword-daoras-tughril-beg",
+      "Translation": "Tugril de Beg de daora"
+    },
+    "weapon-great-sword-ultra-wyvern-jawblade": {
+      "Key": "weapon-great-sword-ultra-wyvern-jawblade",
+      "Translation": "Ultra Wyvern Jawblade"
+    },
+    "weapon-great-sword-soulfire-edge-blaze": {
+      "Key": "weapon-great-sword-soulfire-edge-blaze",
+      "Translation": "Soulfire Edge \"Blaze\""
+    },
+    "weapon-great-sword-soulfire-edge-ruin": {
+      "Key": "weapon-great-sword-soulfire-edge-ruin",
+      "Translation": "Soulfire Edge \"Ruina\""
+    },
+    "weapon-great-sword-soulfire-edge-styx": {
+      "Key": "weapon-great-sword-soulfire-edge-styx",
+      "Translation": "Soulfire Edge \"Styx\""
+    },
+    "weapon-great-sword-demon-rod": {
+      "Key": "weapon-great-sword-demon-rod",
+      "Translation": "Gran Demonio de Rod"
+    },
+    "weapon-great-sword-frozen-speartuna": {
+      "Key": "weapon-great-sword-frozen-speartuna",
+      "Translation": "congelada Speartuna"
+    },
+    "weapon-great-sword-freezer-speartuna": {
+      "Key": "weapon-great-sword-freezer-speartuna",
+      "Translation": "congelador Speartuna"
+    },
+    "weapon-great-sword-xiphias-gladius": {
+      "Key": "weapon-great-sword-xiphias-gladius",
+      "Translation": "Xiphias Gladius"
     }
   }

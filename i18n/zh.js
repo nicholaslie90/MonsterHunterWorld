@@ -3285,7 +3285,7 @@ export default {
     },
     "armor-kushala-description": {
       "Key": "armor-kushala-description",
-      "Translation": "護甲從Kushala Daora零件。它類似於一個古老的神來生活的雕像。"
+      "Translation": "護甲從Kushala Daora零件。它就像一個古老的神靈栩栩如生的雕像。"
     },
     "armor-kushala-gamma-description": {
       "Key": "armor-kushala-gamma-description",
@@ -3297,7 +3297,7 @@ export default {
     },
     "armor-leather-description": {
       "Key": "armor-leather-description",
-      "Translation": "裝甲使得處理後的怪物隱藏的。安全的選擇，設計用於多種用途。"
+      "Translation": "護甲做出處理的怪物隱藏的。安全的選擇，設計用於多種用途。"
     },
     "armor-legiana-description": {
       "Key": "armor-legiana-description",
@@ -5097,7 +5097,7 @@ export default {
     },
     "armor-mr-esurient-mail-alpha-plus": {
       "Key": "armor-mr-esurient-mail-alpha-plus",
-      "Translation": "饕郵件⍺+"
+      "Translation": "貪吃郵件⍺+"
     },
     "armor-mr-esurient-mail-beta-plus": {
       "Key": "armor-mr-esurient-mail-beta-plus",
@@ -7493,7 +7493,7 @@ export default {
     },
     "armor-shadow-shades-description": {
       "Key": "armor-shadow-shades-description",
-      "Translation": "明智的一對色調。你永遠看起來很酷這些，不管情況。"
+      "Translation": "一個明智的一對色調。你永遠看起來很酷這些，不管情況。"
     },
     "armor-shamos-description": {
       "Key": "armor-shamos-description",
@@ -9517,7 +9517,7 @@ export default {
     },
     "play-guide-cultivating-items": {
       "Key": "play-guide-cultivating-items",
-      "Translation": "培養項目"
+      "Translation": "培育項目"
     },
     "play-guide-cultivating-items-description": {
       "Key": "play-guide-cultivating-items-description",
@@ -9949,7 +9949,7 @@ export default {
     },
     "play-guide-kulve-taroth-siege-strategies-description": {
       "Key": "play-guide-kulve-taroth-siege-strategies-description",
-      "Translation": "您可以通過簡單地收集由Kulve Taroth離開軌道提高追求水平無論研究水平。提高追求水平處於轉彎這個怪物是至關重要的。\\ n在天球追求\\ n所有的獵人將獲得同樣的好處時，追求或報酬水平提高。團隊與其他獵人追捕Kulve Taroth。\\ n \\ n您可以從開始菜單中選擇特殊任務檢查Kulve Taroth細節。"
+      "Translation": "您可以通過簡單地收集由Kulve Taroth離開軌道提高追求水平無論研究水平。提高追求水平處於轉彎這個怪物至關重要\\ N的天球追求\\ n所有的獵人將獲得同樣的好處時，追求或報酬水平提高。團隊與其他獵人追捕Kulve Taroth。\\ n \\ n您可以從開始菜單中選擇特殊任務檢查Kulve Taroth細節。"
     },
     "play-guide-kulve-taroths-weaknesses": {
       "Key": "play-guide-kulve-taroths-weaknesses",
@@ -10565,7 +10565,7 @@ export default {
     },
     "play-guide-tailraiders-description": {
       "Key": "play-guide-tailraiders-description",
-      "Translation": "您Palico能說話和Grimalkynes和某些其他怪物來說服他們幫助你在你的狩獵。那些你交好會陪你的時間很短的Tailraiders。"
+      "Translation": "您Palico可以說和Grimalkynes和某些其他怪物說服他們幫助你的狩獵。那些你交好會陪你的時間很短的Tailraiders。"
     },
     "play-guide-tempered-monsters": {
       "Key": "play-guide-tempered-monsters",
@@ -11181,7 +11181,7 @@ export default {
     },
     "quest-a-rush-of-blood-description": {
       "Key": "quest-a-rush-of-blood-description",
-      "Translation": "不好了！有部份大醇'怪物看起來很像我們火拼！有人的gottal平靜的大男孩了！幫助我們，我們會給你一些特殊的齒輪為您Palico！"
+      "Translation": "不好了！有大部份OL“怪物看起來很像我們火拼！有人的gottal平靜的大男孩了！幫助我們，我們會給你一些特殊的齒輪為您Palico！"
     },
     "quest-a-scalding-scoop": {
       "Key": "quest-a-scalding-scoop",
@@ -11369,7 +11369,7 @@ export default {
     },
     "quest-arena-quest-08-description": {
       "Key": "quest-arena-quest-08-description",
-      "Translation": "在怪物的角落：一個Radobaan-Uragaan標記隊！車輪轉向，和你的電話號碼的了！誰擁有膽量打'時間與設定的武器和盔甲？"
+      "Translation": "在怪物的角落：一個Radobaan-Uragaan標記隊！車輪轉向，和你的電話號碼的了！誰擁有的勇氣打'時間與設定的武器和盔甲？"
     },
     "quest-arena-quest-09": {
       "Key": "quest-arena-quest-09",
@@ -11377,7 +11377,7 @@ export default {
     },
     "quest-arena-quest-09-description": {
       "Key": "quest-arena-quest-09-description",
-      "Translation": "在怪物的角落：一個Diablo的黑Diablo的標記隊！曾經有你的耳朵刺穿？現在嘗試極端的版本！誰擁有膽量打'時間與設定的武器和盔甲？"
+      "Translation": "在怪物的角落：一個Diablo的黑Diablo的標記隊！曾經有你的耳朵刺穿？現在嘗試極端的版本！誰擁有的勇氣打'時間與設定的武器和盔甲？"
     },
     "quest-ballooning-problems": {
       "Key": "quest-ballooning-problems",
@@ -11481,7 +11481,7 @@ export default {
     },
     "quest-chef-quest-gajalaka-lockdown-notable-rewards": {
       "Key": "quest-chef-quest-gajalaka-lockdown-notable-rewards",
-      "Translation": "粗野鰤成分，Gajalaka素描"
+      "Translation": "粗野鰤成分Gajalaka素描"
     },
     "quest-chef-quest-pumped-to-deliver": {
       "Key": "quest-chef-quest-pumped-to-deliver",
@@ -12085,7 +12085,7 @@ export default {
     },
     "quest-fungal-flexin-in-the-ancient-forest-description": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-description",
-      "Translation": "補充？在我的食堂？ Pfft！我們都是有機的，寶貝！如果你需要維生素d，得到一些美食Shroomcaps！"
+      "Translation": "補充？在我的食堂？ Pfft！我們都是有機的，寶貝！如果你需要維生素D，得到一些美食Shroomcaps！"
     },
     "quest-fungal-flexin-in-the-ancient-forest-notable-rewards": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-notable-rewards",
@@ -12113,7 +12113,7 @@ export default {
     },
     "quest-gettin-yolked-in-the-forest-tips": {
       "Key": "quest-gettin-yolked-in-the-forest-tips",
-      "Translation": "從遠古森林營（17）開始，並確保您有吉利的地幔下面南部路徑，Rathian巢（臨轉運人員可來方便太多），頭16扇區一路上漲。把吉利地幔上挑飛龍蛋，你不能與卵子的分支下通過這樣下去西坡（你可以放心地滑下），並尋找北側出口，然後就回去營地，重複一次。如果你足夠快，你可以逃脫不吉利地幔Rathian，該Rathian不能跟著你到部門17。"
+      "Translation": "從遠古森林營（17）開始，並確保您有吉利地幔下面南部路徑，Rathian巢（臨轉運人員可來方便太多），頭16扇區一路上漲。把吉利地幔上挑飛龍蛋，你不能與卵子的分支下通過這樣下去西坡（你可以放心地滑下），並尋找北側出口，然後就回去營地，重複一次。如果你足夠快，你可以逃脫不吉利地幔Rathian，該Rathian不能跟著你到部門17。"
     },
     "quest-gettin-yolked-in-the-waste": {
       "Key": "quest-gettin-yolked-in-the-waste",
@@ -13629,7 +13629,7 @@ export default {
     },
     "quest-the-names-lavasioth-description": {
       "Key": "quest-the-names-lavasioth-description",
-      "Translation": "喲，我們得到了要求研究認為沒有人想研究一個怪物！你知道一個，圍繞喜歡休息的熔岩是大軟盤腥！是啊，這一個！ （特價機票獎勵）"
+      "Translation": "喲，我們得到了要求研究認為沒有人想研究一個怪物！你知道一個，圍繞喜歡休息室的熔岩是大軟盤腥！是啊，這一個！ （特價機票獎勵）"
     },
     "quest-the-pain-from-gains": {
       "Key": "quest-the-pain-from-gains",
@@ -15077,7 +15077,7 @@ export default {
     },
     "skill-elderseal-boost-1": {
       "Key": "skill-elderseal-boost-1",
-      "Translation": "升壓Elderseal一個級別。"
+      "Translation": "升壓Elderseal一個水平。"
     },
     "skill-elderseal-boost-description": {
       "Key": "skill-elderseal-boost-description",
@@ -16149,7 +16149,7 @@ export default {
     },
     "skill-pro-transporter-description": {
       "Key": "skill-pro-transporter-description",
-      "Translation": "使你的速度，同時運輸物品，並減少丟棄其中的可能性。"
+      "Translation": "使你的速度，同時運輸的物品，並降低其下降的可能性。"
     },
     "skill-protective-polish": {
       "Key": "skill-protective-polish",
@@ -16449,7 +16449,7 @@ export default {
     },
     "skill-speed-eating-1": {
       "Key": "skill-speed-eating-1",
-      "Translation": "略incresases項目利用速度。"
+      "Translation": "略incresases項目的使用速度。"
     },
     "skill-speed-eating-2": {
       "Key": "skill-speed-eating-2",
@@ -16833,7 +16833,7 @@ export default {
     },
     "trophy-a-living-fossil": {
       "Key": "trophy-a-living-fossil",
-      "Translation": "活化石"
+      "Translation": "一個活化石"
     },
     "trophy-a-living-fossil-description": {
       "Key": "trophy-a-living-fossil-description",
@@ -16901,7 +16901,7 @@ export default {
     },
     "trophy-bourgeois-hunter-description": {
       "Key": "trophy-bourgeois-hunter-description",
-      "Translation": "具備百萬zenny"
+      "Translation": "擁有百萬zenny"
     },
     "trophy-bristles-for-all": {
       "Key": "trophy-bristles-for-all",
@@ -18665,7 +18665,7 @@ export default {
     },
     "weapon-great-sword-taroth-blaze-decay": {
       "Key": "weapon-great-sword-taroth-blaze-decay",
-      "Translation": "Taroth火焰“衰變”"
+      "Translation": "Taroth大火“衰變”"
     },
     "weapon-great-sword-taroth-blaze-erupter": {
       "Key": "weapon-great-sword-taroth-blaze-erupter",
@@ -19713,7 +19713,7 @@ export default {
     },
     "weapon-hunting-horn-lumu-barone-ii": {
       "Key": "weapon-hunting-horn-lumu-barone-ii",
-      "Translation": "陸慕巴羅二"
+      "Translation": "陸慕巴羅II"
     },
     "weapon-hunting-horn-lumu-barone-iii": {
       "Key": "weapon-hunting-horn-lumu-barone-iii",
@@ -19973,7 +19973,7 @@ export default {
     },
     "weapon-lance-bone-lance-ii": {
       "Key": "weapon-lance-bone-lance-ii",
-      "Translation": "蘭斯骨III"
+      "Translation": "骨蘭斯III"
     },
     "weapon-lance-carapace-lance-i": {
       "Key": "weapon-lance-carapace-lance-i",
@@ -20925,11 +20925,11 @@ export default {
     },
     "weapon-sword-and-shield-blacksteel-sword-i": {
       "Key": "weapon-sword-and-shield-blacksteel-sword-i",
-      "Translation": "黑鋼劍我"
+      "Translation": "劍黑鋼我"
     },
     "weapon-sword-and-shield-blacksteel-sword-ii": {
       "Key": "weapon-sword-and-shield-blacksteel-sword-ii",
-      "Translation": "亮劍黑鋼II"
+      "Translation": "劍黑鋼II"
     },
     "weapon-sword-and-shield-blazing-edge-i": {
       "Key": "weapon-sword-and-shield-blazing-edge-i",
@@ -22474,5 +22474,293 @@ export default {
     "weapon-dual-blades-suzuka-otakemaru": {
       "Key": "weapon-dual-blades-suzuka-otakemaru",
       "Translation": "鈴鹿Otakemaru"
+    },
+    "weapon-great-sword-chrome-deathscythe-i": {
+      "Key": "weapon-great-sword-chrome-deathscythe-i",
+      "Translation": "鉻Deathscythe我"
+    },
+    "weapon-great-sword-chrome-deathscythe-ii": {
+      "Key": "weapon-great-sword-chrome-deathscythe-ii",
+      "Translation": "鉻Deathscythe II"
+    },
+    "weapon-great-sword-ruinous-atrocity": {
+      "Key": "weapon-great-sword-ruinous-atrocity",
+      "Translation": "毀滅性的暴行"
+    },
+    "weapon-great-sword-lightning-punisher-iv": {
+      "Key": "weapon-great-sword-lightning-punisher-iv",
+      "Translation": "閃電懲罰者IV"
+    },
+    "weapon-great-sword-severing-bolt-i": {
+      "Key": "weapon-great-sword-severing-bolt-i",
+      "Translation": "切斷博爾特我"
+    },
+    "weapon-great-sword-frost-blaze-iii": {
+      "Key": "weapon-great-sword-frost-blaze-iii",
+      "Translation": "冰霜火焰III"
+    },
+    "weapon-great-sword-icicle-fang": {
+      "Key": "weapon-great-sword-icicle-fang",
+      "Translation": "冰柱方"
+    },
+    "weapon-great-sword-icicle-fang-plus": {
+      "Key": "weapon-great-sword-icicle-fang-plus",
+      "Translation": "冰柱方+"
+    },
+    "weapon-great-sword-paladire": {
+      "Key": "weapon-great-sword-paladire",
+      "Translation": "Paladire"
+    },
+    "weapon-great-sword-jagras-deathclaw-i": {
+      "Key": "weapon-great-sword-jagras-deathclaw-i",
+      "Translation": "Jagras死亡爪我"
+    },
+    "weapon-great-sword-jagras-deathclaw-ii": {
+      "Key": "weapon-great-sword-jagras-deathclaw-ii",
+      "Translation": "Jagras死亡爪II"
+    },
+    "weapon-great-sword-mammoth-greataxe-i": {
+      "Key": "weapon-great-sword-mammoth-greataxe-i",
+      "Translation": "猛獁巨斧我"
+    },
+    "weapon-great-sword-mammoth-greataxe-ii": {
+      "Key": "weapon-great-sword-mammoth-greataxe-ii",
+      "Translation": "猛獁巨斧II"
+    },
+    "weapon-great-sword-naaga-guillotine-i": {
+      "Key": "weapon-great-sword-naaga-guillotine-i",
+      "Translation": "Naaga斷頭台我"
+    },
+    "weapon-great-sword-naaga-guillotine-ii": {
+      "Key": "weapon-great-sword-naaga-guillotine-ii",
+      "Translation": "Naaga斷頭台II"
+    },
+    "weapon-great-sword-hidden-blade-i": {
+      "Key": "weapon-great-sword-hidden-blade-i",
+      "Translation": "隱劍鬼爪我"
+    },
+    "weapon-great-sword-hidden-blade-ii": {
+      "Key": "weapon-great-sword-hidden-blade-ii",
+      "Translation": "隱劍鬼爪II"
+    },
+    "weapon-great-sword-pyre-cleaver-i": {
+      "Key": "weapon-great-sword-pyre-cleaver-i",
+      "Translation": "柴堆斧我"
+    },
+    "weapon-great-sword-pyre-cleaver-ii": {
+      "Key": "weapon-great-sword-pyre-cleaver-ii",
+      "Translation": "柴堆斧II"
+    },
+    "weapon-great-sword-glavenus-blaze-i": {
+      "Key": "weapon-great-sword-glavenus-blaze-i",
+      "Translation": "Glavenus火焰我"
+    },
+    "weapon-great-sword-glavenus-blaze-ii": {
+      "Key": "weapon-great-sword-glavenus-blaze-ii",
+      "Translation": "Glavenus大火II"
+    },
+    "weapon-great-sword-datura-hellspine-i": {
+      "Key": "weapon-great-sword-datura-hellspine-i",
+      "Translation": "曼陀羅Hellspine我"
+    },
+    "weapon-great-sword-datura-hellspine-ii": {
+      "Key": "weapon-great-sword-datura-hellspine-ii",
+      "Translation": "曼陀羅Hellspine II"
+    },
+    "weapon-tree-nightshade-lumu-tree": {
+      "Key": "weapon-tree-nightshade-lumu-tree",
+      "Translation": "葵樹陸慕"
+    },
+    "weapon-great-sword-nyx-razor-i": {
+      "Key": "weapon-great-sword-nyx-razor-i",
+      "Translation": "NYX剃刀我"
+    },
+    "weapon-great-sword-nyx-razor-ii": {
+      "Key": "weapon-great-sword-nyx-razor-ii",
+      "Translation": "NYX剃刀II"
+    },
+    "weapon-great-sword-rathalos-glinsword-plus": {
+      "Key": "weapon-great-sword-rathalos-glinsword-plus",
+      "Translation": "Rathalos Glinsword +"
+    },
+    "weapon-great-sword-rathflame-glinsword": {
+      "Key": "weapon-great-sword-rathflame-glinsword",
+      "Translation": "Rathflame Glinsword"
+    },
+    "weapon-great-sword-rathalos-gleamsword": {
+      "Key": "weapon-great-sword-rathalos-gleamsword",
+      "Translation": "Rathalos Gleamsword"
+    },
+    "weapon-great-sword-ogres-jaw-i": {
+      "Key": "weapon-great-sword-ogres-jaw-i",
+      "Translation": "食人魔的下巴我"
+    },
+    "weapon-great-sword-ogres-jaw-ii": {
+      "Key": "weapon-great-sword-ogres-jaw-ii",
+      "Translation": "食人魔的下巴II"
+    },
+    "weapon-great-sword-ogres-jaw-iii": {
+      "Key": "weapon-great-sword-ogres-jaw-iii",
+      "Translation": "食人魔的下巴III"
+    },
+    "weapon-great-sword-icewing": {
+      "Key": "weapon-great-sword-icewing",
+      "Translation": "冰翼"
+    },
+    "weapon-great-sword-winged-seraphyd": {
+      "Key": "weapon-great-sword-winged-seraphyd",
+      "Translation": "翼Seraphyd"
+    },
+    "weapon-great-sword-tiger-jawblade": {
+      "Key": "weapon-great-sword-tiger-jawblade",
+      "Translation": "老虎Jawblade"
+    },
+    "weapon-great-sword-tiger-jawblade-plus": {
+      "Key": "weapon-great-sword-tiger-jawblade-plus",
+      "Translation": "老虎Jawblade +"
+    },
+    "weapon-great-sword-tigrex-great-sword": {
+      "Key": "weapon-great-sword-tigrex-great-sword",
+      "Translation": "Tigrex大劍"
+    },
+    "weapon-great-sword-accursed-blade": {
+      "Key": "weapon-great-sword-accursed-blade",
+      "Translation": "詛咒之刃"
+    },
+    "weapon-great-sword-wildbite": {
+      "Key": "weapon-great-sword-wildbite",
+      "Translation": "Wildbite"
+    },
+    "weapon-great-sword-monstrous-madness": {
+      "Key": "weapon-great-sword-monstrous-madness",
+      "Translation": "瘋狂滔天"
+    },
+    "weapon-great-sword-don-monstro": {
+      "Key": "weapon-great-sword-don-monstro",
+      "Translation": "唐Monstro"
+    },
+    "weapon-great-sword-gnashing-flammenzahn-plus": {
+      "Key": "weapon-great-sword-gnashing-flammenzahn-plus",
+      "Translation": "咬牙切齒Flammenzahn +"
+    },
+    "weapon-great-sword-lohenzahn": {
+      "Key": "weapon-great-sword-lohenzahn",
+      "Translation": "Lohenzahn"
+    },
+    "weapon-great-sword-donnerzahn": {
+      "Key": "weapon-great-sword-donnerzahn",
+      "Translation": "Donnerzahn"
+    },
+    "weapon-great-sword-donnerzahn-plus": {
+      "Key": "weapon-great-sword-donnerzahn-plus",
+      "Translation": "Donnerzahn +"
+    },
+    "weapon-great-sword-fulgurations-edge": {
+      "Key": "weapon-great-sword-fulgurations-edge",
+      "Translation": "電灼的邊緣"
+    },
+    "weapon-great-sword-water-golem-iv": {
+      "Key": "weapon-great-sword-water-golem-iv",
+      "Translation": "水傀儡IV"
+    },
+    "weapon-great-sword-laguna-golem-i": {
+      "Key": "weapon-great-sword-laguna-golem-i",
+      "Translation": "拉古納魔像我"
+    },
+    "weapon-great-sword-laguna-golem-ii": {
+      "Key": "weapon-great-sword-laguna-golem-ii",
+      "Translation": "拉古那II傀儡"
+    },
+    "weapon-great-sword-beo-slasher-i": {
+      "Key": "weapon-great-sword-beo-slasher-i",
+      "Translation": "BEO Slasher的我"
+    },
+    "weapon-great-sword-beo-slasher-ii": {
+      "Key": "weapon-great-sword-beo-slasher-ii",
+      "Translation": "BEO漿紗II"
+    },
+    "weapon-great-sword-barroth-greatedge-i": {
+      "Key": "weapon-great-sword-barroth-greatedge-i",
+      "Translation": "Barroth Greatedge我"
+    },
+    "weapon-great-sword-barroth-greatedge-ii": {
+      "Key": "weapon-great-sword-barroth-greatedge-ii",
+      "Translation": "Barroth Greatedge II"
+    },
+    "weapon-great-sword-acid-shredder-i": {
+      "Key": "weapon-great-sword-acid-shredder-i",
+      "Translation": "酸碎紙機我"
+    },
+    "weapon-great-sword-acid-shredder-ii": {
+      "Key": "weapon-great-sword-acid-shredder-ii",
+      "Translation": "酸碎紙機II"
+    },
+    "weapon-great-sword-radobaan-grindblade-i": {
+      "Key": "weapon-great-sword-radobaan-grindblade-i",
+      "Translation": "Radobaan Grindblade我"
+    },
+    "weapon-great-sword-dios-blade": {
+      "Key": "weapon-great-sword-dios-blade",
+      "Translation": "奧斯之刃"
+    },
+    "weapon-great-sword-brach-attack": {
+      "Key": "weapon-great-sword-brach-attack",
+      "Translation": "BRACH攻擊"
+    },
+    "weapon-great-sword-dragonseal-sword-i": {
+      "Key": "weapon-great-sword-dragonseal-sword-i",
+      "Translation": "Dragonseal劍我"
+    },
+    "weapon-great-sword-dragonseal-sword-ii": {
+      "Key": "weapon-great-sword-dragonseal-sword-ii",
+      "Translation": "Dragonseal劍II"
+    },
+    "weapon-great-sword-immovable-dharma": {
+      "Key": "weapon-great-sword-immovable-dharma",
+      "Translation": "不動產佛法"
+    },
+    "weapon-great-sword-emperor-thundersword": {
+      "Key": "weapon-great-sword-emperor-thundersword",
+      "Translation": "皇帝Thundersword"
+    },
+    "weapon-great-sword-magdaros-volcanblade": {
+      "Key": "weapon-great-sword-magdaros-volcanblade",
+      "Translation": "Magdaros Volcanblade"
+    },
+    "weapon-great-sword-daoras-tughril-beg": {
+      "Key": "weapon-great-sword-daoras-tughril-beg",
+      "Translation": "Daora的圖赫里勒·貝格求"
+    },
+    "weapon-great-sword-ultra-wyvern-jawblade": {
+      "Key": "weapon-great-sword-ultra-wyvern-jawblade",
+      "Translation": "超飛龍Jawblade"
+    },
+    "weapon-great-sword-soulfire-edge-blaze": {
+      "Key": "weapon-great-sword-soulfire-edge-blaze",
+      "Translation": "靈魂之火邊“大火”"
+    },
+    "weapon-great-sword-soulfire-edge-ruin": {
+      "Key": "weapon-great-sword-soulfire-edge-ruin",
+      "Translation": "靈魂之火邊“三絕”"
+    },
+    "weapon-great-sword-soulfire-edge-styx": {
+      "Key": "weapon-great-sword-soulfire-edge-styx",
+      "Translation": "靈魂之火邊“冥河”"
+    },
+    "weapon-great-sword-demon-rod": {
+      "Key": "weapon-great-sword-demon-rod",
+      "Translation": "大惡魔棒"
+    },
+    "weapon-great-sword-frozen-speartuna": {
+      "Key": "weapon-great-sword-frozen-speartuna",
+      "Translation": "冷凍Speartuna"
+    },
+    "weapon-great-sword-freezer-speartuna": {
+      "Key": "weapon-great-sword-freezer-speartuna",
+      "Translation": "冷凍Speartuna"
+    },
+    "weapon-great-sword-xiphias-gladius": {
+      "Key": "weapon-great-sword-xiphias-gladius",
+      "Translation": "Xiphias劍宗"
     }
   }
