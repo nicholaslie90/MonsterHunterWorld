@@ -241,7 +241,7 @@ export default {
     },
     "armor-gala-suit-description": {
       "Key": "armor-gala-suit-description",
-      "Translation": "Nécessite une vente de billets d'appréciation pour l'artisanat. Cette armure magnifique éblouit aussi brillamment que l'appréciation Fest."
+      "Translation": "Nécessite un billet d'appréciation à l'artisanat. Cette armure magnifique éblouit aussi brillamment que l'appréciation Fest."
     },
     "armor-gastodon-description": {
       "Key": "armor-gastodon-description",
@@ -2245,7 +2245,7 @@ export default {
     },
     "armor-hr-leather-trousers-beta": {
       "Key": "armor-hr-leather-trousers-beta",
-      "Translation": "Pantalons en cuir ß"
+      "Translation": "Pantalon en cuir ß"
     },
     "armor-hr-legiana-alpha": {
       "Key": "armor-hr-legiana-alpha",
@@ -4073,7 +4073,7 @@ export default {
     },
     "armor-lr-queen-beetle-brachia": {
       "Key": "armor-lr-queen-beetle-brachia",
-      "Translation": "Queen Beetle brachia"
+      "Translation": "Reine Beetle brachia"
     },
     "armor-lr-queen-beetle-crura": {
       "Key": "armor-lr-queen-beetle-crura",
@@ -5761,7 +5761,7 @@ export default {
     },
     "armor-mr-kadachi-hat-beta-plus": {
       "Key": "armor-mr-kadachi-hat-beta-plus",
-      "Translation": "Kadachi Hat + ß"
+      "Translation": "Kadachi Chapeau ß +"
     },
     "armor-mr-kadachi-mail-alpha-plus": {
       "Key": "armor-mr-kadachi-mail-alpha-plus",
@@ -6737,7 +6737,7 @@ export default {
     },
     "armor-mr-silver-sol-alpha-plus": {
       "Key": "armor-mr-silver-sol-alpha-plus",
-      "Translation": "Sol argent ⍺ +"
+      "Translation": "Argent Sol ⍺ +"
     },
     "armor-mr-silver-sol-beta-plus": {
       "Key": "armor-mr-silver-sol-beta-plus",
@@ -7329,7 +7329,7 @@ export default {
     },
     "armor-set-bonus-skill-hasten-recovery-description": {
       "Key": "armor-set-bonus-skill-hasten-recovery-description",
-      "Translation": "Régénère votre santé que vous attaquez un monstre sans cesse. Récupération varie en arme."
+      "Translation": "Régénère votre santé que vous attaquez un monstre sans cesse. Récupération varie selon l'arme."
     },
     "armor-set-bonus-skill-igni-intensity": {
       "Key": "armor-set-bonus-skill-igni-intensity",
@@ -7513,7 +7513,7 @@ export default {
     },
     "armor-uragaan-description": {
       "Key": "armor-uragaan-description",
-      "Translation": "armure lourde fait de lourdes pièces Uragaan, et chaque once de ajoute à sa défense."
+      "Translation": "armure lourde a fait de lourdes pièces Uragaan, et chaque once de celui-ci ajoute à sa défense."
     },
     "armor-vaal-hazak-description": {
       "Key": "armor-vaal-hazak-description",
@@ -8537,7 +8537,7 @@ export default {
     },
     "layered-armor-shadow-shades-how-to-get": {
       "Key": "layered-armor-shadow-shades-how-to-get",
-      "Translation": "Remplissez Tapi dans la livraison ombres."
+      "Translation": "Remplissez Tapi dans la livraison Ombres."
     },
     "layered-armor-shadow-shades-layered-head": {
       "Key": "layered-armor-shadow-shades-layered-head",
@@ -8621,7 +8621,7 @@ export default {
     },
     "monster-barnos-useful-information": {
       "Key": "monster-barnos-useful-information",
-      "Translation": "wingdrakes ferventes qui ont prospéré dans des conditions de vie difficiles. Ils ciblent les intrus avec un agent acide unique, puis attaquer comme un essaim."
+      "Translation": "wingdrakes ferventes qui ont prospéré dans des conditions de vie difficiles. Ils ciblent les intrus avec un agent acide unique, puis attaque comme un essaim."
     },
     "monster-barroth": {
       "Key": "monster-barroth",
@@ -9177,7 +9177,7 @@ export default {
     },
     "monster-vaal-hazak-characteristics": {
       "Key": "monster-vaal-hazak-characteristics",
-      "Translation": "Un dragon aîné grotesque qui vit dans la partie la plus profonde de la putréfié Vale. Il utilise la vapeur fatale de la vale dans ce qui semble être une relation symbiotique."
+      "Translation": "Un dragon aîné grotesque qui habite le plus profond de la vallée pourrie. Il utilise la vapeur fatale de la vale dans ce qui semble être une relation symbiotique."
     },
     "monster-vaal-hazak-useful-information": {
       "Key": "monster-vaal-hazak-useful-information",
@@ -9321,7 +9321,7 @@ export default {
     },
     "play-guide-botanical-research": {
       "Key": "play-guide-botanical-research",
-      "Translation": "La recherche botanique"
+      "Translation": "recherche botanique"
     },
     "play-guide-bounty-rewards": {
       "Key": "play-guide-bounty-rewards",
@@ -9329,7 +9329,7 @@ export default {
     },
     "play-guide-bounty-rewards-description": {
       "Key": "play-guide-bounty-rewards-description",
-      "Translation": "Une fois que vous avez terminé un Bouty, vous pouvez visiter le Centre de ressources pour recueillir les récompenses, qui sont souvent des sphères d'armure et les points de recherche."
+      "Translation": "Une fois que vous avez terminé une Bouty, vous pouvez visiter le Centre de ressources pour recueillir les récompenses, qui sont souvent des sphères d'armure et les points de recherche."
     },
     "play-guide-bounty-updates": {
       "Key": "play-guide-bounty-updates",
@@ -9337,7 +9337,7 @@ export default {
     },
     "play-guide-bounty-updates-description": {
       "Key": "play-guide-bounty-updates-description",
-      "Translation": "La liste des primes est mis à jour whenevr enregistrables vous revenez d'une quête ou l'expédition. Une fois que vous avez enregistré des primes, vous pouvez consulter les détails dans le menu de démarrage."
+      "Translation": "La liste des primes est mis à jour whenevr enregistrables vous revenez d'une quête ou l'expédition. Une fois que vous avez enregistré des primes, vous pouvez consulter les détails du menu Démarrer."
     },
     "play-guide-bow": {
       "Key": "play-guide-bow",
@@ -9725,7 +9725,7 @@ export default {
     },
     "play-guide-flashflies-description": {
       "Key": "play-guide-flashflies-description",
-      "Translation": "Lorsque vous êtes touché, flashflies émettent un flash de lumière qui peut étourdir mosnters. Le flash est plus forte quand Flashflies est frappé à la fois."
+      "Translation": "Lorsque vous êtes touché, flashflies émettent un flash de lumière qui peut étourdir mosnters. Le flash est plus forte lorsque plus Flashflies sont frappés à la fois."
     },
     "play-guide-foresight-slash": {
       "Key": "play-guide-foresight-slash",
@@ -10305,7 +10305,7 @@ export default {
     },
     "play-guide-scatternuts-description": {
       "Key": "play-guide-scatternuts-description",
-      "Translation": "Scatternuts peuvent être récupérés et utilisés comme Slinger munitions. Quand ils ont frappé quelque chose, ils se brisent, émettant un bruit fort et petites ondes de choc qui peut étourdir les monstres."
+      "Translation": "Scatternuts peuvent être récupérés et utilisés comme munitions Slinger. Quand ils ont frappé quelque chose, ils se brisent, émettant un bruit fort et petites ondes de choc qui peut étourdir les monstres."
     },
     "play-guide-scoutflies": {
       "Key": "play-guide-scoutflies",
@@ -10313,7 +10313,7 @@ export default {
     },
     "play-guide-scoutflies-description": {
       "Key": "play-guide-scoutflies-description",
-      "Translation": "Scoutflies répondent automatiquement aux traces de monstres et beaucoup d'autres substances dans l'environnement. Si vous vous sentez perdu dans un nouveau lieu, suivez vos scoutflies pour découvrir les points d'intérêt que vous se habituer à votre environnement. \\ N \\ chasseurs de vitesse nStandard de la Commission de recherche. Ces petits insectes dégagent une lueur verte, et sont stockés dans une petite cage. Ils peuvent ramasser des parfums et des substances particulières, ce qui est très pratique lorsque la Commission de recherche se poursuit des expéditions, ou est suivi vers le bas un monstre."
+      "Translation": "Scoutflies répondent automatiquement à des traces de monstres et beaucoup d'autres substances dans l'environnement. Si vous vous sentez perdu dans un nouveau lieu, suivez vos scoutflies pour découvrir les points d'intérêt que vous se habituer à votre environnement. \\ N \\ chasseurs de vitesse nStandard de la Commission de recherche. Ces petits insectes dégagent une lueur verte, et sont stockés dans une petite cage. Ils peuvent ramasser des parfums et des substances particulières, ce qui est très pratique lorsque la Commission de recherche se poursuit des expéditions, ou est suivi vers le bas un monstre."
     },
     "play-guide-setting-decorations": {
       "Key": "play-guide-setting-decorations",
@@ -10881,7 +10881,7 @@ export default {
     },
     "poogie-bacon-behemoth": {
       "Key": "poogie-bacon-behemoth",
-      "Translation": "Bacon Béhémoth"
+      "Translation": "Bacon Behemoth"
     },
     "poogie-bacon-behemoth-how-to-get": {
       "Key": "poogie-bacon-behemoth-how-to-get",
@@ -12453,7 +12453,7 @@ export default {
     },
     "quest-mired-in-the-spire-tips": {
       "Key": "quest-mired-in-the-spire-tips",
-      "Translation": "À partir de Central Camp (6), (Gastronome thon se trouve dans le camp) en direction du nord et la cible devrait être autour de la Kestodon. Il faut fuir vers le secteur 8 où vous pouvez essayer d'utiliser l'attaque de diapositives / saut pour le monter. Il va fuir vers le secteur 7 de renouveler la boue sur son corps. Quand il commencer à obtenir trop faible, il va fuir vers le secteur 9 et se couvrir dans la boue. Ne pas sous-estimer l'effet de l'eau sur vos mouvements lors de combats dans ce domaine. Il est également impossible de mettre piège de choc dans l'eau profonde."
+      "Translation": "À partir de Central Camp (6), (Gastronome thon se trouve dans le camp) en direction du nord et la cible devrait être autour de la Kestodon. Il faut fuir vers le secteur 8 où vous pouvez essayer d'utiliser l'attaque de diapositives / saut pour le monter. Il va fuir vers le secteur 7 de renouveler la boue sur son corps. Quand il commencer à obtenir trop faible, il va fuir vers le secteur et 9 se couvrir dans la boue. Ne pas sous-estimer l'effet de l'eau sur vos mouvements lors de combats dans ce domaine. Il est également impossible de mettre piège de choc dans l'eau profonde."
     },
     "quest-new-world-sky-new-world-flower": {
       "Key": "quest-new-world-sky-new-world-flower",
@@ -12617,7 +12617,7 @@ export default {
     },
     "quest-objective-hunt-a-barroth": {
       "Key": "quest-objective-hunt-a-barroth",
-      "Translation": "Chassez un Barroth"
+      "Translation": "Hunt a Barroth"
     },
     "quest-objective-hunt-a-bazelgeuse": {
       "Key": "quest-objective-hunt-a-bazelgeuse",
@@ -12937,7 +12937,7 @@ export default {
     },
     "quest-persistent-pests-tips": {
       "Key": "quest-persistent-pests-tips",
-      "Translation": "À partir de Sud-Camp (1), vers l'ouest pour trouver le premier groupe dans le secteur 3. Grimpez la vigne et aller vers le nord dans le secteur 4 pour trouver un grand nombre d'entre eux, quelques relancement de la piscine de sang. (Vous pouvez capturer Scavantula dans cette zone, assurez-vous de ne pas les effaroucher)"
+      "Translation": "À partir de Sud-Camp (1), vers l'ouest pour trouver le premier groupe dans le secteur 3. Grimpez la vigne et aller vers le nord dans le secteur 4 pour trouver un grand nombre d'entre eux, quelques relancement de la piscine de sang. (Vous pouvez capturer Scavantula dans ce domaine, assurez-vous de ne pas les effaroucher)"
     },
     "quest-pretty-in-pink": {
       "Key": "quest-pretty-in-pink",
@@ -14301,7 +14301,7 @@ export default {
     },
     "settings-remove-ads-text": {
       "Key": "settings-remove-ads-text",
-      "Translation": "Supprimer les annonces et profiter de la succession écran supplémentaire! Si vous avez acheté et les annonces sont diffusées encore, essayez de cliquer sur ce bouton une nouvelle fois pour supprimer les annonces. Si vous avez des problèmes, contactez-moi par courriel dès que possible et je vais vous aider dès que possible!"
+      "Translation": "Supprimer les annonces et profiter de la succession écran supplémentaire! Si vous avez acheté et les annonces sont diffusées encore, essayez de cliquer sur ce bouton une nouvelle fois pour supprimer les annonces. Si vous avez des problèmes, contactez-moi dès que possible par courriel et je vais vous aider dès que possible!"
     },
     "settings-restore-purchase": {
       "Key": "settings-restore-purchase",
@@ -14893,7 +14893,7 @@ export default {
     },
     "skill-defense-boost-2": {
       "Key": "skill-defense-boost-2",
-      "Translation": "défense +10"
+      "Translation": "défense 10"
     },
     "skill-defense-boost-3": {
       "Key": "skill-defense-boost-3",
@@ -15441,7 +15441,7 @@ export default {
     },
     "skill-hasten-recovery-description": {
       "Key": "skill-hasten-recovery-description",
-      "Translation": "Régénère votre santé que vous attaquez un monstre sans cesse. Récupération varie en arme."
+      "Translation": "Régénère votre santé que vous attaquez un monstre sans cesse. Récupération varie selon l'arme."
     },
     "skill-health-boost": {
       "Key": "skill-health-boost",
@@ -15717,7 +15717,7 @@ export default {
     },
     "skill-latent-power-5": {
       "Key": "skill-latent-power-5",
-      "Translation": "Tant qu'il est actif, augmente l'affinité de 50% et réduit l'épuisement de l'endurance de 50%."
+      "Translation": "Tant qu'elle est active, augmente l'affinité de 50% et réduit l'épuisement de l'endurance de 50%."
     },
     "skill-latent-power-description": {
       "Key": "skill-latent-power-description",
@@ -16013,7 +16013,7 @@ export default {
     },
     "skill-partbreaker-2": {
       "Key": "skill-partbreaker-2",
-      "Translation": "dommages Partie 20% +"
+      "Translation": "dommages Partie + 20%"
     },
     "skill-partbreaker-3": {
       "Key": "skill-partbreaker-3",
@@ -17045,7 +17045,7 @@ export default {
     },
     "trophy-evolving-ecology-description": {
       "Key": "trophy-evolving-ecology-description",
-      "Translation": "Lever toutes les régions de niveau 7."
+      "Translation": "Soulever toute la région au niveau 7."
     },
     "trophy-experienced-rider": {
       "Key": "trophy-experienced-rider",
@@ -19629,7 +19629,7 @@ export default {
     },
     "weapon-hunting-horn-great-bagpipe-iii": {
       "Key": "weapon-hunting-horn-great-bagpipe-iii",
-      "Translation": "Great Cornemuse III"
+      "Translation": "Grande Cornemuse III"
     },
     "weapon-hunting-horn-hard-bone-horn-i": {
       "Key": "weapon-hunting-horn-hard-bone-horn-i",
@@ -19777,7 +19777,7 @@ export default {
     },
     "weapon-hunting-horn-sonic-horn-ii": {
       "Key": "weapon-hunting-horn-sonic-horn-ii",
-      "Translation": "Sonic II Klaxon"
+      "Translation": "Sonic II Corne"
     },
     "weapon-hunting-horn-sonic-horn-iii": {
       "Key": "weapon-hunting-horn-sonic-horn-iii",
@@ -20221,7 +20221,7 @@ export default {
     },
     "weapon-lance-kulu-lance-iii": {
       "Key": "weapon-lance-kulu-lance-iii",
-      "Translation": "Lance kulu III"
+      "Translation": "Kulu Lance III"
     },
     "weapon-lance-legiana-halberd-i": {
       "Key": "weapon-lance-legiana-halberd-i",
@@ -20853,7 +20853,7 @@ export default {
     },
     "weapon-long-sword-thief-gold-katana": {
       "Key": "weapon-long-sword-thief-gold-katana",
-      "Translation": "Gold Thief Katana"
+      "Translation": "Voleur d'or Katana"
     },
     "weapon-long-sword-wyvern-blade-azure": {
       "Key": "weapon-long-sword-wyvern-blade-azure",
@@ -21257,7 +21257,7 @@ export default {
     },
     "weapon-sword-and-shield-numb-gold-scimitar": {
       "Key": "weapon-sword-and-shield-numb-gold-scimitar",
-      "Translation": "Engourdis Or Scimitar"
+      "Translation": "Numb Or Scimitar"
     },
     "weapon-sword-and-shield-princess-rapier": {
       "Key": "weapon-sword-and-shield-princess-rapier",
@@ -21609,7 +21609,7 @@ export default {
     },
     "weapon-long-sword-acid-scimitar-ii": {
       "Key": "weapon-long-sword-acid-scimitar-ii",
-      "Translation": "Scimitar II Acide"
+      "Translation": "Acide Scimitar II"
     },
     "weapon-long-sword-blinding-blaze-i": {
       "Key": "weapon-long-sword-blinding-blaze-i",
@@ -22762,5 +22762,289 @@ export default {
     "weapon-great-sword-xiphias-gladius": {
       "Key": "weapon-great-sword-xiphias-gladius",
       "Translation": "Xiphias Gladius"
+    },
+    "weapon-lance-chrome-drill-i": {
+      "Key": "weapon-lance-chrome-drill-i",
+      "Translation": "Chrome Drill I"
+    },
+    "weapon-lance-chrome-drill-ii": {
+      "Key": "weapon-lance-chrome-drill-ii",
+      "Translation": "Chrome Drill II"
+    },
+    "weapon-lance-incessant-raven": {
+      "Key": "weapon-lance-incessant-raven",
+      "Translation": "Raven incessant"
+    },
+    "weapon-lance-incessant-wolf": {
+      "Key": "weapon-lance-incessant-wolf",
+      "Translation": "Loup incessant"
+    },
+    "weapon-lance-ruinous-perdition": {
+      "Key": "weapon-lance-ruinous-perdition",
+      "Translation": "ruineux Perdition"
+    },
+    "weapon-lance-legiana-halberd-iii": {
+      "Key": "weapon-lance-legiana-halberd-iii",
+      "Translation": "Legiana Halberd III"
+    },
+    "weapon-lance-hoarcry-halberd": {
+      "Key": "weapon-lance-hoarcry-halberd",
+      "Translation": "Hoarcry Hallebarde"
+    },
+    "weapon-lance-nyx-halberd-i": {
+      "Key": "weapon-lance-nyx-halberd-i",
+      "Translation": "Nyx Hallebarde I"
+    },
+    "weapon-lance-nyx-halberd-ii": {
+      "Key": "weapon-lance-nyx-halberd-ii",
+      "Translation": "Nyx Hallebarde II"
+    },
+    "weapon-lance-minqar-al-nasr-i": {
+      "Key": "weapon-lance-minqar-al-nasr-i",
+      "Translation": "Minqar al-Nasr I"
+    },
+    "weapon-lance-tusk-lance": {
+      "Key": "weapon-lance-tusk-lance",
+      "Translation": "Tusk Lance"
+    },
+    "weapon-lance-tusk-lance-plus": {
+      "Key": "weapon-lance-tusk-lance-plus",
+      "Translation": "Tusk Lance +"
+    },
+    "weapon-lance-sabertooth": {
+      "Key": "weapon-lance-sabertooth",
+      "Translation": "Sabertooth"
+    },
+    "weapon-lance-gama-drill-i": {
+      "Key": "weapon-lance-gama-drill-i",
+      "Translation": "Gama Drill I"
+    },
+    "weapon-lance-gama-drill-ii": {
+      "Key": "weapon-lance-gama-drill-ii",
+      "Translation": "Gama Drill II"
+    },
+    "weapon-lance-hidden-hastur-i": {
+      "Key": "weapon-lance-hidden-hastur-i",
+      "Translation": "Caché Hastur I"
+    },
+    "weapon-lance-hidden-hastur-ii": {
+      "Key": "weapon-lance-hidden-hastur-ii",
+      "Translation": "Caché Hastur II"
+    },
+    "weapon-lance-lightning-bolt-i": {
+      "Key": "weapon-lance-lightning-bolt-i",
+      "Translation": "Lightning Bolt I"
+    },
+    "weapon-lance-lightning-bolt-ii": {
+      "Key": "weapon-lance-lightning-bolt-ii",
+      "Translation": "Lightning Bolt II"
+    },
+    "weapon-lance-thunderpierce-i": {
+      "Key": "weapon-lance-thunderpierce-i",
+      "Translation": "Thunderpierce I"
+    },
+    "weapon-lance-thunderpierce-ii": {
+      "Key": "weapon-lance-thunderpierce-ii",
+      "Translation": "Thunderpierce II"
+    },
+    "weapon-lance-datura-stalk-i": {
+      "Key": "weapon-lance-datura-stalk-i",
+      "Translation": "Datura Stalk I"
+    },
+    "weapon-lance-datura-stalk-ii": {
+      "Key": "weapon-lance-datura-stalk-ii",
+      "Translation": "Datura Stalk II"
+    },
+    "weapon-lance-laguna-pike-i": {
+      "Key": "weapon-lance-laguna-pike-i",
+      "Translation": "Laguna Pike I"
+    },
+    "weapon-lance-laguna-pike-ii": {
+      "Key": "weapon-lance-laguna-pike-ii",
+      "Translation": "Laguna II Pike"
+    },
+    "weapon-lance-blue-prominence-plus": {
+      "Key": "weapon-lance-blue-prominence-plus",
+      "Translation": "Proéminence bleu +"
+    },
+    "weapon-lance-soul-prominence": {
+      "Key": "weapon-lance-soul-prominence",
+      "Translation": "âme proéminence"
+    },
+    "weapon-lance-silver-prominence": {
+      "Key": "weapon-lance-silver-prominence",
+      "Translation": "proéminence argent"
+    },
+    "weapon-lance-grand-halberd-i": {
+      "Key": "weapon-lance-grand-halberd-i",
+      "Translation": "Grand Hallebarde I"
+    },
+    "weapon-lance-grand-halberd-ii": {
+      "Key": "weapon-lance-grand-halberd-ii",
+      "Translation": "Grand Hallebarde II"
+    },
+    "weapon-lance-grand-halberd-iii": {
+      "Key": "weapon-lance-grand-halberd-iii",
+      "Translation": "Grand Hallebarde III"
+    },
+    "weapon-lance-iceborer": {
+      "Key": "weapon-lance-iceborer",
+      "Translation": "Iceborer"
+    },
+    "weapon-lance-knightly-ectis": {
+      "Key": "weapon-lance-knightly-ectis",
+      "Translation": "Knightly Ectis"
+    },
+    "weapon-lance-loves-tragedy": {
+      "Key": "weapon-lance-loves-tragedy",
+      "Translation": "La tragédie de l'amour"
+    },
+    "weapon-lance-loves-end": {
+      "Key": "weapon-lance-loves-end",
+      "Translation": "Fin de l'amour"
+    },
+    "weapon-lance-abyss-aggressor-i": {
+      "Key": "weapon-lance-abyss-aggressor-i",
+      "Translation": "Abyss Aggressor I"
+    },
+    "weapon-lance-abyss-aggressor-ii": {
+      "Key": "weapon-lance-abyss-aggressor-ii",
+      "Translation": "Abyss II Aggressor"
+    },
+    "weapon-lance-svarog-blazer": {
+      "Key": "weapon-lance-svarog-blazer",
+      "Translation": "Blazer svarog"
+    },
+    "weapon-lance-svarog-blazer-plus": {
+      "Key": "weapon-lance-svarog-blazer-plus",
+      "Translation": "Blazer + svarog"
+    },
+    "weapon-lance-glavenus-granat": {
+      "Key": "weapon-lance-glavenus-granat",
+      "Translation": "Glavenus Granat"
+    },
+    "weapon-lance-barroth-halberd-i": {
+      "Key": "weapon-lance-barroth-halberd-i",
+      "Translation": "Barroth Hallebarde I"
+    },
+    "weapon-lance-barroth-halberd-ii": {
+      "Key": "weapon-lance-barroth-halberd-ii",
+      "Translation": "Barroth Hallebarde II"
+    },
+    "weapon-lance-dios-halberd-i": {
+      "Key": "weapon-lance-dios-halberd-i",
+      "Translation": "Dios Hallebarde I"
+    },
+    "weapon-lance-dios-halberd-ii": {
+      "Key": "weapon-lance-dios-halberd-ii",
+      "Translation": "Dios Hallebarde II"
+    },
+    "weapon-lance-odogarons-misery-i": {
+      "Key": "weapon-lance-odogarons-misery-i",
+      "Translation": "Le I Misery Odogaron"
+    },
+    "weapon-lance-odogarons-misery-ii": {
+      "Key": "weapon-lance-odogarons-misery-ii",
+      "Translation": "Misery II Odogaron"
+    },
+    "weapon-lance-death-garon-lance": {
+      "Key": "weapon-lance-death-garon-lance",
+      "Translation": "Mort Garon Lance"
+    },
+    "weapon-lance-water-spike-iv": {
+      "Key": "weapon-lance-water-spike-iv",
+      "Translation": "L'eau de Spike IV"
+    },
+    "weapon-lance-hydros-ullr": {
+      "Key": "weapon-lance-hydros-ullr",
+      "Translation": "Hydros Ullr"
+    },
+    "weapon-lance-tiger-stinger": {
+      "Key": "weapon-lance-tiger-stinger",
+      "Translation": "Tiger Stinger"
+    },
+    "weapon-lance-tiger-stinger-plus": {
+      "Key": "weapon-lance-tiger-stinger-plus",
+      "Translation": "Tiger Stinger +"
+    },
+    "weapon-lance-tigrex-lance": {
+      "Key": "weapon-lance-tigrex-lance",
+      "Translation": "Lance Tigrex"
+    },
+    "weapon-lance-accursed-stinger": {
+      "Key": "weapon-lance-accursed-stinger",
+      "Translation": "maudite Stinger"
+    },
+    "weapon-lance-backbite": {
+      "Key": "weapon-lance-backbite",
+      "Translation": "Médire"
+    },
+    "weapon-lance-sulfurteinn-keton": {
+      "Key": "weapon-lance-sulfurteinn-keton",
+      "Translation": "Sulfurteinn Keton"
+    },
+    "weapon-lance-the-solvent-spindle": {
+      "Key": "weapon-lance-the-solvent-spindle",
+      "Translation": "Le solvant broche"
+    },
+    "weapon-lance-dragonseal-aldspear-i": {
+      "Key": "weapon-lance-dragonseal-aldspear-i",
+      "Translation": "Dragonseal Aldspear I"
+    },
+    "weapon-lance-unblinking-gatekeeper": {
+      "Key": "weapon-lance-unblinking-gatekeeper",
+      "Translation": "ciller Gatekeeper"
+    },
+    "weapon-lance-blasting-siegespear": {
+      "Key": "weapon-lance-blasting-siegespear",
+      "Translation": "Blasting Siegespear"
+    },
+    "weapon-lance-bazel-rocket-rooksearer": {
+      "Key": "weapon-lance-bazel-rocket-rooksearer",
+      "Translation": "Bazel Rocket Rooksearer"
+    },
+    "weapon-lance-naar-thunderlance": {
+      "Key": "weapon-lance-naar-thunderlance",
+      "Translation": "naar Thunderlance"
+    },
+    "weapon-lance-daoras-regulus": {
+      "Key": "weapon-lance-daoras-regulus",
+      "Translation": "Regulus de Daora"
+    },
+    "weapon-lance-lost-babel": {
+      "Key": "weapon-lance-lost-babel",
+      "Translation": "perdu Babel"
+    },
+    "weapon-lance-fates-spindle": {
+      "Key": "weapon-lance-fates-spindle",
+      "Translation": "Broche du destin"
+    },
+    "weapon-lance-soulfire-spike-blaze": {
+      "Key": "weapon-lance-soulfire-spike-blaze",
+      "Translation": "Soulfire de Spike \"Blaze\""
+    },
+    "weapon-lance-soulfire-spike-ruin": {
+      "Key": "weapon-lance-soulfire-spike-ruin",
+      "Translation": "Soulfire de Spike \"ruine\""
+    },
+    "weapon-lance-soulfire-spike-styx": {
+      "Key": "weapon-lance-soulfire-spike-styx",
+      "Translation": "Soulfire de Spike \"Styx\""
+    },
+    "weapon-lance-shining-star-lance": {
+      "Key": "weapon-lance-shining-star-lance",
+      "Translation": "Shining Star Lance"
+    },
+    "weapon-lance-sweeping-gale-lance": {
+      "Key": "weapon-lance-sweeping-gale-lance",
+      "Translation": "Gale Lance Balayer"
+    },
+    "weapon-lance-demon-lance": {
+      "Key": "weapon-lance-demon-lance",
+      "Translation": "Lance démon"
+    },
+    "weapon-lance-great-demon-lance": {
+      "Key": "weapon-lance-great-demon-lance",
+      "Translation": "Shinmakoku Lance"
     }
   }

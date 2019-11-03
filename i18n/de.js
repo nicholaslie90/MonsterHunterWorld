@@ -1581,7 +1581,7 @@ export default {
     },
     "armor-hr-ingot-coil-beta": {
       "Key": "armor-hr-ingot-coil-beta",
-      "Translation": "Ingots Coil ß"
+      "Translation": "Ingot Coil ß"
     },
     "armor-hr-ingot-greaves-alpha": {
       "Key": "armor-hr-ingot-greaves-alpha",
@@ -2977,7 +2977,7 @@ export default {
     },
     "armor-hr-vaal-hazak-mail-alpha": {
       "Key": "armor-hr-vaal-hazak-mail-alpha",
-      "Translation": "Vaal Hazak Mail-⍺"
+      "Translation": "Vaal Hazak Post ⍺"
     },
     "armor-hr-vaal-hazak-mail-beta": {
       "Key": "armor-hr-vaal-hazak-mail-beta",
@@ -4249,7 +4249,7 @@ export default {
     },
     "armor-mr-acidic-glavenus-mail-beta-plus": {
       "Key": "armor-mr-acidic-glavenus-mail-beta-plus",
-      "Translation": "Saure Glavenus Mail-ß +"
+      "Translation": "Saure Glavenus Post ß +"
     },
     "armor-mr-alloy-alpha-plus": {
       "Key": "armor-mr-alloy-alpha-plus",
@@ -4361,7 +4361,7 @@ export default {
     },
     "armor-mr-artian-greaves-beta-plus": {
       "Key": "armor-mr-artian-greaves-beta-plus",
-      "Translation": "Artian Greaves + ß"
+      "Translation": "Artian Greaves ß +"
     },
     "armor-mr-artian-helm-alpha-plus": {
       "Key": "armor-mr-artian-helm-alpha-plus",
@@ -6249,7 +6249,7 @@ export default {
     },
     "armor-mr-odogaron-coil-beta-plus": {
       "Key": "armor-mr-odogaron-coil-beta-plus",
-      "Translation": "Odogaron Coil ß +"
+      "Translation": "Odogaron Spule ß +"
     },
     "armor-mr-odogaron-greaves-alpha-plus": {
       "Key": "armor-mr-odogaron-greaves-alpha-plus",
@@ -8621,7 +8621,7 @@ export default {
     },
     "monster-barnos-useful-information": {
       "Key": "monster-barnos-useful-information",
-      "Translation": "Fervid wingdrakes, die unter harten Lebensbedingungen geblüht haben. Sie zielen auf Eindringlinge mit einem einzigartigen sauren Mitteln, und dann als Schwarm angreifen."
+      "Translation": "Fervid wingdrakes, die unter harten Lebensbedingungen geblüht haben. Sie zielen auf Eindringlinge mit einem einzigartigen sauren Mittel, und dann als Schwarm angreifen."
     },
     "monster-barroth": {
       "Key": "monster-barroth",
@@ -8781,7 +8781,7 @@ export default {
     },
     "monster-great-girros-useful-information": {
       "Key": "monster-great-girros-useful-information",
-      "Translation": "Abbau weniger Girros wird den Rest der Packung streuen machen, und sollte oberste Priorität sein. Das Brechen der Zähne eines großen Girros seine lähmende Mittel viel schwächer machen."
+      "Translation": "Abbau weniger Girros wird den Rest der Packung streuen machen, und soll oberste Priorität sein. Das Brechen der Zähne eines großen Girros seine lähmende Mittel viel schwächer machen."
     },
     "monster-great-jagras": {
       "Key": "monster-great-jagras",
@@ -8845,11 +8845,11 @@ export default {
     },
     "monster-kirin-characteristics": {
       "Key": "monster-kirin-characteristics",
-      "Translation": "Kirin ist so selten gesichtet, dass wenig von ihrer Ökologie bekannt ist. Es ist gesagt worden, sie selbst in reinem Strom umhüllt, wenn sie provoziert werden."
+      "Translation": "Kirin ist so selten gesichtet, dass wenig von ihrer Ökologie bekannt. Es ist gesagt worden, sie selbst in reinen Strom umhüllen, wenn sie provoziert werden."
     },
     "monster-kirin-useful-information": {
       "Key": "monster-kirin-useful-information",
-      "Translation": "Der Blitz ein Kirin hüllt mich mit hat sich bestätigt, seine Haut zu verschärfen. Der Schlüssel zu einer Kirin Jagd liegt in Staffelung es, Elderseal Waffen, und um sich vor zu schützen und seine Blitz-Attacken zu vermeiden."
+      "Translation": "Der Blitz ein Kirin hüllt sich mit hat sich bestätigt, seine Haut zu verschärfen. Der Schlüssel zu einer Kirin Jagd liegt in Staffelung es, Elderseal Waffen, und um sich vor zu schützen und seine Blitz-Attacken zu vermeiden."
     },
     "monster-kulu-ya-ku": {
       "Key": "monster-kulu-ya-ku",
@@ -9041,7 +9041,7 @@ export default {
     },
     "monster-radobaan-characteristics": {
       "Key": "monster-radobaan-characteristics",
-      "Translation": "Ein gigantisches Brute Wyvern, die die Knochen von Tierkadavern in der Rotten Vale, mit einigen seiner Rüstung gefunden isst. Sie rollt ebenfalls in eine Kugel als eine Form des Angriffs und den Transports."
+      "Translation": "Ein gigantisches Brute Wyvern, die die Knochen von Tierkadavern in der Rotten Vale, mit einigen seiner Rüstung gefunden isst. Sie rollt ebenfalls in eine Kugel als eine Form des Angriffs und des Transports."
     },
     "monster-radobaan-useful-information": {
       "Key": "monster-radobaan-useful-information",
@@ -9145,7 +9145,7 @@ export default {
     },
     "monster-tobi-kadachi-useful-information": {
       "Key": "monster-tobi-kadachi-useful-information",
-      "Translation": "Verwenden Sie die Zielkamera zu vermeiden, überfallen zu werden von hinten, wie es von Baum zu Baum bewegt. Der Schlüssel dieses Monster zu besiegen ist es zu immobilisieren und verhindert, dass es einen geladenen Zustand erreicht."
+      "Translation": "Verwenden Sie das Zielkamera zu vermeiden, überfallen zu werden von hinten, wie es von Baum zu Baum bewegt. Der Schlüssel dieses Monster zu besiegen ist es zu immobilisieren und verhindert, dass es einen geladenen Zustand erreicht."
     },
     "monster-tzitzi-ya-ku": {
       "Key": "monster-tzitzi-ya-ku",
@@ -9245,7 +9245,7 @@ export default {
     },
     "play-guide-advanced-performance-techniques": {
       "Key": "play-guide-advanced-performance-techniques",
-      "Translation": "Erweiterte Spieltechniken"
+      "Translation": "Advanced Performance Techniques"
     },
     "play-guide-advanced-performance-techniques-description": {
       "Key": "play-guide-advanced-performance-techniques-description",
@@ -10201,7 +10201,7 @@ export default {
     },
     "play-guide-phial-effects-description": {
       "Key": "play-guide-phial-effects-description",
-      "Translation": "Angriffe mit einer Ladeschaufel sind schwerer zu biegen, wenn ihre Wirkungen Phiole aktiv sind, was nützlich ist, wenn harte Körperteile abzielt."
+      "Translation": "Angriffe mit einer Ladungsklinge sind schwerer zu biegen, wenn ihre Wirkungen Phiole aktiv sind, was nützlich ist, wenn harte Körperteile abzielt."
     },
     "play-guide-piercing-pods": {
       "Key": "play-guide-piercing-pods",
@@ -10361,11 +10361,11 @@ export default {
     },
     "play-guide-slinger-ammo-description": {
       "Key": "play-guide-slinger-ammo-description",
-      "Translation": "Slinger Munition muss im Feld gesammelt werden. Obwohl es viele Arten von Munition ist, können Sie nur eine Art zu einer Zeit tragen. Picking eine andere Art von Munition up wird Ihre aktuelle Munition verwerfen."
+      "Translation": "Slinger Munition muss im Feld gesammelt werden. Obwohl es viele Arten von Munition ist, können Sie nur eine Art zu einer Zeit tragen. Picking eine andere Art von Munition bis Ihre aktuelle Munition verwerfen."
     },
     "play-guide-slinger-bombs": {
       "Key": "play-guide-slinger-bombs",
-      "Translation": "Schleuderer Bomben"
+      "Translation": "Slinger Bomben"
     },
     "play-guide-slinger-bombs-description": {
       "Key": "play-guide-slinger-bombs-description",
@@ -10497,7 +10497,7 @@ export default {
     },
     "play-guide-switch-axe-description": {
       "Key": "play-guide-switch-axe-description",
-      "Translation": "Der Schalter Axt Morphs zwischen Axt und Schwert-Modi. Ax-Modus bietet Leistung und lange Reichweite, während Schwert Modus schnelle Angriffe und explosive Finisher verfügt."
+      "Translation": "Der Schalter Axt Morphs zwischen Axt und Schwert-Modi. Ax-Modus verfügt über Strom und große Reichweite, während Schwert Modus schnelle Angriffe und explosive Finisher verfügt."
     },
     "play-guide-switch-axe-tips": {
       "Key": "play-guide-switch-axe-tips",
@@ -11045,7 +11045,7 @@ export default {
     },
     "quest-a-colossal-task-tips": {
       "Key": "quest-a-colossal-task-tips",
-      "Translation": "Beginnen Sie mit einem wingdrake mit auf Zorah Magdaros' zurück zu landen. Achten Sie darauf, für später einig Stein in der Nähe Ihres Landeplatz zu greifen. Fahren Sie geradeaus und Sie sollten eine von Zorah der Magmacore erreichen. Zerstören Sie es sicherstellen, dass die Lava ausweichen davon speien. Die Magmacore ein Material auf Zerstörung fallen. Leiter für Zorah der „Schwanz“ und gehen nach unten, bis Sie eine Höhle mit einem anderen Magmacore finden, zerstören es. \\ N \\ nJetzt machen Sie Ihren Weg ganz nach oben Zorah Magdaros Körper, von der linken Flanke klettern, sollten Sie über einen großen Magma Felsen kommen , können Sie es für 30RP zerstören. Oben angekommen, können Sie irgendeine Art von gut abspringen, wo die letzten Magmacore steht, können Sie sie jetzt zerstören, aber es ist möglich, bevor die Nergigante auftauchen und Sie werden später wieder kommen. \\ N \\ nGO kümmern, dass schwache Version von Nergigante, es nach genug Schaden getan werden, um sie fliehen, müssen Sie dann alle verbleibenden Magmacore zerstören. Sobald alle Magmacore zerstört werden, warten auf eine Wingdrake Sie auf die Barriere zu bringen. Sie können einen anderen Felsen auf Zorah rechte Flanke zu brechen finden während des Wartens. \\ N \\ nAuf die Barriere, Last Kanonen und Feuer, um sicherzustellen, um die Kanone mit Zorah Position aufreihen, versuchen auf einmal 5 Kanonenkugeln zu schießen Zorah Magdaros erschöpfen. Wenn es keine mehr Munition, wechseln Sie zu einem anderen Kanone. An einem gewissen Punkt wird das Feld Teamleiter über die Drachentöterin sprechen, tun Sie es noch nicht verwenden, halten Sie die Kanonen abfeuern, sich in Richtung des Bootes nach und nach. Wann? NPC? sagt Zorah Magdaros für einen großen Angriff Aufladung wird, den Hebel auf dem Boot verwenden, um die Drachentöterin und stoppen Zorah Angriff zu aktivieren. Danach, es ist nur eine Frage der Zeit und Kanonenkugeln bis Zorah Magdaros aufgibt."
+      "Translation": "Beginnen Sie mit einem wingdrake mit auf Zorah Magdaros' zurück zu landen. Achten Sie darauf, für später einig Stein in der Nähe Ihres Landeplatz zu greifen. Fahren Sie geradeaus und Sie sollten eine von Zorah der Magmacore erreichen. Zerstören Sie es sicherstellen, dass die Lava ausweichen davon speien. Die Magmacore ein Material auf Zerstörung fallen. Leiter für Zorah der „Schwanz“ und gehen nach unten, bis Sie eine Höhle mit einem anderen Magmacore finden, zerstören es. \\ N \\ nJetzt machen Sie Ihren Weg ganz nach oben Zorah Magdaros Körper, von der linken Flanke klettern, sollten Sie über einen großen Magma Felsen kommen , können Sie es für 30RP zerstören. Oben angekommen, können Sie irgendeine Art von gut abspringen, wo die letzten Magmacore steht, können Sie sie jetzt zerstören, aber es ist möglich, bevor die Nergigante auftauchen und Sie werden später wieder kommen. \\ N \\ nGO kümmern, dass schwache Version von Nergigante, es nach genug Schaden getan werden, um sie fliehen, müssen Sie dann alle verbleibenden Magmacore zerstören. Sobald alle Magmacore zerstört werden, warten auf eine Wingdrake Sie auf die Barriere zu bringen. Sie können einen anderen Felsen auf Zorah rechte Flanke zu brechen finden während des Wartens. \\ N \\ nAuf die Barriere, Last Kanonen und Feuer, um sicherzustellen, um die Kanone mit Zorah Position aufreihen, versuchen auf einmal 5 Kanonenkugeln zu schießen Zorah Magdaros erschöpfen. Wenn es nicht mehr Munition, wechseln auf eine andere Kanone. An einem gewissen Punkt wird das Feld Teamleiter über die Drachentöterin sprechen, tun Sie es noch nicht verwenden, halten Sie die Kanonen abfeuern, sich in Richtung des Bootes nach und nach. Wann? NPC? sagt Zorah Magdaros für einen großen Angriff Aufladung wird, den Hebel auf dem Boot verwenden, um die Drachentöterin und stoppen Zorah Angriff zu aktivieren. Danach, es ist nur eine Frage der Zeit und Kanonenkugeln bis Zorah Magdaros aufgibt."
     },
     "quest-a-crown-of-mud-and-anger": {
       "Key": "quest-a-crown-of-mud-and-anger",
@@ -11101,7 +11101,7 @@ export default {
     },
     "quest-a-humid-headache-description": {
       "Key": "quest-a-humid-headache-description",
-      "Translation": "Das Wetter ist so feucht Sie die Luft mit großen Schwert schneiden könnten! Unsere Abteilung konnte so einige Klimaanlage und ich weiß nur das Monster, das eine gewisse Erleichterung bieten kann!"
+      "Translation": "Das Wetter ist so feucht Sie die Luft mit großen Schwert schneiden könnten! Unsere Abteilung konnte so einige Klimatisierungs- und ich weiß nur das Monster, das eine gewisse Erleichterung bieten kann!"
     },
     "quest-a-kestodon-kerfuffle": {
       "Key": "quest-a-kestodon-kerfuffle",
@@ -12093,7 +12093,7 @@ export default {
     },
     "quest-fungal-flexin-in-the-ancient-forest-tips": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-tips",
-      "Translation": "Starten Sie aus West Camp (11), wenn entriegelt oder gehen durch Sektor 1> 3> 4 bis Sektor zu bekommen 5 wo es eine einzigartige Pilzkolonie ist. Sie können eine Paratoad, Flashfly, Wald pteryx erfassen und vielleicht die seltenen Wald pteryx in diesem Sektor. Seien Sie vorsichtig über die Anjanath und Pukei-Pukei, die in diesem Sektor wandern möchten. Der Mondn Pilz kann während dieser Suche laichen. Gehe nach Norden von Sektor 5 und suchen auf der linken Seite für eine andere einzigartige Pilzkolonie auf einem großen Zweig, die Sie führt. Folgen Sie den Zweig und gehen in die kleine Höhle Nordseite für mehr Pilze. Sie können Omenfly in dieser Höhle fangen."
+      "Translation": "Starten Sie aus West Camp (11), wenn entriegelt oder gehen durch Sektor 1> 3> 4 bis Sektor zu bekommen 5, wo es einige einzigartige Pilzkolonie sind. Sie können eine Paratoad, Flashfly, Wald pteryx erfassen und vielleicht die seltenen Wald pteryx in diesem Sektor. Seien Sie vorsichtig über die Anjanath und Pukei-Pukei, die in diesem Sektor wandern möchten. Der Mondn Pilz kann während dieser Suche laichen. Gehe nach Norden von Sektor 5 und suchen auf der linken Seite für eine andere einzigartige Pilzkolonie auf einem großen Zweig, die Sie führt. Folgen Sie den Zweig und gehen in die kleine Höhle Nordseite für mehr Pilze. Sie können Omenfly in dieser Höhle fangen."
     },
     "quest-gaze-upon-the-dawn": {
       "Key": "quest-gaze-upon-the-dawn",
@@ -12101,7 +12101,7 @@ export default {
     },
     "quest-gaze-upon-the-dawn-description": {
       "Key": "quest-gaze-upon-the-dawn-description",
-      "Translation": "Immer, wenn ich Zorah Magdaros sehe, kann ich nicht helfen, aber ich fühle mich traurig, und ein bisschen Heimweh. Nehmen wir unsere Forschung beenden, damit ich zurück in die Alte Welt gehen und treffen Sie meinen Meister und ehemaligen Teamkollegen wieder!"
+      "Translation": "Immer, wenn ich Zorah Magdaros sehe, kann ich nicht helfen, aber ich fühle mich traurig, und ein bisschen Heimweh. Lassen Sie uns unsere Forschung beenden, damit ich zurück in die Alte Welt gehen und treffen Sie meinen Meister und ehemaligen Teamkollegen wieder!"
     },
     "quest-gettin-yolked-in-the-forest": {
       "Key": "quest-gettin-yolked-in-the-forest",
@@ -12449,11 +12449,11 @@ export default {
     },
     "quest-mired-in-the-spire-description": {
       "Key": "quest-mired-in-the-spire-description",
-      "Translation": "Die Carrier-Ameisen aus dem Wildspire Abfall sind außergewöhnliche Ingenieure. Wir haben versucht, unsere Forschung von ihnen zu fördern, sondern ein Barroth erschien und muckte unseren gesamten Betrieb auf."
+      "Translation": "Die Carrier-Ameisen aus dem Wildspire Abfall sind außergewöhnliche Ingenieure. Wir haben versucht, unsere Forschung von ihnen zu fördern, sondern ein Barroth erschienen und muckte unseren gesamten Betrieb auf."
     },
     "quest-mired-in-the-spire-tips": {
       "Key": "quest-mired-in-the-spire-tips",
-      "Translation": "Starten von Zentrallagern (6), in Richtung Norden und das Ziel sollte um die Kestodon sein (Gastronome Thunfisch kann im Camp zu finden). Es sollte in Richtung Sektor 8 fliehen, wo Sie versuchen können, Schiebe- / Sprung Angriff zu verwenden, um es zu montieren. Es wird in Richtung Sektor flieht 7 den Schlamm auf seinem Körper zu erneuern. Wenn es zu schwach anfangen, würde es in Richtung Sektor 9 fliehen und decken sie im Schlamm. Unterschätzen Sie nicht das Wasser Effekt auf Ihre Bewegungen, wenn in diesem Bereich zu bekämpfen. Es ist auch unmöglich Shock Trap im tiefen Wasser zu setzen."
+      "Translation": "Starten von Zentrallagern (6), in Richtung Norden und das Ziel sollte rund um die Kestodon sein (Gastronome Thunfisch kann im Camp zu finden). Es sollte in Richtung Sektor 8 fliehen, wo Sie versuchen können, Schiebe- / Sprung Angriff zu verwenden, um es zu montieren. Es wird in Richtung Sektor flieht 7 den Schlamm auf seinem Körper zu erneuern. Wenn es zu schwach anfangen, würde es in Richtung Sektor 9 fliehen und decken sie im Schlamm. Unterschätzen Sie nicht das Wasser Effekt auf Ihre Bewegungen, wenn in diesem Bereich zu bekämpfen. Es ist auch unmöglich Shock Trap im tiefen Wasser zu setzen."
     },
     "quest-new-world-sky-new-world-flower": {
       "Key": "quest-new-world-sky-new-world-flower",
@@ -12933,11 +12933,11 @@ export default {
     },
     "quest-persistent-pests-description": {
       "Key": "quest-persistent-pests-description",
-      "Translation": "Es gibt eine Stelle, die ich bin, das Geheimnis zu neuem uralten Baum Wachstum sicher versteckt aber es ist verseucht mit Hornetaurs! * Unlocks einen botanischen Forschung Schlitz auf erstmals Fertigstellung."
+      "Translation": "Es gibt eine Stelle, die ich bin, das Geheimnis zu neuem uralten Baum Wachstum sicher versteckt, aber es ist verseucht mit Hornetaurs! * Unlocks einen botanischen Forschung Schlitz auf erstmals Fertigstellung."
     },
     "quest-persistent-pests-tips": {
       "Key": "quest-persistent-pests-tips",
-      "Translation": "Starten Sie aus Südost Camp (1), in Richtung Westen die erste Gruppe in Sektor zu finden 3. die Rebe Climb und nach Norden in Sektor 4 eine große Anzahl von ihnen, ein paar respawning vom Blutpool zu finden. (Sie können Scavantula in diesem Bereich erfassen, stellen Sie sicher, dass sie nicht zu erschrecken)"
+      "Translation": "Starten Sie von Süd-Ost-Camp (1), in Richtung Westen die erste Gruppe in Sektor zu finden 3. die Rebe hinaufklettern und nach Norden in Sektor 4 eine große Anzahl von ihnen, ein paar respawning aus dem Blutpool zu finden. (Sie können Scavantula in diesem Bereich erfassen, stellen Sie sicher, dass sie nicht zu erschrecken)"
     },
     "quest-pretty-in-pink": {
       "Key": "quest-pretty-in-pink",
@@ -13173,7 +13173,7 @@ export default {
     },
     "quest-snow-cherry-blossoms-description": {
       "Key": "quest-snow-cherry-blossoms-description",
-      "Translation": "Hey, Ich habe ein paar wirklich erschreckend onsters in dem Coral Highlands. Dachte, du interessiert sein könnte! (Bonus HR Punkte Nach Abschluss belohnt.)"
+      "Translation": "Hey, Ich habe ein paar wirklich erschreckend onsters in dem Coral Highlands. Ich dachte, du interessiert sein könnte! (Bonus HR Punkte Nach Abschluss belohnt.)"
     },
     "quest-sorry-youre-not-invited": {
       "Key": "quest-sorry-youre-not-invited",
@@ -13193,7 +13193,7 @@ export default {
     },
     "quest-special-arena-anjanath-tips": {
       "Key": "quest-special-arena-anjanath-tips",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-barroth": {
       "Key": "quest-special-arena-barroth",
@@ -13205,7 +13205,7 @@ export default {
     },
     "quest-special-arena-barroth-tips": {
       "Key": "quest-special-arena-barroth-tips",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-diablos": {
       "Key": "quest-special-arena-diablos",
@@ -13217,7 +13217,7 @@ export default {
     },
     "quest-special-arena-diablos-tips": {
       "Key": "quest-special-arena-diablos-tips",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-hr-anjanath": {
       "Key": "quest-special-arena-hr-anjanath",
@@ -13225,7 +13225,7 @@ export default {
     },
     "quest-special-arena-hr-anjanath-notes": {
       "Key": "quest-special-arena-hr-anjanath-notes",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-hr-azure-rathalos": {
       "Key": "quest-special-arena-hr-azure-rathalos",
@@ -13233,7 +13233,7 @@ export default {
     },
     "quest-special-arena-hr-azure-rathalos-notes": {
       "Key": "quest-special-arena-hr-azure-rathalos-notes",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-hr-barroth": {
       "Key": "quest-special-arena-hr-barroth",
@@ -13241,7 +13241,7 @@ export default {
     },
     "quest-special-arena-hr-barroth-notes": {
       "Key": "quest-special-arena-hr-barroth-notes",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-hr-black-diablos": {
       "Key": "quest-special-arena-hr-black-diablos",
@@ -13249,7 +13249,7 @@ export default {
     },
     "quest-special-arena-hr-black-diablos-notes": {
       "Key": "quest-special-arena-hr-black-diablos-notes",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-hr-diablos": {
       "Key": "quest-special-arena-hr-diablos",
@@ -13257,7 +13257,7 @@ export default {
     },
     "quest-special-arena-hr-diablos-notes": {
       "Key": "quest-special-arena-hr-diablos-notes",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-hr-legiana": {
       "Key": "quest-special-arena-hr-legiana",
@@ -13265,7 +13265,7 @@ export default {
     },
     "quest-special-arena-hr-legiana-notes": {
       "Key": "quest-special-arena-hr-legiana-notes",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-hr-odogaron": {
       "Key": "quest-special-arena-hr-odogaron",
@@ -13273,7 +13273,7 @@ export default {
     },
     "quest-special-arena-hr-odogaron-notes": {
       "Key": "quest-special-arena-hr-odogaron-notes",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-hr-paolumu": {
       "Key": "quest-special-arena-hr-paolumu",
@@ -13281,7 +13281,7 @@ export default {
     },
     "quest-special-arena-hr-paolumu-notes": {
       "Key": "quest-special-arena-hr-paolumu-notes",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-hr-pink-rathian": {
       "Key": "quest-special-arena-hr-pink-rathian",
@@ -13293,7 +13293,7 @@ export default {
     },
     "quest-special-arena-hr-pukei-pukei-notes": {
       "Key": "quest-special-arena-hr-pukei-pukei-notes",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-hr-radobaan": {
       "Key": "quest-special-arena-hr-radobaan",
@@ -13301,7 +13301,7 @@ export default {
     },
     "quest-special-arena-hr-radobaan-notes": {
       "Key": "quest-special-arena-hr-radobaan-notes",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-hr-rathalos": {
       "Key": "quest-special-arena-hr-rathalos",
@@ -13313,7 +13313,7 @@ export default {
     },
     "quest-special-arena-hr-rathalos-notes": {
       "Key": "quest-special-arena-hr-rathalos-notes",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-hr-rathian": {
       "Key": "quest-special-arena-hr-rathian",
@@ -13321,7 +13321,7 @@ export default {
     },
     "quest-special-arena-hr-rathian-notes": {
       "Key": "quest-special-arena-hr-rathian-notes",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-hr-tobi-kadachi": {
       "Key": "quest-special-arena-hr-tobi-kadachi",
@@ -13329,7 +13329,7 @@ export default {
     },
     "quest-special-arena-hr-tobi-kadachi-notes": {
       "Key": "quest-special-arena-hr-tobi-kadachi-notes",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-hr-uragaan": {
       "Key": "quest-special-arena-hr-uragaan",
@@ -13337,7 +13337,7 @@ export default {
     },
     "quest-special-arena-hr-uragaan-notes": {
       "Key": "quest-special-arena-hr-uragaan-notes",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-legiana": {
       "Key": "quest-special-arena-legiana",
@@ -13345,7 +13345,7 @@ export default {
     },
     "quest-special-arena-legiana-tips": {
       "Key": "quest-special-arena-legiana-tips",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-odogaron": {
       "Key": "quest-special-arena-odogaron",
@@ -13353,7 +13353,7 @@ export default {
     },
     "quest-special-arena-odogaron-tips": {
       "Key": "quest-special-arena-odogaron-tips",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-paolumu": {
       "Key": "quest-special-arena-paolumu",
@@ -13365,7 +13365,7 @@ export default {
     },
     "quest-special-arena-paolumu-tips": {
       "Key": "quest-special-arena-paolumu-tips",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-pukei-pukei": {
       "Key": "quest-special-arena-pukei-pukei",
@@ -13373,7 +13373,7 @@ export default {
     },
     "quest-special-arena-pukei-pukei-tips": {
       "Key": "quest-special-arena-pukei-pukei-tips",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-radobaan": {
       "Key": "quest-special-arena-radobaan",
@@ -13381,7 +13381,7 @@ export default {
     },
     "quest-special-arena-radobaan-tips": {
       "Key": "quest-special-arena-radobaan-tips",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-rathalos": {
       "Key": "quest-special-arena-rathalos",
@@ -13389,7 +13389,7 @@ export default {
     },
     "quest-special-arena-rathalos-tips": {
       "Key": "quest-special-arena-rathalos-tips",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-rathian": {
       "Key": "quest-special-arena-rathian",
@@ -13397,7 +13397,7 @@ export default {
     },
     "quest-special-arena-rathian-tips": {
       "Key": "quest-special-arena-rathian-tips",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-special-arena-tobi-kadachi": {
       "Key": "quest-special-arena-tobi-kadachi",
@@ -13409,7 +13409,7 @@ export default {
     },
     "quest-special-arena-tobi-kadachi-tips": {
       "Key": "quest-special-arena-tobi-kadachi-tips",
-      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Spezies erfassen und ist einer ausreichend hohen Hunter Rank."
+      "Translation": "Spezielle Arena Quests die Spieler gegen eine Auswahl von großen Monster auf einer einzigartigen Karte auszuspielen. Der Spieler kann verwenden Kanone, Ballisten, eine fallende Felsbrocken Falle und nach einem gewissen Punkt in der Geschichte, die tödliche Drachentöterin sie zu helfen, gegen ihre Feinde zu bekämpfen. Diese Quests erscheinen, sobald der Spieler ihr erstes Monster einer bestimmten Art erfassen und ist eines hoch genug Hunter Rank."
     },
     "quest-stirrings-from-the-grave": {
       "Key": "quest-stirrings-from-the-grave",
@@ -13749,7 +13749,7 @@ export default {
     },
     "quest-the-white-winds-of-the-new-world-notable-rewards": {
       "Key": "quest-the-white-winds-of-the-new-world-notable-rewards",
-      "Translation": "Regenbogenfarbe Rüstung Pigment, Forschungskommission Ticket"
+      "Translation": "Regenbogenfarbe Rüstung Pigment, Forschung Kommission Ticket"
     },
     "quest-the-white-winds-of-the-new-world-notes": {
       "Key": "quest-the-white-winds-of-the-new-world-notes",
@@ -13981,7 +13981,7 @@ export default {
     },
     "quest-what-a-bunch-of-abalone-tips": {
       "Key": "quest-what-a-bunch-of-abalone-tips",
-      "Translation": "Von Süd-Camp (1), Richtung Nordwesten in Sektor 3, unter der felsigen Brücke gehen und suchen nach einer Muschelschale auf dem Boden. \\ N-Peaceful Strecke \\ nTurn zurück und klettern die ersten Reben auf der rechten Seite, eine andere Conch Shell warten nur an der Spitze. \\ nClimb die Nord Reben und in Richtung Westen um einen anderen zu finden, die Paolumu Nest gehen durch die letzte zu finden. \\ n-riskanten Weg \\ Nkeep erwarten nach Norden in Richtung Sektor 5, 4 Conch Shell geht hier vor, aber die Tzitzi-Ya-Ku mag herum wandern."
+      "Translation": "Von Süd-Camp (1), Richtung Nordwesten in Sektor 3, unter der felsigen Brücke gehen und suchen nach einer Muschelschale auf dem Boden. \\ N-Peaceful Strecke \\ nTurn zurück und klettern die ersten Reben auf der rechten Seite, eine andere Conch Shell warte nur an der Spitze. \\ nClimb die Nord Reben und in Richtung Westen um ein anderes zu finden, das Paolumu Nest geht durch die letzten zu finden. \\ n-riskanten Weg \\ Nkeep erwarten nach Norden in Richtung Sektor 5, 4 Conch Shell gehen hier vor, aber die Tzitzi-Ya-Ku mag herum wandern."
     },
     "quest-when-blue-dust-surpasses-red-lust": {
       "Key": "quest-when-blue-dust-surpasses-red-lust",
@@ -14429,7 +14429,7 @@ export default {
     },
     "skill-aquatic-expert-3": {
       "Key": "skill-aquatic-expert-3",
-      "Translation": "Verhindert, dass Wasser aus der Bewegung verlangsamt und verbessert die Umgehung während im Wasser."
+      "Translation": "Verhindert Wasser aus der Bewegung verlangsamt und verbessert die Umgehung während im Wasser."
     },
     "skill-aquatic-expert-description": {
       "Key": "skill-aquatic-expert-description",
@@ -14797,7 +14797,7 @@ export default {
     },
     "skill-critical-boost-3": {
       "Key": "skill-critical-boost-3",
-      "Translation": "Erhöht den verursachten Schaden von kritischen Treffer um 40%."
+      "Translation": "Erhöht den verursachten Schaden durch kritische Treffer um 40%."
     },
     "skill-critical-boost-description": {
       "Key": "skill-critical-boost-description",
@@ -15293,7 +15293,7 @@ export default {
     },
     "skill-free-element-ammo-up-description": {
       "Key": "skill-free-element-ammo-up-description",
-      "Translation": "Unlocks Ihre Waffe verstecktes Element. Auch erhöht bowgun Belastbarkeit. (Es gibt eine Kappe Ladekapazität)."
+      "Translation": "Unlocks Ihre Waffe verstecktes Element. Auch erhöht bowgun Belastbarkeit. (Es gibt eine Kappe an Ladekapazität)."
     },
     "skill-free-meal": {
       "Key": "skill-free-meal",
@@ -15581,7 +15581,7 @@ export default {
     },
     "skill-ice-attack-4": {
       "Key": "skill-ice-attack-4",
-      "Translation": "Ice Angriff + 5%, Bonus +100"
+      "Translation": "Ice Angriff 5%, Bonus +100"
     },
     "skill-ice-attack-5": {
       "Key": "skill-ice-attack-5",
@@ -16297,7 +16297,7 @@ export default {
     },
     "skill-scenthound-description": {
       "Key": "skill-scenthound-description",
-      "Translation": "Erhöht Eure scoutflies' Gauge Füllrate, wenn Sie Spuren und andere Spuren hinterlassen von Monster finden."
+      "Translation": "Erhöht EuerDeterm scoutflies' Gauge Füllrate, wenn Sie Spuren und andere Spuren hinterließen von Monstern finden."
     },
     "skill-scholar": {
       "Key": "skill-scholar",
@@ -16385,7 +16385,7 @@ export default {
     },
     "skill-slinger-capacity-2": {
       "Key": "skill-slinger-capacity-2",
-      "Translation": "Darüber hinaus erhöht sich die Ladekapazität für einige Slinger Munition von Monstern fallen gelassen."
+      "Translation": "Darüber hinaus erhöht ich die Ladekapazität für einig Slinger Munition von Monstern fällt gelassen."
     },
     "skill-slinger-capacity-3": {
       "Key": "skill-slinger-capacity-3",
@@ -17365,7 +17365,7 @@ export default {
     },
     "trophy-nowhere-to-go-but-up-description": {
       "Key": "trophy-nowhere-to-go-but-up-description",
-      "Translation": "Schließe 50 Arena von Aufgaben."
+      "Translation": "Beende 50 Arena von Aufgaben."
     },
     "trophy-one-shall-stand-one-shall-fall": {
       "Key": "trophy-one-shall-stand-one-shall-fall",
@@ -18869,7 +18869,7 @@ export default {
     },
     "weapon-gunlance-mythic-kadachi-striker": {
       "Key": "weapon-gunlance-mythic-kadachi-striker",
-      "Translation": "Mythic Kadachi Striker"
+      "Translation": "Mythic Kadachi Sturm"
     },
     "weapon-gunlance-nergal-ram": {
       "Key": "weapon-gunlance-nergal-ram",
@@ -20165,7 +20165,7 @@ export default {
     },
     "weapon-lance-iron-lance-iii": {
       "Key": "weapon-lance-iron-lance-iii",
-      "Translation": "Eisen-III Lance"
+      "Translation": "Eisen-III-Lance"
     },
     "weapon-lance-king-gold-defender": {
       "Key": "weapon-lance-king-gold-defender",
@@ -20601,7 +20601,7 @@ export default {
     },
     "weapon-long-sword-hard-bone-reaper-ii": {
       "Key": "weapon-long-sword-hard-bone-reaper-ii",
-      "Translation": "Knochenmann II"
+      "Translation": "Knochen Reaper II"
     },
     "weapon-long-sword-hard-bone-shotel-i": {
       "Key": "weapon-long-sword-hard-bone-shotel-i",
@@ -22762,5 +22762,289 @@ export default {
     "weapon-great-sword-xiphias-gladius": {
       "Key": "weapon-great-sword-xiphias-gladius",
       "Translation": "Xiphias Gladius"
+    },
+    "weapon-lance-chrome-drill-i": {
+      "Key": "weapon-lance-chrome-drill-i",
+      "Translation": "Chrome Drill I"
+    },
+    "weapon-lance-chrome-drill-ii": {
+      "Key": "weapon-lance-chrome-drill-ii",
+      "Translation": "Chrome Drill II"
+    },
+    "weapon-lance-incessant-raven": {
+      "Key": "weapon-lance-incessant-raven",
+      "Translation": "unaufhörliche Raven"
+    },
+    "weapon-lance-incessant-wolf": {
+      "Key": "weapon-lance-incessant-wolf",
+      "Translation": "unaufhörlichen Wolf"
+    },
+    "weapon-lance-ruinous-perdition": {
+      "Key": "weapon-lance-ruinous-perdition",
+      "Translation": "verderblich Perdition"
+    },
+    "weapon-lance-legiana-halberd-iii": {
+      "Key": "weapon-lance-legiana-halberd-iii",
+      "Translation": "Legiana Halberd III"
+    },
+    "weapon-lance-hoarcry-halberd": {
+      "Key": "weapon-lance-hoarcry-halberd",
+      "Translation": "Hoarcry Halberd"
+    },
+    "weapon-lance-nyx-halberd-i": {
+      "Key": "weapon-lance-nyx-halberd-i",
+      "Translation": "Nyx Halberd I"
+    },
+    "weapon-lance-nyx-halberd-ii": {
+      "Key": "weapon-lance-nyx-halberd-ii",
+      "Translation": "Nyx Halberd II"
+    },
+    "weapon-lance-minqar-al-nasr-i": {
+      "Key": "weapon-lance-minqar-al-nasr-i",
+      "Translation": "Minqar al-Nasr I"
+    },
+    "weapon-lance-tusk-lance": {
+      "Key": "weapon-lance-tusk-lance",
+      "Translation": "Tusk Lance"
+    },
+    "weapon-lance-tusk-lance-plus": {
+      "Key": "weapon-lance-tusk-lance-plus",
+      "Translation": "Tusk Lance +"
+    },
+    "weapon-lance-sabertooth": {
+      "Key": "weapon-lance-sabertooth",
+      "Translation": "Säbelzahn"
+    },
+    "weapon-lance-gama-drill-i": {
+      "Key": "weapon-lance-gama-drill-i",
+      "Translation": "Gama Drill I"
+    },
+    "weapon-lance-gama-drill-ii": {
+      "Key": "weapon-lance-gama-drill-ii",
+      "Translation": "Gama Drill II"
+    },
+    "weapon-lance-hidden-hastur-i": {
+      "Key": "weapon-lance-hidden-hastur-i",
+      "Translation": "Versteckte Hastur I"
+    },
+    "weapon-lance-hidden-hastur-ii": {
+      "Key": "weapon-lance-hidden-hastur-ii",
+      "Translation": "Versteckte Hastur II"
+    },
+    "weapon-lance-lightning-bolt-i": {
+      "Key": "weapon-lance-lightning-bolt-i",
+      "Translation": "Lightning Bolt I"
+    },
+    "weapon-lance-lightning-bolt-ii": {
+      "Key": "weapon-lance-lightning-bolt-ii",
+      "Translation": "Lightning Bolt II"
+    },
+    "weapon-lance-thunderpierce-i": {
+      "Key": "weapon-lance-thunderpierce-i",
+      "Translation": "Thunderpierce I"
+    },
+    "weapon-lance-thunderpierce-ii": {
+      "Key": "weapon-lance-thunderpierce-ii",
+      "Translation": "Thunderpierce II"
+    },
+    "weapon-lance-datura-stalk-i": {
+      "Key": "weapon-lance-datura-stalk-i",
+      "Translation": "Datura Stalk I"
+    },
+    "weapon-lance-datura-stalk-ii": {
+      "Key": "weapon-lance-datura-stalk-ii",
+      "Translation": "Datura Stalk II"
+    },
+    "weapon-lance-laguna-pike-i": {
+      "Key": "weapon-lance-laguna-pike-i",
+      "Translation": "Laguna Pike I"
+    },
+    "weapon-lance-laguna-pike-ii": {
+      "Key": "weapon-lance-laguna-pike-ii",
+      "Translation": "Laguna Pike II"
+    },
+    "weapon-lance-blue-prominence-plus": {
+      "Key": "weapon-lance-blue-prominence-plus",
+      "Translation": "Blau Prominenz +"
+    },
+    "weapon-lance-soul-prominence": {
+      "Key": "weapon-lance-soul-prominence",
+      "Translation": "Seele Prominenz"
+    },
+    "weapon-lance-silver-prominence": {
+      "Key": "weapon-lance-silver-prominence",
+      "Translation": "Silber Prominenz"
+    },
+    "weapon-lance-grand-halberd-i": {
+      "Key": "weapon-lance-grand-halberd-i",
+      "Translation": "Grand Halberd I"
+    },
+    "weapon-lance-grand-halberd-ii": {
+      "Key": "weapon-lance-grand-halberd-ii",
+      "Translation": "Grand Halberd II"
+    },
+    "weapon-lance-grand-halberd-iii": {
+      "Key": "weapon-lance-grand-halberd-iii",
+      "Translation": "Grand Halberd III"
+    },
+    "weapon-lance-iceborer": {
+      "Key": "weapon-lance-iceborer",
+      "Translation": "Iceborer"
+    },
+    "weapon-lance-knightly-ectis": {
+      "Key": "weapon-lance-knightly-ectis",
+      "Translation": "Knightly Ectis"
+    },
+    "weapon-lance-loves-tragedy": {
+      "Key": "weapon-lance-loves-tragedy",
+      "Translation": "Liebe Tragödie"
+    },
+    "weapon-lance-loves-end": {
+      "Key": "weapon-lance-loves-end",
+      "Translation": "Love End"
+    },
+    "weapon-lance-abyss-aggressor-i": {
+      "Key": "weapon-lance-abyss-aggressor-i",
+      "Translation": "Abyss Aggressor I"
+    },
+    "weapon-lance-abyss-aggressor-ii": {
+      "Key": "weapon-lance-abyss-aggressor-ii",
+      "Translation": "Abyss Aggressor II"
+    },
+    "weapon-lance-svarog-blazer": {
+      "Key": "weapon-lance-svarog-blazer",
+      "Translation": "Svarog Blazer"
+    },
+    "weapon-lance-svarog-blazer-plus": {
+      "Key": "weapon-lance-svarog-blazer-plus",
+      "Translation": "Svarog Blazer +"
+    },
+    "weapon-lance-glavenus-granat": {
+      "Key": "weapon-lance-glavenus-granat",
+      "Translation": "Glavenus Granat"
+    },
+    "weapon-lance-barroth-halberd-i": {
+      "Key": "weapon-lance-barroth-halberd-i",
+      "Translation": "Barroth Halberd I"
+    },
+    "weapon-lance-barroth-halberd-ii": {
+      "Key": "weapon-lance-barroth-halberd-ii",
+      "Translation": "Barroth Halberd II"
+    },
+    "weapon-lance-dios-halberd-i": {
+      "Key": "weapon-lance-dios-halberd-i",
+      "Translation": "Dios Halberd I"
+    },
+    "weapon-lance-dios-halberd-ii": {
+      "Key": "weapon-lance-dios-halberd-ii",
+      "Translation": "Dios Halberd II"
+    },
+    "weapon-lance-odogarons-misery-i": {
+      "Key": "weapon-lance-odogarons-misery-i",
+      "Translation": "Odogaron Misery I"
+    },
+    "weapon-lance-odogarons-misery-ii": {
+      "Key": "weapon-lance-odogarons-misery-ii",
+      "Translation": "Odogaron Misery II"
+    },
+    "weapon-lance-death-garon-lance": {
+      "Key": "weapon-lance-death-garon-lance",
+      "Translation": "Tod Garon Lance"
+    },
+    "weapon-lance-water-spike-iv": {
+      "Key": "weapon-lance-water-spike-iv",
+      "Translation": "Wasser Spike IV"
+    },
+    "weapon-lance-hydros-ullr": {
+      "Key": "weapon-lance-hydros-ullr",
+      "Translation": "Hydros Ullr"
+    },
+    "weapon-lance-tiger-stinger": {
+      "Key": "weapon-lance-tiger-stinger",
+      "Translation": "Tiger Stinger"
+    },
+    "weapon-lance-tiger-stinger-plus": {
+      "Key": "weapon-lance-tiger-stinger-plus",
+      "Translation": "Tiger Stinger +"
+    },
+    "weapon-lance-tigrex-lance": {
+      "Key": "weapon-lance-tigrex-lance",
+      "Translation": "Tigrex Lance"
+    },
+    "weapon-lance-accursed-stinger": {
+      "Key": "weapon-lance-accursed-stinger",
+      "Translation": "Accursed Stinger"
+    },
+    "weapon-lance-backbite": {
+      "Key": "weapon-lance-backbite",
+      "Translation": "Verleumden"
+    },
+    "weapon-lance-sulfurteinn-keton": {
+      "Key": "weapon-lance-sulfurteinn-keton",
+      "Translation": "Sulfurteinn Keton"
+    },
+    "weapon-lance-the-solvent-spindle": {
+      "Key": "weapon-lance-the-solvent-spindle",
+      "Translation": "Die Solvent Spindle"
+    },
+    "weapon-lance-dragonseal-aldspear-i": {
+      "Key": "weapon-lance-dragonseal-aldspear-i",
+      "Translation": "Dragonseal Aldspear I"
+    },
+    "weapon-lance-unblinking-gatekeeper": {
+      "Key": "weapon-lance-unblinking-gatekeeper",
+      "Translation": "unblinking Torwächter"
+    },
+    "weapon-lance-blasting-siegespear": {
+      "Key": "weapon-lance-blasting-siegespear",
+      "Translation": "Blasting Siegespear"
+    },
+    "weapon-lance-bazel-rocket-rooksearer": {
+      "Key": "weapon-lance-bazel-rocket-rooksearer",
+      "Translation": "Bazel Rakete Rooksearer"
+    },
+    "weapon-lance-naar-thunderlance": {
+      "Key": "weapon-lance-naar-thunderlance",
+      "Translation": "naar Thunderlance"
+    },
+    "weapon-lance-daoras-regulus": {
+      "Key": "weapon-lance-daoras-regulus",
+      "Translation": "Daora des Regulus"
+    },
+    "weapon-lance-lost-babel": {
+      "Key": "weapon-lance-lost-babel",
+      "Translation": "Verlorenes Babel"
+    },
+    "weapon-lance-fates-spindle": {
+      "Key": "weapon-lance-fates-spindle",
+      "Translation": "Das Schicksal der Spindel"
+    },
+    "weapon-lance-soulfire-spike-blaze": {
+      "Key": "weapon-lance-soulfire-spike-blaze",
+      "Translation": "Soulfire Spike \"Blaze\""
+    },
+    "weapon-lance-soulfire-spike-ruin": {
+      "Key": "weapon-lance-soulfire-spike-ruin",
+      "Translation": "Soulfire Spike \"Ruin\""
+    },
+    "weapon-lance-soulfire-spike-styx": {
+      "Key": "weapon-lance-soulfire-spike-styx",
+      "Translation": "Soulfire Spike \"Styx\""
+    },
+    "weapon-lance-shining-star-lance": {
+      "Key": "weapon-lance-shining-star-lance",
+      "Translation": "Shining Star Lance"
+    },
+    "weapon-lance-sweeping-gale-lance": {
+      "Key": "weapon-lance-sweeping-gale-lance",
+      "Translation": "Fegen Gale Lance"
+    },
+    "weapon-lance-demon-lance": {
+      "Key": "weapon-lance-demon-lance",
+      "Translation": "Dämon Lance"
+    },
+    "weapon-lance-great-demon-lance": {
+      "Key": "weapon-lance-great-demon-lance",
+      "Translation": "Große Demon Lance"
     }
   }

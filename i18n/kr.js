@@ -5681,7 +5681,7 @@ export default {
     },
     "armor-mr-jagras-vambraces-beta-plus": {
       "Key": "armor-mr-jagras-vambraces-beta-plus",
-      "Translation": "Jagras 완갑 SS +"
+      "Translation": "Jagras 완갑 ß +"
     },
     "armor-mr-jyura-alpha-plus": {
       "Key": "armor-mr-jyura-alpha-plus",
@@ -7829,7 +7829,7 @@ export default {
     },
     "endemic-life-flashfly-description": {
       "Key": "endemic-life-flashfly-description",
-      "Translation": "와,이 강아지의 BRIGHT! 심지어 대형 몬스터가 그것에 의해 기절 할 것이다, 나는 확신한다. 그것은 살아있는 플래시 폭탄처럼 ... 날개!"
+      "Translation": "와우,이 강아지의 BRIGHT! 심지어 대형 몬스터가 그것에 의해 기절 할 것이다, 나는 확신한다. 그것은 살아있는 플래시 폭탄처럼 ... 날개!"
     },
     "endemic-life-flowering-cactuar-cutting-description": {
       "Key": "endemic-life-flowering-cactuar-cutting-description",
@@ -8149,7 +8149,7 @@ export default {
     },
     "layered-armor-aloy-how-to-get": {
       "Key": "layered-armor-aloy-how-to-get",
-      "Translation": "호라이즌 전달을 넘어 완료합니다."
+      "Translation": "지평선 전달을 넘어 완료합니다."
     },
     "layered-armor-bayek": {
       "Key": "layered-armor-bayek",
@@ -9153,7 +9153,7 @@ export default {
     },
     "monster-tzitzi-ya-ku-characteristics": {
       "Key": "monster-tzitzi-ya-ku-characteristics",
-      "Translation": "머리 근처 특별한 펄스 기관이 이상한 괴물 블라인드 먹이와 적 모두. 그런 다음 마무리 타격을 전달하기 위해 강력한 다리를 사용합니다."
+      "Translation": "머리 근처 특별한 펄스 기관이 이상한 괴물 블라인드 먹이와 적을 모두. 그런 다음 마무리 타격을 전달하기 위해 강력한 다리를 사용합니다."
     },
     "monster-tzitzi-ya-ku-useful-information": {
       "Key": "monster-tzitzi-ya-ku-useful-information",
@@ -9709,7 +9709,7 @@ export default {
     },
     "play-guide-fertilizers-description": {
       "Key": "play-guide-fertilizers-description",
-      "Translation": "당신은 식물 연구 센터에서 비료를 사용하는 연구 포인트를 보낼 수 있습니다. 비료 각 수확에 의한 상품의 양을 증가 또는 배양 시간을 단축 할 수있다."
+      "Translation": "당신은 식물 연구 센터에서 비료를 사용하는 연구 포인트를 보낼 수 있습니다. 비료 각 수확에서 얻은 아이템의 양을 증가 시키거나 배양 시간을 단축 할 수있다."
     },
     "play-guide-flashbugs": {
       "Key": "play-guide-flashbugs",
@@ -12181,7 +12181,7 @@ export default {
     },
     "quest-he-taketh-it-with-his-eyes-description": {
       "Key": "quest-he-taketh-it-with-his-eyes-description",
-      "Translation": "그것은 장로의 쉬는 시간에 베히모스, Eorzean 짐승이었다. 이 테러를 진압하기 위해 모험을 - 다른 신뢰할 수 hunte에 호출합니다 moogle의 조언에주의!"
+      "Translation": "그것은 장로의 쉬는 시간에 베히모스, Eorzean 야수였다. 이 테러를 진압하기 위해 모험을 - 다른 신뢰할 수 hunte에 호출합니다 moogle의 조언에주의!"
     },
     "quest-hellfires-stronghold": {
       "Key": "quest-hellfires-stronghold",
@@ -12477,7 +12477,7 @@ export default {
     },
     "quest-no-remorse-no-surrender-description": {
       "Key": "quest-no-remorse-no-surrender-description",
-      "Translation": "나는 황제와 한 자리에서 자신의 황후를 모두 볼 살 것이라고 생각하지. 당신이 자신의 통치를 끝의 영광을 만 피팅입니다."
+      "Translation": "나는 황제와 한 자리에서 자신의 황후를 모두 볼 살 것이라고 생각하지. 그것은 당신이 자신의 통치를 끝의 영광을 만 피팅입니다."
     },
     "quest-no-tomorrow-for-usurpers": {
       "Key": "quest-no-tomorrow-for-usurpers",
@@ -13069,7 +13069,7 @@ export default {
     },
     "quest-rrrrrumble-in-the-waste-conditions": {
       "Key": "quest-rrrrrumble-in-the-waste-conditions",
-      "Translation": "퀘스트가 따끔 맛으로 시작 후 세 번째 함대 마스터에 의해 제공"
+      "Translation": "퀘스트가 욱신 거리고 맛으로 시작 후 세 번째 함대 마스터에 의해 제공"
     },
     "quest-rrrrrumble-in-the-waste-description": {
       "Key": "quest-rrrrrumble-in-the-waste-description",
@@ -13297,7 +13297,7 @@ export default {
     },
     "quest-special-arena-hr-radobaan": {
       "Key": "quest-special-arena-hr-radobaan",
-      "Translation": "특별 경기장 : HR Radobaan"
+      "Translation": "특별 아레나 : HR Radobaan"
     },
     "quest-special-arena-hr-radobaan-notes": {
       "Key": "quest-special-arena-hr-radobaan-notes",
@@ -14369,7 +14369,7 @@ export default {
     },
     "skill-affinity-sliding-1": {
       "Key": "skill-affinity-sliding-1",
-      "Translation": "슬라이딩 후 짧은 시간을 30 %의 친 화성을 증가시킨다."
+      "Translation": "슬라이딩 후 짧은 시간 동안 30 %의 친 화성을 증가시킨다."
     },
     "skill-affinity-sliding-description": {
       "Key": "skill-affinity-sliding-description",
@@ -16993,7 +16993,7 @@ export default {
     },
     "trophy-defender-of-astera": {
       "Key": "trophy-defender-of-astera",
-      "Translation": "아스의 수비수"
+      "Translation": "아스 테라의 수호자"
     },
     "trophy-defender-of-astera-description": {
       "Key": "trophy-defender-of-astera-description",
@@ -21785,7 +21785,7 @@ export default {
     },
     "weapon-long-sword-rooksearer-long-sword": {
       "Key": "weapon-long-sword-rooksearer-long-sword",
-      "Translation": "Rooksearer 롱 소드"
+      "Translation": "Rooksearer 장검"
     },
     "weapon-tree-tigrex-tree": {
       "Key": "weapon-tree-tigrex-tree",
@@ -22733,7 +22733,7 @@ export default {
     },
     "weapon-great-sword-ultra-wyvern-jawblade": {
       "Key": "weapon-great-sword-ultra-wyvern-jawblade",
-      "Translation": "매우 와이번 Jawblade"
+      "Translation": "울트라 와이번 Jawblade"
     },
     "weapon-great-sword-soulfire-edge-blaze": {
       "Key": "weapon-great-sword-soulfire-edge-blaze",
@@ -22762,5 +22762,289 @@ export default {
     "weapon-great-sword-xiphias-gladius": {
       "Key": "weapon-great-sword-xiphias-gladius",
       "Translation": "황새치 GLADIUS"
+    },
+    "weapon-lance-chrome-drill-i": {
+      "Key": "weapon-lance-chrome-drill-i",
+      "Translation": "크롬 드릴 I"
+    },
+    "weapon-lance-chrome-drill-ii": {
+      "Key": "weapon-lance-chrome-drill-ii",
+      "Translation": "크롬 드릴 II"
+    },
+    "weapon-lance-incessant-raven": {
+      "Key": "weapon-lance-incessant-raven",
+      "Translation": "끊임없는 까마귀"
+    },
+    "weapon-lance-incessant-wolf": {
+      "Key": "weapon-lance-incessant-wolf",
+      "Translation": "끊임없는 늑대"
+    },
+    "weapon-lance-ruinous-perdition": {
+      "Key": "weapon-lance-ruinous-perdition",
+      "Translation": "파멸을 가져 오는 멸망"
+    },
+    "weapon-lance-legiana-halberd-iii": {
+      "Key": "weapon-lance-legiana-halberd-iii",
+      "Translation": "Legiana 미늘창 III"
+    },
+    "weapon-lance-hoarcry-halberd": {
+      "Key": "weapon-lance-hoarcry-halberd",
+      "Translation": "Hoarcry 미늘창"
+    },
+    "weapon-lance-nyx-halberd-i": {
+      "Key": "weapon-lance-nyx-halberd-i",
+      "Translation": "NYX 미늘창 I"
+    },
+    "weapon-lance-nyx-halberd-ii": {
+      "Key": "weapon-lance-nyx-halberd-ii",
+      "Translation": "NYX 미늘창 II"
+    },
+    "weapon-lance-minqar-al-nasr-i": {
+      "Key": "weapon-lance-minqar-al-nasr-i",
+      "Translation": "Minqar 알 - 나스 르 I"
+    },
+    "weapon-lance-tusk-lance": {
+      "Key": "weapon-lance-tusk-lance",
+      "Translation": "터 스크 랜스"
+    },
+    "weapon-lance-tusk-lance-plus": {
+      "Key": "weapon-lance-tusk-lance-plus",
+      "Translation": "터 스크 랜스 +"
+    },
+    "weapon-lance-sabertooth": {
+      "Key": "weapon-lance-sabertooth",
+      "Translation": "Sabertooth"
+    },
+    "weapon-lance-gama-drill-i": {
+      "Key": "weapon-lance-gama-drill-i",
+      "Translation": "마 드릴 I"
+    },
+    "weapon-lance-gama-drill-ii": {
+      "Key": "weapon-lance-gama-drill-ii",
+      "Translation": "마 드릴 II"
+    },
+    "weapon-lance-hidden-hastur-i": {
+      "Key": "weapon-lance-hidden-hastur-i",
+      "Translation": "숨겨진 Hastur I"
+    },
+    "weapon-lance-hidden-hastur-ii": {
+      "Key": "weapon-lance-hidden-hastur-ii",
+      "Translation": "숨겨진 Hastur II"
+    },
+    "weapon-lance-lightning-bolt-i": {
+      "Key": "weapon-lance-lightning-bolt-i",
+      "Translation": "번개 화살 I"
+    },
+    "weapon-lance-lightning-bolt-ii": {
+      "Key": "weapon-lance-lightning-bolt-ii",
+      "Translation": "번개 볼트 II"
+    },
+    "weapon-lance-thunderpierce-i": {
+      "Key": "weapon-lance-thunderpierce-i",
+      "Translation": "Thunderpierce I"
+    },
+    "weapon-lance-thunderpierce-ii": {
+      "Key": "weapon-lance-thunderpierce-ii",
+      "Translation": "Thunderpierce II"
+    },
+    "weapon-lance-datura-stalk-i": {
+      "Key": "weapon-lance-datura-stalk-i",
+      "Translation": "흰 독말풀 스토킹 I"
+    },
+    "weapon-lance-datura-stalk-ii": {
+      "Key": "weapon-lance-datura-stalk-ii",
+      "Translation": "흰 독말풀 스토킹 II"
+    },
+    "weapon-lance-laguna-pike-i": {
+      "Key": "weapon-lance-laguna-pike-i",
+      "Translation": "라구나 파이크 I"
+    },
+    "weapon-lance-laguna-pike-ii": {
+      "Key": "weapon-lance-laguna-pike-ii",
+      "Translation": "라구나 파이크 II"
+    },
+    "weapon-lance-blue-prominence-plus": {
+      "Key": "weapon-lance-blue-prominence-plus",
+      "Translation": "블루 굴지 +"
+    },
+    "weapon-lance-soul-prominence": {
+      "Key": "weapon-lance-soul-prominence",
+      "Translation": "영혼 굴지"
+    },
+    "weapon-lance-silver-prominence": {
+      "Key": "weapon-lance-silver-prominence",
+      "Translation": "실버 굴지"
+    },
+    "weapon-lance-grand-halberd-i": {
+      "Key": "weapon-lance-grand-halberd-i",
+      "Translation": "그랜드 미늘창 I"
+    },
+    "weapon-lance-grand-halberd-ii": {
+      "Key": "weapon-lance-grand-halberd-ii",
+      "Translation": "그랜드 미늘창 II"
+    },
+    "weapon-lance-grand-halberd-iii": {
+      "Key": "weapon-lance-grand-halberd-iii",
+      "Translation": "그랜드 미늘창 III"
+    },
+    "weapon-lance-iceborer": {
+      "Key": "weapon-lance-iceborer",
+      "Translation": "Iceborer"
+    },
+    "weapon-lance-knightly-ectis": {
+      "Key": "weapon-lance-knightly-ectis",
+      "Translation": "기사의 Ectis"
+    },
+    "weapon-lance-loves-tragedy": {
+      "Key": "weapon-lance-loves-tragedy",
+      "Translation": "사랑의 비극"
+    },
+    "weapon-lance-loves-end": {
+      "Key": "weapon-lance-loves-end",
+      "Translation": "사랑의 끝"
+    },
+    "weapon-lance-abyss-aggressor-i": {
+      "Key": "weapon-lance-abyss-aggressor-i",
+      "Translation": "심연 침략자 I"
+    },
+    "weapon-lance-abyss-aggressor-ii": {
+      "Key": "weapon-lance-abyss-aggressor-ii",
+      "Translation": "심연 침략자 II"
+    },
+    "weapon-lance-svarog-blazer": {
+      "Key": "weapon-lance-svarog-blazer",
+      "Translation": "Svarog 재킷"
+    },
+    "weapon-lance-svarog-blazer-plus": {
+      "Key": "weapon-lance-svarog-blazer-plus",
+      "Translation": "Svarog 재킷 +"
+    },
+    "weapon-lance-glavenus-granat": {
+      "Key": "weapon-lance-glavenus-granat",
+      "Translation": "Glavenus 그라 나트"
+    },
+    "weapon-lance-barroth-halberd-i": {
+      "Key": "weapon-lance-barroth-halberd-i",
+      "Translation": "Barroth 미늘창 I"
+    },
+    "weapon-lance-barroth-halberd-ii": {
+      "Key": "weapon-lance-barroth-halberd-ii",
+      "Translation": "Barroth 미늘창 II"
+    },
+    "weapon-lance-dios-halberd-i": {
+      "Key": "weapon-lance-dios-halberd-i",
+      "Translation": "디오스 미늘창 I"
+    },
+    "weapon-lance-dios-halberd-ii": {
+      "Key": "weapon-lance-dios-halberd-ii",
+      "Translation": "디오스 미늘창 II"
+    },
+    "weapon-lance-odogarons-misery-i": {
+      "Key": "weapon-lance-odogarons-misery-i",
+      "Translation": "Odogaron의 불행 I"
+    },
+    "weapon-lance-odogarons-misery-ii": {
+      "Key": "weapon-lance-odogarons-misery-ii",
+      "Translation": "Odogaron의 불행 II"
+    },
+    "weapon-lance-death-garon-lance": {
+      "Key": "weapon-lance-death-garon-lance",
+      "Translation": "죽음 갤론 랜스"
+    },
+    "weapon-lance-water-spike-iv": {
+      "Key": "weapon-lance-water-spike-iv",
+      "Translation": "물 스파이크 IV"
+    },
+    "weapon-lance-hydros-ullr": {
+      "Key": "weapon-lance-hydros-ullr",
+      "Translation": "하이드 로스 울르"
+    },
+    "weapon-lance-tiger-stinger": {
+      "Key": "weapon-lance-tiger-stinger",
+      "Translation": "타이거 스팅어"
+    },
+    "weapon-lance-tiger-stinger-plus": {
+      "Key": "weapon-lance-tiger-stinger-plus",
+      "Translation": "타이거 침 +"
+    },
+    "weapon-lance-tigrex-lance": {
+      "Key": "weapon-lance-tigrex-lance",
+      "Translation": "Tigrex 랜스"
+    },
+    "weapon-lance-accursed-stinger": {
+      "Key": "weapon-lance-accursed-stinger",
+      "Translation": "저주받은 스팅어"
+    },
+    "weapon-lance-backbite": {
+      "Key": "weapon-lance-backbite",
+      "Translation": "험담하다"
+    },
+    "weapon-lance-sulfurteinn-keton": {
+      "Key": "weapon-lance-sulfurteinn-keton",
+      "Translation": "Sulfurteinn 케톤"
+    },
+    "weapon-lance-the-solvent-spindle": {
+      "Key": "weapon-lance-the-solvent-spindle",
+      "Translation": "솔벤트 스핀들"
+    },
+    "weapon-lance-dragonseal-aldspear-i": {
+      "Key": "weapon-lance-dragonseal-aldspear-i",
+      "Translation": "Dragonseal Aldspear I"
+    },
+    "weapon-lance-unblinking-gatekeeper": {
+      "Key": "weapon-lance-unblinking-gatekeeper",
+      "Translation": "태연 게이트 키퍼"
+    },
+    "weapon-lance-blasting-siegespear": {
+      "Key": "weapon-lance-blasting-siegespear",
+      "Translation": "발파 Siegespear"
+    },
+    "weapon-lance-bazel-rocket-rooksearer": {
+      "Key": "weapon-lance-bazel-rocket-rooksearer",
+      "Translation": "Bazel 로켓 Rooksearer"
+    },
+    "weapon-lance-naar-thunderlance": {
+      "Key": "weapon-lance-naar-thunderlance",
+      "Translation": "Naar Thunderlance"
+    },
+    "weapon-lance-daoras-regulus": {
+      "Key": "weapon-lance-daoras-regulus",
+      "Translation": "Daora의 레굴루스"
+    },
+    "weapon-lance-lost-babel": {
+      "Key": "weapon-lance-lost-babel",
+      "Translation": "분실 바벨"
+    },
+    "weapon-lance-fates-spindle": {
+      "Key": "weapon-lance-fates-spindle",
+      "Translation": "운명의 스핀들"
+    },
+    "weapon-lance-soulfire-spike-blaze": {
+      "Key": "weapon-lance-soulfire-spike-blaze",
+      "Translation": "Soulfire 스파이크 \"불꽃\""
+    },
+    "weapon-lance-soulfire-spike-ruin": {
+      "Key": "weapon-lance-soulfire-spike-ruin",
+      "Translation": "Soulfire 스파이크 \"파멸\""
+    },
+    "weapon-lance-soulfire-spike-styx": {
+      "Key": "weapon-lance-soulfire-spike-styx",
+      "Translation": "Soulfire 스파이크 '스틱스'"
+    },
+    "weapon-lance-shining-star-lance": {
+      "Key": "weapon-lance-shining-star-lance",
+      "Translation": "스타 랜스 빛나는"
+    },
+    "weapon-lance-sweeping-gale-lance": {
+      "Key": "weapon-lance-sweeping-gale-lance",
+      "Translation": "연소 게일 랜스"
+    },
+    "weapon-lance-demon-lance": {
+      "Key": "weapon-lance-demon-lance",
+      "Translation": "악마 랜스"
+    },
+    "weapon-lance-great-demon-lance": {
+      "Key": "weapon-lance-great-demon-lance",
+      "Translation": "위대한 악마 랜스"
     }
   }

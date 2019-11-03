@@ -7557,7 +7557,7 @@ export default {
     },
     "armors-total-defense": {
       "Key": "armors-total-defense",
-      "Translation": "Def Total:"
+      "Translation": "Def Totale:"
     },
     "armors-total-dragon-defense": {
       "Key": "armors-total-dragon-defense",
@@ -7645,7 +7645,7 @@ export default {
     },
     "critical-bounties-research-help-bomb-beetle-capture": {
       "Key": "critical-bounties-research-help-bomb-beetle-capture",
-      "Translation": "Ricerca Aiuto: Bomb Beetle Capture"
+      "Translation": "Ricerca Aiuto: Bomba Beetle Capture"
     },
     "critical-bounties-research-help-bomb-beetle-capture-tips": {
       "Key": "critical-bounties-research-help-bomb-beetle-capture-tips",
@@ -7689,7 +7689,7 @@ export default {
     },
     "critical-bounties-research-help-phantom-bird-tips": {
       "Key": "critical-bounties-research-help-phantom-bird-tips",
-      "Translation": "Questa generosità può essere ritirato in qualsiasi zona se il primo 5 Endemico Vita Critical Bounties e le prime 5 Piscine Bounties critici sono stati completati. \\ N gruppo \\ nA di Plasmopara schiribille può apparire sul retro di un Apceros o un Aptonoth. Apceros possono essere trovati nella zona 1 della Wildspire rifiuti (sud-ovest di Camp (1)). \\ N \\ nAptonoth possono essere trovati nella zona 1 della foresta antica (sud-ovest di Camp (1)). Viaggiare avanti e indietro tra queste zone. Indossa il tuo Mantello Ghillie prima di lasciare il campo."
+      "Translation": "Questa generosità può essere ritirato in qualsiasi zona se il primo 5 Endemico Vita Critical Bounties e le prime 5 Piscine Bounties critici sono stati completati. \\ N gruppo \\ nA di Plasmopara schiribille può apparire sul retro di un Apceros o un Aptonoth. Apceros possono essere trovati nella zona 1 della Wildspire rifiuti (sud-ovest di Camp (1)). \\ N \\ nAptonoth possono essere trovati nella zona 1 della foresta antica (sud-ovest di Camp (1)). Viaggiare avanti e indietro tra queste zone. Mettere sul tuo manto Ghillie prima di lasciare il campo."
     },
     "critical-bounties-research-help-pink-parexus-capture": {
       "Key": "critical-bounties-research-help-pink-parexus-capture",
@@ -7701,7 +7701,7 @@ export default {
     },
     "critical-bounties-research-help-platinumfish-capture": {
       "Key": "critical-bounties-research-help-platinumfish-capture",
-      "Translation": "Ricerca Help: Cattura Platinumfish"
+      "Translation": "Ricerca Aiuto: Cattura Platinumfish"
     },
     "critical-bounties-research-help-platinumfish-capture-tips": {
       "Key": "critical-bounties-research-help-platinumfish-capture-tips",
@@ -7753,7 +7753,7 @@ export default {
     },
     "endemic-life-andangler-description": {
       "Key": "endemic-life-andangler-description",
-      "Translation": "A loro piace disegnare Volante Meduso alla loro luce e ... CHOMP! Sarebbe sicuramente la pena di stare svegli tutta la notte per vederli in azione!"
+      "Translation": "A loro piace disegnare Volante Meduso alla loro luce e ... CHOMP! Sarebbe sicuramente la pena di stare svegli tutta la notte a guardare in azione!"
     },
     "endemic-life-augurfly-description": {
       "Key": "endemic-life-augurfly-description",
@@ -9513,7 +9513,7 @@ export default {
     },
     "play-guide-crouching-and-camouflage-description": {
       "Key": "play-guide-crouching-and-camouflage-description",
-      "Translation": "Premere il pulsante di schivare in piedi ancora per Crouch. Crouching in borse di pennello si mimetica in modo da poter nascondere da mostri."
+      "Translation": "Premere il pulsante di schivare in piedi ancora per Crouch. Accovacciato in borse di pennello si mimetica in modo da poter nascondere da mostri."
     },
     "play-guide-cultivating-items": {
       "Key": "play-guide-cultivating-items",
@@ -9681,7 +9681,7 @@ export default {
     },
     "play-guide-endemic-pets-description": {
       "Key": "play-guide-endemic-pets-description",
-      "Translation": "creature endemiche catturate possono essere collocati in vari punti nella vostra camera. Alcuni criters può essere eseguito solo in aree specifiche del vostra camera, e il numero è possibile inserire dipende dalla tpye della stanza. Parlate con il vostro governante per posizionare i vostri animali domestici."
+      "Translation": "creature endemiche catturate possono essere collocati in vari punti nella vostra camera. Alcuni criters può essere eseguito solo in aree specifiche della vostra camera, e il numero è possibile inserire dipende dalla tpye della stanza. Parlate con il vostro governante per posizionare i vostri animali domestici."
     },
     "play-guide-equipment-slots": {
       "Key": "play-guide-equipment-slots",
@@ -10017,7 +10017,7 @@ export default {
     },
     "play-guide-lynian-researcher-description": {
       "Key": "play-guide-lynian-researcher-description",
-      "Translation": "Un esperto avvizzito nel campo della ricerca Lynian. Nonostante dedicata alla ricerca in Grimalkynes, egli è da meno dai veloci, target sornione dei suoi studi. Ora egli è alla ricerca di un cacciatore utile per aiutarlo nella sua ricerca."
+      "Translation": "Un esperto avvizzito nel campo della ricerca Lynian. Anche se dedicato alla ricerca in Grimalkynes, egli è da meno dai veloci, target sornione dei suoi studi. Ora egli è alla ricerca di un cacciatore utile per aiutarlo nella sua ricerca."
     },
     "play-guide-max-potions": {
       "Key": "play-guide-max-potions",
@@ -10409,7 +10409,7 @@ export default {
     },
     "play-guide-sos-flares-description": {
       "Key": "play-guide-sos-flares-description",
-      "Translation": "Durante una missione, è possibile accedere al menu per inviare un bagliore SOS. Ciò indetto un bando per altri cacciatori di aiutarvi con la vostra ricerca. Questo è utile se vi trovate manca i numeri per compiere una missione difficile."
+      "Translation": "Durante una missione, è possibile accedere al menu per inviare un bagliore SOS. Questo sarà indetto un bando per altri cacciatori di aiutarvi con la vostra ricerca. Questo è utile se vi trovate manca i numeri per compiere una missione difficile."
     },
     "play-guide-specialized-tools": {
       "Key": "play-guide-specialized-tools",
@@ -13405,7 +13405,7 @@ export default {
     },
     "quest-special-arena-tobi-kadachi-description": {
       "Key": "quest-special-arena-tobi-kadachi-description",
-      "Translation": "Un nuovo sfidante: Tobi-Kadachi, il Salto della Lucertola, il maestro Bite! Che sarà lui a pulire il vostro orologio con scosse tuono! Pensi di poter andare in punta di piedi - ehm, in punta di artiglio con questa pesante hitter !?"
+      "Translation": "Un nuovo sfidante: Tobi-Kadachi, il Leaping Lizard, il maestro Bite! Che sarà lui a pulire il vostro orologio con scosse tuono! Pensi di poter andare in punta di piedi - ehm, in punta di artiglio con questa pesante hitter !?"
     },
     "quest-special-arena-tobi-kadachi-tips": {
       "Key": "quest-special-arena-tobi-kadachi-tips",
@@ -15885,7 +15885,7 @@ export default {
     },
     "skill-normal-shots-1": {
       "Key": "skill-normal-shots-1",
-      "Translation": "Aumenta la potenza di munizioni normale e normali frecce."
+      "Translation": "Aumenta la potenza di munizioni normale e frecce normali."
     },
     "skill-normal-shots-description": {
       "Key": "skill-normal-shots-description",
@@ -18085,7 +18085,7 @@ export default {
     },
     "weapon-dual-blades-pulsar-hatchets-i": {
       "Key": "weapon-dual-blades-pulsar-hatchets-i",
-      "Translation": "Pulsar Accette I"
+      "Translation": "Pulsar Hatchets I"
     },
     "weapon-dual-blades-pulsar-hatchets-ii": {
       "Key": "weapon-dual-blades-pulsar-hatchets-ii",
@@ -22762,5 +22762,289 @@ export default {
     "weapon-great-sword-xiphias-gladius": {
       "Key": "weapon-great-sword-xiphias-gladius",
       "Translation": "Xiphias Gladius"
+    },
+    "weapon-lance-chrome-drill-i": {
+      "Key": "weapon-lance-chrome-drill-i",
+      "Translation": "Chrome Drill I"
+    },
+    "weapon-lance-chrome-drill-ii": {
+      "Key": "weapon-lance-chrome-drill-ii",
+      "Translation": "Chrome Drill II"
+    },
+    "weapon-lance-incessant-raven": {
+      "Key": "weapon-lance-incessant-raven",
+      "Translation": "incessante Raven"
+    },
+    "weapon-lance-incessant-wolf": {
+      "Key": "weapon-lance-incessant-wolf",
+      "Translation": "incessante Lupo"
+    },
+    "weapon-lance-ruinous-perdition": {
+      "Key": "weapon-lance-ruinous-perdition",
+      "Translation": "Perdition ruinous"
+    },
+    "weapon-lance-legiana-halberd-iii": {
+      "Key": "weapon-lance-legiana-halberd-iii",
+      "Translation": "Legiana Alabarda III"
+    },
+    "weapon-lance-hoarcry-halberd": {
+      "Key": "weapon-lance-hoarcry-halberd",
+      "Translation": "Hoarcry Alabarda"
+    },
+    "weapon-lance-nyx-halberd-i": {
+      "Key": "weapon-lance-nyx-halberd-i",
+      "Translation": "Nyx Alabarda I"
+    },
+    "weapon-lance-nyx-halberd-ii": {
+      "Key": "weapon-lance-nyx-halberd-ii",
+      "Translation": "Nyx Alabarda II"
+    },
+    "weapon-lance-minqar-al-nasr-i": {
+      "Key": "weapon-lance-minqar-al-nasr-i",
+      "Translation": "Minqar al-Nasr I"
+    },
+    "weapon-lance-tusk-lance": {
+      "Key": "weapon-lance-tusk-lance",
+      "Translation": "Tusk Lance"
+    },
+    "weapon-lance-tusk-lance-plus": {
+      "Key": "weapon-lance-tusk-lance-plus",
+      "Translation": "Tusk Lance +"
+    },
+    "weapon-lance-sabertooth": {
+      "Key": "weapon-lance-sabertooth",
+      "Translation": "Sabertooth"
+    },
+    "weapon-lance-gama-drill-i": {
+      "Key": "weapon-lance-gama-drill-i",
+      "Translation": "Gama Drill I"
+    },
+    "weapon-lance-gama-drill-ii": {
+      "Key": "weapon-lance-gama-drill-ii",
+      "Translation": "Gama Drill II"
+    },
+    "weapon-lance-hidden-hastur-i": {
+      "Key": "weapon-lance-hidden-hastur-i",
+      "Translation": "Hidden Hastur I"
+    },
+    "weapon-lance-hidden-hastur-ii": {
+      "Key": "weapon-lance-hidden-hastur-ii",
+      "Translation": "Hidden Hastur II"
+    },
+    "weapon-lance-lightning-bolt-i": {
+      "Key": "weapon-lance-lightning-bolt-i",
+      "Translation": "I Lightning Bolt"
+    },
+    "weapon-lance-lightning-bolt-ii": {
+      "Key": "weapon-lance-lightning-bolt-ii",
+      "Translation": "Lightning Bolt II"
+    },
+    "weapon-lance-thunderpierce-i": {
+      "Key": "weapon-lance-thunderpierce-i",
+      "Translation": "I Thunderpierce"
+    },
+    "weapon-lance-thunderpierce-ii": {
+      "Key": "weapon-lance-thunderpierce-ii",
+      "Translation": "Thunderpierce II"
+    },
+    "weapon-lance-datura-stalk-i": {
+      "Key": "weapon-lance-datura-stalk-i",
+      "Translation": "Datura Stalk I"
+    },
+    "weapon-lance-datura-stalk-ii": {
+      "Key": "weapon-lance-datura-stalk-ii",
+      "Translation": "Datura Stalk II"
+    },
+    "weapon-lance-laguna-pike-i": {
+      "Key": "weapon-lance-laguna-pike-i",
+      "Translation": "Laguna Pike I"
+    },
+    "weapon-lance-laguna-pike-ii": {
+      "Key": "weapon-lance-laguna-pike-ii",
+      "Translation": "Laguna Pike II"
+    },
+    "weapon-lance-blue-prominence-plus": {
+      "Key": "weapon-lance-blue-prominence-plus",
+      "Translation": "Blu Prominence +"
+    },
+    "weapon-lance-soul-prominence": {
+      "Key": "weapon-lance-soul-prominence",
+      "Translation": "anima Prominence"
+    },
+    "weapon-lance-silver-prominence": {
+      "Key": "weapon-lance-silver-prominence",
+      "Translation": "Prominence argento"
+    },
+    "weapon-lance-grand-halberd-i": {
+      "Key": "weapon-lance-grand-halberd-i",
+      "Translation": "Gran Alabarda I"
+    },
+    "weapon-lance-grand-halberd-ii": {
+      "Key": "weapon-lance-grand-halberd-ii",
+      "Translation": "Gran Alabarda II"
+    },
+    "weapon-lance-grand-halberd-iii": {
+      "Key": "weapon-lance-grand-halberd-iii",
+      "Translation": "Gran Alabarda III"
+    },
+    "weapon-lance-iceborer": {
+      "Key": "weapon-lance-iceborer",
+      "Translation": "Iceborer"
+    },
+    "weapon-lance-knightly-ectis": {
+      "Key": "weapon-lance-knightly-ectis",
+      "Translation": "Knightly Ectis"
+    },
+    "weapon-lance-loves-tragedy": {
+      "Key": "weapon-lance-loves-tragedy",
+      "Translation": "Tragedia di Amore"
+    },
+    "weapon-lance-loves-end": {
+      "Key": "weapon-lance-loves-end",
+      "Translation": "End di Amore"
+    },
+    "weapon-lance-abyss-aggressor-i": {
+      "Key": "weapon-lance-abyss-aggressor-i",
+      "Translation": "Abyss Aggressor I"
+    },
+    "weapon-lance-abyss-aggressor-ii": {
+      "Key": "weapon-lance-abyss-aggressor-ii",
+      "Translation": "Abyss Aggressor II"
+    },
+    "weapon-lance-svarog-blazer": {
+      "Key": "weapon-lance-svarog-blazer",
+      "Translation": "Svarog Blazer"
+    },
+    "weapon-lance-svarog-blazer-plus": {
+      "Key": "weapon-lance-svarog-blazer-plus",
+      "Translation": "Svarog Blazer +"
+    },
+    "weapon-lance-glavenus-granat": {
+      "Key": "weapon-lance-glavenus-granat",
+      "Translation": "Glavenus Granat"
+    },
+    "weapon-lance-barroth-halberd-i": {
+      "Key": "weapon-lance-barroth-halberd-i",
+      "Translation": "Barroth Alabarda I"
+    },
+    "weapon-lance-barroth-halberd-ii": {
+      "Key": "weapon-lance-barroth-halberd-ii",
+      "Translation": "Barroth Alabarda II"
+    },
+    "weapon-lance-dios-halberd-i": {
+      "Key": "weapon-lance-dios-halberd-i",
+      "Translation": "Dios Alabarda I"
+    },
+    "weapon-lance-dios-halberd-ii": {
+      "Key": "weapon-lance-dios-halberd-ii",
+      "Translation": "Dios Alabarda II"
+    },
+    "weapon-lance-odogarons-misery-i": {
+      "Key": "weapon-lance-odogarons-misery-i",
+      "Translation": "Misery I di Odogaron"
+    },
+    "weapon-lance-odogarons-misery-ii": {
+      "Key": "weapon-lance-odogarons-misery-ii",
+      "Translation": "Misery II di Odogaron"
+    },
+    "weapon-lance-death-garon-lance": {
+      "Key": "weapon-lance-death-garon-lance",
+      "Translation": "Morte Garon Lance"
+    },
+    "weapon-lance-water-spike-iv": {
+      "Key": "weapon-lance-water-spike-iv",
+      "Translation": "Acqua Spike IV"
+    },
+    "weapon-lance-hydros-ullr": {
+      "Key": "weapon-lance-hydros-ullr",
+      "Translation": "Hydros Ullr"
+    },
+    "weapon-lance-tiger-stinger": {
+      "Key": "weapon-lance-tiger-stinger",
+      "Translation": "Tiger Stinger"
+    },
+    "weapon-lance-tiger-stinger-plus": {
+      "Key": "weapon-lance-tiger-stinger-plus",
+      "Translation": "Tiger Stinger +"
+    },
+    "weapon-lance-tigrex-lance": {
+      "Key": "weapon-lance-tigrex-lance",
+      "Translation": "Tigrex Lance"
+    },
+    "weapon-lance-accursed-stinger": {
+      "Key": "weapon-lance-accursed-stinger",
+      "Translation": "maledetto Stinger"
+    },
+    "weapon-lance-backbite": {
+      "Key": "weapon-lance-backbite",
+      "Translation": "calunniare"
+    },
+    "weapon-lance-sulfurteinn-keton": {
+      "Key": "weapon-lance-sulfurteinn-keton",
+      "Translation": "Sulfurteinn Keton"
+    },
+    "weapon-lance-the-solvent-spindle": {
+      "Key": "weapon-lance-the-solvent-spindle",
+      "Translation": "Il solvente Spindle"
+    },
+    "weapon-lance-dragonseal-aldspear-i": {
+      "Key": "weapon-lance-dragonseal-aldspear-i",
+      "Translation": "Dragonseal Aldspear I"
+    },
+    "weapon-lance-unblinking-gatekeeper": {
+      "Key": "weapon-lance-unblinking-gatekeeper",
+      "Translation": "Gatekeeper unblinking"
+    },
+    "weapon-lance-blasting-siegespear": {
+      "Key": "weapon-lance-blasting-siegespear",
+      "Translation": "Blasting Siegespear"
+    },
+    "weapon-lance-bazel-rocket-rooksearer": {
+      "Key": "weapon-lance-bazel-rocket-rooksearer",
+      "Translation": "Bazel Rocket Rooksearer"
+    },
+    "weapon-lance-naar-thunderlance": {
+      "Key": "weapon-lance-naar-thunderlance",
+      "Translation": "naar Thunderlance"
+    },
+    "weapon-lance-daoras-regulus": {
+      "Key": "weapon-lance-daoras-regulus",
+      "Translation": "Regulus di Daora"
+    },
+    "weapon-lance-lost-babel": {
+      "Key": "weapon-lance-lost-babel",
+      "Translation": "perso Babel"
+    },
+    "weapon-lance-fates-spindle": {
+      "Key": "weapon-lance-fates-spindle",
+      "Translation": "Mandrino del Destino"
+    },
+    "weapon-lance-soulfire-spike-blaze": {
+      "Key": "weapon-lance-soulfire-spike-blaze",
+      "Translation": "Soulfire Spike \"Blaze\""
+    },
+    "weapon-lance-soulfire-spike-ruin": {
+      "Key": "weapon-lance-soulfire-spike-ruin",
+      "Translation": "Soulfire Spike \"Ruin\""
+    },
+    "weapon-lance-soulfire-spike-styx": {
+      "Key": "weapon-lance-soulfire-spike-styx",
+      "Translation": "Soulfire Spike \"Styx\""
+    },
+    "weapon-lance-shining-star-lance": {
+      "Key": "weapon-lance-shining-star-lance",
+      "Translation": "Shining Star Lance"
+    },
+    "weapon-lance-sweeping-gale-lance": {
+      "Key": "weapon-lance-sweeping-gale-lance",
+      "Translation": "Spazzare Gale Lance"
+    },
+    "weapon-lance-demon-lance": {
+      "Key": "weapon-lance-demon-lance",
+      "Translation": "Demone Lance"
+    },
+    "weapon-lance-great-demon-lance": {
+      "Key": "weapon-lance-great-demon-lance",
+      "Translation": "Grande Demone Lance"
     }
   }

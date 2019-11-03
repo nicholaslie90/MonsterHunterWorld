@@ -22762,5 +22762,289 @@ export default {
     "weapon-great-sword-xiphias-gladius": {
       "Key": "weapon-great-sword-xiphias-gladius",
       "Translation": "Xiphias Gladius"
+    },
+    "weapon-lance-chrome-drill-i": {
+      "Key": "weapon-lance-chrome-drill-i",
+      "Translation": "Chrome Drill I"
+    },
+    "weapon-lance-chrome-drill-ii": {
+      "Key": "weapon-lance-chrome-drill-ii",
+      "Translation": "Chrome Drill II"
+    },
+    "weapon-lance-incessant-raven": {
+      "Key": "weapon-lance-incessant-raven",
+      "Translation": "Incessant Raven"
+    },
+    "weapon-lance-incessant-wolf": {
+      "Key": "weapon-lance-incessant-wolf",
+      "Translation": "Incessant Wolf"
+    },
+    "weapon-lance-ruinous-perdition": {
+      "Key": "weapon-lance-ruinous-perdition",
+      "Translation": "Ruinous Perdition"
+    },
+    "weapon-lance-legiana-halberd-iii": {
+      "Key": "weapon-lance-legiana-halberd-iii",
+      "Translation": "Legiana Halberd III"
+    },
+    "weapon-lance-hoarcry-halberd": {
+      "Key": "weapon-lance-hoarcry-halberd",
+      "Translation": "Hoarcry Halberd"
+    },
+    "weapon-lance-nyx-halberd-i": {
+      "Key": "weapon-lance-nyx-halberd-i",
+      "Translation": "Nyx Halberd I"
+    },
+    "weapon-lance-nyx-halberd-ii": {
+      "Key": "weapon-lance-nyx-halberd-ii",
+      "Translation": "Nyx Halberd II"
+    },
+    "weapon-lance-minqar-al-nasr-i": {
+      "Key": "weapon-lance-minqar-al-nasr-i",
+      "Translation": "Minqar al-Nasr I"
+    },
+    "weapon-lance-tusk-lance": {
+      "Key": "weapon-lance-tusk-lance",
+      "Translation": "Tusk Lance"
+    },
+    "weapon-lance-tusk-lance-plus": {
+      "Key": "weapon-lance-tusk-lance-plus",
+      "Translation": "Tusk Lance+"
+    },
+    "weapon-lance-sabertooth": {
+      "Key": "weapon-lance-sabertooth",
+      "Translation": "Sabertooth"
+    },
+    "weapon-lance-gama-drill-i": {
+      "Key": "weapon-lance-gama-drill-i",
+      "Translation": "Gama Drill I"
+    },
+    "weapon-lance-gama-drill-ii": {
+      "Key": "weapon-lance-gama-drill-ii",
+      "Translation": "Gama Drill II"
+    },
+    "weapon-lance-hidden-hastur-i": {
+      "Key": "weapon-lance-hidden-hastur-i",
+      "Translation": "Hidden Hastur I"
+    },
+    "weapon-lance-hidden-hastur-ii": {
+      "Key": "weapon-lance-hidden-hastur-ii",
+      "Translation": "Hidden Hastur II"
+    },
+    "weapon-lance-lightning-bolt-i": {
+      "Key": "weapon-lance-lightning-bolt-i",
+      "Translation": "Lightning Bolt I"
+    },
+    "weapon-lance-lightning-bolt-ii": {
+      "Key": "weapon-lance-lightning-bolt-ii",
+      "Translation": "Lightning Bolt II"
+    },
+    "weapon-lance-thunderpierce-i": {
+      "Key": "weapon-lance-thunderpierce-i",
+      "Translation": "Thunderpierce I"
+    },
+    "weapon-lance-thunderpierce-ii": {
+      "Key": "weapon-lance-thunderpierce-ii",
+      "Translation": "Thunderpierce II"
+    },
+    "weapon-lance-datura-stalk-i": {
+      "Key": "weapon-lance-datura-stalk-i",
+      "Translation": "Datura Stalk I"
+    },
+    "weapon-lance-datura-stalk-ii": {
+      "Key": "weapon-lance-datura-stalk-ii",
+      "Translation": "Datura Stalk II"
+    },
+    "weapon-lance-laguna-pike-i": {
+      "Key": "weapon-lance-laguna-pike-i",
+      "Translation": "Laguna Pike I"
+    },
+    "weapon-lance-laguna-pike-ii": {
+      "Key": "weapon-lance-laguna-pike-ii",
+      "Translation": "Laguna Pike II"
+    },
+    "weapon-lance-blue-prominence-plus": {
+      "Key": "weapon-lance-blue-prominence-plus",
+      "Translation": "Blue Prominence+"
+    },
+    "weapon-lance-soul-prominence": {
+      "Key": "weapon-lance-soul-prominence",
+      "Translation": "Soul Prominence"
+    },
+    "weapon-lance-silver-prominence": {
+      "Key": "weapon-lance-silver-prominence",
+      "Translation": "Silver Prominence"
+    },
+    "weapon-lance-grand-halberd-i": {
+      "Key": "weapon-lance-grand-halberd-i",
+      "Translation": "Grand Halberd I"
+    },
+    "weapon-lance-grand-halberd-ii": {
+      "Key": "weapon-lance-grand-halberd-ii",
+      "Translation": "Grand Halberd II"
+    },
+    "weapon-lance-grand-halberd-iii": {
+      "Key": "weapon-lance-grand-halberd-iii",
+      "Translation": "Grand Halberd III"
+    },
+    "weapon-lance-iceborer": {
+      "Key": "weapon-lance-iceborer",
+      "Translation": "Iceborer"
+    },
+    "weapon-lance-knightly-ectis": {
+      "Key": "weapon-lance-knightly-ectis",
+      "Translation": "Knightly Ectis"
+    },
+    "weapon-lance-loves-tragedy": {
+      "Key": "weapon-lance-loves-tragedy",
+      "Translation": "Love's Tragedy"
+    },
+    "weapon-lance-loves-end": {
+      "Key": "weapon-lance-loves-end",
+      "Translation": "Love's End"
+    },
+    "weapon-lance-abyss-aggressor-i": {
+      "Key": "weapon-lance-abyss-aggressor-i",
+      "Translation": "Abyss Aggressor I"
+    },
+    "weapon-lance-abyss-aggressor-ii": {
+      "Key": "weapon-lance-abyss-aggressor-ii",
+      "Translation": "Abyss Aggressor II"
+    },
+    "weapon-lance-svarog-blazer": {
+      "Key": "weapon-lance-svarog-blazer",
+      "Translation": "Svarog Blazer"
+    },
+    "weapon-lance-svarog-blazer-plus": {
+      "Key": "weapon-lance-svarog-blazer-plus",
+      "Translation": "Svarog Blazer+"
+    },
+    "weapon-lance-glavenus-granat": {
+      "Key": "weapon-lance-glavenus-granat",
+      "Translation": "Glavenus Granat"
+    },
+    "weapon-lance-barroth-halberd-i": {
+      "Key": "weapon-lance-barroth-halberd-i",
+      "Translation": "Barroth Halberd I"
+    },
+    "weapon-lance-barroth-halberd-ii": {
+      "Key": "weapon-lance-barroth-halberd-ii",
+      "Translation": "Barroth Halberd II"
+    },
+    "weapon-lance-dios-halberd-i": {
+      "Key": "weapon-lance-dios-halberd-i",
+      "Translation": "Dios Halberd I"
+    },
+    "weapon-lance-dios-halberd-ii": {
+      "Key": "weapon-lance-dios-halberd-ii",
+      "Translation": "Dios Halberd II"
+    },
+    "weapon-lance-odogarons-misery-i": {
+      "Key": "weapon-lance-odogarons-misery-i",
+      "Translation": "Odogaron's Misery I"
+    },
+    "weapon-lance-odogarons-misery-ii": {
+      "Key": "weapon-lance-odogarons-misery-ii",
+      "Translation": "Odogaron's Misery II"
+    },
+    "weapon-lance-death-garon-lance": {
+      "Key": "weapon-lance-death-garon-lance",
+      "Translation": "Death Garon Lance"
+    },
+    "weapon-lance-water-spike-iv": {
+      "Key": "weapon-lance-water-spike-iv",
+      "Translation": "Water Spike IV"
+    },
+    "weapon-lance-hydros-ullr": {
+      "Key": "weapon-lance-hydros-ullr",
+      "Translation": "Hydros Ullr"
+    },
+    "weapon-lance-tiger-stinger": {
+      "Key": "weapon-lance-tiger-stinger",
+      "Translation": "Tiger Stinger"
+    },
+    "weapon-lance-tiger-stinger-plus": {
+      "Key": "weapon-lance-tiger-stinger-plus",
+      "Translation": "Tiger Stinger+"
+    },
+    "weapon-lance-tigrex-lance": {
+      "Key": "weapon-lance-tigrex-lance",
+      "Translation": "Tigrex Lance"
+    },
+    "weapon-lance-accursed-stinger": {
+      "Key": "weapon-lance-accursed-stinger",
+      "Translation": "Accursed Stinger"
+    },
+    "weapon-lance-backbite": {
+      "Key": "weapon-lance-backbite",
+      "Translation": "Backbite"
+    },
+    "weapon-lance-sulfurteinn-keton": {
+      "Key": "weapon-lance-sulfurteinn-keton",
+      "Translation": "Sulfurteinn Keton"
+    },
+    "weapon-lance-the-solvent-spindle": {
+      "Key": "weapon-lance-the-solvent-spindle",
+      "Translation": "The Solvent Spindle"
+    },
+    "weapon-lance-dragonseal-aldspear-i": {
+      "Key": "weapon-lance-dragonseal-aldspear-i",
+      "Translation": "Dragonseal Aldspear I"
+    },
+    "weapon-lance-unblinking-gatekeeper": {
+      "Key": "weapon-lance-unblinking-gatekeeper",
+      "Translation": "Unblinking Gatekeeper"
+    },
+    "weapon-lance-blasting-siegespear": {
+      "Key": "weapon-lance-blasting-siegespear",
+      "Translation": "Blasting Siegespear"
+    },
+    "weapon-lance-bazel-rocket-rooksearer": {
+      "Key": "weapon-lance-bazel-rocket-rooksearer",
+      "Translation": "Bazel Rocket Rooksearer"
+    },
+    "weapon-lance-naar-thunderlance": {
+      "Key": "weapon-lance-naar-thunderlance",
+      "Translation": "Naar Thunderlance"
+    },
+    "weapon-lance-daoras-regulus": {
+      "Key": "weapon-lance-daoras-regulus",
+      "Translation": "Daora's Regulus"
+    },
+    "weapon-lance-lost-babel": {
+      "Key": "weapon-lance-lost-babel",
+      "Translation": "Lost Babel"
+    },
+    "weapon-lance-fates-spindle": {
+      "Key": "weapon-lance-fates-spindle",
+      "Translation": "Fate's Spindle"
+    },
+    "weapon-lance-soulfire-spike-blaze": {
+      "Key": "weapon-lance-soulfire-spike-blaze",
+      "Translation": "Soulfire Spike \"Blaze\""
+    },
+    "weapon-lance-soulfire-spike-ruin": {
+      "Key": "weapon-lance-soulfire-spike-ruin",
+      "Translation": "Soulfire Spike \"Ruin\""
+    },
+    "weapon-lance-soulfire-spike-styx": {
+      "Key": "weapon-lance-soulfire-spike-styx",
+      "Translation": "Soulfire Spike \"Styx\""
+    },
+    "weapon-lance-shining-star-lance": {
+      "Key": "weapon-lance-shining-star-lance",
+      "Translation": "Shining Star Lance"
+    },
+    "weapon-lance-sweeping-gale-lance": {
+      "Key": "weapon-lance-sweeping-gale-lance",
+      "Translation": "Sweeping Gale Lance"
+    },
+    "weapon-lance-demon-lance": {
+      "Key": "weapon-lance-demon-lance",
+      "Translation": "Demon Lance"
+    },
+    "weapon-lance-great-demon-lance": {
+      "Key": "weapon-lance-great-demon-lance",
+      "Translation": "Great Demon Lance"
     }
   }

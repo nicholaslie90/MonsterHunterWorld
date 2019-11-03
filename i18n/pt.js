@@ -1649,7 +1649,7 @@ export default {
     },
     "armor-hr-jagras-mail-alpha": {
       "Key": "armor-hr-jagras-mail-alpha",
-      "Translation": "Jagras Mail ⍺"
+      "Translation": "Jagras Correio ⍺"
     },
     "armor-hr-jagras-mail-beta": {
       "Key": "armor-hr-jagras-mail-beta",
@@ -3881,7 +3881,7 @@ export default {
     },
     "armor-lr-kirin-horn": {
       "Key": "armor-lr-kirin-horn",
-      "Translation": "Kirin Corno"
+      "Translation": "Kirin chifre"
     },
     "armor-lr-kirin-jacket": {
       "Key": "armor-lr-kirin-jacket",
@@ -4669,7 +4669,7 @@ export default {
     },
     "armor-mr-black-belt-helm-beta-plus": {
       "Key": "armor-mr-black-belt-helm-beta-plus",
-      "Translation": "ß Preto Helm + Belt"
+      "Translation": "ß Preto Helm Belt +"
     },
     "armor-mr-black-belt-mail-alpha-plus": {
       "Key": "armor-mr-black-belt-mail-alpha-plus",
@@ -4733,7 +4733,7 @@ export default {
     },
     "armor-mr-bone-mail-beta-plus": {
       "Key": "armor-mr-bone-mail-beta-plus",
-      "Translation": "ß óssea e-mail +"
+      "Translation": "ß osso correio +"
     },
     "armor-mr-bone-vambraces-alpha-plus": {
       "Key": "armor-mr-bone-vambraces-alpha-plus",
@@ -7525,7 +7525,7 @@ export default {
     },
     "armor-vespoid-description": {
       "Key": "armor-vespoid-description",
-      "Translation": "Armadura feita de carapaça Vespoid rígido. Embora fraco para disparar elemento, que oferece defesa sólida."
+      "Translation": "Armadura feita de carapaça Vespoid duro. Embora fraco para disparar elemento, que oferece defesa sólida."
     },
     "armor-wiggler-head-description": {
       "Key": "armor-wiggler-head-description",
@@ -8641,7 +8641,7 @@ export default {
     },
     "monster-bazelgeuse-characteristics": {
       "Key": "monster-bazelgeuse-characteristics",
-      "Translation": "Um wyvern voando nefasto que viaja ao Novo Mundo em busca de presas. Ele espalha escalas explosivos em uma ampla área de rapina sobre tudo o que é pego pela explosão."
+      "Translation": "Um wyvern voando nefasto que viaja ao Novo Mundo em busca de presas. Ele espalha escalas explosivos em uma ampla área de rapina sobre tudo o que é pego na explosão."
     },
     "monster-bazelgeuse-useful-information": {
       "Key": "monster-bazelgeuse-useful-information",
@@ -9397,7 +9397,7 @@ export default {
     },
     "play-guide-camera-settings-description": {
       "Key": "play-guide-camera-settings-description",
-      "Translation": "Você pode alterar várias definições da câmera a partir do menu Iniciar."
+      "Translation": "É possível alterar diversas configurações da câmera a partir do menu Iniciar."
     },
     "play-guide-camera-types": {
       "Key": "play-guide-camera-types",
@@ -9761,7 +9761,7 @@ export default {
     },
     "play-guide-getting-the-behemoths-attention-description": {
       "Key": "play-guide-getting-the-behemoths-attention-description",
-      "Translation": "Um caçador com uma arma projetada para o bloqueio deve atacar cabeça do Behemoth para obter a sua atenção. Quando o Behemoth vai em um rampage e sua cabeça é difícil de atacar, usar uma arma com propriedades paralisia ou montar a besta para criar uma abertura."
+      "Translation": "Um caçador com uma arma projetada para o bloqueio deve atacar a cabeça do Behemoth para obter a sua atenção. Quando o Behemoth vai em um rampage e sua cabeça é difícil de atacar, usar uma arma com propriedades paralisia ou montar a besta para criar uma abertura."
     },
     "play-guide-great-fish": {
       "Key": "play-guide-great-fish",
@@ -10017,7 +10017,7 @@ export default {
     },
     "play-guide-lynian-researcher-description": {
       "Key": "play-guide-lynian-researcher-description",
-      "Translation": "Um especialista enrugado no domínio da investigação Lynian. Embora dedicado à investigação em Grimalkynes, ele é superado pelos rápidos metas, sly de seus estudos. Agora, ele está à procura de um caçador útil para ajudá-lo em sua pesquisa."
+      "Translation": "Um especialista enrugado no domínio da investigação Lynian. Embora dedicado à investigação em Grimalkynes, ele é superado pelos rápidos metas, sly de seus estudos. Agora ele está buscando um caçador útil para ajudá-lo em sua pesquisa."
     },
     "play-guide-max-potions": {
       "Key": "play-guide-max-potions",
@@ -10025,7 +10025,7 @@ export default {
     },
     "play-guide-max-potions-description": {
       "Key": "play-guide-max-potions-description",
-      "Translation": "Estas poderosas poções restaurar não só completamente sua saúde, btu também restaurar a sua saúde máxima ao seu limite. poções Max pode ser trabalhada através da combinação de uma mandrágora com Mega nutrientes."
+      "Translation": "Estas poderosas poções restaurar não só completamente sua saúde, btu também restaurar a sua saúde máxima ao seu limite. poções Max pode ser trabalhada através da combinação de uma mandrágora com mega-nutrientes."
     },
     "play-guide-meal-effect-duration": {
       "Key": "play-guide-meal-effect-duration",
@@ -11089,7 +11089,7 @@ export default {
     },
     "quest-a-hair-raising-experience-description": {
       "Key": "quest-a-hair-raising-experience-description",
-      "Translation": "Nós começamos um relatório perturbadora de uma invulgarmente poderoso Tobi-Kadachi aparecendo na floresta antiga. Comece a sua investigação o mais rápido possível, mas cuidado com a sua velocidade relâmpago!"
+      "Translation": "Nós começamos um relatório perturbador de uma invulgarmente poderoso Tobi-Kadachi aparecendo na floresta antiga. Comece a sua investigação o mais rápido possível, mas cuidado com a sua velocidade relâmpago!"
     },
     "quest-a-hair-raising-experience-notes": {
       "Key": "quest-a-hair-raising-experience-notes",
@@ -11161,7 +11161,7 @@ export default {
     },
     "quest-a-rotten-thing-to-do-description": {
       "Key": "quest-a-rotten-thing-to-do-description",
-      "Translation": "Fiquei trabalho-k-rei do Rotten V-Vale quando um G-G-Grande Girros me z-z-eletrocutado por trás. Eu g-saí em uma única peça, mas eu ainda sou tudo t-t-tingly ... Termine o j-j-trabalho para mim? P-Por favor!"
+      "Translation": "I foi trabalho-k-rei do Rotten V-Vale quando um G-G-Grande Girros me z-z-eletrocutado por trás. Eu g-saí em uma única peça, mas eu ainda sou tudo t-t-tingly ... Termine o j-j-trabalho para mim? P-Por favor!"
     },
     "quest-a-rotten-thing-to-do-tips": {
       "Key": "quest-a-rotten-thing-to-do-tips",
@@ -12141,7 +12141,7 @@ export default {
     },
     "quest-gone-in-a-flash-notes": {
       "Key": "quest-gone-in-a-flash-notes",
-      "Translation": "Esta é a primeira missão no jogo pedindo-lhe para matar um dragão Elder. Essa busca é desbloqueado via, completando as quatro missões opcionais requerem que você capture grandes monstros dadas pelo Impaciente biólogo."
+      "Translation": "Esta é a primeira missão no jogo pedindo-lhe para matar um dragão Elder. Essa busca é desbloqueado via, completando as quatro missões opcionais que exigem a captura de grandes monstros dadas pelo Impaciente biólogo."
     },
     "quest-googly-eyed-green-monster": {
       "Key": "quest-googly-eyed-green-monster",
@@ -15505,7 +15505,7 @@ export default {
     },
     "skill-heroics-3": {
       "Key": "skill-heroics-3",
-      "Translation": "Embora activo, aumenta o poder de ataque de 15% e aumenta de defesa em 25 pontos."
+      "Translation": "Embora activo, aumenta o poder de ataque em 15% e aumenta a defesa em 25 pontos."
     },
     "skill-heroics-4": {
       "Key": "skill-heroics-4",
@@ -16885,7 +16885,7 @@ export default {
     },
     "trophy-architectural-artist-description": {
       "Key": "trophy-architectural-artist-description",
-      "Translation": "Tenha 120 diferentes tipos de decoração do quarto para escolher."
+      "Translation": "Tem 120 tipos diferentes de decoração do quarto para escolher."
     },
     "trophy-bosom-buddies": {
       "Key": "trophy-bosom-buddies",
@@ -22762,5 +22762,289 @@ export default {
     "weapon-great-sword-xiphias-gladius": {
       "Key": "weapon-great-sword-xiphias-gladius",
       "Translation": "Xiphias Gladius"
+    },
+    "weapon-lance-chrome-drill-i": {
+      "Key": "weapon-lance-chrome-drill-i",
+      "Translation": "Chrome Broca I"
+    },
+    "weapon-lance-chrome-drill-ii": {
+      "Key": "weapon-lance-chrome-drill-ii",
+      "Translation": "Chrome Broca II"
+    },
+    "weapon-lance-incessant-raven": {
+      "Key": "weapon-lance-incessant-raven",
+      "Translation": "incessante corvo"
+    },
+    "weapon-lance-incessant-wolf": {
+      "Key": "weapon-lance-incessant-wolf",
+      "Translation": "incessante Lobo"
+    },
+    "weapon-lance-ruinous-perdition": {
+      "Key": "weapon-lance-ruinous-perdition",
+      "Translation": "Perdição ruinosa"
+    },
+    "weapon-lance-legiana-halberd-iii": {
+      "Key": "weapon-lance-legiana-halberd-iii",
+      "Translation": "Legiana Halberd III"
+    },
+    "weapon-lance-hoarcry-halberd": {
+      "Key": "weapon-lance-hoarcry-halberd",
+      "Translation": "Hoarcry Halberd"
+    },
+    "weapon-lance-nyx-halberd-i": {
+      "Key": "weapon-lance-nyx-halberd-i",
+      "Translation": "Nyx Halberd I"
+    },
+    "weapon-lance-nyx-halberd-ii": {
+      "Key": "weapon-lance-nyx-halberd-ii",
+      "Translation": "Nyx Halberd II"
+    },
+    "weapon-lance-minqar-al-nasr-i": {
+      "Key": "weapon-lance-minqar-al-nasr-i",
+      "Translation": "Minqar al-Nasr I"
+    },
+    "weapon-lance-tusk-lance": {
+      "Key": "weapon-lance-tusk-lance",
+      "Translation": "Tusk Lance"
+    },
+    "weapon-lance-tusk-lance-plus": {
+      "Key": "weapon-lance-tusk-lance-plus",
+      "Translation": "Tusk Lance +"
+    },
+    "weapon-lance-sabertooth": {
+      "Key": "weapon-lance-sabertooth",
+      "Translation": "Sabertooth"
+    },
+    "weapon-lance-gama-drill-i": {
+      "Key": "weapon-lance-gama-drill-i",
+      "Translation": "Gama Broca I"
+    },
+    "weapon-lance-gama-drill-ii": {
+      "Key": "weapon-lance-gama-drill-ii",
+      "Translation": "Gama Broca II"
+    },
+    "weapon-lance-hidden-hastur-i": {
+      "Key": "weapon-lance-hidden-hastur-i",
+      "Translation": "Oculto Hastur I"
+    },
+    "weapon-lance-hidden-hastur-ii": {
+      "Key": "weapon-lance-hidden-hastur-ii",
+      "Translation": "Oculto Hastur II"
+    },
+    "weapon-lance-lightning-bolt-i": {
+      "Key": "weapon-lance-lightning-bolt-i",
+      "Translation": "Lightning Bolt I"
+    },
+    "weapon-lance-lightning-bolt-ii": {
+      "Key": "weapon-lance-lightning-bolt-ii",
+      "Translation": "Lightning Bolt II"
+    },
+    "weapon-lance-thunderpierce-i": {
+      "Key": "weapon-lance-thunderpierce-i",
+      "Translation": "Thunderpierce I"
+    },
+    "weapon-lance-thunderpierce-ii": {
+      "Key": "weapon-lance-thunderpierce-ii",
+      "Translation": "Thunderpierce II"
+    },
+    "weapon-lance-datura-stalk-i": {
+      "Key": "weapon-lance-datura-stalk-i",
+      "Translation": "Datura Stalk I"
+    },
+    "weapon-lance-datura-stalk-ii": {
+      "Key": "weapon-lance-datura-stalk-ii",
+      "Translation": "Datura Stalk II"
+    },
+    "weapon-lance-laguna-pike-i": {
+      "Key": "weapon-lance-laguna-pike-i",
+      "Translation": "Laguna Pike I"
+    },
+    "weapon-lance-laguna-pike-ii": {
+      "Key": "weapon-lance-laguna-pike-ii",
+      "Translation": "Laguna Pike II"
+    },
+    "weapon-lance-blue-prominence-plus": {
+      "Key": "weapon-lance-blue-prominence-plus",
+      "Translation": "Destaque Azul +"
+    },
+    "weapon-lance-soul-prominence": {
+      "Key": "weapon-lance-soul-prominence",
+      "Translation": "Destaque alma"
+    },
+    "weapon-lance-silver-prominence": {
+      "Key": "weapon-lance-silver-prominence",
+      "Translation": "Destaque prata"
+    },
+    "weapon-lance-grand-halberd-i": {
+      "Key": "weapon-lance-grand-halberd-i",
+      "Translation": "Grande Halberd I"
+    },
+    "weapon-lance-grand-halberd-ii": {
+      "Key": "weapon-lance-grand-halberd-ii",
+      "Translation": "Grande Halberd II"
+    },
+    "weapon-lance-grand-halberd-iii": {
+      "Key": "weapon-lance-grand-halberd-iii",
+      "Translation": "Grande Halberd III"
+    },
+    "weapon-lance-iceborer": {
+      "Key": "weapon-lance-iceborer",
+      "Translation": "Iceborer"
+    },
+    "weapon-lance-knightly-ectis": {
+      "Key": "weapon-lance-knightly-ectis",
+      "Translation": "Knightly Ectis"
+    },
+    "weapon-lance-loves-tragedy": {
+      "Key": "weapon-lance-loves-tragedy",
+      "Translation": "Tragédia do amor"
+    },
+    "weapon-lance-loves-end": {
+      "Key": "weapon-lance-loves-end",
+      "Translation": "Fim do Amor"
+    },
+    "weapon-lance-abyss-aggressor-i": {
+      "Key": "weapon-lance-abyss-aggressor-i",
+      "Translation": "Abyss Aggressor I"
+    },
+    "weapon-lance-abyss-aggressor-ii": {
+      "Key": "weapon-lance-abyss-aggressor-ii",
+      "Translation": "Abyss Aggressor II"
+    },
+    "weapon-lance-svarog-blazer": {
+      "Key": "weapon-lance-svarog-blazer",
+      "Translation": "svarog Blazer"
+    },
+    "weapon-lance-svarog-blazer-plus": {
+      "Key": "weapon-lance-svarog-blazer-plus",
+      "Translation": "Svarog Blazer +"
+    },
+    "weapon-lance-glavenus-granat": {
+      "Key": "weapon-lance-glavenus-granat",
+      "Translation": "Glavenus Granat"
+    },
+    "weapon-lance-barroth-halberd-i": {
+      "Key": "weapon-lance-barroth-halberd-i",
+      "Translation": "Barroth Halberd I"
+    },
+    "weapon-lance-barroth-halberd-ii": {
+      "Key": "weapon-lance-barroth-halberd-ii",
+      "Translation": "Barroth Halberd II"
+    },
+    "weapon-lance-dios-halberd-i": {
+      "Key": "weapon-lance-dios-halberd-i",
+      "Translation": "Dios Halberd I"
+    },
+    "weapon-lance-dios-halberd-ii": {
+      "Key": "weapon-lance-dios-halberd-ii",
+      "Translation": "Dios Halberd II"
+    },
+    "weapon-lance-odogarons-misery-i": {
+      "Key": "weapon-lance-odogarons-misery-i",
+      "Translation": "de Odogaron Misery I"
+    },
+    "weapon-lance-odogarons-misery-ii": {
+      "Key": "weapon-lance-odogarons-misery-ii",
+      "Translation": "Misery II do Odogaron"
+    },
+    "weapon-lance-death-garon-lance": {
+      "Key": "weapon-lance-death-garon-lance",
+      "Translation": "Morte Garon Lance"
+    },
+    "weapon-lance-water-spike-iv": {
+      "Key": "weapon-lance-water-spike-iv",
+      "Translation": "Água pico IV"
+    },
+    "weapon-lance-hydros-ullr": {
+      "Key": "weapon-lance-hydros-ullr",
+      "Translation": "Hydros Ullr"
+    },
+    "weapon-lance-tiger-stinger": {
+      "Key": "weapon-lance-tiger-stinger",
+      "Translation": "Tiger Stinger"
+    },
+    "weapon-lance-tiger-stinger-plus": {
+      "Key": "weapon-lance-tiger-stinger-plus",
+      "Translation": "Tiger Stinger +"
+    },
+    "weapon-lance-tigrex-lance": {
+      "Key": "weapon-lance-tigrex-lance",
+      "Translation": "Tigrex Lance"
+    },
+    "weapon-lance-accursed-stinger": {
+      "Key": "weapon-lance-accursed-stinger",
+      "Translation": "maldito Stinger"
+    },
+    "weapon-lance-backbite": {
+      "Key": "weapon-lance-backbite",
+      "Translation": "caluniar"
+    },
+    "weapon-lance-sulfurteinn-keton": {
+      "Key": "weapon-lance-sulfurteinn-keton",
+      "Translation": "Sulfurteinn Keton"
+    },
+    "weapon-lance-the-solvent-spindle": {
+      "Key": "weapon-lance-the-solvent-spindle",
+      "Translation": "O solvente do fuso"
+    },
+    "weapon-lance-dragonseal-aldspear-i": {
+      "Key": "weapon-lance-dragonseal-aldspear-i",
+      "Translation": "Dragonseal Aldspear I"
+    },
+    "weapon-lance-unblinking-gatekeeper": {
+      "Key": "weapon-lance-unblinking-gatekeeper",
+      "Translation": "Gatekeeper unblinking"
+    },
+    "weapon-lance-blasting-siegespear": {
+      "Key": "weapon-lance-blasting-siegespear",
+      "Translation": "jateamento Siegespear"
+    },
+    "weapon-lance-bazel-rocket-rooksearer": {
+      "Key": "weapon-lance-bazel-rocket-rooksearer",
+      "Translation": "Bazel foguete Rooksearer"
+    },
+    "weapon-lance-naar-thunderlance": {
+      "Key": "weapon-lance-naar-thunderlance",
+      "Translation": "naar Thunderlance"
+    },
+    "weapon-lance-daoras-regulus": {
+      "Key": "weapon-lance-daoras-regulus",
+      "Translation": "Regulus de Daora"
+    },
+    "weapon-lance-lost-babel": {
+      "Key": "weapon-lance-lost-babel",
+      "Translation": "perdeu Babel"
+    },
+    "weapon-lance-fates-spindle": {
+      "Key": "weapon-lance-fates-spindle",
+      "Translation": "Eixo de destino"
+    },
+    "weapon-lance-soulfire-spike-blaze": {
+      "Key": "weapon-lance-soulfire-spike-blaze",
+      "Translation": "Soulfire Pico \"chama\""
+    },
+    "weapon-lance-soulfire-spike-ruin": {
+      "Key": "weapon-lance-soulfire-spike-ruin",
+      "Translation": "Soulfire Pico \"Ruin\""
+    },
+    "weapon-lance-soulfire-spike-styx": {
+      "Key": "weapon-lance-soulfire-spike-styx",
+      "Translation": "Soulfire Pico \"Styx\""
+    },
+    "weapon-lance-shining-star-lance": {
+      "Key": "weapon-lance-shining-star-lance",
+      "Translation": "Shining Star Lance"
+    },
+    "weapon-lance-sweeping-gale-lance": {
+      "Key": "weapon-lance-sweeping-gale-lance",
+      "Translation": "Varrendo Gale Lance"
+    },
+    "weapon-lance-demon-lance": {
+      "Key": "weapon-lance-demon-lance",
+      "Translation": "demônio Lance"
+    },
+    "weapon-lance-great-demon-lance": {
+      "Key": "weapon-lance-great-demon-lance",
+      "Translation": "Grande Demônio Lance"
     }
   }

@@ -229,7 +229,7 @@ export default {
     },
     "armor-empress-vambraces-description": {
       "Key": "armor-empress-vambraces-description",
-      "Translation": "在這個Lunastra鎧甲那麼大的魅力，即使是最正義的心的專門設計的藍色色調。"
+      "Translation": "在這個Lunastra裝甲可以魅力即使是最正直心的專門設計的藍色色調。"
     },
     "armor-faux-felyne-description": {
       "Key": "armor-faux-felyne-description",
@@ -7493,7 +7493,7 @@ export default {
     },
     "armor-shadow-shades-description": {
       "Key": "armor-shadow-shades-description",
-      "Translation": "一個明智的一對色調。你永遠看起來很酷這些，不管情況。"
+      "Translation": "明智的一對色調。你永遠看起來很酷這些，不管情況。"
     },
     "armor-shamos-description": {
       "Key": "armor-shamos-description",
@@ -9517,7 +9517,7 @@ export default {
     },
     "play-guide-cultivating-items": {
       "Key": "play-guide-cultivating-items",
-      "Translation": "培育項目"
+      "Translation": "培養項目"
     },
     "play-guide-cultivating-items-description": {
       "Key": "play-guide-cultivating-items-description",
@@ -9669,7 +9669,7 @@ export default {
     },
     "play-guide-endemic-life-researcher-description": {
       "Key": "play-guide-endemic-life-researcher-description",
-      "Translation": "一個充滿激情的研究員對地方性動物和昆蟲工作現場進行指導。沒有人的技術捕捉新的世界流行的動物有較深的造詣。"
+      "Translation": "有激情的研究員對地方性動物和昆蟲工作現場進行指導。沒有人的技術捕捉新的世界流行的動物有較深的造詣。"
     },
     "play-guide-endemic-life-tips": {
       "Key": "play-guide-endemic-life-tips",
@@ -9949,7 +9949,7 @@ export default {
     },
     "play-guide-kulve-taroth-siege-strategies-description": {
       "Key": "play-guide-kulve-taroth-siege-strategies-description",
-      "Translation": "您可以通過簡單地收集由Kulve Taroth離開軌道提高追求水平無論研究水平。提高追求水平處於轉彎這個怪物至關重要\\ N的天球追求\\ n所有的獵人將獲得同樣的好處時，追求或報酬水平提高。團隊與其他獵人追捕Kulve Taroth。\\ n \\ n您可以從開始菜單中選擇特殊任務檢查Kulve Taroth細節。"
+      "Translation": "您可以通過簡單地收集由Kulve Taroth離開軌道提高追求水平無論研究水平。提高追求水平處於轉彎這個怪物是至關重要的。\\ n在天球追求\\ n所有的獵人將獲得同樣的好處時，追求或報酬水平提高。團隊與其他獵人追捕Kulve Taroth。\\ n \\ n您可以從開始菜單中選擇特殊任務檢查Kulve Taroth細節。"
     },
     "play-guide-kulve-taroths-weaknesses": {
       "Key": "play-guide-kulve-taroths-weaknesses",
@@ -10085,7 +10085,7 @@ export default {
     },
     "play-guide-monster-research-description": {
       "Key": "play-guide-monster-research-description",
-      "Translation": "通過收集怪物的踪跡，並增加你的研究水平，您將了解的怪物，比如他們的弱點更詳細的生態信息。你scoutflies也將能夠更好地檢測，你已深入研究的怪物。"
+      "Translation": "通過收集怪物的痕跡，並增加你的研究水平，您將了解的怪物，比如他們的弱點更詳細的生態信息。你scoutflies也將能夠更好地檢測，你已深入研究的怪物。"
     },
     "play-guide-mounting-controls": {
       "Key": "play-guide-mounting-controls",
@@ -11181,7 +11181,7 @@ export default {
     },
     "quest-a-rush-of-blood-description": {
       "Key": "quest-a-rush-of-blood-description",
-      "Translation": "不好了！有大部份OL“怪物看起來很像我們火拼！有人的gottal平靜的大男孩了！幫助我們，我們會給你一些特殊的齒輪為您Palico！"
+      "Translation": "不好了！有部份大醇'怪物看起來很像我們火拼！有人的gottal平靜的大男孩了！幫助我們，我們會給你一些特殊的齒輪為您Palico！"
     },
     "quest-a-scalding-scoop": {
       "Key": "quest-a-scalding-scoop",
@@ -11369,7 +11369,7 @@ export default {
     },
     "quest-arena-quest-08-description": {
       "Key": "quest-arena-quest-08-description",
-      "Translation": "在怪物的角落：一個Radobaan-Uragaan標記隊！車輪轉向，和你的電話號碼的了！誰擁有的勇氣打'時間與設定的武器和盔甲？"
+      "Translation": "在怪物的角落：一個Radobaan-Uragaan標記隊！車輪轉向，和你的電話號碼的了！誰擁有膽量打'時間與設定的武器和盔甲？"
     },
     "quest-arena-quest-09": {
       "Key": "quest-arena-quest-09",
@@ -11377,7 +11377,7 @@ export default {
     },
     "quest-arena-quest-09-description": {
       "Key": "quest-arena-quest-09-description",
-      "Translation": "在怪物的角落：一個Diablo的黑Diablo的標記隊！曾經有你的耳朵刺穿？現在嘗試極端的版本！誰擁有的勇氣打'時間與設定的武器和盔甲？"
+      "Translation": "在怪物的角落：一個Diablo的黑Diablo的標記隊！曾經有你的耳朵刺穿？現在嘗試極端的版本！誰擁有膽量打'時間與設定的武器和盔甲？"
     },
     "quest-ballooning-problems": {
       "Key": "quest-ballooning-problems",
@@ -11481,7 +11481,7 @@ export default {
     },
     "quest-chef-quest-gajalaka-lockdown-notable-rewards": {
       "Key": "quest-chef-quest-gajalaka-lockdown-notable-rewards",
-      "Translation": "粗野鰤成分Gajalaka素描"
+      "Translation": "粗野鰤成分，Gajalaka素描"
     },
     "quest-chef-quest-pumped-to-deliver": {
       "Key": "quest-chef-quest-pumped-to-deliver",
@@ -12113,7 +12113,7 @@ export default {
     },
     "quest-gettin-yolked-in-the-forest-tips": {
       "Key": "quest-gettin-yolked-in-the-forest-tips",
-      "Translation": "從遠古森林營（17）開始，並確保您有吉利地幔下面南部路徑，Rathian巢（臨轉運人員可來方便太多），頭16扇區一路上漲。把吉利地幔上挑飛龍蛋，你不能與卵子的分支下通過這樣下去西坡（你可以放心地滑下），並尋找北側出口，然後就回去營地，重複一次。如果你足夠快，你可以逃脫不吉利地幔Rathian，該Rathian不能跟著你到部門17。"
+      "Translation": "從遠古森林營（17）開始，並確保您有吉利的地幔下面南部路徑，Rathian巢（臨轉運人員可來方便太多），頭16扇區一路上漲。把吉利地幔上挑飛龍蛋，你不能與卵子的分支下通過這樣下去西坡（你可以放心地滑下），並尋找北側出口，然後就回去營地，重複一次。如果你足夠快，你可以逃脫不吉利地幔Rathian，該Rathian不能跟著你到部門17。"
     },
     "quest-gettin-yolked-in-the-waste": {
       "Key": "quest-gettin-yolked-in-the-waste",
@@ -13629,7 +13629,7 @@ export default {
     },
     "quest-the-names-lavasioth-description": {
       "Key": "quest-the-names-lavasioth-description",
-      "Translation": "喲，我們得到了要求研究認為沒有人想研究一個怪物！你知道一個，圍繞喜歡休息室的熔岩是大軟盤腥！是啊，這一個！ （特價機票獎勵）"
+      "Translation": "喲，我們得到了要求研究認為沒有人想研究一個怪物！你知道一個，圍繞喜歡休息的熔岩是大軟盤腥！是啊，這一個！ （特價機票獎勵）"
     },
     "quest-the-pain-from-gains": {
       "Key": "quest-the-pain-from-gains",
@@ -15077,7 +15077,7 @@ export default {
     },
     "skill-elderseal-boost-1": {
       "Key": "skill-elderseal-boost-1",
-      "Translation": "升壓Elderseal一個水平。"
+      "Translation": "升壓Elderseal一個級別。"
     },
     "skill-elderseal-boost-description": {
       "Key": "skill-elderseal-boost-description",
@@ -16833,7 +16833,7 @@ export default {
     },
     "trophy-a-living-fossil": {
       "Key": "trophy-a-living-fossil",
-      "Translation": "一個活化石"
+      "Translation": "活化石"
     },
     "trophy-a-living-fossil-description": {
       "Key": "trophy-a-living-fossil-description",
@@ -20925,7 +20925,7 @@ export default {
     },
     "weapon-sword-and-shield-blacksteel-sword-i": {
       "Key": "weapon-sword-and-shield-blacksteel-sword-i",
-      "Translation": "劍黑鋼我"
+      "Translation": "黑鋼劍我"
     },
     "weapon-sword-and-shield-blacksteel-sword-ii": {
       "Key": "weapon-sword-and-shield-blacksteel-sword-ii",
@@ -22762,5 +22762,289 @@ export default {
     "weapon-great-sword-xiphias-gladius": {
       "Key": "weapon-great-sword-xiphias-gladius",
       "Translation": "Xiphias劍宗"
+    },
+    "weapon-lance-chrome-drill-i": {
+      "Key": "weapon-lance-chrome-drill-i",
+      "Translation": "鉻鑽我"
+    },
+    "weapon-lance-chrome-drill-ii": {
+      "Key": "weapon-lance-chrome-drill-ii",
+      "Translation": "鉻鑽II"
+    },
+    "weapon-lance-incessant-raven": {
+      "Key": "weapon-lance-incessant-raven",
+      "Translation": "持續不斷的烏鴉"
+    },
+    "weapon-lance-incessant-wolf": {
+      "Key": "weapon-lance-incessant-wolf",
+      "Translation": "持續不斷的狼"
+    },
+    "weapon-lance-ruinous-perdition": {
+      "Key": "weapon-lance-ruinous-perdition",
+      "Translation": "毀滅性的沉淪"
+    },
+    "weapon-lance-legiana-halberd-iii": {
+      "Key": "weapon-lance-legiana-halberd-iii",
+      "Translation": "Legiana戟III"
+    },
+    "weapon-lance-hoarcry-halberd": {
+      "Key": "weapon-lance-hoarcry-halberd",
+      "Translation": "Hoarcry戟"
+    },
+    "weapon-lance-nyx-halberd-i": {
+      "Key": "weapon-lance-nyx-halberd-i",
+      "Translation": "NYX戟我"
+    },
+    "weapon-lance-nyx-halberd-ii": {
+      "Key": "weapon-lance-nyx-halberd-ii",
+      "Translation": "NYX戟II"
+    },
+    "weapon-lance-minqar-al-nasr-i": {
+      "Key": "weapon-lance-minqar-al-nasr-i",
+      "Translation": "Minqar人，我納斯爾"
+    },
+    "weapon-lance-tusk-lance": {
+      "Key": "weapon-lance-tusk-lance",
+      "Translation": "圖斯克蘭斯"
+    },
+    "weapon-lance-tusk-lance-plus": {
+      "Key": "weapon-lance-tusk-lance-plus",
+      "Translation": "圖斯克槍+"
+    },
+    "weapon-lance-sabertooth": {
+      "Key": "weapon-lance-sabertooth",
+      "Translation": "SABERTOOTH"
+    },
+    "weapon-lance-gama-drill-i": {
+      "Key": "weapon-lance-gama-drill-i",
+      "Translation": "伽馬鑽我"
+    },
+    "weapon-lance-gama-drill-ii": {
+      "Key": "weapon-lance-gama-drill-ii",
+      "Translation": "伽馬鑽II"
+    },
+    "weapon-lance-hidden-hastur-i": {
+      "Key": "weapon-lance-hidden-hastur-i",
+      "Translation": "隱藏哈斯塔我"
+    },
+    "weapon-lance-hidden-hastur-ii": {
+      "Key": "weapon-lance-hidden-hastur-ii",
+      "Translation": "隱藏哈斯塔II"
+    },
+    "weapon-lance-lightning-bolt-i": {
+      "Key": "weapon-lance-lightning-bolt-i",
+      "Translation": "閃電箭我"
+    },
+    "weapon-lance-lightning-bolt-ii": {
+      "Key": "weapon-lance-lightning-bolt-ii",
+      "Translation": "閃電II"
+    },
+    "weapon-lance-thunderpierce-i": {
+      "Key": "weapon-lance-thunderpierce-i",
+      "Translation": "Thunderpierce我"
+    },
+    "weapon-lance-thunderpierce-ii": {
+      "Key": "weapon-lance-thunderpierce-ii",
+      "Translation": "Thunderpierce II"
+    },
+    "weapon-lance-datura-stalk-i": {
+      "Key": "weapon-lance-datura-stalk-i",
+      "Translation": "曼陀羅稈我"
+    },
+    "weapon-lance-datura-stalk-ii": {
+      "Key": "weapon-lance-datura-stalk-ii",
+      "Translation": "曼陀羅秸稈II"
+    },
+    "weapon-lance-laguna-pike-i": {
+      "Key": "weapon-lance-laguna-pike-i",
+      "Translation": "麗派克我"
+    },
+    "weapon-lance-laguna-pike-ii": {
+      "Key": "weapon-lance-laguna-pike-ii",
+      "Translation": "拉古那II派克"
+    },
+    "weapon-lance-blue-prominence-plus": {
+      "Key": "weapon-lance-blue-prominence-plus",
+      "Translation": "藍日珥+"
+    },
+    "weapon-lance-soul-prominence": {
+      "Key": "weapon-lance-soul-prominence",
+      "Translation": "靈魂日珥"
+    },
+    "weapon-lance-silver-prominence": {
+      "Key": "weapon-lance-silver-prominence",
+      "Translation": "銀日珥"
+    },
+    "weapon-lance-grand-halberd-i": {
+      "Key": "weapon-lance-grand-halberd-i",
+      "Translation": "大戟我"
+    },
+    "weapon-lance-grand-halberd-ii": {
+      "Key": "weapon-lance-grand-halberd-ii",
+      "Translation": "大戟II"
+    },
+    "weapon-lance-grand-halberd-iii": {
+      "Key": "weapon-lance-grand-halberd-iii",
+      "Translation": "大戟III"
+    },
+    "weapon-lance-iceborer": {
+      "Key": "weapon-lance-iceborer",
+      "Translation": "Iceborer"
+    },
+    "weapon-lance-knightly-ectis": {
+      "Key": "weapon-lance-knightly-ectis",
+      "Translation": "騎士Ectis"
+    },
+    "weapon-lance-loves-tragedy": {
+      "Key": "weapon-lance-loves-tragedy",
+      "Translation": "愛的悲劇"
+    },
+    "weapon-lance-loves-end": {
+      "Key": "weapon-lance-loves-end",
+      "Translation": "愛情的盡頭"
+    },
+    "weapon-lance-abyss-aggressor-i": {
+      "Key": "weapon-lance-abyss-aggressor-i",
+      "Translation": "深淵侵略者我"
+    },
+    "weapon-lance-abyss-aggressor-ii": {
+      "Key": "weapon-lance-abyss-aggressor-ii",
+      "Translation": "深淵侵略者II"
+    },
+    "weapon-lance-svarog-blazer": {
+      "Key": "weapon-lance-svarog-blazer",
+      "Translation": "斯瓦羅格西裝外套"
+    },
+    "weapon-lance-svarog-blazer-plus": {
+      "Key": "weapon-lance-svarog-blazer-plus",
+      "Translation": "斯瓦羅格西裝外套+"
+    },
+    "weapon-lance-glavenus-granat": {
+      "Key": "weapon-lance-glavenus-granat",
+      "Translation": "Glavenus格蘭納特"
+    },
+    "weapon-lance-barroth-halberd-i": {
+      "Key": "weapon-lance-barroth-halberd-i",
+      "Translation": "Barroth戟我"
+    },
+    "weapon-lance-barroth-halberd-ii": {
+      "Key": "weapon-lance-barroth-halberd-ii",
+      "Translation": "Barroth戟II"
+    },
+    "weapon-lance-dios-halberd-i": {
+      "Key": "weapon-lance-dios-halberd-i",
+      "Translation": "奧斯戟我"
+    },
+    "weapon-lance-dios-halberd-ii": {
+      "Key": "weapon-lance-dios-halberd-ii",
+      "Translation": "奧斯戟II"
+    },
+    "weapon-lance-odogarons-misery-i": {
+      "Key": "weapon-lance-odogarons-misery-i",
+      "Translation": "Odogaron的苦難我"
+    },
+    "weapon-lance-odogarons-misery-ii": {
+      "Key": "weapon-lance-odogarons-misery-ii",
+      "Translation": "Odogaron的苦難II"
+    },
+    "weapon-lance-death-garon-lance": {
+      "Key": "weapon-lance-death-garon-lance",
+      "Translation": "死亡加龍蘭斯"
+    },
+    "weapon-lance-water-spike-iv": {
+      "Key": "weapon-lance-water-spike-iv",
+      "Translation": "水穗IV"
+    },
+    "weapon-lance-hydros-ullr": {
+      "Key": "weapon-lance-hydros-ullr",
+      "Translation": "HYDROS烏勒爾"
+    },
+    "weapon-lance-tiger-stinger": {
+      "Key": "weapon-lance-tiger-stinger",
+      "Translation": "老虎毒刺"
+    },
+    "weapon-lance-tiger-stinger-plus": {
+      "Key": "weapon-lance-tiger-stinger-plus",
+      "Translation": "老虎毒刺+"
+    },
+    "weapon-lance-tigrex-lance": {
+      "Key": "weapon-lance-tigrex-lance",
+      "Translation": "Tigrex蘭斯"
+    },
+    "weapon-lance-accursed-stinger": {
+      "Key": "weapon-lance-accursed-stinger",
+      "Translation": "被詛咒的毒刺"
+    },
+    "weapon-lance-backbite": {
+      "Key": "weapon-lance-backbite",
+      "Translation": "戳脊梁骨"
+    },
+    "weapon-lance-sulfurteinn-keton": {
+      "Key": "weapon-lance-sulfurteinn-keton",
+      "Translation": "Sulfurteinn酮"
+    },
+    "weapon-lance-the-solvent-spindle": {
+      "Key": "weapon-lance-the-solvent-spindle",
+      "Translation": "溶劑主軸"
+    },
+    "weapon-lance-dragonseal-aldspear-i": {
+      "Key": "weapon-lance-dragonseal-aldspear-i",
+      "Translation": "Dragonseal Aldspear我"
+    },
+    "weapon-lance-unblinking-gatekeeper": {
+      "Key": "weapon-lance-unblinking-gatekeeper",
+      "Translation": "守一眨不眨"
+    },
+    "weapon-lance-blasting-siegespear": {
+      "Key": "weapon-lance-blasting-siegespear",
+      "Translation": "爆破Siegespear"
+    },
+    "weapon-lance-bazel-rocket-rooksearer": {
+      "Key": "weapon-lance-bazel-rocket-rooksearer",
+      "Translation": "巴澤爾火箭Rooksearer"
+    },
+    "weapon-lance-naar-thunderlance": {
+      "Key": "weapon-lance-naar-thunderlance",
+      "Translation": "納爾Thunderlance"
+    },
+    "weapon-lance-daoras-regulus": {
+      "Key": "weapon-lance-daoras-regulus",
+      "Translation": "Daora的軒轅"
+    },
+    "weapon-lance-lost-babel": {
+      "Key": "weapon-lance-lost-babel",
+      "Translation": "失去巴貝爾"
+    },
+    "weapon-lance-fates-spindle": {
+      "Key": "weapon-lance-fates-spindle",
+      "Translation": "命運的主軸"
+    },
+    "weapon-lance-soulfire-spike-blaze": {
+      "Key": "weapon-lance-soulfire-spike-blaze",
+      "Translation": "靈魂之火秒殺“大火”"
+    },
+    "weapon-lance-soulfire-spike-ruin": {
+      "Key": "weapon-lance-soulfire-spike-ruin",
+      "Translation": "靈魂之火秒殺“三絕”"
+    },
+    "weapon-lance-soulfire-spike-styx": {
+      "Key": "weapon-lance-soulfire-spike-styx",
+      "Translation": "靈魂之火秒殺“冥河”"
+    },
+    "weapon-lance-shining-star-lance": {
+      "Key": "weapon-lance-shining-star-lance",
+      "Translation": "閃亮之星蘭斯"
+    },
+    "weapon-lance-sweeping-gale-lance": {
+      "Key": "weapon-lance-sweeping-gale-lance",
+      "Translation": "清掃大風蘭斯"
+    },
+    "weapon-lance-demon-lance": {
+      "Key": "weapon-lance-demon-lance",
+      "Translation": "惡魔蘭斯"
+    },
+    "weapon-lance-great-demon-lance": {
+      "Key": "weapon-lance-great-demon-lance",
+      "Translation": "大惡魔蘭斯"
     }
   }

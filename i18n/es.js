@@ -101,7 +101,7 @@ export default {
     },
     "armor-dantes-hair-description": {
       "Key": "armor-dantes-hair-description",
-      "Translation": "Moda después de Dante, el cazador de demonios. Permite a todos saber que no es de por aquí."
+      "Translation": "Formado después de Dante, el cazador de demonios. Permite a todos saber que no es de por aquí."
     },
     "armor-dantes-leather-boots-description": {
       "Key": "armor-dantes-leather-boots-description",
@@ -3297,7 +3297,7 @@ export default {
     },
     "armor-leather-description": {
       "Key": "armor-leather-description",
-      "Translation": "Armadura hecho de cuero tratado monstruo. Una elección segura, diseñado para su uso polivalente."
+      "Translation": "Armadura hecha de piel de monstruo tratada. Una elección segura, diseñado para su uso polivalente."
     },
     "armor-legiana-description": {
       "Key": "armor-legiana-description",
@@ -3445,7 +3445,7 @@ export default {
     },
     "armor-lr-bone-vambraces": {
       "Key": "armor-lr-bone-vambraces",
-      "Translation": "Bone Avambrazos"
+      "Translation": "óseas Protegebrazos"
     },
     "armor-lr-brigade": {
       "Key": "armor-lr-brigade",
@@ -4689,7 +4689,7 @@ export default {
     },
     "armor-mr-blackveil-hazak-alpha-plus": {
       "Key": "armor-mr-blackveil-hazak-alpha-plus",
-      "Translation": "+ Blackveil Hazak ⍺"
+      "Translation": "Blackveil Hazak ⍺ +"
     },
     "armor-mr-blackveil-hazak-beta-plus": {
       "Key": "armor-mr-blackveil-hazak-beta-plus",
@@ -6657,7 +6657,7 @@ export default {
     },
     "armor-mr-savage-jho-beta-plus": {
       "Key": "armor-mr-savage-jho-beta-plus",
-      "Translation": "SS salvaje Jho +"
+      "Translation": "ß salvaje Jho +"
     },
     "armor-mr-seething-bazel-alpha-plus": {
       "Key": "armor-mr-seething-bazel-alpha-plus",
@@ -7593,7 +7593,7 @@ export default {
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics-tips": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics-tips",
-      "Translation": "Esta recompensa puede ser recogido en el Investigador Lynian en Astera después de haber completado los primeros 4 misiones Lynian de investigación. El investigador pregunta a descubrir 10 Gajalaka garabatos. \\ N \\ nSe es importante tener en cuenta que estos sólo desovan durante esta recompensa y sólo en lugares de alto rango. Puede encontrar 1 Doodle en el área 5 y 1 Doodle en la zona 15 en el bosque antiguo. Puede encontrar 1 Doodle en la zona 3 y 1 del Doodle en la zona de las 7 de la Wildspire Residuos. \\ N \\ nNo puede encontrar 1 Doodle en la zona 12 en las tierras altas de Coral. Puede encontrar 2 garabatos en la zona 3 y 3 garabatos en la zona 15 en la putrefacta Vale. Cuando regresa al Astera, el investigador quiere que se dispuso a encontrar el campamento Gajalaka. \\ N \\ nBuscar el investigador en la zona 8 en el hueco de dragón. Con el fin de iniciar la generosidad, que tiene que ser la noche. Poner en su Ghillie Mantle y hablar con el líder en el fuego de campamento en la parte trasera del campamento. Recompensa: Su Palico ahora puede utilizar meowlotov cóctel y hablar con Gastodon."
+      "Translation": "Esta recompensa puede ser recogido en el Investigador Lynian en Astera después de haber completado los primeros 4 misiones Lynian de investigación. El investigador pregunta a descubrir 10 Gajalaka garabatos. \\ N \\ nSe es importante tener en cuenta que estos sólo desovan durante esta recompensa y sólo en lugares de alto rango. Puede encontrar 1 Doodle en el área 5 y 1 Doodle en la zona 15 en el bosque antiguo. Puede encontrar 1 Doodle en el área 3 y 1 del Doodle en la zona 7 de la Wildspire residuos. \\ N \\ nNo puede encontrar 1 Doodle en la zona 12 en las tierras altas de coral. Puede encontrar 2 garabatos en la zona 3 y 3 garabatos en la zona 15 en la putrefacta Vale. Cuando regresa al Astera, el investigador quiere que se dispuso a encontrar el campamento Gajalaka. \\ N \\ nBuscar el investigador en la zona 8 en el hueco de dragón. Con el fin de iniciar la generosidad, que tiene que ser la noche. Poner en su Ghillie Mantle y hablar con el líder en el fuego de campamento en la parte trasera del campamento. Recompensa: Su Palico ahora puede utilizar meowlotov cóctel y hablar con Gastodon."
     },
     "critical-bounties-important": {
       "Key": "critical-bounties-important",
@@ -7749,7 +7749,7 @@ export default {
     },
     "critical-bounties-troupers-tips": {
       "Key": "critical-bounties-troupers-tips",
-      "Translation": "En las tierras altas de coral: Troupers pueden encontrarse en la zona 11 por el camino muy angosto hacia al noreste (Noreste Camp (12)). Te piden que matar a 2 Tzitzi-Ya-Ku en la misión “Troupers turbulentas” opcionales. Recompensa: Su Palico ahora puede usar la orquesta coral y hablar con Shamos."
+      "Translation": "En las tierras altas de coral: Troupers se pueden encontrar en la zona 11 a través del camino muy estrecho que conduce al noreste (Northeast Camp (12)). Te piden que matar a 2 Tzitzi-Ya-Ku en la misión “Troupers turbulentas” opcionales. Recompensa: Su Palico ahora puede usar la orquesta coral y hablar con Shamos."
     },
     "endemic-life-andangler-description": {
       "Key": "endemic-life-andangler-description",
@@ -8573,7 +8573,7 @@ export default {
     },
     "monster-anjanath-characteristics": {
       "Key": "monster-anjanath-characteristics",
-      "Translation": "Las patrullas Anjanath el bosque antiguo, buscando su comida favorita, Aptonoth. Este monstruo agresivo atacará cualquier cosa sin duda alguna."
+      "Translation": "Las patrullas Anjanath el bosque antiguo, en busca de su comida favorita, Aptonoth. Este monstruo agresivo atacará cualquier cosa sin duda alguna."
     },
     "monster-anjanath-useful-information": {
       "Key": "monster-anjanath-useful-information",
@@ -8789,7 +8789,7 @@ export default {
     },
     "monster-great-jagras-characteristics": {
       "Key": "monster-great-jagras-characteristics",
-      "Translation": "El líder de la manada de la Jagras. Cuando se conocen hambrientos, Great Jagras para atacar a los monstruos más fuertes Tham sí mismos. Es hincha de una manera increíble después de tragar presas."
+      "Translation": "El líder de la manada de la Jagras. Cuando se conocen hambrientos, Great Jagras para atacar a los monstruos más fuertes Tham sí mismos. Se hincha a proporciones increíbles después de tragar presas."
     },
     "monster-great-jagras-useful-information": {
       "Key": "monster-great-jagras-useful-information",
@@ -9569,7 +9569,7 @@ export default {
     },
     "play-guide-deploying-tailraider-safaris-description": {
       "Key": "play-guide-deploying-tailraider-safaris-description",
-      "Translation": "Puede implementar Tailraiders y Palicoes otros jugadores en safaris expedicionaria, donde van a recoger objetos y materiales y desbloquear las investigaciones para usted. investigaciones apuntan costo Safaris a desplegar."
+      "Translation": "Puede implementar Tailraiders y Palicoes otros jugadores en safaris expedicionaria, donde van a recoger objetos y materiales y desbloquear las investigaciones para usted. investigaciones apuntan costo safaris a desplegar."
     },
     "play-guide-deployment-routes": {
       "Key": "play-guide-deployment-routes",
@@ -10593,7 +10593,7 @@ export default {
     },
     "play-guide-the-argosy-sets-sail-description": {
       "Key": "play-guide-the-argosy-sets-sail-description",
-      "Translation": "El Argosy sólo queda en puerto por un tiempo limitado."
+      "Translation": "El Argosy sólo queda en el puerto durante un tiempo limitado."
     },
     "play-guide-the-botanical-research-center": {
       "Key": "play-guide-the-botanical-research-center",
@@ -10637,7 +10637,7 @@ export default {
     },
     "play-guide-the-intrepid-field-researchers-description": {
       "Key": "play-guide-the-intrepid-field-researchers-description",
-      "Translation": "Hay investigadores de la Comisión de que enfrentarse a los varios lugares para estudiar una variedad de temas, además de los monstruos. Encuentra a cabo en el campo y seapk con ellos para aprender consejos útiles."
+      "Translation": "Hay investigadores dentro de la Comisión de que enfrentarse a los varios lugares para estudiar una variedad de temas, además de los monstruos. Encuentra a cabo en el campo y seapk con ellos para aprender consejos útiles."
     },
     "play-guide-the-new-world": {
       "Key": "play-guide-the-new-world",
@@ -10685,7 +10685,7 @@ export default {
     },
     "play-guide-the-training-area-description": {
       "Key": "play-guide-the-training-area-description",
-      "Translation": "Puede probar cualquiera de los catorce tipos de armas diferentes en el área de formación. Para viajar a la zona de entrenamiento, hablar con el ama de llaves en su habitación."
+      "Translation": "Puede probar cualquiera de los catorce tipos de armas diferentes en el área de capacitación. Para viajar a la zona de entrenamiento, hablar con el ama de llaves en su habitación."
     },
     "play-guide-tip-list": {
       "Key": "play-guide-tip-list",
@@ -10825,7 +10825,7 @@ export default {
     },
     "play-guide-weapon-and-kinsect-combinations-description": {
       "Key": "play-guide-weapon-and-kinsect-combinations-description",
-      "Translation": "Se puede dotar a su guja de insectos con los diferentes tipos de Kinsects. Considere cada tipo Kinsect junto a los refuerzos de tipo Glaive para encontrar combinaciones eficaces."
+      "Translation": "Puede equipar su guja de insectos con diferentes tipos de Kinsects. Considere cada tipo Kinsect junto a los refuerzos de tipo Glaive para encontrar combinaciones eficaces."
     },
     "play-guide-weapon-info": {
       "Key": "play-guide-weapon-info",
@@ -11101,7 +11101,7 @@ export default {
     },
     "quest-a-humid-headache-description": {
       "Key": "quest-a-humid-headache-description",
-      "Translation": "Este clima es tan húmedo que se podía cortar el aire con gran espada! Nuestro departamento podría por lo que algunos de climatización y sé que sólo el monstruo que puede proporcionar algún alivio!"
+      "Translation": "Este clima es tan húmedo que se podía cortar el aire con gran espada! Nuestro departamento podría por lo que algunos climatizador y sé que solo el monstruo que puede proporcionar algún alivio!"
     },
     "quest-a-kestodon-kerfuffle": {
       "Key": "quest-a-kestodon-kerfuffle",
@@ -11141,7 +11141,7 @@ export default {
     },
     "quest-a-nose-for-an-eye-description": {
       "Key": "quest-a-nose-for-an-eye-description",
-      "Translation": "En mi día, no necesitamos estas Scoutflies para localizar a los monstruos, pero este es el nuevo mundo ... He localizado algunos monstruos interesantes para usted. Ve por ellos. (Puntos de bonificación de recursos humanos premiados al finalizar.)"
+      "Translation": "En mi día, no necesitamos estas Scoutflies para localizar a los monstruos, pero esto es el nuevo mundo ... He localizado algunos monstruos interesantes para usted. Ve por ellos. (Puntos de bonificación de recursos humanos premiados al finalizar.)"
     },
     "quest-a-portent-of-disaster": {
       "Key": "quest-a-portent-of-disaster",
@@ -12361,7 +12361,7 @@ export default {
     },
     "quest-legiana-highlands-royalty": {
       "Key": "quest-legiana-highlands-royalty",
-      "Translation": "Legiana: Highlands Royalty"
+      "Translation": "Legiana: Royalty Highlands"
     },
     "quest-legiana-highlands-royalty-description": {
       "Key": "quest-legiana-highlands-royalty-description",
@@ -13061,7 +13061,7 @@ export default {
     },
     "quest-royal-relocation-tips": {
       "Key": "quest-royal-relocation-tips",
-      "Translation": "No se moleste con la protección del veneno si no se puede evitar por completo, así que traiga Antídoto con usted y utilizar el fuego equipos resistentes. Empezar desde suroeste Camp (1), hacia el norte en el bosque sector 2 para encontrar el objetivo. Rathian sigue siendo susceptible al veneno a pesar de sus ataques de veneno por lo que el Poisoncup en el sector 3 se pueden utilizar. Su nido está en el otro lado del mapa en el sector 12, los viajes rápidos a Campo del Este (11) y subir las vides después del agua."
+      "Translation": "No se moleste con la protección del veneno si no se puede evitar por completo, así que traiga Antídoto con usted y usar equipos contra incendios resistentes. Empezar desde suroeste Camp (1), hacia el norte en el bosque sector 2 para encontrar el objetivo. Rathian sigue siendo susceptible al veneno a pesar de sus ataques de veneno por lo que el Poisoncup en el sector 3 se pueden utilizar. Su nido está en el otro lado del mapa en el sector 12, los viajes rápidos a Campo del Este (11) y subir las vides después del agua."
     },
     "quest-rrrrrumble-in-the-waste": {
       "Key": "quest-rrrrrumble-in-the-waste",
@@ -13817,7 +13817,7 @@ export default {
     },
     "quest-todays-special-hunter-flambe-description": {
       "Key": "quest-todays-special-hunter-flambe-description",
-      "Translation": "Socio, somos parte de la cadena alimentaria también si se piensa en ello. Y eso es una mala noticia para nosotros si un Deviljho consigue un antojo de una hamburguesa cazador! Por lo tanto, vamos a cazarlo antes de estar el almuerzo!"
+      "Translation": "Socio, somos parte de la cadena alimentaria también si se piensa en ello. Y eso es una mala noticia para nosotros si un Deviljho consigue un antojo de una hamburguesa cazador! Por lo tanto, vamos a cazarlo antes de que estemos almuerzo!"
     },
     "quest-todays-special-hunter-flambe-notes": {
       "Key": "quest-todays-special-hunter-flambe-notes",
@@ -14585,7 +14585,7 @@ export default {
     },
     "skill-blight-resistance-2": {
       "Key": "skill-blight-resistance-2",
-      "Translation": "Reduce la duración de todos los tizones elementales en un 60%."
+      "Translation": "Reduce la duración de todas las plagas elementales en un 60%."
     },
     "skill-blight-resistance-3": {
       "Key": "skill-blight-resistance-3",
@@ -15129,7 +15129,7 @@ export default {
     },
     "skill-evade-extender-3": {
       "Key": "skill-evade-extender-3",
-      "Translation": "Enormemente se extiende la distancia evasión."
+      "Translation": "En gran medida se extiende la distancia evasión."
     },
     "skill-evade-extender-description": {
       "Key": "skill-evade-extender-description",
@@ -16137,7 +16137,7 @@ export default {
     },
     "skill-power-prolonger-description": {
       "Key": "skill-power-prolonger-description",
-      "Translation": "Permite largas espadas, cuchillas dobles, glaives de insectos, ejes de conmutación, y sus hojas carga para permanecer encendido por más tiempo."
+      "Translation": "Permite largas espadas, cuchillas dobles, glaives de insectos, ejes de conmutación, y sus hojas de carga para permanecer encendido por más tiempo."
     },
     "skill-pro-transporter": {
       "Key": "skill-pro-transporter",
@@ -16449,7 +16449,7 @@ export default {
     },
     "skill-speed-eating-1": {
       "Key": "skill-speed-eating-1",
-      "Translation": "Muy poco se supera en velocidad el uso del artículo."
+      "Translation": "Poco se supera en velocidad el uso del artículo."
     },
     "skill-speed-eating-2": {
       "Key": "skill-speed-eating-2",
@@ -16541,7 +16541,7 @@ export default {
     },
     "skill-stamina-surge-3": {
       "Key": "skill-stamina-surge-3",
-      "Translation": "velocidad recuperación Resistencia + 30%."
+      "Translation": "la velocidad de recuperación de Resistencia + 30%."
     },
     "skill-stamina-surge-description": {
       "Key": "skill-stamina-surge-description",
@@ -16677,7 +16677,7 @@ export default {
     },
     "skill-tool-specialist-2": {
       "Key": "skill-tool-specialist-2",
-      "Translation": "Acorta el tiempo hasta reutilizar en un 10%."
+      "Translation": "Acorta el tiempo hasta reutilizar un 10%."
     },
     "skill-tool-specialist-3": {
       "Key": "skill-tool-specialist-3",
@@ -16797,7 +16797,7 @@ export default {
     },
     "skill-wide-range-5": {
       "Key": "skill-wide-range-5",
-      "Translation": "Elementos afectan a los aliados cercanos en un radio mucho más amplia, con plena eficacia."
+      "Translation": "Los productos que afectan a los aliados cercanos en un radio mucho más amplia, con plena eficacia."
     },
     "skill-wide-range-description": {
       "Key": "skill-wide-range-description",
@@ -17393,7 +17393,7 @@ export default {
     },
     "trophy-power-is-everything": {
       "Key": "trophy-power-is-everything",
-      "Translation": "Poder lo es todo"
+      "Translation": "El poder es Todo"
     },
     "trophy-power-is-everything-description": {
       "Key": "trophy-power-is-everything-description",
@@ -17921,7 +17921,7 @@ export default {
     },
     "weapon-dual-blades-freeze-chain-ii": {
       "Key": "weapon-dual-blades-freeze-chain-ii",
-      "Translation": "II Cadena de congelación"
+      "Translation": "Cadena congelación II"
     },
     "weapon-dual-blades-freeze-daggers-i": {
       "Key": "weapon-dual-blades-freeze-daggers-i",
@@ -22569,7 +22569,7 @@ export default {
     },
     "weapon-tree-nightshade-lumu-tree": {
       "Key": "weapon-tree-nightshade-lumu-tree",
-      "Translation": "Solanáceas Lumu árbol"
+      "Translation": "Solanáceas Lumu Árbol"
     },
     "weapon-great-sword-nyx-razor-i": {
       "Key": "weapon-great-sword-nyx-razor-i",
@@ -22762,5 +22762,289 @@ export default {
     "weapon-great-sword-xiphias-gladius": {
       "Key": "weapon-great-sword-xiphias-gladius",
       "Translation": "Xiphias Gladius"
+    },
+    "weapon-lance-chrome-drill-i": {
+      "Key": "weapon-lance-chrome-drill-i",
+      "Translation": "Chrome Taladro I"
+    },
+    "weapon-lance-chrome-drill-ii": {
+      "Key": "weapon-lance-chrome-drill-ii",
+      "Translation": "Chrome Taladro II"
+    },
+    "weapon-lance-incessant-raven": {
+      "Key": "weapon-lance-incessant-raven",
+      "Translation": "incesante cuervo"
+    },
+    "weapon-lance-incessant-wolf": {
+      "Key": "weapon-lance-incessant-wolf",
+      "Translation": "incesante Lobo"
+    },
+    "weapon-lance-ruinous-perdition": {
+      "Key": "weapon-lance-ruinous-perdition",
+      "Translation": "Perdición ruinosa"
+    },
+    "weapon-lance-legiana-halberd-iii": {
+      "Key": "weapon-lance-legiana-halberd-iii",
+      "Translation": "Legiana Halberd III"
+    },
+    "weapon-lance-hoarcry-halberd": {
+      "Key": "weapon-lance-hoarcry-halberd",
+      "Translation": "Hoarcry Halberd"
+    },
+    "weapon-lance-nyx-halberd-i": {
+      "Key": "weapon-lance-nyx-halberd-i",
+      "Translation": "Nyx Halberd I"
+    },
+    "weapon-lance-nyx-halberd-ii": {
+      "Key": "weapon-lance-nyx-halberd-ii",
+      "Translation": "Nyx Halberd II"
+    },
+    "weapon-lance-minqar-al-nasr-i": {
+      "Key": "weapon-lance-minqar-al-nasr-i",
+      "Translation": "Minqar al-Nasr I"
+    },
+    "weapon-lance-tusk-lance": {
+      "Key": "weapon-lance-tusk-lance",
+      "Translation": "colmillo de la lanza"
+    },
+    "weapon-lance-tusk-lance-plus": {
+      "Key": "weapon-lance-tusk-lance-plus",
+      "Translation": "Lanza colmillo +"
+    },
+    "weapon-lance-sabertooth": {
+      "Key": "weapon-lance-sabertooth",
+      "Translation": "Sabertooth"
+    },
+    "weapon-lance-gama-drill-i": {
+      "Key": "weapon-lance-gama-drill-i",
+      "Translation": "Gama Taladro I"
+    },
+    "weapon-lance-gama-drill-ii": {
+      "Key": "weapon-lance-gama-drill-ii",
+      "Translation": "Gama Taladro II"
+    },
+    "weapon-lance-hidden-hastur-i": {
+      "Key": "weapon-lance-hidden-hastur-i",
+      "Translation": "Me oculto Hastur-"
+    },
+    "weapon-lance-hidden-hastur-ii": {
+      "Key": "weapon-lance-hidden-hastur-ii",
+      "Translation": "Oculto Hastur- II"
+    },
+    "weapon-lance-lightning-bolt-i": {
+      "Key": "weapon-lance-lightning-bolt-i",
+      "Translation": "Lightning Bolt I"
+    },
+    "weapon-lance-lightning-bolt-ii": {
+      "Key": "weapon-lance-lightning-bolt-ii",
+      "Translation": "Rayo II"
+    },
+    "weapon-lance-thunderpierce-i": {
+      "Key": "weapon-lance-thunderpierce-i",
+      "Translation": "me Thunderpierce"
+    },
+    "weapon-lance-thunderpierce-ii": {
+      "Key": "weapon-lance-thunderpierce-ii",
+      "Translation": "Thunderpierce II"
+    },
+    "weapon-lance-datura-stalk-i": {
+      "Key": "weapon-lance-datura-stalk-i",
+      "Translation": "Datura Tallo I"
+    },
+    "weapon-lance-datura-stalk-ii": {
+      "Key": "weapon-lance-datura-stalk-ii",
+      "Translation": "Datura tallo II"
+    },
+    "weapon-lance-laguna-pike-i": {
+      "Key": "weapon-lance-laguna-pike-i",
+      "Translation": "Laguna Pike I"
+    },
+    "weapon-lance-laguna-pike-ii": {
+      "Key": "weapon-lance-laguna-pike-ii",
+      "Translation": "Laguna II Pike"
+    },
+    "weapon-lance-blue-prominence-plus": {
+      "Key": "weapon-lance-blue-prominence-plus",
+      "Translation": "Azul prominencia +"
+    },
+    "weapon-lance-soul-prominence": {
+      "Key": "weapon-lance-soul-prominence",
+      "Translation": "La prominencia alma"
+    },
+    "weapon-lance-silver-prominence": {
+      "Key": "weapon-lance-silver-prominence",
+      "Translation": "La prominencia de plata"
+    },
+    "weapon-lance-grand-halberd-i": {
+      "Key": "weapon-lance-grand-halberd-i",
+      "Translation": "Gran Halberd I"
+    },
+    "weapon-lance-grand-halberd-ii": {
+      "Key": "weapon-lance-grand-halberd-ii",
+      "Translation": "Gran Halberd II"
+    },
+    "weapon-lance-grand-halberd-iii": {
+      "Key": "weapon-lance-grand-halberd-iii",
+      "Translation": "Gran Halberd III"
+    },
+    "weapon-lance-iceborer": {
+      "Key": "weapon-lance-iceborer",
+      "Translation": "Iceborer"
+    },
+    "weapon-lance-knightly-ectis": {
+      "Key": "weapon-lance-knightly-ectis",
+      "Translation": "Knightly Ectis"
+    },
+    "weapon-lance-loves-tragedy": {
+      "Key": "weapon-lance-loves-tragedy",
+      "Translation": "La tragedia de amor"
+    },
+    "weapon-lance-loves-end": {
+      "Key": "weapon-lance-loves-end",
+      "Translation": "Fin del amor"
+    },
+    "weapon-lance-abyss-aggressor-i": {
+      "Key": "weapon-lance-abyss-aggressor-i",
+      "Translation": "Abismo agresor I"
+    },
+    "weapon-lance-abyss-aggressor-ii": {
+      "Key": "weapon-lance-abyss-aggressor-ii",
+      "Translation": "Abismo agresor II"
+    },
+    "weapon-lance-svarog-blazer": {
+      "Key": "weapon-lance-svarog-blazer",
+      "Translation": "svarog Blazer"
+    },
+    "weapon-lance-svarog-blazer-plus": {
+      "Key": "weapon-lance-svarog-blazer-plus",
+      "Translation": "Svarog Blazer +"
+    },
+    "weapon-lance-glavenus-granat": {
+      "Key": "weapon-lance-glavenus-granat",
+      "Translation": "Glavenus Granat"
+    },
+    "weapon-lance-barroth-halberd-i": {
+      "Key": "weapon-lance-barroth-halberd-i",
+      "Translation": "Barroth Halberd I"
+    },
+    "weapon-lance-barroth-halberd-ii": {
+      "Key": "weapon-lance-barroth-halberd-ii",
+      "Translation": "Barroth Halberd II"
+    },
+    "weapon-lance-dios-halberd-i": {
+      "Key": "weapon-lance-dios-halberd-i",
+      "Translation": "Dios me Halberd"
+    },
+    "weapon-lance-dios-halberd-ii": {
+      "Key": "weapon-lance-dios-halberd-ii",
+      "Translation": "Dios Halberd II"
+    },
+    "weapon-lance-odogarons-misery-i": {
+      "Key": "weapon-lance-odogarons-misery-i",
+      "Translation": "La miseria que de Odogaron"
+    },
+    "weapon-lance-odogarons-misery-ii": {
+      "Key": "weapon-lance-odogarons-misery-ii",
+      "Translation": "La miseria II de Odogaron"
+    },
+    "weapon-lance-death-garon-lance": {
+      "Key": "weapon-lance-death-garon-lance",
+      "Translation": "La muerte Garon Lanza"
+    },
+    "weapon-lance-water-spike-iv": {
+      "Key": "weapon-lance-water-spike-iv",
+      "Translation": "Agua de Spike IV"
+    },
+    "weapon-lance-hydros-ullr": {
+      "Key": "weapon-lance-hydros-ullr",
+      "Translation": "Hydros Ull"
+    },
+    "weapon-lance-tiger-stinger": {
+      "Key": "weapon-lance-tiger-stinger",
+      "Translation": "tigre Stinger"
+    },
+    "weapon-lance-tiger-stinger-plus": {
+      "Key": "weapon-lance-tiger-stinger-plus",
+      "Translation": "Tigre Stinger +"
+    },
+    "weapon-lance-tigrex-lance": {
+      "Key": "weapon-lance-tigrex-lance",
+      "Translation": "tigrex lanza"
+    },
+    "weapon-lance-accursed-stinger": {
+      "Key": "weapon-lance-accursed-stinger",
+      "Translation": "maldita Stinger"
+    },
+    "weapon-lance-backbite": {
+      "Key": "weapon-lance-backbite",
+      "Translation": "Murmurar"
+    },
+    "weapon-lance-sulfurteinn-keton": {
+      "Key": "weapon-lance-sulfurteinn-keton",
+      "Translation": "Sulfurteinn Keton"
+    },
+    "weapon-lance-the-solvent-spindle": {
+      "Key": "weapon-lance-the-solvent-spindle",
+      "Translation": "El disolvente husillo"
+    },
+    "weapon-lance-dragonseal-aldspear-i": {
+      "Key": "weapon-lance-dragonseal-aldspear-i",
+      "Translation": "Dragonseal Aldspear I"
+    },
+    "weapon-lance-unblinking-gatekeeper": {
+      "Key": "weapon-lance-unblinking-gatekeeper",
+      "Translation": "Gatekeeper sin parpadear"
+    },
+    "weapon-lance-blasting-siegespear": {
+      "Key": "weapon-lance-blasting-siegespear",
+      "Translation": "voladura Siegespear"
+    },
+    "weapon-lance-bazel-rocket-rooksearer": {
+      "Key": "weapon-lance-bazel-rocket-rooksearer",
+      "Translation": "Bazel Rooksearer Rocket"
+    },
+    "weapon-lance-naar-thunderlance": {
+      "Key": "weapon-lance-naar-thunderlance",
+      "Translation": "naar Thunderlance"
+    },
+    "weapon-lance-daoras-regulus": {
+      "Key": "weapon-lance-daoras-regulus",
+      "Translation": "Regulus de daora"
+    },
+    "weapon-lance-lost-babel": {
+      "Key": "weapon-lance-lost-babel",
+      "Translation": "Babel perdido"
+    },
+    "weapon-lance-fates-spindle": {
+      "Key": "weapon-lance-fates-spindle",
+      "Translation": "Husillo de destino"
+    },
+    "weapon-lance-soulfire-spike-blaze": {
+      "Key": "weapon-lance-soulfire-spike-blaze",
+      "Translation": "Soulfire Spike \"Blaze\""
+    },
+    "weapon-lance-soulfire-spike-ruin": {
+      "Key": "weapon-lance-soulfire-spike-ruin",
+      "Translation": "Soulfire Spike \"Ruina\""
+    },
+    "weapon-lance-soulfire-spike-styx": {
+      "Key": "weapon-lance-soulfire-spike-styx",
+      "Translation": "Soulfire Spike \"Styx\""
+    },
+    "weapon-lance-shining-star-lance": {
+      "Key": "weapon-lance-shining-star-lance",
+      "Translation": "Shining Star Lanza"
+    },
+    "weapon-lance-sweeping-gale-lance": {
+      "Key": "weapon-lance-sweeping-gale-lance",
+      "Translation": "Gale lanza de barrido"
+    },
+    "weapon-lance-demon-lance": {
+      "Key": "weapon-lance-demon-lance",
+      "Translation": "demonio de Lance"
+    },
+    "weapon-lance-great-demon-lance": {
+      "Key": "weapon-lance-great-demon-lance",
+      "Translation": "Gran Lanza Demonio"
     }
   }

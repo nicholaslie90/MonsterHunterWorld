@@ -16452,7 +16452,7 @@ let swordAndShieldTree = [{
         ]
     },
     {
-        title: 'Great Girros Tree',
+        title: 'weapon-tree-great-girros-tree',
         data: [{
                 'name': 'Girros Knife I',
                 'from': 'Blooming Knife I',
@@ -17047,7 +17047,7 @@ let swordAndShieldTree = [{
         ]
     },
     {
-        title: 'Radobaan Tree',
+        title: 'weapon-tree-radobaan-tree',
         data: [{
                 'name': 'Spiked Edge I',
                 'from': 'Bone Kukri III',
@@ -17297,7 +17297,7 @@ let swordAndShieldTree = [{
         ]
     },
     {
-        title: 'Great Jagras Tree',
+        title: 'weapon-tree-great-jagras-tree',
         data: [{
                 'name': 'Jagras Edge I',
                 'from': 'Bone Kukri II',
@@ -17598,7 +17598,7 @@ let swordAndShieldTree = [{
         ]
     },
     {
-        title: 'Thunder Element Tree',
+        title: 'weapon-tree-thunder-element-tree',
         data: [{
                 'name': 'Thunder Edge I',
                 'from': 'Jagras Edge I',
@@ -17849,7 +17849,7 @@ let swordAndShieldTree = [{
         ]
     },
     {
-        title: 'Barroth Tree',
+        title: 'weapon-tree-barroth-tree',
         data: [{
                 'name': 'Carapace Edge I',
                 'from': 'Bone Kukri II',
@@ -28132,7 +28132,7 @@ let hammerTree = [{
         ]
     },
     {
-        title: 'Great Girros Tree',
+        title: 'weapon-tree-great-girros-tree',
         data: [{
                 'name': 'Girros Hammer I',
                 'from': 'Aqua Hammer I',
@@ -28620,7 +28620,7 @@ let hammerTree = [{
         ]
     },
     {
-        title: 'Thunder Element Tree',
+        title: 'weapon-tree-thunder-element-tree',
         data: [{
                 'name': 'Thunder Hammer I',
                 'from': 'Blooming Hammer I',
@@ -29327,7 +29327,7 @@ let hammerTree = [{
         ]
     },
     {
-        title: 'Radobaan Tree',
+        title: 'weapon-tree-radobaan-tree',
         data: [{
                 'name': 'Bone Spike I',
                 'from': 'Bone Bludgeon III',
@@ -30175,7 +30175,7 @@ let hammerTree = [{
         ]
     },
     {
-        title: 'Barroth Tree',
+        title: 'weapon-tree-barroth-tree',
         data: [{
                 'name': 'Carapace Sledge I',
                 'from': 'Bone Bludgeon II',
@@ -31894,7 +31894,7 @@ let hammerTree = [{
         }, ]
     },
     {
-        title: 'Empress Mace',
+        title: 'weapon-tree-lunastra-tree',
         data: [{
             'name': 'Empress Mace',
             'translationKey': 'weapon-hammer-empress-mace',
@@ -32792,7 +32792,7 @@ let huntingHornTree = [{
         ]
     },
     {
-        title: 'Thunder Element Tree',
+        title: 'weapon-tree-thunder-element-tree',
         data: [{
                 'name': 'Thunder Gaida I',
                 'from': 'Metal Bagpipe III',
@@ -35224,7 +35224,7 @@ let huntingHornTree = [{
         ]
     },
     {
-        title: 'Dodogama Tree',
+        title: 'weapon-tree-dodogama-tree',
         data: [{
                 'name': 'Gama Horn I',
                 'from': 'Hard Bone Horn III',
@@ -36663,7 +36663,7 @@ let huntingHornTree = [{
         ]
     },
     {
-        title: 'Vespoid Tree',
+        title: 'weapon-tree-vespoid-tree',
         data: [{
                 'name': 'Sonic Horn I',
                 'from': 'Bone Horn II',
@@ -37104,7 +37104,7 @@ let huntingHornTree = [{
         ]
     },
     {
-        title: 'Radobaan Tree',
+        title: 'weapon-tree-radobaan-tree',
         data: [{
                 'name': 'Spiked Horn I',
                 'from': 'Sonic Horn I',
@@ -39923,8 +39923,170 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Chrome Drill I',
+                'from': 'Chrome Lance II',
+                'translationKey': 'weapon-lance-chrome-drill-i',
+                'icon': require('./assets/weapons/lance/chrome_drill_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-lance.png'),
+                'type': 'Lance',
+                'rarity': '9',
+                'attack': '506',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Paralysis (300)',
+                'slots': '1 1 -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Eltalite Ore',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Carbalite Ore',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Spiritvein Crystal',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Gracium',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Chrome Drill II',
+                'from': 'Chrome Drill I',
+                'translationKey': 'weapon-lance-chrome-drill-ii',
+                'icon': require('./assets/weapons/lance/chrome_drill_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+                'type': 'Lance',
+                'rarity': '10',
+                'attack': '552',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Paralysis (330)',
+                'slots': '1 1 -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Eltalite Ore',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Meldspar Ore',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Bathycite Ore',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Chrome Drill III',
+                'from': 'Chrome Drill II',
+                'translationKey': 'weapon-lance-chrome-drill-iii',
+                'icon': require('./assets/weapons/lance/chrome_drill_iii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+                'type': 'Lance',
+                'rarity': '11',
+                'attack': '598',
+                'sharpness': 'purple',
+                'affinity': '0%',
+                'element': 'Paralysis (360)',
+                'slots': '1 1 -',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Pure Dragon Blood',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Eltalite Ore',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Meldspar Ore',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Purecrystal',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-yian-garuga-tree',
+        data: [{
+            'name': 'Incessant Raven',
+            'from': 'Chrome Drill II',
+            'translationKey': 'weapon-lance-incessant-raven',
+            'icon': require('./assets/weapons/lance/incessant_raven.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+            'type': 'Lance',
+            'rarity': '10',
+            'attack': '598',
+            'sharpness': 'purple',
+            'affinity': '20%',
+            'element': 'Poison 210',
+            'slots': '3 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Garuga Shard',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Garuga Silverpelt',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Garuga Auricle',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Fey Wyvern Gem',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Incessant Wolf',
+            'from': 'Incessant Raven',
+            'translationKey': 'weapon-lance-incessant-wolf',
+            'icon': require('./assets/weapons/lance/incessant_wolf.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+            'type': 'Lance',
+            'rarity': '11',
+            'attack': '621',
+            'sharpness': 'purple',
+            'affinity': '25%',
+            'element': 'Poison 240',
+            'slots': '3 - -',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Scratched Shell',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Garuga Fellwing',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Fancy Beak',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Large Wyvern Gem',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-nergigante-tree',
@@ -40029,8 +40191,40 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-
-            }
+            },
+            {
+                'name': 'Ruinous Perdition',
+                'from': 'Perdition\'s Hand',
+                'translationKey': 'weapon-lance-ruinous-perdition',
+                'icon': require('./assets/weapons/lance/ruinous_perdition.png'),
+                'weaponIcon': require('./assets/weapons/rarity/12-lance.png'),
+                'type': 'Lance',
+                'rarity': '12',
+                'attack': '667',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 180',
+                'elderseal': 'High',
+                'slots': '1 - -',
+                'cost': '80000',
+                'materials': [{
+                        'name': 'Annihilating Greathorn',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Nergigante Hardclaw',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Eternal Regrowth Plate',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Large Elder Dragon Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -40226,8 +40420,137 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Legiana Halberd III',
+                'from': 'Legiana Halberd II',
+                'translationKey': 'weapon-lance-legiana-halberd-iii',
+                'icon': require('./assets/weapons/lance/legiana_halberd_iii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+                'type': 'Lance',
+                'rarity': '10',
+                'attack': '483',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Ice 420',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Legiana Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Legiana Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Legiana Tail Webbing+',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Frozen Bone',
+                        'quantity': '4'
+                    }
+                ],
+            },
+            {
+                'name': 'Hoarcry Halberd',
+                'from': 'Legiana Halberd III',
+                'translationKey': 'weapon-lance-hoarcry-halberd',
+                'icon': require('./assets/weapons/lance/hoarcry_halberd.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+                'type': 'Lance',
+                'rarity': '10',
+                'attack': '529',
+                'sharpness': 'purple',
+                'affinity': '0%',
+                'element': 'Ice 540',
+                'slots': '1 - -',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Obsidian Icetalon',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Rimed Hide',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Stark Wing',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Cryo Sac',
+                        'quantity': '4'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-nighshade-lumu-tree',
+        data: [{
+            'name': 'Nyx Halberd I',
+            'from': 'Legiana Halberd II',
+            'translationKey': 'weapon-lance-nyx-halberd-i',
+            'icon': require('./assets/weapons/lance/nyx_halberd_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/9-lance.png'),
+            'type': 'Lance',
+            'rarity': '9',
+            'attack': '506',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Sleep 360',
+            'slots': '2 - -',
+            'cost': '20000',
+            'materials': [{
+                    'name': 'Nightshade Paolumu Thickfur',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Paolumu Cortex',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Nightshade Paolumu Fellwing',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Torpor Sac',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Nyx Halberd II',
+            'from': 'Nyx Halberd I',
+            'translationKey': 'weapon-lance-nyx-halberd-ii',
+            'icon': require('./assets/weapons/lance/nyx_halberd_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+            'type': 'Lance',
+            'rarity': '10',
+            'attack': '552',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Sleep 450',
+            'slots': '2 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Black Diablos Chine',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Nightshade Paolumu Shard',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Nightshade Paolumu Fellwing',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Large Wyvern Gem',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-kulu-ya-ku-tree',
@@ -40508,11 +40831,168 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Minqar al-Nasr I',
+                'from': 'Kulu Hasta III',
+                'translationKey': 'weapon-lance-minqar-al-nasr-i',
+                'icon': require('./assets/weapons/lance/minqar_al_nasr_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-lance.png'),
+                'type': 'Lance',
+                'rarity': '9',
+                'attack': '483',
+                'sharpness': 'white',
+                'affinity': '25%',
+                'element': 'Sleep (390)',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Large Kulu-Ya-Ku Beak',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Kulu-Ya-Ku Thickhide',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Kulu-Ya-Ku Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Thick Bone',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Minqar al-Nasr II',
+                'from': 'Minqar al-Nasr I',
+                'translationKey': 'weapon-lance-minqar-al-nasr-ii',
+                'icon': require('./assets/weapons/lance/minqar_al_nasr_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+                'type': 'Lance',
+                'rarity': '10',
+                'attack': '598',
+                'sharpness': 'white',
+                'affinity': '25%',
+                'element': 'Sleep (420)',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Nargacuga Hardfang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Large Kulu-Ya-Ku Beak',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Large Kulu-Ya-Ku Plume',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    }
+                ],
+            },
         ]
     },
     {
-        title: 'Dodogama Tree',
+        title: 'weapon-tree-barioth-tree',
+        data: [{
+            'name': 'Tusk Lance',
+            'from': 'Minqar al-Nasr I',
+            'translationKey': 'weapon-lance-tusk-lance',
+            'icon': require('./assets/weapons/lance/tusk_lance.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+            'type': 'Lance',
+            'rarity': '10',
+            'attack': '506',
+            'sharpness': 'white',
+            'affinity': '25%',
+            'element': 'Ice 330',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Barioth Hardclaw',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Barioth Cortex',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Cryo Sac',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Frozen Bone',
+                    'quantity': '3'
+                }
+            ],
+        }, {
+            'name': 'Tusk Lance+',
+            'from': 'Tusk Lance',
+            'translationKey': 'weapon-lance-tusk-lance-plus',
+            'icon': require('./assets/weapons/lance/tusk_lance_plus.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+            'type': 'Lance',
+            'rarity': '10',
+            'attack': '552',
+            'sharpness': 'white',
+            'affinity': '25%',
+            'element': 'Ice 360',
+            'slots': '',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Obsidian Icetalon',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Amber Hardfang',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Barioth Greatspike',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Large Wyvern Gem',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Sabertooth',
+            'from': 'Tusk Lance+',
+            'translationKey': 'weapon-lance-sabertooth',
+            'icon': require('./assets/weapons/lance/sabertooth.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+            'type': 'Lance',
+            'rarity': '11',
+            'attack': '575',
+            'sharpness': 'white',
+            'affinity': '30%',
+            'element': 'Ice 420',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Velkhana Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Barioth Hardclaw',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Amber Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Large Elder Dragon Bone',
+                    'quantity': '5'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-dodogama-tree',
         data: [{
                 'name': 'Gama Pilebunker I',
                 'from': 'Kulu Hasta I',
@@ -40608,11 +41088,140 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Gama Drill I',
+                'from': 'Gama Pilebuker II',
+                'translationKey': 'weapon-lance-gama-drill-i',
+                'icon': require('./assets/weapons/lance/gama_drill_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-lance.png'),
+                'type': 'Lance',
+                'rarity': '9',
+                'attack': '460',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Blast 240',
+                'slots': '3 2 -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Dodogama Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Dodogama Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Dodogama Thickhide',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Gastodon Husk',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Gama Drill II',
+                'from': 'Gama Drill I',
+                'translationKey': 'weapon-lance-gama-drill-ii',
+                'icon': require('./assets/weapons/lance/gama_drill_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+                'type': 'Lance',
+                'rarity': '10',
+                'attack': '552',
+                'sharpness': 'purple',
+                'affinity': '0%',
+                'element': 'Blast 270',
+                'slots': '3 2 -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Fine Brachydios Ebonshell',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Dodogama Mandible',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Dodogama Lash',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Monster Slogbone',
+                        'quantity': '5'
+                    }
+                ],
+            },
         ]
     },
     {
-        title: 'Thunder Element Tree',
+        title: 'weapon-tree-nargacuga-tree',
+        data: [{
+            'name': 'Hidden Hastur I',
+            'from': 'Gama Drill I',
+            'translationKey': 'weapon-lance-hidden-hastur-i',
+            'icon': require('./assets/weapons/lance/hidden_hastur_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+            'type': 'Lance',
+            'rarity': '10',
+            'attack': '483',
+            'sharpness': 'white',
+            'affinity': '15%',
+            'element': 'Poison (390)',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Nargacuga Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Nargacuga Shard',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Nargacuga Tailspear',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Meldspar Ore',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Hidden Hastur II',
+            'from': 'Hidden Hastur I',
+            'translationKey': 'weapon-lance-hidden-hastur-ii',
+            'icon': require('./assets/weapons/lance/hidden_hastur_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+            'type': 'Lance',
+            'rarity': '10',
+            'attack': '529',
+            'sharpness': 'purple',
+            'affinity': '20%',
+            'element': 'Poison (570)',
+            'slots': '1 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Fulgur Anjanath Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Nargacuga Cutwing+',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Nargacuga Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Nargacuga Mantle',
+                    'quantity': '1'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-thunder-element-tree',
         data: [{
                 'name': 'Thunder Lance I',
                 'from': 'Kulu Lance I',
@@ -40859,7 +41468,135 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Lightning Bolt I',
+                'from': 'Lightning Spire III',
+                'translationKey': 'weapon-lance-lightning-bolt-i',
+                'icon': require('./assets/weapons/lance/lightning_bolt_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-lance.png'),
+                'type': 'Lance',
+                'rarity': '9',
+                'attack': '483',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Thunder 270',
+                'slots': '2 - -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Tobi-Kadachi Hardclaw',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Shard',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Thickfur',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Lightning Sac',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Lightning Bolt II',
+                'from': 'Lightning Bolt I',
+                'translationKey': 'weapon-lance-lightning-bolt-ii',
+                'icon': require('./assets/weapons/lance/lightning_bolt_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+                'type': 'Lance',
+                'rarity': '10',
+                'attack': '529',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Thunder 300',
+                'slots': '2 - -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Hard Odogaron Sinew',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Cathode',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tobi-Kadachi Membrane+',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Thunderpierce I',
+                'from': 'Lightning Bolt II',
+                'translationKey': 'weapon-lance-thunderpierce-i',
+                'icon': require('./assets/weapons/lance/thunderpierce_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+                'type': 'Lance',
+                'rarity': '10',
+                'attack': '552',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Thunder 360',
+                'slots': '2 - -',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Zinogre Hardclaw',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Zinogre Deathly Shocker',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Zinogre Cortex',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Lightning Sac',
+                        'quantity': '3'
+                    }
+                ],
+            },
+            {
+                'name': 'Thunderpierce II',
+                'from': 'Thunderpierce I',
+                'translationKey': 'weapon-lance-thunderpierce-ii',
+                'icon': require('./assets/weapons/lance/thunderpierce_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+                'type': 'Lance',
+                'rarity': '11',
+                'attack': '575',
+                'sharpness': 'purple',
+                'affinity': '0%',
+                'element': 'Thunder 420',
+                'slots': '2 1 -',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Zinogre Hardhorn',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Zinogre Electrofur+',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Fulgurbug',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Zinogre Skymerald',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -41156,8 +41893,138 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Datura Stalk I',
+                'from': 'Datura Pike III',
+                'translationKey': 'weapon-lance-datura-stalk-i',
+                'icon': require('./assets/weapons/lance/datura_stalk_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-lance.png'),
+                'type': 'Lance',
+                'rarity': '9',
+                'attack': '460',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Poison 600',
+                'slots': '2 1 -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Pukei-Pukei Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Pukei-Pukei Fellwing',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Deadly Poison Sac',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Monster Toughbone',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Datura Stalk II',
+                'from': 'Datura Stalk I',
+                'translationKey': 'weapon-lance-datura-stalk-ii',
+                'icon': require('./assets/weapons/lance/datura_stalk_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+                'type': 'Lance',
+                'rarity': '10',
+                'attack': '552',
+                'sharpness': 'purple',
+                'affinity': '0%',
+                'element': 'Poison 660',
+                'slots': '2 1 -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Rathian Surspike',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Large Pukei-Pukei Sac',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Pukei-Pukei Lash',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-coral-pukei-tree',
+        data: [{
+            'name': 'Laguna Pike I',
+            'from': 'Datura Stalk I',
+            'translationKey': 'weapon-lance-laguna-pike-i',
+            'icon': require('./assets/weapons/lance/laguna_pike_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/9-lance.png'),
+            'type': 'Lance',
+            'rarity': '9',
+            'attack': '506',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Water 510',
+            'slots': '2 1 -',
+            'cost': '20000',
+            'materials': [{
+                    'name': 'Coral Pukei-Pukei Shard',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Coral Pukei-Pukei Fellwing',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Flood Sac',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Bathycite Ore',
+                    'quantity': '2'
+                }
+            ],
+        }, {
+            'name': 'Laguna Pike II',
+            'from': 'Laguna Pike I',
+            'translationKey': 'weapon-lance-laguna-pike-ii',
+            'icon': require('./assets/weapons/lance/laguna_pike_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+            'type': 'Lance',
+            'rarity': '10',
+            'attack': '552',
+            'sharpness': 'purple',
+            'affinity': '0%',
+            'element': 'Water 540',
+            'slots': '2 1 -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Acidic Glavenus Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Monster Solidbone',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Large Coral Pukei-Pukei Sac',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Coral Pukei-Pukei Lash',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-rathalos-tree',
@@ -41409,7 +42276,103 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Blue Prominence+',
+                'from': 'Blue Prominence',
+                'translationKey': 'weapon-lance-blue-prominence-plus',
+                'icon': require('./assets/weapons/lance/blue_prominence_plus.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+                'type': 'Lance',
+                'rarity': '10',
+                'attack': '506',
+                'sharpness': 'white',
+                'affinity': '20%',
+                'element': 'Fire 330',
+                'slots': '1 - -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Rathalos Shard',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Rathalos Cortex',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Rathalos Fellwing',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Rath Wingtalon+',
+                        'quantity': '4'
+                    }
+                ],
+            },
+            {
+                'name': 'Soul Prominence',
+                'from': 'Blue Prominence+',
+                'translationKey': 'weapon-lance-soul-prominence',
+                'icon': require('./assets/weapons/lance/soul_prominence.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+                'type': 'Lance',
+                'rarity': '10',
+                'attack': '552',
+                'sharpness': 'white',
+                'affinity': '20%',
+                'element': 'Fire 360',
+                'slots': '1 - -',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Azure Rathalos Shard',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Azure Rathalos Cortex',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Azure Rathalos Fellwing',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Rathalos Mantle',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Silver Prominence',
+                'from': 'Soul Prominence',
+                'translationKey': 'weapon-lance-silver-prominence',
+                'icon': require('./assets/weapons/lance/silver_prominence.png'),
+                'weaponIcon': require('./assets/weapons/rarity/12-lance.png'),
+                'type': 'Lance',
+                'rarity': '12',
+                'attack': '621',
+                'sharpness': 'purple',
+                'affinity': '20%',
+                'element': 'Fire 390',
+                'slots': '2 - -',
+                'cost': '80000',
+                'materials': [{
+                        'name': 'Silver Rathalos Shard',
+                        'quantity': '8'
+                    },
+                    {
+                        'name': 'Silver Rathalos Cortex',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Silver Rathalos Lash',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Rath Gleam',
+                        'quantity': '2'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -41759,8 +42722,172 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Grand Halberd I',
+                'from': 'Heavy Bone Lance II',
+                'translationKey': 'weapon-lance-grand-halberd-i',
+                'icon': require('./assets/weapons/lance/grand_halberd_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-lance.png'),
+                'type': 'Lance',
+                'rarity': '9',
+                'attack': '529',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Poison (270)',
+                'slots': '3 - -',
+                'defenseBonus': '+35',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Thick Bone',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Quality Bone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Monster Hardbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Frozen Bone',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Grand Halberd II',
+                'from': 'Grand Halberd I',
+                'translationKey': 'weapon-lance-grand-halberd-ii',
+                'icon': require('./assets/weapons/lance/grand_halberd_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+                'type': 'Lance',
+                'rarity': '10',
+                'attack': '575',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Poison (300)',
+                'slots': '3 - -',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Monster Solidbone',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Thick Bone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Monster Essence',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Grand Halberd III',
+                'from': 'Grand Halberd II',
+                'translationKey': 'weapon-lance-grand-halberd-iii',
+                'icon': require('./assets/weapons/lance/grand_halberd_iii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+                'type': 'Lance',
+                'rarity': '11',
+                'attack': '644',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Poison (330)',
+                'slots': '3 - -',
+                'defenseBonus': '+35',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Large Elder Dragon Bone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Monster Solidbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Thick Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Dragonbone Artifact',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-velkhana-tree',
+        data: [{
+            'name': 'Iceborer',
+            'from': 'Grand Halberd II',
+            'translationKey': 'weapon-lance-iceborer',
+            'icon': require('./assets/weapons/lance/iceborer.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+            'type': 'Lance',
+            'rarity': '11',
+            'attack': '598',
+            'sharpness': 'purple',
+            'affinity': '0%',
+            'element': 'Ice 330',
+            'slots': '4 - -',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Crystal Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Velkhana Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Velkhana Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Purecrystal',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Knightly Ectis',
+            'from': 'Iceborer',
+            'translationKey': 'weapon-lance-knightly-ectis',
+            'icon': require('./assets/weapons/lance/knightly_ectis.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-lance.png'),
+            'type': 'Lance',
+            'rarity': '12',
+            'attack': '621',
+            'sharpness': 'purple',
+            'affinity': '0%',
+            'element': 'Ice 360',
+            'slots': '4 - -',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Shara Ishvalda Tenderclaw',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Velkhana Crownhorn',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Velkhana Hardclaw',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Velkhana Crystal',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-vaal-hazak-tree',
@@ -41865,7 +42992,73 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Love\'s Tragedy',
+                'from': 'Love\'s Sorrow',
+                'translationKey': 'weapon-lance-loves-tragedy',
+                'icon': require('./assets/weapons/lance/loves_tragedy.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+                'type': 'Lance',
+                'rarity': '11',
+                'attack': '552',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 360',
+                'elderseal': 'Average',
+                'slots': '2 2 -',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Vaal Hazak Hardclaw',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Shadowpierce Fang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Deceased Shard',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Deathweaver Membrane',
+                        'quantity': '3'
+                    }
+                ],
+            },
+            {
+                'name': 'Love\'s End',
+                'from': 'Love\'s Tragedy',
+                'translationKey': 'weapon-lance-loves-end',
+                'icon': require('./assets/weapons/lance/loves_end.png'),
+                'weaponIcon': require('./assets/weapons/rarity/12-lance.png'),
+                'type': 'Lance',
+                'rarity': '12',
+                'attack': '575',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 480',
+                'elderseal': 'Average',
+                'slots': '2 2 -',
+                'cost': '80000',
+                'materials': [{
+                        'name': 'Shara Ishvalda Tenderclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Vaal Hazak Hardclaw',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Vaal Hazak Flail',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Large Elder Dragon Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -42109,11 +43302,172 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Abyss Aggressor I',
+                'from': 'Dark Stinger III',
+                'translationKey': 'weapon-lance-abyss-aggressor-i',
+                'icon': require('./assets/weapons/lance/abyss_aggressor_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-lance.png'),
+                'type': 'Lance',
+                'rarity': '9',
+                'attack': '460',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Blast (300)',
+                'slots': '3 - -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Hornetaur Razorwing',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Tough Claw',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Monster Essence',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Spiritvein Crystal',
+                        'quantity': '3'
+                    }
+                ],
+            },
+            {
+                'name': 'Abyss Aggressor II',
+                'from': 'Abyss Aggressor I',
+                'translationKey': 'weapon-lance-abyss-aggressor-ii',
+                'icon': require('./assets/weapons/lance/abyss_aggressor_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+                'type': 'Lance',
+                'rarity': '10',
+                'attack': '529',
+                'sharpness': 'purple',
+                'affinity': '0%',
+                'element': 'Blast (360)',
+                'slots': '3 - -',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Odogaron Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Hornetaur Razorwing',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Monster Essence',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Dragonbone Artifact',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
-        title: 'Barroth Tree',
+        title: 'weapon-tree-glavenus-tree',
+        data: [{
+            'name': 'Svarog Blazer',
+            'from': 'Abyss Aggressor I',
+            'translationKey': 'weapon-lance-svarog-blazer',
+            'icon': require('./assets/weapons/lance/svarog_blazer.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+            'type': 'Lance',
+            'rarity': '10',
+            'attack': '506',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Fire 300',
+            'slots': '1 - -',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Glavenus Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Molten Bursa',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Eltalite Ore',
+                    'quantity': '6'
+                }
+            ],
+        }, {
+            'name': 'Svarog Blazer+',
+            'from': 'Svarog Blazer',
+            'translationKey': 'weapon-lance-svarog-blazer-plus',
+            'icon': require('./assets/weapons/lance/svarog_blazer_plus.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+            'type': 'Lance',
+            'rarity': '10',
+            'attack': '552',
+            'sharpness': 'purple',
+            'affinity': '0%',
+            'element': 'Fire 390',
+            'slots': '1 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Ebony Odogaron Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Hellshell',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Glavenus Tailedge',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Mantle',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Glavenus Granat',
+            'from': 'Svarog Blazer+',
+            'translationKey': 'weapon-lance-glavenus-granat',
+            'icon': require('./assets/weapons/lance/glavenus_granat.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+            'type': 'Lance',
+            'rarity': '11',
+            'attack': '598',
+            'sharpness': 'purple',
+            'affinity': '0%',
+            'element': 'Fire 480',
+            'slots': '1 - -',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Fire Dragon Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glavenus Hardfang',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Glavenus Hellshell',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Pure Dragon Blood',
+                    'quantity': '3'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-barroth-tree',
         data: [{
                 'name': 'Carapace Lance I',
                 'from': 'Bone Lance II',
@@ -42412,8 +43766,140 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Barroth Halberd I',
+                'from': 'Barroth Stinger III',
+                'translationKey': 'weapon-lance-barroth-halberd-i',
+                'icon': require('./assets/weapons/lance/barroth_halberd_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-lance.png'),
+                'type': 'Lance',
+                'rarity': '9',
+                'attack': '552',
+                'sharpness': 'white',
+                'affinity': '-20%',
+                'element': 'Paralysis (420)',
+                'slots': '2 1 -',
+                'defenseBonus': '+25',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Barroth Hardclaw',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Barroth Cortex',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Barroth Chine',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Kestodon Husk',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Barroth Halberd II',
+                'from': 'Barroth Halberd I',
+                'translationKey': 'weapon-lance-barroth-halberd-ii',
+                'icon': require('./assets/weapons/lance/barroth_halberd_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+                'type': 'Lance',
+                'rarity': '10',
+                'attack': '621',
+                'sharpness': 'white',
+                'affinity': '-20%',
+                'element': 'Paralysis (450)',
+                'slots': '2 2 -',
+                'defenseBonus': '+25',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Diablos Cortex',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Barroth Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Barroth Crown',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-brachydios-tree',
+        data: [{
+            'name': 'Dios Halberd I',
+            'from': 'Barroth Halberd II',
+            'translationKey': 'weapon-lance-dios-halberd-i',
+            'icon': require('./assets/weapons/lance/dios_halberd_i.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+            'type': 'Lance',
+            'rarity': '10',
+            'attack': '552',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Blast 420',
+            'slots': '',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Brachydios Crown',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Brachydios Cortex',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Glowing Slime',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Meldspar Ore',
+                    'quantity': '3'
+                }
+            ],
+        }, {
+            'name': 'Dios Halberd II',
+            'from': 'Dios Halberd I',
+            'translationKey': 'weapon-lance-dios-halberd-ii',
+            'icon': require('./assets/weapons/lance/dios_halberd_ii.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+            'type': 'Lance',
+            'rarity': '10',
+            'attack': '575',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Blast 480',
+            'slots': '1 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Azure Rathalos Fellwing',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Brachydios Pounder+',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Brachydios Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Glowing Slime',
+                    'quantity': '5'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-odogaron-tree',
@@ -42608,8 +44094,105 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Odogaron\'s Misery I',
+                'from': 'Garon Dhara II',
+                'translationKey': 'weapon-lance-odogarons-misery-i',
+                'icon': require('./assets/weapons/lance/odogarons_misery_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+                'type': 'Lance',
+                'rarity': '10',
+                'attack': '506',
+                'sharpness': 'white',
+                'affinity': '30%',
+                'element': 'Fire (300)',
+                'cost': '24000',
+                'materials': [{
+                        'name': 'Odogaron Hardclaw',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Odogaron Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Odogaron Hardfang',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Monster Slogbone',
+                        'quantity': '3'
+                    }
+                ],
+            },
+            {
+                'name': 'Odogaron\'s Misery II',
+                'from': 'Odogaron\'s Misery I',
+                'translationKey': 'weapon-lance-odogarons-misery-ii',
+                'icon': require('./assets/weapons/lance/odogarons_misery_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+                'type': 'Lance',
+                'rarity': '10',
+                'attack': '529',
+                'sharpness': 'white',
+                'affinity': '35%',
+                'element': 'Fire (330)',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Acidic Glavenus Tailedge',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Odogaron Hardclaw',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Odogaron Lash',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Odogaron Mantle',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-ebony-odogaron-tree',
+        data: [{
+            'name': 'Death Garon Lance',
+            'from': 'Odogaron\'s Misery I',
+            'translationKey': 'weapon-lance-death-garon-lance',
+            'icon': require('./assets/weapons/lance/death_garon_lance.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+            'type': 'Lance',
+            'rarity': '10',
+            'attack': '529',
+            'sharpness': 'white',
+            'affinity': '25%',
+            'element': 'Dragon 300',
+            'slots': '1 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Ebony Odogaron Hardclaw',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Ebony Odogaron Shard',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Ebony Odogaron Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Dragonbone Artifact',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-water-element-tree',
@@ -42908,8 +44491,297 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Water Spike IV',
+                'from': 'Water Spike III',
+                'translationKey': 'weapon-lance-water-spike-iv',
+                'icon': require('./assets/weapons/lance/water_spike_iv.png'),
+                'weaponIcon': require('./assets/weapons/rarity/9-lance.png'),
+                'type': 'Lance',
+                'rarity': '9',
+                'attack': '529',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Water 330',
+                'slots': '2 - -',
+                'cost': '16000',
+                'materials': [{
+                        'name': 'Jyuratodus Grandfin',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Jyuratodus Hardfang',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Jyuratodus Shard',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Gajau Thickhide',
+                        'quantity': '2'
+                    }
+                ],
+            },
+            {
+                'name': 'Hydros Ullr',
+                'from': 'Water Spike IV',
+                'translationKey': 'weapon-lance-hydros-ullr',
+                'icon': require('./assets/weapons/lance/hydros_ullr.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+                'type': 'Lance',
+                'rarity': '11',
+                'attack': '621',
+                'sharpness': 'white',
+                'affinity': '10%',
+                'element': 'Water 390',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Namielle Hardclaw',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Namielle Finehide',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Namielle Whisker',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Purecrystal',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-tigrex-tree',
+        data: [{
+            'name': 'Tiger Stinger',
+            'from': 'Water Spike IV',
+            'translationKey': 'weapon-lance-tiger-stinger',
+            'icon': require('./assets/weapons/lance/tiger_stinger.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+            'type': 'Lance',
+            'rarity': '10',
+            'attack': '575',
+            'sharpness': 'white',
+            'affinity': '-20%',
+            'element': 'Blast (270)',
+            'cost': '24000',
+            'materials': [{
+                    'name': 'Tigrex Hardclaw',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Tigrex Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Monster Slogbone',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Thick Bone',
+                    'quantity': '5'
+                }
+            ],
+        }, {
+            'name': 'Tiger Stinger+',
+            'from': 'Tiger Stinger',
+            'translationKey': 'weapon-lance-tiger-stinger-plus',
+            'icon': require('./assets/weapons/lance/tiger_stinger_plus.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+            'type': 'Lance',
+            'rarity': '10',
+            'attack': '621',
+            'sharpness': 'white',
+            'affinity': '-20%',
+            'element': 'Blast (300)',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Blackcurl Stouthorn',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Tigrex Hardfang',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Tigrex Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Tigrex Mantle',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Tigrex Lance',
+            'from': 'Tiger Stinger+',
+            'translationKey': 'weapon-lance-tigrex-lance',
+            'icon': require('./assets/weapons/lance/tigrex_lance.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+            'type': 'Lance',
+            'rarity': '11',
+            'attack': '644',
+            'sharpness': 'white',
+            'affinity': '-20%',
+            'element': 'Blast (330)',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Daora Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Tigrex Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Tigrex Cortex',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Pure Dragon Blood',
+                    'quantity': '5'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-brute-tigrex-tree',
+        data: [{
+            'name': 'Accursed Stinger',
+            'from': 'Tiger Stinger',
+            'translationKey': 'weapon-lance-accursed-stinger',
+            'icon': require('./assets/weapons/lance/accursed_stinger.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+            'type': 'Lance',
+            'rarity': '11',
+            'attack': '644',
+            'sharpness': 'purple',
+            'affinity': '-30%',
+            'element': 'Sleep (300)',
+            'slots': '',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Brute Tigrex Hardclaw',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Brute Tigrex Shard',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Brute Tigrex Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Large Wyvern Gem',
+                    'quantity': '1'
+                }
+            ],
+        }, {
+            'name': 'Backbite',
+            'from': 'Accursed Stinger',
+            'translationKey': 'weapon-lance-backbite',
+            'icon': require('./assets/weapons/lance/backbite.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-lance.png'),
+            'type': 'Lance',
+            'rarity': '12',
+            'attack': '667',
+            'sharpness': 'purple',
+            'affinity': '-30%',
+            'element': 'Sleeep (330)',
+            'slots': '',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Tempered Ebonjaw',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Brute Tigrex Hardclaw',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Brute Tigrex Hardfang',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Tigrex Mantle',
+                    'quantity': '1'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-acidic-glavenus-tree',
+        data: [{
+            'name': 'Sulfurteinn keton',
+            'from': 'Tiger Stinger',
+            'translationKey': 'weapon-lance-sulfurteinn-keton',
+            'icon': require('./assets/weapons/lance/sulfurteinn_keton.png'),
+            'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+            'type': 'Lance',
+            'rarity': '10',
+            'attack': '621',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Paralysis (300)',
+            'slots': '4 - -',
+            'cost': '32000',
+            'materials': [{
+                    'name': 'Acidic Glavenus Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Acidic Glavenus Spineshell',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Acidic Glavenus Tailedge',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Honed Acidcryst',
+                    'quantity': '4'
+                }
+            ],
+        }, {
+            'name': 'The Solvent Spindle',
+            'from': 'Sulfurteinn Keton',
+            'translationKey': 'weapon-lance-the-solvent-spindle',
+            'icon': require('./assets/weapons/lance/the_solvent_spindle.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+            'type': 'Lance',
+            'rarity': '11',
+            'attack': '667',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Paralysis (330)',
+            'slots': '4 - -',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Vaal Hazak Hardclaw',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Acidic Glavenus Hardfang',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Acidic Glavenus Spineshell',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Glavenus Mantle',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-dragonbone-tree',
@@ -43054,8 +44926,111 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Dragonseal Aldspear I',
+                'from': 'Dragonbone Lance III',
+                'translationKey': 'weapon-lance-dragonseal-aldspear-i',
+                'icon': require('./assets/weapons/lance/dragonseal_aldspear_i.png'),
+                'weaponIcon': require('./assets/weapons/rarity/10-lance.png'),
+                'type': 'Lance',
+                'rarity': '10',
+                'attack': '483',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 540',
+                'elderseal': 'Average',
+                'slots': '1 1 -',
+                'cost': '32000',
+                'materials': [{
+                        'name': 'Monster Solidbone',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Monster Slogbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Thick Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Dragonbone Artifact',
+                        'quantity': '1'
+                    }
+                ],
+            },
+            {
+                'name': 'Dragonseal Aldspear II',
+                'from': 'Dragonseal Aldspear I',
+                'translationKey': 'weapon-lance-dragonseal-aldspear-ii',
+                'icon': require('./assets/weapons/lance/dragonseal_aldspear_ii.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+                'type': 'Lance',
+                'rarity': '11',
+                'attack': '552',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Dragon 630',
+                'elderseal': 'Average',
+                'slots': '1 1 -',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Large Elder Dragon Bone',
+                        'quantity': '6'
+                    },
+                    {
+                        'name': 'Monster Solidbone',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Lavasioth Grandfin',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Large Wyvern Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
+    },
+    {
+        title: 'weapon-tree-shara-ishvalda-tree',
+        data: [{
+            'name': 'Unblinking Gatekeeper',
+            'from': 'Dragonseal Aldspear I',
+            'translationKey': 'weapon-lance-unblinking-gatekeeper',
+            'icon': require('./assets/weapons/lance/unblinking_gatekeeper.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-lance.png'),
+            'type': 'Lance',
+            'rarity': '12',
+            'attack': '644',
+            'sharpness': 'purple',
+            'affinity': '0%',
+            'element': 'Dragon (510)',
+            'elderseal': 'High',
+            'slots': '1 1 -',
+            'defenseBonus': '+30',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Shara Ishvalda Tenderclaw',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Shara Ishvalda Tenderscale',
+                    'quantity': '6'
+                },
+                {
+                    'name': 'Shara Ishvalda Tenderplate',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Shara Ishvalda Gem',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-bazelgeuse-tree',
@@ -43156,7 +45131,71 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Blasting Siegespear',
+                'from': 'Bazel Myniad Rookslayer',
+                'translationKey': 'weapon-lance-blasting-siegespear',
+                'icon': require('./assets/weapons/lance/blasting_siegespear.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+                'type': 'Lance',
+                'rarity': '11',
+                'attack': '575',
+                'sharpness': 'purple',
+                'affinity': '-10%',
+                'element': 'Blast 270',
+                'slots': '1 1 -',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Bazelgeuse Hardclaw',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Bazelgeuse Shard',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Distilled Blast Fluid',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Meldspar Ore',
+                        'quantity': '5'
+                    }
+                ],
+            },
+            {
+                'name': 'Bazel Rocket Rooksearer',
+                'from': 'Blasting Siegespear',
+                'translationKey': 'weapon-lance-bazel-rocket-rooksearer',
+                'icon': require('./assets/weapons/lance/bazel_rocket_rooksearer.png'),
+                'weaponIcon': require('./assets/weapons/rarity/12-lance.png'),
+                'type': 'Lance',
+                'rarity': '12',
+                'attack': '598',
+                'sharpness': 'purple',
+                'affinity': '-10%',
+                'element': 'Blast 330',
+                'slots': '1 1 -',
+                'cost': '80000',
+                'materials': [{
+                        'name': 'Shara Ishvalda Petalstone',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Scorching Silverwing',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Bazelgeuse Hardclaw',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Bazelgeuse Mantle',
+                        'quantity': '1'
+                    }
+                ],
+            },  
         ]
     },
     {
@@ -43307,7 +45346,39 @@ let lanceTree = [{
                         'quantity': '2'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Naar Thunderlance',
+                'from': 'Thunderpiercer',
+                'translationKey': 'weapon-lance-naar-thunderlance',
+                'icon': require('./assets/weapons/lance/naar_thunderlance.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+                'type': 'Lance',
+                'rarity': '11',
+                'attack': '529',
+                'sharpness': 'white',
+                'affinity': '10%',
+                'element': 'Thunder 600',
+                'slots': '',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Kirin Azure Horn+',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Kirin Finehide',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Kirin Silvermane',
+                        'quantity': '3'
+                    },
+                    {
+                        'name': 'Purecrystal',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -43506,7 +45577,39 @@ let lanceTree = [{
                         'quantity': '1'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Daora\'s Regulus',
+                'from': 'Daora\'s Fang',
+                'translationKey': 'weapon-lance-daoras-regulus',
+                'icon': require('./assets/weapons/lance/daoras_regulus.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+                'type': 'Lance',
+                'rarity': '11',
+                'attack': '598',
+                'sharpness': 'purple',
+                'affinity': '10%',
+                'element': 'Ice 270',
+                'slots': '2 - -',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Daora Hardhorn',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Daora Hardclaw',
+                        'quantity': '4'
+                    },
+                    {
+                        'name': 'Daora Shard',
+                        'quantity': '5'
+                    },
+                    {
+                        'name': 'Large Elder Dragon Gem',
+                        'quantity': '1'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -43661,7 +45764,40 @@ let lanceTree = [{
                         'quantity': '2'
                     }
                 ]
-            }
+            },
+            {
+                'name': 'Lost Babel',
+                'from': 'Elder Babel Spear',
+                'translationKey': 'weapon-lance-lost-babel',
+                'icon': require('./assets/weapons/lance/lost_babel.png'),
+                'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+                'type': 'Lance',
+                'rarity': '11',
+                'attack': '598',
+                'sharpness': 'white',
+                'affinity': '0%',
+                'element': 'Fire (360)',
+                'slots': '4 - -',
+                'defenseBonus': '+40',
+                'cost': '56000',
+                'materials': [{
+                        'name': 'Hero King Coin',
+                        'quantity': '1'
+                    },
+                    {
+                        'name': 'Glavenus Coin',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Nargacuga Coin',
+                        'quantity': '2'
+                    },
+                    {
+                        'name': 'Banbaro Coin',
+                        'quantity': '2'
+                    }
+                ],
+            },
         ]
     },
     {
@@ -43763,7 +45899,38 @@ let lanceTree = [{
                     'quantity': '1'
                 }
             ]
-        }, ]
+        }, {
+            'name': 'Fate\'s Spindle',
+            'from': 'Fiendish Tower',
+            'translationKey': 'weapon-lance-fates-spindle',
+            'icon': require('./assets/weapons/lance/fates_spindle.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-lance.png'),
+            'type': 'Lance',
+            'rarity': '12',
+            'attack': '644',
+            'sharpness': 'purple',
+            'affinity': '-30%',
+            'element': 'Dragon 360',
+            'elderseal': 'High',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Vile Fang',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Deviljho Ripper',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Black Blood',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Deviljho Crook',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-kulve-taroth-relic-weapons',
@@ -44300,7 +46467,42 @@ let lanceTree = [{
                 'name': 'Guts',
                 'level': '1',
             }, ],
-        }, ]
+        }, {
+            'name': 'Soulfire Spike "Blaze"',
+            'from': 'Empress Lance "Blaze"',
+            'translationKey': 'weapon-lance-soulfire-spike-blaze',
+            'icon': require('./assets/weapons/lance/soulfire_spike_blaze.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-lance.png'),
+            'type': 'Lance',
+            'rarity': '12',
+            'attack': '575',
+            'sharpness': 'purple',
+            'affinity': '20%',
+            'element': 'Blast 270',
+            'slots': '2 1 -',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Lunastra Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Lunastra Hardhorn',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Lunastra Mane+',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Large Elder Dragon Gem',
+                    'quantity': '1'
+                }
+            ],
+            'skills': [{
+                'name': 'Guts',
+                'level': '1'
+            },]
+        },]
     },
     {
         title: 'weapon-tree-lunastra-nergigante-tree',
@@ -44340,7 +46542,42 @@ let lanceTree = [{
                 'name': 'Hasten Recovery',
                 'level': '1',
             }, ],
-        }, ]
+        }, {
+            'name': 'Soulfire Spike "Ruin"',
+            'from': 'Empress Lance "Ruin"',
+            'translationKey': 'weapon-lance-soulfire-spike-ruin',
+            'icon': require('./assets/weapons/lance/soulfire_spike_ruin.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-lance.png'),
+            'type': 'Lance',
+            'rarity': '12',
+            'attack': '621',
+            'sharpness': 'purple',
+            'affinity': '0%',
+            'element': 'Blast 210',
+            'slots': '2 2 -',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Lunastra Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Annihilating Greathorn',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Eternal Regrowth Plate',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Large Elder Dragon Gem',
+                    'quantity': '1'
+                }
+            ],
+            'skills': [{
+                'name': 'Hasten Recovery',
+                'level': '1'
+            },]
+        },]
     },
     {
         title: 'weapon-tree-lunastra-xenojiiva-tree',
@@ -44380,7 +46617,42 @@ let lanceTree = [{
                 'name': 'Razor Sharp/Spare Shot',
                 'level': '1',
             }, ],
-        }, ]
+        }, {
+            'name': 'Soulfire Spike "Styx"',
+            'from': 'Empress Lance "Styx"',
+            'translationKey': 'weapon-lance-soulfire-spike-styx',
+            'icon': require('./assets/weapons/lance/soulfire_spike_styx.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-lance.png'),
+            'type': 'Lance',
+            'rarity': '12',
+            'attack': '575',
+            'sharpness': 'purple',
+            'affinity': '10%',
+            'element': 'Blast 330',
+            'slots': '3 3 -',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Lunastra Shard',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Lunastra Lash',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Elder Spiritvein Bone',
+                    'quantity': '5'
+                },
+                {
+                    'name': 'Large Elder Dragon Gem',
+                    'quantity': '1'
+                }
+            ],
+            'skills': [{
+                'name': 'Razor Sharp/Spare Shot',
+                'level': '1'
+            },]
+        },]
     },
     {
         title: 'weapon-tree-workshop-weapon-tree',
@@ -44447,7 +46719,37 @@ let lanceTree = [{
                     'quantity': '1'
                 }
             ],
-        }, ]
+        }, {
+            'name': 'Shining Star Lance',
+            'from': 'Sapphire Star Lance',
+            'translationKey': 'weapon-lance-shining-star-lance',
+            'icon': require('./assets/weapons/lance/shining_star_lance.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+            'type': 'Lance',
+            'rarity': '11',
+            'attack': '598',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Paralysis 300',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Research Commission Ticket+',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Namielle Fellwing',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Ultraplegia Sac',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Conqueror\'s Seal',
+                    'quantity': '1'
+                }
+            ],
+        },]
     },
     {
         title: 'weapon-tree-workshop-weapon-tree',
@@ -44513,8 +46815,104 @@ let lanceTree = [{
                     'quantity': '1'
                 }
             ],
-        }, ]
-    }
+        }, {
+            'name': 'Sweeping Gale Lance',
+            'from': 'White Wind Lance',
+            'translationKey': 'weapon-lance-sweeping-gale-lance',
+            'icon': require('./assets/weapons/lance/sweeping_gale_lance.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+            'type': 'Lance',
+            'rarity': '11',
+            'attack': '598',
+            'sharpness': 'white',
+            'affinity': '0%',
+            'element': 'Sleep 270',
+            'slots': '',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Research Commission Ticket+',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Namielle Whisker',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Torpor Sac',
+                    'quantity': '4'
+                },
+                {
+                    'name': 'Conqueror\'s Seal',
+                    'quantity': '1'
+                }
+            ],
+        },]
+    },
+    {
+        title: 'weapon-tree-rajang-tree',
+        data: [{
+            'name': 'Demon Lance',
+            'translationKey': 'weapon-lance-demon-lance',
+            'icon': require('./assets/weapons/lance/demon_lance.png'),
+            'weaponIcon': require('./assets/weapons/rarity/11-lance.png'),
+            'type': 'Lance',
+            'rarity': '11',
+            'attack': '667',
+            'sharpness': 'white',
+            'affinity': '-15%',
+            'element': 'Thunder 90',
+            'slots': '4 - -',
+            'cost': '56000',
+            'materials': [{
+                    'name': 'Rajang Hardhorn',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Rajang Hardclaw',
+                    'quantity': '1'
+                },
+                {
+                    'name': 'Rajang Hardfang',
+                    'quantity': '2'
+                },
+                {
+                    'name': 'Rajang Wildpelt',
+                    'quantity': '2'
+                }
+            ],
+        }, {
+            'name': 'Great Demon Lance',
+            'from': 'Demon Lance',
+            'translationKey': 'weapon-lance-great-demon-lance',
+            'icon': require('./assets/weapons/lance/great_demon_lance.png'),
+            'weaponIcon': require('./assets/weapons/rarity/12-lance.png'),
+            'type': 'Lance',
+            'rarity': '12',
+            'attack': '713',
+            'sharpness': 'white',
+            'affinity': '-15%',
+            'element': 'Thunder 120',
+            'slots': '4 - -',
+            'cost': '80000',
+            'materials': [{
+                    'name': 'Tempered Glimmerpelt',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Rajang Hardhorn',
+                    'quantity': '3'
+                },
+                {
+                    'name': 'Rajang Hardfang',
+                    'quantity': '7'
+                },
+                {
+                    'name': 'Gold Rajang Pelt+',
+                    'quantity': '3'
+                }
+            ],
+        },]
+    },
 ];
 
 let gunlanceTree = [{
@@ -52473,7 +54871,7 @@ let switchAxeTree = [{
         ]
     },
     {
-        title: 'Thunder Element Tree',
+        title: 'weapon-tree-thunder-element-tree',
         data: [{
                 'name': 'Thunder Axe I',
                 'from': 'Proto Iron Axe II',
@@ -52827,7 +55225,7 @@ let switchAxeTree = [{
         ]
     },
     {
-        title: 'Great Jagras Tree',
+        title: 'weapon-tree-great-jagras-tree',
         data: [{
                 'name': 'Jagras Axe I',
                 'from': 'Proto Iron Axe II',
@@ -54438,7 +56836,7 @@ let switchAxeTree = [{
         ]
     },
     {
-        title: 'Barroth Tree',
+        title: 'weapon-tree-barroth-tree',
         data: [{
                 'name': 'Carapace Axe I',
                 'from': 'Bone Axe II',
@@ -58349,7 +60747,7 @@ let chargeBladeTree = [{
         ]
     },
     {
-        title: 'Great Jagras Tree',
+        title: 'weapon-tree-great-jagras-tree',
         data: [{
                 'name': 'Jagras Strongarm I',
                 'from': 'Bone Strongarm II',
@@ -58649,7 +61047,7 @@ let chargeBladeTree = [{
         ]
     },
     {
-        title: 'Dodogama Tree',
+        title: 'weapon-tree-dodogama-tree',
         data: [{
                 'name': 'Gama Silt I',
                 'from': 'Jagras Escudo I',
@@ -58748,7 +61146,7 @@ let chargeBladeTree = [{
         ]
     },
     {
-        title: 'Great Girros Tree',
+        title: 'weapon-tree-great-girros-tree',
         data: [{
                 'name': 'Girros Strongarm I',
                 'from': 'Jagras Strongarm I',
@@ -62534,7 +64932,7 @@ let insectGlaiveTree = [{
         ]
     },
     {
-        title: 'Dodogama Tree',
+        title: 'weapon-tree-dodogama-tree',
         data: [{
                 'name': 'Gama Cane I',
                 'from': 'Datura Blade I',
@@ -68009,7 +70407,7 @@ let lightBowgunTree = [{
         ]
     },
     {
-        title: 'Great Jagras Tree',
+        title: 'weapon-tree-great-jagras-tree',
         data: [{
                 'name': 'Jagras Blitz I',
                 'from': 'Chain Blitz II',
@@ -69611,7 +72009,7 @@ let lightBowgunTree = [{
         ]
     },
     {
-        title: 'Thunder Element Tree',
+        title: 'weapon-tree-thunder-element-tree',
         data: [{
                 'name': 'Thunder Blitz I',
                 'from': 'Jagras Blitz I',
@@ -74531,7 +76929,7 @@ let lightBowgunTree = [{
         ]
     },
     {
-        title: 'Barroth Tree',
+        title: 'weapon-tree-barroth-tree',
         data: [{
                 'name': 'Carapace Rifle I',
                 'from': 'Hunter\'s Rifle II',
@@ -86781,7 +89179,7 @@ let heavyBowgunTree = [{
         ]
     },
     {
-        title: 'Great Jagras Tree',
+        title: 'weapon-tree-great-jagras-tree',
         data: [{
                 'name': 'Jagras Assault I',
                 'from': 'Iron Assault II',
@@ -91216,7 +93614,7 @@ let heavyBowgunTree = [{
         ]
     },
     {
-        title: 'Radobaan Tree',
+        title: 'weapon-tree-radobaan-tree',
         data: [{
                 'name': 'Spiked Shooter I',
                 'from': 'Blooming Shooter I',
@@ -92102,7 +94500,7 @@ let heavyBowgunTree = [{
         ]
     },
     {
-        title: 'Dodogama Tree',
+        title: 'weapon-tree-dodogama-tree',
         data: [{
                 'name': 'Gama Cannon I',
                 'from': 'Baan Roar I',

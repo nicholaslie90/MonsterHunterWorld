@@ -1545,7 +1545,7 @@ export default {
     },
     "armor-hr-hunters-headgear-alpha": {
       "Key": "armor-hr-hunters-headgear-alpha",
-      "Translation": "ฮันเตอร์ของหมวก⍺"
+      "Translation": "ฮันเตอร์หมวก⍺"
     },
     "armor-hr-hunters-headgear-beta": {
       "Key": "armor-hr-hunters-headgear-beta",
@@ -6369,7 +6369,7 @@ export default {
     },
     "armor-mr-pukei-lagoon-greaves-alpha-plus": {
       "Key": "armor-mr-pukei-lagoon-greaves-alpha-plus",
-      "Translation": "Pukei ลากูนนับ⍺ +"
+      "Translation": "Pukei ลากูนสนับ⍺ +"
     },
     "armor-mr-pukei-lagoon-greaves-beta-plus": {
       "Key": "armor-mr-pukei-lagoon-greaves-beta-plus",
@@ -8817,7 +8817,7 @@ export default {
     },
     "monster-jyuratodus-characteristics": {
       "Key": "monster-jyuratodus-characteristics",
-      "Translation": "Wyvern piscine ขนาดใหญ่ที่อาศัยอยู่ในหนองน้ำของ Wildspire เสีย จะใช้โคลนเพื่อจับเหยื่อและเป็นที่รู้จักกันที่จะต่อสู้ Barroth เหนือดินแดน"
+      "Translation": "Wyvern piscine ขนาดใหญ่ที่อาศัยอยู่ในหนองน้ำของ Wildspire เสีย จะใช้โคลนที่จะจับภาพเหยื่อและเป็นที่รู้จักกันไปรบ Barroth เหนือดินแดน"
     },
     "monster-jyuratodus-useful-information": {
       "Key": "monster-jyuratodus-useful-information",
@@ -8881,7 +8881,7 @@ export default {
     },
     "monster-kushala-daora-characteristics": {
       "Key": "monster-kushala-daora-characteristics",
-      "Translation": "มังกรผู้สูงอายุที่ปกป้องตัวเองด้วยลมที่รุนแรงให้บุคคลอื่นเข้าใกล้มัน ผิวของมันประกอบด้วยยาก, เครื่องชั่งน้ำหนักที่เป็นโลหะ"
+      "Translation": "มังกรผู้สูงอายุที่ปกป้องตัวเองด้วยลมที่รุนแรงให้บุคคลอื่นเข้าใกล้มัน ผิวของมันประกอบด้วยยาก, เครื่องชั่งน้ำหนักโลหะ"
     },
     "monster-kushala-daora-useful-information": {
       "Key": "monster-kushala-daora-useful-information",
@@ -8921,7 +8921,7 @@ export default {
     },
     "monster-leshen-useful-information": {
       "Key": "monster-leshen-useful-information",
-      "Translation": "Revoltures และ Jagras ควบคุมโดย leshen เป็นเรื่องยากที่จะเข้าใกล้ แต่ Igni เข้าสู่ระบบเป็นประโยชน์อย่างมากในการปัดป้องรากเฆี่ยน leshen ของ"
+      "Translation": "Revoltures และควบคุมโดย Jagras leshen เป็นเรื่องยากที่จะเข้าใกล้ แต่ Igni ลงชื่อเข้าใช้เป็นประโยชน์อย่างมากในการปัดป้องรากเฆี่ยน leshen ของ"
     },
     "monster-lunastra": {
       "Key": "monster-lunastra",
@@ -9233,7 +9233,7 @@ export default {
     },
     "play-guide-accepting-guild-cards-description": {
       "Key": "play-guide-accepting-guild-cards-description",
-      "Translation": "cn คุณยอมรับการ์ด Guild คุณได้รับโดยการเลือกกิลด์การ์ดจากเมนูเริ่มต้น โปรดทราบว่าคุณสามารถถือได้ถึงยี่สิบไม่ยอมรับบัตรสมาคม"
+      "Translation": "คุณ cn ยอมรับการ์ด Guild คุณได้รับโดยการเลือกกิลด์การ์ดจากเมนูเริ่มต้น โปรดทราบว่าคุณสามารถถือได้ถึงยี่สิบไม่ยอมรับบัตรสมาคม"
     },
     "play-guide-actions-with-weapon-drawn": {
       "Key": "play-guide-actions-with-weapon-drawn",
@@ -10033,7 +10033,7 @@ export default {
     },
     "play-guide-meal-effect-duration-description": {
       "Key": "play-guide-meal-effect-duration-description",
-      "Translation": "ผลกระทบมื้อจะสวมปิดถ้าคุณเป็นลมระหว่างการแสวงหาหรือการเดินทาง พวกเขายังจะสวมปิดเมื่อคุณสมบูรณ์ล้มเหลวหรือถอนตัวออกจากการแสวงหาหรือการเดินทาง หลังจากรับประทานอาหารที่คุณจะไม่สามารถที่จะกินอีกครั้งในช่วงเวลาสั้น"
+      "Translation": "ผลกระทบที่จะสวมใส่อาหารออกถ้าคุณเป็นลมระหว่างการแสวงหาหรือการเดินทาง พวกเขายังจะสวมปิดเมื่อคุณสมบูรณ์ล้มเหลวหรือถอนตัวออกจากการแสวงหาหรือการเดินทาง หลังจากรับประทานอาหารที่คุณจะไม่สามารถที่จะกินอีกครั้งในช่วงเวลาสั้น"
     },
     "play-guide-meal-vouchers": {
       "Key": "play-guide-meal-vouchers",
@@ -10185,7 +10185,7 @@ export default {
     },
     "play-guide-paratoads-description": {
       "Key": "play-guide-paratoads-description",
-      "Translation": "เมื่อหลง paratoads ปล่อยก๊าซสเปรย์แข็งแรงพอที่จะทำให้เป็นอัมพาตสัตว์ประหลาดขนาดใหญ่แม้กระทั่ง"
+      "Translation": "เมื่อหลง paratoads ปล่อยสเปรย์ของก๊าซแข็งแรงพอที่จะทำให้เป็นอัมพาตมอนสเตอร์ขนาดใหญ่แม้กระทั่ง"
     },
     "play-guide-performance-effect-radius": {
       "Key": "play-guide-performance-effect-radius",
@@ -12201,7 +12201,7 @@ export default {
     },
     "quest-horned-tyrant-below-the-sands": {
       "Key": "quest-horned-tyrant-below-the-sands",
-      "Translation": "ทรราชหงอนด้านล่างทราย"
+      "Translation": "ทรราชหงอนด้านล่างแซนด์ส"
     },
     "quest-horned-tyrant-below-the-sands-description": {
       "Key": "quest-horned-tyrant-below-the-sands-description",
@@ -14181,7 +14181,7 @@ export default {
     },
     "settings-join-discord-text": {
       "Key": "settings-join-discord-text",
-      "Translation": "เข้าร่วมกับเซิร์ฟเวอร์ความขัดแย้งของฉัน! พูดคุยกับผู้เล่นอื่นหารือเกี่ยวกับมอนสเตอร์และกลยุทธ์การตั้งค่าห้องเกมให้เพื่อนใหม่และสนทนากับผมโดยตรง :)"
+      "Translation": "เข้าร่วมกับเซิร์ฟเวอร์ความขัดแย้งของฉัน! พูดคุยกับผู้เล่นอื่น ๆ หารือเกี่ยวกับมอนสเตอร์และกลยุทธ์การตั้งค่าห้องเกมให้เพื่อนใหม่และสนทนากับผมโดยตรง :)"
     },
     "settings-language": {
       "Key": "settings-language",
@@ -15917,7 +15917,7 @@ export default {
     },
     "skill-offensive-guard-3": {
       "Key": "skill-offensive-guard-3",
-      "Translation": "ในขณะที่เพิ่มขึ้นของการใช้งานโจมตีพลังงานโดย 15%"
+      "Translation": "ในขณะที่การเพิ่มขึ้นของการใช้งานโจมตีพลังงานโดย 15%"
     },
     "skill-offensive-guard-description": {
       "Key": "skill-offensive-guard-description",
@@ -16957,7 +16957,7 @@ export default {
     },
     "trophy-confronting-the-unknown-description": {
       "Key": "trophy-confronting-the-unknown-description",
-      "Translation": "ตามล่ามอนสเตอร์ที่แตกต่างกันครั้งแรกของคุณ"
+      "Translation": "ล่ามอนสเตอร์ที่แตกต่างกันครั้งแรกของคุณ"
     },
     "trophy-conqueror-of-the-hinterlands": {
       "Key": "trophy-conqueror-of-the-hinterlands",
@@ -17565,7 +17565,7 @@ export default {
     },
     "trophy-the-true-hunt-begins-description": {
       "Key": "trophy-the-true-hunt-begins-description",
-      "Translation": "ล่ามอนสเตอร์ขนาดใหญ่ครั้งแรกของคุณในการแสวงหายศต้นแบบ"
+      "Translation": "ล่าสัตว์ประหลาดขนาดใหญ่ครั้งแรกของคุณในการแสวงหายศต้นแบบ"
     },
     "trophy-time-to-get-serious": {
       "Key": "trophy-time-to-get-serious",
@@ -17661,7 +17661,7 @@ export default {
     },
     "ui-fanged-wyverns": {
       "Key": "ui-fanged-wyverns",
-      "Translation": "Wyverns เขี้ยว"
+      "Translation": "เขี้ยว Wyverns"
     },
     "ui-filter": {
       "Key": "ui-filter",
@@ -18897,7 +18897,7 @@ export default {
     },
     "weapon-gunlance-rath-gunlance-ii": {
       "Key": "weapon-gunlance-rath-gunlance-ii",
-      "Translation": "ไทยรัฐ Gunlance ครั้งที่สอง"
+      "Translation": "Rath Gunlance ครั้งที่สอง"
     },
     "weapon-gunlance-red-rook": {
       "Key": "weapon-gunlance-red-rook",
@@ -19169,7 +19169,7 @@ export default {
     },
     "weapon-hammer-gold-thunder-bludgeon": {
       "Key": "weapon-hammer-gold-thunder-bludgeon",
-      "Translation": "ทองกระบองทันเดอร์"
+      "Translation": "ทันเดอร์ทองกระบอง"
     },
     "weapon-hammer-gold-water-bludgeon": {
       "Key": "weapon-hammer-gold-water-bludgeon",
@@ -19229,7 +19229,7 @@ export default {
     },
     "weapon-hammer-iron-hammer-iii": {
       "Key": "weapon-hammer-iron-hammer-iii",
-      "Translation": "เหล็กค้อนที่สาม"
+      "Translation": "เหล็กค้อน III"
     },
     "weapon-hammer-jail-hammer": {
       "Key": "weapon-hammer-jail-hammer",
@@ -22225,7 +22225,7 @@ export default {
     },
     "weapon-dual-blades-hidden-tomahawk-ii": {
       "Key": "weapon-dual-blades-hidden-tomahawk-ii",
-      "Translation": "ซ่อน Tomahawk II"
+      "Translation": "ซ่อน Tomahawk ครั้งที่สอง"
     },
     "weapon-dual-blades-blazing-warhawks": {
       "Key": "weapon-dual-blades-blazing-warhawks",
@@ -22762,5 +22762,289 @@ export default {
     "weapon-great-sword-xiphias-gladius": {
       "Key": "weapon-great-sword-xiphias-gladius",
       "Translation": "Xiphias Gladius"
+    },
+    "weapon-lance-chrome-drill-i": {
+      "Key": "weapon-lance-chrome-drill-i",
+      "Translation": "โครเมี่ยมเจาะฉัน"
+    },
+    "weapon-lance-chrome-drill-ii": {
+      "Key": "weapon-lance-chrome-drill-ii",
+      "Translation": "โครเมี่ยมเจาะครั้งที่สอง"
+    },
+    "weapon-lance-incessant-raven": {
+      "Key": "weapon-lance-incessant-raven",
+      "Translation": "ไม่หยุดหย่อนกา"
+    },
+    "weapon-lance-incessant-wolf": {
+      "Key": "weapon-lance-incessant-wolf",
+      "Translation": "ไม่หยุดหย่อนหมาป่า"
+    },
+    "weapon-lance-ruinous-perdition": {
+      "Key": "weapon-lance-ruinous-perdition",
+      "Translation": "หายนะล่มจม"
+    },
+    "weapon-lance-legiana-halberd-iii": {
+      "Key": "weapon-lance-legiana-halberd-iii",
+      "Translation": "Legiana ง้าว III"
+    },
+    "weapon-lance-hoarcry-halberd": {
+      "Key": "weapon-lance-hoarcry-halberd",
+      "Translation": "Hoarcry ง้าว"
+    },
+    "weapon-lance-nyx-halberd-i": {
+      "Key": "weapon-lance-nyx-halberd-i",
+      "Translation": "nyx ง้าวฉัน"
+    },
+    "weapon-lance-nyx-halberd-ii": {
+      "Key": "weapon-lance-nyx-halberd-ii",
+      "Translation": "nyx ง้าวครั้งที่สอง"
+    },
+    "weapon-lance-minqar-al-nasr-i": {
+      "Key": "weapon-lance-minqar-al-nasr-i",
+      "Translation": "Minqar Al-Nasr ฉัน"
+    },
+    "weapon-lance-tusk-lance": {
+      "Key": "weapon-lance-tusk-lance",
+      "Translation": "งาช้างแลนซ์"
+    },
+    "weapon-lance-tusk-lance-plus": {
+      "Key": "weapon-lance-tusk-lance-plus",
+      "Translation": "งาช้างแลนซ์ +"
+    },
+    "weapon-lance-sabertooth": {
+      "Key": "weapon-lance-sabertooth",
+      "Translation": "Sabertooth"
+    },
+    "weapon-lance-gama-drill-i": {
+      "Key": "weapon-lance-gama-drill-i",
+      "Translation": "Gama สว่านฉัน"
+    },
+    "weapon-lance-gama-drill-ii": {
+      "Key": "weapon-lance-gama-drill-ii",
+      "Translation": "กามาเจาะครั้งที่สอง"
+    },
+    "weapon-lance-hidden-hastur-i": {
+      "Key": "weapon-lance-hidden-hastur-i",
+      "Translation": "ซ่อนแฮสเธอร์ผม"
+    },
+    "weapon-lance-hidden-hastur-ii": {
+      "Key": "weapon-lance-hidden-hastur-ii",
+      "Translation": "ซ่อนแฮสเธอร์ครั้งที่สอง"
+    },
+    "weapon-lance-lightning-bolt-i": {
+      "Key": "weapon-lance-lightning-bolt-i",
+      "Translation": "สายฟ้าฟาดฉัน"
+    },
+    "weapon-lance-lightning-bolt-ii": {
+      "Key": "weapon-lance-lightning-bolt-ii",
+      "Translation": "สายฟ้าครั้งที่สอง"
+    },
+    "weapon-lance-thunderpierce-i": {
+      "Key": "weapon-lance-thunderpierce-i",
+      "Translation": "Thunderpierce ฉัน"
+    },
+    "weapon-lance-thunderpierce-ii": {
+      "Key": "weapon-lance-thunderpierce-ii",
+      "Translation": "Thunderpierce ครั้งที่สอง"
+    },
+    "weapon-lance-datura-stalk-i": {
+      "Key": "weapon-lance-datura-stalk-i",
+      "Translation": "ลำโพงก้านฉัน"
+    },
+    "weapon-lance-datura-stalk-ii": {
+      "Key": "weapon-lance-datura-stalk-ii",
+      "Translation": "ลำโพงก้านครั้งที่สอง"
+    },
+    "weapon-lance-laguna-pike-i": {
+      "Key": "weapon-lance-laguna-pike-i",
+      "Translation": "ลากูน่าหอกฉัน"
+    },
+    "weapon-lance-laguna-pike-ii": {
+      "Key": "weapon-lance-laguna-pike-ii",
+      "Translation": "ลากูน่าหอกครั้งที่สอง"
+    },
+    "weapon-lance-blue-prominence-plus": {
+      "Key": "weapon-lance-blue-prominence-plus",
+      "Translation": "รุ่งเรืองสีน้ำเงิน +"
+    },
+    "weapon-lance-soul-prominence": {
+      "Key": "weapon-lance-soul-prominence",
+      "Translation": "รุ่งเรืองวิญญาณ"
+    },
+    "weapon-lance-silver-prominence": {
+      "Key": "weapon-lance-silver-prominence",
+      "Translation": "รุ่งเรืองเงิน"
+    },
+    "weapon-lance-grand-halberd-i": {
+      "Key": "weapon-lance-grand-halberd-i",
+      "Translation": "แกรนด์ง้าวฉัน"
+    },
+    "weapon-lance-grand-halberd-ii": {
+      "Key": "weapon-lance-grand-halberd-ii",
+      "Translation": "แกรนด์ง้าวครั้งที่สอง"
+    },
+    "weapon-lance-grand-halberd-iii": {
+      "Key": "weapon-lance-grand-halberd-iii",
+      "Translation": "แกรนด์ง้าว III"
+    },
+    "weapon-lance-iceborer": {
+      "Key": "weapon-lance-iceborer",
+      "Translation": "Iceborer"
+    },
+    "weapon-lance-knightly-ectis": {
+      "Key": "weapon-lance-knightly-ectis",
+      "Translation": "อัศวิน Ectis"
+    },
+    "weapon-lance-loves-tragedy": {
+      "Key": "weapon-lance-loves-tragedy",
+      "Translation": "โศกนาฏกรรมของความรัก"
+    },
+    "weapon-lance-loves-end": {
+      "Key": "weapon-lance-loves-end",
+      "Translation": "ความรักที่จบ"
+    },
+    "weapon-lance-abyss-aggressor-i": {
+      "Key": "weapon-lance-abyss-aggressor-i",
+      "Translation": "เหวรุกรานฉัน"
+    },
+    "weapon-lance-abyss-aggressor-ii": {
+      "Key": "weapon-lance-abyss-aggressor-ii",
+      "Translation": "เหวรุกรานครั้งที่สอง"
+    },
+    "weapon-lance-svarog-blazer": {
+      "Key": "weapon-lance-svarog-blazer",
+      "Translation": "Svarog Blazer"
+    },
+    "weapon-lance-svarog-blazer-plus": {
+      "Key": "weapon-lance-svarog-blazer-plus",
+      "Translation": "Svarog Blazer +"
+    },
+    "weapon-lance-glavenus-granat": {
+      "Key": "weapon-lance-glavenus-granat",
+      "Translation": "Glavenus Granat"
+    },
+    "weapon-lance-barroth-halberd-i": {
+      "Key": "weapon-lance-barroth-halberd-i",
+      "Translation": "Barroth ง้าวฉัน"
+    },
+    "weapon-lance-barroth-halberd-ii": {
+      "Key": "weapon-lance-barroth-halberd-ii",
+      "Translation": "Barroth ง้าวครั้งที่สอง"
+    },
+    "weapon-lance-dios-halberd-i": {
+      "Key": "weapon-lance-dios-halberd-i",
+      "Translation": "Dios ง้าวฉัน"
+    },
+    "weapon-lance-dios-halberd-ii": {
+      "Key": "weapon-lance-dios-halberd-ii",
+      "Translation": "Dios ง้าวครั้งที่สอง"
+    },
+    "weapon-lance-odogarons-misery-i": {
+      "Key": "weapon-lance-odogarons-misery-i",
+      "Translation": "Odogaron ของฉันเดือดร้อน"
+    },
+    "weapon-lance-odogarons-misery-ii": {
+      "Key": "weapon-lance-odogarons-misery-ii",
+      "Translation": "Odogaron ของความทุกข์ยากครั้งที่สอง"
+    },
+    "weapon-lance-death-garon-lance": {
+      "Key": "weapon-lance-death-garon-lance",
+      "Translation": "ตาย Garon แลนซ์"
+    },
+    "weapon-lance-water-spike-iv": {
+      "Key": "weapon-lance-water-spike-iv",
+      "Translation": "น้ำเข็ม IV"
+    },
+    "weapon-lance-hydros-ullr": {
+      "Key": "weapon-lance-hydros-ullr",
+      "Translation": "Hydros Ullr"
+    },
+    "weapon-lance-tiger-stinger": {
+      "Key": "weapon-lance-tiger-stinger",
+      "Translation": "เสือ Stinger"
+    },
+    "weapon-lance-tiger-stinger-plus": {
+      "Key": "weapon-lance-tiger-stinger-plus",
+      "Translation": "เสือเหล็ก +"
+    },
+    "weapon-lance-tigrex-lance": {
+      "Key": "weapon-lance-tigrex-lance",
+      "Translation": "Tigrex แลนซ์"
+    },
+    "weapon-lance-accursed-stinger": {
+      "Key": "weapon-lance-accursed-stinger",
+      "Translation": "อัปรีย์ Stinger"
+    },
+    "weapon-lance-backbite": {
+      "Key": "weapon-lance-backbite",
+      "Translation": "ลอบกัด"
+    },
+    "weapon-lance-sulfurteinn-keton": {
+      "Key": "weapon-lance-sulfurteinn-keton",
+      "Translation": "Sulfurteinn Keton"
+    },
+    "weapon-lance-the-solvent-spindle": {
+      "Key": "weapon-lance-the-solvent-spindle",
+      "Translation": "ตัวทำละลาย Spindle"
+    },
+    "weapon-lance-dragonseal-aldspear-i": {
+      "Key": "weapon-lance-dragonseal-aldspear-i",
+      "Translation": "Dragonseal Aldspear ฉัน"
+    },
+    "weapon-lance-unblinking-gatekeeper": {
+      "Key": "weapon-lance-unblinking-gatekeeper",
+      "Translation": "ยามไม่กะพริบตา"
+    },
+    "weapon-lance-blasting-siegespear": {
+      "Key": "weapon-lance-blasting-siegespear",
+      "Translation": "พ่น Siegespear"
+    },
+    "weapon-lance-bazel-rocket-rooksearer": {
+      "Key": "weapon-lance-bazel-rocket-rooksearer",
+      "Translation": "Bazel Rooksearer จรวด"
+    },
+    "weapon-lance-naar-thunderlance": {
+      "Key": "weapon-lance-naar-thunderlance",
+      "Translation": "naar Thunderlance"
+    },
+    "weapon-lance-daoras-regulus": {
+      "Key": "weapon-lance-daoras-regulus",
+      "Translation": "Daora ของเรกูลัส"
+    },
+    "weapon-lance-lost-babel": {
+      "Key": "weapon-lance-lost-babel",
+      "Translation": "Lost บาเบล"
+    },
+    "weapon-lance-fates-spindle": {
+      "Key": "weapon-lance-fates-spindle",
+      "Translation": "ชะตากรรมของแกนหมุน"
+    },
+    "weapon-lance-soulfire-spike-blaze": {
+      "Key": "weapon-lance-soulfire-spike-blaze",
+      "Translation": "Soulfire เข็ม \"Blaze\""
+    },
+    "weapon-lance-soulfire-spike-ruin": {
+      "Key": "weapon-lance-soulfire-spike-ruin",
+      "Translation": "Soulfire เข็ม \"ทำลาย\""
+    },
+    "weapon-lance-soulfire-spike-styx": {
+      "Key": "weapon-lance-soulfire-spike-styx",
+      "Translation": "Soulfire เข็ม \"ปรภพ\""
+    },
+    "weapon-lance-shining-star-lance": {
+      "Key": "weapon-lance-shining-star-lance",
+      "Translation": "Shining Star แลนซ์"
+    },
+    "weapon-lance-sweeping-gale-lance": {
+      "Key": "weapon-lance-sweeping-gale-lance",
+      "Translation": "กวาดเกลแลนซ์"
+    },
+    "weapon-lance-demon-lance": {
+      "Key": "weapon-lance-demon-lance",
+      "Translation": "ปีศาจแลนซ์"
+    },
+    "weapon-lance-great-demon-lance": {
+      "Key": "weapon-lance-great-demon-lance",
+      "Translation": "ที่ดีปีศาจแลนซ์"
     }
   }
