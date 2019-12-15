@@ -23046,5 +23046,293 @@ export default {
     "weapon-lance-great-demon-lance": {
       "Key": "weapon-lance-great-demon-lance",
       "Translation": "Great Demon Lance"
+    },
+    "weapon-sword-and-shield-chrome-knight-sword-i": {
+      "Key": "weapon-sword-and-shield-chrome-knight-sword-i",
+      "Translation": "Chrome Knight Sword I"
+    },
+    "weapon-sword-and-shield-chrome-knight-sword-ii": {
+      "Key": "weapon-sword-and-shield-chrome-knight-sword-ii",
+      "Translation": "Chrome Knight Sword II"
+    },
+    "weapon-sword-and-shield-chrome-knight-sword-iii": {
+      "Key": "weapon-sword-and-shield-chrome-knight-sword-iii",
+      "Translation": "Chrome Knight Sword III"
+    },
+    "weapon-sword-and-shield-ruinous-eradication": {
+      "Key": "weapon-sword-and-shield-ruinous-eradication",
+      "Translation": "Ruinous Eradication"
+    },
+    "weapon-sword-and-shield-corona-plus": {
+      "Key": "weapon-sword-and-shield-corona-plus",
+      "Translation": "Corona+"
+    },
+    "weapon-sword-and-shield-blue-corona": {
+      "Key": "weapon-sword-and-shield-blue-corona",
+      "Translation": "Blue Corona"
+    },
+    "weapon-sword-and-shield-shining-wyvern-blade": {
+      "Key": "weapon-sword-and-shield-shining-wyvern-blade",
+      "Translation": "Shining Wyvern Blade"
+    },
+    "weapon-sword-and-shield-legacy-bang": {
+      "Key": "weapon-sword-and-shield-legacy-bang",
+      "Translation": "Legacy Bang"
+    },
+    "weapon-sword-and-shield-legendary-bang": {
+      "Key": "weapon-sword-and-shield-legendary-bang",
+      "Translation": "Legendary Bang"
+    },
+    "weapon-sword-and-shield-rogue-wave-iv": {
+      "Key": "weapon-sword-and-shield-rogue-wave-iv",
+      "Translation": "Rogue Wave IV"
+    },
+    "weapon-sword-and-shield-laguna-blossom-i": {
+      "Key": "weapon-sword-and-shield-laguna-blossom-i",
+      "Translation": "Laguna Blossom I"
+    },
+    "weapon-sword-and-shield-laguna-blossom-ii": {
+      "Key": "weapon-sword-and-shield-laguna-blossom-ii",
+      "Translation": "Laguna Blossom II"
+    },
+    "weapon-sword-and-shield-icicle-spike": {
+      "Key": "weapon-sword-and-shield-icicle-spike",
+      "Translation": "Icicle Spike"
+    },
+    "weapon-sword-and-shield-icicle-spike-plus": {
+      "Key": "weapon-sword-and-shield-icicle-spike-plus",
+      "Translation": "Icicle Spike+"
+    },
+    "weapon-sword-and-shield-nardebosche": {
+      "Key": "weapon-sword-and-shield-nardebosche",
+      "Translation": "Nardebosche"
+    },
+    "weapon-sword-and-shield-legia-rimespire-plus": {
+      "Key": "weapon-sword-and-shield-legia-rimespire-plus",
+      "Translation": "Legia Rimespire+"
+    },
+    "weapon-sword-and-shield-hoarcry-rimespire": {
+      "Key": "weapon-sword-and-shield-hoarcry-rimespire",
+      "Translation": "Hoarcry Rimespire"
+    },
+    "weapon-sword-and-shield-nephilim-glacia": {
+      "Key": "weapon-sword-and-shield-nephilim-glacia",
+      "Translation": "Nephilim Glacia"
+    },
+    "weapon-sword-and-shield-rose-highness": {
+      "Key": "weapon-sword-and-shield-rose-highness",
+      "Translation": "Rose Highness"
+    },
+    "weapon-sword-and-shield-lunatic-rose": {
+      "Key": "weapon-sword-and-shield-lunatic-rose",
+      "Translation": "Lunatic Rose"
+    },
+    "weapon-sword-and-shield-lumu-nightmare-i": {
+      "Key": "weapon-sword-and-shield-lumu-nightmare-i",
+      "Translation": "Lumu Nightmare I"
+    },
+    "weapon-sword-and-shield-lumu-nightmare-ii": {
+      "Key": "weapon-sword-and-shield-lumu-nightmare-ii",
+      "Translation": "Lumu Nightmare II"
+    },
+    "weapon-sword-and-shield-nyx-tabar-i": {
+      "Key": "weapon-sword-and-shield-nyx-tabar-i",
+      "Translation": "Nyx Tabar I"
+    },
+    "weapon-sword-and-shield-nyx-tabar-ii": {
+      "Key": "weapon-sword-and-shield-nyx-tabar-ii",
+      "Translation": "Nyx Tabar II"
+    },
+    "weapon-sword-and-shield-datura-florescence-i": {
+      "Key": "weapon-sword-and-shield-datura-florescence-i",
+      "Translation": "Datura Florescence I"
+    },
+    "weapon-sword-and-shield-datura-florescence-ii": {
+      "Key": "weapon-sword-and-shield-datura-florescence-ii",
+      "Translation": "Datura Florescence II"
+    },
+    "weapon-sword-and-shield-dios-edge": {
+      "Key": "weapon-sword-and-shield-dios-edge",
+      "Translation": "Dios Edge"
+    },
+    "weapon-sword-and-shield-booming-barrage": {
+      "Key": "weapon-sword-and-shield-booming-barrage",
+      "Translation": "Booming Barrage"
+    },
+    "weapon-sword-and-shield-naaga-seax-i": {
+      "Key": "weapon-sword-and-shield-naaga-seax-i",
+      "Translation": "Naaga Seax I"
+    },
+    "weapon-sword-and-shield-naaga-seax-ii": {
+      "Key": "weapon-sword-and-shield-naaga-seax-ii",
+      "Translation": "Naaga Seax II"
+    },
+    "weapon-sword-and-shield-hidden-edge": {
+      "Key": "weapon-sword-and-shield-hidden-edge",
+      "Translation": "Hidden Edge"
+    },
+    "weapon-sword-and-shield-hidden-edge-plus": {
+      "Key": "weapon-sword-and-shield-hidden-edge-plus",
+      "Translation": "Hidden Edge+"
+    },
+    "weapon-sword-and-shield-flash-in-the-night": {
+      "Key": "weapon-sword-and-shield-flash-in-the-night",
+      "Translation": "Flash in the Night"
+    },
+    "weapon-sword-and-shield-radobaan-os-i": {
+      "Key": "weapon-sword-and-shield-radobaan-os-i",
+      "Translation": "Radobaan Os I"
+    },
+    "weapon-sword-and-shield-radobaan-os-ii": {
+      "Key": "weapon-sword-and-shield-radobaan-os-ii",
+      "Translation": "Radobaan Os II"
+    },
+    "weapon-sword-and-shield-radobaan-os-iii": {
+      "Key": "weapon-sword-and-shield-radobaan-os-iii",
+      "Translation": "Radobaan Os III"
+    },
+    "weapon-sword-and-shield-icegale": {
+      "Key": "weapon-sword-and-shield-icegale",
+      "Translation": "Icegale"
+    },
+    "weapon-sword-and-shield-radobaan-osseus-i": {
+      "Key": "weapon-sword-and-shield-radobaan-osseus-i",
+      "Translation": "Radobaan Osseus I"
+    },
+    "weapon-sword-and-shield-radobaan-osseus-ii": {
+      "Key": "weapon-sword-and-shield-radobaan-osseus-ii",
+      "Translation": "Radobaan Osseus II"
+    },
+    "weapon-sword-and-shield-acid-razor-i": {
+      "Key": "weapon-sword-and-shield-acid-razor-i",
+      "Translation": "Acid Razor I"
+    },
+    "weapon-sword-and-shield-acid-razor-ii": {
+      "Key": "weapon-sword-and-shield-acid-razor-ii",
+      "Translation": "Acid Razor II"
+    },
+    "weapon-sword-and-shield-sabers-gullet-i": {
+      "Key": "weapon-sword-and-shield-sabers-gullet-i",
+      "Translation": "Saber's Gullet I"
+    },
+    "weapon-sword-and-shield-sabers-gullet-ii": {
+      "Key": "weapon-sword-and-shield-sabers-gullet-ii",
+      "Translation": "Saber's Gullet II"
+    },
+    "weapon-sword-and-shield-rex-talon": {
+      "Key": "weapon-sword-and-shield-rex-talon",
+      "Translation": "Rex Talon"
+    },
+    "weapon-sword-and-shield-rex-talon-plus": {
+      "Key": "weapon-sword-and-shield-rex-talon-plus",
+      "Translation": "Rex Talon+"
+    },
+    "weapon-sword-and-shield-tigrex-sword": {
+      "Key": "weapon-sword-and-shield-tigrex-sword",
+      "Translation": "Tigrex Sword"
+    },
+    "weapon-sword-and-shield-accursed-claw": {
+      "Key": "weapon-sword-and-shield-accursed-claw",
+      "Translation": "Accursed Claw"
+    },
+    "weapon-sword-and-shield-stonebite": {
+      "Key": "weapon-sword-and-shield-stonebite",
+      "Translation": "Stonebite"
+    },
+    "weapon-sword-and-shield-lightning-nemesis-iv": {
+      "Key": "weapon-sword-and-shield-lightning-nemesis-iv",
+      "Translation": "Lightning Nemesis IV"
+    },
+    "weapon-sword-and-shield-usurpers-firebolt": {
+      "Key": "weapon-sword-and-shield-usurpers-firebolt",
+      "Translation": "Usurper's Firebolt"
+    },
+    "weapon-sword-and-shield-usurpers-firebolt-plus": {
+      "Key": "weapon-sword-and-shield-usurpers-firebolt-plus",
+      "Translation": "Usurper's Firebolt+"
+    },
+    "weapon-sword-and-shield-despots-crookbolt": {
+      "Key": "weapon-sword-and-shield-despots-crookbolt",
+      "Translation": "Despot's Crookbolt"
+    },
+    "weapon-sword-and-shield-barroth-slicer-i": {
+      "Key": "weapon-sword-and-shield-barroth-slicer-i",
+      "Translation": "Barroth Slicer I"
+    },
+    "weapon-sword-and-shield-barroth-slicer-ii": {
+      "Key": "weapon-sword-and-shield-barroth-slicer-ii",
+      "Translation": "Barroth Slicer II"
+    },
+    "weapon-sword-and-shield-glavenus-razor-i": {
+      "Key": "weapon-sword-and-shield-glavenus-razor-i",
+      "Translation": "Glavenus Razor I"
+    },
+    "weapon-sword-and-shield-glavenus-razor-ii": {
+      "Key": "weapon-sword-and-shield-glavenus-razor-ii",
+      "Translation": "Glavenus Razor II"
+    },
+    "weapon-sword-and-shield-gnashing-flammensucher-plus": {
+      "Key": "weapon-sword-and-shield-gnashing-flammensucher-plus",
+      "Translation": "Gnashing Flammensucher+"
+    },
+    "weapon-sword-and-shield-lohensieger": {
+      "Key": "weapon-sword-and-shield-lohensieger",
+      "Translation": "Lohensieger"
+    },
+    "weapon-sword-and-shield-donnersieger": {
+      "Key": "weapon-sword-and-shield-donnersieger",
+      "Translation": "Donnersieger"
+    },
+    "weapon-sword-and-shield-donnersieger-plus": {
+      "Key": "weapon-sword-and-shield-donnersieger-plus",
+      "Translation": "Donnersieger+"
+    },
+    "weapon-sword-and-shield-fulgurations-talon": {
+      "Key": "weapon-sword-and-shield-fulgurations-talon",
+      "Translation": "Fulguration's Talon"
+    },
+    "weapon-sword-and-shield-dragonseal-aldsword-i": {
+      "Key": "weapon-sword-and-shield-dragonseal-aldsword-i",
+      "Translation": "Dragonseal Aldsword I"
+    },
+    "weapon-sword-and-shield-dragonseal-aldsword-ii": {
+      "Key": "weapon-sword-and-shield-dragonseal-aldsword-ii",
+      "Translation": "Dragonseal Aldsword II"
+    },
+    "weapon-sword-and-shield-manifested-lotus": {
+      "Key": "weapon-sword-and-shield-manifested-lotus",
+      "Translation": "Manifested Lotus"
+    },
+    "weapon-sword-and-shield-ephemeral-fulminator": {
+      "Key": "weapon-sword-and-shield-ephemeral-fulminator",
+      "Translation": "Ephemeral Fulminator"
+    },
+    "weapon-sword-and-shield-hydros-discus": {
+      "Key": "weapon-sword-and-shield-hydros-discus",
+      "Translation": "Hydros Discus"
+    },
+    "weapon-sword-and-shield-teostras-medal": {
+      "Key": "weapon-sword-and-shield-teostras-medal",
+      "Translation": "Teostra's Medal"
+    },
+    "weapon-sword-and-shield-fates-shear": {
+      "Key": "weapon-sword-and-shield-fates-shear",
+      "Translation": "Fate's Shear"
+    },
+    "weapon-sword-and-shield-soulfire-barb-blaze": {
+      "Key": "weapon-sword-and-shield-soulfire-barb-blaze",
+      "Translation": "Soulfire Barb \"Blaze\""
+    },
+    "weapon-sword-and-shield-soulfire-barb-ruin": {
+      "Key": "weapon-sword-and-shield-soulfire-barb-ruin",
+      "Translation": "Soulfire Barb \"Ruin\""
+    },
+    "weapon-sword-and-shield-rajang-club": {
+      "Key": "weapon-sword-and-shield-rajang-club",
+      "Translation": "Rajang Club"
+    },
+    "weapon-sword-and-shield-banned-rajang-club": {
+      "Key": "weapon-sword-and-shield-banned-rajang-club",
+      "Translation": "Banned Rajang Club"
     }
   }

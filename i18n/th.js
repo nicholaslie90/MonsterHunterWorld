@@ -1,7 +1,7 @@
 export default {
     "armor-alloy-description": {
       "Key": "armor-alloy-description",
-      "Translation": "เกราะที่ทำจากแร่ machalite ดี มันขาดอะไรในเสน่ห์ของมันมากกว่าทำให้ขึ้นในการป้องกัน"
+      "Translation": "เกราะที่ทำจากแร่ปรับ machalite มันขาดอะไรในเสน่ห์ของมันมากกว่าทำให้ขึ้นในการป้องกัน"
     },
     "armor-anja-description": {
       "Key": "armor-anja-description",
@@ -13,7 +13,7 @@ export default {
     },
     "armor-barnos-description": {
       "Key": "armor-barnos-description",
-      "Translation": "หนาแข็งผม Gastodon ใช้ในชุดเกราะนี้ได้รับการรักษาเพื่อเพิ่มการดูดซึมผลกระทบ"
+      "Translation": "หนาแข็ง Gastodon ผมใช้ในชุดเกราะนี้ได้รับการรักษาเพื่อเพิ่มการดูดซึมผลกระทบ"
     },
     "armor-barroth-description": {
       "Key": "armor-barroth-description",
@@ -33,7 +33,7 @@ export default {
     },
     "armor-brigade-boots-description": {
       "Key": "armor-brigade-boots-description",
-      "Translation": "เกราะสมาคม แต่เพียงผู้เดียวสำหรับแชมป์สนามกีฬา ต้องใช้เวลานานในการปลอม ความทนทานอย่างไม่น่าเชื่อ"
+      "Translation": "เกราะสมาคม แต่เพียงผู้เดียวสำหรับแชมป์สนามกีฬา ใช้เวลานานในการปลอม ความทนทานอย่างไม่น่าเชื่อ"
     },
     "armor-brigade-coil-description": {
       "Key": "armor-brigade-coil-description",
@@ -53,7 +53,7 @@ export default {
     },
     "armor-butterfly-description": {
       "Key": "armor-butterfly-description",
-      "Translation": "เกราะพราวทำมาจากชิ้นส่วนของแมลง น้ำหนักเบาและสีของมันเป็นหลักฐานของชั้นหนึ่งของ"
+      "Translation": "เกราะพราวทำมาจากชิ้นส่วนของแมลง น้ำหนักเบาและสีเป็นหลักฐานของชั้นหนึ่งของ"
     },
     "armor-chainmail-description": {
       "Key": "armor-chainmail-description",
@@ -93,7 +93,7 @@ export default {
     },
     "armor-dantes-coat-description": {
       "Key": "armor-dantes-coat-description",
-      "Translation": "เสื้อ Replica fashioned หลังจากที่หนึ่งดันเต้สวม เพราะการดำเนินการเรียกร้องที่ทันสมัยมีสไตล์แฟชั่น"
+      "Translation": "Replica เสื้อ fashioned หลังจากที่หนึ่งดันเต้สวม เพราะการดำเนินการเรียกร้องที่ทันสมัยมีสไตล์แฟชั่น"
     },
     "armor-dantes-gloves-description": {
       "Key": "armor-dantes-gloves-description",
@@ -101,7 +101,7 @@ export default {
     },
     "armor-dantes-hair-description": {
       "Key": "armor-dantes-hair-description",
-      "Translation": "Fashioned หลังจากดันเต้, นักล่าปีศาจ ทำให้ทุกคนรู้ว่าคุณไม่ได้มาจากรอบ ๆ ที่นี่"
+      "Translation": "Fashioned หลังจาก Dante นักล่าปีศาจ ทำให้ทุกคนรู้ว่าคุณไม่ได้มาจากรอบ ๆ ที่นี่"
     },
     "armor-dantes-leather-boots-description": {
       "Key": "armor-dantes-leather-boots-description",
@@ -121,7 +121,7 @@ export default {
     },
     "armor-detail-set-bonus-skills": {
       "Key": "armor-detail-set-bonus-skills",
-      "Translation": "ตั้งทักษะโบนัส"
+      "Translation": "ชุดทักษะโบนัส"
     },
     "armor-detail-total-cost": {
       "Key": "armor-detail-total-cost",
@@ -153,7 +153,7 @@ export default {
     },
     "armor-detail-total-thunder-defense": {
       "Key": "armor-detail-total-thunder-defense",
-      "Translation": "กลาโหมทันเดอร์รวม"
+      "Translation": "รวมกลาโหมทันเดอร์"
     },
     "armor-detail-total-water-defense": {
       "Key": "armor-detail-total-water-defense",
@@ -161,11 +161,11 @@ export default {
     },
     "armor-deviljho-description": {
       "Key": "armor-deviljho-description",
-      "Translation": "เกราะ Deviljho ที่มอบพลังมหากาพย์ที่จะสวมที่ค่าใช้จ่ายของความกระหายที่ไม่มีที่สิ้นสุดสำหรับเนื้อ"
+      "Translation": "เกราะ Deviljho ที่มอบพลังมหากาพย์ที่จะสวมใส่มันในราคาที่ไม่มีที่สิ้นสุดกระหายเนื้อ"
     },
     "armor-diablos-description": {
       "Key": "armor-diablos-description",
-      "Translation": "แตรตัวหนาเกี่ยวกับเรื่องนี้ Diablos เกราะมีความท้าทายในการใด ๆ ที่สงสัยกฎของคุณมากกว่าหาดทรายที่"
+      "Translation": "แตรตัวหนาบน Diablos นี้ชุดเกราะที่มีความท้าทายในการใด ๆ ที่สงสัยกฎของคุณมากกว่าหาดทราย"
     },
     "armor-diablos-nero-description": {
       "Key": "armor-diablos-nero-description",
@@ -197,7 +197,7 @@ export default {
     },
     "armor-drachen-mail-description": {
       "Key": "armor-drachen-mail-description",
-      "Translation": "มอบให้กับผู้ที่คุ้มค่าของชื่อ Azure ม้า หัวใจของมันไม่โค้งเข่าในการใช้พลังงาน"
+      "Translation": "มอบให้กับผู้ที่คุ้มค่าของชื่อ Azure ม้า หัวใจของมันไม่โค้งเข่าสู่อำนาจ"
     },
     "armor-drachen-vambraces-description": {
       "Key": "armor-drachen-vambraces-description",
@@ -205,7 +205,7 @@ export default {
     },
     "armor-dragonseal-earrings-alpha-description": {
       "Key": "armor-dragonseal-earrings-alpha-description",
-      "Translation": "ต่างหูสง่างามที่ได้รับรางวัลศึกสังเวียน เป็นสัญลักษณ์ของความตั้งใจที่จะอยู่เหนือความขัดแย้ง"
+      "Translation": "ต่างหูสง่างามที่ได้รับรางวัลศึกสังเวียน เป็นสัญลักษณ์ของความตั้งใจที่จะเพิ่มขึ้นการปะทะกันดังกล่าวข้างต้น"
     },
     "armor-dragonseal-earrings-alpha-how-to-get": {
       "Key": "armor-dragonseal-earrings-alpha-how-to-get",
@@ -229,7 +229,7 @@ export default {
     },
     "armor-empress-vambraces-description": {
       "Key": "armor-empress-vambraces-description",
-      "Translation": "วิศวกรรมพิเศษสีฟ้าเกี่ยวกับเรื่องนี้ Lunastra เสน่ห์เกราะสามารถแม้แต่คนชอบธรรมที่สุดของหัวใจ"
+      "Translation": "วิศวกรรมพิเศษสีฟ้าเกี่ยวกับเรื่องนี้ Lunastra เสน่ห์เกราะได้มากที่สุดชอบธรรมของหัวใจ"
     },
     "armor-faux-felyne-description": {
       "Key": "armor-faux-felyne-description",
@@ -241,11 +241,11 @@ export default {
     },
     "armor-gala-suit-description": {
       "Key": "armor-gala-suit-description",
-      "Translation": "ต้องมีการจองตั๋วชื่นชมงานฝีมือ นี้เกราะสวยเข้าตาสว่างเป็น Appreciation Fest"
+      "Translation": "ต้องมีการจองตั๋วชื่นชมกับฝีมือ นี้เกราะสวยเข้าตาสว่างเป็น Appreciation Fest"
     },
     "armor-gastodon-description": {
       "Key": "armor-gastodon-description",
-      "Translation": "หนาแข็งผม Gastodon ใช้ในชุดเกราะนี้ได้รับการรักษาเพื่อเพิ่มการดูดซึมผลกระทบ"
+      "Translation": "หนาแข็ง Gastodon ผมใช้ในชุดเกราะนี้ได้รับการรักษาเพื่อเพิ่มการดูดซึมผลกระทบ"
     },
     "armor-girros-description": {
       "Key": "armor-girros-description",
@@ -257,7 +257,7 @@ export default {
     },
     "armor-hornetaur-description": {
       "Key": "armor-hornetaur-description",
-      "Translation": "เกราะชุบในส่วน Hornetaur ยากเงาดังนั้นคุณจะสาบานมันเป็นโลหะขัด"
+      "Translation": "เกราะชุบในส่วน Hornetaur อย่างหนักเพื่อที่เงาคุณจะสาบานมันเป็นโลหะขัด"
     },
     "armor-hr-alloy-alpha": {
       "Key": "armor-hr-alloy-alpha",
@@ -273,7 +273,7 @@ export default {
     },
     "armor-hr-alloy-coil-beta": {
       "Key": "armor-hr-alloy-coil-beta",
-      "Translation": "เอสเอสแม็กคอยล์"
+      "Translation": "ล้อแม็กคอยล์บาท"
     },
     "armor-hr-alloy-greaves-alpha": {
       "Key": "armor-hr-alloy-greaves-alpha",
@@ -281,7 +281,7 @@ export default {
     },
     "armor-hr-alloy-greaves-beta": {
       "Key": "armor-hr-alloy-greaves-beta",
-      "Translation": "เอสเอสแม็กซ์สนับ"
+      "Translation": "แม็กซ์สนับบาท"
     },
     "armor-hr-alloy-helm-alpha": {
       "Key": "armor-hr-alloy-helm-alpha",
@@ -289,7 +289,7 @@ export default {
     },
     "armor-hr-alloy-helm-beta": {
       "Key": "armor-hr-alloy-helm-beta",
-      "Translation": "เอสเอสแม็กพวงมาลัย"
+      "Translation": "ล้อแม็กพวงมาลัยบาท"
     },
     "armor-hr-alloy-mail-alpha": {
       "Key": "armor-hr-alloy-mail-alpha",
@@ -297,7 +297,7 @@ export default {
     },
     "armor-hr-alloy-mail-beta": {
       "Key": "armor-hr-alloy-mail-beta",
-      "Translation": "เอสเอสแม็กเมล์"
+      "Translation": "ล้อแม็กเมล์บาท"
     },
     "armor-hr-alloy-vambraces-alpha": {
       "Key": "armor-hr-alloy-vambraces-alpha",
@@ -305,7 +305,7 @@ export default {
     },
     "armor-hr-alloy-vambraces-beta": {
       "Key": "armor-hr-alloy-vambraces-beta",
-      "Translation": "เอสเอสแม็ก vambraces"
+      "Translation": "ล้อแม็ก vambraces บาท"
     },
     "armor-hr-anja-alpha": {
       "Key": "armor-hr-anja-alpha",
@@ -321,7 +321,7 @@ export default {
     },
     "armor-hr-anja-coil-beta": {
       "Key": "armor-hr-anja-coil-beta",
-      "Translation": "เอสเอส Anja คอยล์"
+      "Translation": "Anja คอยล์บาท"
     },
     "armor-hr-anja-greaves-alpha": {
       "Key": "armor-hr-anja-greaves-alpha",
@@ -329,7 +329,7 @@ export default {
     },
     "armor-hr-anja-greaves-beta": {
       "Key": "armor-hr-anja-greaves-beta",
-      "Translation": "เอสเอส Anja สนับ"
+      "Translation": "Anja สนับบาท"
     },
     "armor-hr-anja-helm-alpha": {
       "Key": "armor-hr-anja-helm-alpha",
@@ -337,7 +337,7 @@ export default {
     },
     "armor-hr-anja-helm-beta": {
       "Key": "armor-hr-anja-helm-beta",
-      "Translation": "เอสเอส Anja พวงมาลัย"
+      "Translation": "Anja Helm บาท"
     },
     "armor-hr-anja-mail-alpha": {
       "Key": "armor-hr-anja-mail-alpha",
@@ -345,7 +345,7 @@ export default {
     },
     "armor-hr-anja-mail-beta": {
       "Key": "armor-hr-anja-mail-beta",
-      "Translation": "เอสเอส Anja จดหมาย"
+      "Translation": "Anja จดหมายเอสเอส"
     },
     "armor-hr-anja-vambraces-alpha": {
       "Key": "armor-hr-anja-vambraces-alpha",
@@ -353,7 +353,7 @@ export default {
     },
     "armor-hr-anja-vambraces-beta": {
       "Key": "armor-hr-anja-vambraces-beta",
-      "Translation": "เอสเอส Anja vambraces"
+      "Translation": "Anja vambraces บาท"
     },
     "armor-hr-azure-starlord-alpha": {
       "Key": "armor-hr-azure-starlord-alpha",
@@ -393,15 +393,15 @@ export default {
     },
     "armor-hr-baan-coil-beta": {
       "Key": "armor-hr-baan-coil-beta",
-      "Translation": "เอสเอสบ้านคอยล์"
+      "Translation": "บ้านคอยล์บาท"
     },
     "armor-hr-baan-greaves-alpha": {
       "Key": "armor-hr-baan-greaves-alpha",
-      "Translation": "บ้านนับ⍺"
+      "Translation": "สนับบ้าน⍺"
     },
     "armor-hr-baan-greaves-beta": {
       "Key": "armor-hr-baan-greaves-beta",
-      "Translation": "เอสเอสเพอร์สนับ"
+      "Translation": "บ้านนับบาท"
     },
     "armor-hr-baan-helm-alpha": {
       "Key": "armor-hr-baan-helm-alpha",
@@ -409,7 +409,7 @@ export default {
     },
     "armor-hr-baan-helm-beta": {
       "Key": "armor-hr-baan-helm-beta",
-      "Translation": "เอสเอสบ้านหางเสือ"
+      "Translation": "บ้าน Helm บาท"
     },
     "armor-hr-baan-mail-alpha": {
       "Key": "armor-hr-baan-mail-alpha",
@@ -417,7 +417,7 @@ export default {
     },
     "armor-hr-baan-mail-beta": {
       "Key": "armor-hr-baan-mail-beta",
-      "Translation": "เอสเอสบ้านจดหมาย"
+      "Translation": "บ้านจดหมายเอสเอส"
     },
     "armor-hr-baan-vambraces-alpha": {
       "Key": "armor-hr-baan-vambraces-alpha",
@@ -425,7 +425,7 @@ export default {
     },
     "armor-hr-baan-vambraces-beta": {
       "Key": "armor-hr-baan-vambraces-beta",
-      "Translation": "เอสเอสบ้าน vambraces"
+      "Translation": "บ้าน vambraces บาท"
     },
     "armor-hr-barnos-alpha": {
       "Key": "armor-hr-barnos-alpha",
@@ -433,7 +433,7 @@ export default {
     },
     "armor-hr-barnos-beta": {
       "Key": "armor-hr-barnos-beta",
-      "Translation": "เอสเอส Barnos"
+      "Translation": "Barnos บาท"
     },
     "armor-hr-barnos-jacket-alpha": {
       "Key": "armor-hr-barnos-jacket-alpha",
@@ -441,7 +441,7 @@ export default {
     },
     "armor-hr-barnos-jacket-beta": {
       "Key": "armor-hr-barnos-jacket-beta",
-      "Translation": "Barnos ßแจ็คเก็ต"
+      "Translation": "Barnos แจ็คเก็ตเอสเอส"
     },
     "armor-hr-barroth-alpha": {
       "Key": "armor-hr-barroth-alpha",
@@ -449,7 +449,7 @@ export default {
     },
     "armor-hr-barroth-beta": {
       "Key": "armor-hr-barroth-beta",
-      "Translation": "เอสเอส Barroth"
+      "Translation": "Barroth บาท"
     },
     "armor-hr-barroth-coil-alpha": {
       "Key": "armor-hr-barroth-coil-alpha",
@@ -457,7 +457,7 @@ export default {
     },
     "armor-hr-barroth-coil-beta": {
       "Key": "armor-hr-barroth-coil-beta",
-      "Translation": "เอสเอส Barroth คอยล์"
+      "Translation": "Barroth คอยล์บาท"
     },
     "armor-hr-barroth-greaves-alpha": {
       "Key": "armor-hr-barroth-greaves-alpha",
@@ -465,7 +465,7 @@ export default {
     },
     "armor-hr-barroth-greaves-beta": {
       "Key": "armor-hr-barroth-greaves-beta",
-      "Translation": "เอสเอส Barroth สนับ"
+      "Translation": "Barroth สนับบาท"
     },
     "armor-hr-barroth-helm-alpha": {
       "Key": "armor-hr-barroth-helm-alpha",
@@ -473,7 +473,7 @@ export default {
     },
     "armor-hr-barroth-helm-beta": {
       "Key": "armor-hr-barroth-helm-beta",
-      "Translation": "เอสเอส Barroth พวงมาลัย"
+      "Translation": "Barroth Helm บาท"
     },
     "armor-hr-barroth-mail-alpha": {
       "Key": "armor-hr-barroth-mail-alpha",
@@ -481,7 +481,7 @@ export default {
     },
     "armor-hr-barroth-mail-beta": {
       "Key": "armor-hr-barroth-mail-beta",
-      "Translation": "เอสเอส Barroth จดหมาย"
+      "Translation": "Barroth จดหมายเอสเอส"
     },
     "armor-hr-barroth-vambraces-alpha": {
       "Key": "armor-hr-barroth-vambraces-alpha",
@@ -489,7 +489,7 @@ export default {
     },
     "armor-hr-barroth-vambraces-beta": {
       "Key": "armor-hr-barroth-vambraces-beta",
-      "Translation": "เอสเอส Barroth vambraces"
+      "Translation": "Barroth vambraces บาท"
     },
     "armor-hr-bazel-alpha": {
       "Key": "armor-hr-bazel-alpha",
@@ -497,7 +497,7 @@ export default {
     },
     "armor-hr-bazel-beta": {
       "Key": "armor-hr-bazel-beta",
-      "Translation": "เอสเอส Bazel"
+      "Translation": "Bazel บาท"
     },
     "armor-hr-bazel-coil-alpha": {
       "Key": "armor-hr-bazel-coil-alpha",
@@ -505,7 +505,7 @@ export default {
     },
     "armor-hr-bazel-coil-beta": {
       "Key": "armor-hr-bazel-coil-beta",
-      "Translation": "เอสเอส Bazel คอยล์"
+      "Translation": "Bazel คอยล์บาท"
     },
     "armor-hr-bazel-greaves-alpha": {
       "Key": "armor-hr-bazel-greaves-alpha",
@@ -513,7 +513,7 @@ export default {
     },
     "armor-hr-bazel-greaves-beta": {
       "Key": "armor-hr-bazel-greaves-beta",
-      "Translation": "เอสเอส Bazel สนับ"
+      "Translation": "Bazel สนับบาท"
     },
     "armor-hr-bazel-helm-alpha": {
       "Key": "armor-hr-bazel-helm-alpha",
@@ -521,7 +521,7 @@ export default {
     },
     "armor-hr-bazel-helm-beta": {
       "Key": "armor-hr-bazel-helm-beta",
-      "Translation": "เอสเอส Bazel พวงมาลัย"
+      "Translation": "Bazel Helm บาท"
     },
     "armor-hr-bazel-mail-alpha": {
       "Key": "armor-hr-bazel-mail-alpha",
@@ -529,7 +529,7 @@ export default {
     },
     "armor-hr-bazel-mail-beta": {
       "Key": "armor-hr-bazel-mail-beta",
-      "Translation": "เอสเอส Bazel จดหมาย"
+      "Translation": "Bazel จดหมายเอสเอส"
     },
     "armor-hr-bazel-vambraces-alpha": {
       "Key": "armor-hr-bazel-vambraces-alpha",
@@ -537,7 +537,7 @@ export default {
     },
     "armor-hr-bazel-vambraces-beta": {
       "Key": "armor-hr-bazel-vambraces-beta",
-      "Translation": "เอสเอส Bazel vambraces"
+      "Translation": "Bazel vambraces บาท"
     },
     "armor-hr-blossom-alpha": {
       "Key": "armor-hr-blossom-alpha",
@@ -569,7 +569,7 @@ export default {
     },
     "armor-hr-bone-beta": {
       "Key": "armor-hr-bone-beta",
-      "Translation": "เอสเอสกระดูก"
+      "Translation": "กระดูกบาท"
     },
     "armor-hr-bone-coil-alpha": {
       "Key": "armor-hr-bone-coil-alpha",
@@ -577,7 +577,7 @@ export default {
     },
     "armor-hr-bone-coil-beta": {
       "Key": "armor-hr-bone-coil-beta",
-      "Translation": "เอสเอสโบนคอยล์"
+      "Translation": "กระดูกคอยล์บาท"
     },
     "armor-hr-bone-greaves-alpha": {
       "Key": "armor-hr-bone-greaves-alpha",
@@ -585,7 +585,7 @@ export default {
     },
     "armor-hr-bone-greaves-beta": {
       "Key": "armor-hr-bone-greaves-beta",
-      "Translation": "เอสเอสนับกระดูก"
+      "Translation": "กระดูกนับบาท"
     },
     "armor-hr-bone-helm-alpha": {
       "Key": "armor-hr-bone-helm-alpha",
@@ -593,7 +593,7 @@ export default {
     },
     "armor-hr-bone-helm-beta": {
       "Key": "armor-hr-bone-helm-beta",
-      "Translation": "เอสเอสกระดูกพวงมาลัย"
+      "Translation": "กระดูก Helm บาท"
     },
     "armor-hr-bone-mail-alpha": {
       "Key": "armor-hr-bone-mail-alpha",
@@ -601,7 +601,7 @@ export default {
     },
     "armor-hr-bone-mail-beta": {
       "Key": "armor-hr-bone-mail-beta",
-      "Translation": "เอสเอสกระดูกจดหมาย"
+      "Translation": "กระดูกจดหมายเอสเอส"
     },
     "armor-hr-bone-vambraces-alpha": {
       "Key": "armor-hr-bone-vambraces-alpha",
@@ -609,7 +609,7 @@ export default {
     },
     "armor-hr-bone-vambraces-beta": {
       "Key": "armor-hr-bone-vambraces-beta",
-      "Translation": "เอสเอสกระดูก vambraces"
+      "Translation": "กระดูก vambraces บาท"
     },
     "armor-hr-brigade-alpha": {
       "Key": "armor-hr-brigade-alpha",
@@ -617,15 +617,15 @@ export default {
     },
     "armor-hr-brigade-beta": {
       "Key": "armor-hr-brigade-beta",
-      "Translation": "ßเพลิง"
+      "Translation": "กองพลเอสเอส"
     },
     "armor-hr-brigade-boots-alpha": {
       "Key": "armor-hr-brigade-boots-alpha",
-      "Translation": "บู๊ทส์กองพล⍺"
+      "Translation": "กองพลบู๊ทส์⍺"
     },
     "armor-hr-brigade-boots-beta": {
       "Key": "armor-hr-brigade-boots-beta",
-      "Translation": "เอสเอสกองพลบู๊ทส์"
+      "Translation": "กองพลบู๊ทส์เอสเอส"
     },
     "armor-hr-brigade-coil-alpha": {
       "Key": "armor-hr-brigade-coil-alpha",
@@ -633,7 +633,7 @@ export default {
     },
     "armor-hr-brigade-coil-beta": {
       "Key": "armor-hr-brigade-coil-beta",
-      "Translation": "เอสเอสกองพลคอยล์"
+      "Translation": "กองพลคอยล์บาท"
     },
     "armor-hr-brigade-lobos-alpha": {
       "Key": "armor-hr-brigade-lobos-alpha",
@@ -641,7 +641,7 @@ export default {
     },
     "armor-hr-brigade-lobos-beta": {
       "Key": "armor-hr-brigade-lobos-beta",
-      "Translation": "เอสเอสกองพลบอส"
+      "Translation": "กองพลบอสเอสเอส"
     },
     "armor-hr-brigade-suit-alpha": {
       "Key": "armor-hr-brigade-suit-alpha",
@@ -649,7 +649,7 @@ export default {
     },
     "armor-hr-brigade-suit-beta": {
       "Key": "armor-hr-brigade-suit-beta",
-      "Translation": "เอสเอสกองพลสูท"
+      "Translation": "กองพลสูทเอสเอส"
     },
     "armor-hr-brigade-vambraces-alpha": {
       "Key": "armor-hr-brigade-vambraces-alpha",
@@ -657,7 +657,7 @@ export default {
     },
     "armor-hr-brigade-vambraces-beta": {
       "Key": "armor-hr-brigade-vambraces-beta",
-      "Translation": "เอสเอสกองพล vambraces"
+      "Translation": "กองพล vambraces บาท"
     },
     "armor-hr-butterfly-alpha": {
       "Key": "armor-hr-butterfly-alpha",
@@ -673,7 +673,7 @@ export default {
     },
     "armor-hr-butterfly-brachia-beta": {
       "Key": "armor-hr-butterfly-brachia-beta",
-      "Translation": "เอสเอสผีเสื้อ Brachia"
+      "Translation": "ผีเสื้อ Brachia บาท"
     },
     "armor-hr-butterfly-crura-alpha": {
       "Key": "armor-hr-butterfly-crura-alpha",
@@ -681,7 +681,7 @@ export default {
     },
     "armor-hr-butterfly-crura-beta": {
       "Key": "armor-hr-butterfly-crura-beta",
-      "Translation": "เอสเอสผีเสื้อ Crura"
+      "Translation": "ผีเสื้อ Crura บาท"
     },
     "armor-hr-butterfly-elytra-alpha": {
       "Key": "armor-hr-butterfly-elytra-alpha",
@@ -689,7 +689,7 @@ export default {
     },
     "armor-hr-butterfly-elytra-beta": {
       "Key": "armor-hr-butterfly-elytra-beta",
-      "Translation": "เอสเอสผีเสื้อ Elytra"
+      "Translation": "ผีเสื้อ Elytra บาท"
     },
     "armor-hr-butterfly-thorax-alpha": {
       "Key": "armor-hr-butterfly-thorax-alpha",
@@ -697,7 +697,7 @@ export default {
     },
     "armor-hr-butterfly-thorax-beta": {
       "Key": "armor-hr-butterfly-thorax-beta",
-      "Translation": "เอสเอสผีเสื้อทรวงอก"
+      "Translation": "ผีเสื้อทรวงอกบาท"
     },
     "armor-hr-butterfly-vertex-alpha": {
       "Key": "armor-hr-butterfly-vertex-alpha",
@@ -705,7 +705,7 @@ export default {
     },
     "armor-hr-butterfly-vertex-beta": {
       "Key": "armor-hr-butterfly-vertex-beta",
-      "Translation": "เอสเอสผีเสื้อเวอร์เท็กซ์"
+      "Translation": "ผีเสื้อเท็กซ์เอสเอส"
     },
     "armor-hr-chainmail-alpha": {
       "Key": "armor-hr-chainmail-alpha",
@@ -717,7 +717,7 @@ export default {
     },
     "armor-hr-chainmail-armor-beta": {
       "Key": "armor-hr-chainmail-armor-beta",
-      "Translation": "เอสเอส Chainmail เกราะ"
+      "Translation": "Chainmail เกราะเอสเอส"
     },
     "armor-hr-chainmail-belt-alpha": {
       "Key": "armor-hr-chainmail-belt-alpha",
@@ -725,11 +725,11 @@ export default {
     },
     "armor-hr-chainmail-belt-beta": {
       "Key": "armor-hr-chainmail-belt-beta",
-      "Translation": "เอสเอส Chainmail เข็มขัด"
+      "Translation": "Chainmail เข็มขัดเอสเอส"
     },
     "armor-hr-chainmail-beta": {
       "Key": "armor-hr-chainmail-beta",
-      "Translation": "เอสเอส Chainmail"
+      "Translation": "Chainmail บาท"
     },
     "armor-hr-chainmail-gloves-alpha": {
       "Key": "armor-hr-chainmail-gloves-alpha",
@@ -745,7 +745,7 @@ export default {
     },
     "armor-hr-chainmail-headgear-beta": {
       "Key": "armor-hr-chainmail-headgear-beta",
-      "Translation": "เอสเอส Chainmail หมวก"
+      "Translation": "Chainmail หมวกบาท"
     },
     "armor-hr-chainmail-trousers-alpha": {
       "Key": "armor-hr-chainmail-trousers-alpha",
@@ -765,7 +765,7 @@ export default {
     },
     "armor-hr-commission-belt-beta": {
       "Key": "armor-hr-commission-belt-beta",
-      "Translation": "เอสเอสสำนักงานคณะกรรมการกำกับเข็มขัด"
+      "Translation": "สำนักงานคณะกรรมการกำกับเข็มขัดเอสเอส"
     },
     "armor-hr-commission-beta": {
       "Key": "armor-hr-commission-beta",
@@ -777,7 +777,7 @@ export default {
     },
     "armor-hr-commission-gorget-beta": {
       "Key": "armor-hr-commission-gorget-beta",
-      "Translation": "เอสเอสคอคณะกรรมการ"
+      "Translation": "คณะกรรมการคอเอสเอส"
     },
     "armor-hr-commission-jacket-alpha": {
       "Key": "armor-hr-commission-jacket-alpha",
@@ -785,7 +785,7 @@ export default {
     },
     "armor-hr-commission-jacket-beta": {
       "Key": "armor-hr-commission-jacket-beta",
-      "Translation": "เอสเอสสำนักงานคณะกรรมการกำกับแจ็คเก็ต"
+      "Translation": "สำนักงานคณะกรรมการกำกับแจ็คเก็ตเอสเอส"
     },
     "armor-hr-commission-pants-alpha": {
       "Key": "armor-hr-commission-pants-alpha",
@@ -801,7 +801,7 @@ export default {
     },
     "armor-hr-commission-vambraces-beta": {
       "Key": "armor-hr-commission-vambraces-beta",
-      "Translation": "เอสเอสสำนักงานคณะกรรมการกำกับ vambraces"
+      "Translation": "สำนักงานคณะกรรมการกำกับ vambraces บาท"
     },
     "armor-hr-damascus-alpha": {
       "Key": "armor-hr-damascus-alpha",
@@ -809,7 +809,7 @@ export default {
     },
     "armor-hr-damascus-beta": {
       "Key": "armor-hr-damascus-beta",
-      "Translation": "เอสเอสดามัสกัส"
+      "Translation": "ดามัสกัสบาท"
     },
     "armor-hr-damascus-coil-alpha": {
       "Key": "armor-hr-damascus-coil-alpha",
@@ -817,7 +817,7 @@ export default {
     },
     "armor-hr-damascus-coil-beta": {
       "Key": "armor-hr-damascus-coil-beta",
-      "Translation": "เอสเอสดามัสกัสคอยล์"
+      "Translation": "ดามัสกัสคอยล์บาท"
     },
     "armor-hr-damascus-greaves-alpha": {
       "Key": "armor-hr-damascus-greaves-alpha",
@@ -825,7 +825,7 @@ export default {
     },
     "armor-hr-damascus-greaves-beta": {
       "Key": "armor-hr-damascus-greaves-beta",
-      "Translation": "เอสเอสดามัสกัสสนับ"
+      "Translation": "ดามัสกัสสนับบาท"
     },
     "armor-hr-damascus-helm-alpha": {
       "Key": "armor-hr-damascus-helm-alpha",
@@ -833,7 +833,7 @@ export default {
     },
     "armor-hr-damascus-helm-beta": {
       "Key": "armor-hr-damascus-helm-beta",
-      "Translation": "เอสเอสดามัสกัสพวงมาลัย"
+      "Translation": "ดามัสกัส Helm บาท"
     },
     "armor-hr-damascus-mail-alpha": {
       "Key": "armor-hr-damascus-mail-alpha",
@@ -841,7 +841,7 @@ export default {
     },
     "armor-hr-damascus-mail-beta": {
       "Key": "armor-hr-damascus-mail-beta",
-      "Translation": "เอสเอสดามัสกัสจดหมาย"
+      "Translation": "ดามัสกัสจดหมายเอสเอส"
     },
     "armor-hr-damascus-vambraces-alpha": {
       "Key": "armor-hr-damascus-vambraces-alpha",
@@ -849,7 +849,7 @@ export default {
     },
     "armor-hr-damascus-vambraces-beta": {
       "Key": "armor-hr-damascus-vambraces-beta",
-      "Translation": "เอสเอสดามัสกัส vambraces"
+      "Translation": "ดามัสกัส vambraces บาท"
     },
     "armor-hr-dante-alpha": {
       "Key": "armor-hr-dante-alpha",
@@ -881,7 +881,7 @@ export default {
     },
     "armor-hr-death-stench-beta": {
       "Key": "armor-hr-death-stench-beta",
-      "Translation": "เอสเอสตายกลิ่นเหม็น"
+      "Translation": "ตายกลิ่นเหม็นบาท"
     },
     "armor-hr-death-stench-bowels-alpha": {
       "Key": "armor-hr-death-stench-bowels-alpha",
@@ -889,7 +889,7 @@ export default {
     },
     "armor-hr-death-stench-bowels-beta": {
       "Key": "armor-hr-death-stench-bowels-beta",
-      "Translation": "เอสเอสตายกลิ่นเหม็นบาดาล"
+      "Translation": "ตายกลิ่นเหม็นบาดาลบาท"
     },
     "armor-hr-death-stench-brain-alpha": {
       "Key": "armor-hr-death-stench-brain-alpha",
@@ -897,23 +897,23 @@ export default {
     },
     "armor-hr-death-stench-brain-beta": {
       "Key": "armor-hr-death-stench-brain-beta",
-      "Translation": "ßสมองตายกลิ่นเหม็น"
+      "Translation": "เอสเอสตายกลิ่นเหม็นสมอง"
     },
     "armor-hr-death-stench-grip-alpha": {
       "Key": "armor-hr-death-stench-grip-alpha",
-      "Translation": "กำตายกลิ่นเหม็น⍺"
+      "Translation": "ตายกลิ่นเหม็น Grip ⍺"
     },
     "armor-hr-death-stench-grip-beta": {
       "Key": "armor-hr-death-stench-grip-beta",
-      "Translation": "ตายกลิ่นเหม็นß Grip"
+      "Translation": "ตายกลิ่นเหม็น Grip บาท"
     },
     "armor-hr-death-stench-heel-alpha": {
       "Key": "armor-hr-death-stench-heel-alpha",
-      "Translation": "ตายส้นกลิ่นเหม็น⍺"
+      "Translation": "ตายกลิ่นเหม็นส้น⍺"
     },
     "armor-hr-death-stench-heel-beta": {
       "Key": "armor-hr-death-stench-heel-beta",
-      "Translation": "ตายกลิ่นเหม็นßส้น"
+      "Translation": "ตายกลิ่นเหม็นส้นบาท"
     },
     "armor-hr-death-stench-muscle-alpha": {
       "Key": "armor-hr-death-stench-muscle-alpha",
@@ -921,7 +921,7 @@ export default {
     },
     "armor-hr-death-stench-muscle-beta": {
       "Key": "armor-hr-death-stench-muscle-beta",
-      "Translation": "ตายกลิ่นเหม็นßกล้ามเนื้อ"
+      "Translation": "ตายกลิ่นเหม็นกล้ามเนื้อเอสเอส"
     },
     "armor-hr-deviljho-alpha": {
       "Key": "armor-hr-deviljho-alpha",
@@ -929,7 +929,7 @@ export default {
     },
     "armor-hr-deviljho-beta": {
       "Key": "armor-hr-deviljho-beta",
-      "Translation": "เอสเอส Deviljho"
+      "Translation": "Deviljho บาท"
     },
     "armor-hr-diablos-alpha": {
       "Key": "armor-hr-diablos-alpha",
@@ -937,7 +937,7 @@ export default {
     },
     "armor-hr-diablos-beta": {
       "Key": "armor-hr-diablos-beta",
-      "Translation": "เอสเอส Diablos"
+      "Translation": "Diablos บาท"
     },
     "armor-hr-diablos-coil-alpha": {
       "Key": "armor-hr-diablos-coil-alpha",
@@ -945,7 +945,7 @@ export default {
     },
     "armor-hr-diablos-coil-beta": {
       "Key": "armor-hr-diablos-coil-beta",
-      "Translation": "เอสเอส Diablos คอยล์"
+      "Translation": "Diablos คอยล์บาท"
     },
     "armor-hr-diablos-greaves-alpha": {
       "Key": "armor-hr-diablos-greaves-alpha",
@@ -953,7 +953,7 @@ export default {
     },
     "armor-hr-diablos-greaves-beta": {
       "Key": "armor-hr-diablos-greaves-beta",
-      "Translation": "เอสเอส Diablos สนับ"
+      "Translation": "Diablos สนับบาท"
     },
     "armor-hr-diablos-helm-alpha": {
       "Key": "armor-hr-diablos-helm-alpha",
@@ -961,7 +961,7 @@ export default {
     },
     "armor-hr-diablos-helm-beta": {
       "Key": "armor-hr-diablos-helm-beta",
-      "Translation": "เอสเอส Diablos พวงมาลัย"
+      "Translation": "Diablos Helm บาท"
     },
     "armor-hr-diablos-mail-alpha": {
       "Key": "armor-hr-diablos-mail-alpha",
@@ -969,7 +969,7 @@ export default {
     },
     "armor-hr-diablos-mail-beta": {
       "Key": "armor-hr-diablos-mail-beta",
-      "Translation": "เอสเอส Diablos จดหมาย"
+      "Translation": "Diablos จดหมายเอสเอส"
     },
     "armor-hr-diablos-nero-alpha": {
       "Key": "armor-hr-diablos-nero-alpha",
@@ -977,7 +977,7 @@ export default {
     },
     "armor-hr-diablos-nero-beta": {
       "Key": "armor-hr-diablos-nero-beta",
-      "Translation": "เอสเอส Diablos Nero"
+      "Translation": "Diablos Nero บาท"
     },
     "armor-hr-diablos-nero-braces-alpha": {
       "Key": "armor-hr-diablos-nero-braces-alpha",
@@ -985,7 +985,7 @@ export default {
     },
     "armor-hr-diablos-nero-braces-beta": {
       "Key": "armor-hr-diablos-nero-braces-beta",
-      "Translation": "เอสเอส Diablos Nero จัดฟัน"
+      "Translation": "Diablos Nero จัดฟันเอสเอส"
     },
     "armor-hr-diablos-nero-coil-alpha": {
       "Key": "armor-hr-diablos-nero-coil-alpha",
@@ -993,7 +993,7 @@ export default {
     },
     "armor-hr-diablos-nero-coil-beta": {
       "Key": "armor-hr-diablos-nero-coil-beta",
-      "Translation": "เอสเอส Diablos Nero คอยล์"
+      "Translation": "Diablos Nero คอยล์บาท"
     },
     "armor-hr-diablos-nero-greaves-alpha": {
       "Key": "armor-hr-diablos-nero-greaves-alpha",
@@ -1001,7 +1001,7 @@ export default {
     },
     "armor-hr-diablos-nero-greaves-beta": {
       "Key": "armor-hr-diablos-nero-greaves-beta",
-      "Translation": "เอสเอส Diablos Nero สนับ"
+      "Translation": "Diablos Nero สนับบาท"
     },
     "armor-hr-diablos-nero-helm-alpha": {
       "Key": "armor-hr-diablos-nero-helm-alpha",
@@ -1009,7 +1009,7 @@ export default {
     },
     "armor-hr-diablos-nero-helm-beta": {
       "Key": "armor-hr-diablos-nero-helm-beta",
-      "Translation": "เอสเอส Diablos Nero พวงมาลัย"
+      "Translation": "Diablos Nero Helm บาท"
     },
     "armor-hr-diablos-nero-mail-alpha": {
       "Key": "armor-hr-diablos-nero-mail-alpha",
@@ -1017,7 +1017,7 @@ export default {
     },
     "armor-hr-diablos-nero-mail-beta": {
       "Key": "armor-hr-diablos-nero-mail-beta",
-      "Translation": "เอสเอส Diablos Nero จดหมาย"
+      "Translation": "Diablos Nero จดหมายเอสเอส"
     },
     "armor-hr-diablos-vambraces-alpha": {
       "Key": "armor-hr-diablos-vambraces-alpha",
@@ -1025,7 +1025,7 @@ export default {
     },
     "armor-hr-diablos-vambraces-beta": {
       "Key": "armor-hr-diablos-vambraces-beta",
-      "Translation": "เอสเอส Diablos vambraces"
+      "Translation": "Diablos vambraces บาท"
     },
     "armor-hr-diver-alpha": {
       "Key": "armor-hr-diver-alpha",
@@ -1033,7 +1033,7 @@ export default {
     },
     "armor-hr-divers-belt-alpha": {
       "Key": "armor-hr-divers-belt-alpha",
-      "Translation": "เข็มขัดนักประดาน้ำ⍺"
+      "Translation": "นักประดาน้ำของเข็มขัด⍺"
     },
     "armor-hr-divers-boots-alpha": {
       "Key": "armor-hr-divers-boots-alpha",
@@ -1057,7 +1057,7 @@ export default {
     },
     "armor-hr-dober-beta": {
       "Key": "armor-hr-dober-beta",
-      "Translation": "เอสเอส Dober"
+      "Translation": "Dober บาท"
     },
     "armor-hr-dober-coil-alpha": {
       "Key": "armor-hr-dober-coil-alpha",
@@ -1065,7 +1065,7 @@ export default {
     },
     "armor-hr-dober-coil-beta": {
       "Key": "armor-hr-dober-coil-beta",
-      "Translation": "เอสเอส Dober คอยล์"
+      "Translation": "Dober คอยล์บาท"
     },
     "armor-hr-dober-greaves-alpha": {
       "Key": "armor-hr-dober-greaves-alpha",
@@ -1073,7 +1073,7 @@ export default {
     },
     "armor-hr-dober-greaves-beta": {
       "Key": "armor-hr-dober-greaves-beta",
-      "Translation": "เอสเอส Dober สนับ"
+      "Translation": "Dober สนับบาท"
     },
     "armor-hr-dober-helm-alpha": {
       "Key": "armor-hr-dober-helm-alpha",
@@ -1081,7 +1081,7 @@ export default {
     },
     "armor-hr-dober-helm-beta": {
       "Key": "armor-hr-dober-helm-beta",
-      "Translation": "เอสเอส Dober พวงมาลัย"
+      "Translation": "Dober Helm บาท"
     },
     "armor-hr-dober-mail-alpha": {
       "Key": "armor-hr-dober-mail-alpha",
@@ -1089,7 +1089,7 @@ export default {
     },
     "armor-hr-dober-mail-beta": {
       "Key": "armor-hr-dober-mail-beta",
-      "Translation": "เอสเอส Dober จดหมาย"
+      "Translation": "Dober จดหมายเอสเอส"
     },
     "armor-hr-dober-vambraces-alpha": {
       "Key": "armor-hr-dober-vambraces-alpha",
@@ -1097,7 +1097,7 @@ export default {
     },
     "armor-hr-dober-vambraces-beta": {
       "Key": "armor-hr-dober-vambraces-beta",
-      "Translation": "เอสเอส Dober vambraces"
+      "Translation": "Dober vambraces บาท"
     },
     "armor-hr-dodogama-alpha": {
       "Key": "armor-hr-dodogama-alpha",
@@ -1105,7 +1105,7 @@ export default {
     },
     "armor-hr-dodogama-beta": {
       "Key": "armor-hr-dodogama-beta",
-      "Translation": "เอสเอส Dodogama"
+      "Translation": "Dodogama บาท"
     },
     "armor-hr-dodogama-coil-alpha": {
       "Key": "armor-hr-dodogama-coil-alpha",
@@ -1113,7 +1113,7 @@ export default {
     },
     "armor-hr-dodogama-coil-beta": {
       "Key": "armor-hr-dodogama-coil-beta",
-      "Translation": "เอสเอส Dodogama คอยล์"
+      "Translation": "Dodogama คอยล์บาท"
     },
     "armor-hr-dodogama-greaves-alpha": {
       "Key": "armor-hr-dodogama-greaves-alpha",
@@ -1121,7 +1121,7 @@ export default {
     },
     "armor-hr-dodogama-greaves-beta": {
       "Key": "armor-hr-dodogama-greaves-beta",
-      "Translation": "เอสเอส Dodogama สนับ"
+      "Translation": "Dodogama สนับบาท"
     },
     "armor-hr-dodogama-helm-alpha": {
       "Key": "armor-hr-dodogama-helm-alpha",
@@ -1129,7 +1129,7 @@ export default {
     },
     "armor-hr-dodogama-helm-beta": {
       "Key": "armor-hr-dodogama-helm-beta",
-      "Translation": "เอสเอส Dodogama พวงมาลัย"
+      "Translation": "Dodogama Helm บาท"
     },
     "armor-hr-dodogama-mail-alpha": {
       "Key": "armor-hr-dodogama-mail-alpha",
@@ -1137,7 +1137,7 @@ export default {
     },
     "armor-hr-dodogama-mail-beta": {
       "Key": "armor-hr-dodogama-mail-beta",
-      "Translation": "เอสเอส Dodogama จดหมาย"
+      "Translation": "Dodogama จดหมายเอสเอส"
     },
     "armor-hr-dodogama-vambraces-alpha": {
       "Key": "armor-hr-dodogama-vambraces-alpha",
@@ -1145,7 +1145,7 @@ export default {
     },
     "armor-hr-dodogama-vambraces-beta": {
       "Key": "armor-hr-dodogama-vambraces-beta",
-      "Translation": "เอสเอส Dodogama vambraces"
+      "Translation": "Dodogama vambraces บาท"
     },
     "armor-hr-drachen-alpha": {
       "Key": "armor-hr-drachen-alpha",
@@ -1181,7 +1181,7 @@ export default {
     },
     "armor-hr-dragonseal-earrings-alpha": {
       "Key": "armor-hr-dragonseal-earrings-alpha",
-      "Translation": "ต่างหู Dragonseal ⍺"
+      "Translation": "Dragonseal ต่างหู⍺"
     },
     "armor-hr-empress-coil-alpha": {
       "Key": "armor-hr-empress-coil-alpha",
@@ -1189,11 +1189,11 @@ export default {
     },
     "armor-hr-empress-coil-beta": {
       "Key": "armor-hr-empress-coil-beta",
-      "Translation": "เอสเอสเอ็มเพรสคอยล์"
+      "Translation": "คุณหญิงคอยล์บาท"
     },
     "armor-hr-empress-coil-gamma": {
       "Key": "armor-hr-empress-coil-gamma",
-      "Translation": "γคุณหญิงคอยล์"
+      "Translation": "คุณหญิงคอยล์γ"
     },
     "armor-hr-empress-crown-alpha": {
       "Key": "armor-hr-empress-crown-alpha",
@@ -1201,11 +1201,11 @@ export default {
     },
     "armor-hr-empress-crown-beta": {
       "Key": "armor-hr-empress-crown-beta",
-      "Translation": "เอสเอสเอ็มเพรสพระมหากษัตริย์"
+      "Translation": "คุณหญิงมงกุฎเอสเอส"
     },
     "armor-hr-empress-crown-gamma": {
       "Key": "armor-hr-empress-crown-gamma",
-      "Translation": "γคุณหญิงมงกุฎ"
+      "Translation": "คุณหญิงมงกุฎγ"
     },
     "armor-hr-empress-greaves-alpha": {
       "Key": "armor-hr-empress-greaves-alpha",
@@ -1213,11 +1213,11 @@ export default {
     },
     "armor-hr-empress-greaves-beta": {
       "Key": "armor-hr-empress-greaves-beta",
-      "Translation": "เอสเอสเอ็มเพรสสนับ"
+      "Translation": "คุณหญิงสนับบาท"
     },
     "armor-hr-empress-greaves-gamma": {
       "Key": "armor-hr-empress-greaves-gamma",
-      "Translation": "γคุณหญิงสนับ"
+      "Translation": "คุณหญิงสนับγ"
     },
     "armor-hr-empress-mail-alpha": {
       "Key": "armor-hr-empress-mail-alpha",
@@ -1225,11 +1225,11 @@ export default {
     },
     "armor-hr-empress-mail-beta": {
       "Key": "armor-hr-empress-mail-beta",
-      "Translation": "เอสเอสเอ็มเพรสจดหมาย"
+      "Translation": "คุณหญิงจดหมายเอสเอส"
     },
     "armor-hr-empress-mail-gamma": {
       "Key": "armor-hr-empress-mail-gamma",
-      "Translation": "γคุณหญิงจดหมาย"
+      "Translation": "คุณหญิงจดหมายγ"
     },
     "armor-hr-empress-vambraces-alpha": {
       "Key": "armor-hr-empress-vambraces-alpha",
@@ -1237,11 +1237,11 @@ export default {
     },
     "armor-hr-empress-vambraces-beta": {
       "Key": "armor-hr-empress-vambraces-beta",
-      "Translation": "เอสเอสเอ็มเพรส vambraces"
+      "Translation": "คุณหญิง vambraces บาท"
     },
     "armor-hr-empress-vambraces-gamma": {
       "Key": "armor-hr-empress-vambraces-gamma",
-      "Translation": "γคุณหญิง vambraces"
+      "Translation": "คุณหญิง vambraces γ"
     },
     "armor-hr-faux-felyne-alpha": {
       "Key": "armor-hr-faux-felyne-alpha",
@@ -1253,7 +1253,7 @@ export default {
     },
     "armor-hr-gajau-beta": {
       "Key": "armor-hr-gajau-beta",
-      "Translation": "เอสเอส Gajau"
+      "Translation": "Gajau บาท"
     },
     "armor-hr-gajau-boots-alpha": {
       "Key": "armor-hr-gajau-boots-alpha",
@@ -1261,7 +1261,7 @@ export default {
     },
     "armor-hr-gajau-boots-beta": {
       "Key": "armor-hr-gajau-boots-beta",
-      "Translation": "เอสเอส Gajau บู๊ทส์"
+      "Translation": "Gajau บู๊ทส์เอสเอส"
     },
     "armor-hr-gala-suit-alpha": {
       "Key": "armor-hr-gala-suit-alpha",
@@ -1269,19 +1269,19 @@ export default {
     },
     "armor-hr-gala-suit-cuffs-alpha": {
       "Key": "armor-hr-gala-suit-cuffs-alpha",
-      "Translation": "สาบเสื้อสูท Gala ⍺"
+      "Translation": "Gala สาบเสื้อสูท⍺"
     },
     "armor-hr-gala-suit-jacket-alpha": {
       "Key": "armor-hr-gala-suit-jacket-alpha",
-      "Translation": "Gala แจ็คเก็ตสูท⍺"
+      "Translation": "Gala สูทแจ็คเก็ต⍺"
     },
     "armor-hr-gala-suit-slacks-alpha": {
       "Key": "armor-hr-gala-suit-slacks-alpha",
-      "Translation": "กางเกงทรงหลวม Gala สูท⍺"
+      "Translation": "Gala กางเกงสูท⍺"
     },
     "armor-hr-gala-suit-tail-alpha": {
       "Key": "armor-hr-gala-suit-tail-alpha",
-      "Translation": "Gala หางสูท⍺"
+      "Translation": "Gala สูทหาง⍺"
     },
     "armor-hr-gala-suit-top-hat-alpha": {
       "Key": "armor-hr-gala-suit-top-hat-alpha",
@@ -1293,7 +1293,7 @@ export default {
     },
     "armor-hr-gastodon-beta": {
       "Key": "armor-hr-gastodon-beta",
-      "Translation": "เอสเอส Gastodon"
+      "Translation": "Gastodon บาท"
     },
     "armor-hr-gastodon-horn-alpha": {
       "Key": "armor-hr-gastodon-horn-alpha",
@@ -1301,7 +1301,7 @@ export default {
     },
     "armor-hr-gastodon-horn-beta": {
       "Key": "armor-hr-gastodon-horn-beta",
-      "Translation": "เอสเอส Gastodon ฮอร์น"
+      "Translation": "Gastodon ฮอร์นเอสเอส"
     },
     "armor-hr-girros-alpha": {
       "Key": "armor-hr-girros-alpha",
@@ -1309,7 +1309,7 @@ export default {
     },
     "armor-hr-girros-beta": {
       "Key": "armor-hr-girros-beta",
-      "Translation": "เอสเอส Girros"
+      "Translation": "Girros บาท"
     },
     "armor-hr-girros-coil-alpha": {
       "Key": "armor-hr-girros-coil-alpha",
@@ -1317,7 +1317,7 @@ export default {
     },
     "armor-hr-girros-coil-beta": {
       "Key": "armor-hr-girros-coil-beta",
-      "Translation": "เอสเอส Girros คอยล์"
+      "Translation": "Girros คอยล์บาท"
     },
     "armor-hr-girros-greaves-alpha": {
       "Key": "armor-hr-girros-greaves-alpha",
@@ -1325,7 +1325,7 @@ export default {
     },
     "armor-hr-girros-greaves-beta": {
       "Key": "armor-hr-girros-greaves-beta",
-      "Translation": "เอสเอส Girros สนับ"
+      "Translation": "Girros สนับบาท"
     },
     "armor-hr-girros-mail-alpha": {
       "Key": "armor-hr-girros-mail-alpha",
@@ -1333,7 +1333,7 @@ export default {
     },
     "armor-hr-girros-mail-beta": {
       "Key": "armor-hr-girros-mail-beta",
-      "Translation": "เอสเอส Girros จดหมาย"
+      "Translation": "Girros จดหมายเอสเอส"
     },
     "armor-hr-girros-mask-alpha": {
       "Key": "armor-hr-girros-mask-alpha",
@@ -1341,7 +1341,7 @@ export default {
     },
     "armor-hr-girros-mask-beta": {
       "Key": "armor-hr-girros-mask-beta",
-      "Translation": "Girros ßหน้ากาก"
+      "Translation": "Girros หน้ากากบาท"
     },
     "armor-hr-girros-vambraces-alpha": {
       "Key": "armor-hr-girros-vambraces-alpha",
@@ -1349,7 +1349,7 @@ export default {
     },
     "armor-hr-girros-vambraces-beta": {
       "Key": "armor-hr-girros-vambraces-beta",
-      "Translation": "เอสเอส Girros vambraces"
+      "Translation": "Girros vambraces บาท"
     },
     "armor-hr-guild-cross-alpha": {
       "Key": "armor-hr-guild-cross-alpha",
@@ -1373,7 +1373,7 @@ export default {
     },
     "armor-hr-guild-cross-circlet-beta": {
       "Key": "armor-hr-guild-cross-circlet-beta",
-      "Translation": "สมาคมßข้ามวงแหวน"
+      "Translation": "สมาคมครอสวงแหวนบาท"
     },
     "armor-hr-guild-cross-coil-alpha": {
       "Key": "armor-hr-guild-cross-coil-alpha",
@@ -1381,7 +1381,7 @@ export default {
     },
     "armor-hr-guild-cross-coil-beta": {
       "Key": "armor-hr-guild-cross-coil-beta",
-      "Translation": "สมาคมครอสเอสเอสคอยล์"
+      "Translation": "สมาคมครอสคอยล์บาท"
     },
     "armor-hr-guild-cross-suit-alpha": {
       "Key": "armor-hr-guild-cross-suit-alpha",
@@ -1389,7 +1389,7 @@ export default {
     },
     "armor-hr-guild-cross-suit-beta": {
       "Key": "armor-hr-guild-cross-suit-beta",
-      "Translation": "สมาคมครอสเอสเอสสูท"
+      "Translation": "สมาคมครอสสูทเอสเอส"
     },
     "armor-hr-guild-cross-vambraces-alpha": {
       "Key": "armor-hr-guild-cross-vambraces-alpha",
@@ -1397,7 +1397,7 @@ export default {
     },
     "armor-hr-guild-cross-vambraces-beta": {
       "Key": "armor-hr-guild-cross-vambraces-beta",
-      "Translation": "Guild ßข้าม vambraces"
+      "Translation": "สมาคมครอส vambraces บาท"
     },
     "armor-hr-harvest-alpha": {
       "Key": "armor-hr-harvest-alpha",
@@ -1425,7 +1425,7 @@ export default {
     },
     "armor-hr-high-metal-alpha": {
       "Key": "armor-hr-high-metal-alpha",
-      "Translation": "โลหะสูง⍺"
+      "Translation": "สูงโลหะ⍺"
     },
     "armor-hr-high-metal-beta": {
       "Key": "armor-hr-high-metal-beta",
@@ -1433,11 +1433,11 @@ export default {
     },
     "armor-hr-high-metal-braces-alpha": {
       "Key": "armor-hr-high-metal-braces-alpha",
-      "Translation": "จัดฟันโลหะสูง⍺"
+      "Translation": "สูงวงเล็บโลหะ⍺"
     },
     "armor-hr-high-metal-braces-beta": {
       "Key": "armor-hr-high-metal-braces-beta",
-      "Translation": "สูงßโลหะจัดฟัน"
+      "Translation": "สูงโลหะจัดฟันเอสเอส"
     },
     "armor-hr-high-metal-coil-alpha": {
       "Key": "armor-hr-high-metal-coil-alpha",
@@ -1445,15 +1445,15 @@ export default {
     },
     "armor-hr-high-metal-coil-beta": {
       "Key": "armor-hr-high-metal-coil-beta",
-      "Translation": "สูงßโลหะม้วน"
+      "Translation": "สูงโลหะม้วนเอสเอส"
     },
     "armor-hr-high-metal-greaves-alpha": {
       "Key": "armor-hr-high-metal-greaves-alpha",
-      "Translation": "สนับโลหะสูง⍺"
+      "Translation": "สูงโลหะสนับ⍺"
     },
     "armor-hr-high-metal-greaves-beta": {
       "Key": "armor-hr-high-metal-greaves-beta",
-      "Translation": "สูงเอสเอสเมทัลสนับ"
+      "Translation": "สูงโลหะสนับบาท"
     },
     "armor-hr-high-metal-helm-alpha": {
       "Key": "armor-hr-high-metal-helm-alpha",
@@ -1461,15 +1461,15 @@ export default {
     },
     "armor-hr-high-metal-helm-beta": {
       "Key": "armor-hr-high-metal-helm-beta",
-      "Translation": "สูงเอสเอสเมทัลเฮล์ม"
+      "Translation": "สูงโลหะ Helm บาท"
     },
     "armor-hr-high-metal-mail-alpha": {
       "Key": "armor-hr-high-metal-mail-alpha",
-      "Translation": "จดหมายโลหะสูง⍺"
+      "Translation": "สูงโลหะจดหมาย⍺"
     },
     "armor-hr-high-metal-mail-beta": {
       "Key": "armor-hr-high-metal-mail-beta",
-      "Translation": "สูงßโลหะจดหมาย"
+      "Translation": "สูงโลหะจดหมายเอสเอส"
     },
     "armor-hr-hornetaur-alpha": {
       "Key": "armor-hr-hornetaur-alpha",
@@ -1477,7 +1477,7 @@ export default {
     },
     "armor-hr-hornetaur-beta": {
       "Key": "armor-hr-hornetaur-beta",
-      "Translation": "เอสเอส Hornetaur"
+      "Translation": "Hornetaur บาท"
     },
     "armor-hr-hornetaur-coil-alpha": {
       "Key": "armor-hr-hornetaur-coil-alpha",
@@ -1485,7 +1485,7 @@ export default {
     },
     "armor-hr-hornetaur-coil-beta": {
       "Key": "armor-hr-hornetaur-coil-beta",
-      "Translation": "เอสเอส Hornetaur คอยล์"
+      "Translation": "Hornetaur คอยล์บาท"
     },
     "armor-hr-hornetaur-greaves-alpha": {
       "Key": "armor-hr-hornetaur-greaves-alpha",
@@ -1493,7 +1493,7 @@ export default {
     },
     "armor-hr-hornetaur-greaves-beta": {
       "Key": "armor-hr-hornetaur-greaves-beta",
-      "Translation": "เอสเอส Hornetaur สนับ"
+      "Translation": "Hornetaur สนับบาท"
     },
     "armor-hr-hornetaur-helm-alpha": {
       "Key": "armor-hr-hornetaur-helm-alpha",
@@ -1501,7 +1501,7 @@ export default {
     },
     "armor-hr-hornetaur-helm-beta": {
       "Key": "armor-hr-hornetaur-helm-beta",
-      "Translation": "เอสเอส Hornetaur พวงมาลัย"
+      "Translation": "Hornetaur Helm บาท"
     },
     "armor-hr-hornetaur-mail-alpha": {
       "Key": "armor-hr-hornetaur-mail-alpha",
@@ -1509,7 +1509,7 @@ export default {
     },
     "armor-hr-hornetaur-mail-beta": {
       "Key": "armor-hr-hornetaur-mail-beta",
-      "Translation": "เอสเอส Hornetaur จดหมาย"
+      "Translation": "Hornetaur จดหมายเอสเอส"
     },
     "armor-hr-hornetaur-vambraces-alpha": {
       "Key": "armor-hr-hornetaur-vambraces-alpha",
@@ -1517,7 +1517,7 @@ export default {
     },
     "armor-hr-hornetaur-vambraces-beta": {
       "Key": "armor-hr-hornetaur-vambraces-beta",
-      "Translation": "เอสเอส Hornetaur vambraces"
+      "Translation": "Hornetaur vambraces บาท"
     },
     "armor-hr-hunters-alpha": {
       "Key": "armor-hr-hunters-alpha",
@@ -1553,11 +1553,11 @@ export default {
     },
     "armor-hr-hunters-mail-alpha": {
       "Key": "armor-hr-hunters-mail-alpha",
-      "Translation": "ฮันเตอร์จดหมาย⍺"
+      "Translation": "จดหมายเธ่อ⍺"
     },
     "armor-hr-hunters-mail-beta": {
       "Key": "armor-hr-hunters-mail-beta",
-      "Translation": "เอสเอสฮันเตอร์จดหมาย"
+      "Translation": "ฮันเตอร์จดหมายเอสเอส"
     },
     "armor-hr-hunters-vambraces-alpha": {
       "Key": "armor-hr-hunters-vambraces-alpha",
@@ -1573,7 +1573,7 @@ export default {
     },
     "armor-hr-ingot-beta": {
       "Key": "armor-hr-ingot-beta",
-      "Translation": "เอสเอสลิ่ม"
+      "Translation": "แท่งเอสเอส"
     },
     "armor-hr-ingot-coil-alpha": {
       "Key": "armor-hr-ingot-coil-alpha",
@@ -1581,7 +1581,7 @@ export default {
     },
     "armor-hr-ingot-coil-beta": {
       "Key": "armor-hr-ingot-coil-beta",
-      "Translation": "เอสเอสลิ่มคอยล์"
+      "Translation": "แท่งม้วนเอสเอส"
     },
     "armor-hr-ingot-greaves-alpha": {
       "Key": "armor-hr-ingot-greaves-alpha",
@@ -1589,7 +1589,7 @@ export default {
     },
     "armor-hr-ingot-greaves-beta": {
       "Key": "armor-hr-ingot-greaves-beta",
-      "Translation": "เอสเอสลิ่มสนับ"
+      "Translation": "ลิ่มสนับบาท"
     },
     "armor-hr-ingot-helm-alpha": {
       "Key": "armor-hr-ingot-helm-alpha",
@@ -1597,7 +1597,7 @@ export default {
     },
     "armor-hr-ingot-helm-beta": {
       "Key": "armor-hr-ingot-helm-beta",
-      "Translation": "เอสเอสลิ่มพวงมาลัย"
+      "Translation": "ลิ่ม Helm บาท"
     },
     "armor-hr-ingot-mail-alpha": {
       "Key": "armor-hr-ingot-mail-alpha",
@@ -1605,7 +1605,7 @@ export default {
     },
     "armor-hr-ingot-mail-beta": {
       "Key": "armor-hr-ingot-mail-beta",
-      "Translation": "เอสเอสลิ่มจดหมาย"
+      "Translation": "ลิ่มจดหมายเอสเอส"
     },
     "armor-hr-ingot-vambraces-alpha": {
       "Key": "armor-hr-ingot-vambraces-alpha",
@@ -1613,7 +1613,7 @@ export default {
     },
     "armor-hr-ingot-vambraces-beta": {
       "Key": "armor-hr-ingot-vambraces-beta",
-      "Translation": "เอสเอสลิ่ม vambraces"
+      "Translation": "ลิ่ม vambraces บาท"
     },
     "armor-hr-jagras-alpha": {
       "Key": "armor-hr-jagras-alpha",
@@ -1621,7 +1621,7 @@ export default {
     },
     "armor-hr-jagras-beta": {
       "Key": "armor-hr-jagras-beta",
-      "Translation": "เอสเอส Jagras"
+      "Translation": "Jagras บาท"
     },
     "armor-hr-jagras-coil-alpha": {
       "Key": "armor-hr-jagras-coil-alpha",
@@ -1629,7 +1629,7 @@ export default {
     },
     "armor-hr-jagras-coil-beta": {
       "Key": "armor-hr-jagras-coil-beta",
-      "Translation": "เอสเอส Jagras คอยล์"
+      "Translation": "Jagras คอยล์บาท"
     },
     "armor-hr-jagras-greaves-alpha": {
       "Key": "armor-hr-jagras-greaves-alpha",
@@ -1637,7 +1637,7 @@ export default {
     },
     "armor-hr-jagras-greaves-beta": {
       "Key": "armor-hr-jagras-greaves-beta",
-      "Translation": "เอสเอส Jagras สนับ"
+      "Translation": "Jagras สนับบาท"
     },
     "armor-hr-jagras-helm-alpha": {
       "Key": "armor-hr-jagras-helm-alpha",
@@ -1653,7 +1653,7 @@ export default {
     },
     "armor-hr-jagras-mail-beta": {
       "Key": "armor-hr-jagras-mail-beta",
-      "Translation": "เอสเอส Jagras จดหมาย"
+      "Translation": "Jagras จดหมายเอสเอส"
     },
     "armor-hr-jagras-vambraces-alpha": {
       "Key": "armor-hr-jagras-vambraces-alpha",
@@ -1661,7 +1661,7 @@ export default {
     },
     "armor-hr-jagras-vambraces-beta": {
       "Key": "armor-hr-jagras-vambraces-beta",
-      "Translation": "เอสเอส Jagras vambraces"
+      "Translation": "Jagras vambraces บาท"
     },
     "armor-hr-jyura-alpha": {
       "Key": "armor-hr-jyura-alpha",
@@ -1669,7 +1669,7 @@ export default {
     },
     "armor-hr-jyura-beta": {
       "Key": "armor-hr-jyura-beta",
-      "Translation": "เอสเอส Jyura"
+      "Translation": "Jyura บาท"
     },
     "armor-hr-jyura-coil-alpha": {
       "Key": "armor-hr-jyura-coil-alpha",
@@ -1677,7 +1677,7 @@ export default {
     },
     "armor-hr-jyura-coil-beta": {
       "Key": "armor-hr-jyura-coil-beta",
-      "Translation": "เอสเอส Jyura คอยล์"
+      "Translation": "Jyura คอยล์บาท"
     },
     "armor-hr-jyura-greaves-alpha": {
       "Key": "armor-hr-jyura-greaves-alpha",
@@ -1685,7 +1685,7 @@ export default {
     },
     "armor-hr-jyura-greaves-beta": {
       "Key": "armor-hr-jyura-greaves-beta",
-      "Translation": "เอสเอส Jyura สนับ"
+      "Translation": "Jyura สนับบาท"
     },
     "armor-hr-jyura-helm-alpha": {
       "Key": "armor-hr-jyura-helm-alpha",
@@ -1693,7 +1693,7 @@ export default {
     },
     "armor-hr-jyura-helm-beta": {
       "Key": "armor-hr-jyura-helm-beta",
-      "Translation": "เอสเอส Jyura พวงมาลัย"
+      "Translation": "Jyura Helm บาท"
     },
     "armor-hr-jyura-mail-alpha": {
       "Key": "armor-hr-jyura-mail-alpha",
@@ -1701,7 +1701,7 @@ export default {
     },
     "armor-hr-jyura-mail-beta": {
       "Key": "armor-hr-jyura-mail-beta",
-      "Translation": "เอสเอส Jyura จดหมาย"
+      "Translation": "Jyura จดหมายเอสเอส"
     },
     "armor-hr-jyura-vambraces-alpha": {
       "Key": "armor-hr-jyura-vambraces-alpha",
@@ -1709,7 +1709,7 @@ export default {
     },
     "armor-hr-jyura-vambraces-beta": {
       "Key": "armor-hr-jyura-vambraces-beta",
-      "Translation": "เอสเอส Jyura vambraces"
+      "Translation": "Jyura vambraces บาท"
     },
     "armor-hr-kadachi-alpha": {
       "Key": "armor-hr-kadachi-alpha",
@@ -1717,7 +1717,7 @@ export default {
     },
     "armor-hr-kadachi-beta": {
       "Key": "armor-hr-kadachi-beta",
-      "Translation": "เอสเอส Kadachi"
+      "Translation": "Kadachi บาท"
     },
     "armor-hr-kadachi-coil-alpha": {
       "Key": "armor-hr-kadachi-coil-alpha",
@@ -1725,7 +1725,7 @@ export default {
     },
     "armor-hr-kadachi-coil-beta": {
       "Key": "armor-hr-kadachi-coil-beta",
-      "Translation": "เอสเอส Kadachi คอยล์"
+      "Translation": "Kadachi คอยล์บาท"
     },
     "armor-hr-kadachi-greaves-alpha": {
       "Key": "armor-hr-kadachi-greaves-alpha",
@@ -1733,7 +1733,7 @@ export default {
     },
     "armor-hr-kadachi-greaves-beta": {
       "Key": "armor-hr-kadachi-greaves-beta",
-      "Translation": "เอสเอส Kadachi สนับ"
+      "Translation": "Kadachi สนับบาท"
     },
     "armor-hr-kadachi-helm-alpha": {
       "Key": "armor-hr-kadachi-helm-alpha",
@@ -1741,7 +1741,7 @@ export default {
     },
     "armor-hr-kadachi-helm-beta": {
       "Key": "armor-hr-kadachi-helm-beta",
-      "Translation": "เอสเอส Kadachi พวงมาลัย"
+      "Translation": "Kadachi Helm บาท"
     },
     "armor-hr-kadachi-mail-alpha": {
       "Key": "armor-hr-kadachi-mail-alpha",
@@ -1749,7 +1749,7 @@ export default {
     },
     "armor-hr-kadachi-mail-beta": {
       "Key": "armor-hr-kadachi-mail-beta",
-      "Translation": "เอสเอส Kadachi จดหมาย"
+      "Translation": "Kadachi จดหมายเอสเอส"
     },
     "armor-hr-kadachi-vambraces-alpha": {
       "Key": "armor-hr-kadachi-vambraces-alpha",
@@ -1757,7 +1757,7 @@ export default {
     },
     "armor-hr-kadachi-vambraces-beta": {
       "Key": "armor-hr-kadachi-vambraces-beta",
-      "Translation": "เอสเอส Kadachi vambraces"
+      "Translation": "Kadachi vambraces บาท"
     },
     "armor-hr-kaiser-coil-alpha": {
       "Key": "armor-hr-kaiser-coil-alpha",
@@ -1765,11 +1765,11 @@ export default {
     },
     "armor-hr-kaiser-coil-beta": {
       "Key": "armor-hr-kaiser-coil-beta",
-      "Translation": "เอสเอสไกเซอร์คอยล์"
+      "Translation": "ไกเซอร์ม้วนเอสเอส"
     },
     "armor-hr-kaiser-coil-gamma": {
       "Key": "armor-hr-kaiser-coil-gamma",
-      "Translation": "γ Kaiser คอยล์"
+      "Translation": "ไกเซอร์คอยล์γ"
     },
     "armor-hr-kaiser-crown-alpha": {
       "Key": "armor-hr-kaiser-crown-alpha",
@@ -1777,11 +1777,11 @@ export default {
     },
     "armor-hr-kaiser-crown-beta": {
       "Key": "armor-hr-kaiser-crown-beta",
-      "Translation": "เอสเอสไกเซอร์มงกุฎ"
+      "Translation": "ไกเซอร์มงกุฎเอสเอส"
     },
     "armor-hr-kaiser-crown-gamma": {
       "Key": "armor-hr-kaiser-crown-gamma",
-      "Translation": "γ Kaiser พระมหากษัตริย์"
+      "Translation": "ไกเซอร์มงกุฎγ"
     },
     "armor-hr-kaiser-greaves-alpha": {
       "Key": "armor-hr-kaiser-greaves-alpha",
@@ -1789,11 +1789,11 @@ export default {
     },
     "armor-hr-kaiser-greaves-beta": {
       "Key": "armor-hr-kaiser-greaves-beta",
-      "Translation": "เอสเอสไกเซอร์สนับ"
+      "Translation": "ไกเซอร์สนับบาท"
     },
     "armor-hr-kaiser-greaves-gamma": {
       "Key": "armor-hr-kaiser-greaves-gamma",
-      "Translation": "γไกเซอร์สนับ"
+      "Translation": "ไกเซอร์สนับγ"
     },
     "armor-hr-kaiser-mail-alpha": {
       "Key": "armor-hr-kaiser-mail-alpha",
@@ -1801,11 +1801,11 @@ export default {
     },
     "armor-hr-kaiser-mail-beta": {
       "Key": "armor-hr-kaiser-mail-beta",
-      "Translation": "เอสเอสไกเซอร์จดหมาย"
+      "Translation": "Kaiser จดหมายเอสเอส"
     },
     "armor-hr-kaiser-mail-gamma": {
       "Key": "armor-hr-kaiser-mail-gamma",
-      "Translation": "γ Kaiser จดหมาย"
+      "Translation": "Kaiser จดหมายγ"
     },
     "armor-hr-kaiser-vambraces-alpha": {
       "Key": "armor-hr-kaiser-vambraces-alpha",
@@ -1813,11 +1813,11 @@ export default {
     },
     "armor-hr-kaiser-vambraces-beta": {
       "Key": "armor-hr-kaiser-vambraces-beta",
-      "Translation": "เอสเอสไกเซอร์ vambraces"
+      "Translation": "ไกเซอร์ vambraces บาท"
     },
     "armor-hr-kaiser-vambraces-gamma": {
       "Key": "armor-hr-kaiser-vambraces-gamma",
-      "Translation": "γ Kaiser vambraces"
+      "Translation": "ไกเซอร์ vambraces γ"
     },
     "armor-hr-kestodon-alpha": {
       "Key": "armor-hr-kestodon-alpha",
@@ -1825,7 +1825,7 @@ export default {
     },
     "armor-hr-kestodon-beta": {
       "Key": "armor-hr-kestodon-beta",
-      "Translation": "เอสเอส Kestodon"
+      "Translation": "Kestodon บาท"
     },
     "armor-hr-kestodon-guards-alpha": {
       "Key": "armor-hr-kestodon-guards-alpha",
@@ -1841,7 +1841,7 @@ export default {
     },
     "armor-hr-king-beetle-beta": {
       "Key": "armor-hr-king-beetle-beta",
-      "Translation": "เอสเอสคิงด้วง"
+      "Translation": "คิงด้วงบาท"
     },
     "armor-hr-king-beetle-brachia-alpha": {
       "Key": "armor-hr-king-beetle-brachia-alpha",
@@ -1849,7 +1849,7 @@ export default {
     },
     "armor-hr-king-beetle-brachia-beta": {
       "Key": "armor-hr-king-beetle-brachia-beta",
-      "Translation": "เอสเอสคิงด้วง Brachia"
+      "Translation": "คิงด้วง Brachia บาท"
     },
     "armor-hr-king-beetle-crura-alpha": {
       "Key": "armor-hr-king-beetle-crura-alpha",
@@ -1857,7 +1857,7 @@ export default {
     },
     "armor-hr-king-beetle-crura-beta": {
       "Key": "armor-hr-king-beetle-crura-beta",
-      "Translation": "เอสเอสคิงด้วง Crura"
+      "Translation": "คิงด้วง Crura บาท"
     },
     "armor-hr-king-beetle-elytra-alpha": {
       "Key": "armor-hr-king-beetle-elytra-alpha",
@@ -1865,7 +1865,7 @@ export default {
     },
     "armor-hr-king-beetle-elytra-beta": {
       "Key": "armor-hr-king-beetle-elytra-beta",
-      "Translation": "เอสเอสคิงด้วง Elytra"
+      "Translation": "คิงด้วง Elytra บาท"
     },
     "armor-hr-king-beetle-thorax-alpha": {
       "Key": "armor-hr-king-beetle-thorax-alpha",
@@ -1873,7 +1873,7 @@ export default {
     },
     "armor-hr-king-beetle-thorax-beta": {
       "Key": "armor-hr-king-beetle-thorax-beta",
-      "Translation": "เอสเอสคิงด้วงทรวงอก"
+      "Translation": "คิงด้วงทรวงอกบาท"
     },
     "armor-hr-king-beetle-vertex-alpha": {
       "Key": "armor-hr-king-beetle-vertex-alpha",
@@ -1889,11 +1889,11 @@ export default {
     },
     "armor-hr-kirin-beta": {
       "Key": "armor-hr-kirin-beta",
-      "Translation": "เอสเอสจี๋หลิน"
+      "Translation": "Kirin บาท"
     },
     "armor-hr-kirin-gamma": {
       "Key": "armor-hr-kirin-gamma",
-      "Translation": "γจี๋หลิน"
+      "Translation": "Kirin γ"
     },
     "armor-hr-kirin-hoop-alpha": {
       "Key": "armor-hr-kirin-hoop-alpha",
@@ -1901,11 +1901,11 @@ export default {
     },
     "armor-hr-kirin-hoop-beta": {
       "Key": "armor-hr-kirin-hoop-beta",
-      "Translation": "เอสเอส Kirin ห่วง"
+      "Translation": "Kirin ห่วงเอสเอส"
     },
     "armor-hr-kirin-hoop-gamma": {
       "Key": "armor-hr-kirin-hoop-gamma",
-      "Translation": "γ Kirin ห่วง"
+      "Translation": "Kirin Hoop γ"
     },
     "armor-hr-kirin-horn-alpha": {
       "Key": "armor-hr-kirin-horn-alpha",
@@ -1913,23 +1913,23 @@ export default {
     },
     "armor-hr-kirin-horn-beta": {
       "Key": "armor-hr-kirin-horn-beta",
-      "Translation": "เอสเอส Kirin ฮอร์น"
+      "Translation": "กิเลนฮอร์นเอสเอส"
     },
     "armor-hr-kirin-horn-gamma": {
       "Key": "armor-hr-kirin-horn-gamma",
-      "Translation": "γ Kirin ฮอร์น"
+      "Translation": "กิเลนฮอร์นγ"
     },
     "armor-hr-kirin-jacket-alpha": {
       "Key": "armor-hr-kirin-jacket-alpha",
-      "Translation": "Kirin แจ็คเก็ต⍺"
+      "Translation": "แจ็คเก็ต Kirin ⍺"
     },
     "armor-hr-kirin-jacket-beta": {
       "Key": "armor-hr-kirin-jacket-beta",
-      "Translation": "Kirin ßแจ็คเก็ต"
+      "Translation": "Kirin แจ็คเก็ตเอสเอส"
     },
     "armor-hr-kirin-jacket-gamma": {
       "Key": "armor-hr-kirin-jacket-gamma",
-      "Translation": "Kirin γแจ็คเก็ต"
+      "Translation": "Kirin แจ็คเก็ตγ"
     },
     "armor-hr-kirin-leg-guards-alpha": {
       "Key": "armor-hr-kirin-leg-guards-alpha",
@@ -1937,11 +1937,11 @@ export default {
     },
     "armor-hr-kirin-leg-guards-beta": {
       "Key": "armor-hr-kirin-leg-guards-beta",
-      "Translation": "Kirin ขายามเอสเอส"
+      "Translation": "Kirin ยามขาเอสเอส"
     },
     "armor-hr-kirin-leg-guards-gamma": {
       "Key": "armor-hr-kirin-leg-guards-gamma",
-      "Translation": "Kirin ขายามγ"
+      "Translation": "Kirin ยามขาγ"
     },
     "armor-hr-kirin-longarms-alpha": {
       "Key": "armor-hr-kirin-longarms-alpha",
@@ -1949,11 +1949,11 @@ export default {
     },
     "armor-hr-kirin-longarms-beta": {
       "Key": "armor-hr-kirin-longarms-beta",
-      "Translation": "เอสเอส Kirin Longarms"
+      "Translation": "Kirin Longarms บาท"
     },
     "armor-hr-kirin-longarms-gamma": {
       "Key": "armor-hr-kirin-longarms-gamma",
-      "Translation": "γ Kirin Longarms"
+      "Translation": "Kirin Longarms γ"
     },
     "armor-hr-kulu-alpha": {
       "Key": "armor-hr-kulu-alpha",
@@ -1961,7 +1961,7 @@ export default {
     },
     "armor-hr-kulu-beta": {
       "Key": "armor-hr-kulu-beta",
-      "Translation": "เอสเอส kulu"
+      "Translation": "kulu บาท"
     },
     "armor-hr-kulu-coil-alpha": {
       "Key": "armor-hr-kulu-coil-alpha",
@@ -1969,7 +1969,7 @@ export default {
     },
     "armor-hr-kulu-coil-beta": {
       "Key": "armor-hr-kulu-coil-beta",
-      "Translation": "เอสเอส kulu คอยล์"
+      "Translation": "kulu คอยล์บาท"
     },
     "armor-hr-kulu-greaves-alpha": {
       "Key": "armor-hr-kulu-greaves-alpha",
@@ -1977,7 +1977,7 @@ export default {
     },
     "armor-hr-kulu-greaves-beta": {
       "Key": "armor-hr-kulu-greaves-beta",
-      "Translation": "เอสเอส kulu สนับ"
+      "Translation": "kulu สนับบาท"
     },
     "armor-hr-kulu-headpiece-alpha": {
       "Key": "armor-hr-kulu-headpiece-alpha",
@@ -1985,7 +1985,7 @@ export default {
     },
     "armor-hr-kulu-headpiece-beta": {
       "Key": "armor-hr-kulu-headpiece-beta",
-      "Translation": "เอสเอส kulu หูฟัง"
+      "Translation": "kulu หูฟังเอสเอส"
     },
     "armor-hr-kulu-mail-alpha": {
       "Key": "armor-hr-kulu-mail-alpha",
@@ -1993,7 +1993,7 @@ export default {
     },
     "armor-hr-kulu-mail-beta": {
       "Key": "armor-hr-kulu-mail-beta",
-      "Translation": "เอสเอส kulu จดหมาย"
+      "Translation": "kulu จดหมายเอสเอส"
     },
     "armor-hr-kulu-vambraces-alpha": {
       "Key": "armor-hr-kulu-vambraces-alpha",
@@ -2001,7 +2001,7 @@ export default {
     },
     "armor-hr-kulu-vambraces-beta": {
       "Key": "armor-hr-kulu-vambraces-beta",
-      "Translation": "เอสเอส kulu vambraces"
+      "Translation": "kulu vambraces บาท"
     },
     "armor-hr-kulu-ya-ku-head-alpha": {
       "Key": "armor-hr-kulu-ya-ku-head-alpha",
@@ -2013,7 +2013,7 @@ export default {
     },
     "armor-hr-kulve-taroth-beta": {
       "Key": "armor-hr-kulve-taroth-beta",
-      "Translation": "เอสเอส Kulve Taroth"
+      "Translation": "Kulve Taroth บาท"
     },
     "armor-hr-kulve-taroth-fury-alpha": {
       "Key": "armor-hr-kulve-taroth-fury-alpha",
@@ -2021,7 +2021,7 @@ export default {
     },
     "armor-hr-kulve-taroth-fury-beta": {
       "Key": "armor-hr-kulve-taroth-fury-beta",
-      "Translation": "เอสเอส Kulve Taroth โกรธ"
+      "Translation": "Kulve Taroth โกรธบาท"
     },
     "armor-hr-kulve-taroth-fury-gamma": {
       "Key": "armor-hr-kulve-taroth-fury-gamma",
@@ -2029,7 +2029,7 @@ export default {
     },
     "armor-hr-kulve-taroth-gamma": {
       "Key": "armor-hr-kulve-taroth-gamma",
-      "Translation": "γ Kulve Taroth"
+      "Translation": "Kulve Taroth γ"
     },
     "armor-hr-kulve-taroth-ire-alpha": {
       "Key": "armor-hr-kulve-taroth-ire-alpha",
@@ -2037,7 +2037,7 @@ export default {
     },
     "armor-hr-kulve-taroth-ire-beta": {
       "Key": "armor-hr-kulve-taroth-ire-beta",
-      "Translation": "เอสเอส Kulve Taroth กระสอบ"
+      "Translation": "Kulve Taroth Ire บาท"
     },
     "armor-hr-kulve-taroth-ire-gamma": {
       "Key": "armor-hr-kulve-taroth-ire-gamma",
@@ -2049,7 +2049,7 @@ export default {
     },
     "armor-hr-kulve-taroth-malice-beta": {
       "Key": "armor-hr-kulve-taroth-malice-beta",
-      "Translation": "เอสเอส Kulve Taroth ความอาฆาตพยาบาท"
+      "Translation": "Kulve Taroth Malice บาท"
     },
     "armor-hr-kulve-taroth-malice-gamma": {
       "Key": "armor-hr-kulve-taroth-malice-gamma",
@@ -2061,11 +2061,11 @@ export default {
     },
     "armor-hr-kulve-taroth-rage-beta": {
       "Key": "armor-hr-kulve-taroth-rage-beta",
-      "Translation": "Kulve Taroth SS โกรธ"
+      "Translation": "Kulve Taroth โกรธบาท"
     },
     "armor-hr-kulve-taroth-rage-gamma": {
       "Key": "armor-hr-kulve-taroth-rage-gamma",
-      "Translation": "Kulve Taroth ของγโกรธ"
+      "Translation": "Kulve Taroth ของความโกรธγ"
     },
     "armor-hr-kulve-taroth-wrath-alpha": {
       "Key": "armor-hr-kulve-taroth-wrath-alpha",
@@ -2073,7 +2073,7 @@ export default {
     },
     "armor-hr-kulve-taroth-wrath-beta": {
       "Key": "armor-hr-kulve-taroth-wrath-beta",
-      "Translation": "เอสเอส Kulve Taroth ลงโทษ"
+      "Translation": "Kulve Taroth ลงโทษเอสเอส"
     },
     "armor-hr-kulve-taroth-wrath-gamma": {
       "Key": "armor-hr-kulve-taroth-wrath-gamma",
@@ -2085,7 +2085,7 @@ export default {
     },
     "armor-hr-kushala-beta": {
       "Key": "armor-hr-kushala-beta",
-      "Translation": "เอสเอส Kushala"
+      "Translation": "Kushala บาท"
     },
     "armor-hr-kushala-cista-alpha": {
       "Key": "armor-hr-kushala-cista-alpha",
@@ -2093,11 +2093,11 @@ export default {
     },
     "armor-hr-kushala-cista-beta": {
       "Key": "armor-hr-kushala-cista-beta",
-      "Translation": "เอสเอส Kushala Cista"
+      "Translation": "Kushala Cista บาท"
     },
     "armor-hr-kushala-cista-gamma": {
       "Key": "armor-hr-kushala-cista-gamma",
-      "Translation": "γ Kushala Cista"
+      "Translation": "Kushala Cista γ"
     },
     "armor-hr-kushala-cocoon-alpha": {
       "Key": "armor-hr-kushala-cocoon-alpha",
@@ -2105,11 +2105,11 @@ export default {
     },
     "armor-hr-kushala-cocoon-beta": {
       "Key": "armor-hr-kushala-cocoon-beta",
-      "Translation": "เอสเอส Kushala Cocoon"
+      "Translation": "Kushala Cocoon บาท"
     },
     "armor-hr-kushala-cocoon-gamma": {
       "Key": "armor-hr-kushala-cocoon-gamma",
-      "Translation": "γ Kushala Cocoon"
+      "Translation": "Kushala Cocoon γ"
     },
     "armor-hr-kushala-crus-alpha": {
       "Key": "armor-hr-kushala-crus-alpha",
@@ -2117,15 +2117,15 @@ export default {
     },
     "armor-hr-kushala-crus-beta": {
       "Key": "armor-hr-kushala-crus-beta",
-      "Translation": "เอสเอส Kushala Crus"
+      "Translation": "Kushala Crus บาท"
     },
     "armor-hr-kushala-crus-gamma": {
       "Key": "armor-hr-kushala-crus-gamma",
-      "Translation": "γ Kushala Crus"
+      "Translation": "Kushala Crus γ"
     },
     "armor-hr-kushala-gamma": {
       "Key": "armor-hr-kushala-gamma",
-      "Translation": "γ Kushala"
+      "Translation": "Kushala γ"
     },
     "armor-hr-kushala-glare-alpha": {
       "Key": "armor-hr-kushala-glare-alpha",
@@ -2133,11 +2133,11 @@ export default {
     },
     "armor-hr-kushala-glare-beta": {
       "Key": "armor-hr-kushala-glare-beta",
-      "Translation": "เอสเอส Kushala แสงจ้า"
+      "Translation": "Kushala Glare บาท"
     },
     "armor-hr-kushala-glare-gamma": {
       "Key": "armor-hr-kushala-glare-gamma",
-      "Translation": "γ Kushala แสงจ้า"
+      "Translation": "Kushala Glare γ"
     },
     "armor-hr-kushala-grip-alpha": {
       "Key": "armor-hr-kushala-grip-alpha",
@@ -2145,11 +2145,11 @@ export default {
     },
     "armor-hr-kushala-grip-beta": {
       "Key": "armor-hr-kushala-grip-beta",
-      "Translation": "Kushala ß Grip"
+      "Translation": "Kushala Grip บาท"
     },
     "armor-hr-kushala-grip-gamma": {
       "Key": "armor-hr-kushala-grip-gamma",
-      "Translation": "Kushala γ Grip"
+      "Translation": "Kushala Grip γ"
     },
     "armor-hr-lavasioth-alpha": {
       "Key": "armor-hr-lavasioth-alpha",
@@ -2157,7 +2157,7 @@ export default {
     },
     "armor-hr-lavasioth-beta": {
       "Key": "armor-hr-lavasioth-beta",
-      "Translation": "เอสเอส Lavasioth"
+      "Translation": "Lavasioth บาท"
     },
     "armor-hr-lavasioth-coil-alpha": {
       "Key": "armor-hr-lavasioth-coil-alpha",
@@ -2165,15 +2165,15 @@ export default {
     },
     "armor-hr-lavasioth-coil-beta": {
       "Key": "armor-hr-lavasioth-coil-beta",
-      "Translation": "เอสเอส Lavasioth คอยล์"
+      "Translation": "Lavasioth คอยล์บาท"
     },
     "armor-hr-lavasioth-greaves-alpha": {
       "Key": "armor-hr-lavasioth-greaves-alpha",
-      "Translation": "Lavasioth สนับ⍺"
+      "Translation": "Lavasioth นับ⍺"
     },
     "armor-hr-lavasioth-greaves-beta": {
       "Key": "armor-hr-lavasioth-greaves-beta",
-      "Translation": "เอสเอส Lavasioth สนับ"
+      "Translation": "Lavasioth สนับบาท"
     },
     "armor-hr-lavasioth-helm-alpha": {
       "Key": "armor-hr-lavasioth-helm-alpha",
@@ -2181,7 +2181,7 @@ export default {
     },
     "armor-hr-lavasioth-helm-beta": {
       "Key": "armor-hr-lavasioth-helm-beta",
-      "Translation": "เอสเอส Lavasioth พวงมาลัย"
+      "Translation": "Lavasioth Helm บาท"
     },
     "armor-hr-lavasioth-mail-alpha": {
       "Key": "armor-hr-lavasioth-mail-alpha",
@@ -2189,7 +2189,7 @@ export default {
     },
     "armor-hr-lavasioth-mail-beta": {
       "Key": "armor-hr-lavasioth-mail-beta",
-      "Translation": "เอสเอส Lavasioth จดหมาย"
+      "Translation": "Lavasioth จดหมายเอสเอส"
     },
     "armor-hr-lavasioth-vambraces-alpha": {
       "Key": "armor-hr-lavasioth-vambraces-alpha",
@@ -2197,11 +2197,11 @@ export default {
     },
     "armor-hr-lavasioth-vambraces-beta": {
       "Key": "armor-hr-lavasioth-vambraces-beta",
-      "Translation": "เอสเอส Lavasioth vambraces"
+      "Translation": "Lavasioth vambraces บาท"
     },
     "armor-hr-leather-alpha": {
       "Key": "armor-hr-leather-alpha",
-      "Translation": "⍺หนัง"
+      "Translation": "หนัง⍺"
     },
     "armor-hr-leather-belt-alpha": {
       "Key": "armor-hr-leather-belt-alpha",
@@ -2229,7 +2229,7 @@ export default {
     },
     "armor-hr-leather-headgear-beta": {
       "Key": "armor-hr-leather-headgear-beta",
-      "Translation": "ßหนังหมวก"
+      "Translation": "หนังหมวกบาท"
     },
     "armor-hr-leather-mail-alpha": {
       "Key": "armor-hr-leather-mail-alpha",
@@ -2237,7 +2237,7 @@ export default {
     },
     "armor-hr-leather-mail-beta": {
       "Key": "armor-hr-leather-mail-beta",
-      "Translation": "ßจดหมายหนัง"
+      "Translation": "หนังจดหมายเอสเอส"
     },
     "armor-hr-leather-trousers-alpha": {
       "Key": "armor-hr-leather-trousers-alpha",
@@ -2261,7 +2261,7 @@ export default {
     },
     "armor-hr-legiana-coil-beta": {
       "Key": "armor-hr-legiana-coil-beta",
-      "Translation": "เอสเอส Legiana คอยล์"
+      "Translation": "Legiana คอยล์บาท"
     },
     "armor-hr-legiana-greaves-alpha": {
       "Key": "armor-hr-legiana-greaves-alpha",
@@ -2269,7 +2269,7 @@ export default {
     },
     "armor-hr-legiana-greaves-beta": {
       "Key": "armor-hr-legiana-greaves-beta",
-      "Translation": "เอสเอส Legiana สนับ"
+      "Translation": "Legiana สนับบาท"
     },
     "armor-hr-legiana-helm-alpha": {
       "Key": "armor-hr-legiana-helm-alpha",
@@ -2277,7 +2277,7 @@ export default {
     },
     "armor-hr-legiana-helm-beta": {
       "Key": "armor-hr-legiana-helm-beta",
-      "Translation": "เอสเอส Legiana พวงมาลัย"
+      "Translation": "Legiana Helm บาท"
     },
     "armor-hr-legiana-mail-alpha": {
       "Key": "armor-hr-legiana-mail-alpha",
@@ -2285,7 +2285,7 @@ export default {
     },
     "armor-hr-legiana-mail-beta": {
       "Key": "armor-hr-legiana-mail-beta",
-      "Translation": "เอสเอส Legiana จดหมาย"
+      "Translation": "Legiana จดหมายเอสเอส"
     },
     "armor-hr-legiana-vambraces-alpha": {
       "Key": "armor-hr-legiana-vambraces-alpha",
@@ -2293,7 +2293,7 @@ export default {
     },
     "armor-hr-legiana-vambraces-beta": {
       "Key": "armor-hr-legiana-vambraces-beta",
-      "Translation": "เอสเอส Legiana vambraces"
+      "Translation": "Legiana vambraces บาท"
     },
     "armor-hr-lumu-alpha": {
       "Key": "armor-hr-lumu-alpha",
@@ -2301,7 +2301,7 @@ export default {
     },
     "armor-hr-lumu-beta": {
       "Key": "armor-hr-lumu-beta",
-      "Translation": "เอสเอส Lumu"
+      "Translation": "Lumu บาท"
     },
     "armor-hr-lumu-coil-alpha": {
       "Key": "armor-hr-lumu-coil-alpha",
@@ -2309,7 +2309,7 @@ export default {
     },
     "armor-hr-lumu-coil-beta": {
       "Key": "armor-hr-lumu-coil-beta",
-      "Translation": "เอสเอส Lumu คอยล์"
+      "Translation": "Lumu คอยล์บาท"
     },
     "armor-hr-lumu-greaves-alpha": {
       "Key": "armor-hr-lumu-greaves-alpha",
@@ -2317,7 +2317,7 @@ export default {
     },
     "armor-hr-lumu-greaves-beta": {
       "Key": "armor-hr-lumu-greaves-beta",
-      "Translation": "เอสเอส Lumu สนับ"
+      "Translation": "Lumu สนับบาท"
     },
     "armor-hr-lumu-hat-alpha": {
       "Key": "armor-hr-lumu-hat-alpha",
@@ -2325,7 +2325,7 @@ export default {
     },
     "armor-hr-lumu-hat-beta": {
       "Key": "armor-hr-lumu-hat-beta",
-      "Translation": "เอสเอส Lumu หมวก"
+      "Translation": "Lumu หมวกบาท"
     },
     "armor-hr-lumu-mail-alpha": {
       "Key": "armor-hr-lumu-mail-alpha",
@@ -2333,7 +2333,7 @@ export default {
     },
     "armor-hr-lumu-mail-beta": {
       "Key": "armor-hr-lumu-mail-beta",
-      "Translation": "เอสเอส Lumu จดหมาย"
+      "Translation": "Lumu จดหมายเอสเอส"
     },
     "armor-hr-lumu-vambraces-alpha": {
       "Key": "armor-hr-lumu-vambraces-alpha",
@@ -2341,7 +2341,7 @@ export default {
     },
     "armor-hr-lumu-vambraces-beta": {
       "Key": "armor-hr-lumu-vambraces-beta",
-      "Translation": "เอสเอส Lumu vambraces"
+      "Translation": "Lumu vambraces บาท"
     },
     "armor-hr-lunastra-alpha": {
       "Key": "armor-hr-lunastra-alpha",
@@ -2349,11 +2349,11 @@ export default {
     },
     "armor-hr-lunastra-beta": {
       "Key": "armor-hr-lunastra-beta",
-      "Translation": "เอสเอส Lunastra"
+      "Translation": "Lunastra บาท"
     },
     "armor-hr-lunastra-gamma": {
       "Key": "armor-hr-lunastra-gamma",
-      "Translation": "γ Lunastra"
+      "Translation": "Lunastra γ"
     },
     "armor-hr-mosswine-mask-alpha": {
       "Key": "armor-hr-mosswine-mask-alpha",
@@ -2365,7 +2365,7 @@ export default {
     },
     "armor-hr-nergigante-beta": {
       "Key": "armor-hr-nergigante-beta",
-      "Translation": "เอสเอส Nergigante"
+      "Translation": "Nergigante บาท"
     },
     "armor-hr-nergigante-coil-alpha": {
       "Key": "armor-hr-nergigante-coil-alpha",
@@ -2373,15 +2373,15 @@ export default {
     },
     "armor-hr-nergigante-coil-beta": {
       "Key": "armor-hr-nergigante-coil-beta",
-      "Translation": "เอสเอส Nergigante คอยล์"
+      "Translation": "Nergigante คอยล์บาท"
     },
     "armor-hr-nergigante-coil-gamma": {
       "Key": "armor-hr-nergigante-coil-gamma",
-      "Translation": "γ Nergigante คอยล์"
+      "Translation": "Nergigante คอยล์γ"
     },
     "armor-hr-nergigante-gamma": {
       "Key": "armor-hr-nergigante-gamma",
-      "Translation": "γ Nergigante"
+      "Translation": "Nergigante γ"
     },
     "armor-hr-nergigante-greaves-alpha": {
       "Key": "armor-hr-nergigante-greaves-alpha",
@@ -2389,11 +2389,11 @@ export default {
     },
     "armor-hr-nergigante-greaves-beta": {
       "Key": "armor-hr-nergigante-greaves-beta",
-      "Translation": "เอสเอส Nergigante สนับ"
+      "Translation": "Nergigante สนับบาท"
     },
     "armor-hr-nergigante-greaves-gamma": {
       "Key": "armor-hr-nergigante-greaves-gamma",
-      "Translation": "γ Nergigante สนับ"
+      "Translation": "Nergigante สนับγ"
     },
     "armor-hr-nergigante-helm-alpha": {
       "Key": "armor-hr-nergigante-helm-alpha",
@@ -2401,11 +2401,11 @@ export default {
     },
     "armor-hr-nergigante-helm-beta": {
       "Key": "armor-hr-nergigante-helm-beta",
-      "Translation": "เอสเอส Nergigante พวงมาลัย"
+      "Translation": "Nergigante Helm บาท"
     },
     "armor-hr-nergigante-helm-gamma": {
       "Key": "armor-hr-nergigante-helm-gamma",
-      "Translation": "γ Nergigante พวงมาลัย"
+      "Translation": "Nergigante Helm γ"
     },
     "armor-hr-nergigante-mail-alpha": {
       "Key": "armor-hr-nergigante-mail-alpha",
@@ -2413,11 +2413,11 @@ export default {
     },
     "armor-hr-nergigante-mail-beta": {
       "Key": "armor-hr-nergigante-mail-beta",
-      "Translation": "เอสเอส Nergigante จดหมาย"
+      "Translation": "Nergigante จดหมายเอสเอส"
     },
     "armor-hr-nergigante-mail-gamma": {
       "Key": "armor-hr-nergigante-mail-gamma",
-      "Translation": "γ Nergigante จดหมาย"
+      "Translation": "Nergigante จดหมายγ"
     },
     "armor-hr-nergigante-vambraces-alpha": {
       "Key": "armor-hr-nergigante-vambraces-alpha",
@@ -2425,11 +2425,11 @@ export default {
     },
     "armor-hr-nergigante-vambraces-beta": {
       "Key": "armor-hr-nergigante-vambraces-beta",
-      "Translation": "เอสเอส Nergigante vambraces"
+      "Translation": "Nergigante vambraces บาท"
     },
     "armor-hr-nergigante-vambraces-gamma": {
       "Key": "armor-hr-nergigante-vambraces-gamma",
-      "Translation": "γ Nergigante vambraces"
+      "Translation": "Nergigante vambraces γ"
     },
     "armor-hr-odogaron-alpha": {
       "Key": "armor-hr-odogaron-alpha",
@@ -2437,7 +2437,7 @@ export default {
     },
     "armor-hr-odogaron-beta": {
       "Key": "armor-hr-odogaron-beta",
-      "Translation": "เอสเอส Odogaron"
+      "Translation": "Odogaron บาท"
     },
     "armor-hr-odogaron-coil-alpha": {
       "Key": "armor-hr-odogaron-coil-alpha",
@@ -2445,7 +2445,7 @@ export default {
     },
     "armor-hr-odogaron-coil-beta": {
       "Key": "armor-hr-odogaron-coil-beta",
-      "Translation": "เอสเอส Odogaron คอยล์"
+      "Translation": "Odogaron คอยล์บาท"
     },
     "armor-hr-odogaron-greaves-alpha": {
       "Key": "armor-hr-odogaron-greaves-alpha",
@@ -2453,7 +2453,7 @@ export default {
     },
     "armor-hr-odogaron-greaves-beta": {
       "Key": "armor-hr-odogaron-greaves-beta",
-      "Translation": "เอสเอส Odogaron สนับ"
+      "Translation": "Odogaron สนับบาท"
     },
     "armor-hr-odogaron-helm-alpha": {
       "Key": "armor-hr-odogaron-helm-alpha",
@@ -2461,7 +2461,7 @@ export default {
     },
     "armor-hr-odogaron-helm-beta": {
       "Key": "armor-hr-odogaron-helm-beta",
-      "Translation": "เอสเอส Odogaron พวงมาลัย"
+      "Translation": "Odogaron Helm บาท"
     },
     "armor-hr-odogaron-mail-alpha": {
       "Key": "armor-hr-odogaron-mail-alpha",
@@ -2469,7 +2469,7 @@ export default {
     },
     "armor-hr-odogaron-mail-beta": {
       "Key": "armor-hr-odogaron-mail-beta",
-      "Translation": "เอสเอส Odogaron จดหมาย"
+      "Translation": "Odogaron จดหมายเอสเอส"
     },
     "armor-hr-odogaron-vambraces-alpha": {
       "Key": "armor-hr-odogaron-vambraces-alpha",
@@ -2477,7 +2477,7 @@ export default {
     },
     "armor-hr-odogaron-vambraces-beta": {
       "Key": "armor-hr-odogaron-vambraces-beta",
-      "Translation": "เอสเอส Odogaron vambraces"
+      "Translation": "Odogaron vambraces บาท"
     },
     "armor-hr-orion-alpha": {
       "Key": "armor-hr-orion-alpha",
@@ -2509,7 +2509,7 @@ export default {
     },
     "armor-hr-pukei-beta": {
       "Key": "armor-hr-pukei-beta",
-      "Translation": "เอสเอส Pukei"
+      "Translation": "Pukei บาท"
     },
     "armor-hr-pukei-coil-alpha": {
       "Key": "armor-hr-pukei-coil-alpha",
@@ -2517,7 +2517,7 @@ export default {
     },
     "armor-hr-pukei-coil-beta": {
       "Key": "armor-hr-pukei-coil-beta",
-      "Translation": "เอสเอส Pukei คอยล์"
+      "Translation": "Pukei คอยล์บาท"
     },
     "armor-hr-pukei-greaves-alpha": {
       "Key": "armor-hr-pukei-greaves-alpha",
@@ -2525,7 +2525,7 @@ export default {
     },
     "armor-hr-pukei-greaves-beta": {
       "Key": "armor-hr-pukei-greaves-beta",
-      "Translation": "เอสเอส Pukei สนับ"
+      "Translation": "Pukei สนับบาท"
     },
     "armor-hr-pukei-hood-alpha": {
       "Key": "armor-hr-pukei-hood-alpha",
@@ -2533,7 +2533,7 @@ export default {
     },
     "armor-hr-pukei-hood-beta": {
       "Key": "armor-hr-pukei-hood-beta",
-      "Translation": "เอสเอส Pukei ฮู้ด"
+      "Translation": "Pukei ฮู้ดเอสเอส"
     },
     "armor-hr-pukei-mail-alpha": {
       "Key": "armor-hr-pukei-mail-alpha",
@@ -2541,7 +2541,7 @@ export default {
     },
     "armor-hr-pukei-mail-beta": {
       "Key": "armor-hr-pukei-mail-beta",
-      "Translation": "เอสเอส Pukei จดหมาย"
+      "Translation": "Pukei จดหมายเอสเอส"
     },
     "armor-hr-pukei-vambraces-alpha": {
       "Key": "armor-hr-pukei-vambraces-alpha",
@@ -2549,7 +2549,7 @@ export default {
     },
     "armor-hr-pukei-vambraces-beta": {
       "Key": "armor-hr-pukei-vambraces-beta",
-      "Translation": "เอสเอส Pukei vambraces"
+      "Translation": "Pukei vambraces บาท"
     },
     "armor-hr-queen-beetle-alpha": {
       "Key": "armor-hr-queen-beetle-alpha",
@@ -2581,7 +2581,7 @@ export default {
     },
     "armor-hr-rath-heart-beta": {
       "Key": "armor-hr-rath-heart-beta",
-      "Translation": "เอสเอสหัวใจไทยรัฐ"
+      "Translation": "เคาะหัวใจบาท"
     },
     "armor-hr-rath-heart-braces-alpha": {
       "Key": "armor-hr-rath-heart-braces-alpha",
@@ -2589,7 +2589,7 @@ export default {
     },
     "armor-hr-rath-heart-braces-beta": {
       "Key": "armor-hr-rath-heart-braces-beta",
-      "Translation": "เอสเอสเคาะหัวใจจัดฟัน"
+      "Translation": "เคาะหัวใจจัดฟันเอสเอส"
     },
     "armor-hr-rath-heart-coil-alpha": {
       "Key": "armor-hr-rath-heart-coil-alpha",
@@ -2597,7 +2597,7 @@ export default {
     },
     "armor-hr-rath-heart-coil-beta": {
       "Key": "armor-hr-rath-heart-coil-beta",
-      "Translation": "เอสเอสเคาะหัวใจคอยล์"
+      "Translation": "เคาะหัวใจคอยล์บาท"
     },
     "armor-hr-rath-heart-greaves-alpha": {
       "Key": "armor-hr-rath-heart-greaves-alpha",
@@ -2605,7 +2605,7 @@ export default {
     },
     "armor-hr-rath-heart-greaves-beta": {
       "Key": "armor-hr-rath-heart-greaves-beta",
-      "Translation": "เอสเอสเคาะหัวใจสนับ"
+      "Translation": "เคาะหัวใจนับบาท"
     },
     "armor-hr-rath-heart-helm-alpha": {
       "Key": "armor-hr-rath-heart-helm-alpha",
@@ -2613,7 +2613,7 @@ export default {
     },
     "armor-hr-rath-heart-helm-beta": {
       "Key": "armor-hr-rath-heart-helm-beta",
-      "Translation": "เอสเอสเคาะหัวใจพวงมาลัย"
+      "Translation": "เคาะหัวใจ Helm บาท"
     },
     "armor-hr-rath-heart-mail-alpha": {
       "Key": "armor-hr-rath-heart-mail-alpha",
@@ -2621,7 +2621,7 @@ export default {
     },
     "armor-hr-rath-heart-mail-beta": {
       "Key": "armor-hr-rath-heart-mail-beta",
-      "Translation": "เอสเอสเคาะหัวใจจดหมาย"
+      "Translation": "เคาะหัวใจจดหมายเอสเอส"
     },
     "armor-hr-rath-soul-alpha": {
       "Key": "armor-hr-rath-soul-alpha",
@@ -2629,7 +2629,7 @@ export default {
     },
     "armor-hr-rath-soul-beta": {
       "Key": "armor-hr-rath-soul-beta",
-      "Translation": "เอสเอสไทยรัฐวิญญาณ"
+      "Translation": "ไทยรัฐวิญญาณบาท"
     },
     "armor-hr-rath-soul-braces-alpha": {
       "Key": "armor-hr-rath-soul-braces-alpha",
@@ -2637,7 +2637,7 @@ export default {
     },
     "armor-hr-rath-soul-braces-beta": {
       "Key": "armor-hr-rath-soul-braces-beta",
-      "Translation": "เอสเอสไทยรัฐวิญญาณจัดฟัน"
+      "Translation": "ไทยรัฐวิญญาณจัดฟันเอสเอส"
     },
     "armor-hr-rath-soul-coil-alpha": {
       "Key": "armor-hr-rath-soul-coil-alpha",
@@ -2645,7 +2645,7 @@ export default {
     },
     "armor-hr-rath-soul-coil-beta": {
       "Key": "armor-hr-rath-soul-coil-beta",
-      "Translation": "เอสเอสไทยรัฐวิญญาณคอยล์"
+      "Translation": "ไทยรัฐวิญญาณคอยล์บาท"
     },
     "armor-hr-rath-soul-greaves-alpha": {
       "Key": "armor-hr-rath-soul-greaves-alpha",
@@ -2653,7 +2653,7 @@ export default {
     },
     "armor-hr-rath-soul-greaves-beta": {
       "Key": "armor-hr-rath-soul-greaves-beta",
-      "Translation": "เอสเอสไทยรัฐวิญญาณสนับ"
+      "Translation": "ไทยรัฐวิญญาณนับบาท"
     },
     "armor-hr-rath-soul-helm-alpha": {
       "Key": "armor-hr-rath-soul-helm-alpha",
@@ -2661,7 +2661,7 @@ export default {
     },
     "armor-hr-rath-soul-helm-beta": {
       "Key": "armor-hr-rath-soul-helm-beta",
-      "Translation": "เอสเอสไทยรัฐวิญญาณพวงมาลัย"
+      "Translation": "ไทยรัฐวิญญาณ Helm บาท"
     },
     "armor-hr-rath-soul-mail-alpha": {
       "Key": "armor-hr-rath-soul-mail-alpha",
@@ -2669,7 +2669,7 @@ export default {
     },
     "armor-hr-rath-soul-mail-beta": {
       "Key": "armor-hr-rath-soul-mail-beta",
-      "Translation": "เอสเอสไทยรัฐวิญญาณจดหมาย"
+      "Translation": "ไทยรัฐวิญญาณจดหมายเอสเอส"
     },
     "armor-hr-rathalos-alpha": {
       "Key": "armor-hr-rathalos-alpha",
@@ -2677,7 +2677,7 @@ export default {
     },
     "armor-hr-rathalos-beta": {
       "Key": "armor-hr-rathalos-beta",
-      "Translation": "เอสเอส Rathalos"
+      "Translation": "Rathalos บาท"
     },
     "armor-hr-rathalos-coil-alpha": {
       "Key": "armor-hr-rathalos-coil-alpha",
@@ -2685,7 +2685,7 @@ export default {
     },
     "armor-hr-rathalos-coil-beta": {
       "Key": "armor-hr-rathalos-coil-beta",
-      "Translation": "เอสเอส Rathalos คอยล์"
+      "Translation": "Rathalos คอยล์บาท"
     },
     "armor-hr-rathalos-greaves-alpha": {
       "Key": "armor-hr-rathalos-greaves-alpha",
@@ -2693,7 +2693,7 @@ export default {
     },
     "armor-hr-rathalos-greaves-beta": {
       "Key": "armor-hr-rathalos-greaves-beta",
-      "Translation": "เอสเอส Rathalos สนับ"
+      "Translation": "Rathalos สนับบาท"
     },
     "armor-hr-rathalos-helm-alpha": {
       "Key": "armor-hr-rathalos-helm-alpha",
@@ -2701,7 +2701,7 @@ export default {
     },
     "armor-hr-rathalos-helm-beta": {
       "Key": "armor-hr-rathalos-helm-beta",
-      "Translation": "เอสเอส Rathalos พวงมาลัย"
+      "Translation": "Rathalos Helm บาท"
     },
     "armor-hr-rathalos-mail-alpha": {
       "Key": "armor-hr-rathalos-mail-alpha",
@@ -2709,7 +2709,7 @@ export default {
     },
     "armor-hr-rathalos-mail-beta": {
       "Key": "armor-hr-rathalos-mail-beta",
-      "Translation": "เอสเอส Rathalos จดหมาย"
+      "Translation": "Rathalos จดหมายเอสเอส"
     },
     "armor-hr-rathalos-vambraces-alpha": {
       "Key": "armor-hr-rathalos-vambraces-alpha",
@@ -2717,7 +2717,7 @@ export default {
     },
     "armor-hr-rathalos-vambraces-beta": {
       "Key": "armor-hr-rathalos-vambraces-beta",
-      "Translation": "เอสเอส Rathalos vambraces"
+      "Translation": "Rathalos vambraces บาท"
     },
     "armor-hr-rathian-alpha": {
       "Key": "armor-hr-rathian-alpha",
@@ -2733,7 +2733,7 @@ export default {
     },
     "armor-hr-rathian-coil-beta": {
       "Key": "armor-hr-rathian-coil-beta",
-      "Translation": "ßระเฑียรคอยล์"
+      "Translation": "ระเฑียรคอยล์บาท"
     },
     "armor-hr-rathian-greaves-alpha": {
       "Key": "armor-hr-rathian-greaves-alpha",
@@ -2741,7 +2741,7 @@ export default {
     },
     "armor-hr-rathian-greaves-beta": {
       "Key": "armor-hr-rathian-greaves-beta",
-      "Translation": "เอสเอสนับระเฑียร"
+      "Translation": "ระเฑียรสนับบาท"
     },
     "armor-hr-rathian-helm-alpha": {
       "Key": "armor-hr-rathian-helm-alpha",
@@ -2749,7 +2749,7 @@ export default {
     },
     "armor-hr-rathian-helm-beta": {
       "Key": "armor-hr-rathian-helm-beta",
-      "Translation": "เอสเอส Helm ระเฑียร"
+      "Translation": "ระเฑียร Helm บาท"
     },
     "armor-hr-rathian-mail-alpha": {
       "Key": "armor-hr-rathian-mail-alpha",
@@ -2765,7 +2765,7 @@ export default {
     },
     "armor-hr-rathian-vambraces-beta": {
       "Key": "armor-hr-rathian-vambraces-beta",
-      "Translation": "ßระเฑียร vambraces"
+      "Translation": "ระเฑียร vambraces บาท"
     },
     "armor-hr-sealed-eyepatch-alpha": {
       "Key": "armor-hr-sealed-eyepatch-alpha",
@@ -2781,7 +2781,7 @@ export default {
     },
     "armor-hr-shamos-beta": {
       "Key": "armor-hr-shamos-beta",
-      "Translation": "เอสเอส Shamos"
+      "Translation": "Shamos บาท"
     },
     "armor-hr-shamos-goggles-alpha": {
       "Key": "armor-hr-shamos-goggles-alpha",
@@ -2789,7 +2789,7 @@ export default {
     },
     "armor-hr-shamos-goggles-beta": {
       "Key": "armor-hr-shamos-goggles-beta",
-      "Translation": "เอสเอส Shamos แว่นตา"
+      "Translation": "Shamos แว่นตาเอสเอส"
     },
     "armor-hr-skull-alpha": {
       "Key": "armor-hr-skull-alpha",
@@ -2813,11 +2813,11 @@ export default {
     },
     "armor-hr-teostra-beta": {
       "Key": "armor-hr-teostra-beta",
-      "Translation": "เอสเอส Teostra"
+      "Translation": "Teostra บาท"
     },
     "armor-hr-teostra-gamma": {
       "Key": "armor-hr-teostra-gamma",
-      "Translation": "γ Teostra"
+      "Translation": "Teostra γ"
     },
     "armor-hr-tzitzi-alpha": {
       "Key": "armor-hr-tzitzi-alpha",
@@ -2825,7 +2825,7 @@ export default {
     },
     "armor-hr-tzitzi-beta": {
       "Key": "armor-hr-tzitzi-beta",
-      "Translation": "เอสเอส Tzitzi"
+      "Translation": "Tzitzi บาท"
     },
     "armor-hr-tzitzi-coil-alpha": {
       "Key": "armor-hr-tzitzi-coil-alpha",
@@ -2833,7 +2833,7 @@ export default {
     },
     "armor-hr-tzitzi-coil-beta": {
       "Key": "armor-hr-tzitzi-coil-beta",
-      "Translation": "เอสเอส Tzitzi คอยล์"
+      "Translation": "Tzitzi คอยล์บาท"
     },
     "armor-hr-tzitzi-greaves-alpha": {
       "Key": "armor-hr-tzitzi-greaves-alpha",
@@ -2841,7 +2841,7 @@ export default {
     },
     "armor-hr-tzitzi-greaves-beta": {
       "Key": "armor-hr-tzitzi-greaves-beta",
-      "Translation": "เอสเอส Tzitzi สนับ"
+      "Translation": "Tzitzi สนับบาท"
     },
     "armor-hr-tzitzi-headgear-alpha": {
       "Key": "armor-hr-tzitzi-headgear-alpha",
@@ -2849,7 +2849,7 @@ export default {
     },
     "armor-hr-tzitzi-headgear-beta": {
       "Key": "armor-hr-tzitzi-headgear-beta",
-      "Translation": "เอสเอส Tzitzi หมวก"
+      "Translation": "Tzitzi หมวกบาท"
     },
     "armor-hr-tzitzi-mail-alpha": {
       "Key": "armor-hr-tzitzi-mail-alpha",
@@ -2857,7 +2857,7 @@ export default {
     },
     "armor-hr-tzitzi-mail-beta": {
       "Key": "armor-hr-tzitzi-mail-beta",
-      "Translation": "เอสเอส Tzitzi จดหมาย"
+      "Translation": "Tzitzi จดหมายเอสเอส"
     },
     "armor-hr-tzitzi-vambraces-alpha": {
       "Key": "armor-hr-tzitzi-vambraces-alpha",
@@ -2865,7 +2865,7 @@ export default {
     },
     "armor-hr-tzitzi-vambraces-beta": {
       "Key": "armor-hr-tzitzi-vambraces-beta",
-      "Translation": "เอสเอส Tzitzi vambraces"
+      "Translation": "Tzitzi vambraces บาท"
     },
     "armor-hr-uragaan-alpha": {
       "Key": "armor-hr-uragaan-alpha",
@@ -2881,15 +2881,15 @@ export default {
     },
     "armor-hr-uragaan-coil-beta": {
       "Key": "armor-hr-uragaan-coil-beta",
-      "Translation": "เอสเอส Uragaan คอยล์"
+      "Translation": "Uragaan คอยล์บาท"
     },
     "armor-hr-uragaan-greaves-alpha": {
       "Key": "armor-hr-uragaan-greaves-alpha",
-      "Translation": "Uragaan สนับ⍺"
+      "Translation": "สนับ Uragaan ⍺"
     },
     "armor-hr-uragaan-greaves-beta": {
       "Key": "armor-hr-uragaan-greaves-beta",
-      "Translation": "เอสเอส Uragaan สนับ"
+      "Translation": "Uragaan สนับบาท"
     },
     "armor-hr-uragaan-helm-alpha": {
       "Key": "armor-hr-uragaan-helm-alpha",
@@ -2897,15 +2897,15 @@ export default {
     },
     "armor-hr-uragaan-helm-beta": {
       "Key": "armor-hr-uragaan-helm-beta",
-      "Translation": "เอสเอส Uragaan พวงมาลัย"
+      "Translation": "Uragaan Helm บาท"
     },
     "armor-hr-uragaan-mail-alpha": {
       "Key": "armor-hr-uragaan-mail-alpha",
-      "Translation": "Uragaan จดหมาย⍺"
+      "Translation": "จดหมาย Uragaan ⍺"
     },
     "armor-hr-uragaan-mail-beta": {
       "Key": "armor-hr-uragaan-mail-beta",
-      "Translation": "เอสเอส Uragaan จดหมาย"
+      "Translation": "Uragaan จดหมายเอสเอส"
     },
     "armor-hr-uragaan-vambraces-alpha": {
       "Key": "armor-hr-uragaan-vambraces-alpha",
@@ -2913,7 +2913,7 @@ export default {
     },
     "armor-hr-uragaan-vambraces-beta": {
       "Key": "armor-hr-uragaan-vambraces-beta",
-      "Translation": "เอสเอส Uragaan vambraces"
+      "Translation": "Uragaan vambraces บาท"
     },
     "armor-hr-vaal-hazak-alpha": {
       "Key": "armor-hr-vaal-hazak-alpha",
@@ -2921,7 +2921,7 @@ export default {
     },
     "armor-hr-vaal-hazak-beta": {
       "Key": "armor-hr-vaal-hazak-beta",
-      "Translation": "เอสเอสบาล Hazak"
+      "Translation": "Vaal Hazak บาท"
     },
     "armor-hr-vaal-hazak-braces-alpha": {
       "Key": "armor-hr-vaal-hazak-braces-alpha",
@@ -2929,11 +2929,11 @@ export default {
     },
     "armor-hr-vaal-hazak-braces-beta": {
       "Key": "armor-hr-vaal-hazak-braces-beta",
-      "Translation": "เอสเอสบาล Hazak จัดฟัน"
+      "Translation": "Vaal Hazak จัดฟันเอสเอส"
     },
     "armor-hr-vaal-hazak-braces-gamma": {
       "Key": "armor-hr-vaal-hazak-braces-gamma",
-      "Translation": "γ Vaal Hazak จัดฟัน"
+      "Translation": "Vaal Hazak จัดฟันγ"
     },
     "armor-hr-vaal-hazak-coil-alpha": {
       "Key": "armor-hr-vaal-hazak-coil-alpha",
@@ -2941,15 +2941,15 @@ export default {
     },
     "armor-hr-vaal-hazak-coil-beta": {
       "Key": "armor-hr-vaal-hazak-coil-beta",
-      "Translation": "เอสเอสบาล Hazak คอยล์"
+      "Translation": "Vaal Hazak คอยล์บาท"
     },
     "armor-hr-vaal-hazak-coil-gamma": {
       "Key": "armor-hr-vaal-hazak-coil-gamma",
-      "Translation": "γ Vaal Hazak คอยล์"
+      "Translation": "Vaal Hazak คอยล์γ"
     },
     "armor-hr-vaal-hazak-gamma": {
       "Key": "armor-hr-vaal-hazak-gamma",
-      "Translation": "γ Vaal Hazak"
+      "Translation": "Vaal Hazak γ"
     },
     "armor-hr-vaal-hazak-greaves-alpha": {
       "Key": "armor-hr-vaal-hazak-greaves-alpha",
@@ -2957,11 +2957,11 @@ export default {
     },
     "armor-hr-vaal-hazak-greaves-beta": {
       "Key": "armor-hr-vaal-hazak-greaves-beta",
-      "Translation": "เอสเอสบาล Hazak สนับ"
+      "Translation": "Vaal Hazak สนับบาท"
     },
     "armor-hr-vaal-hazak-greaves-gamma": {
       "Key": "armor-hr-vaal-hazak-greaves-gamma",
-      "Translation": "γ Vaal Hazak สนับ"
+      "Translation": "Vaal Hazak สนับγ"
     },
     "armor-hr-vaal-hazak-helm-alpha": {
       "Key": "armor-hr-vaal-hazak-helm-alpha",
@@ -2969,11 +2969,11 @@ export default {
     },
     "armor-hr-vaal-hazak-helm-beta": {
       "Key": "armor-hr-vaal-hazak-helm-beta",
-      "Translation": "เอสเอสบาล Hazak พวงมาลัย"
+      "Translation": "Vaal Hazak Helm บาท"
     },
     "armor-hr-vaal-hazak-helm-gamma": {
       "Key": "armor-hr-vaal-hazak-helm-gamma",
-      "Translation": "γ Vaal Hazak พวงมาลัย"
+      "Translation": "Vaal Hazak Helm γ"
     },
     "armor-hr-vaal-hazak-mail-alpha": {
       "Key": "armor-hr-vaal-hazak-mail-alpha",
@@ -2981,11 +2981,11 @@ export default {
     },
     "armor-hr-vaal-hazak-mail-beta": {
       "Key": "armor-hr-vaal-hazak-mail-beta",
-      "Translation": "เอสเอสบาล Hazak จดหมาย"
+      "Translation": "Vaal Hazak จดหมายเอสเอส"
     },
     "armor-hr-vaal-hazak-mail-gamma": {
       "Key": "armor-hr-vaal-hazak-mail-gamma",
-      "Translation": "γ Vaal Hazak จดหมาย"
+      "Translation": "Vaal Hazak จดหมายγ"
     },
     "armor-hr-vangis-coil-alpha": {
       "Key": "armor-hr-vangis-coil-alpha",
@@ -2993,7 +2993,7 @@ export default {
     },
     "armor-hr-vangis-coil-beta": {
       "Key": "armor-hr-vangis-coil-beta",
-      "Translation": "เอสเอส Vangis คอยล์"
+      "Translation": "Vangis คอยล์บาท"
     },
     "armor-hr-vangis-greaves-alpha": {
       "Key": "armor-hr-vangis-greaves-alpha",
@@ -3001,7 +3001,7 @@ export default {
     },
     "armor-hr-vangis-greaves-beta": {
       "Key": "armor-hr-vangis-greaves-beta",
-      "Translation": "เอสเอส Vangis สนับ"
+      "Translation": "Vangis สนับบาท"
     },
     "armor-hr-vangis-helm-alpha": {
       "Key": "armor-hr-vangis-helm-alpha",
@@ -3009,7 +3009,7 @@ export default {
     },
     "armor-hr-vangis-helm-beta": {
       "Key": "armor-hr-vangis-helm-beta",
-      "Translation": "เอสเอส Vangis พวงมาลัย"
+      "Translation": "Vangis Helm บาท"
     },
     "armor-hr-vangis-mail-alpha": {
       "Key": "armor-hr-vangis-mail-alpha",
@@ -3017,7 +3017,7 @@ export default {
     },
     "armor-hr-vangis-mail-beta": {
       "Key": "armor-hr-vangis-mail-beta",
-      "Translation": "เอสเอส Vangis จดหมาย"
+      "Translation": "Vangis จดหมายเอสเอส"
     },
     "armor-hr-vangis-vambraces-alpha": {
       "Key": "armor-hr-vangis-vambraces-alpha",
@@ -3025,7 +3025,7 @@ export default {
     },
     "armor-hr-vangis-vambraces-beta": {
       "Key": "armor-hr-vangis-vambraces-beta",
-      "Translation": "เอสเอส Vangis vambraces"
+      "Translation": "Vangis vambraces บาท"
     },
     "armor-hr-vespoid-alpha": {
       "Key": "armor-hr-vespoid-alpha",
@@ -3033,7 +3033,7 @@ export default {
     },
     "armor-hr-vespoid-beta": {
       "Key": "armor-hr-vespoid-beta",
-      "Translation": "เอสเอส Vespoid"
+      "Translation": "Vespoid บาท"
     },
     "armor-hr-vespoid-coil-alpha": {
       "Key": "armor-hr-vespoid-coil-alpha",
@@ -3041,7 +3041,7 @@ export default {
     },
     "armor-hr-vespoid-coil-beta": {
       "Key": "armor-hr-vespoid-coil-beta",
-      "Translation": "เอสเอส Vespoid คอยล์"
+      "Translation": "Vespoid คอยล์บาท"
     },
     "armor-hr-vespoid-greaves-alpha": {
       "Key": "armor-hr-vespoid-greaves-alpha",
@@ -3049,7 +3049,7 @@ export default {
     },
     "armor-hr-vespoid-greaves-beta": {
       "Key": "armor-hr-vespoid-greaves-beta",
-      "Translation": "เอสเอส Vespoid สนับ"
+      "Translation": "Vespoid สนับบาท"
     },
     "armor-hr-vespoid-helm-alpha": {
       "Key": "armor-hr-vespoid-helm-alpha",
@@ -3057,7 +3057,7 @@ export default {
     },
     "armor-hr-vespoid-helm-beta": {
       "Key": "armor-hr-vespoid-helm-beta",
-      "Translation": "เอสเอส Vespoid พวงมาลัย"
+      "Translation": "Vespoid Helm บาท"
     },
     "armor-hr-vespoid-mail-alpha": {
       "Key": "armor-hr-vespoid-mail-alpha",
@@ -3065,7 +3065,7 @@ export default {
     },
     "armor-hr-vespoid-mail-beta": {
       "Key": "armor-hr-vespoid-mail-beta",
-      "Translation": "เอสเอส Vespoid จดหมาย"
+      "Translation": "Vespoid จดหมายเอสเอส"
     },
     "armor-hr-vespoid-vambraces-alpha": {
       "Key": "armor-hr-vespoid-vambraces-alpha",
@@ -3073,7 +3073,7 @@ export default {
     },
     "armor-hr-vespoid-vambraces-beta": {
       "Key": "armor-hr-vespoid-vambraces-beta",
-      "Translation": "เอสเอส Vespoid vambraces"
+      "Translation": "Vespoid vambraces บาท"
     },
     "armor-hr-wiggler-head-alpha": {
       "Key": "armor-hr-wiggler-head-alpha",
@@ -3093,11 +3093,11 @@ export default {
     },
     "armor-hr-xenojiiva-claws-beta": {
       "Key": "armor-hr-xenojiiva-claws-beta",
-      "Translation": "เอสเอส Xeno'jiiva กรงเล็บ"
+      "Translation": "Xeno'jiiva กรงเล็บบาท"
     },
     "armor-hr-xenojiiva-claws-gamma": {
       "Key": "armor-hr-xenojiiva-claws-gamma",
-      "Translation": "γ Xeno'jiiva กรงเล็บ"
+      "Translation": "Xeno'jiiva กรงเล็บγ"
     },
     "armor-hr-xenojiiva-gamma": {
       "Key": "armor-hr-xenojiiva-gamma",
@@ -3109,11 +3109,11 @@ export default {
     },
     "armor-hr-xenojiiva-headgear-beta": {
       "Key": "armor-hr-xenojiiva-headgear-beta",
-      "Translation": "เอสเอส Xeno'jiiva หมวก"
+      "Translation": "Xeno'jiiva หมวกบาท"
     },
     "armor-hr-xenojiiva-headgear-gamma": {
       "Key": "armor-hr-xenojiiva-headgear-gamma",
-      "Translation": "γ Xeno'jiiva หมวก"
+      "Translation": "Xeno'jiiva หมวกγ"
     },
     "armor-hr-xenojiiva-hide-alpha": {
       "Key": "armor-hr-xenojiiva-hide-alpha",
@@ -3133,11 +3133,11 @@ export default {
     },
     "armor-hr-xenojiiva-spine-beta": {
       "Key": "armor-hr-xenojiiva-spine-beta",
-      "Translation": "Xeno'jiiva ßกระดูกสันหลัง"
+      "Translation": "Xeno'jiiva กระดูกสันหลังบาท"
     },
     "armor-hr-xenojiiva-spine-gamma": {
       "Key": "armor-hr-xenojiiva-spine-gamma",
-      "Translation": "Xeno'jiiva γกระดูกสันหลัง"
+      "Translation": "Xeno'jiiva กระดูกสันหลังγ"
     },
     "armor-hr-xenojiiva-spurs-alpha": {
       "Key": "armor-hr-xenojiiva-spurs-alpha",
@@ -3145,11 +3145,11 @@ export default {
     },
     "armor-hr-xenojiiva-spurs-beta": {
       "Key": "armor-hr-xenojiiva-spurs-beta",
-      "Translation": "เอสเอส Xeno'jiiva สเปอร์ส"
+      "Translation": "Xeno'jiiva สเปอร์สเอสเอส"
     },
     "armor-hr-xenojiiva-spurs-gamma": {
       "Key": "armor-hr-xenojiiva-spurs-gamma",
-      "Translation": "γ Xeno'jiiva สเปอร์ส"
+      "Translation": "Xeno'jiiva สเปอร์สγ"
     },
     "armor-hr-zorah-alpha": {
       "Key": "armor-hr-zorah-alpha",
@@ -3157,7 +3157,7 @@ export default {
     },
     "armor-hr-zorah-beta": {
       "Key": "armor-hr-zorah-beta",
-      "Translation": "เอสเอสโศราห์"
+      "Translation": "โศราห์เอสเอส"
     },
     "armor-hr-zorah-claws-alpha": {
       "Key": "armor-hr-zorah-claws-alpha",
@@ -3165,15 +3165,15 @@ export default {
     },
     "armor-hr-zorah-claws-beta": {
       "Key": "armor-hr-zorah-claws-beta",
-      "Translation": "เอสเอสโศราห์กรงเล็บ"
+      "Translation": "โศราห์กรงเล็บบาท"
     },
     "armor-hr-zorah-claws-gamma": {
       "Key": "armor-hr-zorah-claws-gamma",
-      "Translation": "γโศราห์กรงเล็บ"
+      "Translation": "โศราห์กรงเล็บγ"
     },
     "armor-hr-zorah-gamma": {
       "Key": "armor-hr-zorah-gamma",
-      "Translation": "γโศราห์"
+      "Translation": "โศราห์γ"
     },
     "armor-hr-zorah-headgear-alpha": {
       "Key": "armor-hr-zorah-headgear-alpha",
@@ -3181,11 +3181,11 @@ export default {
     },
     "armor-hr-zorah-headgear-beta": {
       "Key": "armor-hr-zorah-headgear-beta",
-      "Translation": "เอสเอสโศราห์หมวก"
+      "Translation": "โศราห์หมวกบาท"
     },
     "armor-hr-zorah-headgear-gamma": {
       "Key": "armor-hr-zorah-headgear-gamma",
-      "Translation": "γโศราห์หมวก"
+      "Translation": "โศราห์หมวกγ"
     },
     "armor-hr-zorah-hide-alpha": {
       "Key": "armor-hr-zorah-hide-alpha",
@@ -3205,11 +3205,11 @@ export default {
     },
     "armor-hr-zorah-spine-beta": {
       "Key": "armor-hr-zorah-spine-beta",
-      "Translation": "โศราห์เอสเอสกระดูกสันหลัง"
+      "Translation": "โศราห์กระดูกสันหลังบาท"
     },
     "armor-hr-zorah-spine-gamma": {
       "Key": "armor-hr-zorah-spine-gamma",
-      "Translation": "โศราห์γกระดูกสันหลัง"
+      "Translation": "โศราห์กระดูกสันหลังγ"
     },
     "armor-hr-zorah-spurs-alpha": {
       "Key": "armor-hr-zorah-spurs-alpha",
@@ -3217,11 +3217,11 @@ export default {
     },
     "armor-hr-zorah-spurs-beta": {
       "Key": "armor-hr-zorah-spurs-beta",
-      "Translation": "เอสเอสโศราห์สเปอร์ส"
+      "Translation": "โศราห์สเปอร์สเอสเอส"
     },
     "armor-hr-zorah-spurs-gamma": {
       "Key": "armor-hr-zorah-spurs-gamma",
-      "Translation": "γโศราห์สเปอร์ส"
+      "Translation": "โศราห์สเปอร์สγ"
     },
     "armor-hunters-coil-description": {
       "Key": "armor-hunters-coil-description",
@@ -3233,7 +3233,7 @@ export default {
     },
     "armor-hunters-headgear-description": {
       "Key": "armor-hunters-headgear-description",
-      "Translation": "เกราะใช้กันอย่างแพร่หลายในหมู่นักล่า ความทนทานของมันสร้างให้ความสงบของจิตใจ"
+      "Translation": "เกราะใช้กันอย่างแพร่หลายในหมู่นักล่า ทนทานสร้างมันให้ความสงบของจิตใจ"
     },
     "armor-hunters-mail-description": {
       "Key": "armor-hunters-mail-description",
@@ -3249,7 +3249,7 @@ export default {
     },
     "armor-jagras-description": {
       "Key": "armor-jagras-description",
-      "Translation": "ขัดอย่างขยันขันแข็งยิ่งใหญ่ Jagras ขนาดแต่งงานเหล็กในความสามัคคีที่สวยงามในชุดเกราะนี้"
+      "Translation": "ขัดอย่างขยันขันแข็งยิ่งใหญ่ Jagras เหล็กขนาดแต่งงานในความสามัคคีที่สวยงามในชุดเกราะนี้"
     },
     "armor-jyura-description": {
       "Key": "armor-jyura-description",
@@ -3257,7 +3257,7 @@ export default {
     },
     "armor-kadachi-description": {
       "Key": "armor-kadachi-description",
-      "Translation": "แสงอย่างประณีตนี้อ่อน Tobi-Kadachi เกราะเพื่อให้อุ่นหนาฝาคั่งคุณแทบจะไม่สามารถรู้สึกได้ใน"
+      "Translation": "แสงอย่างประณีตนี้อ่อน Tobi-Kadachi เกราะเพื่อให้สุขสบายคุณแทบจะไม่สามารถรู้สึกได้ใน"
     },
     "armor-kestodon-description": {
       "Key": "armor-kestodon-description",
@@ -3265,7 +3265,7 @@ export default {
     },
     "armor-king-beetle-description": {
       "Key": "armor-king-beetle-description",
-      "Translation": "เกราะเพื่อตอบสนองความทะเยอทะยานของผู้ที่ฝันของการกวัดแกว่งอำนาจในการปกครองมากกว่า Bugdom"
+      "Translation": "เกราะเพื่อตอบสนองความทะเยอทะยานของผู้ที่ฝันของการกวัดแกว่งอำนาจในการปกครอง Bugdom"
     },
     "armor-kirin-description": {
       "Key": "armor-kirin-description",
@@ -3277,11 +3277,11 @@ export default {
     },
     "armor-kulu-ya-ku-head-description": {
       "Key": "armor-kulu-ya-ku-head-description",
-      "Translation": "หัวหน้าชุดเกราะ fashioned หลังจาก Kulu-Ya-Ku ดอนนี้และคุณอาจจะมีความทะเยอทะยานไข่บาง ..."
+      "Translation": "หัวหน้าชุดเกราะ fashioned หลังจาก Kulu-Ya-Ku don นี้และคุณอาจจะมีความทะเยอทะยานไข่บาง ..."
     },
     "armor-kulve-taroth-description": {
       "Key": "armor-kulve-taroth-description",
-      "Translation": "Kulve Taroth เกราะที่ส่องกับแสงที่อุดมไปด้วย ความโกรธที่น่ากลัวของแม่เทพธิดาอยู่ภายใน"
+      "Translation": "Kulve Taroth เกราะที่ส่องกับแสงที่อุดมไปด้วย น่ากลัวความโกรธของแม่เทพธิดาอยู่ภายใน"
     },
     "armor-kushala-description": {
       "Key": "armor-kushala-description",
@@ -3293,7 +3293,7 @@ export default {
     },
     "armor-lavasioth-description": {
       "Key": "armor-lavasioth-description",
-      "Translation": "หนา Lavasioth เปลือกเปลี่ยนเป็นกระบวนการรักษาความเพียรที่จะให้ผลผลิตเกราะนี้ แท้จริงเป็นงานศิลปะ"
+      "Translation": "หนา Lavasioth เปลือกเปลี่ยนกระบวนการบำบัดเพียรที่จะให้ผลผลิตเกราะนี้ แท้จริงเป็นงานศิลปะ"
     },
     "armor-leather-description": {
       "Key": "armor-leather-description",
@@ -3405,11 +3405,11 @@ export default {
     },
     "armor-lr-blossom-boots": {
       "Key": "armor-lr-blossom-boots",
-      "Translation": "บู๊ทส์ Blossom"
+      "Translation": "Blossom บู๊ทส์"
     },
     "armor-lr-blossom-coat": {
       "Key": "armor-lr-blossom-coat",
-      "Translation": "เสื้อ Blossom"
+      "Translation": "Blossom เสื้อ"
     },
     "armor-lr-blossom-cuffs": {
       "Key": "armor-lr-blossom-cuffs",
@@ -3453,7 +3453,7 @@ export default {
     },
     "armor-lr-brigade-boots": {
       "Key": "armor-lr-brigade-boots",
-      "Translation": "บู๊ทส์กองพล"
+      "Translation": "กองพลบู๊ทส์"
     },
     "armor-lr-brigade-coil": {
       "Key": "armor-lr-brigade-coil",
@@ -3513,7 +3513,7 @@ export default {
     },
     "armor-lr-chainmail-trousers": {
       "Key": "armor-lr-chainmail-trousers",
-      "Translation": "กางเกง Chainmail"
+      "Translation": "Chainmail กางเกง"
     },
     "armor-lr-chainmail-vest": {
       "Key": "armor-lr-chainmail-vest",
@@ -3521,7 +3521,7 @@ export default {
     },
     "armor-lr-death-stench": {
       "Key": "armor-lr-death-stench",
-      "Translation": "กลิ่นเหม็นตาย"
+      "Translation": "ตายกลิ่นเหม็น"
     },
     "armor-lr-death-stench-bowels": {
       "Key": "armor-lr-death-stench-bowels",
@@ -3529,19 +3529,19 @@ export default {
     },
     "armor-lr-death-stench-brain": {
       "Key": "armor-lr-death-stench-brain",
-      "Translation": "สมองตายกลิ่นเหม็น"
+      "Translation": "ตายกลิ่นเหม็นสมอง"
     },
     "armor-lr-death-stench-grip": {
       "Key": "armor-lr-death-stench-grip",
-      "Translation": "กำตายกลิ่นเหม็น"
+      "Translation": "Death Grip กลิ่นเหม็น"
     },
     "armor-lr-death-stench-heel": {
       "Key": "armor-lr-death-stench-heel",
-      "Translation": "ตายส้นกลิ่นเหม็น"
+      "Translation": "ตายกลิ่นเหม็นส้น"
     },
     "armor-lr-death-stench-muscle": {
       "Key": "armor-lr-death-stench-muscle",
-      "Translation": "กล้ามเนื้อตายกลิ่นเหม็น"
+      "Translation": "การตายของกล้ามเนื้อกลิ่นเหม็น"
     },
     "armor-lr-diablos": {
       "Key": "armor-lr-diablos",
@@ -3605,19 +3605,19 @@ export default {
     },
     "armor-lr-gala-suit-cuffs": {
       "Key": "armor-lr-gala-suit-cuffs",
-      "Translation": "สาบเสื้อสูทงานเลี้ยง"
+      "Translation": "Gala สาบเสื้อสูท"
     },
     "armor-lr-gala-suit-jacket": {
       "Key": "armor-lr-gala-suit-jacket",
-      "Translation": "แจ็คเก็ตสูท Gala"
+      "Translation": "Gala สูทแจ็คเก็ต"
     },
     "armor-lr-gala-suit-slacks": {
       "Key": "armor-lr-gala-suit-slacks",
-      "Translation": "กางเกงทรงหลวม Gala สูท"
+      "Translation": "Gala กางเกงสูท"
     },
     "armor-lr-gala-suit-tail": {
       "Key": "armor-lr-gala-suit-tail",
-      "Translation": "หาง Gala สูท"
+      "Translation": "Gala สูทหาง"
     },
     "armor-lr-gala-suit-top-hat": {
       "Key": "armor-lr-gala-suit-top-hat",
@@ -3677,7 +3677,7 @@ export default {
     },
     "armor-lr-high-metal-braces": {
       "Key": "armor-lr-high-metal-braces",
-      "Translation": "จัดฟันโลหะสูง"
+      "Translation": "สูงโลหะจัดฟัน"
     },
     "armor-lr-high-metal-coil": {
       "Key": "armor-lr-high-metal-coil",
@@ -3689,7 +3689,7 @@ export default {
     },
     "armor-lr-high-metal-helm": {
       "Key": "armor-lr-high-metal-helm",
-      "Translation": "พวงมาลัยโลหะสูง"
+      "Translation": "สูงโลหะพวงมาลัย"
     },
     "armor-lr-high-metal-mail": {
       "Key": "armor-lr-high-metal-mail",
@@ -3741,7 +3741,7 @@ export default {
     },
     "armor-lr-hunters-vambraces": {
       "Key": "armor-lr-hunters-vambraces",
-      "Translation": "ฮันเตอร์ vambraces"
+      "Translation": "vambraces ฮันเตอร์"
     },
     "armor-lr-ingot": {
       "Key": "armor-lr-ingot",
@@ -3933,7 +3933,7 @@ export default {
     },
     "armor-lr-leather-headgear": {
       "Key": "armor-lr-leather-headgear",
-      "Translation": "หมวกหนัง"
+      "Translation": "หนังหมวก"
     },
     "armor-lr-leather-mail": {
       "Key": "armor-lr-leather-mail",
@@ -4021,7 +4021,7 @@ export default {
     },
     "armor-lr-orion-boots": {
       "Key": "armor-lr-orion-boots",
-      "Translation": "บู๊ทส์ในเทพนิยาย"
+      "Translation": "Orion บู๊ทส์"
     },
     "armor-lr-orion-cap": {
       "Key": "armor-lr-orion-cap",
@@ -4029,7 +4029,7 @@ export default {
     },
     "armor-lr-orion-coat": {
       "Key": "armor-lr-orion-coat",
-      "Translation": "Orion เสื้อ"
+      "Translation": "เสื้อ Orion"
     },
     "armor-lr-orion-vambraces": {
       "Key": "armor-lr-orion-vambraces",
@@ -4129,7 +4129,7 @@ export default {
     },
     "armor-lr-rathian-helm": {
       "Key": "armor-lr-rathian-helm",
-      "Translation": "พวงมาลัยระเฑียร"
+      "Translation": "ระเฑียรพวงมาลัย"
     },
     "armor-lr-rathian-mail": {
       "Key": "armor-lr-rathian-mail",
@@ -4197,7 +4197,7 @@ export default {
     },
     "armor-lumu-description": {
       "Key": "armor-lumu-description",
-      "Translation": "นี้เกราะ Paolumu บริการที่สมบูรณ์แบบพอดี bespoke เพื่อรูปร่างใด ๆ ไม่ได้รู้สึกเหมือนคุณกำลังสวมใส่เสื้อเกราะ"
+      "Translation": "นี้ Paolumu เกราะข้อเสนอที่สมบูรณ์แบบ bespoke พอดีกับรูปร่างใด ๆ ไม่ได้รู้สึกเหมือนคุณกำลังสวมใส่เสื้อเกราะ"
     },
     "armor-mosswine-mask-description": {
       "Key": "armor-mosswine-mask-description",
@@ -4209,7 +4209,7 @@ export default {
     },
     "armor-mr-acidic-glavenus-beta-plus": {
       "Key": "armor-mr-acidic-glavenus-beta-plus",
-      "Translation": "Glavenus เอสเอสที่เป็นกรด +"
+      "Translation": "เป็นกรด Glavenus บาท +"
     },
     "armor-mr-acidic-glavenus-braces-alpha-plus": {
       "Key": "armor-mr-acidic-glavenus-braces-alpha-plus",
@@ -4257,7 +4257,7 @@ export default {
     },
     "armor-mr-alloy-beta-plus": {
       "Key": "armor-mr-alloy-beta-plus",
-      "Translation": "เอสเอสแม็กซ์ +"
+      "Translation": "แม็กซ์เอสเอส +"
     },
     "armor-mr-alloy-coil-alpha-plus": {
       "Key": "armor-mr-alloy-coil-alpha-plus",
@@ -4345,7 +4345,7 @@ export default {
     },
     "armor-mr-artian-beta-plus": {
       "Key": "armor-mr-artian-beta-plus",
-      "Translation": "เอสเอส Artian +"
+      "Translation": "Artian บาท +"
     },
     "armor-mr-artian-coil-alpha-plus": {
       "Key": "armor-mr-artian-coil-alpha-plus",
@@ -4357,7 +4357,7 @@ export default {
     },
     "armor-mr-artian-greaves-alpha-plus": {
       "Key": "armor-mr-artian-greaves-alpha-plus",
-      "Translation": "สนับ Artian ⍺ +"
+      "Translation": "Artian สนับ⍺ +"
     },
     "armor-mr-artian-greaves-beta-plus": {
       "Key": "armor-mr-artian-greaves-beta-plus",
@@ -4365,19 +4365,19 @@ export default {
     },
     "armor-mr-artian-helm-alpha-plus": {
       "Key": "armor-mr-artian-helm-alpha-plus",
-      "Translation": "พวงมาลัย Artian ⍺ +"
+      "Translation": "Artian Helm ⍺ +"
     },
     "armor-mr-artian-helm-beta-plus": {
       "Key": "armor-mr-artian-helm-beta-plus",
-      "Translation": "พวงมาลัยß Artian +"
+      "Translation": "Artian Helm บาท +"
     },
     "armor-mr-artian-mail-alpha-plus": {
       "Key": "armor-mr-artian-mail-alpha-plus",
-      "Translation": "จดหมาย Artian ⍺ +"
+      "Translation": "Artian จดหมาย⍺ +"
     },
     "armor-mr-artian-mail-beta-plus": {
       "Key": "armor-mr-artian-mail-beta-plus",
-      "Translation": "ßจดหมาย Artian +"
+      "Translation": "Artian จดหมาย SS +"
     },
     "armor-mr-artian-vambraces-alpha-plus": {
       "Key": "armor-mr-artian-vambraces-alpha-plus",
@@ -4541,7 +4541,7 @@ export default {
     },
     "armor-mr-barnos-jacket-beta-plus": {
       "Key": "armor-mr-barnos-jacket-beta-plus",
-      "Translation": "Barnos ßแจ็คเก็ต +"
+      "Translation": "แจ็คเก็ต Barnos บาท +"
     },
     "armor-mr-barroth-alpha-plus": {
       "Key": "armor-mr-barroth-alpha-plus",
@@ -4701,7 +4701,7 @@ export default {
     },
     "armor-mr-bone-beta-plus": {
       "Key": "armor-mr-bone-beta-plus",
-      "Translation": "เอสเอสกระดูก +"
+      "Translation": "กระดูกบาท +"
     },
     "armor-mr-bone-coil-alpha-plus": {
       "Key": "armor-mr-bone-coil-alpha-plus",
@@ -4797,7 +4797,7 @@ export default {
     },
     "armor-mr-clockwork-beta-plus": {
       "Key": "armor-mr-clockwork-beta-plus",
-      "Translation": "เอสเอสลาน +"
+      "Translation": "ลานบาท +"
     },
     "armor-mr-clockwork-braces-alpha-plus": {
       "Key": "armor-mr-clockwork-braces-alpha-plus",
@@ -5345,7 +5345,7 @@ export default {
     },
     "armor-mr-golden-headdress-beta-plus": {
       "Key": "armor-mr-golden-headdress-beta-plus",
-      "Translation": "เอสเอสโกลเด้น + ผ้าโพกศีรษะ"
+      "Translation": "โกลเด้นเอสเอส + ผ้าโพกศีรษะ"
     },
     "armor-mr-golden-kote-alpha-plus": {
       "Key": "armor-mr-golden-kote-alpha-plus",
@@ -5369,7 +5369,7 @@ export default {
     },
     "armor-mr-golden-lunebraces-beta-plus": {
       "Key": "armor-mr-golden-lunebraces-beta-plus",
-      "Translation": "โกลเด้น Lunebraces บาท +"
+      "Translation": "Lunebraces โกลเด้นเอสเอส +"
     },
     "armor-mr-golden-lunecoil-alpha-plus": {
       "Key": "armor-mr-golden-lunecoil-alpha-plus",
@@ -5385,7 +5385,7 @@ export default {
     },
     "armor-mr-golden-lunegreaves-beta-plus": {
       "Key": "armor-mr-golden-lunegreaves-beta-plus",
-      "Translation": "โกลเด้น Lunegreaves บาท +"
+      "Translation": "Lunegreaves โกลเด้นเอสเอส +"
     },
     "armor-mr-golden-lunehelm-alpha-plus": {
       "Key": "armor-mr-golden-lunehelm-alpha-plus",
@@ -5413,11 +5413,11 @@ export default {
     },
     "armor-mr-guild-palace-alpha-plus": {
       "Key": "armor-mr-guild-palace-alpha-plus",
-      "Translation": "Guild พระราชวัง⍺ +"
+      "Translation": "สมาคมพระราชวัง⍺ +"
     },
     "armor-mr-guild-palace-beta-plus": {
       "Key": "armor-mr-guild-palace-beta-plus",
-      "Translation": "Guild ßพระราชวัง +"
+      "Translation": "สมาคมพระราชวังบาท +"
     },
     "armor-mr-guild-palace-braces-alpha-plus": {
       "Key": "armor-mr-guild-palace-braces-alpha-plus",
@@ -5429,11 +5429,11 @@ export default {
     },
     "armor-mr-guild-palace-coil-alpha-plus": {
       "Key": "armor-mr-guild-palace-coil-alpha-plus",
-      "Translation": "Guild พระราชวังคอยล์⍺ +"
+      "Translation": "สมาคมพระราชวังคอยล์⍺ +"
     },
     "armor-mr-guild-palace-coil-beta-plus": {
       "Key": "armor-mr-guild-palace-coil-beta-plus",
-      "Translation": "Guild ßพระราชวังคอยล์ +"
+      "Translation": "สมาคมพระราชวังคอยล์บาท +"
     },
     "armor-mr-guild-palace-greaves-alpha-plus": {
       "Key": "armor-mr-guild-palace-greaves-alpha-plus",
@@ -5441,7 +5441,7 @@ export default {
     },
     "armor-mr-guild-palace-greaves-beta-plus": {
       "Key": "armor-mr-guild-palace-greaves-beta-plus",
-      "Translation": "Guild เอสเอสพาเลซสนับ +"
+      "Translation": "สมาคมพระราชวังนับบาท +"
     },
     "armor-mr-guild-palace-helm-alpha-plus": {
       "Key": "armor-mr-guild-palace-helm-alpha-plus",
@@ -5449,7 +5449,7 @@ export default {
     },
     "armor-mr-guild-palace-helm-beta-plus": {
       "Key": "armor-mr-guild-palace-helm-beta-plus",
-      "Translation": "Guild ßพระราชวัง Helm +"
+      "Translation": "สมาคมพระราชวัง Helm บาท +"
     },
     "armor-mr-guild-palace-mail-alpha-plus": {
       "Key": "armor-mr-guild-palace-mail-alpha-plus",
@@ -5457,7 +5457,7 @@ export default {
     },
     "armor-mr-guild-palace-mail-beta-plus": {
       "Key": "armor-mr-guild-palace-mail-beta-plus",
-      "Translation": "Guild ßพระราชวังอีเมล +"
+      "Translation": "สมาคมพระราชวังจดหมาย SS +"
     },
     "armor-mr-high-metal-alpha-plus": {
       "Key": "armor-mr-high-metal-alpha-plus",
@@ -5465,15 +5465,15 @@ export default {
     },
     "armor-mr-high-metal-beta-plus": {
       "Key": "armor-mr-high-metal-beta-plus",
-      "Translation": "เอสเอสเมทัลสูง +"
+      "Translation": "สูงโลหะบาท +"
     },
     "armor-mr-high-metal-braces-alpha-plus": {
       "Key": "armor-mr-high-metal-braces-alpha-plus",
-      "Translation": "สูงวงเล็บโลหะ⍺ +"
+      "Translation": "สูงโลหะจัดฟัน⍺ +"
     },
     "armor-mr-high-metal-braces-beta-plus": {
       "Key": "armor-mr-high-metal-braces-beta-plus",
-      "Translation": "เอสเอสเมทัลจัดฟันสูง +"
+      "Translation": "สูงโลหะจัดฟัน SS +"
     },
     "armor-mr-high-metal-coil-alpha-plus": {
       "Key": "armor-mr-high-metal-coil-alpha-plus",
@@ -5481,7 +5481,7 @@ export default {
     },
     "armor-mr-high-metal-coil-beta-plus": {
       "Key": "armor-mr-high-metal-coil-beta-plus",
-      "Translation": "เอสเอสเมทัลคอยล์สูง +"
+      "Translation": "สูงโลหะม้วนบาท +"
     },
     "armor-mr-high-metal-greaves-alpha-plus": {
       "Key": "armor-mr-high-metal-greaves-alpha-plus",
@@ -5489,23 +5489,23 @@ export default {
     },
     "armor-mr-high-metal-greaves-beta-plus": {
       "Key": "armor-mr-high-metal-greaves-beta-plus",
-      "Translation": "เอสเอสเมทัลสนับสูง +"
+      "Translation": "สูงโลหะสนับบาท +"
     },
     "armor-mr-high-metal-helm-alpha-plus": {
       "Key": "armor-mr-high-metal-helm-alpha-plus",
-      "Translation": "พวงมาลัยโลหะสูง⍺ +"
+      "Translation": "สูงโลหะ Helm ⍺ +"
     },
     "armor-mr-high-metal-helm-beta-plus": {
       "Key": "armor-mr-high-metal-helm-beta-plus",
-      "Translation": "โลหะสูงß Helm +"
+      "Translation": "สูงโลหะ Helm บาท +"
     },
     "armor-mr-high-metal-mail-alpha-plus": {
       "Key": "armor-mr-high-metal-mail-alpha-plus",
-      "Translation": "จดหมายโลหะสูง⍺ +"
+      "Translation": "สูงโลหะจดหมาย⍺ +"
     },
     "armor-mr-high-metal-mail-beta-plus": {
       "Key": "armor-mr-high-metal-mail-beta-plus",
-      "Translation": "โลหะสูงßอีเมล +"
+      "Translation": "สูงโลหะจดหมาย SS +"
     },
     "armor-mr-hoarcry-coil-alpha-plus": {
       "Key": "armor-mr-hoarcry-coil-alpha-plus",
@@ -5593,7 +5593,7 @@ export default {
     },
     "armor-mr-ingot-beta-plus": {
       "Key": "armor-mr-ingot-beta-plus",
-      "Translation": "เอสเอสลิ่ม +"
+      "Translation": "ลิ่มบาท +"
     },
     "armor-mr-ingot-coil-alpha-plus": {
       "Key": "armor-mr-ingot-coil-alpha-plus",
@@ -5861,15 +5861,15 @@ export default {
     },
     "armor-mr-kirin-jacket-alpha-plus": {
       "Key": "armor-mr-kirin-jacket-alpha-plus",
-      "Translation": "Kirin แจ็คเก็ต⍺ +"
+      "Translation": "แจ็คเก็ต Kirin ⍺ +"
     },
     "armor-mr-kirin-jacket-beta-plus": {
       "Key": "armor-mr-kirin-jacket-beta-plus",
-      "Translation": "Kirin ßแจ็คเก็ต +"
+      "Translation": "Kirin แจ็คเก็ต + SS"
     },
     "armor-mr-kirin-leg-guards-alpha-plus": {
       "Key": "armor-mr-kirin-leg-guards-alpha-plus",
-      "Translation": "Kirin ขายาม⍺ +"
+      "Translation": "Kirin ยามขา⍺ +"
     },
     "armor-mr-kirin-leg-guards-beta-plus": {
       "Key": "armor-mr-kirin-leg-guards-beta-plus",
@@ -5977,7 +5977,7 @@ export default {
     },
     "armor-mr-kushala-grip-beta-plus": {
       "Key": "armor-mr-kushala-grip-beta-plus",
-      "Translation": "Kushala ß Grip +"
+      "Translation": "Kushala Grip บาท +"
     },
     "armor-mr-lavasioth-alpha-plus": {
       "Key": "armor-mr-lavasioth-alpha-plus",
@@ -5985,7 +5985,7 @@ export default {
     },
     "armor-mr-lavasioth-beta-plus": {
       "Key": "armor-mr-lavasioth-beta-plus",
-      "Translation": "เอสเอส Lavasioth +"
+      "Translation": "Lavasioth บาท +"
     },
     "armor-mr-lavasioth-coil-alpha-plus": {
       "Key": "armor-mr-lavasioth-coil-alpha-plus",
@@ -6521,7 +6521,7 @@ export default {
     },
     "armor-mr-rathian-beta-plus": {
       "Key": "armor-mr-rathian-beta-plus",
-      "Translation": "ßระเฑียร +"
+      "Translation": "ระเฑียร SS +"
     },
     "armor-mr-rathian-coil-alpha-plus": {
       "Key": "armor-mr-rathian-coil-alpha-plus",
@@ -6541,7 +6541,7 @@ export default {
     },
     "armor-mr-rathian-helm-alpha-plus": {
       "Key": "armor-mr-rathian-helm-alpha-plus",
-      "Translation": "พวงมาลัยระเฑียร⍺ +"
+      "Translation": "ระเฑียร Helm ⍺ +"
     },
     "armor-mr-rathian-helm-beta-plus": {
       "Key": "armor-mr-rathian-helm-beta-plus",
@@ -6549,11 +6549,11 @@ export default {
     },
     "armor-mr-rathian-mail-alpha-plus": {
       "Key": "armor-mr-rathian-mail-alpha-plus",
-      "Translation": "จดหมายระเฑียร⍺ +"
+      "Translation": "ระเฑียรจดหมาย⍺ +"
     },
     "armor-mr-rathian-mail-beta-plus": {
       "Key": "armor-mr-rathian-mail-beta-plus",
-      "Translation": "ßจดหมายระเฑียร +"
+      "Translation": "ระเฑียรจดหมาย SS +"
     },
     "armor-mr-rathian-vambraces-alpha-plus": {
       "Key": "armor-mr-rathian-vambraces-alpha-plus",
@@ -6617,31 +6617,31 @@ export default {
     },
     "armor-mr-ruinous-coil-beta-plus": {
       "Key": "armor-mr-ruinous-coil-beta-plus",
-      "Translation": "คอยล์ßล่มจม +"
+      "Translation": "ย่อยยับคอยล์บาท +"
     },
     "armor-mr-ruinous-greaves-alpha-plus": {
       "Key": "armor-mr-ruinous-greaves-alpha-plus",
-      "Translation": "สนับล่มจม⍺ +"
+      "Translation": "ย่อยยับนับ⍺ +"
     },
     "armor-mr-ruinous-greaves-beta-plus": {
       "Key": "armor-mr-ruinous-greaves-beta-plus",
-      "Translation": "สนับßล่มจม +"
+      "Translation": "ย่อยยับนับบาท +"
     },
     "armor-mr-ruinous-helm-alpha-plus": {
       "Key": "armor-mr-ruinous-helm-alpha-plus",
-      "Translation": "พวงมาลัยล่มจม⍺ +"
+      "Translation": "ย่อยยับ Helm ⍺ +"
     },
     "armor-mr-ruinous-helm-beta-plus": {
       "Key": "armor-mr-ruinous-helm-beta-plus",
-      "Translation": "เอสเอส Helm ล่มจม +"
+      "Translation": "ย่อยยับ Helm บาท +"
     },
     "armor-mr-ruinous-mail-alpha-plus": {
       "Key": "armor-mr-ruinous-mail-alpha-plus",
-      "Translation": "จดหมายล่มจม⍺ +"
+      "Translation": "ย่อยยับจดหมาย⍺ +"
     },
     "armor-mr-ruinous-mail-beta-plus": {
       "Key": "armor-mr-ruinous-mail-beta-plus",
-      "Translation": "ßจดหมายล่มจม +"
+      "Translation": "ย่อยยับจดหมาย SS +"
     },
     "armor-mr-ruinous-vambraces-alpha-plus": {
       "Key": "armor-mr-ruinous-vambraces-alpha-plus",
@@ -6649,7 +6649,7 @@ export default {
     },
     "armor-mr-ruinous-vambraces-beta-plus": {
       "Key": "armor-mr-ruinous-vambraces-beta-plus",
-      "Translation": "vambraces ßล่มจม +"
+      "Translation": "ย่อยยับ vambraces บาท +"
     },
     "armor-mr-savage-jho-alpha-plus": {
       "Key": "armor-mr-savage-jho-alpha-plus",
@@ -6665,7 +6665,7 @@ export default {
     },
     "armor-mr-seething-bazel-beta-plus": {
       "Key": "armor-mr-seething-bazel-beta-plus",
-      "Translation": "เดือดß Bazel +"
+      "Translation": "เดือด Bazel บาท +"
     },
     "armor-mr-shamos-alpha-plus": {
       "Key": "armor-mr-shamos-alpha-plus",
@@ -6789,7 +6789,7 @@ export default {
     },
     "armor-mr-tentacle-cloak-beta-plus": {
       "Key": "armor-mr-tentacle-cloak-beta-plus",
-      "Translation": "ßหนวดเสื้อคลุม +"
+      "Translation": "หนวดเสื้อคลุมบาท +"
     },
     "armor-mr-tentacle-coil-alpha-plus": {
       "Key": "armor-mr-tentacle-coil-alpha-plus",
@@ -6805,7 +6805,7 @@ export default {
     },
     "armor-mr-tentacle-cowl-beta-plus": {
       "Key": "armor-mr-tentacle-cowl-beta-plus",
-      "Translation": "ßหนวดครอบ +"
+      "Translation": "หนวดพระ SS +"
     },
     "armor-mr-tentacle-gloves-alpha-plus": {
       "Key": "armor-mr-tentacle-gloves-alpha-plus",
@@ -6813,7 +6813,7 @@ export default {
     },
     "armor-mr-tentacle-gloves-beta-plus": {
       "Key": "armor-mr-tentacle-gloves-beta-plus",
-      "Translation": "เอสเอสถุงมือหนวด +"
+      "Translation": "ถุงมือหนวดบาท +"
     },
     "armor-mr-tentacle-greaves-alpha-plus": {
       "Key": "armor-mr-tentacle-greaves-alpha-plus",
@@ -6981,7 +6981,7 @@ export default {
     },
     "armor-mr-velkhana-beta-plus": {
       "Key": "armor-mr-velkhana-beta-plus",
-      "Translation": "เอสเอส Velkhana +"
+      "Translation": "Velkhana บาท +"
     },
     "armor-mr-vespoid-alpha-plus": {
       "Key": "armor-mr-vespoid-alpha-plus",
@@ -7165,7 +7165,7 @@ export default {
     },
     "armor-orion-description": {
       "Key": "armor-orion-description",
-      "Translation": "ต้องมีการจองตั๋วดาวฤดูหนาวงานฝีมือ Wawrm และชุดเกราะสบายเพื่อให้คุณสามารถเพลิดเพลินไปกับการเฉลิมฉลองในช่วงฤดูหนาว"
+      "Translation": "ต้องมีฤดูหนาวดาวตั๋วฝีมือ Wawrm และสบายเกราะเพื่อให้คุณสามารถเพลิดเพลินไปกับการเฉลิมฉลองในช่วงฤดูหนาว"
     },
     "armor-pukei-description": {
       "Key": "armor-pukei-description",
@@ -7177,19 +7177,19 @@ export default {
     },
     "armor-rath-heart-description": {
       "Key": "armor-rath-heart-description",
-      "Translation": "เกราะระเฑียรที่แสดงเช่นการแสดงตนของกษัตริย์ว่าใบทุกคนที่เห็นมันหลงรักและกลัว"
+      "Translation": "ระเฑียรเกราะที่จัดแสดงผลงานเช่นการแสดงตนของกษัตริย์ว่าใบทุกคนที่เห็นมันหลงรักและกลัว"
     },
     "armor-rath-soul-description": {
       "Key": "armor-rath-soul-description",
-      "Translation": "เกราะ Azure ตื้นตันใจกับอำนาจสัมบูรณ์ บรรดาผู้ที่สวมใส่มันมีชะตาที่จะสร้างประวัติศาสตร์"
+      "Translation": "เกราะ Azure ตื้นตันใจกับอำนาจสัมบูรณ์ บรรดาผู้ที่สวมใส่มันมีชะตาที่จะทำให้ประวัติศาสตร์"
     },
     "armor-rathalos-description": {
       "Key": "armor-rathalos-description",
-      "Translation": "ที่สร้างขึ้นจากชิ้นส่วนที่แกะสลักจากพระมหากษัตริย์ของท้องฟ้านี้ชุดเกราะสีแดงเข้มภูมิใจนำเสนอการป้องกันการครอบงำ"
+      "Translation": "ที่สร้างขึ้นจากชิ้นส่วนที่แกะสลักจากพระมหากษัตริย์ของท้องฟ้านี้ป้องกันสีแดงเข้มเกราะภูมิใจครอบงำ"
     },
     "armor-rathian-description": {
       "Key": "armor-rathian-description",
-      "Translation": "ประกอบไปด้วยการปรับแต่งราชินีพระคุณและอาจนี้เกราะระเฑียรเงามีมันทั้งหมด"
+      "Translation": "ประกอบไปด้วยการปรับแต่งราชินีพระคุณและยุทธนี้เกราะระเฑียรเงามีมันทั้งหมด"
     },
     "armor-sealed-eyepatch-description": {
       "Key": "armor-sealed-eyepatch-description",
@@ -7225,7 +7225,7 @@ export default {
     },
     "armor-set-bonus-skill-bludgeoner-description": {
       "Key": "armor-set-bonus-skill-bludgeoner-description",
-      "Translation": "เพิ่มการโจมตีเป็นอาวุธของคุณสูญเสียความคมชัด นอกจากนี้ยังช่วยเพิ่มตั้งแต่อาวุธโจมตีระยะประชิดและราคาของที่สวยงาม"
+      "Translation": "ยกโจมตีเป็นอาวุธของคุณสูญเสียความคมชัด นอกจากนี้ยังช่วยเพิ่มตั้งแต่อาวุธโจมตีระยะประชิดและราคาของสวยงาม"
     },
     "armor-set-bonus-skill-bow-charge-plus": {
       "Key": "armor-set-bonus-skill-bow-charge-plus",
@@ -7285,7 +7285,7 @@ export default {
     },
     "armor-set-bonus-skill-elemental-airborne-description": {
       "Key": "armor-set-bonus-skill-elemental-airborne-description",
-      "Translation": "ความเสียหายธาตุที่เพิ่มขึ้นสำหรับการกระโดดโจมตี"
+      "Translation": "ความเสียหายธาตุที่เพิ่มขึ้นสำหรับการโจมตีกระโดด"
     },
     "armor-set-bonus-skill-good-luck": {
       "Key": "armor-set-bonus-skill-good-luck",
@@ -7297,7 +7297,7 @@ export default {
     },
     "armor-set-bonus-skill-great-luck": {
       "Key": "armor-set-bonus-skill-great-luck",
-      "Translation": "โชคที่ดี"
+      "Translation": "มหาโชค"
     },
     "armor-set-bonus-skill-great-luck-description": {
       "Key": "armor-set-bonus-skill-great-luck-description",
@@ -7313,7 +7313,7 @@ export default {
     },
     "armor-set-bonus-skill-guild-guidance": {
       "Key": "armor-set-bonus-skill-guild-guidance",
-      "Translation": "แนะแนวสมาคม"
+      "Translation": "สมาคมแนะแนว"
     },
     "armor-set-bonus-skill-guts": {
       "Key": "armor-set-bonus-skill-guts",
@@ -7357,7 +7357,7 @@ export default {
     },
     "armor-set-bonus-skill-legiana-favor": {
       "Key": "armor-set-bonus-skill-legiana-favor",
-      "Translation": "Legiana Favor"
+      "Translation": "Legiana โปรดปราน"
     },
     "armor-set-bonus-skill-lunastra-favor": {
       "Key": "armor-set-bonus-skill-lunastra-favor",
@@ -7421,11 +7421,11 @@ export default {
     },
     "armor-set-bonus-skill-protective-polish": {
       "Key": "armor-set-bonus-skill-protective-polish",
-      "Translation": "โปแลนด์ป้องกัน"
+      "Translation": "ป้องกันโปแลนด์"
     },
     "armor-set-bonus-skill-punishing-draw": {
       "Key": "armor-set-bonus-skill-punishing-draw",
-      "Translation": "วาดลงโทษ"
+      "Translation": "ลงโทษจับสลากแบ่งสาย"
     },
     "armor-set-bonus-skill-punishing-draw-description": {
       "Key": "armor-set-bonus-skill-punishing-draw-description",
@@ -7445,7 +7445,7 @@ export default {
     },
     "armor-set-bonus-skill-razor-sharp-spare-shot-description": {
       "Key": "armor-set-bonus-skill-razor-sharp-spare-shot-description",
-      "Translation": "การสูญเสียความคมชัดครึ่ง สำหรับคันธนูและ bowguns ภาพมีโอกาสที่จะไม่ใช้จ่ายเคลือบหรือกระสุน"
+      "Translation": "ครึ่งความคมชัดของการสูญเสีย สำหรับคันธนูและ bowguns ภาพมีโอกาสที่จะไม่ใช้จ่ายเคลือบหรือกระสุน"
     },
     "armor-set-bonus-skill-soul-of-the-dragoon": {
       "Key": "armor-set-bonus-skill-soul-of-the-dragoon",
@@ -7457,7 +7457,7 @@ export default {
     },
     "armor-set-bonus-skill-stamina-cap-up-description": {
       "Key": "armor-set-bonus-skill-stamina-cap-up-description",
-      "Translation": "เพิ่มความแข็งแกร่งหมวก"
+      "Translation": "หมวกเพิ่มความแข็งแกร่ง"
     },
     "armor-set-bonus-skill-super-recovery": {
       "Key": "armor-set-bonus-skill-super-recovery",
@@ -7501,7 +7501,7 @@ export default {
     },
     "armor-strategist-description": {
       "Key": "armor-strategist-description",
-      "Translation": "การทำงานร่วมกัน Guild ประชุมเชิงปฏิบัติการ พวกเขาช่วยให้คุณล่าโดยการทำให้คุณดูเล็กน้อยอย่างชาญฉลาด"
+      "Translation": "ความร่วมมือสมาคมประชุมเชิงปฏิบัติการ พวกเขาช่วยให้คุณล่าโดยการทำให้คุณมองอย่างชาญฉลาดเล็กน้อย"
     },
     "armor-teostra-description": {
       "Key": "armor-teostra-description",
@@ -7509,7 +7509,7 @@ export default {
     },
     "armor-tzitzi-description": {
       "Key": "armor-tzitzi-description",
-      "Translation": "โดยใช้ส่วนของหัวเป็นแบบนี้เกราะ Tzitzi-Ya-Ku ยังทำหน้าที่เป็นรางวัลที่ดี"
+      "Translation": "โดยใช้ส่วนหนึ่งของหัวตามที่เป็นเกราะนี้ Tzitzi-Ya-Ku ยังทำหน้าที่เป็นรางวัลที่ดี"
     },
     "armor-uragaan-description": {
       "Key": "armor-uragaan-description",
@@ -7525,7 +7525,7 @@ export default {
     },
     "armor-vespoid-description": {
       "Key": "armor-vespoid-description",
-      "Translation": "เกราะที่ทำจากกระดอง Vespoid ยาก แม้ว่าจะอ่อนแอจะยิงองค์ประกอบก็มีการป้องกันที่แข็งแกร่ง"
+      "Translation": "เกราะที่ทำจากฮาร์ด Vespoid กระดอง แม้ว่าจะอ่อนแอธาตุไฟก็มีการป้องกันที่แข็งแกร่ง"
     },
     "armor-wiggler-head-description": {
       "Key": "armor-wiggler-head-description",
@@ -7533,11 +7533,11 @@ export default {
     },
     "armor-xenojiiva-description": {
       "Key": "armor-xenojiiva-description",
-      "Translation": "เกราะ Xeno'jiiva นี้ hums ด้วยพลังงาน หากมีการควบคุมอย่างถูกต้องก็ถือเป็นอำนาจที่กว้างใหญ่ของผู้สวมใส่"
+      "Translation": "เกราะ Xeno'jiiva นี้ HUMS ด้วยพลังงาน หากมีการควบคุมอย่างถูกต้องก็ถือเป็นอำนาจที่กว้างใหญ่ของผู้สวมใส่"
     },
     "armor-zorah-description": {
       "Key": "armor-zorah-description",
-      "Translation": "ล่ำเป็นภูเขานี้เกราะโศราห์ Magdaros ทำให้ผู้สวมใส่ไม่สะทกสะท้านกับความยากลำบากใด ๆ"
+      "Translation": "ล่ำเป็นภูเขานี้เกราะโศราห์ Magdaros ทำให้ผู้สวมใส่ไม่สะทกสะท้านกับความยากลำบากใด ๆ โดย"
     },
     "armors-arena-items": {
       "Key": "armors-arena-items",
@@ -7553,7 +7553,7 @@ export default {
     },
     "armors-master-rank": {
       "Key": "armors-master-rank",
-      "Translation": "อันดับโท"
+      "Translation": "ปริญญาโทตำแหน่ง"
     },
     "armors-total-defense": {
       "Key": "armors-total-defense",
@@ -7569,7 +7569,7 @@ export default {
     },
     "armors-total-ice-defense": {
       "Key": "armors-total-ice-defense",
-      "Translation": "Def น้ำแข็งทั้งหมด:"
+      "Translation": "รวมน้ำแข็ง Def:"
     },
     "armors-total-thunder-defense": {
       "Key": "armors-total-thunder-defense",
@@ -7585,7 +7585,7 @@ export default {
     },
     "critical-bounties-bugtrappers-tips": {
       "Key": "critical-bounties-bugtrappers-tips",
-      "Translation": "ในป่าโบราณ: โดดเดี่ยว Bugtrapper สามารถพบได้ในพื้นที่ 6 ในต้นไม้ (ภาคตะวันออกเฉียงเหนือค่าย (11)) เมื่อคุณได้ใกล้ชิดที่ Bugtrapper จะหนีไป ปฏิบัติตามเขาและเขาจะนำคุณไปสู่หมู่บ้านของเขา. \\ n \\ nTake เวลาของคุณเป็นมันไม่แข่งขัน แซงหรือทำงานใกล้เกินไป Bugtrapper อาจทำให้เกิดปัญหา รางวัล: ตอนนี้ Palico ของคุณสามารถใช้กรง flashfly และพูดคุยกับ Jagras"
+      "Translation": "ในป่าโบราณ: โดดเดี่ยว Bugtrapper สามารถพบได้ในพื้นที่ 6 ในต้นไม้ (ภาคตะวันออกเฉียงเหนือค่าย (11)) เมื่อคุณได้ใกล้ชิดที่ Bugtrapper จะหนีไป ปฏิบัติตามเขาและเขาจะนำคุณไปสู่หมู่บ้านของเขา. \\ n \\ nTake เวลาของคุณเป็นมันไม่แข่งขัน แซงหรือทำงานใกล้เกินไปที่จะ Bugtrapper อาจทำให้เกิดปัญหา รางวัล: ตอนนี้ Palico ของคุณสามารถใช้กรง flashfly และพูดคุยกับ Jagras"
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics",
@@ -7593,7 +7593,7 @@ export default {
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics-tips": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics-tips",
-      "Translation": "รางวัลนี้สามารถหยิบขึ้นมาที่นักวิจัย Lynian ในแอสเทราหลังจากที่คุณได้เสร็จสิ้นแรก 4 เควส Lynian วิจัย นักวิจัยขอให้คุณค้นพบ 10 Gajalaka Doodles. \\ n \\ n เป็นสิ่งสำคัญที่จะต้องทราบว่าสิ่งเหล่านี้วางไข่เฉพาะในช่วงนี้และรางวัลเฉพาะในสถานที่อันดับสูง คุณสามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 5 และ 1 เส้นขยุกขยิกในพื้นที่ 15 ในป่าโบราณ คุณสามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 3 และ 1 เส้นขยุกขยิกในพื้นที่ 7 ใน Wildspire เสีย. \\ n \\ n สามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 12 ใน Coral ไฮแลนด์ คุณสามารถค้นหา 2 ภาพดูเดิลในพื้นที่ 3 และ 3 ภาพดูเดิลในพื้นที่ 15 ในเน่าร์ทเวล เมื่อคุณกลับไปแอสเทรานักวิจัยต้องการให้ท่านออกไปหาค่าย Gajalaka. \\ n \\ n การค้นหานักวิจัยในพื้นที่ 8 มังกรพักผ่อน ในการเริ่มต้นเงินรางวัลที่จะต้องมีในเวลากลางคืน วางบน Ghillie เสื้อคลุมของคุณและพูดคุยกับผู้นำที่แคมป์ไฟในด้านหลังของค่าย รางวัล: ตอนนี้ Palico ของคุณสามารถใช้ค๊อกเทล meowlotov และพูดคุยกับ Gastodon"
+      "Translation": "รางวัลนี้สามารถหยิบขึ้นมาที่นักวิจัย Lynian ในแอสเทราหลังจากที่คุณได้เสร็จสิ้นแรก 4 เควส Lynian วิจัย นักวิจัยขอให้คุณค้นพบ 10 Gajalaka Doodles. \\ n \\ n เป็นสิ่งสำคัญที่จะต้องทราบว่าสิ่งเหล่านี้วางไข่เฉพาะในช่วงนี้และรางวัลเฉพาะในสถานที่สูงอันดับ คุณสามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 5 และ 1 เส้นขยุกขยิกในพื้นที่ 15 ในป่าโบราณ คุณสามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 3 และ 1 เส้นขยุกขยิกในพื้นที่ 7 ใน Wildspire เสีย. \\ n \\ n สามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 12 ใน Coral ไฮแลนด์ คุณสามารถค้นหา 2 ภาพดูเดิลในพื้นที่ 3 และ 3 ภาพดูเดิลในพื้นที่ 15 ในเน่าร์ทเวล เมื่อคุณกลับไปแอสเทรานักวิจัยต้องการให้ท่านออกไปหาค่าย Gajalaka. \\ n \\ n การค้นหานักวิจัยในพื้นที่ 8 มังกรพักผ่อน ในการเริ่มต้นเงินรางวัลที่จะต้องมีในเวลากลางคืน วางบน Ghillie เสื้อคลุมและพูดคุยของคุณจะเป็นผู้นำที่แคมป์ไฟในด้านหลังของค่าย รางวัล: ตอนนี้ Palico ของคุณสามารถใช้ค๊อกเทล meowlotov และพูดคุยกับ Gastodon"
     },
     "critical-bounties-important": {
       "Key": "critical-bounties-important",
@@ -7601,7 +7601,7 @@ export default {
     },
     "critical-bounties-important-notes": {
       "Key": "critical-bounties-important-notes",
-      "Translation": "มีสามนักวิจัยที่คุณสามารถพบออกในเขต. นักวิจัยพืชถิ่นเดียวของชีวิตที่นักวิจัย Lynian และนักวิจัยคาวปลา \\ n \\ n เมื่อคุณตั้งค่าออกในการเดินทางเพียงหนึ่งนักวิจัยจะวางไข่ในโซน ซึ่ง spawns นักวิจัยจะปรากฏบนแผนที่โลกเมื่อคุณเลือกปลายทางการเดินทางของคุณ เวลาที่คุณเสร็จงานเดินทางหรือการสอบสวนทุกคนก็มีการเปลี่ยนแปลงซึ่ง spawns นักวิจัย นั่นเป็นเหตุผลที่มันเป็นสิ่งสำคัญที่จะตรวจสอบแผนที่โลกอย่างสม่ำเสมอ. \\ n \\ n เป็นสิ่งสำคัญที่จะพูดคุยกันนักวิจัยในแต่ละโซนเพื่อความคืบหน้าผ่านโปรดปรานที่สำคัญของแต่ละนักวิจัย เพราะมันเป็นแบบสุ่มซึ่ง spawns วิจัย (ดูบันทึกก่อนหน้านี้) มันเป็นเรื่องง่ายที่จะพลาดโอกาสในการสร้างเสริมที่สำคัญเหล่านี้. \\ n \\ n หากนักวิจัยมีเงินรางวัลที่จะนำเสนอที่พวกเขาจะปรากฏเป็นเครื่องหมายอัศเจรีย์สีเหลือง (!) บนแผนที่ . ฉันไม่เคยเห็นเครื่องหมายเหล่านี้บนแผนที่และที่ว่าทำไมฉันพลาดออกรางวัลที่สำคัญเหล่านี้ เมื่อคุณอยู่ในการเดินทางเปิดแผนที่โลกของคุณและใช้ปุ่ม L1 / R1 เพื่อเลือกตัวกรองชีวิตถิ่นที่จะทำให้มันง่ายต่อการจุด. \\ n \\ n หากนักวิจัยมีเงินรางวัลที่จะนำเสนอไม่มีพวกเขาจะปรากฏเป็นสีเขียวสดใส จุด (.) บนแผนที่. \\ n \\ n หลังจากคุณเสร็จสิ้นรางวัลที่สำคัญคุณสามารถพูดคุยกับนักวิจัยที่เกี่ยวข้องที่จะแจ้งให้เขา / เธอที่คุณเสร็จโปรดปราน แต่คุณมักจะมีการพูดคุยกับศูนย์วิจัยแอสเทราที่จะเสร็จสมบูรณ์รางวัลและได้รับรางวัล. \\ n \\ n หากคุณไม่ได้พูดคุยกับนักวิจัยหลังจากเสร็จสิ้นโปรดปรานและคุณกำลังจะพูดคุยกับพวกเขาในโซนใหม่ ที่จะยอมรับเงินรางวัลใหม่ก็เป็นไปได้ว่าคุณมีการพูดคุยกับนักวิจัยสองครั้ง มีอยู่ครั้งหนึ่งที่จะแจ้งให้เขา / เธอที่คุณโปรดปรานแล้วเสร็จก่อน อีกครั้งเพื่อเริ่มต้นรางวัลที่สำคัญของโซนใหม่ \\ n \\ nChoosing อันดับต่ำหรือปลายทางอันดับสูงไม่สำคัญยกเว้นมังกร Recess ซึ่งเป็นอันดับสูงเท่านั้น \\ n \\ nLynian โปรดปราน:.. เมื่อใดก็ตามที่คุณพบภาพดูเดิลคุณ สามารถทำเครื่องหมายพวกเขาด้วยแมลงวันลูกเสือของคุณและพวกเขาจะแนะนำให้คุณดูเดิลต่อไป การทำเช่นนี้จะนำคุณไปยังสถานที่ที่ระบุไว้ด้านล่าง หลังจากตีสนิทตระกูลคุณสามารถพูดคุยกับ Palico ของคุณในห้องของคุณหรือที่ฐานวิจัย Palico ของคุณแล้วจะบอกคุณเทคนิคใหม่มันได้เรียนรู้"
+      "Translation": "มีสามนักวิจัยที่คุณสามารถพบออกในเขต:. \\ n เมื่อคุณออกในการเดินทางนักวิจัยพืชถิ่นเดียวของชีวิตที่นักวิจัย Lynian และนักวิจัยคาวปลา \\ n เพียงหนึ่งนักวิจัยจะวางไข่ในโซน ซึ่ง spawns นักวิจัยจะปรากฏบนแผนที่โลกเมื่อคุณเลือกปลายทางการเดินทางของคุณ เวลาที่คุณเสร็จงานเดินทางหรือการสอบสวนทุกคนก็มีการเปลี่ยนแปลงซึ่ง spawns นักวิจัย นั่นเป็นเหตุผลที่มันเป็นสิ่งสำคัญที่จะตรวจสอบแผนที่โลกอย่างสม่ำเสมอ. \\ n \\ n เป็นสิ่งสำคัญที่จะพูดคุยกันนักวิจัยในแต่ละโซนเพื่อความคืบหน้าผ่านโปรดปรานที่สำคัญของแต่ละนักวิจัย เพราะมันเป็นแบบสุ่มซึ่ง spawns วิจัย (ดูบันทึกก่อนหน้านี้) มันเป็นเรื่องง่ายที่จะพลาดโอกาสในการสร้างเสริมที่สำคัญเหล่านี้. \\ n \\ n หากนักวิจัยมีเงินรางวัลที่จะนำเสนอที่พวกเขาจะปรากฏเป็นเครื่องหมายอัศเจรีย์สีเหลือง (!) บนแผนที่ . ฉันไม่เคยเห็นเครื่องหมายเหล่านี้บนแผนที่และที่ว่าทำไมฉันพลาดออกรางวัลที่สำคัญเหล่านี้ เมื่อคุณอยู่ในการเดินทางเปิดแผนที่โลกของคุณและใช้ปุ่ม L1 / R1 เพื่อเลือกตัวกรองถิ่นชีวิตที่จะทำให้มันง่ายต่อการจุด. \\ n \\ n หากนักวิจัยมีเงินรางวัลที่จะนำเสนอไม่มีพวกเขาจะปรากฏเป็นสีเขียวสดใส จุด (.) บนแผนที่. \\ n \\ n หลังจากคุณเสร็จสิ้นรางวัลที่สำคัญคุณสามารถพูดคุยกับนักวิจัยที่เกี่ยวข้องที่จะแจ้งให้เขา / เธอที่คุณเสร็จโปรดปราน แต่คุณมักจะมีการพูดคุยกับศูนย์วิจัยแอสเทราที่จะเสร็จสมบูรณ์รางวัลและได้รับรางวัล. \\ n \\ n ถ้าคุณไม่ได้พูดคุยกับนักวิจัยหลังจากเสร็จสิ้นโปรดปรานและคุณกำลังจะพูดคุยกับพวกเขาในโซนใหม่ ที่จะยอมรับเงินรางวัลใหม่ก็เป็นไปได้ว่าคุณมีการพูดคุยกับนักวิจัยสองครั้ง มีอยู่ครั้งหนึ่งที่จะแจ้งให้เขา / เธอที่คุณโปรดปรานแล้วเสร็จก่อน อีกครั้งเพื่อเริ่มต้นรางวัลที่สำคัญของโซนใหม่ \\ n \\ nChoosing อันดับต่ำหรือสูงอันดับปลายทางไม่ได้เรื่องยกเว้นมังกร Recess ซึ่งเป็นสูงอันดับเท่านั้น \\ n \\ nLynian โปรดปราน:.. เมื่อใดก็ตามที่คุณพบภาพดูเดิลคุณ สามารถทำเครื่องหมายพวกเขาด้วยแมลงวันลูกเสือของคุณและพวกเขาจะแนะนำให้คุณดูเดิลต่อไป นำไปสู่การทำเช่นนี้คุณไปยังสถานที่ที่ระบุไว้ด้านล่าง หลังจากตีสนิทตระกูลคุณสามารถพูดคุยกับ Palico ของคุณในห้องของคุณหรือที่ฐานวิจัย Palico ของคุณแล้วจะบอกคุณเทคนิคใหม่มันได้เรียนรู้"
     },
     "critical-bounties-notes": {
       "Key": "critical-bounties-notes",
@@ -7613,7 +7613,7 @@ export default {
     },
     "critical-bounties-plunderers-tips": {
       "Key": "critical-bounties-plunderers-tips",
-      "Translation": "ในเน่า Vale:. คุณจะต้องสำเร็จ“เข้าไปในบาดาลของทเวล” และได้รับการเข้าถึงไปยังส่วนล่างของเน่าหุบเขาก่อนที่คุณจะสามารถหาหัวขโมย \\ n \\ n Plunderer สามารถพบได้โดยรอต่อไปกับนักวิจัย Lynian ในพื้นที่ 13 (ภาคกลางค่าย (11)) เมื่อทุก 5 ถึง 10 นาที Odegaron ลาดตระเวนที่ผ่านมานักวิจัย Lynian และหยดศพ Legiana บนพื้นดิน เร็ว ๆ นี้หลังจาก Plunderer ปรากฏที่ศพ Legiana และมันจะหนีไปถ้าคุณได้ใกล้ชิด. \\ n \\ nFollow Plunderer ไปยังพื้นที่ 15 และวางก้อนดิบเนื้อสัตว์ที่อยู่ใกล้หิน ใช้ระยะทางบางและรอจนกว่าปล้นเริ่มกินเนื้อ พูดคุยกับหัวขโมยที่จะเสร็จสมบูรณ์โปรดปราน รางวัล: ตอนนี้ Palico ของคุณสามารถใช้ plunderblade และพูดคุยกับ Girros"
+      "Translation": "ในเน่า Vale:. คุณจะต้องสำเร็จ“เข้าไปในลำไส้ของหุบเขา” และสามารถเข้าถึงส่วนล่างของเน่าหุบเขาก่อนที่คุณจะสามารถหาหัวขโมย \\ n \\ n Plunderer สามารถพบได้โดยรอต่อไปกับนักวิจัย Lynian ในพื้นที่ 13 (ภาคกลางค่าย (11)) เมื่อทุก 5 ถึง 10 นาทีลาดตระเวน Odegaron ที่ผ่านมานักวิจัย Lynian และหยดศพ Legiana บนพื้นดิน เร็ว ๆ นี้หลังจาก Plunderer ปรากฏที่ศพ Legiana และมันจะหนีไปถ้าคุณได้ใกล้ชิด. \\ n \\ nFollow Plunderer ไปยังพื้นที่ 15 และวางก้อนดิบเนื้อสัตว์ที่อยู่ใกล้หิน ใช้ระยะทางบางและรอจนกว่าปล้นเริ่มกินเนื้อ พูดคุยกับหัวขโมยที่จะเสร็จสมบูรณ์โปรดปราน รางวัล: Palico ของคุณในขณะนี้สามารถใช้ plunderblade และพูดคุยกับ Girros"
     },
     "critical-bounties-protectors": {
       "Key": "critical-bounties-protectors",
@@ -7621,7 +7621,7 @@ export default {
     },
     "critical-bounties-protectors-tips": {
       "Key": "critical-bounties-protectors-tips",
-      "Translation": "ใน Wildspire เสีย: เสร็จสิ้นรางวัลสำคัญ [แลกเปลี่ยนวัฒนธรรม: Wildspire เสีย] และ [แลกเปลี่ยนวัฒนธรรม: Wildspire เสีย II] ป้องกันสามารถพบได้ในหลุมในส่วนทางตอนเหนือของเขต 8 (ภาคกลางค่าย (6)). \\ n \\ nThey ขอให้คุณจับเพื่อนของพวกเขาที่ถูกกลัวไปโดย Barroth พวกเขาจะทำเครื่องหมายบนแผนที่ของคุณถ้าคุณใช้ตัวกรองที่เหมาะสม รางวัล: ตอนนี้ Palico ของคุณสามารถใช้ shieldspire และพูดคุยกับ Kestodon"
+      "Translation": "ใน Wildspire เสีย: เสร็จสิ้นการที่สำคัญรางวัล [แลกเปลี่ยนวัฒนธรรม: Wildspire เสีย] และ [แลกเปลี่ยนวัฒนธรรม: Wildspire เสีย II] ป้องกันสามารถพบได้ในหลุมในส่วนทางตอนเหนือของเขต 8 (ภาคกลางค่าย (6)). \\ n \\ nThey ขอให้คุณจับเพื่อนของพวกเขาที่ถูกกลัวไปโดย Barroth พวกเขาจะทำเครื่องหมายบนแผนที่ของคุณถ้าคุณใช้ตัวกรองที่เหมาะสม รางวัล: Palico ของคุณในขณะนี้สามารถใช้ shieldspire และพูดคุยกับ Kestodon"
     },
     "critical-bounties-quests": {
       "Key": "critical-bounties-quests",
@@ -7629,7 +7629,7 @@ export default {
     },
     "critical-bounties-rebuild-the-ancient-forest-camp": {
       "Key": "critical-bounties-rebuild-the-ancient-forest-camp",
-      "Translation": "สร้างค่ายป่าโบราณ"
+      "Translation": "สร้างป่าค่ายโบราณ"
     },
     "critical-bounties-rebuild-the-ancient-forest-camp-tips": {
       "Key": "critical-bounties-rebuild-the-ancient-forest-camp-tips",
@@ -7641,31 +7641,31 @@ export default {
     },
     "critical-bounties-requirements-notes": {
       "Key": "critical-bounties-requirements-notes",
-      "Translation": "- จับสุทธิ \\ คันเบ็ด n- \\ n- Ghillie เสื้อคลุม (ปลดล็อคหลังจากเสร็จสิ้นการกำหนดเรื่องหลัก Hunter อันดับที่ 3 - บินส์:. Tobi-Kadachi)"
+      "Translation": "- จับภาพสุทธิ \\ n- ตกปลา Rod \\ n- Ghillie เสื้อคลุม (ปลดล็อคหลังจากเสร็จสิ้นการกำหนดเรื่องหลัก Hunter อันดับที่ 3 - บินส์:. Tobi-Kadachi)"
     },
     "critical-bounties-research-help-bomb-beetle-capture": {
       "Key": "critical-bounties-research-help-bomb-beetle-capture",
-      "Translation": "ช่วยเหลือการวิจัย: ระเบิดจับด้วง"
+      "Translation": "ช่วยเหลือการวิจัย: ระเบิดด้วงจับภาพ"
     },
     "critical-bounties-research-help-bomb-beetle-capture-tips": {
       "Key": "critical-bounties-research-help-bomb-beetle-capture-tips",
-      "Translation": "ใน Recess พี่ของ (ภาคใต้ค่าย (1)): ระเบิดด้วงผลักดันลูกของมูลรอบสามารถพบได้ในพื้นที่ 1 หรือ 2"
+      "Translation": "ในผู้สูงอายุของ Recess (ภาคใต้ค่าย (1)): ระเบิดด้วงผลักดันลูกประมาณมูลสามารถพบได้ในพื้นที่ 1 หรือ 2"
     },
     "critical-bounties-research-help-capture-the-ancient": {
       "Key": "critical-bounties-research-help-capture-the-ancient",
-      "Translation": "ช่วยเหลืองานวิจัย: จับโบราณ"
+      "Translation": "ช่วยเหลือการวิจัย: การจับภาพโบราณ"
     },
     "critical-bounties-research-help-capture-the-ancient-tips": {
       "Key": "critical-bounties-research-help-capture-the-ancient-tips",
-      "Translation": "รางวัลนี้สามารถหยิบขึ้นมาอยู่ในโซนใด ๆ ถ้าครั้งแรก 5 ถิ่นชีวิตที่สำคัญโปรดปรานและเป็นครั้งแรก 5 คาวปลาโปรดปรานที่สำคัญได้รับการเสร็จ. \\ n \\ n Petricanths สามารถติดอยู่ในน้ำในพื้นที่ 15 ของเน่าร์ทเวล (กลาง Camp ( 11)) แต่ในร่างกายของน้ำใกล้เคียงกับ Grimalkyne ได้. \\ n \\ n Petricanths นอกจากนี้ยังสามารถติดอยู่ในน้ำในพื้นที่ 8 เบื้องหลังเต็นท์ค่าย Recess พี่ของ (ค่ายตะวันออก (8)) เดินทางไปมาระหว่างโซนเหล่านี้"
+      "Translation": "รางวัลนี้สามารถหยิบขึ้นมาอยู่ในโซนใด ๆ ถ้าครั้งแรก 5 ถิ่นชีวิตที่สำคัญโปรดปรานและเป็นครั้งแรก 5 คาวปลาสำคัญโปรดปรานได้รับการเสร็จ. \\ n \\ n Petricanths สามารถติดอยู่ในน้ำในพื้นที่ 15 ของเน่าร์ทเวล (กลาง Camp ( 11)) แต่ในร่างกายของน้ำใกล้เคียงกับ Grimalkyne ได้. \\ n \\ n Petricanths นอกจากนี้ยังสามารถติดอยู่ในน้ำในพื้นที่ 8 เบื้องหลังเต็นท์ค่ายของพี่ของ Recess (ค่ายตะวันออก (8)) หลังการเดินทางไปมาระหว่างโซนเหล่านี้"
     },
     "critical-bounties-research-help-carrier-ant-capture": {
       "Key": "critical-bounties-research-help-carrier-ant-capture",
-      "Translation": "ช่วยเหลือการวิจัย: Carrier จับมด"
+      "Translation": "ช่วยเหลือการวิจัย: Carrier มดจับภาพ"
     },
     "critical-bounties-research-help-carrier-ant-capture-tips": {
       "Key": "critical-bounties-research-help-carrier-ant-capture-tips",
-      "Translation": "ในการเสีย Wildspire (ตะวันตกเฉียงใต้ค่าย (1)): สามลาดตระเวน Carrier มดสามารถพบได้ในพื้นที่ 1 พวกเขา respawn อย่างรวดเร็ว"
+      "Translation": "ใน Wildspire เสีย (ตะวันตกเฉียงใต้ค่าย (1)): ลาดตระเวนสาม Carrier มดสามารถพบได้ในพื้นที่ 1 พวกเขา respawn อย่างรวดเร็ว"
     },
     "critical-bounties-research-help-goldenfish-capture": {
       "Key": "critical-bounties-research-help-goldenfish-capture",
@@ -7677,11 +7677,11 @@ export default {
     },
     "critical-bounties-research-help-gunpowderfish-capture": {
       "Key": "critical-bounties-research-help-gunpowderfish-capture",
-      "Translation": "ช่วยเหลือการวิจัย: จับ Gunpowderfish"
+      "Translation": "ช่วยเหลือการวิจัย: Gunpowderfish จับภาพ"
     },
     "critical-bounties-research-help-gunpowderfish-capture-tips": {
       "Key": "critical-bounties-research-help-gunpowderfish-capture-tips",
-      "Translation": "ในคอรัลไฮแลนด์ (ค่ายภาคใต้ (1)): ผู้ Gunpowderfish สามารถติดอยู่ในน้ำในพื้นที่ 7 แต่ตอนนี้ยังรับไม่น่าเชื่อถือสำหรับฉัน แต่ผมมีเวลามากขึ้นในพื้นที่ 9 ของเน่าร์ทเวล"
+      "Translation": "ในคอรัลไฮแลนด์ (ภาคใต้ค่าย (1)): ผู้ Gunpowderfish สามารถติดอยู่ในน้ำในพื้นที่ 7 แต่ตอนนี้ยังรับไม่น่าเชื่อถือสำหรับฉัน แต่ผมมีเวลามากขึ้นในพื้นที่ 9 ของเน่าร์ทเวล"
     },
     "critical-bounties-research-help-phantom-bird": {
       "Key": "critical-bounties-research-help-phantom-bird",
@@ -7689,7 +7689,7 @@ export default {
     },
     "critical-bounties-research-help-phantom-bird-tips": {
       "Key": "critical-bounties-research-help-phantom-bird-tips",
-      "Translation": "รางวัลนี้สามารถหยิบขึ้นมาอยู่ในโซนใด ๆ ถ้าครั้งแรก 5 ถิ่นชีวิตที่สำคัญโปรดปรานและเป็นครั้งแรก 5 คาวปลาโปรดปรานที่สำคัญได้รับการเสร็จ. \\ n กลุ่ม \\ n ของน้ำค้าง crakes สามารถปรากฏบนด้านหลังของ Apceros หรือ Aptonoth Apceros สามารถพบได้ในพื้นที่ที่ 1 ของ Wildspire เสีย (ตะวันตกเฉียงใต้ค่าย (1)). \\ n \\ nAptonoth สามารถพบได้ในพื้นที่ 1 ของป่าโบราณ (ตะวันตกเฉียงใต้ค่าย (1)) เดินทางไปมาระหว่างโซนเหล่านี้ ใส่ในเสื้อคลุม Ghillie ของคุณก่อนที่จะออกค่าย"
+      "Translation": "รางวัลนี้สามารถหยิบขึ้นมาอยู่ในโซนใด ๆ ถ้าครั้งแรก 5 ถิ่นชีวิตที่สำคัญโปรดปรานและเป็นครั้งแรก 5 คาวปลาสำคัญโปรดปรานได้รับการเสร็จ. \\ n กลุ่ม \\ n ของน้ำค้าง crakes สามารถปรากฏบนด้านหลังของ Apceros หรือ Aptonoth Apceros สามารถพบได้ในพื้นที่ที่ 1 ของ Wildspire เสีย (ตะวันตกเฉียงใต้ค่าย (1)). \\ n สามารถพบได้ในพื้นที่ 1 ของป่าโบราณ \\ nAptonoth (ตะวันตกเฉียงใต้ค่าย (1)) หลังการเดินทางไปมาระหว่างโซนเหล่านี้ วางบน Ghillie เสื้อคลุมของคุณก่อนที่จะออกค่าย"
     },
     "critical-bounties-research-help-pink-parexus-capture": {
       "Key": "critical-bounties-research-help-pink-parexus-capture",
@@ -7705,7 +7705,7 @@ export default {
     },
     "critical-bounties-research-help-platinumfish-capture-tips": {
       "Key": "critical-bounties-research-help-platinumfish-capture-tips",
-      "Translation": "ใน Recess พี่ของ (Eastern ค่าย (8)): ผู้ Platinumfish สามารถติดอยู่ในน้ำในพื้นที่ 8 เบื้องหลังเต็นท์ค่าย"
+      "Translation": "ในผู้สูงอายุของ Recess (ค่ายตะวันออก (8)): ผู้ Platinumfish สามารถติดอยู่ในน้ำในพื้นที่ 8 เบื้องหลังเต็นท์ค่าย"
     },
     "critical-bounties-research-help-scavantula-capture": {
       "Key": "critical-bounties-research-help-scavantula-capture",
@@ -7713,7 +7713,7 @@ export default {
     },
     "critical-bounties-research-help-scavantula-capture-tips": {
       "Key": "critical-bounties-research-help-scavantula-capture-tips",
-      "Translation": "ในหุบเขาเน่า (ตะวันออกเฉียงใต้ค่าย (1)): สามถึงสี่สามารถพบได้ Scavantula อยู่ใกล้กับกองกระดูกในบริเวณที่ 3 และ 4 สวมเสื้อคลุม Ghillie ของคุณ"
+      "Translation": "ในหุบเขาเน่า (ตะวันออกเฉียงใต้ค่าย (1)): สามถึงสี่ Scavantula สามารถพบได้ที่อยู่ใกล้กับกองกระดูกในบริเวณที่ 3 และ 4 สวมเสื้อคลุม Ghillie ของคุณ"
     },
     "critical-bounties-research-help-sushifish-capture": {
       "Key": "critical-bounties-research-help-sushifish-capture",
@@ -7729,7 +7729,7 @@ export default {
     },
     "critical-bounties-research-help-wiggler-capture-tips": {
       "Key": "critical-bounties-research-help-wiggler-capture-tips",
-      "Translation": "ในคอรัลไฮแลนด์ (ภาคใต้ค่าย (1)): สามอาณานิคม Wiggler สามารถพบได้ในพื้นที่ 1. สวมเสื้อคลุม Ghillie ของคุณและเดินจากอาณานิคมอาณานิคม พวกเขา respawn มากได้อย่างรวดเร็ว แต่รอจนกว่าพวกเขาอย่างเต็มที่โผล่ออกมาจากพื้นดิน"
+      "Translation": "ในคอรัลไฮแลนด์ (ภาคใต้ค่าย (1)): อาณานิคมสาม Wiggler สามารถพบได้ในพื้นที่ 1. สวมเสื้อคลุม Ghillie ของคุณและใช้เวลาเดินจากอาณานิคมอาณานิคม พวกเขา respawn มากได้อย่างรวดเร็ว แต่รอจนกว่าพวกเขาอย่างเต็มที่โผล่ออกมาจากพื้นดิน"
     },
     "critical-bounties-research-help-woodland-pteryx-capture": {
       "Key": "critical-bounties-research-help-woodland-pteryx-capture",
@@ -7749,11 +7749,11 @@ export default {
     },
     "critical-bounties-troupers-tips": {
       "Key": "critical-bounties-troupers-tips",
-      "Translation": "ในคอรัลไฮแลนด์: troupers สามารถพบได้ในพื้นที่ 11 ผ่านเส้นทางที่แคบมากชั้นนำตะวันออกเฉียงเหนือ (ภาคตะวันออกเฉียงเหนือค่าย (12)) พวกเขาขอให้คุณฆ่า 2 Tzitzi-Ya-Ku ในการแสวงหาตัวเลือก“troupers มีความสุข” รางวัล: ตอนนี้ Palico ของคุณสามารถใช้วงออเคสตราปะการังและพูดคุยกับ Shamos"
+      "Translation": "ในคอรัลไฮแลนด์: troupers สามารถพบได้ในพื้นที่ 11 ผ่านเส้นทางที่แคบมากชั้นนำตะวันออกเฉียงเหนือ (ภาคตะวันออกเฉียงเหนือค่าย (12)) พวกเขาขอให้คุณฆ่า 2 Tzitzi-Ya-Ku ในการแสวงหาตัวเลือก“troupers ทุกข์” รางวัล: Palico ของคุณในขณะนี้สามารถใช้วงออเคสตราปะการังและพูดคุยกับ Shamos"
     },
     "endemic-life-andangler-description": {
       "Key": "endemic-life-andangler-description",
-      "Translation": "พวกเขาชอบที่จะวาดบิน Meduso กับแสงของพวกเขาและ ... Chomp! แน่นอนมันจะคุ้มค่าเข้าพักเพิ่มขึ้นตลอดทั้งคืนเพื่อดูพวกเขาในการกระทำ!"
+      "Translation": "พวกเขาชอบที่จะวาดบิน Meduso ต่อแสงและ ... Chomp ของพวกเขา! แน่นอนมันจะคุ้มค่าเข้าพักเพิ่มขึ้นตลอดทั้งคืนเพื่อดูพวกเขาในการกระทำ!"
     },
     "endemic-life-augurfly-description": {
       "Key": "endemic-life-augurfly-description",
@@ -7773,7 +7773,7 @@ export default {
     },
     "endemic-life-bristly-crake-description": {
       "Key": "endemic-life-bristly-crake-description",
-      "Translation": "Jagras กระโดดที่ดี! สากอัญชัน !? นกเท้าของตำนาน ... ก่อนที่ตาขวาของฉัน! ใครบางคนหยิกฉัน ..."
+      "Translation": "กระโดดที่ดี Jagras! สากอัญชัน !? นกเท้าของตำนาน ... ก่อนที่ตาขวาของฉัน! ใครบางคนหยิกฉัน ..."
     },
     "endemic-life-burst-arowana-description": {
       "Key": "endemic-life-burst-arowana-description",
@@ -7797,15 +7797,15 @@ export default {
     },
     "endemic-life-cobalt-flutterfly-description": {
       "Key": "endemic-life-cobalt-flutterfly-description",
-      "Translation": "ก็เพื่อให้สวยผมเข้าใจผิดมันสำหรับดอกไม้! เกล็ดสะท้อนแสงเป็นเช่นสีน้ำเงินเข้มว่ามันสามารถเรียกความมหัศจรรย์!"
+      "Translation": "มันสวยมากผมเข้าใจผิดมันสำหรับดอกไม้! เกล็ดสะท้อนแสงเป็นเช่นสีน้ำเงินเข้มที่ว่ามันสามารถเรียกความมหัศจรรย์!"
     },
     "endemic-life-copper-calappa-description": {
       "Key": "endemic-life-copper-calappa-description",
-      "Translation": "ศักดิ์สิทธิ์ Hermitaurs! ปูเงา !? ดูเหมือนว่ามันจะลดลงบางสิ่งบางอย่างถ้าคุณทำตามมัน รอไม่ได้นี้ชิ้นส่วนของทอง !? ดี!\""
+      "Translation": "ศักดิ์สิทธิ์ Hermitaurs! ปูเงา !? ดูเหมือนว่ามันจะลดลงบางสิ่งบางอย่างถ้าคุณทำตามมัน รอไม่ได้เป็นชิ้นส่วนของทอง !? ดี!\""
     },
     "endemic-life-dapper-coralbird-description": {
       "Key": "endemic-life-dapper-coralbird-description",
-      "Translation": "Coralbirds ให้มีเพียงผู้ชายคนหนึ่งได้รับการแต่งตั้งเป็นฝูงของพวกเขา ในคำอื่น ๆ ผู้ชายคนนี้เป็นสุนัขด้านบนหรือนก .... คุณรู้ว่าสิ่งที่ผมหมายถึง!"
+      "Translation": "Coralbirds อนุญาตให้เฉพาะเลือกหนึ่งชายเป็นฝูงของพวกเขา ในคำอื่น ๆ ผู้ชายคนนี้เป็นสุนัขด้านบนหรือนก .... คุณรู้ว่าสิ่งที่ผมหมายถึง!"
     },
     "endemic-life-downy-crake-description": {
       "Key": "endemic-life-downy-crake-description",
@@ -7813,7 +7813,7 @@ export default {
     },
     "endemic-life-dung-beetle-description": {
       "Key": "endemic-life-dung-beetle-description",
-      "Translation": "fellas เหล่านี้ม้วนมูลสัตว์รอบตลอดทั้งวัน ต้องการมูลบางอย่าง? แล้วมองไม่เพิ่มเติม! สิ่งที่คุณทำอย่างไรกับมันไม่เป็นของธุรกิจของฉัน!"
+      "Translation": "fellas เหล่านี้ม้วนมูลรอบตลอดทั้งวัน ต้องการมูลบางอย่าง? แล้วมองไม่เพิ่มเติม! สิ่งที่คุณทำอย่างไรกับมันไม่เป็นของธุรกิจของฉัน!"
     },
     "endemic-life-elegant-coralbird-description": {
       "Key": "endemic-life-elegant-coralbird-description",
@@ -7825,7 +7825,7 @@ export default {
     },
     "endemic-life-emperor-hopper-description": {
       "Key": "endemic-life-emperor-hopper-description",
-      "Translation": "การแสดงออกของเผด็จการ ... มงกุฎเหมือนหัวและปีกเสื้อคลุมเหมือนหอบ ... * * * * * จักรพรรดิจริง! F-ยกโทษให้เราอหังการของเรา!"
+      "Translation": "การแสดงออกของเผด็จการ ... มงกุฎเหมือนศีรษะและเสื้อคลุมเหมือนปีก ... * * * * * หอบจักรพรรดิจริง! F-ยกโทษให้เราอหังการของเรา!"
     },
     "endemic-life-flashfly-description": {
       "Key": "endemic-life-flashfly-description",
@@ -7849,7 +7849,7 @@ export default {
     },
     "endemic-life-gastronome-tuna-description": {
       "Key": "endemic-life-gastronome-tuna-description",
-      "Translation": "ปลาที่กินอะไรเลยช่วยให้คุณสามารถบางครั้งได้รับรายการจากกระเพาะอาหารของมัน เหล่านี้ปลาใหญ่ชอบที่จะออกไปฉกเหยื่อ! ใช้ความยืดหยุ่นคันเพื่อประโยชน์ของคุณเพื่อนำมาไว้ในและให้แน่ใจว่าได้ตรวจสอบสำหรับรายการ!"
+      "Translation": "ปลาที่กินอะไรเลยช่วยให้คุณสามารถบางครั้งได้รับรายการจากกระเพาะอาหารของมัน เหล่านี้ปลาขนาดใหญ่เช่นฉกออกไปเหยื่อ! ใช้ความยืดหยุ่นคันเพื่อประโยชน์ของคุณเพื่อนำมาไว้ในและให้แน่ใจว่าได้ตรวจสอบสำหรับรายการ!"
     },
     "endemic-life-giant-vigorwasp-description": {
       "Key": "endemic-life-giant-vigorwasp-description",
@@ -7857,7 +7857,7 @@ export default {
     },
     "endemic-life-gloom-gecko-description": {
       "Key": "endemic-life-gloom-gecko-description",
-      "Translation": "อะไรฉูดฉาดสีดังกล่าวเป็นที่มืด! มันก็กรีดร้อง \"อันตราย! อย่าแตะ! และอย่าทำให้ฉันได้ทุกที่ใกล้ปากของคุณ!\""
+      "Translation": "สิ่งที่มีสีฉูดฉาดสำหรับที่มืดดังกล่าว! มันก็กรีดร้อง \"อันตราย! ไม่ได้สัมผัส! และอย่าทำให้ฉันได้ทุกที่ใกล้ปากของคุณ!\""
     },
     "endemic-life-gold-calappa-description": {
       "Key": "endemic-life-gold-calappa-description",
@@ -7865,15 +7865,15 @@ export default {
     },
     "endemic-life-gold-helmcrab-description": {
       "Key": "endemic-life-gold-helmcrab-description",
-      "Translation": "Wowzers แม้ Helmcrabs ได้ไปทอง! มันมีการถือครอง ... มังกร Pod !? เดาเมื่อคุณต้องกินคุณต้องกิน!"
+      "Translation": "Wowzers แม้ Helmcrabs มีทองหายไป! มันมีการถือครอง ... มังกร Pod !? เดาเมื่อคุณต้องกินคุณต้องกิน!"
     },
     "endemic-life-gold-hercudrome-description": {
       "Key": "endemic-life-gold-hercudrome-description",
-      "Translation": "ตัวเงินตัวทองของแสง? แมลงทองสดใส? ฉัน ... ฉันพูด! ของฉัน ... หัวใจของฉันรู้สึกเหมือนมันถูกจุ่มลงในความสุขทอง!"
+      "Translation": "ตัวเงินตัวทองของแสง? แมลงทองสดใส? ฉัน ... ฉันพูด! ของฉัน ... รู้สึกเหมือนหัวใจของฉันมันถูกจุ่มลงในความสุขทอง!"
     },
     "endemic-life-goldenfish-description": {
       "Key": "endemic-life-goldenfish-description",
-      "Translation": "โกลเด้นปรับถ้ำอาศัยอยู่ในพวกเขาจะ hightail ถ้าคุณกระดิกเหยื่อของคุณ! พวกเขายังต้องการที่จะแทะก่อนที่จะกัดจริงจึงไม่ได้ติดกับดัก!"
+      "Translation": "โกลเด้นปรับถ้ำอาศัยอยู่ในพวกเขาจะ hightail ถ้าคุณกระดิกเหยื่อของคุณ! พวกเขายังต้องการที่จะตอดก่อนที่จะกัดจริงจึงไม่ได้ติดกับดัก!"
     },
     "endemic-life-goldenfry-description": {
       "Key": "endemic-life-goldenfry-description",
@@ -7889,11 +7889,11 @@ export default {
     },
     "endemic-life-hercudrome-description": {
       "Key": "endemic-life-hercudrome-description",
-      "Translation": "เพียงเจ็ดของมีการกล่าวถึงอยู่ในป่าทั้งหมด! ที่จะคิดว่าผมเคยเห็นหนึ่งในชีวิตของฉัน ... ฉัน ... * ร้องไห้ * ผมมีความสุข!"
+      "Translation": "เพียงเจ็ดของมีการกล่าวถึงอยู่ในป่าทั้งหมด! ที่จะคิดว่าผมเคยเห็นหนึ่งในชีวิตของฉัน ... ฉัน ... * ร้องไห้ * ฉันจึงมีความสุข!"
     },
     "endemic-life-hogpuppy-description": {
       "Key": "endemic-life-hogpuppy-description",
-      "Translation": "ครีบอกเฉพาะอนุญาตให้ข้ามไปในน้ำ! มันยังสามารถเหิน! คุณจะไม่ได้จับคนนี้กับเสาประมง!"
+      "Translation": "ครีบอกผู้เชี่ยวชาญอนุญาตให้ข้ามไปในน้ำ! มันยังสามารถเหิน! คุณจะไม่ได้จับคนนี้กับเสาประมง!"
     },
     "endemic-life-iron-helmcrab-description": {
       "Key": "endemic-life-iron-helmcrab-description",
@@ -7905,7 +7905,7 @@ export default {
     },
     "endemic-life-moonlight-gecko-description": {
       "Key": "endemic-life-moonlight-gecko-description",
-      "Translation": "ที่หางส่อง! มันสวยมาก ... ฉันต้องการที่จะสัมผัสมัน ... ฉันอยากจะเป็นเพื่อนที่ดีที่สุดของ ... * * * * * * * * หอบฉันเกือบจะตกหลุมรักมัน!"
+      "Translation": "ที่หางส่อง! ก็เพื่อให้สวย ... ฉันต้องการที่จะสัมผัสมัน ... ฉันอยากจะเป็นเพื่อนที่ดีที่สุดของ ... * * * * * * * * หอบฉันเกือบจะตกหลุมรักมัน!"
     },
     "endemic-life-nekker-description": {
       "Key": "endemic-life-nekker-description",
@@ -7917,19 +7917,19 @@ export default {
     },
     "endemic-life-omenfly-description": {
       "Key": "endemic-life-omenfly-description",
-      "Translation": "ดูท้องเรืองแสงเหล่านั้นหรือไม่ โดยปกติแล้วพวกเขากำลังสีเหลือง แต่พวกเขาเปลี่ยนเป็นสีแดงซึ่งอยู่ใกล้กับมอนสเตอร์ขนาดใหญ่ ... W-ทำไมพวกเขาจะเรืองแสงสีแดงที่อยู่ใกล้ฉัน !?"
+      "Translation": "ดูท้องเรืองแสงเหล่านั้นหรือไม่ พวกเขามักจะเป็นสีเหลืองกำลัง แต่พวกเขาเปลี่ยนเป็นสีแดงซึ่งอยู่ใกล้กับมอนสเตอร์ขนาดใหญ่ ... W-ทำไมพวกเขาสีแดงที่เร่าร้อนอยู่ใกล้ฉัน !?"
     },
     "endemic-life-paratoad-description": {
       "Key": "endemic-life-paratoad-description",
-      "Translation": "มันเก็บก๊าซเป็นอัมพาตในร่างกายและปล่อยมันเมื่อถูกคุกคาม! ดู? ที่นี่ในของโสม-AGH! ฉัน ... ฉันไม่สามารถ ... mooove ..."
+      "Translation": "มันเก็บอัมพาตก๊าซในร่างกายและปล่อยมันเมื่อขู่! ดู? ที่นี่ในของโสม-AGH! ฉัน ... ฉันไม่สามารถ ... mooove ..."
     },
     "endemic-life-petricanths-description": {
       "Key": "endemic-life-petricanths-description",
-      "Translation": "ไม่น่าเชื่อ ... คุณได้มีการจัดการการเลี้ยงปลาขึ้นตำนานคิดไปได้-ไปสูญพันธุ์ Petricanths! ผมใช้หมวกของฉันออกกับคุณ!"
+      "Translation": "ไม่น่าเชื่อ ... คุณได้มีการจัดการการเลี้ยงปลาขึ้นตำนานความคิดที่จะมี-หายไปสูญพันธุ์ Petricanths! ผมใช้หมวกของฉันออกกับคุณ!"
     },
     "endemic-life-phantom-flutterfly": {
       "Key": "endemic-life-phantom-flutterfly",
-      "Translation": "เหล่านี้ปีกที่สวยงาม! เรืองแสงสีรุ้งของพวกเขาคือเสน่ห์ดังนั้น ... ฉัน ... ฉันไม่สามารถฉีกตาของฉันออกไปจากมัน! สิ่งที่เป็นผลงานชิ้นเอก!"
+      "Translation": "เหล่านี้ปีกที่สวยงาม! เรืองแสงสีรุ้งของพวกเขาคือเพื่อให้มีเสน่ห์ ... ฉัน ... ฉันไม่สามารถฉีกตาของฉันออกไปจากมัน! อะไรชิ้นเอก!"
     },
     "endemic-life-pilot-hare-description": {
       "Key": "endemic-life-pilot-hare-description",
@@ -7937,7 +7937,7 @@ export default {
     },
     "endemic-life-pink-parexus-description": {
       "Key": "endemic-life-pink-parexus-description",
-      "Translation": "ปลาเหล่านี้จะพบได้ทั่วโลกใหม่แสดงบางชีววิทยาดั้งเดิมที่น่าตื่นตาตื่นใจและพวกเขากำลังตกปลาง่ายแม้สำหรับผู้เริ่มต้น!"
+      "Translation": "ปลาเหล่านี้จะพบได้ทั่วโลกใหม่แสดงบางชีววิทยาดั้งเดิมที่น่าตื่นตาตื่นใจและพวกเขาตกปลาง่ายกำลังแม้กระทั่งสำหรับผู้เริ่มต้น!"
     },
     "endemic-life-platinumfish-description": {
       "Key": "endemic-life-platinumfish-description",
@@ -7961,11 +7961,11 @@ export default {
     },
     "endemic-life-shepherd-hare-description": {
       "Key": "endemic-life-shepherd-hare-description",
-      "Translation": "เพียงแค่ดูที่หู ginormous เหล่านี้! ปุยและพวกเขาสามารถแยกแยะเสียงที่แม่นยำเพื่อหลีกเลี่ยงอันตราย! พวกเขากำลังให้ฉลาดมันเจ็บ!"
+      "Translation": "เพียงแค่ดูที่หู ginormous เหล่านี้! ปุยและพวกเขาสามารถแยกแยะเสียงได้อย่างแม่นยำอันตรายหลีกเลี่ยง! พวกเขากำลังให้ฉลาดมันเจ็บ!"
     },
     "endemic-life-shiny-gold-helmcrab-description": {
       "Key": "endemic-life-shiny-gold-helmcrab-description",
-      "Translation": "นี้หนึ่งเล็ก ๆ น้อย ๆ ไม่แตกต่างกันเกินไปจากปกติทอง Helmcrab ของคุณ แต่มันมากเงางาม คิดว่ามันเก็บสะสมด้วงมากขึ้นสำหรับตัวเอง?"
+      "Translation": "นี้หนึ่งเล็ก ๆ น้อย ๆ ไม่แตกต่างกันเกินไปจากปกติทอง Helmcrab ของคุณ แต่มันเป็นเงางามมาก คิดว่ามันเก็บสะสมด้วงมากขึ้นสำหรับตัวเอง?"
     },
     "endemic-life-sleeptoad-description": {
       "Key": "endemic-life-sleeptoad-description",
@@ -7973,7 +7973,7 @@ export default {
     },
     "endemic-life-soldier-helmcrab-description": {
       "Key": "endemic-life-soldier-helmcrab-description",
-      "Translation": "พวกเขาพก Slinger หนามและเดินไปรอบ ๆ ในกลุ่มเช่นเดียวกับทหาร! ที่ทำให้หนามปันส่วนของพวกเขา? พวกเขาไม่ ... กินมันได้หรือไม่ Ew ..."
+      "Translation": "พวกเขาพก Slinger หนามและเดินไปรอบ ๆ ในกลุ่มเช่นเดียวกับทหาร! ที่ทำให้หนามปันส่วนของพวกเขา? พวกเขาไม่ ... กินมัน? Ew ..."
     },
     "endemic-life-sushifish-description": {
       "Key": "endemic-life-sushifish-description",
@@ -7981,7 +7981,7 @@ export default {
     },
     "endemic-life-tsuchinoko-description": {
       "Key": "endemic-life-tsuchinoko-description",
-      "Translation": "Jeepers พูดคุยเกี่ยวกับแปลกที่มีทุนเอสใช้ร่างกายยืดหยุ่นและผิวแปลก ... ฉันคิดว่าฉันเคยได้ยินนิทานเกี่ยวกับสิ่งนี้มาก่อน ..."
+      "Translation": "Jeepers, พูดคุยเกี่ยวกับแปลกที่มีทุนเอสใช้ร่างกายยืดหยุ่นและผิวแปลก ... ฉันคิดว่าฉันเคยได้ยินนิทานเกี่ยวกับสิ่งนี้มาก่อน ..."
     },
     "endemic-life-tyrant-hopper-description": {
       "Key": "endemic-life-tyrant-hopper-description",
@@ -7993,7 +7993,7 @@ export default {
     },
     "endemic-life-vigorwasp-description": {
       "Key": "endemic-life-vigorwasp-description",
-      "Translation": "ของเหลวที่เก็บรวบรวมในถุงนี่คือ ... ที่เหมาะสม Vitalily น้ำหวาน! คุณสมบัติของการรักษาควรจะเป็นประโยชน์ในหยิก"
+      "Translation": "ของเหลวที่เก็บรวบรวมในถุงนี่คือ ... ที่เหมาะสม Vitalily น้ำหวาน! คุณสมบัติในการรักษาของมันควรจะเป็นประโยชน์ในหยิก"
     },
     "endemic-life-whetfish-description": {
       "Key": "endemic-life-whetfish-description",
@@ -8001,7 +8001,7 @@ export default {
     },
     "endemic-life-wiggler-description": {
       "Key": "endemic-life-wiggler-description",
-      "Translation": "สั่นในลมและไม่ได้เป่าออกไปเพราะมันจะทอดสมออยู่ในพื้นดิน! ลองมาดูที่เท้าของมัน ... URRGH! มันติด..."
+      "Translation": "สั่นในลมและไม่ได้เป่าออกไปเพราะมันจะทอดสมออยู่ในพื้นดิน! ลองมาดูที่เท้าของมัน ... URRGH เป็นคนแรก! มันติด..."
     },
     "endemic-life-wiggler-queen-description": {
       "Key": "endemic-life-wiggler-queen-description",
@@ -8009,7 +8009,7 @@ export default {
     },
     "endemic-life-wildspire-gecko-description": {
       "Key": "endemic-life-wildspire-gecko-description",
-      "Translation": "Barroth ไม่เพียงกินมดในทะเลทรายแห่งนี้! พวกเหล่านี้รักมดมากพวกเขายังต้องการให้ Barroth ใช้เงินของพวกเขา!"
+      "Translation": "Barroth ไม่เพียงมดกินในทะเลทรายแห่งนี้! พวกเหล่านี้รักมดมากพวกเขายังต้องการให้ Barroth ใช้เงินของพวกเขา!"
     },
     "endemic-life-woodland-pteryx-description": {
       "Key": "endemic-life-woodland-pteryx-description",
@@ -8041,7 +8041,7 @@ export default {
     },
     "home-crafting-list": {
       "Key": "home-crafting-list",
-      "Translation": "หัตถกรรมรายการ"
+      "Translation": "รายการหัตถกรรม"
     },
     "home-critical-bounties": {
       "Key": "home-critical-bounties",
@@ -8057,7 +8057,7 @@ export default {
     },
     "home-endemic-life": {
       "Key": "home-endemic-life",
-      "Translation": "ชีวิตถิ่น"
+      "Translation": "ถิ่นชีวิต"
     },
     "home-event-calendar": {
       "Key": "home-event-calendar",
@@ -8149,7 +8149,7 @@ export default {
     },
     "layered-armor-aloy-how-to-get": {
       "Key": "layered-armor-aloy-how-to-get",
-      "Translation": "สมบูรณ์นอกเหนือจากการส่งมอบฮอไรซอน"
+      "Translation": "กรอกนอกเหนือจากการส่งมอบฮอไรซอน"
     },
     "layered-armor-bayek": {
       "Key": "layered-armor-bayek",
@@ -8169,7 +8169,7 @@ export default {
     },
     "layered-armor-blossom-layered-arms": {
       "Key": "layered-armor-blossom-layered-arms",
-      "Translation": "แขน Blossom Layered"
+      "Translation": "Blossom Layered แขน"
     },
     "layered-armor-blossom-layered-chest": {
       "Key": "layered-armor-blossom-layered-chest",
@@ -8193,11 +8193,11 @@ export default {
     },
     "layered-armor-brigade-how-to-get": {
       "Key": "layered-armor-brigade-how-to-get",
-      "Translation": "ทำลายดำเนินการส่งมอบเพลิง"
+      "Translation": "สมบูรณ์ทำลายออกการส่งมอบเพลิง"
     },
     "layered-armor-brigade-layered-arms": {
       "Key": "layered-armor-brigade-layered-arms",
-      "Translation": "แขนกองพล Layered"
+      "Translation": "กองพล Layered แขน"
     },
     "layered-armor-brigade-layered-chest": {
       "Key": "layered-armor-brigade-layered-chest",
@@ -8277,7 +8277,7 @@ export default {
     },
     "layered-armor-butterfly-how-to-get": {
       "Key": "layered-armor-butterfly-how-to-get",
-      "Translation": "โฟลตที่สมบูรณ์แบบเช่นเดียวกับการส่งมอบผีเสื้อ"
+      "Translation": "โฟลตที่สมบูรณ์แบบการจัดส่งเหมือนผีเสื้อ"
     },
     "layered-armor-ciri": {
       "Key": "layered-armor-ciri",
@@ -8305,7 +8305,7 @@ export default {
     },
     "layered-armor-death-stench": {
       "Key": "layered-armor-death-stench",
-      "Translation": "กลิ่นเหม็นตาย"
+      "Translation": "ตายกลิ่นเหม็น"
     },
     "layered-armor-death-stench-how-to-get": {
       "Key": "layered-armor-death-stench-how-to-get",
@@ -8317,11 +8317,11 @@ export default {
     },
     "layered-armor-diver-how-to-get": {
       "Key": "layered-armor-diver-how-to-get",
-      "Translation": "การจัดส่งดำน้ำลึกลงสมบูรณ์"
+      "Translation": "เสร็จสิ้นการส่งมอบดำน้ำลึกลง"
     },
     "layered-armor-diver-layered-arms": {
       "Key": "layered-armor-diver-layered-arms",
-      "Translation": "แขนนักดำน้ำชั้น"
+      "Translation": "นักดำน้ำชั้นแขน"
     },
     "layered-armor-diver-layered-chest": {
       "Key": "layered-armor-diver-layered-chest",
@@ -8353,7 +8353,7 @@ export default {
     },
     "layered-armor-faux-felyne-how-to-get": {
       "Key": "layered-armor-faux-felyne-how-to-get",
-      "Translation": "เพียงแค่การส่งมอบ Faux สมบูรณ์"
+      "Translation": "เสร็จสิ้นเพียงแค่การส่งมอบ Faux"
     },
     "layered-armor-faux-felyne-layered-head": {
       "Key": "layered-armor-faux-felyne-layered-head",
@@ -8369,7 +8369,7 @@ export default {
     },
     "layered-armor-gala-suit-layered-arms": {
       "Key": "layered-armor-gala-suit-layered-arms",
-      "Translation": "Gala สูทแขน Layered"
+      "Translation": "Gala สูทชั้นแขน"
     },
     "layered-armor-gala-suit-layered-chest": {
       "Key": "layered-armor-gala-suit-layered-chest",
@@ -8381,7 +8381,7 @@ export default {
     },
     "layered-armor-gala-suit-layered-legs": {
       "Key": "layered-armor-gala-suit-layered-legs",
-      "Translation": "Gala สูทขา Layered"
+      "Translation": "Gala สูท Layered ขา"
     },
     "layered-armor-gala-suit-layered-torso": {
       "Key": "layered-armor-gala-suit-layered-torso",
@@ -8401,15 +8401,15 @@ export default {
     },
     "layered-armor-guild-cross-how-to-get": {
       "Key": "layered-armor-guild-cross-how-to-get",
-      "Translation": "เสร็จสิ้นการรอการส่งมอบหัวใจของฉัน"
+      "Translation": "เสร็จสิ้นการจัดส่งข้ามหัวใจของฉัน"
     },
     "layered-armor-guild-cross-layered-arms": {
       "Key": "layered-armor-guild-cross-layered-arms",
-      "Translation": "Guild แขนข้ามชั้น"
+      "Translation": "สมาคมครอส Layered แขน"
     },
     "layered-armor-guild-cross-layered-chest": {
       "Key": "layered-armor-guild-cross-layered-chest",
-      "Translation": "สมาคมหน้าอกข้ามชั้น"
+      "Translation": "สมาคมครอหน้าอก Layered"
     },
     "layered-armor-guild-cross-layered-head": {
       "Key": "layered-armor-guild-cross-layered-head",
@@ -8433,7 +8433,7 @@ export default {
     },
     "layered-armor-harvest-layered-arms": {
       "Key": "layered-armor-harvest-layered-arms",
-      "Translation": "แขนเก็บเกี่ยว Layered"
+      "Translation": "เก็บเกี่ยว Layered แขน"
     },
     "layered-armor-harvest-layered-chest": {
       "Key": "layered-armor-harvest-layered-chest",
@@ -8477,7 +8477,7 @@ export default {
     },
     "layered-armor-origin-how-to-get": {
       "Key": "layered-armor-origin-how-to-get",
-      "Translation": "การส่งมอบแหล่งกำเนิดสินค้าที่สมบูรณ์แบบเดิม"
+      "Translation": "การจัดส่งต้นฉบับแหล่งกำเนิดที่สมบูรณ์"
     },
     "layered-armor-orion": {
       "Key": "layered-armor-orion",
@@ -8489,7 +8489,7 @@ export default {
     },
     "layered-armor-orion-layered-arms": {
       "Key": "layered-armor-orion-layered-arms",
-      "Translation": "แขน Orion Layered"
+      "Translation": "Orion Layered แขน"
     },
     "layered-armor-orion-layered-boots": {
       "Key": "layered-armor-orion-layered-boots",
@@ -8513,7 +8513,7 @@ export default {
     },
     "layered-armor-sakura-how-to-get": {
       "Key": "layered-armor-sakura-how-to-get",
-      "Translation": "เสร็จสิ้นการส่งมอบซากุระบาน"
+      "Translation": "การจัดส่ง Blooming ซากุระสมบูรณ์"
     },
     "layered-armor-samurai": {
       "Key": "layered-armor-samurai",
@@ -8537,7 +8537,7 @@ export default {
     },
     "layered-armor-shadow-shades-how-to-get": {
       "Key": "layered-armor-shadow-shades-how-to-get",
-      "Translation": "ซุ่มซ่อนสมบูรณ์ในการส่งมอบเงา"
+      "Translation": "สมบูรณ์แอบซุ่มอยู่ในการจัดส่งเงา"
     },
     "layered-armor-shadow-shades-layered-head": {
       "Key": "layered-armor-shadow-shades-layered-head",
@@ -8557,7 +8557,7 @@ export default {
     },
     "layered-armor-wiggler-head-how-to-get": {
       "Key": "layered-armor-wiggler-head-how-to-get",
-      "Translation": "การจัดส่ง Wiggly โยกเยกวูสมบูรณ์"
+      "Translation": "เสร็จสิ้นการส่งมอบ Wiggly โยกเยกวู"
     },
     "monster-acidic-glavenus": {
       "Key": "monster-acidic-glavenus",
@@ -8629,7 +8629,7 @@ export default {
     },
     "monster-barroth-characteristics": {
       "Key": "monster-barroth-characteristics",
-      "Translation": "Barroth หามด, สแน็คที่ชื่นชอบของพวกเขาและทำเครื่องหมายอาณาเขตของตนไปด้วยโคลน พวกเขาโจมตีคู่แข่งอาจเกิดขึ้นกับการโจมตีทำลายล้างชาร์จ"
+      "Translation": "Barroth หามด, สแน็คที่ชื่นชอบของพวกเขาและทำเครื่องหมายอาณาเขตของตนไปด้วยโคลน พวกเขาโจมตีคู่แข่งที่มีศักยภาพทำลายล้างโจมตีชาร์จ"
     },
     "monster-barroth-useful-information": {
       "Key": "monster-barroth-useful-information",
@@ -8645,7 +8645,7 @@ export default {
     },
     "monster-bazelgeuse-useful-information": {
       "Key": "monster-bazelgeuse-useful-information",
-      "Translation": "เครื่องชั่งน้ำหนักที่ Bazelgeuse โปรยระเบิดด้วยพลังอันยิ่งใหญ่ที่ทำให้พวกเขาร้ายแรงมาก มุ่งเน้นไปที่ขาของมันไปเคาะมันลงมาแล้วเคาะออกอวัยวะขนาดของการสร้าง"
+      "Translation": "เครื่องชั่งน้ำหนักที่สหภาพแรงงาน Bazelgeuse ระเบิดด้วยพลังอันยิ่งใหญ่ที่ทำให้พวกเขาร้ายแรงมาก มุ่งเน้นไปที่ขาของมันไปเคาะมันลงมาแล้วเคาะออกอวัยวะขนาดของการสร้าง"
     },
     "monster-behemoth": {
       "Key": "monster-behemoth",
@@ -8653,7 +8653,7 @@ export default {
     },
     "monster-behemoth-characteristics": {
       "Key": "monster-behemoth-characteristics",
-      "Translation": "สัตว์ที่มีประสิทธิภาพจากอีกโลกหนึ่ง แตรขนาดใหญ่และกรอบกล้ามเนื้อท้าทายธรรมชาติ กลยุทธ์ที่ไม่ซ้ำกันจะต้องต่อสู้"
+      "Translation": "สัตว์ที่มีประสิทธิภาพจากอีกโลกหนึ่ง แตรขนาดใหญ่และกรอบกล้ามเนื้อธรรมชาติท้า กลยุทธ์ที่ไม่ซ้ำกันจะต้องต่อสู้มัน"
     },
     "monster-behemoth-useful-information": {
       "Key": "monster-behemoth-useful-information",
@@ -8665,15 +8665,15 @@ export default {
     },
     "monster-black-diablos": {
       "Key": "monster-black-diablos",
-      "Translation": "Diablos ดำ"
+      "Translation": "ดำ Diablos"
     },
     "monster-black-diablos-characteristics": {
       "Key": "monster-black-diablos-characteristics",
-      "Translation": "เหล่านี้สีดำเปลือก Diablos เป็นจริงหญิง Diablos ในความร้อน สีสัญญาณความก้าวร้าวและความเกลียดชังความคิดริเริ่มของพวกเขาให้สิ่งมีชีวิตอื่น ๆ ในที่อยู่อาศัยของพวกเขา"
+      "Translation": "เหล่านี้ Diablos ดำตะพาบเป็นจริงหญิง Diablos ในความร้อน สีสัญญาณความก้าวร้าวและความเกลียดชังความคิดริเริ่มของพวกเขาให้สิ่งมีชีวิตอื่น ๆ ในที่อยู่อาศัยของพวกเขา"
     },
     "monster-black-diablos-useful-information": {
       "Key": "monster-black-diablos-useful-information",
-      "Translation": "Diablos มีความก้าวร้าวมากขึ้นกับผู้บุกรุกในเมื่อความร้อนและเป็นที่รู้จักกันเพื่อโจมตีศัตรูถอย อย่าปล่อยให้ยามของคุณลงแม้ว่าคุณคิดว่าคุณได้สร้างระยะห่างที่ปลอดภัยจากมอนสเตอร์เหล่านี้"
+      "Translation": "Diablos มีมากก้าวร้าวกับผู้บุกรุกในเมื่อความร้อนและเป็นที่รู้จักกันเพื่อโจมตีศัตรูถอย อย่าปล่อยให้ยามของคุณลงแม้ว่าคุณคิดว่าคุณได้สร้างระยะห่างที่ปลอดภัยจากมอนสเตอร์เหล่านี้"
     },
     "monster-blackveil-vaal-hazak": {
       "Key": "monster-blackveil-vaal-hazak",
@@ -8701,7 +8701,7 @@ export default {
     },
     "monster-deviljho-useful-information": {
       "Key": "monster-deviljho-useful-information",
-      "Translation": "เมื่อโกรธ Deviljho ของกล้ามเนื้อบวมเรืองแสงสีแดงนรก มันก็จะเริ่มพ่นโจมตีธาตุมังกรกวาดเพื่อให้ดูระยะทางของคุณ Deviljho อยู่ในการโจมตีแม้ในขณะที่ได้รับบาดเจ็บ แต่ไม่ให้ขึ้น; ให้การต่อสู้และคุณจะออกมาด้านบน"
+      "Translation": "เมื่อแค้น Deviljho ของกล้ามเนื้อบวมเรืองแสงสีแดงนรก มันก็จะเริ่มพ่นโจมตีธาตุมังกรกวาดเพื่อให้ดูระยะทางของคุณ การเข้าพัก Deviljho ในการโจมตีแม้ในขณะที่ได้รับบาดเจ็บ แต่ไม่ให้ขึ้น; ให้การต่อสู้และคุณจะออกมาด้านบน"
     },
     "monster-diablos": {
       "Key": "monster-diablos",
@@ -8709,7 +8709,7 @@ export default {
     },
     "monster-diablos-characteristics": {
       "Key": "monster-diablos-characteristics",
-      "Translation": "มอนสเตอร์ที่ปลายของ Wildspire เสีย อันตรายสัตว์ดินแดนที่สิงสถิตอยู่ใต้ดิน เสียงดังจะทำให้มันทิ่มออกมาจากทรายในการค้นหาของเหยื่อ"
+      "Translation": "มอนสเตอร์ที่ปลายของ Wildspire เสีย อันตรายสัตว์ดินแดนที่ซุกซ่อนอยู่ใต้ดิน เสียงดังจะทำให้มันทิ่มออกมาจากทรายในการค้นหาของเหยื่อ"
     },
     "monster-diablos-useful-information": {
       "Key": "monster-diablos-useful-information",
@@ -8725,7 +8725,7 @@ export default {
     },
     "monster-dodogama-useful-information": {
       "Key": "monster-dodogama-useful-information",
-      "Translation": "Dodogama รวบรวมแร่ธาตุระเบิดในปากของมัน แต่การทำเช่นนั้นอ่อนตัวกรามใหญ่ ที่ก่อให้เกิดแร่ธาตุที่จะทำให้เกิดการระเบิดในขณะที่พวกเขายังคงอยู่ในปาก Dodogama จะสร้างการเปิดที่ดีสำหรับการโจมตี"
+      "Translation": "Dodogama รวบรวมแร่ธาตุระเบิดในปากของมัน แต่การทำเช่นนั้นอ่อนตัวกรามใหญ่ ที่ก่อให้เกิดแร่ธาตุทำให้เกิดการระเบิดในขณะที่พวกเขายังคงอยู่ในปาก Dodogama จะสร้างการเปิดที่ดีสำหรับการโจมตี"
     },
     "monster-ebony-odogaron": {
       "Key": "monster-ebony-odogaron",
@@ -8745,7 +8745,7 @@ export default {
     },
     "monster-gajau-useful-information": {
       "Key": "monster-gajau-useful-information",
-      "Translation": "piscine หินที่เป็นกลุ่มเพื่อปกป้องดินแดนของพวกเขาจากผู้บุกรุก ให้แน่ใจว่าจะไม่ร่วมอย่างใกล้ชิดเกินไปที่จะอาศัยของพวกเขา!"
+      "Translation": "piscine หินที่รูปแบบกลุ่มเพื่อปกป้องดินแดนของพวกเขาจากผู้บุกรุก ให้แน่ใจว่าจะไม่ร่วมอย่างใกล้ชิดเกินไปที่จะอาศัยของพวกเขา!"
     },
     "monster-gastodon": {
       "Key": "monster-gastodon",
@@ -8785,11 +8785,11 @@ export default {
     },
     "monster-great-jagras": {
       "Key": "monster-great-jagras",
-      "Translation": "Jagras ที่ดี"
+      "Translation": "ที่ดี Jagras"
     },
     "monster-great-jagras-characteristics": {
       "Key": "monster-great-jagras-characteristics",
-      "Translation": "ผู้นำแพ็คของ Jagras เมื่อหิว Jagras ที่ดีเป็นที่รู้จักกันในการโจมตีมอนสเตอร์ที่แข็งแกร่งถ้ำตัวเอง มันลูกโป่งเพื่อสัดส่วนที่ไม่น่าเชื่อเมื่อกลืนกินเหยื่อ"
+      "Translation": "ผู้นำแพ็คของ Jagras เมื่อหิว Jagras ที่ดีเป็นที่รู้จักกันมอนสเตอร์โจมตีถ้ำที่แข็งแกร่งของตัวเอง มันลูกโป่งเพื่อสัดส่วนที่ไม่น่าเชื่อเมื่อกลืนกินเหยื่อ"
     },
     "monster-great-jagras-useful-information": {
       "Key": "monster-great-jagras-useful-information",
@@ -8817,7 +8817,7 @@ export default {
     },
     "monster-jyuratodus-characteristics": {
       "Key": "monster-jyuratodus-characteristics",
-      "Translation": "Wyvern piscine ขนาดใหญ่ที่อาศัยอยู่ในหนองน้ำของ Wildspire เสีย จะใช้โคลนที่จะจับภาพเหยื่อและเป็นที่รู้จักกันไปรบ Barroth เหนือดินแดน"
+      "Translation": "ขนาดใหญ่ piscine Wyvern ว่าพรายน้ำหนองน้ำของ Wildspire เสีย จะใช้โคลนเพื่อจับเหยื่อและเป็นที่รู้จักกันไปรบ Barroth เหนือดินแดน"
     },
     "monster-jyuratodus-useful-information": {
       "Key": "monster-jyuratodus-useful-information",
@@ -8845,11 +8845,11 @@ export default {
     },
     "monster-kirin-characteristics": {
       "Key": "monster-kirin-characteristics",
-      "Translation": "Kirin จึงไม่ค่อยสายตาที่ไม่ค่อยมีใครรู้จักของระบบนิเวศของพวกเขา จะได้รับการกล่าวว่าพวกเขาห่อหุ้มตัวเองในการผลิตไฟฟ้าที่บริสุทธิ์เมื่อพวกเขาถูกยั่วยุ"
+      "Translation": "Kirin จึงไม่ค่อยสายตาที่ไม่ค่อยมีใครรู้จักของระบบนิเวศของพวกเขา มันถูกกล่าวว่าพวกเขาห่อหุ้มตัวเองในการผลิตไฟฟ้าที่บริสุทธิ์เมื่อพวกเขาถูกยั่วยุ"
     },
     "monster-kirin-useful-information": {
       "Key": "monster-kirin-useful-information",
-      "Translation": "ฟ้าผ่าเสื้อคลุม Kirin ตัวเองด้วยการได้รับการยืนยันแกร่งผิว กุญแจสำคัญในการล่าสัตว์ Kirin อยู่ในส่ายมันใช้อาวุธ Elderseal และปกป้องตัวเองจากการโจมตีและหลีกเลี่ยงสายฟ้าแลบ"
+      "Translation": "ฟ้าผ่า Kirin เสื้อคลุมตัวเองด้วยการได้รับการยืนยันแกร่งผิว กุญแจสำคัญในการล่าสัตว์ Kirin โกหกในส่ายมันใช้อาวุธ Elderseal และปกป้องตัวเองจากการโจมตีและหลีกเลี่ยงสายฟ้าแลบ"
     },
     "monster-kulu-ya-ku": {
       "Key": "monster-kulu-ya-ku",
@@ -8857,7 +8857,7 @@ export default {
     },
     "monster-kulu-ya-ku-characteristics": {
       "Key": "monster-kulu-ya-ku-characteristics",
-      "Translation": "Wyvern นกแปลกที่ได้มีการพัฒนาความสามารถในแขนขาสำหรับถืออาวุธ มันถูกพบขโมยไข่จากรังที่พบในป่าโบราณและ Wildspire เสีย"
+      "Translation": "Wyvern นกแปลกที่มีแขนขาที่พัฒนาความสามารถสำหรับการถืออาวุธ มันถูกพบขโมยไข่จากรังที่พบในป่าโบราณและ Wildspire เสีย"
     },
     "monster-kulu-ya-ku-useful-information": {
       "Key": "monster-kulu-ya-ku-useful-information",
@@ -8873,7 +8873,7 @@ export default {
     },
     "monster-kulve-taroth-useful-information": {
       "Key": "monster-kulve-taroth-useful-information",
-      "Translation": "การสอบสวนครบถ้วนสมบูรณ์เป็นสิ่งจำเป็นเพื่อที่จะทำลายชุบทองยักษ์ Kulve Taroth ของแตร ติดตามมอนสเตอร์ที่จะเรียนรู้เพิ่มเติมเกี่ยวกับมัน รวบรวมเพลงและรับสมัครนักล่าจะช่วยให้คุณต่อการสอบสวนของคุณ"
+      "Translation": "การสอบสวนครบถ้วนสมบูรณ์เป็นสิ่งจำเป็นเพื่อที่จะทำลาย Kulve Taroth ของชุบทองแตรยักษ์ ติดตามมอนสเตอร์ที่จะเรียนรู้เพิ่มเติมเกี่ยวกับมัน รวบรวมเพลงและรับสมัครนักล่าที่จะช่วยให้คุณต่อการสอบสวนของคุณ"
     },
     "monster-kushala-daora": {
       "Key": "monster-kushala-daora",
@@ -8881,7 +8881,7 @@ export default {
     },
     "monster-kushala-daora-characteristics": {
       "Key": "monster-kushala-daora-characteristics",
-      "Translation": "มังกรผู้สูงอายุที่ปกป้องตัวเองด้วยลมที่รุนแรงให้บุคคลอื่นเข้าใกล้มัน ผิวของมันประกอบด้วยยาก, เครื่องชั่งน้ำหนักโลหะ"
+      "Translation": "มังกรพี่ว่าโล่ตัวเองด้วยลมที่รุนแรงให้บุคคลอื่นเข้าใกล้มัน ผิวของมันประกอบด้วยยาก, เครื่องชั่งน้ำหนักโลหะ"
     },
     "monster-kushala-daora-useful-information": {
       "Key": "monster-kushala-daora-useful-information",
@@ -8909,7 +8909,7 @@ export default {
     },
     "monster-legiana-useful-information": {
       "Key": "monster-legiana-useful-information",
-      "Translation": "เมมเบรนที่ครอบคลุมทั้งร่างกายของมันช่วยให้ Legiana ที่จะย้ายไปอยู่กับความเร็วเหลือเชื่อ ทำลายเยื่อนี้ควรช่วยให้มีการชะลอตัวลง การโจมตีพิษนอกจากนี้ยังได้รับการรู้จักที่จะมีประสิทธิภาพ"
+      "Translation": "เมมเบรนที่ครอบคลุมทั้งร่างกายของมันช่วยให้ Legiana จะย้ายด้วยความเร็วอย่างไม่น่าเชื่อ ทำลายเยื่อนี้ควรช่วยให้มีการชะลอตัวลง การโจมตีพิษนอกจากนี้ยังได้รับการรู้จักที่จะมีประสิทธิภาพ"
     },
     "monster-leshen": {
       "Key": "monster-leshen",
@@ -8921,7 +8921,7 @@ export default {
     },
     "monster-leshen-useful-information": {
       "Key": "monster-leshen-useful-information",
-      "Translation": "Revoltures และควบคุมโดย Jagras leshen เป็นเรื่องยากที่จะเข้าใกล้ แต่ Igni ลงชื่อเข้าใช้เป็นประโยชน์อย่างมากในการปัดป้องรากเฆี่ยน leshen ของ"
+      "Translation": "Revoltures และ Jagras ควบคุมโดย leshen เป็นเรื่องยากที่จะวิธีการ แต่ Igni เข้าสู่ระบบเป็นประโยชน์อย่างมากในการปัดป้องรากเฆี่ยน leshen ของ"
     },
     "monster-lunastra": {
       "Key": "monster-lunastra",
@@ -8929,11 +8929,11 @@ export default {
     },
     "monster-lunastra-characteristics": {
       "Key": "monster-lunastra-characteristics",
-      "Translation": "หายากมังกรพี่หญิงว่าลูกครอกอากาศที่มีฝุ่นสีฟ้าร้อน รายงานของมันได้เดินทางไปพร้อมกับเพื่อนของเธอ Teostra ยังคงยืนยัน"
+      "Translation": "หายากพี่หญิงมังกรว่าลูกครอกอากาศที่มีฝุ่นสีฟ้าร้อน รายงานของมันได้เดินทางไปพร้อมกับเพื่อนของเธอ Teostra ยังคงยืนยัน"
     },
     "monster-lunastra-useful-information": {
       "Key": "monster-lunastra-useful-information",
-      "Translation": "อุณหภูมิของร่างกายสูงและฝุ่น Lunastra ของเพลียห่างสุขภาพเว้นแต่คุณจะใช้เครื่องดื่มเย็น ๆ ฝุ่นและเปลวไฟสีฟ้าระเบิดเมื่อมันเข้ามาติดต่อด้วยไฟเพื่อใช้ระเบิดหรือ Crystalburst"
+      "Translation": "อุณหภูมิของร่างกายสูง Lunastra และฝุ่นเพลียสุขภาพออกไปเว้นแต่คุณจะใช้เครื่องดื่มเย็น ๆ ฝุ่นและเปลวไฟสีฟ้าระเบิดเมื่อมันเข้ามาติดต่อด้วยไฟเพื่อใช้ระเบิดหรือ Crystalburst"
     },
     "monster-materials-commendation": {
       "Key": "monster-materials-commendation",
@@ -8973,7 +8973,7 @@ export default {
     },
     "monster-nergigante-useful-information": {
       "Key": "monster-nergigante-useful-information",
-      "Translation": "Nergigante สามารถกู้คืนจากบาดแผลเกือบจะทันที ส่วนของร่างกายสร้างใหม่เติบโตหนักตลอดเวลาดังนั้นโจมตีพวกเขาในขณะที่พวกเขายังคงสดเป็นกลยุทธ์ที่เหมาะ"
+      "Translation": "Nergigante สามารถกู้คืนจากบาดแผลเกือบจะทันที ส่วนของร่างกาย Regenerated เติบโตในช่วงเวลายากขึ้นดังนั้นโจมตีพวกเขาในขณะที่พวกเขายังคงสดเป็นกลยุทธ์ที่เหมาะ"
     },
     "monster-nightshade-paolumu": {
       "Key": "monster-nightshade-paolumu",
@@ -8985,7 +8985,7 @@ export default {
     },
     "monster-noios-useful-information": {
       "Key": "monster-noios-useful-information",
-      "Translation": "Wingdrakes ที่จะผลิตเสียงคล้ายกับโวยฝักเมื่อตกใจ ใช้เนื้อสัตว์ได้รับความสนใจของพวกเขาแล้วล่าพวกเขาสำหรับวัสดุหรือใช้พวกเขาเป็นขนส่ง"
+      "Translation": "Wingdrakes ที่จะผลิตเสียงคล้ายกับฝักโวยเมื่อตกใจ ใช้เนื้อสัตว์ได้รับความสนใจของพวกเขาแล้วพวกเขาล่าสำหรับวัสดุหรือใช้พวกเขาเป็นขนส่ง"
     },
     "monster-odogaron": {
       "Key": "monster-odogaron",
@@ -8993,11 +8993,11 @@ export default {
     },
     "monster-odogaron-characteristics": {
       "Key": "monster-odogaron-characteristics",
-      "Translation": "มอนสเตอร์ที่น่ากลัวที่ scours เน่า Vale ซากศพ ลักษณะก้าวร้าวสูงหมายความว่าอะไรไม่ว่าจะเป็นสัตว์ประหลาดหรือมนุษย์เป็นอาหารที่มีศักยภาพ"
+      "Translation": "มอนสเตอร์ที่น่ากลัวที่ scours เน่า Vale ซากศพ ธรรมชาติวิธีก้าวร้าวสูงว่าอะไรไม่ว่าจะเป็นสัตว์ประหลาดหรือมนุษย์เป็นอาหารที่มีศักยภาพ"
     },
     "monster-odogaron-useful-information": {
       "Key": "monster-odogaron-useful-information",
-      "Translation": "Odogaron ของกรงเล็บที่น่ารังเกียจทำให้เกิดเลือดออกหนักและควรหลีกเลี่ยงค่าใช้จ่ายทั้งหมด ใช้เนื้อสัตว์ที่จะล่อมันเข้าไปในกับดักซวนเซมันหรือบีบบังคับให้มันกลายเป็นวงจรอุบาทว์ของความโกรธยางมันออกมาและทำให้มันง่ายที่จะจัดการกับ"
+      "Translation": "Odogaron ของกรงเล็บที่น่ารังเกียจทำให้เกิดเลือดออกหนักและควรหลีกเลี่ยงค่าใช้จ่ายทั้งหมด เนื้อสัตว์ที่ใช้ในการล่อมันเข้าไปในกับดักซวนเซมันหรือบีบบังคับให้มันกลายเป็นวงจรอุบาทว์ของความโกรธยางมันออกมาและทำให้มันง่ายที่จะจัดการกับ"
     },
     "monster-paolumu": {
       "Key": "monster-paolumu",
@@ -9009,7 +9009,7 @@ export default {
     },
     "monster-paolumu-useful-information": {
       "Key": "monster-paolumu-useful-information",
-      "Translation": "Paolumu ไม่สามารถย้ายไปรอบ ๆ ได้อย่างอิสระเมื่อถุงลมที่มีกิ่ว จุดมุ่งหมายสำหรับชิ้นส่วนของร่างกายที่สูงเกินจริงหรือตั้งใจวาดออกโจมตีที่ใช้อากาศที่เก็บไว้จะได้รับบนมือ"
+      "Translation": "Paolumu ไม่สามารถย้ายไปรอบ ๆ ได้อย่างอิสระเมื่อถุงลมที่มีกิ่ว จุดมุ่งหมายสำหรับชิ้นส่วนของร่างกายที่สูงขึ้นหรือตั้งใจวาดออกโจมตีที่ใช้อากาศที่เก็บไว้จะได้รับบนมือ"
     },
     "monster-pink-rathian": {
       "Key": "monster-pink-rathian",
@@ -9017,7 +9017,7 @@ export default {
     },
     "monster-pink-rathian-characteristics": {
       "Key": "monster-pink-rathian-characteristics",
-      "Translation": "ช่ำชองด้วยเกล็ดสีชมพูสดใส Rathians สีชมพูควงหางพิษของพวกเขามากขึ้นกว่าปกติช่ำชอง Rathians ลดลงเหยื่อยาพิษก่อนที่จะย้ายในการฆ่า"
+      "Translation": "ช่ำชองด้วยเกล็ดสีชมพูสดใส สีชมพู Rathians ควงหางพิษของพวกเขามากขึ้นช่ำชองกว่า Rathians ปกติลดลงเหยื่อยาพิษก่อนที่จะย้ายในการฆ่า"
     },
     "monster-pink-rathian-useful-information": {
       "Key": "monster-pink-rathian-useful-information",
@@ -9033,7 +9033,7 @@ export default {
     },
     "monster-pukei-pukei-useful-information": {
       "Key": "monster-pukei-pukei-useful-information",
-      "Translation": "รายงานการสังเกตการณ์ระบุว่าจะมอนสเตอร์ Pukei-Pukei พาลอ่อนแอ แต่ตกใจก่อนที่จะใหญ่กว่ามอนสเตอร์ที่แข็งแกร่ง มันมีแนวโน้มที่จะถอยที่สัญญาณแรกของอันตรายเพื่อใช้ว่าเพื่อประโยชน์ของคุณ"
+      "Translation": "รายงานระบุว่าการสังเกต Pukei-Pukei จะพาลมอนสเตอร์ที่ปรับตัวลดลง แต่ cower ก่อนที่ใหญ่กว่ามอนสเตอร์ที่แข็งแกร่ง มันมีแนวโน้มที่จะถอยที่สัญญาณแรกของอันตรายเพื่อการใช้งานที่เพื่อประโยชน์ของคุณ"
     },
     "monster-radobaan": {
       "Key": "monster-radobaan",
@@ -9041,7 +9041,7 @@ export default {
     },
     "monster-radobaan-characteristics": {
       "Key": "monster-radobaan-characteristics",
-      "Translation": "Wyvern เดรัจฉานขนาดยักษ์ที่กินกระดูกของซากที่พบในหุบเขาเน่าโดยใช้บางส่วนของเกราะ นอกจากนี้ยังม้วนเป็นลูกเป็นรูปแบบของการโจมตีและการขนส่ง"
+      "Translation": "Wyvern เดรัจฉานขนาดยักษ์ที่กินกระดูกของซากที่พบในเน่าหุบเขาใช้บางส่วนของเกราะ นอกจากนี้ยังม้วนเป็นลูกเป็นรูปแบบของการโจมตีและการขนส่ง"
     },
     "monster-radobaan-useful-information": {
       "Key": "monster-radobaan-useful-information",
@@ -9081,7 +9081,7 @@ export default {
     },
     "monster-rathian-useful-information": {
       "Key": "monster-rathian-useful-information",
-      "Translation": "มาเตรียมเกราะทนไฟและเพศโจมตีพิษของตนโดยการตัดหางของมัน ระวังเมื่อขโมยไข่จากรังของมันสำหรับระเฑียรจะไล่ขโมยไข่การสิ้นสุดของโลกใหม่"
+      "Translation": "มาพร้อมกับชุดเกราะทนไฟและเพศโจมตีพิษของตนโดยการตัดหางของมัน ระวังเมื่อขโมยไข่จากรังของมันสำหรับระเฑียรจะไล่ขโมยไข่การสิ้นสุดของโลกใหม่"
     },
     "monster-ruiner-nergigante": {
       "Key": "monster-ruiner-nergigante",
@@ -9125,11 +9125,11 @@ export default {
     },
     "monster-teostra-characteristics": {
       "Key": "monster-teostra-characteristics",
-      "Translation": "มังกรพี่โหด wreathed ในเปลวไฟที่พ่นไฟที่ลุกโชติช่วง Teostra เป็นเช่นธรรมชาติที่รุนแรงและร้ายแรงที่สมาคมอย่างใกล้ชิดตรวจสอบการเคลื่อนไหวของพวกเขา"
+      "Translation": "มังกรพี่โหด wreathed ในเปลวไฟที่พ่นไฟที่ลุกโชติช่วง Teostra มีความรุนแรงดังกล่าวและธรรมชาติร้ายแรงที่สมาคมอย่างใกล้ชิดตรวจสอบการเคลื่อนไหวของพวกเขา"
     },
     "monster-teostra-useful-information": {
       "Key": "monster-teostra-useful-information",
-      "Translation": "ฝัด Teostra ฝุ่นขนาดสีดำจะแผ่กระจายไปทั่วเป็นบริเวณกว้างจนในที่สุดมันก็จะระเบิด เก็บตาบนที่เช่นเดียวกับเปลวไฟมันบางครั้งโล่ตัวเองในและมุ่งมั่นที่จะซวนเซมันด้วยอาวุธที่มีความสามารถในการ Elderseal"
+      "Translation": "ฝุ่นละอองขนาดสีดำสหภาพแรงงาน Teostra จะแผ่กระจายไปทั่วเป็นบริเวณกว้างจนในที่สุดมันก็ระเบิด เก็บตาบนที่เช่นเดียวกับเปลวไฟมันบางครั้งโล่ตัวเองในและมุ่งมั่นที่จะซวนเซมันด้วยอาวุธที่มีความสามารถในการ Elderseal"
     },
     "monster-tigrex": {
       "Key": "monster-tigrex",
@@ -9141,7 +9141,7 @@ export default {
     },
     "monster-tobi-kadachi-characteristics": {
       "Key": "monster-tobi-kadachi-characteristics",
-      "Translation": "Wyvern เขี้ยวที่บินท่ามกลางต้นไม้ของ Forst โบราณ ชอบใช้แปรงกับพื้นดินและต้นไม้ขณะที่มันเคลื่อนไปรอบ ๆ สร้างขึ้นภายในไฟฟ้าสถิตขน"
+      "Translation": "เขี้ยว Wyvern ว่าแมลงวันท่ามกลางต้นไม้ของ Forst โบราณ ชอบใช้แปรงกับพื้นดินและต้นไม้ขณะที่มันเคลื่อนไปรอบ ๆ สร้างขึ้นภายในไฟฟ้าสถิตขน"
     },
     "monster-tobi-kadachi-useful-information": {
       "Key": "monster-tobi-kadachi-useful-information",
@@ -9153,7 +9153,7 @@ export default {
     },
     "monster-tzitzi-ya-ku-characteristics": {
       "Key": "monster-tzitzi-ya-ku-characteristics",
-      "Translation": "นี้แปลกผ้าม่านมอนสเตอร์ทั้งเหยื่อและศัตรูด้วยการเต้นอวัยวะพิเศษที่อยู่ใกล้กับหัวของมัน จากนั้นใช้ขาแข็งแรงในการส่งมอบพัดจบ"
+      "Translation": "มอนสเตอร์ที่แปลกนี้ผ้าม่านทั้งเหยื่อและศัตรูด้วยการเต้นอวัยวะพิเศษที่อยู่ใกล้กับหัวของมัน จากนั้นใช้ขาแข็งแรงในการส่งมอบพัดตกแต่ง"
     },
     "monster-tzitzi-ya-ku-useful-information": {
       "Key": "monster-tzitzi-ya-ku-useful-information",
@@ -9165,7 +9165,7 @@ export default {
     },
     "monster-uragaan-characteristics": {
       "Key": "monster-uragaan-characteristics",
-      "Translation": "wyverns เดรัจฉานขนาดใหญ่ที่กินแร่โดยใช้ขากรรไกรอันยิ่งใหญ่ของพวกเขาที่จะวิ่งหินแข็งผง พวกเขาได้รับการรู้จักที่จะเผชิญหน้ากับ Lavasioths ข้อพิพาทดินแดน"
+      "Translation": "เดรัจฉานขนาดใหญ่ Wyverns ฟีดแร่ที่ใช้ขากรรไกรอันยิ่งใหญ่ของพวกเขาที่จะวิ่งหินแข็งผง พวกเขาได้รับทราบเพื่อ Lavasioths เผชิญหน้ากับข้อพิพาทดินแดน"
     },
     "monster-uragaan-useful-information": {
       "Key": "monster-uragaan-useful-information",
@@ -9177,11 +9177,11 @@ export default {
     },
     "monster-vaal-hazak-characteristics": {
       "Key": "monster-vaal-hazak-characteristics",
-      "Translation": "มังกรพิลึกสูงอายุที่อาศัยอยู่ในส่วนที่ลึกที่สุดของเน่าร์ทเวล มันใช้ไอร้ายแรงของหุบเขาในสิ่งที่ดูเหมือนจะเป็นความสัมพันธ์ทางชีวภาพ"
+      "Translation": "มังกรพิลึกสูงอายุที่อาศัยอยู่ส่วนที่ลึกที่สุดของเน่าร์ทเวล มันใช้ไอร้ายแรงของหุบเขาในสิ่งที่ดูเหมือนจะเป็นความสัมพันธ์ทางชีวภาพ"
     },
     "monster-vaal-hazak-useful-information": {
       "Key": "monster-vaal-hazak-useful-information",
-      "Translation": "เมื่อคุณกลายเป็นปนเปื้อนสูดดมไอของสาเหตุของสุขภาพของคุณเองเพื่อระบาย หัวสำหรับพื้นที่ที่ไอเป็นบางและถ้าคุณจะได้รับการปนเปื้อนทำดีที่สุดของคุณเพื่อกำจัดมัน"
+      "Translation": "เมื่อคุณกลายเป็นปนเปื้อนสูดดมไอของสาเหตุที่ทำให้สุขภาพของคุณเองเพื่อระบายน้ำ หัวสำหรับพื้นที่ที่ไอเป็นบางและถ้าคุณไม่ได้รับการปนเปื้อนทำดีที่สุดของคุณเพื่อกำจัดมัน"
     },
     "monster-velkhana": {
       "Key": "monster-velkhana",
@@ -9233,7 +9233,7 @@ export default {
     },
     "play-guide-accepting-guild-cards-description": {
       "Key": "play-guide-accepting-guild-cards-description",
-      "Translation": "คุณ cn ยอมรับการ์ด Guild คุณได้รับโดยการเลือกกิลด์การ์ดจากเมนูเริ่มต้น โปรดทราบว่าคุณสามารถถือได้ถึงยี่สิบไม่ยอมรับบัตรสมาคม"
+      "Translation": "คุณ CN ยอมรับสมาคมการ์ดที่คุณได้รับโดยการเลือกกิลด์การ์ดจากเมนูเริ่มต้น โปรดทราบว่าคุณสามารถถือได้ถึงยี่สิบไม่ยอมรับบัตรสมาคม"
     },
     "play-guide-actions-with-weapon-drawn": {
       "Key": "play-guide-actions-with-weapon-drawn",
@@ -9241,7 +9241,7 @@ export default {
     },
     "play-guide-actions-with-weapon-drawn-description": {
       "Key": "play-guide-actions-with-weapon-drawn-description",
-      "Translation": "ถ้าคุณใช้ดาบและโล่คุณยังสามารถใช้รายการหรือเสิร์ฟคุณในขณะที่อาวุธของคุณจะถูกวาด ใช้รายการ: กด R2 หรือ L2 และกดสแควร์ Slinger: กด L2 และกด R2"
+      "Translation": "ถ้าคุณใช้ดาบและโล่คุณยังสามารถใช้รายการหรือเสิร์ฟคุณในขณะที่อาวุธของคุณจะถูกวาด การใช้งานรายการ: กด R2 หรือ L2 และกดสแควร์ Slinger: กด L2 และกด R2"
     },
     "play-guide-advanced-performance-techniques": {
       "Key": "play-guide-advanced-performance-techniques",
@@ -9249,7 +9249,7 @@ export default {
     },
     "play-guide-advanced-performance-techniques-description": {
       "Key": "play-guide-advanced-performance-techniques-description",
-      "Translation": "คุณสามารถดำเนินการท่วงทำนองการเก็บรักษาของคุณในการสั่งซื้อโดยการกด R2 นอกจากนี้คุณยังสามารถกดปุ่ม R2 + โจมตีอีกครั้งในเวลาเดียวกันที่จะเริ่มต้นผลงานของคุณจากทำนองเพลงที่สองหรือที่สามการเก็บรักษา"
+      "Translation": "คุณสามารถดำเนินการท่วงทำนองการเก็บรักษาของคุณในการสั่งซื้อโดยการกด R2 คุณยังสามารถกดปุ่ม R2 + โจมตีอีกครั้งในเวลาเดียวกันที่จะเริ่มต้นผลงานของคุณจากทำนองเพลงในสต็อกที่สองหรือสาม"
     },
     "play-guide-advancing-slash": {
       "Key": "play-guide-advancing-slash",
@@ -9265,7 +9265,7 @@ export default {
     },
     "play-guide-amped-state-description": {
       "Key": "play-guide-amped-state-description",
-      "Translation": "ที่ดินเพียงพอในการโจมตีมอนสเตอร์ขณะที่อยู่ในโหมดดาบป้อนรัฐกระมังซึ่งจะเป็นการเพิ่มพลังโจมตีของคุณ จำนวนครั้งที่ใช้ในการเข้าสู่รัฐกระมังขึ้นอยู่กับชนิดของสวิทช์ขวานขวด"
+      "Translation": "ที่ดินเพียงพอในการโจมตีมอนสเตอร์ในขณะที่ในโหมดดาบป้อนรัฐกระมังซึ่งจะเป็นการเพิ่มพลังโจมตีของคุณ จำนวนครั้งที่ใช้ในการเข้าสู่รัฐกระมังขึ้นอยู่กับชนิดของสวิทช์ขวานขวด"
     },
     "play-guide-archdemon-mode": {
       "Key": "play-guide-archdemon-mode",
@@ -9329,7 +9329,7 @@ export default {
     },
     "play-guide-bounty-rewards-description": {
       "Key": "play-guide-bounty-rewards-description",
-      "Translation": "เมื่อคุณเสร็จสิ้น Bouty คุณสามารถเยี่ยมชมศูนย์วิทยบริการในการเก็บรวบรวมผลตอบแทนซึ่งมักจะทรงกลมเกราะและจุดการวิจัย"
+      "Translation": "เมื่อคุณเสร็จสิ้น Bouty คุณสามารถเยี่ยมชมศูนย์วิทยบริการในการเก็บรวบรวมผลตอบแทนซึ่งมักจะมีเกราะทรงกลมและจุดการวิจัย"
     },
     "play-guide-bounty-updates": {
       "Key": "play-guide-bounty-updates",
@@ -9337,7 +9337,7 @@ export default {
     },
     "play-guide-bounty-updates-description": {
       "Key": "play-guide-bounty-updates-description",
-      "Translation": "รายการโปรดปรานจดทะเบียนที่มีการปรับปรุง whenevr คุณกลับจากการแสวงหาหรือการเดินทาง เมื่อคุณลงทะเบียนโปรดปรานคุณสามารถตรวจสอบรายละเอียดของพวกเขาจากเมนูเริ่มต้น"
+      "Translation": "รายการโปรดปรานจดทะเบียนที่มีการปรับปรุง whenevr คุณกลับจากการแสวงหาหรือการเดินทาง เมื่อคุณมีโปรดปรานที่ลงทะเบียนคุณสามารถตรวจสอบรายละเอียดของพวกเขาจากเมนูเริ่มต้น"
     },
     "play-guide-bow": {
       "Key": "play-guide-bow",
@@ -9357,23 +9357,23 @@ export default {
     },
     "play-guide-bowgun-description": {
       "Key": "play-guide-bowgun-description",
-      "Translation": "Bowgun สามารถนำมาใช้ในการโจมตีมอนสเตอร์จากระยะไกล มีสองประเภทของ Bowgun คือ: Bowgun หนักซึ่งสามารถใช้กระสุนที่มีประสิทธิภาพและ Bowgun แสงซึ่งจะช่วยให้คล่องตัวมากขึ้นและความสามารถในการหลบหลีกและการถ่ายภาพได้เร็วขึ้น"
+      "Translation": "Bowgun สามารถนำมาใช้ในการโจมตีมอนสเตอร์จากระยะไกล Bowgun หนักซึ่งสามารถใช้กระสุนที่มีประสิทธิภาพและ Bowgun แสงซึ่งช่วยให้คล่องตัวมากขึ้นและความสามารถในการถ่ายภาพเป็นข้อแก้ตัวได้เร็วขึ้นและมีสองประเภท Bowgun มี"
     },
     "play-guide-breaking-monster-parts": {
       "Key": "play-guide-breaking-monster-parts",
-      "Translation": "ทำลายชิ้นส่วนมอนสเตอร์"
+      "Translation": "อะไหล่มอนสเตอร์ทำลาย"
     },
     "play-guide-breaking-monster-parts-description": {
       "Key": "play-guide-breaking-monster-parts-description",
-      "Translation": "มุ่งเน้นไปที่การโจมตีของคุณในส่วนของร่างกายโดยเฉพาะอาจทำลายพวกเขาลดลงมอนสเตอร์และบางครั้งการ จำกัด การเคลื่อนไหวหรือการโจมตีของมัน นอกจากนี้ยังมีวัสดุที่สามารถนำมาได้เพียงจากการทำลายบางส่วน"
+      "Translation": "มุ่งเน้นไปที่การโจมตีของคุณในส่วนของร่างกายโดยเฉพาะอาจทำลายพวกเขาลดลงมอนสเตอร์และบางครั้งการ จำกัด การเคลื่อนไหวหรือการโจมตีของมัน นอกจากนี้ยังมีวัสดุที่สามารถนำมาได้เพียงบางส่วนจากการทำลาย"
     },
     "play-guide-breaking-parts": {
       "Key": "play-guide-breaking-parts",
-      "Translation": "อะไหล่หมด"
+      "Translation": "ทำลายอะไหล่"
     },
     "play-guide-breaking-parts-description": {
       "Key": "play-guide-breaking-parts-description",
-      "Translation": "ทำลายชิ้นส่วนปิดขนาดใหญ่สามารถเปิดการต่อสู้เพื่อความโปรดปรานของคุณ คุณอาจจะสามารถเปลี่ยนหลักสูตรหรือการโจมตีของเขาอาจจะกลายเป็นปรับตัวลดลงครั้งเดียวบางส่วนจะแตก"
+      "Translation": "ทำลายชิ้นส่วนออกขนาดใหญ่สามารถเปิดการต่อสู้เพื่อความโปรดปรานของคุณ คุณอาจจะสามารถเปลี่ยนหลักสูตรหรือการโจมตีของเขาอาจจะกลายเป็นปรับตัวลดลงครั้งเดียวบางส่วนจะแตก"
     },
     "play-guide-brightmoss": {
       "Key": "play-guide-brightmoss",
@@ -9405,11 +9405,11 @@ export default {
     },
     "play-guide-camera-types-description": {
       "Key": "play-guide-camera-types-description",
-      "Translation": "คุณสามารถเลือกระหว่างชนิดของกล้องในตัวเลือก โฟกัส: คงที่เสมอไปยังเป้าหมาย เป้าหมาย: การแก้ไขไปยังเป้าหมายเมื่อคุณกดปุ่ม"
+      "Translation": "คุณสามารถเลือกระหว่างชนิดของกล้องในตัวเลือก โฟกัส: เสมอจับจ้องไปที่เป้าหมาย เป้าหมาย: การแก้ไขไปยังเป้าหมายเมื่อคุณกดปุ่ม"
     },
     "play-guide-carrier-ants": {
       "Key": "play-guide-carrier-ants",
-      "Translation": "มด Carrier"
+      "Translation": "Carrier มด"
     },
     "play-guide-carrier-ants-description": {
       "Key": "play-guide-carrier-ants-description",
@@ -9421,7 +9421,7 @@ export default {
     },
     "play-guide-carving-materials-description": {
       "Key": "play-guide-carving-materials-description",
-      "Translation": "ฆ่ามอนสเตอร์ที่ช่วยให้คุณสามารถที่จะแกะสลักวัสดุจากซากของมัน คุณสามารถใช้วัสดุเหล่านี้ที่หล่อในการปลอมหรืออัพเกรดอาวุธและชุดเกราะ"
+      "Translation": "ฆ่ามอนสเตอร์ที่ช่วยให้คุณสามารถวัสดุแกะสลักจากซากของมัน คุณสามารถใช้วัสดุเหล่านี้ที่หล่อในการปลอมหรืออัพเกรดอาวุธและชุดเกราะ"
     },
     "play-guide-challenge-quest-records": {
       "Key": "play-guide-challenge-quest-records",
@@ -9437,7 +9437,7 @@ export default {
     },
     "play-guide-charge-blade-description": {
       "Key": "play-guide-charge-blade-description",
-      "Translation": "โหมดดาบภูมิใจนำเสนอความคล่องตัวและความสามารถในยามสูงในขณะที่โหมดขวานภูมิใจนำเสนอการโจมตีมีประสิทธิภาพมากขึ้น เก็บได้ถึงพลังงานขณะอยู่ในโหมดดาบแล้วใช้มันเพื่อสร้างความเสียหายสูงในโหมดขวาน"
+      "Translation": "โหมดดาบภูมิใจนำเสนอความคล่องตัวและความสามารถในยามสูงในขณะที่โหมดขวานภูมิใจโจมตีที่มีประสิทธิภาพมากขึ้น เก็บได้ถึงพลังงานขณะอยู่ในโหมดดาบแล้วใช้มันเพื่อสร้างความเสียหายสูงในโหมดขวาน"
     },
     "play-guide-charge-blade-tips": {
       "Key": "play-guide-charge-blade-tips",
@@ -9449,7 +9449,7 @@ export default {
     },
     "play-guide-charged-shots-description": {
       "Key": "play-guide-charged-shots-description",
-      "Translation": "โบว์อยู่ที่มีประสิทธิภาพมากที่สุดของพวกเขาเมื่อคุณเรียกเก็บลูกศรขึ้นก่อนที่จะยิงพวกเขา คุณสามารถถ่ายภาพที่เรียกเก็บโดยการกดปุ่มไฟหรือโดยการยิงลูกศรในการทดแทนอย่างรวดเร็ว"
+      "Translation": "โบว์อยู่ที่มีประสิทธิภาพมากที่สุดของพวกเขาเมื่อคุณเรียกเก็บลูกศรขึ้นก่อนที่จะยิงพวกเขา คุณสามารถถ่ายภาพที่เรียกเก็บภาพได้โดยการกดปุ่มไฟหรือโดยการยิงลูกศรในการทดแทนอย่างรวดเร็ว"
     },
     "play-guide-charged-slash": {
       "Key": "play-guide-charged-slash",
@@ -9481,15 +9481,15 @@ export default {
     },
     "play-guide-charybdis-description": {
       "Key": "play-guide-charybdis-description",
-      "Translation": "ชาริบดิสเรียกพายุทอร์นาโดที่เป็นนักล่าที่กำหนดเป้าหมายยืนอยู่และอยู่ในพื้นที่มานานระยะเวลาหนึ่ง หากคุณมีการกำหนดเป้าหมายให้ย้ายไปยังพื้นที่ที่มันจะไม่เป็นอุปสรรคต่อการล่าของคุณ"
+      "Translation": "ชาริบดิสหมายเรียกพายุทอร์นาโดที่เป็นนักล่าที่กำหนดเป้าหมายคือการยืนและการเข้าพักในพื้นที่สำหรับช่วงระยะเวลาหนึ่ง หากคุณมีการกำหนดเป้าหมายให้ย้ายไปยังพื้นที่ที่มันจะไม่เป็นอุปสรรคต่อการล่าของคุณ"
     },
     "play-guide-chat": {
       "Key": "play-guide-chat",
-      "Translation": "พูดคุย"
+      "Translation": "การพูดคุย"
     },
     "play-guide-chat-description": {
       "Key": "play-guide-chat-description",
-      "Translation": "ค้าง Trackpad ใช้คุณลักษณะการแชท"
+      "Translation": "ค้าง Trackpad ที่จะใช้คุณลักษณะการแชท"
     },
     "play-guide-collecting-safari-rewards": {
       "Key": "play-guide-collecting-safari-rewards",
@@ -9497,7 +9497,7 @@ export default {
     },
     "play-guide-collecting-safari-rewards-description": {
       "Key": "play-guide-collecting-safari-rewards-description",
-      "Translation": "Tailraider Safaris ใช้เวลาที่จะเสร็จสมบูรณ์ดังนั้นคุณจะต้องดำเนินการใน questes หรือการเดินทางในขณะที่พวกเขากำลังสัตย์ซื่อ นอกจากนี้คุณยังสามารถเก็บผลตอบแทนในขณะที่ซาฟารียังคงต่อเนื่องหรือยกเลิกอย่างต่อเนื่องซาฟารี"
+      "Translation": "Tailraider Safaris ใช้เวลาในการเสร็จสมบูรณ์ดังนั้นคุณจะต้องดำเนินการใน questes หรือการเดินทางในขณะที่พวกเขากำลังสัตย์ซื่อ คุณสามารถตอบแทนยังเก็บในขณะที่ซาฟารียังคงต่อเนื่องหรือยกเลิกอย่างต่อเนื่องซาฟารี"
     },
     "play-guide-critical-range": {
       "Key": "play-guide-critical-range",
@@ -9505,7 +9505,7 @@ export default {
     },
     "play-guide-critical-range-description": {
       "Key": "play-guide-critical-range-description",
-      "Translation": "อยู่ระหว่างการโจมตีด้วยอาวุธมีช่วงที่สำคัญซึ่งเป็นระยะทางที่โจมตีข้อตกลงความเสียหายมากที่สุด มันเป็นสิ่งสำคัญที่จะทดสอบกับกระสุนที่แตกต่างกันและลูกศรในการกำหนดประเภทช่วงที่สำคัญของพวกเขาในการที่จะสร้างความเสียหายมากที่สุดเท่าที่เป็นไปได้"
+      "Translation": "อยู่ระหว่างการโจมตีด้วยอาวุธมีช่วงที่สำคัญซึ่งเป็นระยะทางที่โจมตีข้อตกลงความเสียหายมากที่สุด มันเป็นสิ่งสำคัญที่จะทดสอบกับกระสุนที่แตกต่างกันและลูกศรในการกำหนดประเภทช่วงที่สำคัญของพวกเขาเพื่อการจัดการความเสียหายมากที่สุดเท่าที่เป็นไปได้"
     },
     "play-guide-crouching-and-camouflage": {
       "Key": "play-guide-crouching-and-camouflage",
@@ -9513,7 +9513,7 @@ export default {
     },
     "play-guide-crouching-and-camouflage-description": {
       "Key": "play-guide-crouching-and-camouflage-description",
-      "Translation": "กดปุ่มหลบในขณะที่ยืนยังคงหมอบคลาน Crouching ในทุนแปรงคุณอำพรางเพื่อให้คุณสามารถซ่อนตัวจากมอนสเตอร์"
+      "Translation": "กดปุ่มหลบในขณะที่ยืนยังคงหมอบ Crouching ในแปรงให้สิทธิ์แก่คุณอำพรางเพื่อให้คุณสามารถซ่อนตัวจากมอนสเตอร์"
     },
     "play-guide-cultivating-items": {
       "Key": "play-guide-cultivating-items",
@@ -9521,7 +9521,7 @@ export default {
     },
     "play-guide-cultivating-items-description": {
       "Key": "play-guide-cultivating-items-description",
-      "Translation": "ที่ศูนย์วิจัยพฤกษศาสตร์คุณสามารถมอบรายการเช่นพืชเชื้อรา, โรคจิต, น้ำผึ้งและอื่น ๆ เพื่อปลูกฝังมากขึ้นของชนิดเดียวกันของรายการ แต่ละรายการจะเป็นจำนวนเงินที่กำหนดเวลาการเพาะปลูกก่อนที่มันจะสามารถเก็บเกี่ยวได้"
+      "Translation": "ที่ศูนย์วิจัยพฤกษศาสตร์คุณสามารถมอบรายการเช่นพืชเชื้อรา, โรคจิต, น้ำผึ้งและอื่น ๆ เพื่อปลูกฝังมากขึ้นของชนิดเดียวกันของรายการ แต่ละรายการจะเป็นจำนวนเงินที่กำหนดของเวลาในการเพาะปลูกก่อนที่มันจะสามารถเก็บเกี่ยวได้"
     },
     "play-guide-customizing-your-bowgun": {
       "Key": "play-guide-customizing-your-bowgun",
@@ -9529,7 +9529,7 @@ export default {
     },
     "play-guide-customizing-your-bowgun-description": {
       "Key": "play-guide-customizing-your-bowgun-description",
-      "Translation": "Bowguns สามารถใช้ mods ที่กำหนดเองเพื่อเปิดใช้งานการปิดกั้นอัตโนมัติลดระยะเวลาการโหลดและอื่น ๆ คุณยังสามารถจัดให้เหมือนกันพอควรหลายครั้งในการปรับปรุงผลกระทบของมัน"
+      "Translation": "Bowguns สามารถใช้ mods ที่กำหนดเองเพื่อเปิดใช้งานการปิดกั้นอัตโนมัติเวลาโหลดสั้นลงและอื่น ๆ คุณยังสามารถจัดให้เหมือนกันพอควรหลายครั้งในการปรับปรุงผลกระทบของมัน"
     },
     "play-guide-damage-reduction": {
       "Key": "play-guide-damage-reduction",
@@ -9561,7 +9561,7 @@ export default {
     },
     "play-guide-demon-dodge-description": {
       "Key": "play-guide-demon-dodge-description",
-      "Translation": "คุณสามารถดำเนินการกลางหาวปั่น Blade เต้นรำหลังจากกระโดดลงมาจากหิ้งกับปีศาจดอดจ์"
+      "Translation": "คุณสามารถดำเนินการกลางหาวปั่น Blade เต้นรำหลังจากกระโดดออกหิ้งกับปีศาจหลบ"
     },
     "play-guide-deploying-tailraider-safaris": {
       "Key": "play-guide-deploying-tailraider-safaris",
@@ -9569,7 +9569,7 @@ export default {
     },
     "play-guide-deploying-tailraider-safaris-description": {
       "Key": "play-guide-deploying-tailraider-safaris-description",
-      "Translation": "คุณสามารถปรับใช้ Tailraiders และ Palicoes ผู้เล่นอื่นในซาฟารีเดินทางที่พวกเขาจะได้รวบรวมรายการและวัสดุและปลดล็อคการตรวจสอบสำหรับคุณ Safaris จุดวิจัยค่าใช้จ่ายในการปรับใช้"
+      "Translation": "คุณสามารถปรับใช้ Tailraiders และผู้เล่นอื่น Palicoes บนซาฟารีเดินทางที่พวกเขาจะได้รวบรวมรายการและวัสดุและการตรวจสอบการปลดล็อคสำหรับคุณ Safaris จุดวิจัยค่าใช้จ่ายในการปรับใช้"
     },
     "play-guide-deployment-routes": {
       "Key": "play-guide-deployment-routes",
@@ -9577,7 +9577,7 @@ export default {
     },
     "play-guide-deployment-routes-description": {
       "Key": "play-guide-deployment-routes-description",
-      "Translation": "เมื่อเลือกเส้นทางสำหรับซาฟารี Tailraider ของคุณคุณอาจเห็นบางเส้นทางที่มีเครื่องหมายสัญลักษณ์เพิ่มเติม เส้นทางเหล่านี้มีโอกาสสูงในการผลตอบแทนที่ดีกว่า"
+      "Translation": "เมื่อเลือกเส้นทางสำหรับ Tailraider ซาฟารีของคุณคุณอาจเห็นบางเส้นทางที่มีเครื่องหมายสัญลักษณ์เพิ่มเติม เส้นทางเหล่านี้มีโอกาสสูงในการผลตอบแทนที่ดีกว่า"
     },
     "play-guide-dragon-pods": {
       "Key": "play-guide-dragon-pods",
@@ -9605,7 +9605,7 @@ export default {
     },
     "play-guide-dual-blades-description": {
       "Key": "play-guide-dual-blades-description",
-      "Translation": "ใช้ใบมีดคู่ที่จะปล่อยลมกรดของการโจมตีคำสั่งผสมบนศัตรูของคุณ แม้ว่าพวกเขาจะมีน้ำหนักเบาและค่อนข้างง่ายที่จะใช้พวกเขาไม่สามารถนำมาใช้ในการป้องกัน"
+      "Translation": "ใช้ใบมีดคู่ที่จะปล่อยลมกรดของการโจมตีคำสั่งผสมบนศัตรูของคุณ แม้ว่าพวกเขากำลังมีน้ำหนักเบาและความง่ายในการใช้งานพวกเขาไม่สามารถนำมาใช้ในยาม"
     },
     "play-guide-dung-pods": {
       "Key": "play-guide-dung-pods",
@@ -9613,7 +9613,7 @@ export default {
     },
     "play-guide-dung-pods-description": {
       "Key": "play-guide-dung-pods-description",
-      "Translation": "Dung ฝักผลิตกลิ่นเหม็นดังนั้นเลวทรามที่จะทำให้มอนสเตอร์ที่จะหนีออกจากพื้นที่ คุณสามารถฝีมือ Dung ฝักโดยการรวบรวมมูลสัตว์ประหลาดที่คุณสามารถหาออกไปที่สนาม"
+      "Translation": "Dung ฝักผลิตกลิ่นเหม็นเพื่อให้เลวทรามที่จะทำให้มอนสเตอร์ที่จะหนีออกจากพื้นที่ คุณสามารถฝีมือ Dung ฝักโดยการรวบรวมมูลสัตว์ประหลาดที่คุณสามารถหาออกไปที่สนาม"
     },
     "play-guide-eating-meals-at-the-canteen": {
       "Key": "play-guide-eating-meals-at-the-canteen",
@@ -9625,7 +9625,7 @@ export default {
     },
     "play-guide-ecological-research": {
       "Key": "play-guide-ecological-research",
-      "Translation": "การวิจัยเชิงนิเวศน์"
+      "Translation": "นิเวศวิทยาวิจัย"
     },
     "play-guide-ecological-research-description": {
       "Key": "play-guide-ecological-research-description",
@@ -9637,7 +9637,7 @@ export default {
     },
     "play-guide-elder-dragons-description": {
       "Key": "play-guide-elder-dragons-description",
-      "Translation": "มังกรพี่เป็นมอนสเตอร์ที่อยู่ห่างไกลจากต้นไม้ที่เป็นที่รู้จักของชีวิต ลักษณะที่ดีของมังกรพี่ก็เพียงพอที่จะทำให้เกิดปรากฏการณ์ทางธรรมชาติและภัยพิบัติ มากยังไม่ทราบเกี่ยวกับพวกเขา"
+      "Translation": "มังกรพี่เป็นมอนสเตอร์ที่อยู่ห่างไกลจากต้นไม้ที่เป็นที่รู้จักของชีวิต ลักษณะที่ดีของมังกรพี่ก็เพียงพอที่จะทำให้เกิดปรากฏการณ์ทางธรรมชาติและภัยพิบัติ มากยังคงไม่ทราบเกี่ยวกับพวกเขา"
     },
     "play-guide-elemental-resistances": {
       "Key": "play-guide-elemental-resistances",
@@ -9649,7 +9649,7 @@ export default {
     },
     "play-guide-elemental-swords": {
       "Key": "play-guide-elemental-swords",
-      "Translation": "ดาบธาตุ"
+      "Translation": "ธาตุดาบ"
     },
     "play-guide-elemental-swords-description": {
       "Key": "play-guide-elemental-swords-description",
@@ -9665,7 +9665,7 @@ export default {
     },
     "play-guide-endemic-life-researcher": {
       "Key": "play-guide-endemic-life-researcher",
-      "Translation": "นักวิจัยชีวิตถิ่น"
+      "Translation": "นักวิจัยพืชถิ่นเดียวของชีวิต"
     },
     "play-guide-endemic-life-researcher-description": {
       "Key": "play-guide-endemic-life-researcher-description",
@@ -9673,7 +9673,7 @@ export default {
     },
     "play-guide-endemic-life-tips": {
       "Key": "play-guide-endemic-life-tips",
-      "Translation": "เคล็ดลับชีวิตถิ่น"
+      "Translation": "ถิ่นเคล็ดลับชีวิต"
     },
     "play-guide-endemic-pets": {
       "Key": "play-guide-endemic-pets",
@@ -9685,7 +9685,7 @@ export default {
     },
     "play-guide-equipment-slots": {
       "Key": "play-guide-equipment-slots",
-      "Translation": "สล็อตอุปกรณ์"
+      "Translation": "อุปกรณ์เครื่องหยอดเหรียญ"
     },
     "play-guide-equipment-slots-description": {
       "Key": "play-guide-equipment-slots-description",
@@ -9709,7 +9709,7 @@ export default {
     },
     "play-guide-fertilizers-description": {
       "Key": "play-guide-fertilizers-description",
-      "Translation": "คุณสามารถใช้คะแนนการวิจัยเพื่อใช้ปุ๋ยที่ศูนย์วิจัยพฤกษศาสตร์ ปุ๋ยเพิ่มปริมาณของรายการที่ได้รับจากการเก็บเกี่ยวแต่ละหรือสามารถนำมาใช้เพื่อลดระยะเวลาการเพาะปลูก"
+      "Translation": "คุณสามารถใช้คะแนนการวิจัยเพื่อให้ปุ๋ยแบบการใช้งานที่ศูนย์การวิจัยพฤกษศาสตร์ ปุ๋ยเพิ่มปริมาณของรายการที่ได้รับจากการเก็บเกี่ยวแต่ละหรือสามารถนำมาใช้เพื่อลดระยะเวลาการเพาะปลูก"
     },
     "play-guide-flashbugs": {
       "Key": "play-guide-flashbugs",
@@ -9741,7 +9741,7 @@ export default {
     },
     "play-guide-gadget-proficiency": {
       "Key": "play-guide-gadget-proficiency",
-      "Translation": "ความชำนาญ gadget"
+      "Translation": "gadget ความชำนาญ"
     },
     "play-guide-gadget-proficiency-description": {
       "Key": "play-guide-gadget-proficiency-description",
@@ -9761,7 +9761,7 @@ export default {
     },
     "play-guide-getting-the-behemoths-attention-description": {
       "Key": "play-guide-getting-the-behemoths-attention-description",
-      "Translation": "ล่าด้วยอาวุธที่ออกแบบมาสำหรับการปิดกั้นควรโจมตีหัวขนาดใหญ่ที่จะได้รับความสนใจ เมื่อ Behemoth ไปบนความวุ่นวายและหัวของเขาเป็นเรื่องยากที่จะโจมตีใช้อาวุธที่มีคุณสมบัติเป็นอัมพาตหรือติดสัตว์ที่จะสร้างการเปิด"
+      "Translation": "ล่าด้วยอาวุธที่ออกแบบมาสำหรับการปิดกั้นควรโจมตีหัวขนาดใหญ่ที่จะได้รับความสนใจ เมื่อ Behemoth ไปบนความวุ่นวายและหัวของเขาเป็นเรื่องยากที่จะมีการโจมตีใช้อาวุธที่มีคุณสมบัติเป็นอัมพาตหรือติดสัตว์ที่จะสร้างการเปิด"
     },
     "play-guide-great-fish": {
       "Key": "play-guide-great-fish",
@@ -9769,7 +9769,7 @@ export default {
     },
     "play-guide-great-fish-description": {
       "Key": "play-guide-great-fish-description",
-      "Translation": "หลายสายพันธุ์ของปลามีตัวอย่างที่ \"ดี\" ที่มีขนาดใหญ่ผิดปกติ เหล่านี้มีผลกระทบที่มีประสิทธิภาพมากขึ้นเมื่อใช้เป็นรายการและผลในจุดการวิจัยมากขึ้น"
+      "Translation": "หลายสายพันธุ์ของปลามีตัวอย่างที่ \"ดี\" ที่มีขนาดใหญ่ผิดปกติ เหล่านี้มีผลกระทบที่มีประสิทธิภาพมากขึ้นเมื่อใช้เป็นรายการและผลคะแนนในการวิจัยมากขึ้น"
     },
     "play-guide-great-sword": {
       "Key": "play-guide-great-sword",
@@ -9777,19 +9777,19 @@ export default {
     },
     "play-guide-great-sword-description": {
       "Key": "play-guide-great-sword-description",
-      "Translation": "ดาบที่ดีมีบูมยาวและการโจมตีที่มีประสิทธิภาพ เพราะน้ำหนักที่แท้จริงของการ จำกัด ความเร็วของการเคลื่อนไหวและการโจมตีของคุณจะยืมตัวดีที่จะตีและวิ่งกลยุทธ์การต่อสู้"
+      "Translation": "ดาบที่ดีมีบูมยาวและการโจมตีที่มีประสิทธิภาพ เพราะน้ำหนักที่แท้จริงของการ จำกัด ความเร็วของการเคลื่อนไหวและการโจมตีของคุณก็ยืมตัวเองอย่างดีในการตีและวิ่งกลยุทธ์การต่อสู้"
     },
     "play-guide-great-sword-tips": {
       "Key": "play-guide-great-sword-tips",
-      "Translation": "เคล็ดลับดาบที่ดี"
+      "Translation": "เคล็ดลับที่ดีดาบ"
     },
     "play-guide-guard-reaction-combos": {
       "Key": "play-guide-guard-reaction-combos",
-      "Translation": "คอมโบยามปฏิกิริยา"
+      "Translation": "ยามคอมโบปฏิกิริยา"
     },
     "play-guide-guard-reaction-combos-description": {
       "Key": "play-guide-guard-reaction-combos-description",
-      "Translation": "เมื่อปิดกั้นการโจมตีปฏิกิริยายามสามารถ chainged เป็นดาบ: Morph ฉะขวาน: กระมังธาตุ Discharge หรือการโจมตีอื่น ๆ อีกมากมาย"
+      "Translation": "เมื่อปิดกั้นการโจมตีปฏิกิริยายามสามารถ chainged เป็นดาบ: Slash Morph, ขวาน: กระมังธาตุ Discharge หรือการโจมตีอื่น ๆ อีกมากมาย"
     },
     "play-guide-guild-card-restrictions": {
       "Key": "play-guide-guild-card-restrictions",
@@ -9805,7 +9805,7 @@ export default {
     },
     "play-guide-gunlance-description": {
       "Key": "play-guide-gunlance-description",
-      "Translation": "gunlance มีบ้าอำนาจมากกว่าขอบคุณหอกที่นอกเหนือจากปลอกกระสุนการโจมตีและมันยังมีความสามารถในการป้องกันที่ดี มันอาจจะใช้เวลาที่จะโท"
+      "Translation": "gunlance ข้อเสนอบ้าอำนาจมากกว่าขอบคุณหอกที่นอกเหนือจากปลอกกระสุนการโจมตีและมันยังมีความสามารถในการป้องกันที่ดี มันอาจจะใช้เวลาในการต้นแบบ"
     },
     "play-guide-gunlance-tips": {
       "Key": "play-guide-gunlance-tips",
@@ -9821,7 +9821,7 @@ export default {
     },
     "play-guide-hammer-description": {
       "Key": "play-guide-hammer-description",
-      "Translation": "ค้อนเป็นอาวุธที่มีประสิทธิภาพทื่อกับจำนวนเงินที่น่าแปลกใจของการเคลื่อนไหว นอกจากนี้ยังเป็นไปได้ที่จะ stun มอนสเตอร์โดยการส่งมอบการโจมตีค้อนที่ศีรษะ"
+      "Translation": "ค้อนเป็นอาวุธที่มีประสิทธิภาพทื่อกับจำนวนเงินที่น่าแปลกใจของการเคลื่อนไหว นอกจากนี้ยังเป็นไปได้ที่จะมอนสเตอร์งันโดยการส่งมอบการโจมตีค้อนที่ศีรษะ"
     },
     "play-guide-hammer-tips": {
       "Key": "play-guide-hammer-tips",
@@ -9833,7 +9833,7 @@ export default {
     },
     "play-guide-health-drinks-description": {
       "Key": "play-guide-health-drinks-description",
-      "Translation": "เพื่อเพิ่มสุขภาพสูงสุดของคุณดื่มเครื่องดื่มสารอาหารหรือยาสูงสุดที่สามารถรับได้โดยงานหัตถกรรม"
+      "Translation": "เพื่อเพิ่มสุขภาพสูงสุดของคุณสารอาหารเครื่องดื่มหรือยาสูงสุดที่สามารถรับได้โดยงานหัตถกรรม"
     },
     "play-guide-heavenly-blade-dance": {
       "Key": "play-guide-heavenly-blade-dance",
@@ -9857,7 +9857,7 @@ export default {
     },
     "play-guide-hunter-rank-description": {
       "Key": "play-guide-hunter-rank-description",
-      "Translation": "questes เสร็จสิ้นจะเพิ่มอันดับของนักล่าของคุณ ในฐานะที่เป็นนักล่าอันดับของคุณเพิ่มขึ้นคุณจะสามารถที่จะใช้ตัวเองเควสยากมากขึ้น"
+      "Translation": "questes เสร็จสิ้นจะเพิ่มอันดับของนักล่าของคุณ ในฐานะที่เป็นนักล่าอันดับเพิ่มขึ้นของคุณคุณจะสามารถที่จะใช้ตัวเองเควสยากมากขึ้น"
     },
     "play-guide-hunting-horn": {
       "Key": "play-guide-hunting-horn",
@@ -9869,7 +9869,7 @@ export default {
     },
     "play-guide-hunting-horn-tips": {
       "Key": "play-guide-hunting-horn-tips",
-      "Translation": "การล่าสัตว์เคล็ดลับฮอร์น"
+      "Translation": "ล่าสัตว์เคล็ดลับฮอร์น"
     },
     "play-guide-hunting-tips": {
       "Key": "play-guide-hunting-tips",
@@ -9881,7 +9881,7 @@ export default {
     },
     "play-guide-info-gathering-in-astera-description": {
       "Key": "play-guide-info-gathering-in-astera-description",
-      "Translation": "แอสเทราเปี่ยมไปด้วยความรู้สมาชิกของคณะกรรมการจากนักล่าและขนย้ายวัสดุที่นักวิจัยและวิศวกร พูดคุยกับผู้คนให้มากที่สุดเท่าที่เป็นไปได้ที่จะได้เรียนรู้ข้อมูลที่มีคุณค่าสำหรับการผจญภัยของคุณ"
+      "Translation": "แอสเทราเปี่ยมไปด้วยความรู้สมาชิกของคณะกรรมการจากนักล่าและขนย้ายวัสดุที่นักวิจัยและวิศวกร พูดคุยกับผู้คนมากที่สุดเท่าที่เป็นไปได้ที่จะเรียนรู้ข้อมูลที่มีคุณค่าสำหรับการผจญภัยของคุณ"
     },
     "play-guide-insect-glaive": {
       "Key": "play-guide-insect-glaive",
@@ -9889,7 +9889,7 @@ export default {
     },
     "play-guide-insect-glaive-description": {
       "Key": "play-guide-insect-glaive-description",
-      "Translation": "Glaive แมลงสามารถนำมาใช้ในการควบคุม Kinsect แมลงขนาดเล็กที่เก็บเกี่ยวสารสกัดจากมอนสเตอร์ที่จะเพิ่มความสามารถของคุณ Glaive แมลงนอกจากนี้ยังช่วยให้คุณสามารถกระโดดดังนั้นยูสามารถดำเนินการโจมตีกระโดดในเวลาใดก็ได้"
+      "Translation": "Glaive แมลงสามารถนำมาใช้ในการควบคุม Kinsect แมลงขนาดเล็กที่สกัดเก็บเกี่ยวจากมอนสเตอร์ที่จะเพิ่มความสามารถของคุณ แมลง Glaive ยังช่วยให้คุณหกคะเมนดังนั้นยูสามารถดำเนินการโจมตีกระโดดในเวลาใดก็ได้"
     },
     "play-guide-insect-glaive-tips": {
       "Key": "play-guide-insect-glaive-tips",
@@ -9897,7 +9897,7 @@ export default {
     },
     "play-guide-investigation-efficacy": {
       "Key": "play-guide-investigation-efficacy",
-      "Translation": "การศึกษาประสิทธิภาพการสืบสวน"
+      "Translation": "การตรวจสอบประสิทธิภาพ"
     },
     "play-guide-investigation-efficacy-description": {
       "Key": "play-guide-investigation-efficacy-description",
@@ -9925,7 +9925,7 @@ export default {
     },
     "play-guide-items-and-weapons-description": {
       "Key": "play-guide-items-and-weapons-description",
-      "Translation": "แม้สำหรับนักล่าที่มีประสบการณ์การสังหาร Behemoth ไม่ง่าย มุ่งหน้ากลับไปที่ค่ายเพื่อตุนรายการกระสุนหรือแม้กระทั่งการเปลี่ยนอาวุธของคุณถ้าคุณจำเป็นต้องเปลี่ยนกลยุทธ์"
+      "Translation": "แม้สำหรับนักล่าที่มีประสบการณ์การสังหาร Behemoth ไม่ง่าย หัวหน้ากลับไปที่ค่ายเพื่อตุนรายการกระสุนหรือแม้กระทั่งการเปลี่ยนอาวุธของคุณถ้าคุณจำเป็นต้องเปลี่ยนกลยุทธ์"
     },
     "play-guide-kinsect-stamina": {
       "Key": "play-guide-kinsect-stamina",
@@ -9977,7 +9977,7 @@ export default {
     },
     "play-guide-leaping-wide-slash-description": {
       "Key": "play-guide-leaping-wide-slash-description",
-      "Translation": "เพราะการโจมตีครั้งนี้สร้างความเสียหายธาตุมากขึ้นและสถานะ inflicing กว่าคนอื่น ๆ ก็มีประโยชน์มากที่สุดเมื่อจับคู่กับดาบที่ดีแข็งแรงธาตุ"
+      "Translation": "เพราะข้อเสนอที่การโจมตีครั้งนี้ธาตุมากขึ้นและสถานะ inflicing ความเสียหายกว่าคนอื่น ๆ ก็มีประโยชน์มากที่สุดเมื่อจับคู่กับดาบที่ดีแข็งแรงธาตุ"
     },
     "play-guide-light-bowgun-tip": {
       "Key": "play-guide-light-bowgun-tip",
@@ -9985,11 +9985,11 @@ export default {
     },
     "play-guide-limited-bounties": {
       "Key": "play-guide-limited-bounties",
-      "Translation": "โปรดปราน จำกัด"
+      "Translation": "จำกัด โปรดปราน"
     },
     "play-guide-limited-bounties-description": {
       "Key": "play-guide-limited-bounties-description",
-      "Translation": "โปรดปราน จำกัด เป็นรางวัลพิเศษที่ทำระยะ ๆ สามารถดาวน์โหลดได้ทั่วโลก แต่สำหรับระยะเวลาที่ จำกัด ของเวลา ให้แน่ใจว่าจะเสร็จสิ้นการสร้างเสริม จำกัด ในขณะที่พวกเขายังคงใช้ได้เช่นแต่ละคนจะถูกแทนที่โดยหนึ่งต่อไปนี้มัน"
+      "Translation": "โปรดปราน จำกัด เป็นรางวัลพิเศษที่ทำระยะ ๆ สามารถดาวน์โหลดได้ทั่วโลก แต่สำหรับระยะเวลาที่ จำกัด ของเวลา ให้แน่ใจว่าจะโปรดปราน จำกัด สมบูรณ์ในขณะที่พวกเขายังคงใช้ได้เช่นแต่ละคนจะถูกแทนที่โดยหนึ่งต่อไปนี้มัน"
     },
     "play-guide-long-sword": {
       "Key": "play-guide-long-sword",
@@ -9997,7 +9997,7 @@ export default {
     },
     "play-guide-long-sword-description": {
       "Key": "play-guide-long-sword-description",
-      "Translation": "ดาบยาวจะช่วยให้ได้อย่างรวดเร็ว, การเคลื่อนไหวของเหลวและคอมโบ แต่ไม่สามารถนำมาใช้ในการป้องกัน"
+      "Translation": "ดาบยาวจะช่วยให้ได้อย่างรวดเร็ว, การเคลื่อนไหวของเหลวและคอมโบ แต่ก็ไม่สามารถนำมาใช้ในยาม"
     },
     "play-guide-long-sword-tips": {
       "Key": "play-guide-long-sword-tips",
@@ -10017,11 +10017,11 @@ export default {
     },
     "play-guide-lynian-researcher-description": {
       "Key": "play-guide-lynian-researcher-description",
-      "Translation": "ผู้เชี่ยวชาญด้านการร่วงโรยในด้านการวิจัย Lynian แม้ว่าจะทุ่มเทให้กับการวิจัยใน Grimalkynes เขาจะยอมแพ้โดยรวดเร็วเป้าหมายเจ้าเล่ห์ของการศึกษาของเขา ตอนนี้เขากำลังมองหานักล่าที่เป็นประโยชน์ที่จะช่วยเขาในการวิจัยของเขา"
+      "Translation": "ผู้เชี่ยวชาญด้านการร่วงโรยในด้านการวิจัย Lynian แม้ว่าจะทุ่มเทให้กับการวิจัยใน Grimalkynes เขาเป็น outdone โดยรวดเร็วเจ้าเล่ห์เป้าหมายของการศึกษาของเขา ตอนนี้เขากำลังมองหานักล่าที่เป็นประโยชน์ที่จะช่วยเขาในการวิจัยของเขา"
     },
     "play-guide-max-potions": {
       "Key": "play-guide-max-potions",
-      "Translation": "Potions แม็กซ์"
+      "Translation": "แม็กซ์ Potions"
     },
     "play-guide-max-potions-description": {
       "Key": "play-guide-max-potions-description",
@@ -10029,11 +10029,11 @@ export default {
     },
     "play-guide-meal-effect-duration": {
       "Key": "play-guide-meal-effect-duration",
-      "Translation": "อาหารผลระยะเวลา"
+      "Translation": "อาหารระยะเวลาแสดงผล"
     },
     "play-guide-meal-effect-duration-description": {
       "Key": "play-guide-meal-effect-duration-description",
-      "Translation": "ผลกระทบที่จะสวมใส่อาหารออกถ้าคุณเป็นลมระหว่างการแสวงหาหรือการเดินทาง พวกเขายังจะสวมปิดเมื่อคุณสมบูรณ์ล้มเหลวหรือถอนตัวออกจากการแสวงหาหรือการเดินทาง หลังจากรับประทานอาหารที่คุณจะไม่สามารถที่จะกินอีกครั้งในช่วงเวลาสั้น"
+      "Translation": "ผลกระทบมื้อจะสวมปิดถ้าคุณเป็นลมระหว่างการแสวงหาหรือการเดินทาง พวกเขายังจะสวมปิดเมื่อคุณเสร็จสมบูรณ์ล้มเหลวหรือถอนตัวออกจากการแสวงหาหรือการเดินทาง หลังจากรับประทานอาหารที่คุณจะไม่สามารถที่จะกินอีกครั้งในช่วงเวลาสั้น"
     },
     "play-guide-meal-vouchers": {
       "Key": "play-guide-meal-vouchers",
@@ -10061,7 +10061,7 @@ export default {
     },
     "play-guide-midair-evasion-and-attacks-description": {
       "Key": "play-guide-midair-evasion-and-attacks-description",
-      "Translation": "หนึ่งกลางเวหาและหลบหลีกการโจมตีกลางอากาศสามารถนำมาใช้ในแต่ละครั้งที่คุณอยู่ในกลางเวหา กระโดดออกจากมอนสเตอร์อีกครั้งก่อนที่คุณที่ดินจะช่วยให้คุณสามารถดำเนินการดำเนินการแต่ละอีกครั้ง"
+      "Translation": "หนึ่งกลางหาวหลบหลีกและการโจมตีกลางอากาศหนึ่งที่สามารถนำมาใช้ในแต่ละครั้งที่คุณอยู่ในกลางเวหา กระโดดออกจากมอนสเตอร์อีกครั้งก่อนที่คุณที่ดินจะช่วยให้คุณสามารถดำเนินการดำเนินการแต่ละอีกครั้ง"
     },
     "play-guide-monster-clashes": {
       "Key": "play-guide-monster-clashes",
@@ -10085,7 +10085,7 @@ export default {
     },
     "play-guide-monster-research-description": {
       "Key": "play-guide-monster-research-description",
-      "Translation": "โดยการเก็บรวบรวมร่องรอยมอนสเตอร์และเพิ่มระดับการวิจัยของคุณคุณจะได้เรียนรู้ระบบนิเวศข้อมูลรายละเอียดเพิ่มเติมเกี่ยวกับมอนสเตอร์เช่นจุดอ่อนของพวกเขา scoutflies ของคุณยังจะสามารถที่จะตรวจสอบดีกว่ามอนสเตอร์ที่คุณได้วิจัยอย่างละเอียด"
+      "Translation": "โดยการเก็บรวบรวมร่องรอยมอนสเตอร์และเพิ่มระดับการวิจัยของคุณคุณจะได้เรียนรู้ข้อมูลรายละเอียดเกี่ยวกับระบบนิเวศมอนสเตอร์มากขึ้นเช่นจุดอ่อนของพวกเขา scoutflies ของคุณยังจะสามารถที่จะตรวจสอบดีกว่ามอนสเตอร์ที่คุณได้วิจัยอย่างละเอียด"
     },
     "play-guide-mounting-controls": {
       "Key": "play-guide-mounting-controls",
@@ -10093,7 +10093,7 @@ export default {
     },
     "play-guide-mounting-controls-description": {
       "Key": "play-guide-mounting-controls-description",
-      "Translation": "เมื่อคุณได้ติดตั้งมอนสเตอร์ให้กด R2 เมื่อมอนสเตอร์ซัดเกี่ยวกับการยึดมั่นในหรือ L เพื่อหลีกเลี่ยงการโจมตีบางอย่าง ระวัง: คุณจะหลุดออกมาโดยอัตโนมัติหากความแข็งแกร่งของคุณหมด"
+      "Translation": "เมื่อคุณได้ติดตั้งมอนสเตอร์ให้กด R2 เมื่อ thrashes มอนสเตอร์จะจับหรือ L เพื่อหลีกเลี่ยงการโจมตีบางอย่าง ระวัง: คุณจะตกหลุมปิดโดยอัตโนมัติหากความแข็งแกร่งของคุณหมด"
     },
     "play-guide-mounting-monsters": {
       "Key": "play-guide-mounting-monsters",
@@ -10117,7 +10117,7 @@ export default {
     },
     "play-guide-nitrotoads-description": {
       "Key": "play-guide-nitrotoads-description",
-      "Translation": "รถบรรทุก whens, nitrotoads ปล่อยสเปรย์ของของเหลวระเหยที่ระเบิดที่มีอำนาจมากพอที่จะซวนเซมอนสเตอร์ขนาดใหญ่แม้กระทั่ง"
+      "Translation": "whens รถบรรทุก, nitrotoads ปล่อยสเปรย์ของของเหลวระเหยที่ระเบิดที่มีอำนาจมากพอที่จะซวนเซแม้มอนสเตอร์ขนาดใหญ่"
     },
     "play-guide-objective-of-the-taroth-siege": {
       "Key": "play-guide-objective-of-the-taroth-siege",
@@ -10133,7 +10133,7 @@ export default {
     },
     "play-guide-obtaining-decorations-description": {
       "Key": "play-guide-obtaining-decorations-description",
-      "Translation": "คุณสามารถได้รับการประเมินจากรายการเควสอันดับที่สูง หลังจากที่คุณประเมินรายการเหล่านี้คุณสามารถใช้เป็นของประดับตกแต่ง แนบตกแต่งช่องอุปกรณ์ของคุณเพื่อเปิดใช้งานทักษะพิเศษ"
+      "Translation": "คุณสามารถได้รับการประเมินจากรายการเควสอันดับที่สูง หลังจากที่คุณประเมินรายการเหล่านี้คุณสามารถใช้เป็นของประดับตกแต่ง แนบตกแต่งช่องอุปกรณ์ของคุณเพื่อเปิดใช้ทักษะพิเศษ"
     },
     "play-guide-omenflies": {
       "Key": "play-guide-omenflies",
@@ -10145,11 +10145,11 @@ export default {
     },
     "play-guide-oven-roasting": {
       "Key": "play-guide-oven-roasting",
-      "Translation": "ย่างเตาอบ"
+      "Translation": "เตาอบย่าง"
     },
     "play-guide-oven-roasting-description": {
       "Key": "play-guide-oven-roasting-description",
-      "Translation": "คุณสามารถขอ Handler เพื่อเตาย่างรายการต่างๆสำหรับคุณที่โรงอาหาร มันต้องใช้เวลาสำหรับรายการที่จะเสร็จสิ้นการคั่วบาง แต่เมื่อพวกเขากำลังทำคุณสามารถเรียกร้องพวกเขาจากโรงอาหารหรือโดยตรงจากตัวจัดการ"
+      "Translation": "คุณสามารถขอจัดการกับเตาย่างรายการต่างๆสำหรับคุณที่โรงอาหาร มันต้องใช้เวลาบางอย่างสำหรับรายการที่จะเสร็จสิ้นการคั่ว แต่เมื่อพวกเขากำลังทำคุณสามารถเรียกร้องพวกเขาจากโรงอาหารหรือโดยตรงจาก Handler"
     },
     "play-guide-palico-equipment": {
       "Key": "play-guide-palico-equipment",
@@ -10185,7 +10185,7 @@ export default {
     },
     "play-guide-paratoads-description": {
       "Key": "play-guide-paratoads-description",
-      "Translation": "เมื่อหลง paratoads ปล่อยสเปรย์ของก๊าซแข็งแรงพอที่จะทำให้เป็นอัมพาตมอนสเตอร์ขนาดใหญ่แม้กระทั่ง"
+      "Translation": "เมื่อหลง paratoads ปล่อยสเปรย์ของก๊าซที่แข็งแกร่งพอที่จะทำให้เป็นอัมพาตมอนสเตอร์ขนาดใหญ่แม้กระทั่ง"
     },
     "play-guide-performance-effect-radius": {
       "Key": "play-guide-performance-effect-radius",
@@ -10201,7 +10201,7 @@ export default {
     },
     "play-guide-phial-effects-description": {
       "Key": "play-guide-phial-effects-description",
-      "Translation": "การโจมตีด้วยใบมีดค่าใช้จ่ายยากที่จะหันเหความสนใจเมื่อผลกระทบของขวดมีการใช้งานซึ่งจะเป็นประโยชน์เมื่อกำหนดเป้าหมายส่วนของร่างกายที่ยากลำบาก"
+      "Translation": "การโจมตีที่มีค่าใช้จ่ายใบยากที่จะหันเหความสนใจเมื่อผลกระทบของขวดมีการใช้งานซึ่งจะเป็นประโยชน์เมื่อกำหนดเป้าหมายส่วนของร่างกายที่ยากลำบาก"
     },
     "play-guide-piercing-pods": {
       "Key": "play-guide-piercing-pods",
@@ -10209,11 +10209,11 @@ export default {
     },
     "play-guide-piercing-pods-description": {
       "Key": "play-guide-piercing-pods-description",
-      "Translation": "ฝักเจาะสามารถหยิบขึ้นมาและนำมาใช้เป็น Slinger กระสุน พวกเขาสามารถทะลุเป้าหมายของพวกเขาจะสร้างความเสียหาย"
+      "Translation": "ฝักเจาะสามารถหยิบขึ้นมาและนำมาใช้เป็น Slinger กระสุน พวกเขาสามารถทะลุเป้าหมายของพวกเขาเพื่อความเสียหายลงโทษ"
     },
     "play-guide-piscine-researcher": {
       "Key": "play-guide-piscine-researcher",
-      "Translation": "นักวิจัยคาวปลา"
+      "Translation": "คาวปลานักวิจัย"
     },
     "play-guide-piscine-researcher-description": {
       "Key": "play-guide-piscine-researcher-description",
@@ -10225,7 +10225,7 @@ export default {
     },
     "play-guide-poisoncups-description": {
       "Key": "play-guide-poisoncups-description",
-      "Translation": "Poisoncups ปล่อยห้องอาบน้ำฝักบัวของของเหลวมีพิษเมื่อหลง ชมขั้นตอนของคุณเป็นพิษยังคงรวบรวมบนพื้นดินเป็นเวลาสั้น ๆ"
+      "Translation": "Poisoncups ปล่อยห้องอาบน้ำฝักบัวของของเหลวมีพิษเมื่อหลง ชมขั้นตอนของคุณเป็นซากพิษ pooled บนพื้นดินเป็นเวลาสั้น ๆ"
     },
     "play-guide-power-charge": {
       "Key": "play-guide-power-charge",
@@ -10237,7 +10237,7 @@ export default {
     },
     "play-guide-power-guard": {
       "Key": "play-guide-power-guard",
-      "Translation": "ยามเพาเวอร์"
+      "Translation": "เพาเวอร์ยาม"
     },
     "play-guide-power-guard-description": {
       "Key": "play-guide-power-guard-description",
@@ -10245,7 +10245,7 @@ export default {
     },
     "play-guide-preparing-for-a-hunt": {
       "Key": "play-guide-preparing-for-a-hunt",
-      "Translation": "เตรียมความพร้อมสำหรับล่า"
+      "Translation": "เตรียมความพร้อมสำหรับการล่าสัตว์"
     },
     "play-guide-preparing-for-a-hunt-description": {
       "Key": "play-guide-preparing-for-a-hunt-description",
@@ -10257,15 +10257,15 @@ export default {
     },
     "play-guide-puddle-pod-description": {
       "Key": "play-guide-puddle-pod-description",
-      "Translation": "Watermoss สามารถหยิบขึ้นมาและนำมาใช้เป็นกระสุน Slinger เรียกว่าฝักบ่อ ลองใช้มันเพื่อเรียก Plats ที่ห่างไกลและระเบิดบาร์เรลหรือการทำความสะอาดโคลนออกจากเป้าหมาย"
+      "Translation": "Watermoss สามารถหยิบขึ้นมาและนำมาใช้เป็นกระสุน Slinger เรียกว่าบ่อฝัก ลองใช้มันเพื่อเรียก Plats และระเบิดบาร์เรลที่ห่างไกลหรือโคลนสะอาดออกจากเป้าหมาย"
     },
     "play-guide-rare-endemic-life": {
       "Key": "play-guide-rare-endemic-life",
-      "Translation": "หายากชีวิตเฉพาะถิ่น"
+      "Translation": "หายากเฉพาะถิ่นชีวิต"
     },
     "play-guide-rare-endemic-life-description": {
       "Key": "play-guide-rare-endemic-life-description",
-      "Translation": "โลกใหม่ที่เต็มไปด้วยสิ่งมีชีวิตบางอย่างที่ปรากฏเฉพาะในบางช่วงเวลาหรือในช่วงสภาพอากาศที่บาง พูดคุยกับนักวิจัยชีวิตถิ่นเพื่อหาข้อมูลเพิ่มเติม!"
+      "Translation": "โลกใหม่ที่เต็มไปด้วยสิ่งมีชีวิตบางอย่างที่ปรากฏเฉพาะในบางช่วงเวลาหรือในช่วงสภาพอากาศที่บาง พูดคุยกับนักวิจัยพืชถิ่นเดียวของชีวิตจะหาข้อมูลเพิ่มเติม!"
     },
     "play-guide-redpits": {
       "Key": "play-guide-redpits",
@@ -10277,7 +10277,7 @@ export default {
     },
     "play-guide-reloading-wyrmstake-shot": {
       "Key": "play-guide-reloading-wyrmstake-shot",
-      "Translation": "โหลดยิง Wyrmstake"
+      "Translation": "โหลด Wyrmstake ยิง"
     },
     "play-guide-reloading-wyrmstake-shot-description": {
       "Key": "play-guide-reloading-wyrmstake-shot-description",
@@ -10285,7 +10285,7 @@ export default {
     },
     "play-guide-restoring-health": {
       "Key": "play-guide-restoring-health",
-      "Translation": "ฟื้นฟูสุขภาพ"
+      "Translation": "การฟื้นฟูสุขภาพ"
     },
     "play-guide-restoring-health-description": {
       "Key": "play-guide-restoring-health-description",
@@ -10333,7 +10333,7 @@ export default {
     },
     "play-guide-shelling": {
       "Key": "play-guide-shelling",
-      "Translation": "การปอกเปลือก"
+      "Translation": "ปลอกกระสุน"
     },
     "play-guide-shelling-description": {
       "Key": "play-guide-shelling-description",
@@ -10349,7 +10349,7 @@ export default {
     },
     "play-guide-sleeptoads-description": {
       "Key": "play-guide-sleeptoads-description",
-      "Translation": "เมื่อหลง sleeptoads ปล่อยสเปรย์ของก๊าซที่แข็งแกร่งพอที่จะทำให้มอนสเตอร์ขนาดใหญ่แม้จะนอนหลับ"
+      "Translation": "เมื่อหลง sleeptoads ปล่อยสเปรย์ของก๊าซที่แข็งแกร่งพอที่จะนำมอนสเตอร์ขนาดใหญ่แม้จะนอนหลับ"
     },
     "play-guide-slinger": {
       "Key": "play-guide-slinger",
@@ -10369,7 +10369,7 @@ export default {
     },
     "play-guide-slinger-bombs-description": {
       "Key": "play-guide-slinger-bombs-description",
-      "Translation": "ระเบิด Slinger (ระเบิดฝัก) ระเบิดเกี่ยวกับผลกระทบและสร้างความเสียหายหนัก"
+      "Translation": "Slinger ระเบิด (ระเบิดฝัก) ระเบิดเกี่ยวกับผลกระทบและสร้างความเสียหายหนัก"
     },
     "play-guide-slinger-description": {
       "Key": "play-guide-slinger-description",
@@ -10393,7 +10393,7 @@ export default {
     },
     "play-guide-slinger-torches-description": {
       "Key": "play-guide-slinger-torches-description",
-      "Translation": "Slinger ไฟฉายกระสุน (ไฟฉายฝัก) ระเบิดเข้าไปในเปลวไฟเมื่อที่ดินต้านทานมอนสเตอร์บางอย่างและอาจดึงดูดมอนสเตอร์ที่จะมีการวาดที่จะยิง"
+      "Translation": "Slinger ไฟฉายกระสุน (ไฟฉายฝัก) ระเบิดเข้าไปในเปลวไฟเมื่อที่ดินต้านทานมอนสเตอร์บางอย่างและอาจดึงดูดมอนสเตอร์ที่จะวาดให้ไฟไหม้"
     },
     "play-guide-slot-level": {
       "Key": "play-guide-slot-level",
@@ -10433,7 +10433,7 @@ export default {
     },
     "play-guide-spirit-thrust-description": {
       "Key": "play-guide-spirit-thrust-description",
-      "Translation": "การโจมตีสูงขับเคลื่อนที่กินหนึ่งระดับของมาตรวัดพระวิญญาณในการดำเนินการ มันเกี่ยวข้องความเสียหายมากที่สุดเมื่อ Gauge วิญญาณเป็นสีแดง"
+      "Translation": "การโจมตีสูงขับเคลื่อนที่ระดับกินหนึ่งของมาตรวัดพระวิญญาณในการดำเนินการ มันเกี่ยวข้องความเสียหายมากที่สุดเมื่อ Gauge วิญญาณเป็นสีแดง"
     },
     "play-guide-sporepuffs": {
       "Key": "play-guide-sporepuffs",
@@ -10473,7 +10473,7 @@ export default {
     },
     "play-guide-stunning-monsters-description": {
       "Key": "play-guide-stunning-monsters-description",
-      "Translation": "สตันสามารถทำได้อย่างง่ายดายมากขึ้นโดยการกดปุ่มหัวมอนสเตอร์ที่มี Upswings เรียกเก็บหรือเรียกเก็บ Upswings โหดร้าย"
+      "Translation": "สตันสามารถทำได้อย่างง่ายดายมากขึ้นโดยการกดปุ่มหัวมอนสเตอร์ที่มีการเรียกเก็บเงินหรือค่าใช้จ่าย Upswings Upswings โหดร้าย"
     },
     "play-guide-supporting-teammates": {
       "Key": "play-guide-supporting-teammates",
@@ -10481,7 +10481,7 @@ export default {
     },
     "play-guide-supporting-teammates-description": {
       "Key": "play-guide-supporting-teammates-description",
-      "Translation": "การโจมตีของขนาดใหญ่จึงทำให้เกิดความเสียหายอย่างที่คุณจำเป็นต้องช่วยเพื่อนร่วมทีมของคุณ ใช้ Lifepowder ปีศาจผงและทักษะที่หลากหลายเพื่อให้ทีมงานของคุณราด"
+      "Translation": "การโจมตีของ Behemoth จึงสร้างความเสียหายอย่างที่คุณจำเป็นต้องช่วยเพื่อนร่วมทีมของคุณ ใช้ Lifepowder ปีศาจผงและทักษะที่หลากหลายเพื่อให้ทีมงานของคุณราด"
     },
     "play-guide-sushifish": {
       "Key": "play-guide-sushifish",
@@ -10497,7 +10497,7 @@ export default {
     },
     "play-guide-switch-axe-description": {
       "Key": "play-guide-switch-axe-description",
-      "Translation": "สวิทช์ขวาน morphs ระหว่างขวานและดาบโหมด โหมดขวานภูมิใจนำเสนออำนาจและบูมยาวในขณะที่โหมดดาบมีการโจมตีได้เร็วขึ้นและสำเร็จระเบิด"
+      "Translation": "morphs สลับระหว่างขวานขวานและดาบโหมด ขวานอำนาจโหมดภูมิใจและบูมยาวในขณะที่โหมดดาบมีการโจมตีได้เร็วขึ้นและสำเร็จระเบิด"
     },
     "play-guide-switch-axe-tips": {
       "Key": "play-guide-switch-axe-tips",
@@ -10517,7 +10517,7 @@ export default {
     },
     "play-guide-sword-and-shield-description": {
       "Key": "play-guide-sword-and-shield-description",
-      "Translation": "น้ำหนักเบาและง่ายต่อการใช้ดาบและโล่ยังมีความเร็วในการโจมตีที่โดดเด่น โล่สามารถนำมาใช้ในการป้องกัน แต่ก็ไม่อาจถือได้ถึงการโจมตีบางอย่าง"
+      "Translation": "ที่มีน้ำหนักเบาและง่ายต่อการใช้ดาบและโล่ยังมีความเร็วในการโจมตีที่โดดเด่น โล่สามารถใช้ในการรักษาความปลอดภัย แต่ก็ไม่อาจถือได้ถึงการโจมตีบางอย่าง"
     },
     "play-guide-sword-and-shield-tips": {
       "Key": "play-guide-sword-and-shield-tips",
@@ -10529,7 +10529,7 @@ export default {
     },
     "play-guide-sword-condensed-element-slash-description": {
       "Key": "play-guide-sword-condensed-element-slash-description",
-      "Translation": "โดยการผูกมัดชาร์จเป็นองค์ประกอบย่อ Slash ในขณะที่ธาตุ Boost มีการใช้งานการโจมตีของคุณในโหมดดาบยังจะได้รับประโยชน์จากผลกระทบชั่วคราวขวด"
+      "Translation": "โดยการผูกมัดชาร์จเป็น Slash ย่อธาตุในขณะที่ธาตุ Boost มีการใช้งานการโจมตีของคุณในโหมดดาบยังจะได้รับประโยชน์จากผลกระทบชั่วคราวขวด"
     },
     "play-guide-sword-mode-attacks": {
       "Key": "play-guide-sword-mode-attacks",
@@ -10537,7 +10537,7 @@ export default {
     },
     "play-guide-sword-mode-attacks-description": {
       "Key": "play-guide-sword-mode-attacks-description",
-      "Translation": "การโจมตีในโหมดดาบผลกระทบของการใช้ขวดสวิทช์ขวานที่ทำให้พวกเขายากมากที่จะหันเหความสนใจ โหมดนี้จะทำให้ดาบที่มีประโยชน์สำหรับการกำหนดเป้าหมายส่วนของร่างกายที่ยากลำบาก"
+      "Translation": "การโจมตีในโหมดดาบใช้เอฟเฟ็คของสวิทช์ขวานขวดทำให้พวกเขายากมากที่จะหันเหความสนใจ โหมดนี้จะทำให้ดาบที่มีประโยชน์สำหรับการกำหนดเป้าหมายส่วนของร่างกายที่ยากลำบาก"
     },
     "play-guide-tackle": {
       "Key": "play-guide-tackle",
@@ -10545,7 +10545,7 @@ export default {
     },
     "play-guide-tackle-description": {
       "Key": "play-guide-tackle-description",
-      "Translation": "การโจมตีที่ป้องกันไม่ให้มีความยืดหยุ่น knockback ใด ๆ เวลาที่มันเป็นไปตามการโจมตีของมอนสเตอร์และคุณสามารถดำเนินการต่อคอมโบของคุณอย่างต่อเนื่อง"
+      "Translation": "การโจมตีที่ป้องกันไม่ให้มีความยืดหยุ่น knockback ใด ๆ เวลาตามการโจมตีของมอนสเตอร์และคุณสามารถดำเนินการต่อคอมโบของคุณอย่างต่อเนื่อง"
     },
     "play-guide-tailraider-safari-members": {
       "Key": "play-guide-tailraider-safari-members",
@@ -10573,7 +10573,7 @@ export default {
     },
     "play-guide-tempered-monsters-description": {
       "Key": "play-guide-tempered-monsters-description",
-      "Translation": "คุณอาจจะพบร่องรอยของมอนสเตอร์ที่รุนแรงโดยเฉพาะอย่างยิ่ง - เรียกว่ามอนสเตอร์นิรภัย - ในขณะที่เดินทางบนตำแหน่งสูง หากคุณเก็บเพียงพอของร่องรอยเหล่านี้คุณอาจได้รับเควสสืบสวนใหม่"
+      "Translation": "คุณอาจจะพบร่องรอยของมอนสเตอร์ที่รุนแรงโดยเฉพาะอย่างยิ่ง - เรียกนิรภัยมอนสเตอร์ - ในขณะที่เดินทางบนตำแหน่งสูง หากคุณเก็บเพียงพอของร่องรอยเหล่านี้คุณอาจได้รับเควสสืบสวนใหม่"
     },
     "play-guide-the-argosy": {
       "Key": "play-guide-the-argosy",
@@ -10593,7 +10593,7 @@ export default {
     },
     "play-guide-the-argosy-sets-sail-description": {
       "Key": "play-guide-the-argosy-sets-sail-description",
-      "Translation": "สำเภาเท่านั้นยังคงอยู่ในพอร์ตสำหรับระยะเวลาที่ จำกัด"
+      "Translation": "สำเภาเท่านั้นยังคงอยู่ในพอร์ตระยะเวลาที่ จำกัด"
     },
     "play-guide-the-botanical-research-center": {
       "Key": "play-guide-the-botanical-research-center",
@@ -10609,15 +10609,15 @@ export default {
     },
     "play-guide-the-elder-crossing": {
       "Key": "play-guide-the-elder-crossing",
-      "Translation": "The Crossing พี่"
+      "Translation": "พี่ข้าม"
     },
     "play-guide-the-elder-crossing-description": {
       "Key": "play-guide-the-elder-crossing-description",
-      "Translation": "The Crossing พี่เป็นปรากฏการณ์ทางนิเวศวิทยาที่มังกรผู้สูงอายุเดินทางไปยังโลกใหม่ แม้ว่ามันจะใช้ในการเกิดขึ้นเพียงครั้งเดียวทุกร้อยปีหรือมากกว่านั้นวกในขณะนี้เกิดขึ้นเกี่ยวกับทุกๆสิบปี ลึกลับบางมังกรพี่ไม่เคยแม้แต่จะทำให้มันไปยังโลกใหม่"
+      "Translation": "พี่ข้ามเป็นปรากฏการณ์ทางนิเวศวิทยาที่มังกรผู้สูงอายุเดินทางไปยังโลกใหม่ แม้ว่ามันจะใช้ในการเกิดขึ้นเพียงครั้งเดียวทุกร้อยปีหรือมากกว่านั้นที่เกิดขึ้นในขณะนี้บวกเกี่ยวกับทุกๆปีที่สิบ ลึกลับบางมังกรพี่ไม่เคยแม้แต่จะทำให้มันไปยังโลกใหม่"
     },
     "play-guide-the-field-researchers": {
       "Key": "play-guide-the-field-researchers",
-      "Translation": "นักวิจัยภาคสนาม"
+      "Translation": "สนามนักวิจัย"
     },
     "play-guide-the-field-researchers-description": {
       "Key": "play-guide-the-field-researchers-description",
@@ -10633,7 +10633,7 @@ export default {
     },
     "play-guide-the-intrepid-field-researchers": {
       "Key": "play-guide-the-intrepid-field-researchers",
-      "Translation": "นักวิจัย Intrepid สนาม"
+      "Translation": "กลัวนักวิจัยภาคสนาม"
     },
     "play-guide-the-intrepid-field-researchers-description": {
       "Key": "play-guide-the-intrepid-field-researchers-description",
@@ -10645,7 +10645,7 @@ export default {
     },
     "play-guide-the-new-world-description": {
       "Key": "play-guide-the-new-world-description",
-      "Translation": "แม้ว่าดำรงอยู่ของมันเป็นที่รู้จักกันเป็นเวลานาน, โลกใหม่ยังคงสำรวจเนื่องจากวิธีการที่อยู่ห่างไกลมันเป็นและเนื่องจากสภาพอากาศที่เป็นอันตรายรอบมัน ความก้าวหน้าในการเดินเรือเทคโนโลยี แต่ได้รับอนุญาตให้คณะกรรมการที่จะลงจอดห้ากลุ่มยานยนต์ในโลกใหม่"
+      "Translation": "แม้ว่าดำรงอยู่ของมันเป็นที่รู้จักกันเป็นเวลานาน, โลกใหม่ยังคงสำรวจเนื่องจากวิธีการที่อยู่ห่างไกลมันเป็นและเนื่องจากสภาพอากาศที่เป็นอันตรายรอบมัน ความก้าวหน้าในการเดินเรือเทคโนโลยี แต่ได้รับอนุญาตให้คณะกรรมาธิการไปยังดินแดนห้ากลุ่มยานยนต์ในโลกใหม่"
     },
     "play-guide-the-research-base": {
       "Key": "play-guide-the-research-base",
@@ -10653,7 +10653,7 @@ export default {
     },
     "play-guide-the-research-base-description": {
       "Key": "play-guide-the-research-base-description",
-      "Translation": "นักวิจัยประกอบด้วย 90% ของกองเรือที่สามซึ่งมีฐาน currnetly วางอยู่ในหุบเขาที่ยิ่งใหญ่ เรือเดินสมุทรที่สามถูกขังอยู่หลังบอลลูนเรือเหาะของพวกเขาถูกทำลายโดยมอนสเตอร์ พวกเขากำลังดำเนินการวิจัยเกี่ยวกับเน่าร์ทเวล"
+      "Translation": "นักวิจัยประกอบด้วย 90% ของกองเรือที่สามซึ่งมีฐาน currnetly พักผ่อนในมหาราช Ravine เรือเดินสมุทรที่สามถูกขังอยู่หลังบอลลูนเรือเหาะของพวกเขาถูกทำลายโดยมอนสเตอร์ พวกเขากำลังดำเนินการวิจัยเกี่ยวกับเน่าร์ทเวล"
     },
     "play-guide-the-research-commission": {
       "Key": "play-guide-the-research-commission",
@@ -10713,7 +10713,7 @@ export default {
     },
     "play-guide-trading-with-the-argosy-description": {
       "Key": "play-guide-trading-with-the-argosy-description",
-      "Translation": "สำเภาเป็นเรือค้าที่เป็นระยะ ๆ เรียกเข้ากับพอร์ตในแอสเทราและมีชุดรายการพิเศษสำหรับขาย ชุดรายการเปลี่ยนทุกครั้งที่เข้าชมสำเภาและพวกเขาอาจจะมีรายการที่หายากที่มีอยู่ที่ไหน"
+      "Translation": "สำเภาเป็นเรือค้าที่เป็นระยะ ๆ เรียกเข้ากับพอร์ตในแอสเทราและข้อเสนอชุดรายการพิเศษสำหรับขาย ชุดรายการเปลี่ยนทุกครั้งที่เข้าชมสำเภาและพวกเขาอาจจะมีรายการที่หายากที่มีอยู่ที่ไหน"
     },
     "play-guide-traps-and-elder-dragons": {
       "Key": "play-guide-traps-and-elder-dragons",
@@ -10725,7 +10725,7 @@ export default {
     },
     "play-guide-trusty-hunting-pawtners": {
       "Key": "play-guide-trusty-hunting-pawtners",
-      "Translation": "Pawtners ล่าสัตว์ Trusty"
+      "Translation": "Trusty Pawtners ล่าสัตว์"
     },
     "play-guide-trusty-hunting-pawtners-description": {
       "Key": "play-guide-trusty-hunting-pawtners-description",
@@ -10737,7 +10737,7 @@ export default {
     },
     "play-guide-types-of-shelling-attacks-description": {
       "Key": "play-guide-types-of-shelling-attacks-description",
-      "Translation": "Gunlances มีหนึ่งในสามประเภทที่แตกต่างกันของการโจมตีปลอกกระสุน การโจมตีที่แตกต่างกันอยู่ในอำนาจความจุกระสุนและช่วง โปรดใช้ความระมัดระวังในการเลือก gunlance ของคุณเป็นแต่ละประเภทต้องมีสไตล์การเล่นที่แตกต่างกันเล็กน้อย"
+      "Translation": "Gunlances มีหนึ่งในสามประเภทที่แตกต่างกันของการโจมตีปลอกกระสุน การโจมตีที่แตกต่างกันในอำนาจกระสุนจุและช่วง โปรดใช้ความระมัดระวังในการเลือก gunlance ของคุณเป็นแต่ละประเภทต้องมีสไตล์การเล่นที่แตกต่างกันเล็กน้อย"
     },
     "play-guide-upgrading-charms": {
       "Key": "play-guide-upgrading-charms",
@@ -10761,11 +10761,11 @@ export default {
     },
     "play-guide-using-performances-to-attack": {
       "Key": "play-guide-using-performances-to-attack",
-      "Translation": "โดยใช้การแสดงที่จะโจมตี"
+      "Translation": "โดยใช้การแสดงการโจมตี"
     },
     "play-guide-using-performances-to-attack-description": {
       "Key": "play-guide-using-performances-to-attack-description",
-      "Translation": "shockwave เริ่มต้นที่สร้างขึ้นโดยการล่าสัตว์แตร Performnace มีการโจมตีสูงและพลังงานที่สวยงามทำให้การย้ายที่ทำงานได้อย่างสมบูรณ์เป็นการโจมตีในสิทธิของตนเอง นอกจากนี้คุณยังสามารถโซ่การโจมตีปกติในการปฏิบัติงานและการยกเลิกผลการดำเนินงานกับม้วนหลบ"
+      "Translation": "shockwave เริ่มต้นที่สร้างขึ้นโดยการล่าสัตว์แตร Performnace มีการโจมตีสูงและพลังงานที่สวยงามทำให้การย้ายที่ทำงานได้อย่างสมบูรณ์เป็นการโจมตีในสิทธิของตนเอง นอกจากนี้คุณยังสามารถโซ่การโจมตีปกติในการปฏิบัติงานและการยกเลิกผลการดำเนินงานที่มีการหลบม้วน"
     },
     "play-guide-using-the-environment": {
       "Key": "play-guide-using-the-environment",
@@ -10789,7 +10789,7 @@ export default {
     },
     "play-guide-utilizing-skills-description": {
       "Key": "play-guide-utilizing-skills-description",
-      "Translation": "หนึ่งลื่นขึ้นกับขนาดใหญ่สามารถสะกดภัยพิบัติสำหรับคุณและทีมงานของคุณ ใช้ทักษะเกราะเช่นสุขภาพ Boost หรือทักษะอาหารเช่น Felyne Moxie หรือ Felyne ประกันภัย"
+      "Translation": "หนึ่งลื่นขึ้นกับขนาดใหญ่สามารถสะกดภัยพิบัติสำหรับคุณและทีมงานของคุณ ทักษะการใช้เกราะเช่น Boost สุขภาพหรือทักษะอาหารเช่น Felyne Moxie หรือ Felyne ประกันภัย"
     },
     "play-guide-utilizing-the-environment": {
       "Key": "play-guide-utilizing-the-environment",
@@ -10801,7 +10801,7 @@ export default {
     },
     "play-guide-vigorwasps-description": {
       "Key": "play-guide-vigorwasps-description",
-      "Translation": "Vigorwasps colelct พลังน้ำหวานจะทำให้น้ำผึ้งของพวกเขาและปล่อยมันในเมฆเมื่อหลง นี้สามารถทำหน้าที่เป็นวิธีที่มีประโยชน์ของการรักษาเมื่อออกในเขต"
+      "Translation": "Vigorwasps ทิพย์พลัง colelct จะทำให้น้ำผึ้งของพวกเขาและปล่อยมันในเมฆเมื่อหลง นี้สามารถทำหน้าที่เป็นวิธีที่มีประโยชน์ของการรักษาเมื่อออกในเขต"
     },
     "play-guide-vitalilies": {
       "Key": "play-guide-vitalilies",
@@ -10853,7 +10853,7 @@ export default {
     },
     "play-guide-wiggly-litchi-description": {
       "Key": "play-guide-wiggly-litchi-description",
-      "Translation": "เหล่านี้ตัวอ่อนอุดมด้วยสารอาหารสามารถบริโภคจะลดลงครึ่งหนึ่งสูญเสียความแข็งแกร่งเป็นเวลาสั้น ๆ"
+      "Translation": "เหล่านี้ตัวอ่อนอุดมด้วยสารอาหารสามารถบริโภคที่จะสูญเสียความแข็งแกร่งครึ่งเป็นเวลาสั้น ๆ"
     },
     "play-guide-wyvernblast": {
       "Key": "play-guide-wyvernblast",
@@ -10913,7 +10913,7 @@ export default {
     },
     "poogie-dig-sites-text": {
       "Key": "poogie-dig-sites-text",
-      "Translation": "นอกจากนี้คุณยังสามารถค้นหารายการอื่น ๆ ที่พบในแผนที่ด้านบน หยิกเพื่อซูมภาพได้"
+      "Translation": "นอกจากนี้คุณยังสามารถค้นหารายการอื่น ๆ ที่พบในแผนที่ดังกล่าวข้างต้น หยิกเพื่อซูมภาพได้"
     },
     "poogie-emperors-new-duds": {
       "Key": "poogie-emperors-new-duds",
@@ -10921,7 +10921,7 @@ export default {
     },
     "poogie-emperors-new-duds-how-to-get": {
       "Key": "poogie-emperors-new-duds-how-to-get",
-      "Translation": "ตลอดทางขึ้นภายในจุดสังเกตจะต้องไปผ่านบริเวณหล่อและให้ปีนขึ้นไปสถานที่ Poogie ใน Gazebo คุณจำเป็นต้องเอาชนะ Xeno'jiiva แรก"
+      "Translation": "ตลอดทางขึ้นภายในจุดสังเกตที่ต้องไปผ่านบริเวณหล่อและให้สถานที่ปีนเขา Poogie ใน Gazebo คุณจำเป็นต้องเอาชนะ Xeno'jiiva แรก"
     },
     "poogie-hog-in-a-frog": {
       "Key": "poogie-hog-in-a-frog",
@@ -10937,7 +10937,7 @@ export default {
     },
     "poogie-memorial-stripes": {
       "Key": "poogie-memorial-stripes",
-      "Translation": "ลายอนุสรณ์"
+      "Translation": "อนุสรณ์ลาย"
     },
     "poogie-memorial-stripes-how-to-get": {
       "Key": "poogie-memorial-stripes-how-to-get",
@@ -10949,7 +10949,7 @@ export default {
     },
     "poogie-petting-poogie-text": {
       "Key": "poogie-petting-poogie-text",
-      "Translation": "สัตว์เลี้ยง Poogie, ใกล้มันและกดปุ่มสำหรับสัตว์เลี้ยง รอจนกว่าเครื่องหมายอัศเจรีย์ปรากฏขึ้นเหนือศีรษะและกดวงกลมของตนในการควบคุมของคุณ ทำเช่นนี้ครั้งพอ Poogie จะเริ่มชอบคุณ"
+      "Translation": "สัตว์เลี้ยง Poogie แนวทางและกดปุ่มสำหรับสัตว์เลี้ยง รอจนกว่าเครื่องหมายอัศเจรีย์ปรากฏขึ้นเหนือศีรษะและกดวงกลมในการควบคุมของคุณ ทำเช่นนี้ครั้งพอ Poogie จะเริ่มชอบคุณ"
     },
     "poogie-pumpkins-revenge": {
       "Key": "poogie-pumpkins-revenge",
@@ -10969,7 +10969,7 @@ export default {
     },
     "poogie-sparkling-party": {
       "Key": "poogie-sparkling-party",
-      "Translation": "Sparkling พรรค"
+      "Translation": "พรรคประกาย"
     },
     "poogie-sparkling-party-how-to-get": {
       "Key": "poogie-sparkling-party-how-to-get",
@@ -10981,15 +10981,15 @@ export default {
     },
     "poogie-using-poogie-text": {
       "Key": "poogie-using-poogie-text",
-      "Translation": "หากต้องการใช้ Poogie คุณจำเป็นต้องได้รับไปยังจุดที่ Poogie ทักทายคุณเมื่อกลับมาจากการสืบเสาะ เพียงเลือก Poggie ขึ้นและดำเนินไปรอบ ๆ แอสเทราจนการควบคุมของคุณเริ่มสั่นหรือ Wiggles Poogie ในมือของคุณแล้วใส่เขาลง เมื่อ Poogie พบรายการโต้ตอบกับมันเพื่อดึงรายการ โปรดทราบว่าคุณสามารถหาหนึ่งรายการต่อลอง หากคุณต้องการที่จะหารายการอื่นคุณจะต้องไปในภารกิจอื่นและกลับจากการสืบเสาะเพื่อใช้ Poogie อีกครั้ง"
+      "Translation": "หากต้องการใช้ Poogie คุณจำเป็นต้องได้รับไปยังจุดที่ Poogie ทักทายคุณเมื่อกลับมาจากการสืบเสาะ เพียงเลือก Poggie ขึ้นและดำเนินไปรอบ ๆ แอสเทราจนการควบคุมของคุณเริ่มสั่นหรือสั่น Poogie ในมือของคุณแล้วใส่เขาลง เมื่อ Poogie พบรายการโต้ตอบกับมันเพื่อดึงรายการ โปรดทราบว่าคุณสามารถหาหนึ่งรายการต่อลอง หากคุณต้องการที่จะหารายการอื่นคุณจะต้องไปในภารกิจอื่นและผลตอบแทนจากการสืบเสาะเพื่อใช้ Poogie อีกครั้ง"
     },
     "poogie-white-jammies": {
       "Key": "poogie-white-jammies",
-      "Translation": "Jammies สีขาว"
+      "Translation": "สีขาว Jammies"
     },
     "poogie-white-jammies-how-to-get": {
       "Key": "poogie-white-jammies-how-to-get",
-      "Translation": "ถัดไปไปที่หินฟอสซิลขนาดใหญ่บนด้านซ้ายสุดของพื้นที่วิจัยเชิงนิเวศน์"
+      "Translation": "ถัดจากฟอสซิลหินขนาดใหญ่บนด้านซ้ายสุดของพื้นที่วิจัยเชิงนิเวศน์"
     },
     "query-a-fiery-convergence-description": {
       "Key": "query-a-fiery-convergence-description",
@@ -11005,7 +11005,7 @@ export default {
     },
     "quest-a-blaze-on-the-sand-description": {
       "Key": "quest-a-blaze-on-the-sand-description",
-      "Translation": "ที่นี่ที่เรือเดินสมุทรประการที่สองเราได้รับการทำงานในการพัฒนาเครื่องมือใหม่ที่จะช่วยให้การล่าสัตว์ของคุณ แต่เราต้องการความช่วยเหลือของคุณรวบรวมวัสดุที่เรากำลังนับที่คุณจะใช้แสวงหานี้!"
+      "Translation": "ที่นี่ที่เรือเดินสมุทรประการที่สองเราได้รับการทำงานในการพัฒนาเครื่องมือใหม่ที่จะช่วยให้การล่าสัตว์ของคุณ แต่เราต้องการความช่วยเหลือของคุณรวบรวมวัสดุที่เรานับอยู่ในคุณสามารถใช้การแสวงหานี้!"
     },
     "quest-a-blaze-on-the-sand-notable-rewards": {
       "Key": "quest-a-blaze-on-the-sand-notable-rewards",
@@ -11017,7 +11017,7 @@ export default {
     },
     "quest-a-bone-to-pick-description": {
       "Key": "quest-a-bone-to-pick-description",
-      "Translation": "มันเป็นไปไม่ได้เกือบสำหรับการใด ๆ ของนักวิจัยของเราเพื่อศึกษาฟอสซิลในหุบเขาเน่าเพราะพวกเขาให้การติดอยู่กับที่เสียหาย Radobaan หมุนรอบลงไปที่นั่น ..."
+      "Translation": "มันเป็นไปไม่ได้เกือบสำหรับการใด ๆ ของนักวิจัยของเราเพื่อศึกษาฟอสซิลในหุบเขาเน่าเพราะพวกเขาให้ได้รับการติดอยู่กับที่เสียหาย Radobaan หมุนรอบลงไปที่นั่น ..."
     },
     "quest-a-bone-to-pick-tips": {
       "Key": "quest-a-bone-to-pick-tips",
@@ -11045,7 +11045,7 @@ export default {
     },
     "quest-a-colossal-task-tips": {
       "Key": "quest-a-colossal-task-tips",
-      "Translation": "เริ่มต้นโดยใช้ wingdrake ที่จะลงจอดบนโศราห์ Magdaros' กลับ ให้แน่ใจว่าจะคว้าหินบางส่วนที่อยู่ใกล้กับจุดที่เชื่อมโยงไปถึงของคุณในภายหลัง ตรงไปและคุณควรจะถึงหนึ่งโศราห์ของ Magmacore ทำลายมันทำให้แน่ใจว่าจะหลบพ่นลาวาจากมัน Magmacore วางวัสดุที่เกี่ยวกับการทำลาย หัวหน้าสำหรับ \"หาง\" โศราห์และลงไปจนกว่าคุณจะพบถ้ำกับ Magmacore อื่นทำลายมัน. \\ n \\ nNow ทำวิธีของคุณตลอดทางขึ้นร่างกายโศราห์ Magdaros ปีนเขาจากปีกซ้ายที่คุณควรเจอแมกหินขนาดใหญ่ คุณสามารถทำลายมันสำหรับ 30RP เมื่อที่ด้านบนคุณสามารถกระโดดลงชนิดของดีที่สุดท้าย Magmacore ยืนบางอย่างคุณสามารถทำลายมันในตอนนี้ แต่ก็เป็นไปได้ Nergigante แสดงขึ้นก่อนหน้านั้นและคุณจะต้องกลับมาในภายหลัง \\ n \\ Ngôดูแลว่ารุ่นที่อ่อนแอของ Nergigante มันจะหนีไปหลังจากที่เกิดความเสียหายมากพอที่จะทำกับมันแล้วคุณต้องการที่จะทำลายเหลือ Magmacore ใด ๆ เมื่อ Magmacore ทั้งหมดจะถูกทำลายรอ Wingdrake ที่จะนำคุณใน Barrier คุณสามารถค้นหาเพลงร็อคที่จะทำลายบนปีกขวาโศราห์ของผู้อื่นในขณะที่รอ \\ n \\ N อุปสรรคปืนโหลดและไฟเพื่อให้แน่ใจว่าแถวปืนใหญ่กับตำแหน่งโศราห์ลองที่จะยิงปืนใหญ่ 5 ลูกในครั้งเดียวหมดโศราห์ Magdaros เมื่อไม่มีกระสุนมากขึ้นสลับไปปืนใหญ่อีก ในบางจุดที่ผู้นำทีมงานภาคสนามจะพูดคุยเกี่ยวกับ Dragonslayer ไม่ได้ใช้มันยังให้ยิงปืนใหญ่ที่ย้ายไปยังเรือเล็กทีละน้อย เมื่อไหร่? NPC? กล่าวว่าโศราห์ Magdaros ชาร์จขึ้นสำหรับการโจมตีขนาดใหญ่ใช้คันโยกบนเรือเพื่อเปิดใช้งาน Dragonslayer และหยุดการโจมตีของโศราห์ หลังจากนี้เป็นเพียงเรื่องของเวลาและปืนใหญ่ลูกจนโศราห์ Magdaros ให้ขึ้น"
+      "Translation": "เริ่มต้นโดยใช้ wingdrake ไปยังดินแดนบนโศราห์ Magdaros' กลับ ให้แน่ใจว่าจะคว้าหินบางส่วนที่อยู่ใกล้กับจุดที่เชื่อมโยงไปถึงของคุณในภายหลัง ตรงไปและคุณควรจะถึงหนึ่งโศราห์ของ Magmacore ทำลายมันเพื่อให้แน่ใจว่าหลบพ่นลาวาจากมัน Magmacore วางวัสดุที่เกี่ยวกับการทำลาย หัวหน้าสำหรับ \"หาง\" โศราห์และลงไปจนกว่าคุณจะพบถ้ำกับ Magmacore อื่นทำลายมัน. \\ n \\ nNow ทำวิธีของคุณทุกทางร่างกายโศราห์ Magdaros ที่ปีนเขาจากปีกซ้ายที่คุณควรเจอแมกหินขนาดใหญ่ คุณสามารถทำลายมันสำหรับ 30RP เมื่อที่ด้านบนคุณสามารถกระโดดลงชนิดของดีที่สุดท้าย Magmacore ยืนบางอย่างคุณสามารถทำลายมัน แต่ตอนนี้มันเป็นไปได้ Nergigante แสดงขึ้นก่อนหน้านั้นและคุณจะต้องกลับมาในภายหลัง \\ n \\ Ngôดูแลว่ารุ่นที่อ่อนแอของ Nergigante มันจะหนีไปหลังจากที่เกิดความเสียหายมากพอที่จะทำกับมันแล้วคุณต้องการที่จะทำลายเหลือ Magmacore ใด ๆ เมื่อ Magmacore ทั้งหมดจะถูกทำลายรอ Wingdrake ที่จะนำคุณใน Barrier คุณสามารถค้นหาเพลงร็อคที่จะทำลายบนปีกขวาโศราห์ของผู้อื่นในขณะที่รอ \\ n \\ N อุปสรรคปืนโหลดและไฟเพื่อให้แน่ใจว่าแถวปืนใหญ่กับตำแหน่งของโศราห์พยายามที่จะลูกยิงปืนใหญ่ 5 ในครั้งเดียวหมดโศราห์ Magdaros เมื่อไม่มีกระสุนมากขึ้นสลับไปปืนใหญ่อีก ในบางจุดที่ผู้นำทีมงานภาคสนามจะพูดคุยเกี่ยวกับ Dragonslayer ไม่ได้ใช้มันยังให้ยิงปืนใหญ่ที่ย้ายไปเล็ก ๆ น้อย ๆ โดยเรือเล็ก ๆ น้อย ๆ เมื่อไหร่? NPC? กล่าวว่าโศราห์ Magdaros ชาร์จขึ้นสำหรับการโจมตีขนาดใหญ่ใช้คันโยกบนเรือเพื่อเปิดใช้งาน Dragonslayer และหยุดการโจมตีของโศราห์ หลังจากนี้เป็นเพียงเรื่องของเวลาและปืนใหญ่ลูกจนโศราห์ Magdaros ให้ขึ้น"
     },
     "quest-a-crown-of-mud-and-anger": {
       "Key": "quest-a-crown-of-mud-and-anger",
@@ -11053,15 +11053,15 @@ export default {
     },
     "quest-a-crown-of-mud-and-anger-description": {
       "Key": "quest-a-crown-of-mud-and-anger-description",
-      "Translation": "เราเคยรายงานรบกวนที่มีประสิทธิภาพผิดปกติ Barroth โรมมิ่ง Wildspire เสีย เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตีโคลน caked ของมัน!"
+      "Translation": "เราเคยรายงานรบกวนของที่มีประสิทธิภาพผิดปกติ Barroth โรมมิ่ง Wildspire เสีย เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตีโคลน caked ของมัน!"
     },
     "quest-a-crown-of-mud-and-anger-notes": {
       "Key": "quest-a-crown-of-mud-and-anger-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-a-fiery-convergence": {
       "Key": "quest-a-fiery-convergence",
-      "Translation": "ลู่คะนอง"
+      "Translation": "คะนองบรรจบ"
     },
     "quest-a-fiery-convergence-notable-rewards": {
       "Key": "quest-a-fiery-convergence-notable-rewards",
@@ -11069,11 +11069,11 @@ export default {
     },
     "quest-a-fiery-throne-atop-the-forest": {
       "Key": "quest-a-fiery-throne-atop-the-forest",
-      "Translation": "บัลลังก์ไฟป่าบนยอด"
+      "Translation": "คะนองบัลลังก์บนยอดป่า"
     },
     "quest-a-fiery-throne-atop-the-forest-description": {
       "Key": "quest-a-fiery-throne-atop-the-forest-description",
-      "Translation": "ครั้งแรกของ Wyverian ไม่ gonna ปูดเกี่ยวกับโศราห์จนกว่าเราจะยืนอยู่ด้านบนของห่วงโซ่อาหาร นั่นหมายความว่าเราต้องตามล่าเรา Rathalos! ... หมายความว่าเราจะต้องกินมันเกินไป?"
+      "Translation": "The First Wyverian ไม่ได้จะปูดเกี่ยวกับโศราห์จนกว่าเราจะยืนอยู่ด้านบนของห่วงโซ่อาหาร นั่นหมายความว่าเราต้องตามล่าเรา Rathalos! ... นั่นหมายความว่าเราจะต้องกินมันเกินไป?"
     },
     "quest-a-flash-in-the-pan": {
       "Key": "quest-a-flash-in-the-pan",
@@ -11089,11 +11089,11 @@ export default {
     },
     "quest-a-hair-raising-experience-description": {
       "Key": "quest-a-hair-raising-experience-description",
-      "Translation": "เราเคยรายงานรบกวนที่มีประสิทธิภาพผิดปกติ Tobi-Kadachi ปรากฏในป่าโบราณ เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังฟ้าผ่าความเร็วของมัน!"
+      "Translation": "เราเคยรายงานรบกวนของที่มีประสิทธิภาพผิดปกติ Tobi-Kadachi ปรากฏในป่าโบราณ เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังฟ้าผ่าความเร็วของมัน!"
     },
     "quest-a-hair-raising-experience-notes": {
       "Key": "quest-a-hair-raising-experience-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-a-humid-headache": {
       "Key": "quest-a-humid-headache",
@@ -11101,7 +11101,7 @@ export default {
     },
     "quest-a-humid-headache-description": {
       "Key": "quest-a-humid-headache-description",
-      "Translation": "สภาพอากาศชื้นนี้เพื่อให้คุณสามารถตัดอากาศด้วยดาบที่ดี! แผนกของเราจะทำได้ดังนั้นบางควบคุมอุณหภูมิและความชื้นและฉันรู้ว่าเพียงแค่มอนสเตอร์ที่สามารถช่วยบรรเทาบาง!"
+      "Translation": "สภาพอากาศเป็นเช่นนี้ชื้นคุณสามารถตัดอากาศด้วยดาบที่ดี! แผนกของเราสามารถเพื่อควบคุมอุณหภูมิและความชื้นบางอย่างและฉันรู้เพียงมอนสเตอร์ที่สามารถช่วยบรรเทาบาง!"
     },
     "quest-a-kestodon-kerfuffle": {
       "Key": "quest-a-kestodon-kerfuffle",
@@ -11109,7 +11109,7 @@ export default {
     },
     "quest-a-kestodon-kerfuffle-description": {
       "Key": "quest-a-kestodon-kerfuffle-description",
-      "Translation": "ลักษณะโศราห์ Magdaros' มีการขับเคลื่อนฝูง Kestodon ให้ดินแดนใหม่ เราจะต้องการให้คุณออกไปและบางฝูงหัวเนยว่า"
+      "Translation": "ลักษณะโศราห์ Magdaros' มีการขับเคลื่อนฝูง Kestodon ให้ดินแดนใหม่ เราจะต้องการให้คุณออกไปและบางที่ฝูงหัวเนย"
     },
     "quest-a-light-upon-the-rivers-gloom": {
       "Key": "quest-a-light-upon-the-rivers-gloom",
@@ -11121,7 +11121,7 @@ export default {
     },
     "quest-a-light-upon-the-rivers-gloom-notes": {
       "Key": "quest-a-light-upon-the-rivers-gloom-notes",
-      "Translation": "นี่คือการแสวงหาตัวเลือกที่ปรากฏขึ้นหลังจากที่คุณ funished การกำหนดที่ดินของ Convergence และช่วยให้คุณฟาร์มวัสดุ Xeno'jiiva แต่ดูเหมือนว่ามันสุ่มหลังจากที่คุณเสร็จสิ้นการแสวงหาใด ๆ หรือการสอบสวน (มากขึ้นมักจะสูงกว่าตำแหน่งของคุณ) แต่คุณจะได้รับทราบว่าการแสวงหาใช้ได้ มันเป็นเพียงการใช้งานสำหรับช่วงเวลาของทั้งสองเควส หลังจากนั้นมันจะหายไปอีกครั้ง"
+      "Translation": "นี่คือการแสวงหาตัวเลือกที่ปรากฏขึ้นหลังจากที่คุณ funished ดินแดนที่ได้รับมอบหมายของ Convergence และช่วยให้คุณกับวัสดุ Xeno'jiiva ฟาร์ม แต่ดูเหมือนว่ามันสุ่มหลังจากที่คุณเสร็จสิ้นการแสวงหาใด ๆ หรือการสอบสวน (มากขึ้นมักจะสูงกว่าตำแหน่งของคุณ) แต่คุณจะได้รับทราบว่าการแสวงหาใช้ได้ มันเป็นเพียงการใช้งานสำหรับช่วงเวลาของทั้งสองเควส หลังจากนั้นมันจะหายไปอีกครั้ง"
     },
     "quest-a-meow-for-help": {
       "Key": "quest-a-meow-for-help",
@@ -11157,7 +11157,7 @@ export default {
     },
     "quest-a-rotten-thing-to-do": {
       "Key": "quest-a-rotten-thing-to-do",
-      "Translation": "เป็นสิ่งที่เน่าจะทำอย่างไร"
+      "Translation": "เน่าที่จะทำ"
     },
     "quest-a-rotten-thing-to-do-description": {
       "Key": "quest-a-rotten-thing-to-do-description",
@@ -11165,11 +11165,11 @@ export default {
     },
     "quest-a-rotten-thing-to-do-tips": {
       "Key": "quest-a-rotten-thing-to-do-tips",
-      "Translation": "เควสนี้ได้คุณจัดการกับ effluvium, ความเสียหายจัดการก๊าซพื้นที่กว้างถาวร ขณะที่เสียงที่น่ารำคาญคุณสามารถละเว้นมันด้วยทักษะที่มีกลิ่นเหม็นผู้เชี่ยวชาญพบได้บนเกราะหน้าอก Hornetaur จดหมายซึ่งเป็นเรื่องง่ายที่จะฝีมือ. (Girros คอยล์ยังมีสกิลนี้) บางต้านทานอัมพาตสามารถมามีประโยชน์มากเกินไป เริ่มต้นจากค่ายตะวันออกเฉียงใต้ (1) หัวทางทิศตะวันตกและมองหาเส้นทางเสด็จลงมาในภาค 3 เป้าหมายเดินไปรอบ ๆ ระดับที่สองทั้งหมดของเน่า Vale มักจะมี Girros ต่อไปนี้ไม่กี่ รังของมันอยู่ในภาค 7 ในส่วนบน"
+      "Translation": "เควสนี้ได้คุณจัดการกับ effluvium พื้นที่กว้างก๊าซความเสียหายซื้อขายถาวร ขณะที่เสียงที่น่ารำคาญคุณสามารถละเว้นมันด้วยทักษะที่มีกลิ่นเหม็นผู้เชี่ยวชาญพบได้บนเกราะหน้าอก Hornetaur จดหมายซึ่งเป็นเรื่องง่ายที่จะฝีมือ. (Girros คอยล์ยังมีสกิลนี้) บางต้านทานอัมพาตสามารถมามีประโยชน์มากเกินไป เริ่มต้นจากค่ายตะวันออกเฉียงใต้ (1) ทิศตะวันตกศีรษะและมองหาเส้นทางเสด็จลงมาในภาคที่ 3 เดินไปรอบ ๆ เป้าหมายระดับที่สองทั้งหมดของเน่า Vale มักจะมี Girros ต่อไปนี้ไม่กี่ รังของมันอยู่ในภาค 7 ในส่วนบน"
     },
     "quest-a-royal-pain": {
       "Key": "quest-a-royal-pain",
-      "Translation": "ปวดรอยัล"
+      "Translation": "รอยัลปวด"
     },
     "quest-a-royal-pain-description": {
       "Key": "quest-a-royal-pain-description",
@@ -11181,7 +11181,7 @@ export default {
     },
     "quest-a-rush-of-blood-description": {
       "Key": "quest-a-rush-of-blood-description",
-      "Translation": "ไม่นะ! มี ths ใหญ่ 'ol มอนสเตอร์ที่มีลักษณะจำนวนมากเช่นการวิ่งของเรา! gottal ของใครบางคนสงบหนุ่มใหญ่ลง! ช่วยให้เราออกและเราจะให้คุณเกียร์พิเศษบางอย่างสำหรับ Palico ของคุณ!"
+      "Translation": "ไม่นะ! มี ths มอนสเตอร์ขนาดใหญ่ 'ol ที่มีลักษณะจำนวนมากเช่นการวิ่งของเรา! ใครบางคนสงบ gottal เด็กลงใหญ่! ช่วยให้เราออกและเราจะให้คุณเกียร์พิเศษบางอย่างสำหรับ Palico ของคุณ!"
     },
     "quest-a-scalding-scoop": {
       "Key": "quest-a-scalding-scoop",
@@ -11189,7 +11189,7 @@ export default {
     },
     "quest-a-scalding-scoop-description": {
       "Key": "quest-a-scalding-scoop-description",
-      "Translation": "ผมออกที่ได้รับมอบหมายเมื่อ Barnos barfed บางสิ่งบางอย่างที่ผม สิ่งที่มันเป็นมันร้อนร้อนเจ็บปวด! แต่ก็ยังมีขายมาก ๆ ของสำเนาชนิดของร้อน! ช่วยฉันได้รับเรื่องของฉัน!"
+      "Translation": "ผมออกที่ได้รับมอบหมายเมื่อ Barnos barfed บางสิ่งบางอย่างที่ผม สิ่งที่มันเป็นมันร้อนเจ็บปวดร้อน! แต่ก็ยังมีขายมาก ๆ ของสำเนาชนิดของร้อน! ช่วยฉันได้รับเรื่องของฉัน!"
     },
     "quest-a-scalidng-scoop-tips": {
       "Key": "quest-a-scalidng-scoop-tips",
@@ -11197,7 +11197,7 @@ export default {
     },
     "quest-a-simple-task": {
       "Key": "quest-a-simple-task",
-      "Translation": "เป็นงานง่าย"
+      "Translation": "งานง่าย"
     },
     "quest-a-simple-task-description": {
       "Key": "quest-a-simple-task-description",
@@ -11205,7 +11205,7 @@ export default {
     },
     "quest-a-sore-site": {
       "Key": "quest-a-sore-site",
-      "Translation": "เว็บไซต์เจ็บ"
+      "Translation": "เจ็บเว็บไซต์"
     },
     "quest-a-sore-site-description": {
       "Key": "quest-a-sore-site-description",
@@ -11217,7 +11217,7 @@ export default {
     },
     "quest-a-sore-site-notes": {
       "Key": "quest-a-sore-site-notes",
-      "Translation": "เควสโซ่: รู้สึกเสียวซ่ารสจัดส่งขนมปังโท, ติดอยู่ในวิธีของพวกเขาไฟพ่นเบียร์จัดส่งเว็บไซต์เจ็บ RRRRRumble ในเสีย! มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "เควสโซ่: รู้สึกเสียวซ่ารสจัดส่งขนมปังโทติดอยู่ในวิธีของพวกเขาไฟพ่นเบียร์จัดส่งเว็บไซต์เจ็บ RRRRRumble ในเสีย! มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-a-summons-from-below": {
       "Key": "quest-a-summons-from-below",
@@ -11225,7 +11225,7 @@ export default {
     },
     "quest-a-summons-from-below-conditions": {
       "Key": "quest-a-summons-from-below-conditions",
-      "Translation": "Hunt (ระดับการคุกคาม 3) 3 ที่แตกต่างกันอารมณ์พี่มังกรที่จะปลดล็อค"
+      "Translation": "ล่า 3 ที่แตกต่างกันอารมณ์มังกรผู้สูงอายุ (ภัยคุกคามระดับ 3) เพื่อปลดล็อค"
     },
     "quest-a-summons-from-below-description": {
       "Key": "quest-a-summons-from-below-description",
@@ -11241,11 +11241,11 @@ export default {
     },
     "quest-a-thicket-of-thugs-description": {
       "Key": "quest-a-thicket-of-thugs-description",
-      "Translation": "หนึ่งในนักวิจัยข้อมูลของฉันต้องการที่จะเก็บ brightmoss เพื่อการศึกษา ปัญหาเดียวก็คือก็พบว่าส่วนใหญ่อยู่ในถ้ำ เดาสิ่งที่คนอื่นส่วนใหญ่จะพบในถ้ำ? ที่เหมาะสม ... Jagras!"
+      "Translation": "หนึ่งในนักวิจัยข้อมูลของฉันต้องการ brightmoss การเก็บรวบรวมการศึกษา ปัญหาเดียวก็คือก็พบว่าส่วนใหญ่อยู่ในถ้ำ เดาสิ่งที่คนอื่นส่วนใหญ่จะพบในถ้ำ? ที่เหมาะสม ... Jagras!"
     },
     "quest-a-tingling-taste": {
       "Key": "quest-a-tingling-taste",
-      "Translation": "รสชาติรู้สึกเสียวซ่า"
+      "Translation": "รู้สึกเสียวซ่ารสชาติ"
     },
     "quest-a-tingling-taste-description": {
       "Key": "quest-a-tingling-taste-description",
@@ -11253,7 +11253,7 @@ export default {
     },
     "quest-a-tingling-taste-notes": {
       "Key": "quest-a-tingling-taste-notes",
-      "Translation": "เควสโซ่: รู้สึกเสียวซ่ารสจัดส่งขนมปังโท, ติดอยู่ในวิธีของพวกเขาไฟพ่นเบียร์จัดส่งเว็บไซต์เจ็บ RRRRRumble ในเสีย! มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา ปลดล็อกห่วงโซ่การแสวงหาในฐานงานวิจัยที่นำไปสู่ ​​RRRRRumble ในเสีย! การแสวงหาตัวเลือกในภายหลัง"
+      "Translation": "เควสโซ่: รู้สึกเสียวซ่ารสจัดส่งขนมปังโทติดอยู่ในวิธีของพวกเขาไฟพ่นเบียร์จัดส่งเว็บไซต์เจ็บ RRRRRumble ในเสีย! มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ ปลดล็อกห่วงโซ่การสืบเสาะในฐานงานวิจัยที่นำไปสู่ ​​RRRRRumble ในขยะที่! การแสวงหาตัวเลือกในภายหลัง"
     },
     "quest-a-tzitzi-for-science": {
       "Key": "quest-a-tzitzi-for-science",
@@ -11261,7 +11261,7 @@ export default {
     },
     "quest-a-tzitzi-for-science-description": {
       "Key": "quest-a-tzitzi-for-science-description",
-      "Translation": "เราเคยได้ยินการพูดคุยของปะการังไฮแลนด์ของ Tzitzi-Ya-Ku วิธีการที่จะปล่อยออกมากระพริบของแสงที่จะตาบอดศัตรูของมัน เราต้องรู้ว่า mchanics invovled ทีมงานภาคสนามโปรดล่าหนึ่งสำหรับการศึกษาของเรา!"
+      "Translation": "เราเคยได้ยินการพูดคุยของปะการังไฮแลนด์ของ Tzitzi-Ya-Ku วิธีการที่จะปล่อยออกมากระพริบของแสงที่จะตาบอดศัตรูของมัน เราต้องรู้ว่า mchanics invovled ทีมงานภาคสนามโปรดล่าเพื่อการศึกษาของเรา!"
     },
     "quest-a-tzitzi-for-science-tips": {
       "Key": "quest-a-tzitzi-for-science-tips",
@@ -11273,7 +11273,7 @@ export default {
     },
     "quest-a-visitor-from-another-world-description": {
       "Key": "quest-a-visitor-from-another-world-description",
-      "Translation": "พันธมิตรกะเทยของฉันจะไม่ปิดขึ้นเกี่ยวกับบางส่วนของสัตว์ไม่ใช่สัตว์ที่เขาพบใน Wildspire เสีย คุณต้องการที่จะแท็กพร้อม? สิ่งที่มันเป็นก็ผูกพันจะเป็นสิ่งที่น่าสนใจ!"
+      "Translation": "พันธมิตรกะเทยของฉันจะไม่ปิดขึ้นเกี่ยวกับบางส่วนของสัตว์ไม่ใช่สัตว์ที่เขาพบใน Wildspire เสีย คุณอยากแท็กพร้อม? สิ่งที่มันเป็นก็ผูกพันจะเป็นสิ่งที่น่าสนใจ!"
     },
     "quest-a-visitor-from-eorzea": {
       "Key": "quest-a-visitor-from-eorzea",
@@ -11281,7 +11281,7 @@ export default {
     },
     "quest-a-visitor-from-eorzea-description": {
       "Key": "quest-a-visitor-from-eorzea-description",
-      "Translation": "มหึมาปรากฏตัวขึ้นในผู้สูงอายุของ Recess วิธีการแบบเดิมจะไม่ทำงานเรียกร้อง Hunte ที่น่าเชื่อถือ - ผจญภัยเพื่อช่วยปราบสัตว์ร้าย!"
+      "Translation": "มหึมาปรากฏตัวขึ้นในผู้สูงอายุของ Recess วิธีการแบบเดิมจะไม่ทำงานเมื่อโทรที่น่าเชื่อถือ Hunte - ผจญภัยเพื่อช่วยเหลือปราบสัตว์ร้าย!"
     },
     "quest-a-visitor-from-eorzea-extreme": {
       "Key": "quest-a-visitor-from-eorzea-extreme",
@@ -11289,7 +11289,7 @@ export default {
     },
     "quest-a-visitor-from-eorzea-extreme-description": {
       "Key": "quest-a-visitor-from-eorzea-extreme-description",
-      "Translation": "Behemoth อื่นได้ปรากฏตัวขึ้นในผู้สูงอายุของ Recess และเป็นอันตรายมากยิ่งขึ้นกว่าที่ผ่านมา! อัญเชิญผจญภัยอื่น ๆ และปราบสัตว์ร้าย! (ยากเหลือแสน! รางวัลเกราะชั้น Drachen และการ์ดกิลด์ชื่อเรื่อง)"
+      "Translation": "Behemoth อื่นได้ปรากฏตัวขึ้นในผู้สูงอายุของ Recess และเป็นอันตรายมากยิ่งขึ้นกว่าที่ผ่านมา! อัญเชิญแบบผจญภัยอื่น ๆ และ Quell สัตว์! (ยากมากรางวัล! Drachen ชั้นเกราะและชื่อกิลด์การ์ด)"
     },
     "quest-a-whisper-of-white-mane": {
       "Key": "quest-a-whisper-of-white-mane",
@@ -11305,7 +11305,7 @@ export default {
     },
     "quest-a-wound-and-a-thirst-description": {
       "Key": "quest-a-wound-and-a-thirst-description",
-      "Translation": "Nergigante ยาวตาเราจากอีกฟากหนึ่งของข้ามพี่ แต่ตอนนี้เรามีนำมันอยู่ที่ไหน ถ้าเราสามารถเรียนมันอาจแสดงให้เห็นธรรมชาติที่แท้จริงของข้าม"
+      "Translation": "Nergigante ที่ตานานเราจากอีกฟากหนึ่งของพี่ข้าม แต่ตอนนี้เรามีนำมันอยู่ที่ไหน ถ้าเราสามารถเรียนมันอาจแสดงให้เห็นธรรมชาติที่แท้จริงของข้าม"
     },
     "quest-arena-quest-01": {
       "Key": "quest-arena-quest-01",
@@ -11313,7 +11313,7 @@ export default {
     },
     "quest-arena-quest-01-description": {
       "Key": "quest-arena-quest-01-description",
-      "Translation": "ในมุมของมอนสเตอร์: Pukei-Pukei ที่เป็นพิษ Tussler, เครื่องมันดี! เขาจะไม่ฟังเมื่อคุณพูดว่า \"ไม่ลิ้น\"! ใครมีความกล้าที่จะต่อสู้กับมันด้วยอาวุธชุดเกราะและ?"
+      "Translation": "ในมุมมอนสเตอร์: Pukei-Pukei ที่เป็นพิษ Tussler ที่มันดีเครื่อง! เขาจะไม่ฟังเมื่อคุณพูดว่า \"ไม่ลิ้น\"! ใครมีความกล้าที่จะต่อสู้กับมันด้วยอาวุธและชุดเกราะตั้ง?"
     },
     "quest-arena-quest-02": {
       "Key": "quest-arena-quest-02",
@@ -11321,7 +11321,7 @@ export default {
     },
     "quest-arena-quest-02-description": {
       "Key": "quest-arena-quest-02-description",
-      "Translation": "ในมุมของมอนสเตอร์: Kulu-Ya-Ku ที่บดที่ Peckanizer! ถ้านกตัวนี้เป็นคำที่แล้วเป็นคำที่ SMASH! ใครมีความกล้าที่จะต่อสู้กับมันด้วยอาวุธชุดเกราะและ?"
+      "Translation": "ในมุมของมอนสเตอร์: Kulu-Ya-Ku ที่บดที่ Peckanizer! ถ้านกตัวนี้เป็นคำที่แล้วเป็นคำที่ SMASH! ใครมีความกล้าที่จะต่อสู้กับมันด้วยอาวุธและชุดเกราะตั้ง?"
     },
     "quest-arena-quest-03": {
       "Key": "quest-arena-quest-03",
@@ -11329,7 +11329,7 @@ export default {
     },
     "quest-arena-quest-03-description": {
       "Key": "quest-arena-quest-03-description",
-      "Translation": "ในมุมของมอนสเตอร์: ระเฑียรราชินี O' สีเขียว Skyborne Slasher! ไม่ได้รับผู้หญิงโกรธ เธอเป็นพิษ! ใครมีความกล้าที่จะต่อสู้ของเธอกับอาวุธชุดเกราะและ?"
+      "Translation": "ในมุมของมอนสเตอร์: ระเฑียรราชินี O' สีเขียว Skyborne Slasher! ไม่ได้รับผู้หญิงโกรธ พิษของเธอ! ใครมีความกล้าที่จะต่อสู้ของเธอกับอาวุธและชุดเกราะตั้ง?"
     },
     "quest-arena-quest-04": {
       "Key": "quest-arena-quest-04",
@@ -11337,7 +11337,7 @@ export default {
     },
     "quest-arena-quest-04-description": {
       "Key": "quest-arena-quest-04-description",
-      "Translation": "ในมุมมอนสเตอร์: Tzitzi-Ya-Ku ที่ Stunner สัตว์จำพวกจระเข้ที่ Flashinator! Beastie นี้ร้อนจะวิ่งเหยาะๆและปรับที่จะส่องแสง! ใครมีความกล้าที่จะต่อสู้กับมันด้วยอาวุธชุดเกราะและ?"
+      "Translation": "ในมุมมอนสเตอร์: Tzitzi-Ya-Ku ที่สัตว์จำพวกจระเข้ตะลึงลานที่ Flashinator! Beastie นี้ร้อนจะวิ่งเหยาะๆและปรับเพื่อความเงางาม! ใครมีความกล้าที่จะต่อสู้กับมันด้วยอาวุธและชุดเกราะตั้ง?"
     },
     "quest-arena-quest-05": {
       "Key": "quest-arena-quest-05",
@@ -11345,7 +11345,7 @@ export default {
     },
     "quest-arena-quest-05-description": {
       "Key": "quest-arena-quest-05-description",
-      "Translation": "ในมุมของมอนสเตอร์: Barroth ที่อุ้ยอ้ายโขกที่ Skullcracker! แพ้ผู้ชายคนนี้และชื่อของคุณเป็นโคลน! ใครมีความกล้าที่จะต่อสู้กับมันด้วยอาวุธชุดเกราะและ?"
+      "Translation": "ในมุมของมอนสเตอร์: Barroth การอุ้ยอ้ายโขกที่ Skullcracker! แพ้ผู้ชายคนนี้และชื่อของคุณเป็นโคลน! ใครมีความกล้าที่จะต่อสู้กับมันด้วยอาวุธและชุดเกราะตั้ง?"
     },
     "quest-arena-quest-06": {
       "Key": "quest-arena-quest-06",
@@ -11353,7 +11353,7 @@ export default {
     },
     "quest-arena-quest-06-description": {
       "Key": "quest-arena-quest-06-description",
-      "Translation": "ในมุมของมอนสเตอร์: Dodogama ที่มหึมาของบูมที่ Crucnher! สิ่งที่พัดขึ้นต้องนำคุณลง! ใครมีความกล้าที่จะต่อสู้กับมันด้วยอาวุธชุดเกราะและ?"
+      "Translation": "ในมุมของมอนสเตอร์: Dodogama ที่มหึมาของบูมที่ Crucnher! สิ่งที่พัดขึ้นต้องนำคุณลง! ใครมีความกล้าที่จะต่อสู้กับมันด้วยอาวุธและชุดเกราะตั้ง?"
     },
     "quest-arena-quest-07": {
       "Key": "quest-arena-quest-07",
@@ -11361,7 +11361,7 @@ export default {
     },
     "quest-arena-quest-07-description": {
       "Key": "quest-arena-quest-07-description",
-      "Translation": "ในมุมของมอนสเตอร์: Azure Rathalos, ไพลินสุลต่าน True Blue หวาดกลัว! กราบไหว้พระมหากษัตริย์ของ wyverns ทั้งหมด! ใครมีความกล้าที่จะต่อสู้กับมันด้วยอาวุธชุดเกราะและ?"
+      "Translation": "ในมุมมอนสเตอร์: Azure Rathalos, ไพลินสุลต่าน True Blue หวาดกลัว! กราบไหว้พระมหากษัตริย์ของ wyverns ทั้งหมด! ใครมีความกล้าที่จะต่อสู้กับมันด้วยอาวุธและชุดเกราะตั้ง?"
     },
     "quest-arena-quest-08": {
       "Key": "quest-arena-quest-08",
@@ -11369,7 +11369,7 @@ export default {
     },
     "quest-arena-quest-08-description": {
       "Key": "quest-arena-quest-08-description",
-      "Translation": "ในมุมของมอนสเตอร์: แท็กทีม Radobaan-Uragaan! ล้อจะเปลี่ยนและจำนวนของขึ้น! ใครมีความกล้าที่จะต่อสู้กับ 'em ด้วยอาวุธชุดเกราะและ?"
+      "Translation": "ในมุมมอนสเตอร์: เป็น Radobaan-Uragaan แท็กทีม! ล้อจะเปลี่ยนและหมายเลขของคุณขึ้น! ใครมีความกล้าที่จะต่อสู้กับ 'em ด้วยอาวุธชุดเกราะและ?"
     },
     "quest-arena-quest-09": {
       "Key": "quest-arena-quest-09",
@@ -11377,7 +11377,7 @@ export default {
     },
     "quest-arena-quest-09-description": {
       "Key": "quest-arena-quest-09-description",
-      "Translation": "ในมุมของมอนสเตอร์: เป็น Diablos-Black Diablos แท็กทีม! เคยเจาะหูของคุณ? ตอนนี้ลองรุ่นมาก! ใครมีความกล้าที่จะต่อสู้กับ 'em ด้วยอาวุธชุดเกราะและ?"
+      "Translation": "ในมุมมอนสเตอร์: เป็น Diablos-Black Diablos แท็กทีม! เคยเจาะหูของคุณ? ตอนนี้ลองรุ่นมาก! ใครมีความกล้าที่จะต่อสู้กับ 'em ด้วยอาวุธชุดเกราะและ?"
     },
     "quest-ballooning-problems": {
       "Key": "quest-ballooning-problems",
@@ -11385,7 +11385,7 @@ export default {
     },
     "quest-ballooning-problems-description": {
       "Key": "quest-ballooning-problems-description",
-      "Translation": "... ฉันขอโทษฉันเพียงแค่ retched คิดเกี่ยวกับใบหน้าของมอนสเตอร์ที่ อย่างจริงจังคุณจะทำมันชอบ ... และเราเกินไป ล่ามันและเรือเหาะวิศวกรจะมีทุกอย่างที่เขาต้องการ"
+      "Translation": "ความคิด ... ฉันขอโทษฉันเพียงแค่ retched เกี่ยวกับใบหน้าของมอนสเตอร์ที่ อย่างจริงจังคุณจะทำมันชอบ ... และเราเกินไป ล่ามันและเรือเหาะวิศวกรจะมีทุกอย่างที่เขาต้องการ"
     },
     "quest-bazelgeuse-in-the-field-of-fire": {
       "Key": "quest-bazelgeuse-in-the-field-of-fire",
@@ -11409,27 +11409,27 @@ export default {
     },
     "quest-bird-brained-bandit-description": {
       "Key": "quest-bird-brained-bandit-description",
-      "Translation": "Kulu-Ya-Ku ใช้แขนกระฉับกระเฉงในการดำเนินการวัตถุ ปล่อยทิ้งไว้ก็มีแนวโน้มที่จะวิ่งหนีด้วยวัสดุสำคัญ ขั้นตอนที่หนึ่งของการสร้างค่ายที่เชื่อถือได้ตามล่าโจรที่!"
+      "Translation": "Kulu-Ya-Ku ใช้แขนกระฉับกระเฉงในการพกพาวัตถุ ปล่อยทิ้งไว้ก็มีแนวโน้มที่จะวิ่งหนีด้วยวัสดุสำคัญ หนึ่งในขั้นตอนของการสร้างค่ายที่เชื่อถือได้ตามล่าโจรที่!"
     },
     "quest-blue-prominence": {
       "Key": "quest-blue-prominence",
-      "Translation": "รุ่งเรืองสีน้ำเงิน"
+      "Translation": "ฟ้ารุ่งเรือง"
     },
     "quest-blue-prominence-description": {
       "Key": "quest-blue-prominence-description",
-      "Translation": "ผมก็ออกจากการศึกษา habis กินอาหารของสัตว์บางท้องถิ่นที่น่ารักอย่างจริงจังเมื่อ - Wowzers - ยักษ์พี่มังกรสีฟ้าปรากฏขึ้น! ดูแลมันดังนั้นฉันสามารถกลับไปที่การวิจัยเรื่อง!"
+      "Translation": "ผมออกจากการศึกษา habis กินอาหารของสัตว์บางท้องถิ่นที่น่ารักอย่างจริงจังเมื่อ - Wowzers - ยักษ์สีฟ้าพี่ปรากฏมังกร! ดูแลมันดังนั้นฉันสามารถกลับไปที่การวิจัยเรื่องนั้น!"
     },
     "quest-brown-desert-green-queen": {
       "Key": "quest-brown-desert-green-queen",
-      "Translation": "สีน้ำตาลทะเลทรายราชินีสีเขียว"
+      "Translation": "สีน้ำตาลทะเลทรายสีเขียวราชินี"
     },
     "quest-brown-desert-green-queen-description": {
       "Key": "quest-brown-desert-green-queen-description",
-      "Translation": "เราเคยรายงานรบกวนของระเฑียรที่มีประสิทธิภาพผิดปกติที่ปรากฏใน Wildspire เสีย เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังหางพิษของมัน!"
+      "Translation": "เราเคยรายงานรบกวนของระเฑียรที่มีประสิทธิภาพผิดปกติที่ปรากฏใน Wildspire เสีย เริ่มต้นการสอบสวนของคุณ ASAP แต่ระวังหางพิษของมัน!"
     },
     "quest-brown-desert-green-queen-notes": {
       "Key": "quest-brown-desert-green-queen-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-butting-heads-with-nature": {
       "Key": "quest-butting-heads-with-nature",
@@ -11437,11 +11437,11 @@ export default {
     },
     "quest-butting-heads-with-nature-description": {
       "Key": "quest-butting-heads-with-nature-description",
-      "Translation": "เสียหาย Kestodon! ทุกครั้งที่เราออกไปเก็บตัวอย่างสิ่งมีชีวิตที่น่ารำคาญเคาะเราบน tushes ของเรา! ฉันหวังว่าพวกเขาจะยุ่งจากการวิจัยของเรา!"
+      "Translation": "เสียหาย Kestodon! ทุกครั้งที่เราออกไปตัวอย่างการเก็บรวบรวมสิ่งมีชีวิตที่น่ารำคาญเคาะเราบน tushes ของเรา! ฉันหวังว่าพวกเขาจะยุ่งจากการวิจัยของเรา!"
     },
     "quest-butting-heads-with-nature-tips": {
       "Key": "quest-butting-heads-with-nature-tips",
-      "Translation": "เริ่มต้นจากค่ายภาคใต้ (1) และหัวออกในภาค 1 ถึงพบชาย 1 และ 2 หญิง Kestodon Revolture จะลงมากินศพของพวกเขา จากนั้นมุ่งหน้าไปยังภาค 4 (สามารถหาต้อนกระต่าย Blissbill ทาง) ไปลงทางลาดเพื่อค้นหา 2 เพศชายและเพศหญิง 3 คุณสามารถจับปลาทูน่า Gastronome ในน้ำและอาจจะหายากกษัตริย์มาร์ลินในช่วงเวลากลางวัน จากนั้นผ่านภาค 3 แล้ว 2 ไปถึงภาค 12 และกลุ่ม Kestodon สุดท้าย คุณสามารถใช้ Slinger เพื่อให้แขวนหินยักษ์ตกอยู่กับพวกเขา คุณสามารถจับภาพ Omenfly ในพื้นที่นี้"
+      "Translation": "เริ่มต้นจากภาคใต้ค่าย (1) และหัวออกในภาค 1 ถึงพบชาย 1 และ 2 หญิง Kestodon Revolture จะลงมากินศพของพวกเขา จากนั้นมุ่งหน้าไปยังภาค 4 (สามารถหาต้อนกระต่าย Blissbill ทาง) ไปลงทางลาดเพื่อค้นหา 2 เพศชายและเพศหญิง 3 คุณสามารถจับปลาทูน่า Gastronome ในน้ำและอาจจะหายากกษัตริย์มาร์ลินในช่วงเวลากลางวัน จากนั้นผ่านภาค 3 แล้ว 2 ภาคการเข้าถึง 12 และกลุ่ม Kestodon สุดท้าย คุณสามารถใช้ Slinger เพื่อให้แขวนหินยักษ์ตกอยู่กับพวกเขา คุณสามารถจับภาพ Omenfly ในพื้นที่นี้"
     },
     "quest-camp-crasher": {
       "Key": "quest-camp-crasher",
@@ -11449,15 +11449,15 @@ export default {
     },
     "quest-camp-crasher-description": {
       "Key": "quest-camp-crasher-description",
-      "Translation": "เช้าวันหนึ่งที่อื่น ๆ ของนักวิจัยของฉันตื่นไปเข้าค่ายของเขาได้รับเบอร์เบิ้นโดยหนึ่งในผู้ลักขโมย Kulu-Ya-Ku ทำอะไรกับมันก่อนที่มันจะ ransacks ค่ายอื่น!"
+      "Translation": "เช้าวันหนึ่งของนักวิจัยอื่น ๆ ของฉันตื่นไปเข้าค่ายของเขาได้รับเบอร์เบิ้นโดยหนึ่งในผู้ลักขโมย Kulu-Ya-Ku ทำอะไรกับมันก่อนที่มันจะ ransacks ค่ายอื่น!"
     },
     "quest-camp-crasher-tips": {
       "Key": "quest-camp-crasher-tips",
-      "Translation": "เริ่มจากภาคตะวันออกเฉียงเหนือค่าย (11) หรือวิธีการของคุณไปยังภาค 5 และมองหารอยเท้าเป้าหมาย / ขนในขณะที่มุ่งหน้าไปทางทิศเหนือ เส้นทางของคุณควรจะข้ามในบางจุด"
+      "Translation": "เริ่มจากภาคตะวันออกเฉียงเหนือค่าย (11) หรือวิธีการของคุณไปยังภาค 5 และมองหาเป้าหมายรอยเท้า / ขนในขณะที่มุ่งหน้าไปทางทิศเหนือ เส้นทางของคุณควรจะข้ามในบางจุด"
     },
     "quest-chef-quest-a-rotten-request": {
       "Key": "quest-chef-quest-a-rotten-request",
-      "Translation": "เควสเชฟ! คำขอเน่า"
+      "Translation": "เควสเชฟ! เน่าขอ"
     },
     "quest-chef-quest-a-rotten-request-description": {
       "Key": "quest-chef-quest-a-rotten-request-description",
@@ -11465,7 +11465,7 @@ export default {
     },
     "quest-chef-quest-a-rotten-request-notable-rewards": {
       "Key": "quest-chef-quest-a-rotten-request-notable-rewards",
-      "Translation": "ส่วนผสมเนื้อสัตว์ steeled"
+      "Translation": "ส่วนผสม steeled เนื้อสัตว์"
     },
     "quest-chef-quest-a-rotten-request-tips": {
       "Key": "quest-chef-quest-a-rotten-request-tips",
@@ -11477,11 +11477,11 @@ export default {
     },
     "quest-chef-quest-gajalaka-lockdown-description": {
       "Key": "quest-chef-quest-gajalaka-lockdown-description",
-      "Translation": "Meow พระเจ้าของฉัน! เป็น 'คน tryin' Lil เหล่านี้จะดิ้นในคุณ? แสดง 'em สิ่งที่คุณกำลัง packin'! สมมติว่า ... 10 reps! * ปลดล็อคใหม่โรงอาหารส่วนผสมเสร็จครั้งแรก"
+      "Translation": "Meow พระเจ้าของฉัน! เป็น 'คน Tryin' Lil เหล่านี้จะดิ้นในคุณ? แสดง 'em สิ่งที่คุณกำลัง packin'! สมมติว่า ... 10 reps! * ปลดล็อคใหม่โรงอาหารส่วนผสมเสร็จครั้งแรก"
     },
     "quest-chef-quest-gajalaka-lockdown-notable-rewards": {
       "Key": "quest-chef-quest-gajalaka-lockdown-notable-rewards",
-      "Translation": "ส่วนผสม Yellowtail กักขฬะ Gajalaka ร่าง"
+      "Translation": "กักขฬะ Yellowtail ส่วนผสม Gajalaka ร่าง"
     },
     "quest-chef-quest-pumped-to-deliver": {
       "Key": "quest-chef-quest-pumped-to-deliver",
@@ -11489,11 +11489,11 @@ export default {
     },
     "quest-chef-quest-pumped-to-deliver-description": {
       "Key": "quest-chef-quest-pumped-to-deliver-description",
-      "Translation": "ตอนนี้คุณได้ทำงานทั้งร่างกายส่วนบนและล่างของคุณคุณพร้อมที่จะนำไปใช้งานที่ดี !? ดี! Let 's Work! * ปลดล็อคใหม่โรงอาหารส่วนผสมเสร็จครั้งแรก"
+      "Translation": "ตอนนี้คุณได้ทำงานทั้งร่างกายส่วนบนและล่างของคุณคุณพร้อมที่จะนำไปใช้งานที่ดี !? ดี! งาน Let 's! * ปลดล็อคใหม่โรงอาหารส่วนผสมเสร็จครั้งแรก"
     },
     "quest-chef-quest-pumped-to-deliver-notable-rewards": {
       "Key": "quest-chef-quest-pumped-to-deliver-notable-rewards",
-      "Translation": "ส่วนผสมผ้าขี้ริ้ว Tangy"
+      "Translation": "ส่วนผสม Tangy ผ้าขี้ริ้ว"
     },
     "quest-chef-quest-pumped-to-deliver-tips": {
       "Key": "quest-chef-quest-pumped-to-deliver-tips",
@@ -11505,7 +11505,7 @@ export default {
     },
     "quest-chew-the-fat-description": {
       "Key": "quest-chew-the-fat-description",
-      "Translation": "โย่มีการสืบเสาะสำหรับคุณ แต่ไม่ต้องกังวลนี้เป็นสิทธิขึ้นซอยของคุณ เรามีคู่ของสห Jagras ที่จำเป็นต้องได้รับการดูแล Trust me, ผลตอบแทนมันจะคุ้มค่า"
+      "Translation": "โย่มีการสืบเสาะสำหรับคุณ แต่ไม่ต้องกังวลนี้เป็นสิทธิขึ้นซอยของคุณ เรามีคู่ของสห Jagras ว่าจำเป็นที่จะต้องได้รับการดูแล Trust me, ผลตอบแทนมันจะคุ้มค่า"
     },
     "quest-client": {
       "Key": "quest-client",
@@ -11561,7 +11561,7 @@ export default {
     },
     "quest-client-cool-fiver": {
       "Key": "quest-client-cool-fiver",
-      "Translation": "เย็นหลอด"
+      "Translation": "ปหลอด"
     },
     "quest-client-daredevil-editor": {
       "Key": "quest-client-daredevil-editor",
@@ -11577,11 +11577,11 @@ export default {
     },
     "quest-client-elite-defender": {
       "Key": "quest-client-elite-defender",
-      "Translation": "กองหลังยอด"
+      "Translation": "ยอดกองหลัง"
     },
     "quest-client-endemic-life-researcher": {
       "Key": "quest-client-endemic-life-researcher",
-      "Translation": "นักวิจัยชีวิตถิ่น"
+      "Translation": "นักวิจัยพืชถิ่นเดียวของชีวิต"
     },
     "quest-client-excitable-a-lister": {
       "Key": "quest-client-excitable-a-lister",
@@ -11613,23 +11613,23 @@ export default {
     },
     "quest-client-i-hate-this-forkin-forest": {
       "Key": "quest-client-i-hate-this-forkin-forest",
-      "Translation": "ฉันเกลียดป่านี้ Forkin'"
+      "Translation": "ฉันเกลียดนี้ Forkin' ป่า"
     },
     "quest-client-impatient-biologist": {
       "Key": "quest-client-impatient-biologist",
-      "Translation": "นักชีววิทยาใจร้อน"
+      "Translation": "ใจร้อนนักชีววิทยา"
     },
     "quest-client-laid-back-botanist": {
       "Key": "quest-client-laid-back-botanist",
-      "Translation": "พฤกษศาสตร์วางกลับ"
+      "Translation": "วางกลับพฤกษศาสตร์"
     },
     "quest-client-long-black-haired-hunter": {
       "Key": "quest-client-long-black-haired-hunter",
-      "Translation": "ยาวสีดำที่มีผมฮันเตอร์"
+      "Translation": "ยาวผมสีดำฮันเตอร์"
     },
     "quest-client-lost-scholar": {
       "Key": "quest-client-lost-scholar",
-      "Translation": "Lost Scholar"
+      "Translation": "หายไป Scholar"
     },
     "quest-client-newly-single-commission-member": {
       "Key": "quest-client-newly-single-commission-member",
@@ -11661,7 +11661,7 @@ export default {
     },
     "quest-client-shy-scholar": {
       "Key": "quest-client-shy-scholar",
-      "Translation": "Scholar ขี้อาย"
+      "Translation": "ขี้อาย Scholar"
     },
     "quest-client-smart-biologist": {
       "Key": "quest-client-smart-biologist",
@@ -11673,7 +11673,7 @@ export default {
     },
     "quest-client-stupendous-crew": {
       "Key": "quest-client-stupendous-crew",
-      "Translation": "ลูกเรือที่น่าทึ่ง"
+      "Translation": "มหัศจรรย์ลูกเรือ"
     },
     "quest-client-stylish-red-fiver": {
       "Key": "quest-client-stylish-red-fiver",
@@ -11741,7 +11741,7 @@ export default {
     },
     "quest-code-red-description": {
       "Key": "quest-code-red-description",
-      "Translation": "ตำนานกล่าวว่าในดินแดนที่ห่างไกลออกไปเป็นนักล่าปีศาจในเสื้อสีแดง offed ปีศาจด้วยสไตล์หวาน sickeningly วิธีการเกี่ยวกับที่เราทำตำนานออกมาจากคุณเกินไป? หากคุณสนใจกระโดดใน"
+      "Translation": "ตำนานกล่าวว่าในที่ห่างไกลออกไปจากที่ดิน, นักล่าปีศาจในเสื้อสีแดง offed ปีศาจด้วยสไตล์หวาน sickeningly วิธีการเกี่ยวกับที่เราทำตำนานออกมาจากคุณเกินไป? หากคุณสนใจกระโดดใน"
     },
     "quest-completed": {
       "Key": "quest-completed",
@@ -11793,7 +11793,7 @@ export default {
     },
     "quest-conditions-capture-hr-anjanath": {
       "Key": "quest-conditions-capture-hr-anjanath",
-      "Translation": "จับ Anjanath ทรัพยากรบุคคล"
+      "Translation": "จับ HR Anjanath"
     },
     "quest-conditions-capture-hr-azure-rathalos": {
       "Key": "quest-conditions-capture-hr-azure-rathalos",
@@ -11809,7 +11809,7 @@ export default {
     },
     "quest-conditions-capture-hr-diablos": {
       "Key": "quest-conditions-capture-hr-diablos",
-      "Translation": "จับ Diablos ทรัพยากรบุคคล"
+      "Translation": "จับ HR Diablos"
     },
     "quest-conditions-capture-hr-legiana": {
       "Key": "quest-conditions-capture-hr-legiana",
@@ -11841,7 +11841,7 @@ export default {
     },
     "quest-conditions-capture-hr-rathian": {
       "Key": "quest-conditions-capture-hr-rathian",
-      "Translation": "จับระเฑียรทรัพยากรบุคคล"
+      "Translation": "จับ HR ระเฑียร"
     },
     "quest-conditions-capture-hr-tobi-kadachi": {
       "Key": "quest-conditions-capture-hr-tobi-kadachi",
@@ -11949,7 +11949,7 @@ export default {
     },
     "quest-contract-trouble-in-the-ancient-forest-description": {
       "Key": "quest-contract-trouble-in-the-ancient-forest-description",
-      "Translation": "ทีมงานภาคสนามความสนใจ! ความผิดปกติได้ถูกค้นพบในป่าโบราณ ช่วย Witcher แก้ปัญหานี้ ในการแสวงหานี้คุณจะได้รับในการเล่นเป็นของ Geralt Rivia"
+      "Translation": "ทีมงานภาคสนามความสนใจ! ความผิดปกติได้ถูกค้นพบในป่าโบราณ ช่วยแก้ไขปัญหานี้ Witcher ในการแสวงหานี้คุณจะได้รับในการเล่นเป็นของ Geralt Rivia"
     },
     "quest-contract-woodland-spirit": {
       "Key": "quest-contract-woodland-spirit",
@@ -11957,7 +11957,7 @@ export default {
     },
     "quest-contract-woodland-spirit-description": {
       "Key": "quest-contract-woodland-spirit-description",
-      "Translation": "พอร์ทัลปรากฏอยู่ในป่าโบราณและสัตว์ประหลาดมาผ่านมัน สัตว์ที่เรียกว่าจิตวิญญาณของป่าและเป็นอันตรายอย่างยิ่ง ระดับ Quest ใกล้จะตายมีนาคม! ความยากลำบากใน The Witcher 3"
+      "Translation": "พอร์ทัลปรากฏอยู่ในป่าโบราณและสัตว์ประหลาดมาผ่านมัน สัตว์ที่เรียกว่าจิตวิญญาณของป่าและเป็นอันตรายอย่างยิ่ง ระดับใกล้เควสตายมีนาคม! ความยากลำบากใน The Witcher 3"
     },
     "quest-coral-waltz": {
       "Key": "quest-coral-waltz",
@@ -11969,7 +11969,7 @@ export default {
     },
     "quest-deep-green-blues": {
       "Key": "quest-deep-green-blues",
-      "Translation": "เรือใบสีฟ้าสีเขียวลึก"
+      "Translation": "ลึกเรือใบสีฟ้าสีเขียว"
     },
     "quest-deep-green-blues-description": {
       "Key": "quest-deep-green-blues-description",
@@ -11989,7 +11989,7 @@ export default {
     },
     "quest-dodogama-drama-tips": {
       "Key": "quest-dodogama-drama-tips",
-      "Translation": "Dodogama สามารถพบหินรับประทานอาหารในภาค 7, 8 และ 9 มันควรจะเป็นมอนสเตอร์ครั้งแรกที่ใช้ระเบิดโจมตีคุณพบในเกมจึงควรระมัดระวัง"
+      "Translation": "Dodogama สามารถพบได้กินหินในภาค 7, 8 และ 9 มันควรจะเป็นมอนสเตอร์ครั้งแรกที่ใช้การโจมตีระเบิดที่คุณพบในเกมจึงควรระมัดระวัง"
     },
     "quest-effluvial-opera": {
       "Key": "quest-effluvial-opera",
@@ -12025,11 +12025,11 @@ export default {
     },
     "quest-exterminator-of-the-waste-description": {
       "Key": "quest-exterminator-of-the-waste-description",
-      "Translation": "ฉันต้องการให้คุณออกไป Wildspire เสียและของเสียไม่กี่ Vespoids แล้ว ... หรือเป็นฉันชอบที่จะเรียกพวกเขา punchin' ถุงที่มีปีก"
+      "Translation": "ฉันต้องการให้คุณออกไป Wildspire เสียและของเสียไม่กี่ Vespoids ... หรือเป็นฉันชอบที่จะเรียกพวกเขา punchin' ถุงที่มีปีก"
     },
     "quest-exterminator-of-the-waste-tips": {
       "Key": "quest-exterminator-of-the-waste-tips",
-      "Translation": "เริ่มต้นจากภาคตะวันตกเฉียงใต้ค่าย (1) หัวไปทางทิศตะวันออกในขณะที่อยู่ทางด้านทิศใต้จนถึงภาค 9 และพื้นที่โคลนขนาดเล็ก Vespoid จะบินไปรอบ ๆ ต้นไม้ในภาคนี้ใช้ Slinger จะฆ่าพวกเขาโดยไม่ทำลายศพของพวกเขาหากคุณจำเป็นต้องใช้สื่อ คุณสามารถรอที่นี่สำหรับพวกเขาที่จะเกิดใหม่หรือหัวทางตอนเหนือในถ้ำที่ใช้เส้นทางที่เหมาะสมที่จะนำไปสู่รังระเฑียรและฆ่า Vespoid ใน 2 หลุมรอบ ๆ"
+      "Translation": "เริ่มต้นที่ภาคตะวันตกเฉียงใต้ค่าย (1) หัวไปทางทิศตะวันออกในขณะที่อยู่ทางด้านทิศใต้จนถึงภาค 9 และพื้นที่โคลนขนาดเล็ก Vespoid จะบินไปรอบ ๆ ต้นไม้ในภาคนี้ใช้ Slinger จะฆ่าพวกเขาโดยไม่ทำลายศพของพวกเขาหากคุณจำเป็นต้องใช้สื่อ คุณสามารถรอที่นี่สำหรับพวกเขาที่จะ respawn หรือหัวทางตอนเหนือในถ้ำให้ใช้เส้นทางที่เหมาะสมที่จะนำไปสู่รังระเฑียรและฆ่า Vespoid ใน 2 หลุมรอบ ๆ"
     },
     "quest-failure-barroth-is-slain": {
       "Key": "quest-failure-barroth-is-slain",
@@ -12045,11 +12045,11 @@ export default {
     },
     "quest-failure-faint-3-times": {
       "Key": "quest-failure-faint-3-times",
-      "Translation": "ลม 3 ครั้ง"
+      "Translation": "มัว 3 ครั้ง"
     },
     "quest-failure-faint-9-times": {
       "Key": "quest-failure-faint-9-times",
-      "Translation": "ลม 9 ครั้ง"
+      "Translation": "มัว 9 ครั้ง"
     },
     "quest-failure-odogaron-is-slain": {
       "Key": "quest-failure-odogaron-is-slain",
@@ -12061,7 +12061,7 @@ export default {
     },
     "quest-flesh-cleaved-to-bone": {
       "Key": "quest-flesh-cleaved-to-bone",
-      "Translation": "เนื้อกระดูกที่กระจายออกไป"
+      "Translation": "เกาะติดเนื้อกระดูก"
     },
     "quest-flesh-cleaved-to-bone-description": {
       "Key": "quest-flesh-cleaved-to-bone-description",
@@ -12081,7 +12081,7 @@ export default {
     },
     "quest-fungal-flexin-in-the-ancient-forest": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest",
-      "Translation": "Flexin เชื้อราในป่าโบราณ"
+      "Translation": "เชื้อรา Flexin' ในป่าโบราณ"
     },
     "quest-fungal-flexin-in-the-ancient-forest-description": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-description",
@@ -12089,11 +12089,11 @@ export default {
     },
     "quest-fungal-flexin-in-the-ancient-forest-notable-rewards": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-notable-rewards",
-      "Translation": "ส่วนผสม Shroomcap สกปรก"
+      "Translation": "ส่วนผสมเปื้อน Shroomcap"
     },
     "quest-fungal-flexin-in-the-ancient-forest-tips": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-tips",
-      "Translation": "เริ่มจากภาคตะวันออกเฉียงเหนือค่าย (11) ถ้าปลดล็อคหรือไปผ่านภาค 1> 3> 4 ที่จะได้รับไปยังภาค 5 ที่มีบางส่วนที่ไม่ซ้ำอาณานิคมเห็ด คุณสามารถจับภาพ Paratoad, Flashfly, Woodland Pteryx และอาจจะหายากป่า Pteryx ในภาคนี้ โปรดใช้ความระมัดระวังเกี่ยวกับ Anjanath และ Pukei-Pukei ที่ชอบที่จะเดินในภาคนี้ แสงจันทร์เห็ดสามารถวางไข่ในช่วงการแสวงหานี้ ไปทางเหนือจากภาค 5 และมองด้านซ้ายอีกไม่ซ้ำอาณานิคมเห็ดบนกิ่งไม้ขนาดใหญ่ที่นำไปสู่คุณขึ้น ทำตามสาขาและเข้าไปในถ้ำด้านทิศเหนือขนาดเล็กสำหรับเห็ดมากขึ้น คุณสามารถจับ Omenfly ในถ้ำนี้"
+      "Translation": "เริ่มจากภาคตะวันออกเฉียงเหนือค่าย (11) ถ้าปลดล็อคหรือไปผ่านภาค 1> 3> 4 ที่จะได้รับไปยังภาค 5 ที่มีบางส่วนที่ไม่ซ้ำอาณานิคมเห็ด คุณสามารถจับภาพ Paratoad, Flashfly, Woodland Pteryx และอาจจะหายากป่า Pteryx ในภาคนี้ โปรดใช้ความระมัดระวังเกี่ยวกับ Anjanath และ Pukei-Pukei ที่ชอบที่จะเดินในภาคนี้ แสงจันทร์เห็ดสามารถวางไข่ในช่วงการแสวงหานี้ ทิศตะวันตกเฉียงเหนือไปจากภาค 5 และดูทางด้านซ้ายอีกไม่ซ้ำอาณานิคมเห็ดบนกิ่งไม้ขนาดใหญ่ที่นำไปสู่คุณขึ้น ทำตามสาขาและไปลงในด้านทิศตะวันตกเฉียงเหนือถ้ำขนาดเล็กสำหรับเห็ดมากขึ้น คุณสามารถจับ Omenfly ในถ้ำนี้"
     },
     "quest-gaze-upon-the-dawn": {
       "Key": "quest-gaze-upon-the-dawn",
@@ -12101,7 +12101,7 @@ export default {
     },
     "quest-gaze-upon-the-dawn-description": {
       "Key": "quest-gaze-upon-the-dawn-description",
-      "Translation": "เมื่อใดก็ตามที่ฉันเห็นโศราห์ Magdaros ฉันไม่สามารถช่วย แต่รู้สึกเศร้าและบิตคิดถึงบ้าน Let 's เสร็จสิ้นการวิจัยของเราดังนั้นผมจึงสามารถกลับไปยังโลกเก่าและตอบสนองต้นแบบและอดีตเพื่อนร่วมทีมได้อีกครั้ง!"
+      "Translation": "เมื่อใดก็ตามที่ฉันเห็นโศราห์ Magdaros ผมไม่สามารถช่วย แต่รู้สึกเศร้าและคิดถึงบ้านบิต เสร็จ Let 's ขึ้นการวิจัยของเราเพื่อให้สามารถกลับไปยังโลกเก่าและตอบสนองต้นแบบและอดีตเพื่อนร่วมทีมได้อีกครั้ง!"
     },
     "quest-gettin-yolked-in-the-forest": {
       "Key": "quest-gettin-yolked-in-the-forest",
@@ -12109,11 +12109,11 @@ export default {
     },
     "quest-gettin-yolked-in-the-forest-description": {
       "Key": "quest-gettin-yolked-in-the-forest-description",
-      "Translation": "คุณพร้อมสำหรับวันขา !? ดี! คุณจะต้อง 'em เมื่อคุณกำลังวิ่งออกมาจากระเฑียรที่! ตอนนี้ไปรับฉันเสียงฟี้อย่าง-otein ของฉัน!"
+      "Translation": "คุณพร้อมสำหรับวันขา !? ดี! คุณจะต้อง 'em เมื่อคุณกำลังวิ่งออกมาจากที่ระเฑียร! ตอนนี้ไปรับฉันเสียงฟี้อย่าง-otein ของฉัน!"
     },
     "quest-gettin-yolked-in-the-forest-tips": {
       "Key": "quest-gettin-yolked-in-the-forest-tips",
-      "Translation": "เริ่มต้นจากป่าค่ายโบราณ (17) และให้แน่ใจว่าคุณมี Ghillie เสื้อคลุม (ทักษะ Transporter Pro สามารถมามีประโยชน์มากเกินไป), หัวรังระเฑียรตลอดทางขึ้นในภาคที่ 16 โดยทำตามเส้นทางภาคใต้ ใส่เสื้อคลุม Ghillie บนและเลือก Wyvern ไข่คุณไม่สามารถลอดผ่านสาขาที่มีไข่เพื่อไปลงทางลาดทางทิศตะวันตก (คุณสามารถเลื่อนลงมาได้อย่างปลอดภัย) และมองหาทางออกทางด้านทิศเหนือแล้วก็กลับไป ค่ายและทำซ้ำครั้งเดียว หากคุณมีความรวดเร็วพอที่คุณสามารถวิ่งได้เร็วกว่าระเฑียรโดยไม่ต้อง Ghillie เสื้อคลุมที่ระเฑียรไม่สามารถทำตามที่คุณในภาค 17"
+      "Translation": "เริ่มต้นที่ค่ายป่าโบราณ (17) และให้แน่ใจว่าคุณมี Ghillie เสื้อคลุม (ทักษะ Transporter Pro สามารถมามีประโยชน์มากเกินไป), หัวรังระเฑียรตลอดทางขึ้นในภาคที่ 16 โดยทำตามเส้นทางภาคใต้ ใส่เสื้อคลุม Ghillie บนและเลือก Wyvern ไข่คุณไม่สามารถลอดผ่านสาขาที่มีไข่เพื่อไปลงทางลาดทางทิศตะวันตก (คุณสามารถเลื่อนลงมาได้อย่างปลอดภัย) และมองหาทางออกทางด้านทิศเหนือแล้วก็กลับไป ค่ายและทำซ้ำครั้งเดียว หากคุณมีความรวดเร็วพอที่คุณสามารถวิ่งได้เร็วกว่าโดยไม่ต้องระเฑียร Ghillie เสื้อคลุมที่ระเฑียรไม่สามารถทำตามที่คุณในภาค 17"
     },
     "quest-gettin-yolked-in-the-waste": {
       "Key": "quest-gettin-yolked-in-the-waste",
@@ -12125,7 +12125,7 @@ export default {
     },
     "quest-gettin-yolked-in-the-waste-tips": {
       "Key": "quest-gettin-yolked-in-the-waste-tips",
-      "Translation": "นำ Ghillie เสื้อคลุม (ทักษะ Transporter Pro สามารถมามีประโยชน์เกินไป) เริ่มต้นจากภาคตะวันตกเฉียงใต้ค่าย (1) และหัวไปทางทิศตะวันออกจะหารังมังสวิรัติ ใส่เสื้อคลุม Ghillie บนและเลือกหนึ่งของไข่ที่นำมันกลับไปที่ค่าย Ghillie ปกคลุมทำให้มันเพื่อให้มอนสเตอร์จะไม่ทำตามที่คุณและพยายามที่จะทำให้คุณวางไข่ เพียงแค่การจัดการความแข็งแกร่งของคุณเป็นตี 0 จะทำให้คุณวางไว้ คุณสามารถม้วนวิ่งและปีนกับวัตถุ แต่ไม่หมอบคลานอยู่ใต้โพรงเล็ก ๆ"
+      "Translation": "นำ Ghillie เสื้อคลุม (ทักษะ Transporter Pro สามารถมามีประโยชน์เกินไป) เริ่มต้นจากภาคตะวันตกเฉียงใต้ค่าย (1) และหัวไปทางทิศตะวันออกจะหารังมังสวิรัติ ใส่เสื้อคลุม Ghillie บนและเลือกหนึ่งของไข่ที่นำมันกลับไปที่ค่าย Ghillie ปกคลุมทำให้มันเพื่อให้มอนสเตอร์จะไม่ทำตามที่คุณและพยายามที่จะทำให้คุณวางไข่ เพียงแค่การจัดการความแข็งแกร่งของคุณเป็นตี 0 จะทำให้คุณวางไว้ คุณสามารถม้วนวิ่งและปีนกับวัตถุ แต่ไม่หมอบอยู่ใต้โพรงเล็ก ๆ"
     },
     "quest-gone-in-a-flash": {
       "Key": "quest-gone-in-a-flash",
@@ -12141,7 +12141,7 @@ export default {
     },
     "quest-gone-in-a-flash-notes": {
       "Key": "quest-gone-in-a-flash-notes",
-      "Translation": "นี่คือการแสวงหาครั้งแรกในเกมที่ขอให้คุณฆ่าพี่มังกร เควสนี้จะถูกปลดล็อกผ่านจบสี่เควสไม่จำเป็นต้องให้คุณจับมอนสเตอร์ขนาดใหญ่ได้รับจากนักชีววิทยาใจร้อน"
+      "Translation": "นี่คือการแสวงหาครั้งแรกในเกมที่ขอให้คุณฆ่าพี่มังกร เควสนี้จะถูกปลดล็อกผ่านจบสี่เควสไม่จำเป็นต้องให้คุณจับมอนสเตอร์ขนาดใหญ่ได้รับจากใจร้อนนักชีววิทยา"
     },
     "quest-googly-eyed-green-monster": {
       "Key": "quest-googly-eyed-green-monster",
@@ -12149,11 +12149,11 @@ export default {
     },
     "quest-googly-eyed-green-monster-description": {
       "Key": "quest-googly-eyed-green-monster-description",
-      "Translation": "เราเคยรายงานรบกวนที่มีประสิทธิภาพผิดปกติ Pukei-Pukei ปรากฏในป่าโบราณ เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตีพิษของมัน!"
+      "Translation": "เราเคยรายงานรบกวนของที่มีประสิทธิภาพผิดปกติ Pukei-Pukei ปรากฏในป่าโบราณ เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตีพิษของมัน!"
     },
     "quest-googly-eyed-green-monster-notes": {
       "Key": "quest-googly-eyed-green-monster-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-greeting-the-gluttons": {
       "Key": "quest-greeting-the-gluttons",
@@ -12169,11 +12169,11 @@ export default {
     },
     "quest-hard-to-swallow-description": {
       "Key": "quest-hard-to-swallow-description",
-      "Translation": "เราเคยรายงานรบกวนที่มีประสิทธิภาพที่ดีผิดปกติ Jagras ปรากฏในป่าโบราณ เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังกระหายโลภของมัน!"
+      "Translation": "เราเคยรายงานรบกวนของที่มีประสิทธิภาพที่ดีผิดปกติ Jagras ปรากฏในป่าโบราณ เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังกระหายโลภของมัน!"
     },
     "quest-hard-to-swallow-notes": {
       "Key": "quest-hard-to-swallow-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-he-taketh-it-with-his-eyes": {
       "Key": "quest-he-taketh-it-with-his-eyes",
@@ -12181,7 +12181,7 @@ export default {
     },
     "quest-he-taketh-it-with-his-eyes-description": {
       "Key": "quest-he-taketh-it-with-his-eyes-description",
-      "Translation": "มันเป็นมหึมาสัตว์ Eorzean ในผู้สูงอายุของ Recess ฟังคำแนะนำ Moogle ที่เรียกร้องให้ Hunte ที่น่าเชื่อถืออื่น ๆ - การผจญภัยที่จะช่วยระงับความหวาดกลัวนี้!"
+      "Translation": "มันเป็นมหึมาสัตว์ Eorzean ในผู้สูงอายุของ Recess ฟังคำแนะนำของ Moogle โทรเมื่อ Hunte ที่น่าเชื่อถืออื่น ๆ - การผจญภัยเพื่อช่วยเหลือระงับความหวาดกลัวนี้!"
     },
     "quest-hellfires-stronghold": {
       "Key": "quest-hellfires-stronghold",
@@ -12201,11 +12201,11 @@ export default {
     },
     "quest-horned-tyrant-below-the-sands": {
       "Key": "quest-horned-tyrant-below-the-sands",
-      "Translation": "ทรราชหงอนด้านล่างแซนด์ส"
+      "Translation": "หงอนทรราชด้านล่างแซนด์"
     },
     "quest-horned-tyrant-below-the-sands-description": {
       "Key": "quest-horned-tyrant-below-the-sands-description",
-      "Translation": "ครั้งแรกของ Wyverian ไม่ gonna ปูดเกี่ยวกับโศราห์จนกว่าเราจะยืนอยู่ด้านบนของห่วงโซ่อาหาร นั่นหมายความว่าเราต้องตามล่าเรา Diablos! ... หมายความว่าเราจะต้องกินมันเกินไป?"
+      "Translation": "The First Wyverian ไม่ได้จะปูดเกี่ยวกับโศราห์จนกว่าเราจะยืนอยู่ด้านบนของห่วงโซ่อาหาร นั่นหมายความว่าเราต้องตามล่าเรา Diablos! ... นั่นหมายความว่าเราจะต้องกินมันเกินไป?"
     },
     "quest-infernal-monarchy": {
       "Key": "quest-infernal-monarchy",
@@ -12229,7 +12229,7 @@ export default {
     },
     "quest-invader-in-the-waste-description": {
       "Key": "quest-invader-in-the-waste-description",
-      "Translation": "Pukei-Pukei ใน Wildspire เสีย !? ราวกับว่าไม่แปลกอยู่แล้วพอของคนนี้พิเศษที่ยากลำบาก เราได้เจอได้ที่ด้านล่างนี้! ระวังพันธมิตร!"
+      "Translation": "Pukei-Pukei ใน Wildspire เสีย !? ราวกับว่าไม่เพียงพอแปลกของคนนี้พิเศษที่ยากลำบาก เราได้เจอได้ที่ด้านล่างนี้! ระวังพันธมิตร!"
     },
     "quest-it-cant-see-you-if-you-dont-move": {
       "Key": "quest-it-cant-see-you-if-you-dont-move",
@@ -12237,11 +12237,11 @@ export default {
     },
     "quest-it-cant-see-you-if-you-dont-move-description": {
       "Key": "quest-it-cant-see-you-if-you-dont-move-description",
-      "Translation": "เราเคยรายงานรบกวนที่มีประสิทธิภาพผิดปกติ Anjanath ปรากฏในป่าโบราณ เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตีคะนองของมัน!"
+      "Translation": "เราเคยรายงานรบกวนของ Anjanath มีประสิทธิภาพผิดปกติที่ปรากฏในป่าโบราณ เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตีคะนองของมัน!"
     },
     "quest-it-cant-see-you-if-you-dont-move-notes": {
       "Key": "quest-it-cant-see-you-if-you-dont-move-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-its-a-crying-shamos": {
       "Key": "quest-its-a-crying-shamos",
@@ -12265,7 +12265,7 @@ export default {
     },
     "quest-jagras-of-the-ancient-forest-description": {
       "Key": "quest-jagras-of-the-ancient-forest-description",
-      "Translation": "ลักษณะโศราห์ Magdaros ได้นำเกี่ยวกับการเปลี่ยนแปลงในระบบนิเวศในท้องถิ่น มุ่งหน้าเข้าไปในดินแดน Jagras ในการตรวจสอบและนำพวกเขาออกในกรณีที่จำเป็น"
+      "Translation": "ลักษณะโศราห์ Magdaros ได้นำเกี่ยวกับการเปลี่ยนแปลงในระบบนิเวศในท้องถิ่น หัวเข้าไปในดินแดน Jagras ในการตรวจสอบและนำพวกเขาออกในกรณีที่จำเป็น"
     },
     "quest-keep-your-hands-to-yourself": {
       "Key": "quest-keep-your-hands-to-yourself",
@@ -12273,11 +12273,11 @@ export default {
     },
     "quest-keep-your-hands-to-yourself-description": {
       "Key": "quest-keep-your-hands-to-yourself-description",
-      "Translation": "เราเคยรายงานรบกวนที่มีประสิทธิภาพผิดปกติ Kulu-Ya-Ku โรมมิ่ง Wildspire เสีย เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตีฉลาดของมัน!"
+      "Translation": "เราเคยรายงานรบกวนของที่มีประสิทธิภาพผิดปกติ Kulu-Ya-Ku โรมมิ่ง Wildspire เสีย เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตีฉลาดของมัน!"
     },
     "quest-keep-your-hands-to-yourself-notes": {
       "Key": "quest-keep-your-hands-to-yourself-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-keeper-of-the-otherworld": {
       "Key": "quest-keeper-of-the-otherworld",
@@ -12309,7 +12309,7 @@ export default {
     },
     "quest-kushala-daora-dragon-of-steel-description": {
       "Key": "quest-kushala-daora-dragon-of-steel-description",
-      "Translation": "แทร็คมังกรผู้สูงอายุในป่า? Kushala Daora ฉันแน่ใจว่าของมัน เรารู้ว่ามันเป็นในผู้สูงอายุของ Recess เพื่อความปลอดภัยของทุกคนในแอสเทราที่เรากำลังนับอยู่กับคุณ!"
+      "Translation": "พี่แทร็คมังกรในป่า? Kushala Daora ฉันแน่ใจว่าของมัน เรารู้ว่ามันเป็นในผู้สูงอายุของ Recess เพื่อความปลอดภัยของทุกคนในแอสเทราที่เรากำลังนับอยู่กับคุณ!"
     },
     "quest-land-of-convergence": {
       "Key": "quest-land-of-convergence",
@@ -12317,7 +12317,7 @@ export default {
     },
     "quest-land-of-convergence-description": {
       "Key": "quest-land-of-convergence-description",
-      "Translation": "พลังงานอันยิ่งใหญ่ไหลผ่านโลกใหม่และเราได้พบว่าที่มันทั้งหมดจะนำไปสู่ ไปกับผู้สมัครและหาสิ่งที่มี อาจไพลินดาวแนะนำพวกเราทุกคน"
+      "Translation": "พลังงานอันยิ่งใหญ่ไหลผ่านโลกใหม่และเราได้พบว่าที่มันนำไปสู่ทุกคนที่จะ ไปกับผู้สมัครและหาสิ่งที่มี อาจไพลินดาวแนะนำพวกเราทุกคน"
     },
     "quest-landing-the-landslide-wyvern": {
       "Key": "quest-landing-the-landslide-wyvern",
@@ -12325,11 +12325,11 @@ export default {
     },
     "quest-landing-the-landslide-wyvern-description": {
       "Key": "quest-landing-the-landslide-wyvern-description",
-      "Translation": "Barroth อาศัยอยู่ในหนองน้ำของ Wildspire เสีย แต่รายละเอียดของกิจกรรม, อาหาร, และพฤติกรรมการทำรังของพวกเขายังไม่ทราบ จับหนึ่งที่จะช่วยให้หลั่งน้ำตาแสงในปัญหา"
+      "Translation": "Barroth อาศัยอยู่ในหนองน้ำของ Wildspire เสีย แต่รายละเอียดของกิจกรรม, อาหาร, และพฤติกรรมการทำรังของพวกเขายังไม่ทราบ จับหนึ่งที่จะช่วยหลั่งน้ำตาแสงในปัญหา"
     },
     "quest-landing-the-landslide-wyvern-tips": {
       "Key": "quest-landing-the-landslide-wyvern-tips",
-      "Translation": "สวยคล้ายกับติดหล่มอยู่ใน Spire แต่คุณต้องจับเป้าหมาย เริ่มจากเซ็นทรัลค่าย (6) มองหามันในภาคและต่อสู้จนกว่าจะจ่อหนีไปทางภาค 9 เนื่องจากคุณไม่สามารถใส่กับดักช็อตในน้ำและ Barroth สามารถทำลายโคลนวางกับดักใกล้รอบกระบองเพชร และล่อได้ที่นี่ มันสามารถช่วยให้การใช้ Tranq ระเบิดไม่กี่ขณะที่มอนสเตอร์ที่กำลังหลับอยู่ ถ้ามันเป็นครั้งแรกที่คุณจับ Barroth คุณจะปลดล็อคสนามกีฬาพิเศษ: Barroth การแสวงหาตัวเลือก"
+      "Translation": "สวยคล้ายกับติดหล่มอยู่ใน Spire แต่คุณต้องจับเป้าหมาย เริ่มต้นจากเซ็นทรัลค่าย (6) มองหามันในภาคและต่อสู้จนกว่าจะจ่อหนีไปทางภาค 9 เนื่องจากคุณไม่สามารถใส่กับดักช็อตในน้ำและ Barroth สามารถทำลายโคลนวางกับดักใกล้รอบกระบองเพชร และล่อได้ที่นี่ มันสามารถช่วยให้การใช้งานไม่กี่ Tranq ระเบิดในขณะที่มอนสเตอร์ที่กำลังหลับอยู่ ถ้ามันเป็นครั้งแรกที่คุณจับ Barroth คุณจะปลดล็อคสนามกีฬาพิเศษ: การแสวงหาตัวเลือก Barroth"
     },
     "quest-lavasioth-monster-of-magma": {
       "Key": "quest-lavasioth-monster-of-magma",
@@ -12345,7 +12345,7 @@ export default {
     },
     "quest-left-quite-the-impression-description": {
       "Key": "quest-left-quite-the-impression-description",
-      "Translation": "ไม่ได้เข้าสู่ระบบของโศราห์ Magdaros ทำให้หัวใจของคุณเต้นข้าม? ผมขอรับรองว่าคุณเห็นเกล็ดของมันปิดขึ้นเป็นเพียงเป็นแรงบันดาลใจ มันเป็นความจำเป็นที่เราศึกษามันมากขึ้น"
+      "Translation": "ไม่ได้เข้าสู่ระบบของโศราห์ Magdaros ทำให้หัวใจของคุณเต้นข้าม? ผมขอยืนยันกับคุณได้เห็นเครื่องชั่งน้ำหนักใกล้ชิดขึ้นเป็นเพียงเป็นแรงบันดาลใจ มันเป็นความจำเป็นที่เราศึกษามันมากขึ้น"
     },
     "quest-left-quite-the-impression-notes": {
       "Key": "quest-left-quite-the-impression-notes",
@@ -12357,7 +12357,7 @@ export default {
     },
     "quest-legiana-embodiment-of-elegance-description": {
       "Key": "quest-legiana-embodiment-of-elegance-description",
-      "Translation": "คุณรู้อยู่แล้วว่าวิธีการที่ฉันรู้สึกเกี่ยวกับสิ่งมีชีวิตที่มากเกินไป ตราบใดที่มันจะควบคุมท้องฟ้าในที่ราบสูงที่เราจะไม่สามารถที่จะทำให้การสืบเชื้อสายของเรา ไม่ดูแลมันจะไม่ได้คุณ?"
+      "Translation": "คุณรู้อยู่แล้วว่าวิธีการที่ฉันรู้สึกเกี่ยวกับสิ่งมีชีวิตที่มากเกินไป ตราบใดที่มันจะควบคุมท้องฟ้าในที่ราบสูงที่เราจะไม่สามารถที่จะทำให้การสืบเชื้อสายของเรา ทำดูแลของมันจะไม่ได้คุณ?"
     },
     "quest-legiana-highlands-royalty": {
       "Key": "quest-legiana-highlands-royalty",
@@ -12365,11 +12365,11 @@ export default {
     },
     "quest-legiana-highlands-royalty-description": {
       "Key": "quest-legiana-highlands-royalty-description",
-      "Translation": "เราเคยรายงานรบกวนที่มีประสิทธิภาพผิดปกติ Legiana ปรากฏในคอรัลไฮแลนด์ เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตีที่รวดเร็วและน้ำแข็งของมัน!"
+      "Translation": "เราเคยรายงานรบกวนของที่มีประสิทธิภาพผิดปกติ Legiana ปรากฏในคอรัลไฮแลนด์ เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังที่รวดเร็วและน้ำแข็งโจมตี!"
     },
     "quest-legiana-highlands-royalty-notes": {
       "Key": "quest-legiana-highlands-royalty-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-lessons-of-the-wild": {
       "Key": "quest-lessons-of-the-wild",
@@ -12393,7 +12393,7 @@ export default {
     },
     "quest-like-a-moth-to-the-flame": {
       "Key": "quest-like-a-moth-to-the-flame",
-      "Translation": "เหมือนผีเสื้อกับเปลวไฟที่"
+      "Translation": "เหมือนผีเสื้อกับเปลวไฟ"
     },
     "quest-like-a-moth-to-the-flame-description": {
       "Key": "quest-like-a-moth-to-the-flame-description",
@@ -12405,11 +12405,11 @@ export default {
     },
     "quest-loop-the-paolumu-description": {
       "Key": "quest-loop-the-paolumu-description",
-      "Translation": "เราเคยรายงานรบกวนที่มีประสิทธิภาพผิดปกติ Paolumu ปรากฏในคอรัลไฮแลนด์ เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตี airburst ของมัน!"
+      "Translation": "เราเคยรายงานรบกวนของที่มีประสิทธิภาพผิดปกติ Paolumu ปรากฏในคอรัลไฮแลนด์ เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตี airburst ของมัน!"
     },
     "quest-loop-the-paolumu-notes": {
       "Key": "quest-loop-the-paolumu-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-mans-best-fiend": {
       "Key": "quest-mans-best-fiend",
@@ -12417,15 +12417,15 @@ export default {
     },
     "quest-mans-best-fiend-description": {
       "Key": "quest-mans-best-fiend-description",
-      "Translation": "ฉันคิดถึงจริงๆสัตว์เลี้ยงเก่าของฉัน วันที่เราใช้เวลาไปสวนสาธารณะเล่นดึงข้อมูล ผมยาวสำหรับมิตรภาพที่ ... ความจงรักภักดีที่ กรุณาออกไปและหาฉันใหม่"
+      "Translation": "ฉันคิดถึงจริงๆสัตว์เลี้ยงเก่าของฉัน วันที่เราใช้เวลาไปสวนสาธารณะเล่นดึงข้อมูล ผมยาวสำหรับมิตรภาพที่ ... ความจงรักภักดี กรุณาออกไปและหาฉันใหม่"
     },
     "quest-mans-best-fiend-tips": {
       "Key": "quest-mans-best-fiend-tips",
-      "Translation": "เช่นเดียวกับเกาคัน แต่คุณต้องจับเป้าหมาย ถ้ามันเป็นครั้งแรกที่คุณจับ Odogaron คุณจะปลดล็อคสนามกีฬาพิเศษ: Odogaron การแสวงหาตัวเลือก"
+      "Translation": "เช่นเดียวกับเกาคัน แต่คุณต้องจับเป้าหมาย ถ้ามันเป็นครั้งแรกที่คุณจับ Odogaron คุณจะปลดล็อคสนามกีฬาพิเศษ: การแสวงหาตัวเลือก Odogaron"
     },
     "quest-master-of-the-gale": {
       "Key": "quest-master-of-the-gale",
-      "Translation": "ปริญญาโทของพายุ"
+      "Translation": "ต้นแบบของพายุ"
     },
     "quest-master-of-the-gale-description": {
       "Key": "quest-master-of-the-gale-description",
@@ -12437,7 +12437,7 @@ export default {
     },
     "quest-midnight-mayhem-description": {
       "Key": "quest-midnight-mayhem-description",
-      "Translation": "ห่า, ฉันหายไป? ฉันไม่รู้จักสถานที่แห่งนี้ แหมดีฉันเช่นกันอาจจะมีกองทุนสำรองเลี้ยงชีพในขณะที่บางฉันอยู่ที่นี่! (แปลโดยนักวิจัย Lynian) (ได้รับรางวัลตั๋วพิเศษ)"
+      "Translation": "ห่า, ฉันหายไป? ฉันไม่รู้จักสถานที่แห่งนี้ แหมดีฉันเช่นกันอาจจะมีกองทุนสำรองเลี้ยงชีพในขณะที่บางฉันอยู่ที่นี่! (แปลโดยนักวิจัย Lynian) (พิเศษรางวัลตั๋ว)"
     },
     "quest-minutes": {
       "Key": "quest-minutes",
@@ -12453,7 +12453,7 @@ export default {
     },
     "quest-mired-in-the-spire-tips": {
       "Key": "quest-mired-in-the-spire-tips",
-      "Translation": "เริ่มจากเซ็นทรัลค่าย (6), (ปลาทูน่า Gastronome สามารถพบได้ในค่าย) หัวทางตอนเหนือและเป้าหมายที่ควรจะเป็นรอบ Kestodon มันควรจะหนีไปทางภาค 8 ที่คุณสามารถพยายามที่จะใช้สไลด์ / กระโดดโจมตีติดมัน มันจะหนีไปทางภาค 7 ที่จะต่ออายุการโคลนในร่างกายของตน เมื่อมันเริ่มได้รับอ่อนแอเกินไปก็จะหนีไปทางภาค 9 และครอบคลุมตัวเองอยู่ในโคลน ไม่ประมาทน้ำผลในการเคลื่อนไหวของคุณเมื่อต่อสู้ในพื้นที่นี้ นอกจากนี้ยังเป็นไปไม่ได้ที่จะใส่กับดักช็อตในน้ำลึก"
+      "Translation": "เริ่มต้นจากเซ็นทรัลค่าย (6), (Gastronome ทูน่าสามารถพบได้ในค่าย) หัวทางตอนเหนือและเป้าหมายที่ควรจะเป็นรอบ Kestodon มันควรจะหนีไปทางภาค 8 ที่คุณสามารถพยายามที่จะใช้สไลด์ / กระโดดโจมตีติดมัน มันจะหนีไปทางภาค 7 ที่จะต่ออายุการโคลนในร่างกายของตน เมื่อมันเริ่มได้รับอ่อนแอเกินไปก็จะหนีไปทางภาค 9 และครอบคลุมตัวเองอยู่ในโคลน ไม่ประมาทน้ำผลในการเคลื่อนไหวของคุณเมื่อต่อสู้ในพื้นที่นี้ นอกจากนี้ยังเป็นไปไม่ได้ที่จะนำช็อกกับดักในน้ำลึก"
     },
     "quest-new-world-sky-new-world-flower": {
       "Key": "quest-new-world-sky-new-world-flower",
@@ -12461,7 +12461,7 @@ export default {
     },
     "quest-new-world-sky-new-world-flower-conditions": {
       "Key": "quest-new-world-sky-new-world-flower-conditions",
-      "Translation": "Hunt (ระดับการคุกคาม 2) 7 มอนสเตอร์ที่แตกต่างกันมีอารมณ์ที่จะปลดล็อค"
+      "Translation": "ล่า 7 มอนสเตอร์ที่มีอารมณ์แตกต่างกัน (ระดับการคุกคาม 2) เพื่อปลดล็อค"
     },
     "quest-new-world-sky-new-world-flower-description": {
       "Key": "quest-new-world-sky-new-world-flower-description",
@@ -12529,7 +12529,7 @@ export default {
     },
     "quest-objective-defeat-10-gajalaka": {
       "Key": "quest-objective-defeat-10-gajalaka",
-      "Translation": "ความพ่ายแพ้ของ 10 Gajalaka"
+      "Translation": "ความพ่ายแพ้ 10 Gajalaka"
     },
     "quest-objective-deliver-10-blue-beryl": {
       "Key": "quest-objective-deliver-10-blue-beryl",
@@ -12573,7 +12573,7 @@ export default {
     },
     "quest-objective-guide-zorah-magdaros": {
       "Key": "quest-objective-guide-zorah-magdaros",
-      "Translation": "เป็นแนวทางในโศราห์ Magdaros"
+      "Translation": "คู่มือโศราห์ Magdaros"
     },
     "quest-objective-hunt-13-shamos": {
       "Key": "quest-objective-hunt-13-shamos",
@@ -12845,7 +12845,7 @@ export default {
     },
     "quest-objective-slay-the-behemoth": {
       "Key": "quest-objective-slay-the-behemoth",
-      "Translation": "ฆ่า Behemoth"
+      "Translation": "ฆ่ามหึมา"
     },
     "quest-objective-slay-vaal-hazak": {
       "Key": "quest-objective-slay-vaal-hazak",
@@ -12861,11 +12861,11 @@ export default {
     },
     "quest-odogaron-unleashed-description": {
       "Key": "quest-odogaron-unleashed-description",
-      "Translation": "เราเคยรายงานรบกวนที่มีประสิทธิภาพผิดปกติ Odogaron ปรากฏในเน่าร์ทเวล เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังกรงเล็บที่ทรงพลังของมัน!"
+      "Translation": "เราเคยรายงานรบกวนของที่มีประสิทธิภาพผิดปกติ Odogaron ปรากฏในเน่าร์ทเวล เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังกรงเล็บที่ทรงพลังของมัน!"
     },
     "quest-odogaron-unleashed-notes": {
       "Key": "quest-odogaron-unleashed-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-old-monster-in-the-new-world": {
       "Key": "quest-old-monster-in-the-new-world",
@@ -12873,11 +12873,11 @@ export default {
     },
     "quest-old-monster-in-the-new-world-description": {
       "Key": "quest-old-monster-in-the-new-world-description",
-      "Translation": "ในที่สุดเราได้ติดตามลงแหล่งที่มาของแทร็คที่ลึกลับเหล่านั้น รายงานต่อคอรัลไฮแลนด์และแสวงหามันออก! มันจะได้รับการคาดหวังว่ารายงานของคุณทันทีที่คุณกำลังทำ!"
+      "Translation": "ติดตามเราได้ในที่สุดก็ลงแหล่งที่มาของแทร็คที่ลึกลับเหล่านั้น รายงานคอรัลไฮแลนด์และแสวงหามันออก! มันจะได้รับการคาดหวังว่ารายงานของคุณทันทีที่คุณกำลังทำ!"
     },
     "quest-on-nightmares-wings": {
       "Key": "quest-on-nightmares-wings",
-      "Translation": "บนปีกฝันร้ายของ"
+      "Translation": "เมื่อวันที่ฝันร้ายของปีก"
     },
     "quest-on-nightmares-wings-description": {
       "Key": "quest-on-nightmares-wings-description",
@@ -12885,7 +12885,7 @@ export default {
     },
     "quest-on-nightmares-wings-tips": {
       "Key": "quest-on-nightmares-wings-tips",
-      "Translation": "เควสนี้ได้คุณจัดการกับ effluvium, ความเสียหายจัดการก๊าซพื้นที่กว้างถาวร ขณะที่เสียงที่น่ารำคาญคุณสามารถละเว้นมันด้วยทักษะที่มีกลิ่นเหม็นผู้เชี่ยวชาญพบได้บนเกราะหน้าอก Hornetaur จดหมายซึ่งเป็นเรื่องง่ายที่จะฝีมือ. (Girros คอยล์ยังมีสกิลนี้) เป้าหมายจะบินไปรอบ ๆ ระดับที่สองในภาค 6, 7 และ 9"
+      "Translation": "เควสนี้ได้คุณจัดการกับ effluvium พื้นที่กว้างก๊าซความเสียหายซื้อขายถาวร ขณะที่เสียงที่น่ารำคาญคุณสามารถละเว้นมันด้วยทักษะที่มีกลิ่นเหม็นผู้เชี่ยวชาญพบได้บนเกราะหน้าอก Hornetaur จดหมายซึ่งเป็นเรื่องง่ายที่จะฝีมือ. (Girros คอยล์ยังมีสกิลนี้) เป้าหมายจะบินไปรอบ ๆ ระดับที่สองในภาค 6, 7 และ 9"
     },
     "quest-one-for-the-history-books": {
       "Key": "quest-one-for-the-history-books",
@@ -12901,11 +12901,11 @@ export default {
     },
     "quest-one-helluva-sinus-infection-description": {
       "Key": "quest-one-helluva-sinus-infection-description",
-      "Translation": "ทั้งแผนกของเราคือออกมาพร้อมกับการระบาดของไข้หวัดเพราะ Anjanath ว่า วิธีที่พวกเขาไม่สามารถจะเป็นอย่างไร ป่าโบราณได้รับการคุ้มครองจากบนลงล่างที่มีเมือกที่น่ารังเกียจ!"
+      "Translation": "ทั้งแผนกของเราคือออกมาพร้อมกับไข้หวัดเพราะ Anjanath ว่า วิธีที่พวกเขาไม่สามารถจะเป็นอย่างไร ป่าโบราณได้รับการคุ้มครองจากบนลงล่างที่มีเมือกที่น่ารังเกียจ!"
     },
     "quest-one-helluva-sinus-infection-tips": {
       "Key": "quest-one-helluva-sinus-infection-tips",
-      "Translation": "เริ่มจากภาคตะวันออกเฉียงเหนือค่าย (11) เป้าหมายมาถึงภาค 5 จากทิศตะวันตกเฉียงเหนือของแผนที่ ล่า Anjanath พื้นฐาน"
+      "Translation": "เริ่มต้นที่ภาคตะวันออกเฉียงเหนือค่าย (11) เป้าหมายมาถึงภาค 5 จากทิศตะวันตกเฉียงเหนือของแผนที่ ล่าพื้นฐาน Anjanath"
     },
     "quest-ore-eating-occupier": {
       "Key": "quest-ore-eating-occupier",
@@ -12933,7 +12933,7 @@ export default {
     },
     "quest-persistent-pests-description": {
       "Key": "quest-persistent-pests-description",
-      "Translation": "มีจุดที่ผมบางอย่างซ่อนความลับเพื่อการเจริญเติบโตของต้นไม้โบราณใหม่ แต่ก็เต็มไปด้วย Hornetaurs! * ปลดล็อคช่องวิจัยพฤกษศาสตร์เมื่อเสร็จสิ้นเป็นครั้งแรก"
+      "Translation": "มีจุดที่ฉันซ่อนความลับบางอย่างเพื่อการเจริญเติบโตใหม่ต้นไม้โบราณ แต่ก็เต็มไปด้วย Hornetaurs! * ปลดล็อคช่องวิจัยพฤกษศาสตร์เมื่อเสร็จสิ้นเป็นครั้งแรก"
     },
     "quest-persistent-pests-tips": {
       "Key": "quest-persistent-pests-tips",
@@ -12953,7 +12953,7 @@ export default {
     },
     "quest-prickly-predicament": {
       "Key": "quest-prickly-predicament",
-      "Translation": "สถานการณ์เต็มไปด้วยหนาม"
+      "Translation": "เต็มไปด้วยหนามสถานการณ์"
     },
     "quest-prickly-predicament-description": {
       "Key": "quest-prickly-predicament-description",
@@ -12965,7 +12965,7 @@ export default {
     },
     "quest-prickly-predicament-tips": {
       "Key": "quest-prickly-predicament-tips",
-      "Translation": "จากเซ็นทรัลค่าย (6) ปีนเถาโดยตรงบนทิ้งไว้นอกและไปทางทิศเหนือเพื่อหา 3 รอบกระบองเพชรอีกหนึ่งทางเหนือของสะพานหินและอีกคนหนึ่งทางตะวันออกของ cacti ประชากรแพลตฟอร์ม (ก Diablos ชอบที่จะเดินไปรอบ ๆ ภาค 6) จากค่ายตะวันตกเฉียงใต้ (1) ไปทางตะวันออกเฉียงใต้ที่จะหารอบกระบองเพชรแล้วหัวสำหรับส่วนทางตอนใต้ของภาค 9 ที่จะได้รับอีกคนหนึ่ง สุดท้าย, 3 หรือ 4 จุดวางไข่สามารถพบได้บนโขดหินก่อนทะเลสาบในภาค 10"
+      "Translation": "จากเซ็นทรัลค่าย (6) ปีนเถาโดยตรงด้านนอกซ้ายและไปทางทิศเหนือเพื่อหา 3 รอบกระบองเพชรอีกหนึ่งทางเหนือของสะพานหินและอีกคนหนึ่งทางตะวันออกของ cacti ประชากรแพลตฟอร์ม (ก Diablos ต้องการที่จะเดินไปรอบ ๆ ภาค 6) จากค่ายตะวันตกเฉียงใต้ (1) ไปทางตะวันออกเฉียงใต้ที่จะหารอบกระบองเพชรแล้วหัวสำหรับส่วนทางตอนใต้ของภาค 9 ที่จะได้รับอีกคนหนึ่ง สุดท้าย, 3 หรือ 4 จุดวางไข่สามารถพบได้บนโขดหินก่อนทะเลสาบในภาค 10"
     },
     "quest-pukei-pukei-ambush": {
       "Key": "quest-pukei-pukei-ambush",
@@ -12977,7 +12977,7 @@ export default {
     },
     "quest-pukei-pukei-ambush-notes": {
       "Key": "quest-pukei-pukei-ambush-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-radobaan-roadblock": {
       "Key": "quest-radobaan-roadblock",
@@ -13009,11 +13009,11 @@ export default {
     },
     "quest-rathalos-rematch-description": {
       "Key": "quest-rathalos-rematch-description",
-      "Translation": "เราเคยรายงานรบกวนอีกระเฑียรที่มีประสิทธิภาพผิดปกติในป่าโบราณ ปล่อยให้สัตว์สีแดงรู้ว่าใครจริงๆยืนอยู่บนห่วงโซ่อาหารที่นี่แล้ว!"
+      "Translation": "เราเคยรายงานรบกวนอีกระเฑียรที่มีประสิทธิภาพผิดปกติในป่าโบราณ ขอให้รู้ว่าสัตว์สีแดงที่จริงๆยืนอยู่บนห่วงโซ่อาหารที่นี่แล้ว!"
     },
     "quest-rathalos-rematch-notes": {
       "Key": "quest-rathalos-rematch-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-redefining-the-power-couple": {
       "Key": "quest-redefining-the-power-couple",
@@ -13033,7 +13033,7 @@ export default {
     },
     "quest-relish-the-moment-description": {
       "Key": "quest-relish-the-moment-description",
-      "Translation": "เราได้ค้นพบ Deviljho รุนแรงเมามัน! ดูเหมือนว่าสาเหตุของอารมณ์ที่ไม่ดีของเขาเป็นอาหารของ Streamstones ปราบสัตว์ร้ายและใช้ Streamstones เหล่านั้นสำหรับตัวคุณเอง!"
+      "Translation": "เราได้ค้นพบที่รุนแรงเมามัน Deviljho! ดูเหมือนว่าสาเหตุของอารมณ์ที่ไม่ดีของเขาเป็นอาหารของ Streamstones ปราบสัตว์ร้ายและใช้ Streamstones เหล่านั้นสำหรับตัวคุณเอง!"
     },
     "quest-rock-n-roll-recess": {
       "Key": "quest-rock-n-roll-recess",
@@ -13057,11 +13057,11 @@ export default {
     },
     "quest-royal-relocation-description": {
       "Key": "quest-royal-relocation-description",
-      "Translation": "กลุ่มตัวอย่างที่ฉันต้องการที่จะส่งเสริมการวิจัย MA ต้นไม้โบราณมีสิทธิภายใต้รังของระเฑียร บางทีคุณอาจจะย้ายไปสำหรับฉันหรือไม่"
+      "Translation": "กลุ่มตัวอย่างที่ฉันต้อง MA เพิ่มเติมต้นไม้โบราณวิจัยมีสิทธิภายใต้รังของระเฑียร บางทีคุณอาจจะย้ายไปสำหรับฉันหรือไม่"
     },
     "quest-royal-relocation-tips": {
       "Key": "quest-royal-relocation-tips",
-      "Translation": "ไม่รำคาญกับการป้องกันพิษถ้าคุณไม่สามารถป้องกันไม่ให้มันเพียงแค่นำ Antidote กับคุณและใช้อุปกรณ์ดับทน เริ่มต้นจากภาคตะวันตกเฉียงใต้ค่าย (1) มุ่งหน้าขึ้นเหนือสู่ภาค 2 ป่าเพื่อหาเป้าหมาย ระเฑียรยังคงเป็นความเสี่ยงที่จะเป็นพิษแม้จะมีการโจมตีพิษของมันดังนั้น Poisoncup ในภาค 3 สามารถนำมาใช้ รังของมันคือในด้านอื่น ๆ ของแผนที่ในภาค 12 การเดินทางรวดเร็วค่ายตะวันออก (11) และไต่เถาวัลย์หลังจากน้ำ"
+      "Translation": "ไม่รำคาญกับการป้องกันพิษถ้าคุณไม่สามารถป้องกันไม่ให้มันเพียงแค่นำ Antidote กับคุณและใช้อุปกรณ์ดับทน เริ่มต้นจากภาคตะวันตกเฉียงใต้ค่าย (1) หัวขึ้นเหนือสู่ภาค 2 ป่าเพื่อหาเป้าหมาย ระเฑียรยังคงเป็นความเสี่ยงที่จะเป็นพิษแม้จะมีการโจมตีพิษของมันดังนั้น Poisoncup ในภาค 3 สามารถนำมาใช้ รังของมันคือในด้านอื่น ๆ ของแผนที่ในภาค 12 การเดินทางรวดเร็วค่ายตะวันออก (11) และไต่เถาวัลย์หลังจากน้ำ"
     },
     "quest-rrrrrumble-in-the-waste": {
       "Key": "quest-rrrrrumble-in-the-waste",
@@ -13069,7 +13069,7 @@ export default {
     },
     "quest-rrrrrumble-in-the-waste-conditions": {
       "Key": "quest-rrrrrumble-in-the-waste-conditions",
-      "Translation": "ที่ได้รับจากนายสามสมุทรหลังจากที่เควสที่เริ่มต้นด้วยรสชาติรู้สึกเสียวซ่า"
+      "Translation": "ได้รับจากสามกองเรือโทหลังจากที่เควสเริ่มต้นด้วยรู้สึกเสียวซ่ารสชาติ"
     },
     "quest-rrrrrumble-in-the-waste-description": {
       "Key": "quest-rrrrrumble-in-the-waste-description",
@@ -13077,11 +13077,11 @@ export default {
     },
     "quest-rrrrrumble-in-the-waste-notable-rewards": {
       "Key": "quest-rrrrrumble-in-the-waste-notable-rewards",
-      "Translation": "Booster Affinity ส่วนผสมแอสเทราเบียร์"
+      "Translation": "Affinity Booster, ส่วนผสมแอสเทราเบียร์"
     },
     "quest-rrrrrumble-in-the-waste-notes": {
       "Key": "quest-rrrrrumble-in-the-waste-notes",
-      "Translation": "เควสโซ่: รู้สึกเสียวซ่ารสจัดส่งขนมปังโท, ติดอยู่ในวิธีของพวกเขาไฟพ่นเบียร์จัดส่งเว็บไซต์เจ็บ RRRRRumble ในเสีย! มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา ช่ำชองแบ่งปันมากที่สุดของลักษณะคู่ของพวกเขา แต่โดยทั่วไปมักจะก้าวร้าวมากขึ้นหรือใช้กลยุทธ์ที่แตกต่างกัน"
+      "Translation": "เควสโซ่: รู้สึกเสียวซ่ารสจัดส่งขนมปังโทติดอยู่ในวิธีของพวกเขาไฟพ่นเบียร์จัดส่งเว็บไซต์เจ็บ RRRRRumble ในเสีย! มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ ช่ำชองแบ่งปันมากที่สุดของลักษณะคู่ของพวกเขา แต่โดยทั่วไปมักจะก้าวร้าวมากขึ้นหรือใช้กลยุทธ์ที่แตกต่างกัน"
     },
     "quest-ruler-of-the-azure-skies": {
       "Key": "quest-ruler-of-the-azure-skies",
@@ -13101,11 +13101,11 @@ export default {
     },
     "quest-say-cheese-description": {
       "Key": "quest-say-cheese-description",
-      "Translation": "เราเคยรายงานรบกวนที่มีประสิทธิภาพผิดปกติ Tzitzi-Ya-Ku ปรากฏในคอรัลไฮแลนด์ เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตีทำให้ไม่เห็นแฟลชของมัน!"
+      "Translation": "เราเคยรายงานรบกวนของที่มีประสิทธิภาพผิดปกติ Tzitzi-Ya-Ku ปรากฏในคอรัลไฮแลนด์ เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตีทำให้ไม่เห็นแฟลชของมัน!"
     },
     "quest-say-cheese-notes": {
       "Key": "quest-say-cheese-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-scatternut-shortage": {
       "Key": "quest-scatternut-shortage",
@@ -13113,7 +13113,7 @@ export default {
     },
     "quest-scatternut-shortage-description": {
       "Key": "quest-scatternut-shortage-description",
-      "Translation": "Pukei-Pukei จะต้องมีการแสดงขึ้นเพราะได้รับมากขึ้นและยากขึ้นที่จะรวบรวม scatternuts! เราไม่สามารถเรียน theem ถ้าตัวอย่างเดียวที่เราสามารถรวบรวมถูกปกคลุมไปด้วยยาพิษ!"
+      "Translation": "Pukei-Pukei จะต้องมีการแสดงขึ้นเพราะได้รับมากขึ้นและยากที่จะรวบรวม scatternuts! เราไม่สามารถเรียน theem ถ้าตัวอย่างเดียวที่เราสามารถรวบรวมถูกปกคลุมไปด้วยยาพิษ!"
     },
     "quest-scrapping-with-the-shamos": {
       "Key": "quest-scrapping-with-the-shamos",
@@ -13121,7 +13121,7 @@ export default {
     },
     "quest-scrapping-with-the-shamos-description": {
       "Key": "quest-scrapping-with-the-shamos-description",
-      "Translation": "ฉันได้รับ bombarded กับการร้องขอ n left' ที่เหมาะสมสำหรับสิ่งที่ฉันสวมใส่ แต่ผมจะต้องวัสดุพิเศษบางอย่างเพื่อตอบสนองความต้องการ นั่นเป็นคิวของคุณฮันเตอร์ คุณจะรู้ว่าสิ่งที่ต้องทำ"
+      "Translation": "ฉันได้รับการร้องขอถล่มด้วยซ้าย n' ที่เหมาะสมสำหรับสิ่งที่ฉันสวมใส่ แต่ผมจะต้องวัสดุพิเศษบางอย่างเพื่อตอบสนองความต้องการ นั่นเป็นคิวของคุณฮันเตอร์ คุณจะรู้ว่าสิ่งที่ต้องทำ"
     },
     "quest-scratching-the-itch": {
       "Key": "quest-scratching-the-itch",
@@ -13129,7 +13129,7 @@ export default {
     },
     "quest-scratching-the-itch-description": {
       "Key": "quest-scratching-the-itch-description",
-      "Translation": "เช้านี้ผมตื่นขึ้นมาศักดิ์สิทธิ์ยอดเยี่ยม! ฉันมีความคิดสำหรับสิ่งที่ทุกคนต้องการล่าหลังจากวันที่ยาวนานออกในเขต ... backscratchers Odogaron ต์!"
+      "Translation": "เช้านี้ผมตื่นขึ้นมาศักดิ์สิทธิ์ยอดเยี่ยม! ฉันมีความคิดสำหรับสิ่งที่ทุกความต้องการของนักล่าหลังจากวันที่ยาวนานออกในเขต ... backscratchers Odogaron!"
     },
     "quest-showdown-the-muck-and-the-maul": {
       "Key": "quest-showdown-the-muck-and-the-maul",
@@ -13137,7 +13137,7 @@ export default {
     },
     "quest-showdown-the-muck-and-the-maul-conditions": {
       "Key": "quest-showdown-the-muck-and-the-maul-conditions",
-      "Translation": "ล่า 5 แตกต่างกัน (1 ระดับการคุกคามที่จะปลดล็อค) มอนสเตอร์ที่มีอารมณ์"
+      "Translation": "ล่า 5 ที่แตกต่างกันมอนสเตอร์อารมณ์ (ระดับการคุกคามที่ 1 เพื่อปลดล็อค)"
     },
     "quest-showdown-the-muck-and-the-maul-description": {
       "Key": "quest-showdown-the-muck-and-the-maul-description",
@@ -13149,7 +13149,7 @@ export default {
     },
     "quest-sinister-shadows-in-the-swamp": {
       "Key": "quest-sinister-shadows-in-the-swamp",
-      "Translation": "เงาอุบาทว์ในบึง"
+      "Translation": "อุบาทว์เงาในบึง"
     },
     "quest-sinister-shadows-in-the-swamp-description": {
       "Key": "quest-sinister-shadows-in-the-swamp-description",
@@ -13165,7 +13165,7 @@ export default {
     },
     "quest-snatch-the-snatcher-tips": {
       "Key": "quest-snatch-the-snatcher-tips",
-      "Translation": "เริ่มต้นจากภาคตะวันตกเฉียงใต้ค่าย (1) ใช้ EZ Tranq ระเบิดและ EZ ช็อกกับดักอยู่ในกล่อง Supply จากนั้นไปทางทิศตะวันออกและทิศตะวันตกเฉียงเหนือในภาค 4. เป้าหมายจะมาจากทิศเหนือต่อสู้จนกว่าจะเริ่มอ่อนลงหรือมีไอคอนกะโหลกศีรษะ กระพริบบนแผนที่ขนาดเล็ก มันจะหนีไปยังรังของมันจะกินไข่ใช้ 2 หรือ 3 EZ Tranq ระเบิดกับมันขณะที่มันกินแล้วใช้โช๊ดัก EZ ไปจับมัน"
+      "Translation": "เริ่มต้นจากภาคตะวันตกเฉียงใต้ค่าย (1) ใช้กับดัก EZ Tranq ระเบิดและ EZ ช็อกในกล่อง Supply จากนั้นไปทางทิศตะวันออกและทิศตะวันตกเฉียงเหนือในภาค 4. เป้าหมายจะมาจากทิศเหนือต่อสู้จนกว่าจะเริ่มอ่อนลงหรือมีไอคอนกะโหลกศีรษะ กระพริบบนแผนที่ขนาดเล็ก มันจะหนีไปยังรังของมันจะกินไข่ใช้ 2 หรือ 3 EZ Tranq ระเบิดกับมันขณะที่มันกินแล้วใช้กับดัก EZ ช็อกไปจับมัน"
     },
     "quest-snow-cherry-blossoms": {
       "Key": "quest-snow-cherry-blossoms",
@@ -13173,7 +13173,7 @@ export default {
     },
     "quest-snow-cherry-blossoms-description": {
       "Key": "quest-snow-cherry-blossoms-description",
-      "Translation": "เฮ้ฉันมาข้ามคู่ของ onsters น่ากลัวอย่างแท้จริงในคอรัลไฮแลนด์ คิดว่าคุณอาจจะสนใจ! (โบนัสจุดทรัพยากรบุคคลได้รับรางวัลเมื่อเสร็จสิ้น.)"
+      "Translation": "เฮ้ฉันมาข้ามคู่ของ onsters อย่างแท้จริงที่น่ากลัวในคอรัลไฮแลนด์ คิดว่าคุณอาจจะสนใจ! (โบนัสจุดทรัพยากรบุคคลได้รับรางวัลเมื่อเสร็จสิ้น.)"
     },
     "quest-sorry-youre-not-invited": {
       "Key": "quest-sorry-youre-not-invited",
@@ -13185,7 +13185,7 @@ export default {
     },
     "quest-sorry-youre-not-invited-tips": {
       "Key": "quest-sorry-youre-not-invited-tips",
-      "Translation": "เริ่มต้นจากภาคใต้ค่าย (1) หัวทางตะวันตกเฉียงเหนือในภาค 3 แล้ว 9 และ 5 ถ้าคุณไม่สามารถหาเป้าหมายมันจะเป็นในภาค 8. การต่อสู้สามารถย้ายไปยังภาค 4 ในบางจุดที่สีฟ้า พื้นดินนุ่ม Paolumu สามารถกระแทกพื้นดินและสร้างคลื่นพลังที่ทำให้คุณสูญเสียความมั่นคงของคุณไม่กี่วินาที แต่สตัน Paolumu เหนือพื้นที่ที่จริงจะดักเขาสำหรับจำนวนเงินที่ดีของเวลา รังของมันอยู่ในภาค 9 ภายในโครงสร้างยักษ์ก็จะมักจะบินไปรอบ ๆ พื้นที่เพียงแค่รอให้มันกลับมา"
+      "Translation": "เริ่มต้นจากภาคใต้ค่าย (1) หัวทางตะวันตกเฉียงเหนือในภาค 3 แล้ว 9 และ 5 ถ้าคุณไม่สามารถหาเป้าหมายมันจะเป็นในภาค 8. การต่อสู้สามารถย้ายไปยังภาค 4 ในบางจุดที่สีฟ้า พื้นดินนุ่ม Paolumu สามารถกระแทกพื้นดินและสร้างคลื่นพลังที่ทำให้คุณสูญเสียความมั่นคงของคุณไม่กี่วินาที แต่สตัน Paolumu เหนือพื้นที่ที่จริงจะดักเขาสำหรับจำนวนเงินที่ดีของเวลา รังของมันอยู่ในภาค 9 ภายในโครงสร้างยักษ์ใหญ่ก็มักจะบินไปรอบ ๆ พื้นที่เพียงแค่รอให้มันกลับมา"
     },
     "quest-special-arena-anjanath": {
       "Key": "quest-special-arena-anjanath",
@@ -13193,11 +13193,11 @@ export default {
     },
     "quest-special-arena-anjanath-tips": {
       "Key": "quest-special-arena-anjanath-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-barroth": {
       "Key": "quest-special-arena-barroth",
-      "Translation": "สนามกีฬาพิเศษ: Barroth"
+      "Translation": "พิเศษ Arena: Barroth"
     },
     "quest-special-arena-barroth-description": {
       "Key": "quest-special-arena-barroth-description",
@@ -13205,7 +13205,7 @@ export default {
     },
     "quest-special-arena-barroth-tips": {
       "Key": "quest-special-arena-barroth-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-diablos": {
       "Key": "quest-special-arena-diablos",
@@ -13217,7 +13217,7 @@ export default {
     },
     "quest-special-arena-diablos-tips": {
       "Key": "quest-special-arena-diablos-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-anjanath": {
       "Key": "quest-special-arena-hr-anjanath",
@@ -13225,7 +13225,7 @@ export default {
     },
     "quest-special-arena-hr-anjanath-notes": {
       "Key": "quest-special-arena-hr-anjanath-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-azure-rathalos": {
       "Key": "quest-special-arena-hr-azure-rathalos",
@@ -13233,7 +13233,7 @@ export default {
     },
     "quest-special-arena-hr-azure-rathalos-notes": {
       "Key": "quest-special-arena-hr-azure-rathalos-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-barroth": {
       "Key": "quest-special-arena-hr-barroth",
@@ -13241,7 +13241,7 @@ export default {
     },
     "quest-special-arena-hr-barroth-notes": {
       "Key": "quest-special-arena-hr-barroth-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-black-diablos": {
       "Key": "quest-special-arena-hr-black-diablos",
@@ -13249,15 +13249,15 @@ export default {
     },
     "quest-special-arena-hr-black-diablos-notes": {
       "Key": "quest-special-arena-hr-black-diablos-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-diablos": {
       "Key": "quest-special-arena-hr-diablos",
-      "Translation": "สนามกีฬาพิเศษ: Diablos ทรัพยากรบุคคล"
+      "Translation": "สนามกีฬาพิเศษ: HR Diablos"
     },
     "quest-special-arena-hr-diablos-notes": {
       "Key": "quest-special-arena-hr-diablos-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-legiana": {
       "Key": "quest-special-arena-hr-legiana",
@@ -13265,7 +13265,7 @@ export default {
     },
     "quest-special-arena-hr-legiana-notes": {
       "Key": "quest-special-arena-hr-legiana-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-odogaron": {
       "Key": "quest-special-arena-hr-odogaron",
@@ -13273,7 +13273,7 @@ export default {
     },
     "quest-special-arena-hr-odogaron-notes": {
       "Key": "quest-special-arena-hr-odogaron-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-paolumu": {
       "Key": "quest-special-arena-hr-paolumu",
@@ -13281,7 +13281,7 @@ export default {
     },
     "quest-special-arena-hr-paolumu-notes": {
       "Key": "quest-special-arena-hr-paolumu-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-pink-rathian": {
       "Key": "quest-special-arena-hr-pink-rathian",
@@ -13293,7 +13293,7 @@ export default {
     },
     "quest-special-arena-hr-pukei-pukei-notes": {
       "Key": "quest-special-arena-hr-pukei-pukei-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-radobaan": {
       "Key": "quest-special-arena-hr-radobaan",
@@ -13301,7 +13301,7 @@ export default {
     },
     "quest-special-arena-hr-radobaan-notes": {
       "Key": "quest-special-arena-hr-radobaan-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-rathalos": {
       "Key": "quest-special-arena-hr-rathalos",
@@ -13309,11 +13309,11 @@ export default {
     },
     "quest-special-arena-hr-rathalos-description": {
       "Key": "quest-special-arena-hr-rathalos-description",
-      "Translation": "ผู้ท้าชิงใหม่: Rathalos ที่สีแดงร้อนไรเดอร์ที่ Firestarter! ยกโทษให้แก่บั้งไฟนั้น เขาชอบอาหารของเขาสุก! ถุงมือจะปิด - ไม่ได้ว่าเรามีถุงมือที่ใหญ่ ..."
+      "Translation": "ผู้ท้าชิงใหม่: Rathalos ที่ไรเดอร์สีแดงร้อนที่ Firestarter! ยกโทษให้แก่บั้งไฟนั้น เขาชอบอาหารของเขาสุก! ถุงมือจะปิด - ไม่ได้ว่าเรามีถุงมือที่ใหญ่ ..."
     },
     "quest-special-arena-hr-rathalos-notes": {
       "Key": "quest-special-arena-hr-rathalos-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-rathian": {
       "Key": "quest-special-arena-hr-rathian",
@@ -13321,7 +13321,7 @@ export default {
     },
     "quest-special-arena-hr-rathian-notes": {
       "Key": "quest-special-arena-hr-rathian-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-tobi-kadachi": {
       "Key": "quest-special-arena-hr-tobi-kadachi",
@@ -13329,7 +13329,7 @@ export default {
     },
     "quest-special-arena-hr-tobi-kadachi-notes": {
       "Key": "quest-special-arena-hr-tobi-kadachi-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-uragaan": {
       "Key": "quest-special-arena-hr-uragaan",
@@ -13337,7 +13337,7 @@ export default {
     },
     "quest-special-arena-hr-uragaan-notes": {
       "Key": "quest-special-arena-hr-uragaan-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-legiana": {
       "Key": "quest-special-arena-legiana",
@@ -13345,15 +13345,15 @@ export default {
     },
     "quest-special-arena-legiana-tips": {
       "Key": "quest-special-arena-legiana-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-odogaron": {
       "Key": "quest-special-arena-odogaron",
-      "Translation": "สนามกีฬาพิเศษ: Odogaron"
+      "Translation": "พิเศษ Arena: Odogaron"
     },
     "quest-special-arena-odogaron-tips": {
       "Key": "quest-special-arena-odogaron-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-paolumu": {
       "Key": "quest-special-arena-paolumu",
@@ -13365,7 +13365,7 @@ export default {
     },
     "quest-special-arena-paolumu-tips": {
       "Key": "quest-special-arena-paolumu-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-pukei-pukei": {
       "Key": "quest-special-arena-pukei-pukei",
@@ -13373,15 +13373,15 @@ export default {
     },
     "quest-special-arena-pukei-pukei-tips": {
       "Key": "quest-special-arena-pukei-pukei-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-radobaan": {
       "Key": "quest-special-arena-radobaan",
-      "Translation": "สนามกีฬาพิเศษ: Radobaan"
+      "Translation": "พิเศษ Arena: Radobaan"
     },
     "quest-special-arena-radobaan-tips": {
       "Key": "quest-special-arena-radobaan-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-rathalos": {
       "Key": "quest-special-arena-rathalos",
@@ -13389,7 +13389,7 @@ export default {
     },
     "quest-special-arena-rathalos-tips": {
       "Key": "quest-special-arena-rathalos-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-rathian": {
       "Key": "quest-special-arena-rathian",
@@ -13397,7 +13397,7 @@ export default {
     },
     "quest-special-arena-rathian-tips": {
       "Key": "quest-special-arena-rathian-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-tobi-kadachi": {
       "Key": "quest-special-arena-tobi-kadachi",
@@ -13409,7 +13409,7 @@ export default {
     },
     "quest-special-arena-tobi-kadachi-tips": {
       "Key": "quest-special-arena-tobi-kadachi-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้จะปรากฏเมื่อผู้เล่นจับมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นลำดับ Hunter สูงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-stirrings-from-the-grave": {
       "Key": "quest-stirrings-from-the-grave",
@@ -13425,11 +13425,11 @@ export default {
     },
     "quest-stuck-in-a-rut-description": {
       "Key": "quest-stuck-in-a-rut-description",
-      "Translation": "เราเคยรายงานรบกวนที่มีประสิทธิภาพผิดปกติ Radobaan ปรากฏในเน่าร์ทเวล เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตีของมันกลิ้ง!"
+      "Translation": "เราเคยรายงานรบกวนของที่มีประสิทธิภาพผิดปกติ Radobaan ปรากฏในเน่าร์ทเวล เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตีของมันกลิ้ง!"
     },
     "quest-stuck-in-a-rut-notes": {
       "Key": "quest-stuck-in-a-rut-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-stuck-in-their-ways": {
       "Key": "quest-stuck-in-their-ways",
@@ -13445,7 +13445,7 @@ export default {
     },
     "quest-stuck-in-their-ways-notes": {
       "Key": "quest-stuck-in-their-ways-notes",
-      "Translation": "เควสโซ่: รู้สึกเสียวซ่ารสจัดส่งขนมปังโท, ติดอยู่ในวิธีของพวกเขาไฟพ่นเบียร์จัดส่งเว็บไซต์เจ็บ RRRRRumble ในเสีย! เช่นเดียวกับประสบการณ์ขนหัวลุก แต่ต้องจับเป้าหมาย"
+      "Translation": "เควสโซ่: รู้สึกเสียวซ่ารสจัดส่งขนมปังโทติดอยู่ในวิธีของพวกเขาไฟพ่นเบียร์จัดส่งเว็บไซต์เจ็บ RRRRRumble ในเสีย! เช่นเดียวกับขนหัวลุกประสบการณ์ แต่จำเป็นที่จะต้องจับเป้าหมาย"
     },
     "quest-talons-of-ire-and-ice": {
       "Key": "quest-talons-of-ire-and-ice",
@@ -13453,11 +13453,11 @@ export default {
     },
     "quest-talons-of-ire-and-ice-description": {
       "Key": "quest-talons-of-ire-and-ice-description",
-      "Translation": "มีจุดที่ผมบางอย่างซ่อนความลับเพื่อการเจริญเติบโตของต้นไม้โบราณ แต่น่าเสียดายที่สองมอนสเตอร์ที่น่ารังเกียจมีการลาดตระเวนพื้นที่นั้น * ปลดล็อคช่องวิจัยพฤกษศาสตร์เมื่อเสร็จสิ้นเป็นครั้งแรก"
+      "Translation": "มีจุดที่ฉันซ่อนบางอย่างความลับเพื่อการเจริญเติบโตของต้นไม้โบราณ แต่น่าเสียดายที่สองมอนสเตอร์ที่น่ารังเกียจมีการลาดตระเวนพื้นที่นั้น * ปลดล็อคช่องวิจัยพฤกษศาสตร์เมื่อเสร็จสิ้นเป็นครั้งแรก"
     },
     "quest-talons-of-ire-and-ice-notes": {
       "Key": "quest-talons-of-ire-and-ice-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-target-monsters": {
       "Key": "quest-target-monsters",
@@ -13469,7 +13469,7 @@ export default {
     },
     "quest-teostra-the-infernal-description": {
       "Key": "quest-teostra-the-infernal-description",
-      "Translation": "มัน Teostra ที่ก้านเสีย - จักรพรรดิแห่งเปลวไฟ และตอนนี้ก็นั่งรอในผู้สูงอายุของ Recess ไปที่มันล่าและสิ้นสุดการครองราชย์ searing ของมัน!"
+      "Translation": "มัน Teostra ที่ก้านขนขยะ - จักรพรรดิแห่งเปลวไฟ และตอนนี้ก็นั่งรอในผู้สูงอายุของ Recess ไปที่มันล่าและสิ้นสุดการครองราชย์ searing ของมัน!"
     },
     "quest-the-best-kind-of-quest": {
       "Key": "quest-the-best-kind-of-quest",
@@ -13497,15 +13497,15 @@ export default {
     },
     "quest-the-current-situation-tips": {
       "Key": "quest-the-current-situation-tips",
-      "Translation": "เริ่มจากภาคตะวันออกเฉียงเหนือค่าย (11) ให้แน่ใจว่าจะไม่ได้มีความต้านทานเชิงลบฟ้าร้องและเริ่มมุ่งหน้าไปทางทิศใต้ของภาค 5 (มองไปรอบ ๆ ในกรณีที่หายากป่า Pteryx วางไข่) เมื่อคุณเข้าถึง Wiggly ลิ้นจี่ไปทางทิศตะวันตกจนกว่าคุณจะเห็นเถาสูง ผนังปกคลุมไปที่จุดนี้คุณอาจได้พบกับพาเป้าหมาย มันจะหนีไปยังพื้นที่เปิดที่ใกล้เคียงที่สุดเมื่อถูกโจมตีแล้วการต่อสู้จะเริ่มต้น ถ้าคุณสูญเสียการติดตามของมันเมื่อมันกลับไปที่รังของมันกลับไปที่ผนังเถาปีนขึ้นไปและมุ่งหน้าไปทางทิศตะวันตกเมื่อคุณสามารถ"
+      "Translation": "เริ่มต้นที่ภาคตะวันออกเฉียงเหนือค่าย (11) ให้แน่ใจว่าจะไม่ได้มีความต้านทานเชิงลบฟ้าร้องและเริ่มมุ่งหน้าไปทางทิศใต้ของภาค 5 (มองไปรอบ ๆ ในกรณีที่หายากป่า Pteryx วางไข่) เมื่อคุณถึงไปทางทิศตะวันตก Wiggly ลิ้นจี่จนกว่าคุณจะเห็นเถาสูง ผนังปกคลุมไปที่จุดนี้คุณอาจได้พบกับพาเป้าหมาย มันจะหนีไปยังพื้นที่เปิดที่ใกล้เคียงที่สุดเมื่อถูกโจมตีแล้วการต่อสู้จะเริ่มต้น ถ้าคุณสูญเสียการติดตามของมันเมื่อมันกลับไปที่รังของมันกลับไปที่ผนังเถาปีนขึ้นไปทางทิศตะวันตกและศีรษะเมื่อคุณสามารถ"
     },
     "quest-the-deathly-quiet-curtain": {
       "Key": "quest-the-deathly-quiet-curtain",
-      "Translation": "ตายม่านเงียบ"
+      "Translation": "ม่านเงียบ Deathly"
     },
     "quest-the-deathly-quiet-curtain-description": {
       "Key": "quest-the-deathly-quiet-curtain-description",
-      "Translation": "สิ่งที่น่ากลัวอย่างแท้จริงจะเป็นคนนอนหลับอยู่ในความเงียบไม่? แต่สิ่งที่มันอาจจะ? เรือเดินสมุทรที่สามเรียกร้องให้คุณกดบนจะยกผ้าม่านปิดของความลึกลับนี้และอาหารครอบงำจิตใจของเรา"
+      "Translation": "สิ่งที่น่ากลัวอย่างแท้จริงจะเป็นคนนอนหลับอยู่ในความเงียบไม่? แต่สิ่งที่มันอาจจะ? เรือเดินสมุทรที่สามเรียกร้องให้คุณสามารถกดเพื่อยกม่านปิดของความลึกลับนี้และอาหารครอบงำจิตใจของเรา"
     },
     "quest-the-eater-of-elders": {
       "Key": "quest-the-eater-of-elders",
@@ -13541,7 +13541,7 @@ export default {
     },
     "quest-the-food-chain-dominator": {
       "Key": "quest-the-food-chain-dominator",
-      "Translation": "Dominator ห่วงโซ่อาหาร"
+      "Translation": "ห่วงโซ่อาหาร Dominator"
     },
     "quest-the-food-chain-dominator-description": {
       "Key": "quest-the-food-chain-dominator-description",
@@ -13549,7 +13549,7 @@ export default {
     },
     "quest-the-food-chain-dominator-notes": {
       "Key": "quest-the-food-chain-dominator-notes",
-      "Translation": "คุณจะได้รับการแสวงหานี้ถ้าคุณได้เสร็จสิ้นถึงการหาระเฑียรในเรื่องหลัก (เควสของ USPTO) ของคุณ ที่จะเรียกการแสวงหา, พูดคุยกับนักวิชาการที่ยืนโดยคณะกรรมการเควสในแอสเทราของ Tradeyard เขาจะมีสีน้ำเงินพิเศษที่ส่งให้คุณในการสืบเสาะของคุณ"
+      "Translation": "คุณจะได้รับการแสวงหานี้ถ้าคุณได้เสร็จสิ้นถึงการหาระเฑียรในเรื่องหลัก (เควสการกำหนดของคุณ) ที่จะเรียกการแสวงหา, พูดคุยกับนักวิชาการที่ยืนโดยคณะกรรมการเควสในแอสเทราของ Tradeyard เขาจะมีสีน้ำเงินพิเศษที่ส่งให้คุณในการสืบเสาะของคุณ"
     },
     "quest-the-food-chain-dominator-tips": {
       "Key": "quest-the-food-chain-dominator-tips",
@@ -13561,11 +13561,11 @@ export default {
     },
     "quest-the-great-glutton-description": {
       "Key": "quest-the-great-glutton-description",
-      "Translation": "ฉันแน่ใจว่าตอนนี้คุณได้เห็นวิธีการที่ดี Jagras กลืนทั้งเหยื่อของมัน หนึ่งถูกพบอีกครั้งในป่า เอามันออกก่อนที่หนึ่งของนักวิจัยของฉันได้รับการ gobbled ขึ้น!"
+      "Translation": "ฉันแน่ใจว่าตอนนี้คุณได้มองเห็นช่องทางที่ยิ่งใหญ่ Jagras กลืนเหยื่อของมันทั้งหมด หนึ่งได้เห็นอีกครั้งในป่า เอามันออกก่อนที่หนึ่งของนักวิจัยของฉันได้รับการ gobbled ขึ้น!"
     },
     "quest-the-great-glutton-tips": {
       "Key": "quest-the-great-glutton-tips",
-      "Translation": "เริ่มต้นจากภาคตะวันตกเฉียงใต้ค่าย (1) ไปทางทิศเหนือภาคที่ 2 เพื่อหาเป้าหมาย คุณสามารถรอให้มันไปถึงภาค 1 ก่อนที่จะโจมตีเพื่อหลีกเลี่ยงการ Jagras ในภาค 2 ที่จะเข้าร่วมการต่อสู้ มันจะหนีไปยังรังของมันในภาค 2 เมื่ออ่อนแอเพียงพอแล้วคุณสามารถฆ่าหรือจับมัน"
+      "Translation": "เริ่มต้นที่ภาคตะวันตกเฉียงใต้ค่าย (1) ไปทางทิศเหนือภาคที่ 2 เพื่อหาเป้าหมาย คุณสามารถรอให้มันไปถึงภาค 1 ก่อนที่จะโจมตีเพื่อหลีกเลี่ยงการ Jagras ในภาค 2 ที่จะเข้าร่วมการต่อสู้ มันจะหนีไปยังรังของมันในภาค 2 เมื่ออ่อนแอพอคุณก็จะสามารถฆ่าหรือจับมัน"
     },
     "quest-the-great-jagras-hunt": {
       "Key": "quest-the-great-jagras-hunt",
@@ -13577,11 +13577,11 @@ export default {
     },
     "quest-the-greatest-jagras": {
       "Key": "quest-the-greatest-jagras",
-      "Translation": "Jagras ที่ยิ่งใหญ่ที่สุด"
+      "Translation": "ที่ยิ่งใหญ่ที่สุด Jagras"
     },
     "quest-the-greatest-jagras-description": {
       "Key": "quest-the-greatest-jagras-description",
-      "Translation": "ดังนั้นผมได้ยินมาว่าเป็นนักล่าเพิ่ง Jagras ที่ดีมุม แต่เมื่อพวกเขาไปทำมันออกเงาปรากฏ คุณคิดว่าอะไรมันคืออะไร? หึออกไปหาตัวเอง!"
+      "Translation": "ดังนั้นผมได้ยินมาว่าเป็นนักล่ามี Jagras ที่ดีมุม แต่เมื่อพวกเขาไปทำมันออกเงาปรากฏ คุณคิดว่าอะไรมันคืออะไร? หึออกไปหาตัวเอง!"
     },
     "quest-the-heart-of-the-nora": {
       "Key": "quest-the-heart-of-the-nora",
@@ -13589,7 +13589,7 @@ export default {
     },
     "quest-the-heart-of-the-nora-description": {
       "Key": "quest-the-heart-of-the-nora-description",
-      "Translation": "ไม่มี ... แม่หัวใจ! ผู้รอดชีวิตซ่อนตัวอยู่ในภูเขาจะถูกฝังอยู่ถ้าคุณไม่ได้ใช้ลงมอนสเตอร์เหล่านั้น เอาชนะภัยคุกคามนี้และผมจะให้คุณกับอุปกรณ์พิเศษ!"
+      "Translation": "ไม่มี ... หัวใจแม่! ผู้รอดชีวิตซ่อนตัวอยู่ในภูเขาจะถูกฝังอยู่ถ้าคุณไม่ได้ใช้ลงมอนสเตอร์เหล่านั้น เอาชนะภัยคุกคามนี้และผมจะให้คุณกับอุปกรณ์พิเศษ!"
     },
     "quest-the-heralds-of-destruction-cry": {
       "Key": "quest-the-heralds-of-destruction-cry",
@@ -13597,7 +13597,7 @@ export default {
     },
     "quest-the-heralds-of-destruction-cry-description": {
       "Key": "quest-the-heralds-of-destruction-cry-description",
-      "Translation": "ผมยังจำได้ว่าเมื่อสิ่งที่แสดงให้เห็นถึง ผมได้ยินเสียงแตรส่งเสียงดังในหัวของฉัน มันฟังเหมือนเพลงของการทำลาย ฉันต้องการความช่วยเหลือกับการวิจัยของฉันดังนั้นแตรเหล่านั้นสามารถหยุด!"
+      "Translation": "ผมยังจำได้ว่าเมื่อสิ่งที่แสดงให้เห็นถึง ผมได้ยินเสียงแตรส่งเสียงดังในหัวของฉัน มันฟังเหมือนเพลงของการทำลาย ฉันต้องการความช่วยเหลือเกี่ยวกับการวิจัยของฉันดังนั้นแตรเหล่านั้นสามารถหยุด!"
     },
     "quest-the-legendary-beast": {
       "Key": "quest-the-legendary-beast",
@@ -13625,11 +13625,11 @@ export default {
     },
     "quest-the-names-lavasioth": {
       "Key": "quest-the-names-lavasioth",
-      "Translation": "ชื่อของ Lavsioth!"
+      "Translation": "Lavsioth ชื่อของ!"
     },
     "quest-the-names-lavasioth-description": {
       "Key": "quest-the-names-lavasioth-description",
-      "Translation": "โย่เราได้ถามเพื่อการวิจัยมอนสเตอร์ที่ไม่มีใครเคยต้องการที่จะวิจัย! คุณจะรู้ว่าหนึ่งที่ฟลอปปี้คาวใหญ่ที่ชอบที่จะไปรอบ ๆ ในเลานจ์ลาวา! ใช่ว่าหนึ่ง! (ผลตอบแทนตั๋วพิเศษ)"
+      "Translation": "โย่เราได้ถามเพื่อการวิจัยสัตว์ประหลาดที่ไม่มีใครเคยต้องการที่จะวิจัย! คุณจะรู้ว่าหนึ่งที่ฟลอปปี้ใหญ่คาวทำเช่นเดียวกับที่เลานจ์รอบในลาวา! ใช่ว่าหนึ่ง! (ผลตอบแทนตั๋วพิเศษ)"
     },
     "quest-the-pain-from-gains": {
       "Key": "quest-the-pain-from-gains",
@@ -13645,7 +13645,7 @@ export default {
     },
     "quest-the-pain-from-gains-tips": {
       "Key": "quest-the-pain-from-gains-tips",
-      "Translation": "เริ่มต้นจากภาคตะวันตกเฉียงใต้ค่าย (1), (จักรพรรดิกระโดด Carrier มดและต้อนกระต่ายสามารถพบได้ด้านนอกค่าย) หัวไปทางทิศตะวันออกข้ามภาคที่ 4 และ 9 ที่จะไปถึงทะเลสาบขนาดเล็กในภาค 10. คุณจะพบ Gajau ในครั้งนี้ ทะเลสาบ, คุณสามารถล่อให้พวกเขาอยู่บนพื้นดินที่มั่นคงในการทำให้พวกเขาทำอะไรไม่ถูก ตรวจสอบต้นไม้ตายอยู่ด้านบนของก้อนหินด้านขวาก่อนที่ทะเลสาบที่จะอาจจะหายากปริซึม Hercudrome"
+      "Translation": "เริ่มต้นที่ภาคตะวันตกเฉียงใต้ค่าย (1), (จักรพรรดิกระโดด Carrier มดและต้อนกระต่ายสามารถพบได้ด้านนอกค่าย) มุ่งหน้าข้ามตะวันออกภาค 4 และ 9 ที่จะไปถึงทะเลสาบขนาดเล็กในภาค 10. คุณจะพบ Gajau ในครั้งนี้ ทะเลสาบ, คุณสามารถล่อให้พวกเขาอยู่บนพื้นดินที่เป็นของแข็งที่จะทำให้พวกเขาทำอะไรไม่ถูก ตรวจสอบต้นไม้ตายอยู่ด้านบนของก้อนหินด้านขวาก่อนที่ทะเลสาบที่จะอาจจะหายากปริซึม Hercudrome"
     },
     "quest-the-piscine-problem": {
       "Key": "quest-the-piscine-problem",
@@ -13657,7 +13657,7 @@ export default {
     },
     "quest-the-piscine-problem-tips": {
       "Key": "quest-the-piscine-problem-tips",
-      "Translation": "เริ่มต้นจากภาคตะวันตกเฉียงใต้ค่าย (1) และจะไปที่ภาค 10 เพื่อหาเป้าหมายในทะเลสาบ เก็บตาบน Gajau ในน้ำในขณะที่การต่อสู้ที่พวกเขาต้องการที่จะเรียกเก็บแบบสุ่ม มันสามารถหลบหนีไปทางภาค 4 หรือ 9 และจะกลับไปที่ 10 มาเพื่อการนอนหลับ"
+      "Translation": "เริ่มต้นจากภาคตะวันตกเฉียงใต้ค่าย (1) และจะไปที่ภาค 10 เพื่อหาเป้าหมายในทะเลสาบ เก็บตาบน Gajau ในน้ำในขณะที่การต่อสู้ที่พวกเขาต้องการที่จะเรียกเก็บแบบสุ่ม มันสามารถหลบหนีไปทางภาค 4 หรือ 9 และจะกลับมาที่ 10 ไปนอน"
     },
     "quest-the-poison-posse": {
       "Key": "quest-the-poison-posse",
@@ -13673,7 +13673,7 @@ export default {
     },
     "quest-the-proving-description": {
       "Key": "quest-the-proving-description",
-      "Translation": "เราได้รอให้ยาวสำหรับวันนี้ มันถึงเวลาที่คุณจะมีส่วนร่วมในการพิสูจน์และกลายเป็นความจริงที่กล้าหาญ เสนอรางวัลของคุณเพื่อ All-แม่และคุณจะได้รับพระพรอย่างไม่เห็นแก่ตัว"
+      "Translation": "เราได้รอนานมากในวันนี้ มันถึงเวลาที่คุณจะมีส่วนร่วมในการพิสูจน์และกลายเป็นความจริงที่กล้าหาญ เสนอรางวัลของคุณเพื่อ All-แม่และคุณจะได้รับพระพรอย่างไม่เห็นแก่ตัว"
     },
     "quest-the-red-and-blue-crew": {
       "Key": "quest-the-red-and-blue-crew",
@@ -13689,7 +13689,7 @@ export default {
     },
     "quest-the-red-and-blue-crew-notes": {
       "Key": "quest-the-red-and-blue-crew-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา ช่ำชองแบ่งปันมากที่สุดของลักษณะคู่ของพวกเขา แต่โดยทั่วไปมักจะก้าวร้าวมากขึ้นหรือใช้กลยุทธ์ที่แตกต่างกัน"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ ช่ำชองแบ่งปันมากที่สุดของลักษณะคู่ของพวกเขา แต่โดยทั่วไปมักจะก้าวร้าวมากขึ้นหรือใช้กลยุทธ์ที่แตกต่างกัน"
     },
     "quest-the-sapphire-stars-guidance": {
       "Key": "quest-the-sapphire-stars-guidance",
@@ -13705,7 +13705,7 @@ export default {
     },
     "quest-the-sapphire-stars-guidance-notes": {
       "Key": "quest-the-sapphire-stars-guidance-notes",
-      "Translation": "เป้าหมายวางไข่หนึ่งหลังจากที่อื่นให้ส่วนที่เหลือผู้เล่นระหว่างการเผชิญหน้า Kushala Daora เป็นครั้งแรกที่จะวางไข่ในภาค 3 แล้ว Teostra ในภาค 12 และสุดท้าย Nergigante ในภาค 14"
+      "Translation": "หนึ่งในเป้าหมายวางไข่หลังจากที่อื่น ๆ ให้ส่วนที่เหลือผู้เล่นระหว่างการเผชิญหน้า Kushala Daora เป็นครั้งแรกที่จะวางไข่ในภาค 3 แล้ว Teostra ในภาค 12 และสุดท้าย Nergigante ในภาค 14"
     },
     "quest-the-scorn-of-the-sun": {
       "Key": "quest-the-scorn-of-the-sun",
@@ -13713,7 +13713,7 @@ export default {
     },
     "quest-the-scorn-of-the-sun-description": {
       "Key": "quest-the-scorn-of-the-sun-description",
-      "Translation": "ครั้งแรกที่ผมต่อสู้ Teostra กลับมาอยู่ในโลกเก่ากลัวของฉันล้างมากกว่าฉัน แต่มันก็ทำให้ผมมีไฟในการต่อสู้ แต่ตอนนี้ฉันรู้ว่ามันเป็นความสงบไม่ได้กลัวว่าคุณจะต้องฆ่ามัน"
+      "Translation": "ครั้งแรกที่ผมต่อสู้กลับ Teostra ในโลกเก่ากลัวของฉันล้างมากกว่าฉัน แต่มันทำให้ผมไฟการต่อสู้ แต่ตอนนี้ฉันรู้ว่ามันเป็นความสงบไม่ได้กลัวว่าคุณจะต้องฆ่ามัน"
     },
     "quest-the-sleeping-sylvan-queen": {
       "Key": "quest-the-sleeping-sylvan-queen",
@@ -13725,7 +13725,7 @@ export default {
     },
     "quest-the-sleeping-sylvan-queen-notes": {
       "Key": "quest-the-sleeping-sylvan-queen-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-the-thronetaker": {
       "Key": "quest-the-thronetaker",
@@ -13733,11 +13733,11 @@ export default {
     },
     "quest-the-thronetaker-description": {
       "Key": "quest-the-thronetaker-description",
-      "Translation": "ในที่สุดผมก็ได้รับอนุญาตจาก Research พฤกษศาสตร์ที่จะออกไปในสนาม พันธมิตรของฉันและฉัน stumbled เมื่อ Teostra, Lunastra และ Nergigante! โชคดีของผม freakin' ครับ! ฉันต้องการงีบ..."
+      "Translation": "ในที่สุดผมก็ได้รับอนุญาตจาก Research พฤกษศาสตร์ที่จะออกไปในสนาม พันธมิตรของฉันและฉัน stumbled เมื่อ Teostra, Lunastra และ Nergigante! โชค freakin' My ครับ! ฉันต้องการงีบ..."
     },
     "quest-the-white-winds-of-the-new-world": {
       "Key": "quest-the-white-winds-of-the-new-world",
-      "Translation": "ลมสีขาวของโลกใหม่"
+      "Translation": "The White Winds ของโลกใหม่"
     },
     "quest-the-white-winds-of-the-new-world-conditions": {
       "Key": "quest-the-white-winds-of-the-new-world-conditions",
@@ -13745,15 +13745,15 @@ export default {
     },
     "quest-the-white-winds-of-the-new-world-description": {
       "Key": "quest-the-white-winds-of-the-new-world-description",
-      "Translation": "การล่าที่ได้เสียทีทุกสอบสวนผมนำเสนอนี้เควสที่ดีที่สุด ใส่สนามกีฬาพิเศษและใช้เวลาในโลกใหม่ ใช้ทุกสิ่งที่อยู่ก่อนคุณและเรียกร้องความรุ่งโรจน์"
+      "Translation": "การล่าที่ได้เสียทีทุกสอบสวนผมนำเสนอนี้เควสที่ดีที่สุด ใส่สนามกีฬาพิเศษและใช้เวลาในโลกใหม่ ใช้ทุกสิ่งที่โกหกก่อนที่คุณและสง่าราศีเรียกร้อง"
     },
     "quest-the-white-winds-of-the-new-world-notable-rewards": {
       "Key": "quest-the-white-winds-of-the-new-world-notable-rewards",
-      "Translation": "เรนโบว์เกราะสีเม็ดสีตั๋วคณะกรรมการวิจัย"
+      "Translation": "เรนโบว์เกราะสีเม็ดสีวิจัยสำนักงานคณะกรรมการกำกับตั๋ว"
     },
     "quest-the-white-winds-of-the-new-world-notes": {
       "Key": "quest-the-white-winds-of-the-new-world-notes",
-      "Translation": "เฉพาะ Legiana อยู่ในที่เกิดเหตุในช่วงเริ่มต้นที่ Odogaron มาในครั้งที่สองแล้ว Diablos และในที่สุดก็ Rathalos ไข่จับเวลา / เงื่อนไขยังไม่ทราบ หลังจากเสร็จสิ้นการแสวงหานี้พูดคุยกับผู้บัญชาการเพื่อปลดล็อคการหารือกับทุกคนในแอสเทราและฐานการวิจัย"
+      "Translation": "เฉพาะ Legiana อยู่ในที่เกิดเหตุในช่วงเริ่มต้นที่ Odogaron มาในครั้งที่สองแล้ว Diablos และในที่สุดก็ Rathalos ไข่จับเวลา / เงื่อนไขยังไม่ทราบ หลังจากเสร็จสิ้นการแสวงหานี้พูดคุยกับผู้บัญชาการเพื่อหารือปลดล็อคกับทุกคนในแอสเทราและฐานการวิจัย"
     },
     "quest-the-winds-of-wrath-bite-deep": {
       "Key": "quest-the-winds-of-wrath-bite-deep",
@@ -13761,7 +13761,7 @@ export default {
     },
     "quest-the-winds-of-wrath-bite-deep-description": {
       "Key": "quest-the-winds-of-wrath-bite-deep-description",
-      "Translation": "เรามีการทำงาน 'รอบ tearin' Kushala Daora สิ่งขึ้น ดูเหมือนว่ามันจะถูกเตะออกจากดินแดนของตน คำถามคือสิ่งที่ทำ Kickin'? ใช้เวลาในการตรวจสอบ!"
+      "Translation": "เรามี Kushala Daora ทำงาน 'รอบ tearin' สิ่งขึ้น ดูเหมือนว่ามันจะถูกเตะออกจากดินแดนของตน คำถามคือสิ่งที่ทำ Kickin'? ใช้เวลาในการตรวจสอบ!"
     },
     "quest-this-is-how-revolts-start": {
       "Key": "quest-this-is-how-revolts-start",
@@ -13789,7 +13789,7 @@ export default {
     },
     "quest-tickled-pink-notable-rewards": {
       "Key": "quest-tickled-pink-notable-rewards",
-      "Translation": "เนื้อสัตว์ Aptonoth, Apcerpast ปลาแซลมอนกลับกลอก, ก้มแอ่นกุ้งเกราะปู Osseoctopus, ชมพูคาเวียร์, Stonecorn, มั่นคง Spud กุด-Ku ถั่วส่วนผสม Molten มะม่วง"
+      "Translation": "Aptonoth เนื้อสัตว์, Apcerpast ปลาแซลมอน Serpentine กุ้งก้มแอ่นเกราะปู Osseoctopus, ชมพูคาเวียร์, Stonecorn, มั่นคง Spud กุด-Ku ถั่วส่วนผสม Molten มะม่วง"
     },
     "quest-timberland-troublemakers": {
       "Key": "quest-timberland-troublemakers",
@@ -13813,11 +13813,11 @@ export default {
     },
     "quest-todays-special-hunter-flambe-conditions": {
       "Key": "quest-todays-special-hunter-flambe-conditions",
-      "Translation": "เสร็จสิ้นการทำงานพิเศษโซ่ Dominator อาหาร"
+      "Translation": "เสร็จสิ้นการกำหนดพิเศษห่วงโซ่อาหาร Dominator"
     },
     "quest-todays-special-hunter-flambe-description": {
       "Key": "quest-todays-special-hunter-flambe-description",
-      "Translation": "พาร์ทเนอร์เราเป็นส่วนหนึ่งของห่วงโซ่อาหารเกินไปถ้าคุณคิดเกี่ยวกับมัน และที่เป็นข่าวร้ายสำหรับเราถ้า Deviljho ได้รับความทะเยอทะยานสำหรับเบอร์เกอร์นักล่า! ดังนั้นขอล่ามันลงก่อนที่เราจะรับประทานอาหารกลางวัน!"
+      "Translation": "พาร์ทเนอร์เราเป็นส่วนหนึ่งกำลังของห่วงโซ่อาหารเกินไปถ้าคุณคิดเกี่ยวกับมัน และที่เป็นข่าวร้ายสำหรับเราถ้า Deviljho ได้รับความทะเยอทะยานสำหรับเบอร์เกอร์นักล่า! ดังนั้นขอล่าของมันลงก่อนที่เราจะรับประทานอาหารกลางวันกำลัง!"
     },
     "quest-todays-special-hunter-flambe-notes": {
       "Key": "quest-todays-special-hunter-flambe-notes",
@@ -13833,15 +13833,15 @@ export default {
     },
     "quest-trespassing-troublemaker": {
       "Key": "quest-trespassing-troublemaker",
-      "Translation": "Troublemaker บุกรุก"
+      "Translation": "บุกรุกแสบ"
     },
     "quest-trespassing-troublemaker-description": {
       "Key": "quest-trespassing-troublemaker-description",
-      "Translation": "การเปลี่ยนแปลงที่สำคัญในระบบนิเวศคือการขับรถมอนสเตอร์จากแหล่งที่อยู่อาศัยตามธรรมชาติของมัน มุ่งหน้าไปยัง Wildspire เสียและเริ่มการตรวจสอบของคุณบุกรุก Anjanath โดยเร็วที่สุด!"
+      "Translation": "การเปลี่ยนแปลงที่สำคัญในระบบนิเวศคือการขับรถมอนสเตอร์จากแหล่งที่อยู่อาศัยตามธรรมชาติของมัน มุ่งหน้าไปยัง Wildspire ของเสียและการเริ่มต้นการสอบสวนของคุณของการบุกรุก Anjanath โดยเร็วที่สุด!"
     },
     "quest-trespassing-troublemaker-notes": {
       "Key": "quest-trespassing-troublemaker-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-triple-threat-throwdown": {
       "Key": "quest-triple-threat-throwdown",
@@ -13853,7 +13853,7 @@ export default {
     },
     "quest-troubled-troupers": {
       "Key": "quest-troubled-troupers",
-      "Translation": "ตำรวจที่มีปัญหา"
+      "Translation": "ตำรวจทุกข์"
     },
     "quest-troubled-troupers-description": {
       "Key": "quest-troubled-troupers-description",
@@ -13861,7 +13861,7 @@ export default {
     },
     "quest-troubled-troupers-tips": {
       "Key": "quest-troubled-troupers-tips",
-      "Translation": "เริ่มต้นจากภาคใต้ค่าย (1) แจ้งให้ทราบเพื่อนและหัวเล็ก ๆ น้อย ๆ ทางตะวันออกของคุณ ทั้งสองเป้าหมายที่จะมาจากทางทิศเหนือและผ่านภาคที่ 1 ถ้าคุณไม่ต้องการที่จะต่อสู้ทั้งสองในเวลาเดียวกันช่วยให้การทำงานครั้งแรกโดยและมีส่วนร่วมครั้งที่สอง คุณจะถูกนำตัวไปที่ค่าย troupers ในตอนท้ายของการตามล่า"
+      "Translation": "เริ่มต้นที่ภาคใต้ค่าย (1) แจ้งให้ทราบเพื่อนและหัวเล็ก ๆ น้อย ๆ ทางตะวันออกของคุณ ทั้งสองเป้าหมายที่จะมาจากทางทิศเหนือและผ่านภาคที่ 1 ถ้าคุณไม่ต้องการที่จะต่อสู้ทั้งสองในเวลาเดียวกันช่วยให้การทำงานครั้งแรกโดยและมีส่วนร่วมครั้งที่สอง คุณจะถูกนำตัวไปที่ค่าย troupers ในตอนท้ายของการตามล่า"
     },
     "quest-twin-spines-upon-the-sands": {
       "Key": "quest-twin-spines-upon-the-sands",
@@ -13869,11 +13869,11 @@ export default {
     },
     "quest-twin-spines-upon-the-sands-description": {
       "Key": "quest-twin-spines-upon-the-sands-description",
-      "Translation": "คุณทราบหรือไม่ว่ามีสายพันธุ์ของแมลงที่ survievs โดยการขุดเข้าไปในหาง Diablos? ไม่มี? ดีเราก็ไม่ชอบ! และเราจะไม่หาจนกว่าคุณจะไปและนำมาให้เราอย่างใดอย่างหนึ่งเพื่อให้แน่ใจว่า!"
+      "Translation": "คุณทราบหรือไม่ว่ามีสายพันธุ์ของแมลง survievs ว่าด้วยการขุดเข้าไปในหาง Diablos? ไม่มี? ดีเราก็ไม่ชอบ! และเราจะไม่หาจนกว่าคุณจะไปและนำมาให้เราอย่างใดอย่างหนึ่งเพื่อให้แน่ใจว่า!"
     },
     "quest-two-horned-hostility": {
       "Key": "quest-two-horned-hostility",
-      "Translation": "ปรปักษ์สองตัวหงอน"
+      "Translation": "สองตัวหงอนเป็นปรปักษ์"
     },
     "quest-two-horned-hostility-description": {
       "Key": "quest-two-horned-hostility-description",
@@ -13905,7 +13905,7 @@ export default {
     },
     "quest-undying-alpenglow": {
       "Key": "quest-undying-alpenglow",
-      "Translation": "Alpenglow อมตะ"
+      "Translation": "อมตะ Alpenglow"
     },
     "quest-undying-alpenglow-description": {
       "Key": "quest-undying-alpenglow-description",
@@ -13925,11 +13925,11 @@ export default {
     },
     "quest-up-to-your-waist-in-the-waste-description": {
       "Key": "quest-up-to-your-waist-in-the-waste-description",
-      "Translation": "เราเคยรายงานรบกวนที่มีประสิทธิภาพผิดปกติ Jyuratodus ปรากฏใน Wildspire เสีย เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังของการติดอยู่ในโคลนตม!"
+      "Translation": "เราเคยรายงานรบกวนของ Jyuratodus มีประสิทธิภาพผิดปกติที่ปรากฏใน Wildspire เสีย เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังของการติดอยู่ในโคลนตม!"
     },
     "quest-up-to-your-waist-in-the-waste-notes": {
       "Key": "quest-up-to-your-waist-in-the-waste-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-urgent-pukei-pukei-hunt": {
       "Key": "quest-urgent-pukei-pukei-hunt",
@@ -13937,7 +13937,7 @@ export default {
     },
     "quest-urgent-pukei-pukei-hunt-description": {
       "Key": "quest-urgent-pukei-pukei-hunt-description",
-      "Translation": "นั่น Pukei-Pukei เป็นใครยินดีเกินไปที่จะมีตะกรันว่าในดินแดนของตน มันจะเป็นความยินดีที่แม้น้อยถ้าเราส่งนักวิชาการของเราในการวิจัย ดูเหมือนว่าเราจะต้องวางมันลง"
+      "Translation": "นั่น Pukei-Pukei เป็นใครยินดีเกินไปที่จะมีตะกรันในดินแดนของตนว่า มันจะได้รับแม้แต่น้อยยินดีถ้าเราส่งนักวิชาการของเราในการวิจัย ดูเหมือนว่าเราจะต้องวางมันลง"
     },
     "quest-usj-blazing-azure-stars": {
       "Key": "quest-usj-blazing-azure-stars",
@@ -13949,7 +13949,7 @@ export default {
     },
     "quest-usj-gold-star-treatment": {
       "Key": "quest-usj-gold-star-treatment",
-      "Translation": "USJ บำบัดโกลด์สตาร์"
+      "Translation": "USJ: ทองรักษาดาว"
     },
     "quest-usj-gold-star-treatment-description": {
       "Key": "quest-usj-gold-star-treatment-description",
@@ -13961,11 +13961,11 @@ export default {
     },
     "quest-well-that-diablos-description": {
       "Key": "quest-well-that-diablos-description",
-      "Translation": "เราเคยรายงานรบกวนที่มีประสิทธิภาพผิดปกติ Diablos ปรากฏใน Wildspire เสีย เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตีชาร์จของมัน!"
+      "Translation": "เราเคยรายงานรบกวนของที่มีประสิทธิภาพผิดปกติ Diablos ปรากฏใน Wildspire เสีย เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังการโจมตีชาร์จของมัน!"
     },
     "quest-well-that-diablos-notes": {
       "Key": "quest-well-that-diablos-notes",
-      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ต่ำอันดับของพวกเขา"
+      "Translation": "มอนสเตอร์สูงอันดับมีมากขึ้น HP, ตีหนัก แต่ทำหน้าที่เช่นเดียวกับคู่ของพวกเขาต่ำอันดับ"
     },
     "quest-what-a-bunch-of-abalone": {
       "Key": "quest-what-a-bunch-of-abalone",
@@ -13973,15 +13973,15 @@ export default {
     },
     "quest-what-a-bunch-of-abalone-description": {
       "Key": "quest-what-a-bunch-of-abalone-description",
-      "Translation": "คุณพร้อมสำหรับวันแขน !? ดี! คุณ gonna ต้อง 'em เพื่อรวบรวมส่วนผสมเหล่านี้ฉันมีตาของฉันใน!"
+      "Translation": "คุณพร้อมสำหรับวันแขน !? ดี! คุณ gonna จำเป็น 'em เพื่อรวบรวมส่วนผสมเหล่านี้ฉันมีตาของฉันใน!"
     },
     "quest-what-a-bunch-of-abalone-notable-rewards": {
       "Key": "quest-what-a-bunch-of-abalone-notable-rewards",
-      "Translation": "ส่วนผสมคาเวียร์ดูดดื่ม"
+      "Translation": "ส่วนผสมดูดดื่มคาเวียร์"
     },
     "quest-what-a-bunch-of-abalone-tips": {
       "Key": "quest-what-a-bunch-of-abalone-tips",
-      "Translation": "จากค่ายภาคใต้ (1) หัวทางตะวันตกเฉียงเหนือในภาคที่ 3 ไปใต้สะพานหินและมองหาสังข์ในระดับพื้นดิน. \\ n-สงบเส้นทาง \\ nTurn กลับและไต่เถาวัลย์ครั้งแรกบนขวาของคุณอีกสังข์ รอเพียงที่ด้านบน. \\ nClimb เถาทิศเหนือและหัวตะวันตกไปหาอีกคนหนึ่งไปถึงรัง Paolumu เพื่อหาสิ่งที่คนสุดท้าย. \\ n-เสี่ยงเส้นทาง \\ nKeep จะไปทางทิศเหนือภาค 5, 4 สังข์รอที่นี่ แต่ Tzitzi-Ya-Ku ชอบที่จะเดินไปรอบ ๆ"
+      "Translation": "จากค่ายภาคใต้ (1) หัวทางตะวันตกเฉียงเหนือในภาคที่ 3 ไปใต้สะพานหินและมองหาสังข์ในระดับพื้นดิน. \\ n-สงบเส้นทาง \\ nTurn กลับและไต่เถาวัลย์ครั้งแรกบนขวาของคุณอีกสังข์ รอคอยเพียงที่ด้านบน. \\ nClimb เถาทิศตะวันตกเฉียงเหนือมุ่งหน้าไปหาอีกคนหนึ่งไปถึงรัง Paolumu เพื่อหาสิ่งที่คนสุดท้าย. \\ n-เสี่ยงเส้นทาง \\ nKeep จะไปทางทิศเหนือภาค 5, 4 สังข์รอที่นี่ แต่ Tzitzi-Ya-Ku ชอบที่จะเดินไปรอบ ๆ"
     },
     "quest-when-blue-dust-surpasses-red-lust": {
       "Key": "quest-when-blue-dust-surpasses-red-lust",
@@ -13989,7 +13989,7 @@ export default {
     },
     "quest-when-blue-dust-surpasses-red-lust-description": {
       "Key": "quest-when-blue-dust-surpasses-red-lust-description",
-      "Translation": "ความรักที่แท้จริงคืออะไร? ถอนหายใจ * หนึ่งจะต้องเป็นสักขีพยานในพันธบัตรหลงใหลระหว่างจักรพรรดินีและจักรพรรดิแห่งเปลวไฟที่จะรู้อย่างแท้จริง ได้ใกล้ชิดเกินไปและแน่นอนคุณจะได้รับการเผาไหม้ เหมือนผม ..."
+      "Translation": "ความรักที่แท้จริงคืออะไร? * * * * * * * * ถอนหายใจหนึ่งจะต้องเป็นสักขีพยานในพันธบัตรหลงใหลระหว่างจักรพรรดินีและจักรพรรดิแห่งเปลวไฟที่จะรู้อย่างแท้จริง ได้ใกล้ชิดเกินไปและแน่นอนคุณจะได้รับการเผาไหม้ เหมือนผม ..."
     },
     "quest-when-desire-becomes-an-obsession": {
       "Key": "quest-when-desire-becomes-an-obsession",
@@ -14013,15 +14013,15 @@ export default {
     },
     "quest-white-monster-for-a-white-coat-description": {
       "Key": "quest-white-monster-for-a-white-coat-description",
-      "Translation": "Paolumu อาศัยอยู่ในแนวปะการังไฮแลนด์ แต่รายละเอียดของกิจกรรม, อาหาร, และพฤติกรรมการทำรังของพวกเขายังไม่ทราบ จับหนึ่งที่จะช่วยให้หลั่งน้ำตาแสงในสิ่งมีชีวิตลึกลับนี้"
+      "Translation": "Paolumu อาศัยอยู่ในแนวปะการังไฮแลนด์ แต่รายละเอียดของกิจกรรม, อาหาร, และพฤติกรรมการทำรังของพวกเขายังไม่ทราบ จับหนึ่งที่จะช่วยหลั่งน้ำตาแสงในสิ่งมีชีวิตลึกลับนี้"
     },
     "quest-white-monster-for-a-white-coat-tips": {
       "Key": "quest-white-monster-for-a-white-coat-tips",
-      "Translation": "เช่นเดียวกับขออภัยคุณไม่ได้รับเชิญ แต่ต้องจับเป้าหมาย ถ้ามันเป็นครั้งแรกที่แสวงหาคุณวัตถุประสงค์จับ-a-paolumu คุณจะปลดล็อคสนามกีฬาพิเศษ: การแสวงหาตัวเลือก Paolumu"
+      "Translation": "เช่นเดียวกับขออภัยคุณไม่ได้รับเชิญ แต่จำเป็นที่จะต้องจับเป้าหมาย ถ้ามันเป็นครั้งแรกที่แสวงหาคุณวัตถุประสงค์จับ-a-paolumu คุณจะปลดล็อคสนามกีฬาพิเศษ: การแสวงหาตัวเลือก Paolumu"
     },
     "quest-wicked-wildspire-warfare": {
       "Key": "quest-wicked-wildspire-warfare",
-      "Translation": "ชั่วร้ายสงคราม Wildspire"
+      "Translation": "Wicked Wildspire สงคราม"
     },
     "quest-wicked-wildspire-warfare-description": {
       "Key": "quest-wicked-wildspire-warfare-description",
@@ -14033,7 +14033,7 @@ export default {
     },
     "quest-wiggle-me-this-description": {
       "Key": "quest-wiggle-me-this-description",
-      "Translation": "วา - เดี๋ยวก่อนไม่ได้โยนสุทธิที่กับฉันฉันไม่ Wiggler เป็นคนแรก! หลงกลคุณใช่มั้ย? หากคุณต้องการสิ่งที่ชอบสิ่งที่ฉันสวมใส่แล้วคุณจะต้องช่วยฉันด้วยการวิจัยของฉัน!"
+      "Translation": "วา - เดี๋ยวก่อนไม่ได้โยนสุทธิที่กับฉันฉันไม่ได้เป็น Wiggler! หลงกลคุณใช่มั้ย? หากคุณต้องการสิ่งที่ชอบสิ่งที่ฉันสวมใส่แล้วคุณจะต้องช่วยฉันด้วยการวิจัยของฉัน!"
     },
     "quest-wildspire-bolero": {
       "Key": "quest-wildspire-bolero",
@@ -14057,11 +14057,11 @@ export default {
     },
     "search-armor-components": {
       "Key": "search-armor-components",
-      "Translation": "ค้นหาส่วนประกอบเกราะ"
+      "Translation": "ค้นหาเกราะส่วนประกอบ"
     },
     "search-armor-sets": {
       "Key": "search-armor-sets",
-      "Translation": "ชุดเกราะค้นหา"
+      "Translation": "ค้นหาชุดเกราะ"
     },
     "search-armors": {
       "Key": "search-armors",
@@ -14085,7 +14085,7 @@ export default {
     },
     "search-critical-bounties": {
       "Key": "search-critical-bounties",
-      "Translation": "ค้นหาโปรดปรานที่สำคัญ"
+      "Translation": "ค้นหาสำคัญโปรดปราน"
     },
     "search-decorations": {
       "Key": "search-decorations",
@@ -14097,7 +14097,7 @@ export default {
     },
     "search-endemic-life": {
       "Key": "search-endemic-life",
-      "Translation": "ค้นหาชีวิตเฉพาะถิ่น"
+      "Translation": "ค้นหาถิ่นชีวิต"
     },
     "search-items": {
       "Key": "search-items",
@@ -14105,15 +14105,15 @@ export default {
     },
     "search-kinsect-trees": {
       "Key": "search-kinsect-trees",
-      "Translation": "ค้นหาต้นไม้ Kinsect"
+      "Translation": "ค้นหา Kinsect ต้นไม้"
     },
     "search-layered-armors": {
       "Key": "search-layered-armors",
-      "Translation": "ค้นหายุทธยานยนต์ชั้น"
+      "Translation": "ค้นหา Layered ยุทธยานยนต์"
     },
     "search-monster-materials": {
       "Key": "search-monster-materials",
-      "Translation": "วัสดุการค้นหามอนสเตอร์"
+      "Translation": "ค้นหาวัตถุดิบมอนสเตอร์"
     },
     "search-monsters": {
       "Key": "search-monsters",
@@ -14125,7 +14125,7 @@ export default {
     },
     "search-palico-equipments": {
       "Key": "search-palico-equipments",
-      "Translation": "ค้นหาอุปกรณ์ Palico"
+      "Translation": "ค้นหา Palico อุปกรณ์"
     },
     "search-palico-gadgets": {
       "Key": "search-palico-gadgets",
@@ -14141,7 +14141,7 @@ export default {
     },
     "search-skills": {
       "Key": "search-skills",
-      "Translation": "ทักษะการค้นหา"
+      "Translation": "ค้นหาทักษะ"
     },
     "search-specialized-tools": {
       "Key": "search-specialized-tools",
@@ -14237,7 +14237,7 @@ export default {
     },
     "settings-language-volunteer-text": {
       "Key": "settings-language-volunteer-text",
-      "Translation": "ฉันกำลังมองหาอาสาสมัครในการช่วยฉันแปล app กับภาษาอื่น ๆ หากคุณต้องการที่จะช่วยให้ผมเปิดหน้าเกี่ยวกับการเลื่อนไปตลอดทางจนถึงด้านล่าง คุณจะต้องใช้คอมพิวเตอร์เดสก์ทอป / แล็ปท็อปที่จะแก้ไขไฟล์"
+      "Translation": "ฉันกำลังมองหาอาสาสมัครในการช่วยฉันแปล app กับภาษาอื่น ๆ หากคุณต้องการที่จะช่วยให้ฉันเปิดหน้าเกี่ยวกับเลื่อนตลอดทางไปที่ด้านล่าง คุณจะต้องใช้คอมพิวเตอร์เดสก์ทอป / แล็ปท็อปที่จะแก้ไขไฟล์"
     },
     "settings-loadouts-were-updated": {
       "Key": "settings-loadouts-were-updated",
@@ -14253,7 +14253,7 @@ export default {
     },
     "settings-quick-search-text": {
       "Key": "settings-quick-search-text",
-      "Translation": "เมื่อ: การค้นหาอย่างรวดเร็วจะค้นหาโดยอัตโนมัติขณะที่คุณพิมพ์ตัวละครแต่ละตัว แต่อาจจะช้ามากในอุปกรณ์บาง \\ nOff.:. การค้นหาอย่างรวดเร็วเพียงจะค้นหาเมื่อคุณกดปุ่ม Enter / Return บนคีย์บอร์ดของคุณ \\ n เริ่มต้นคือปิด"
+      "Translation": "เมื่อ:. การค้นหาอย่างรวดเร็วจะค้นหาโดยอัตโนมัติขณะที่คุณพิมพ์ตัวละครแต่ละตัว แต่อาจจะช้ามากในอุปกรณ์บาง \\ nOff: การค้นหาอย่างรวดเร็วจะค้นหาเฉพาะเมื่อคุณกด Enter / ย้อนกลับบนแป้นพิมพ์ของคุณ \\ n เริ่มต้นคือปิด."
     },
     "settings-rate-app": {
       "Key": "settings-rate-app",
@@ -14297,7 +14297,7 @@ export default {
     },
     "settings-remove-ads": {
       "Key": "settings-remove-ads",
-      "Translation": "นำโฆษณา"
+      "Translation": "โฆษณาลบ"
     },
     "settings-remove-ads-text": {
       "Key": "settings-remove-ads-text",
@@ -14337,7 +14337,7 @@ export default {
     },
     "settings-upgrade-loadouts-database-text": {
       "Key": "settings-upgrade-loadouts-database-text",
-      "Translation": "การใช้งานนี้ถ้าเครื่องมือพิเศษไม่แสดงอย่างถูกต้องในหน้าจอ loadouts"
+      "Translation": "ใช้เครื่องมือนี้ถ้าเฉพาะจะไม่แสดงอย่างถูกต้องในหน้าจอ loadouts"
     },
     "settings-upgrade-successful": {
       "Key": "settings-upgrade-successful",
@@ -14373,7 +14373,7 @@ export default {
     },
     "skill-affinity-sliding-description": {
       "Key": "skill-affinity-sliding-description",
-      "Translation": "เลื่อนเพิ่มความสัมพันธ์ของคุณเป็นเวลาสั้น ๆ"
+      "Translation": "เลื่อนการเพิ่มขึ้นของความสัมพันธ์ของคุณเป็นเวลาสั้น ๆ"
     },
     "skill-agitator": {
       "Key": "skill-agitator",
@@ -14381,23 +14381,23 @@ export default {
     },
     "skill-agitator-1": {
       "Key": "skill-agitator-1",
-      "Translation": "ในขณะที่การใช้งานแก่การโจมตีที่ 4 และเพิ่มความสัมพันธ์ที่ใกล้ชิดขึ้น 3%"
+      "Translation": "ในขณะที่การใช้งานทุนการโจมตีที่ 4 และเพิ่มความสัมพันธ์ 3%"
     },
     "skill-agitator-2": {
       "Key": "skill-agitator-2",
-      "Translation": "ในขณะที่การใช้งานแก่การโจมตี 8 และเพิ่มความสัมพันธ์ที่ใกล้ชิดขึ้น 6%"
+      "Translation": "ในขณะที่การใช้งานทุนโจมตี 8 และเพิ่มความสัมพันธ์ 6%"
     },
     "skill-agitator-3": {
       "Key": "skill-agitator-3",
-      "Translation": "ในขณะที่การใช้งานแก่การโจมตี 12 และเพิ่มความสัมพันธ์ที่ใกล้ชิดขึ้น 9%"
+      "Translation": "ในขณะที่การใช้งานทุนการโจมตี 12 และเพิ่มความสัมพันธ์ 9%"
     },
     "skill-agitator-4": {
       "Key": "skill-agitator-4",
-      "Translation": "ในขณะที่การใช้งานแก่การโจมตี 16 และเพิ่มความสัมพันธ์ที่ใกล้ชิดขึ้น 12%"
+      "Translation": "ในขณะที่การใช้งานทุนการโจมตี 16 และเพิ่มความสัมพันธ์ 12%"
     },
     "skill-agitator-5": {
       "Key": "skill-agitator-5",
-      "Translation": "ในขณะที่การใช้งานแก่การโจมตี 20 และเพิ่มความสัมพันธ์ที่ใกล้ชิดขึ้น 15%"
+      "Translation": "ในขณะที่การใช้งานทุนการโจมตี 20 และเพิ่มความสัมพันธ์ 15%"
     },
     "skill-agitator-description": {
       "Key": "skill-agitator-description",
@@ -14409,7 +14409,7 @@ export default {
     },
     "skill-airborne-1": {
       "Key": "skill-airborne-1",
-      "Translation": "กระโดดพลังโจมตี + 10%"
+      "Translation": "พลังกระโดดโจมตี + 10%"
     },
     "skill-airborne-description": {
       "Key": "skill-airborne-description",
@@ -14441,19 +14441,19 @@ export default {
     },
     "skill-artillery-1": {
       "Key": "skill-artillery-1",
-      "Translation": "เพิ่มพลังของการโจมตีแต่ละครั้งโดย 10% และช่วยลด Wyvern ของสกิลไฟ 15%"
+      "Translation": "พลังงานที่เพิ่มขึ้นของการโจมตีแต่ละครั้งโดย 10% และช่วยลด Wyvern ของสกิลไฟ 15%"
     },
     "skill-artillery-2": {
       "Key": "skill-artillery-2",
-      "Translation": "เพิ่มพลังของการโจมตีแต่ละครั้งโดย 20% และลด Wyvern ของสกิลไฟ 30%"
+      "Translation": "พลังงานที่เพิ่มขึ้นของการโจมตีแต่ละครั้งโดย 20% และลด Wyvern ของสกิลไฟ 30%"
     },
     "skill-artillery-3": {
       "Key": "skill-artillery-3",
-      "Translation": "เพิ่มพลังของการโจมตีแต่ละครั้งโดย 30% และลด Wyvern ของสกิลไฟ 50%"
+      "Translation": "พลังงานที่เพิ่มขึ้นของการโจมตีแต่ละครั้งโดย 30% และลด Wyvern ของสกิลไฟ 50%"
     },
     "skill-artillery-description": {
       "Key": "skill-artillery-description",
-      "Translation": "เสริมสร้างการโจมตีระเบิดเหมือนเปลือกหอย gunlance ไฟ Wyvern ของการโจมตีค่าใช้จ่ายใบมีดขวดและกระสุนเหนียว"
+      "Translation": "เสริมสร้างการโจมตีระเบิดเหมือนเปลือกหอย gunlance, Wyvern ของไฟ, ค่าใช้จ่ายใบมีดโจมตีขวดและกระสุนเหนียว"
     },
     "skill-attack-boost": {
       "Key": "skill-attack-boost",
@@ -14521,11 +14521,11 @@ export default {
     },
     "skill-blast-attack-description": {
       "Key": "skill-blast-attack-description",
-      "Translation": "เพิ่มอัตราการระเบิดสะสม (การสะสมธาตุมีขีด จำกัด สูงสุด.)"
+      "Translation": "เพิ่มอัตราการระเบิดสะสม (ธาตุสะสมมีขีด จำกัด สูงสุด.)"
     },
     "skill-blast-functionality": {
       "Key": "skill-blast-functionality",
-      "Translation": "ฟังก์ชั่นระเบิด"
+      "Translation": "ระเบิดทำงาน"
     },
     "skill-blast-functionality-1": {
       "Key": "skill-blast-functionality-1",
@@ -14545,11 +14545,11 @@ export default {
     },
     "skill-blast-resistance-2": {
       "Key": "skill-blast-resistance-2",
-      "Translation": "อย่างมากล่าช้า blastblight และช่วยลดความเสียหายที่เกิดระเบิด"
+      "Translation": "อย่างมากความล่าช้า blastblight และช่วยลดความเสียหายที่เกิดระเบิด"
     },
     "skill-blast-resistance-3": {
       "Key": "skill-blast-resistance-3",
-      "Translation": "ป้องกันไม่ให้ blastblight"
+      "Translation": "ป้องกัน blastblight"
     },
     "skill-blast-resistance-description": {
       "Key": "skill-blast-resistance-description",
@@ -14569,7 +14569,7 @@ export default {
     },
     "skill-bleeding-resistance-3": {
       "Key": "skill-bleeding-resistance-3",
-      "Translation": "เลือดออกป้องกัน"
+      "Translation": "ป้องกันเลือดออก"
     },
     "skill-bleeding-resistance-description": {
       "Key": "skill-bleeding-resistance-description",
@@ -14589,7 +14589,7 @@ export default {
     },
     "skill-blight-resistance-3": {
       "Key": "skill-blight-resistance-3",
-      "Translation": "โมฆะ blights ธาตุทั้งหมด"
+      "Translation": "เป็นโมฆะทั้งหมด blights ธาตุ"
     },
     "skill-blight-resistance-description": {
       "Key": "skill-blight-resistance-description",
@@ -14613,11 +14613,11 @@ export default {
     },
     "skill-bludgeoner-1": {
       "Key": "skill-bludgeoner-1",
-      "Translation": "เพิ่มการโจมตีเป็นอาวุธของคุณสูญเสียความคมชัด นอกจากนี้ยังช่วยเพิ่มตั้งแต่อาวุธโจมตีระยะประชิดและราคาของที่สวยงาม"
+      "Translation": "ยกโจมตีเป็นอาวุธของคุณสูญเสียความคมชัด นอกจากนี้ยังช่วยเพิ่มตั้งแต่อาวุธโจมตีระยะประชิดและราคาของสวยงาม"
     },
     "skill-bludgeoner-description": {
       "Key": "skill-bludgeoner-description",
-      "Translation": "เพิ่มการโจมตีเป็นอาวุธของคุณสูญเสียความคมชัด นอกจากนี้ยังช่วยเพิ่มตั้งแต่อาวุธโจมตีระยะประชิดและราคาของที่สวยงาม"
+      "Translation": "ยกโจมตีเป็นอาวุธของคุณสูญเสียความคมชัด นอกจากนี้ยังช่วยเพิ่มตั้งแต่อาวุธโจมตีระยะประชิดและราคาของสวยงาม"
     },
     "skill-bombardier": {
       "Key": "skill-bombardier",
@@ -14705,7 +14705,7 @@ export default {
     },
     "skill-carving-pro-1": {
       "Key": "skill-carving-pro-1",
-      "Translation": "ป้องกันไม่ให้ knockback ในขณะที่การแกะสลัก"
+      "Translation": "ป้องกัน knockback ในขณะที่การแกะสลัก"
     },
     "skill-carving-pro-description": {
       "Key": "skill-carving-pro-description",
@@ -14729,15 +14729,15 @@ export default {
     },
     "skill-coalescence-1": {
       "Key": "skill-coalescence-1",
-      "Translation": "ในขณะที่การใช้งานแก่โจมตี + 12 ธาตุพลังโจมตี 30 และสถานะการสะสม + 5%"
+      "Translation": "ในขณะที่การใช้งานแก่โจมตี + 12 ธาตุพลังโจมตี 30 และสะสมสถานะ + 5%"
     },
     "skill-coalescence-2": {
       "Key": "skill-coalescence-2",
-      "Translation": "ในขณะที่การใช้งานแก่โจมตี + 15 ธาตุพลังโจมตี 60 และสถานะการสะสม + 10%"
+      "Translation": "ในขณะที่การใช้งานแก่โจมตี + 15 ธาตุพลังโจมตี 60 และสะสมสถานะ + 10%"
     },
     "skill-coalescence-3": {
       "Key": "skill-coalescence-3",
-      "Translation": "ในขณะที่การใช้งานแก่โจมตี + 18 ธาตุพลังโจมตี +90 และสถานะการสะสม + 15%"
+      "Translation": "ในขณะที่การใช้งานแก่โจมตี + 18 ธาตุพลังโจมตี 90 และสะสมสถานะ + 15%"
     },
     "skill-coalescence-description": {
       "Key": "skill-coalescence-description",
@@ -14789,15 +14789,15 @@ export default {
     },
     "skill-critical-boost-1": {
       "Key": "skill-critical-boost-1",
-      "Translation": "เพิ่มความเสียหายที่สร้างโดยฮิตที่สำคัญ 30%"
+      "Translation": "ความเสียหายเพิ่มขึ้นโดยการกระทำฮิตที่สำคัญ 30%"
     },
     "skill-critical-boost-2": {
       "Key": "skill-critical-boost-2",
-      "Translation": "เพิ่มความเสียหายที่สร้างโดยฮิตที่สำคัญโดย 35%"
+      "Translation": "ความเสียหายเพิ่มขึ้นโดยการกระทำฮิตที่สำคัญโดย 35%"
     },
     "skill-critical-boost-3": {
       "Key": "skill-critical-boost-3",
-      "Translation": "เพิ่มความเสียหายที่สร้างโดยฮิตที่สำคัญโดย 40%"
+      "Translation": "ความเสียหายเพิ่มขึ้นโดยการกระทำฮิตที่สำคัญโดย 40%"
     },
     "skill-critical-boost-description": {
       "Key": "skill-critical-boost-description",
@@ -14821,7 +14821,7 @@ export default {
     },
     "skill-critical-draw-description": {
       "Key": "skill-critical-draw-description",
-      "Translation": "เพิ่มความสัมพันธ์ที่ใกล้ชิดเมื่อทำการโจมตีวาด"
+      "Translation": "การเพิ่มขึ้นของความสัมพันธ์เมื่อทำการโจมตีวาด"
     },
     "skill-critical-element": {
       "Key": "skill-critical-element",
@@ -14837,7 +14837,7 @@ export default {
     },
     "skill-critical-eye": {
       "Key": "skill-critical-eye",
-      "Translation": "ตาที่สำคัญ"
+      "Translation": "ที่สำคัญตา"
     },
     "skill-critical-eye-1": {
       "Key": "skill-critical-eye-1",
@@ -14869,7 +14869,7 @@ export default {
     },
     "skill-critical-eye-description": {
       "Key": "skill-critical-eye-description",
-      "Translation": "เพิ่มความสัมพันธ์"
+      "Translation": "การเพิ่มขึ้นของความสัมพันธ์"
     },
     "skill-critical-status": {
       "Key": "skill-critical-status",
@@ -14917,7 +14917,7 @@ export default {
     },
     "skill-defense-boost-description": {
       "Key": "skill-defense-boost-description",
-      "Translation": "เพิ่มพลังป้องกัน ระดับขึ้นเพื่อปรับปรุงความต้านทานเช่นกัน"
+      "Translation": "การป้องกันที่เพิ่มขึ้น ระดับขึ้นเพื่อปรับปรุงความต้านทานเช่นกัน"
     },
     "skill-detector": {
       "Key": "skill-detector",
@@ -14925,7 +14925,7 @@ export default {
     },
     "skill-detector-1": {
       "Key": "skill-detector-1",
-      "Translation": "ทำเครื่องหมายเว็บไซต์หายากบนแผนที่สัตว์ป่า"
+      "Translation": "Marks เว็บไซต์หายากบนแผนที่สัตว์ป่า"
     },
     "skill-detector-description": {
       "Key": "skill-detector-description",
@@ -14933,7 +14933,7 @@ export default {
     },
     "skill-divine-blessing": {
       "Key": "skill-divine-blessing",
-      "Translation": "พระพร"
+      "Translation": "พระเจ้าอวยพร"
     },
     "skill-divine-blessing-1": {
       "Key": "skill-divine-blessing-1",
@@ -15005,11 +15005,11 @@ export default {
     },
     "skill-dungmaster-1": {
       "Key": "skill-dungmaster-1",
-      "Translation": "ทำให้ฝัก Slinger มูลมีประสิทธิภาพมากขึ้นที่จะทำให้มอนสเตอร์วิ่งหนีไป"
+      "Translation": "ทำให้ Slinger มูลฝักมีประสิทธิภาพมากขึ้นที่จะทำให้มอนสเตอร์วิ่งหนีไป"
     },
     "skill-dungmaster-description": {
       "Key": "skill-dungmaster-description",
-      "Translation": "ทำให้มอนสเตอร์ตีด้วยฝัก Slinger มูลมีแนวโน้มที่จะทำงาน"
+      "Translation": "มอนสเตอร์ที่ทำให้ตีด้วยฝัก Slinger มูลมีแนวโน้มที่จะวิ่ง"
     },
     "skill-earplugs": {
       "Key": "skill-earplugs",
@@ -15033,7 +15033,7 @@ export default {
     },
     "skill-earplugs-5": {
       "Key": "skill-earplugs-5",
-      "Translation": "โมฆะอ่อนแอและแข็งแรงคำรามมอนสเตอร์"
+      "Translation": "โมฆะอ่อนแอและเสียงคำรามมอนสเตอร์ที่แข็งแกร่ง"
     },
     "skill-earplugs-description": {
       "Key": "skill-earplugs-description",
@@ -15053,7 +15053,7 @@ export default {
     },
     "skill-effluvia-resistance-3": {
       "Key": "skill-effluvia-resistance-3",
-      "Translation": "ป้องกันไม่ให้มีกลิ่นเหม็นตกค้าง"
+      "Translation": "ป้องกันการสะสมมีกลิ่นเหม็น"
     },
     "skill-effluvia-resistance-description": {
       "Key": "skill-effluvia-resistance-description",
@@ -15065,7 +15065,7 @@ export default {
     },
     "skill-effluvial-expert-1": {
       "Key": "skill-effluvial-expert-1",
-      "Translation": "ความเสียหายจากการเป็นโมฆะ effluvia และลดความเสียหายที่เกิดจากกรด"
+      "Translation": "โมฆะเกิดความเสียหายจาก effluvia และลดความเสียหายที่เกิดจากกรด"
     },
     "skill-effluvial-expert-description": {
       "Key": "skill-effluvial-expert-description",
@@ -15089,11 +15089,11 @@ export default {
     },
     "skill-elemental-airborne-1": {
       "Key": "skill-elemental-airborne-1",
-      "Translation": "ความเสียหายธาตุที่เพิ่มขึ้นสำหรับการกระโดดโจมตี"
+      "Translation": "ความเสียหายธาตุที่เพิ่มขึ้นสำหรับการโจมตีกระโดด"
     },
     "skill-elemental-airborne-description": {
       "Key": "skill-elemental-airborne-description",
-      "Translation": "ความเสียหายธาตุที่เพิ่มขึ้นสำหรับการกระโดดโจมตี"
+      "Translation": "ความเสียหายธาตุที่เพิ่มขึ้นสำหรับการโจมตีกระโดด"
     },
     "skill-entomologist": {
       "Key": "skill-entomologist",
@@ -15101,7 +15101,7 @@ export default {
     },
     "skill-entomologist-1": {
       "Key": "skill-entomologist-1",
-      "Translation": "เพิ่มโอกาสของศพที่ถูกทิ้งไว้ข้างหลัง"
+      "Translation": "เพิ่มโอกาสในการศพอยู่ข้างหลังซ้าย"
     },
     "skill-entomologist-2": {
       "Key": "skill-entomologist-2",
@@ -15169,23 +15169,23 @@ export default {
     },
     "skill-fire-attack-1": {
       "Key": "skill-fire-attack-1",
-      "Translation": "30 โจมตีไฟ"
+      "Translation": "ไฟโจมตี +30"
     },
     "skill-fire-attack-2": {
       "Key": "skill-fire-attack-2",
-      "Translation": "60 โจมตีไฟ"
+      "Translation": "ไฟโจมตี +60"
     },
     "skill-fire-attack-3": {
       "Key": "skill-fire-attack-3",
-      "Translation": "100 โจมตีไฟ"
+      "Translation": "ไฟโจมตี 100"
     },
     "skill-fire-attack-4": {
       "Key": "skill-fire-attack-4",
-      "Translation": "โจมตีไฟ + 5%, 100 โบนัส"
+      "Translation": "โจมตีไฟ + 5% โบนัส 100"
     },
     "skill-fire-attack-5": {
       "Key": "skill-fire-attack-5",
-      "Translation": "โจมตีไฟ + 10%, 100 โบนัส"
+      "Translation": "โจมตีไฟ + 10% โบนัส 100"
     },
     "skill-fire-attack-description": {
       "Key": "skill-fire-attack-description",
@@ -15217,7 +15217,7 @@ export default {
     },
     "skill-flinch-free-1": {
       "Key": "skill-flinch-free-1",
-      "Translation": "ป้องกันไม่ให้ knockbacks"
+      "Translation": "knockbacks ป้องกัน"
     },
     "skill-flinch-free-2": {
       "Key": "skill-flinch-free-2",
@@ -15225,11 +15225,11 @@ export default {
     },
     "skill-flinch-free-3": {
       "Key": "skill-flinch-free-3",
-      "Translation": "ป้องกันไม่ให้ knockbacks และสะดุด"
+      "Translation": "knockbacks ป้องกันและสะดุด"
     },
     "skill-flinch-free-description": {
       "Key": "skill-flinch-free-description",
-      "Translation": "ป้องกันไม่ให้ knockbacks และปฏิกิริยาอื่น ๆ เพื่อให้เกิดความเสียหายขนาดเล็ก"
+      "Translation": "knockbacks ป้องกันและปฏิกิริยาอื่น ๆ เพื่อให้เกิดความเสียหายขนาดเล็ก"
     },
     "skill-focus": {
       "Key": "skill-focus",
@@ -15253,11 +15253,11 @@ export default {
     },
     "skill-foragers-luck": {
       "Key": "skill-foragers-luck",
-      "Translation": "โชคปล้นสะดมของ"
+      "Translation": "ปล้นสะดมของโชค"
     },
     "skill-foragers-luck-1": {
       "Key": "skill-foragers-luck-1",
-      "Translation": "เพิ่มโอกาสในการหายากชุมนุมจุด respawning"
+      "Translation": "เพิ่มโอกาสในการจุดชุมนุมที่หายากเกิดใหม่"
     },
     "skill-foragers-luck-description": {
       "Key": "skill-foragers-luck-description",
@@ -15269,7 +15269,7 @@ export default {
     },
     "skill-fortify-1": {
       "Key": "skill-fortify-1",
-      "Translation": "เพิ่มการโจมตีโดย 10% และการป้องกันประเทศโดย 15% กับการใช้งานแต่ละ"
+      "Translation": "การเพิ่มขึ้นของการถูกโจมตีจาก 10% และการป้องกันประเทศโดย 15% กับการใช้งานแต่ละ"
     },
     "skill-fortify-description": {
       "Key": "skill-fortify-description",
@@ -15293,11 +15293,11 @@ export default {
     },
     "skill-free-element-ammo-up-description": {
       "Key": "skill-free-element-ammo-up-description",
-      "Translation": "ปลดองค์ประกอบที่ซ่อนอาวุธของคุณ นอกจากนี้ยังเพิ่มความสามารถในการโหลด Bowgun (มีฝาปิดจุในการโหลดเป็น)"
+      "Translation": "ปลดล็อคองค์ประกอบซ่อนอาวุธของคุณ นอกจากนี้ยังเพิ่มความสามารถในการโหลด Bowgun (มีฝาปิดจุในการโหลดเป็น)"
     },
     "skill-free-meal": {
       "Key": "skill-free-meal",
-      "Translation": "อาหารฟรี"
+      "Translation": "ฟรีอาหาร"
     },
     "skill-free-meal-1": {
       "Key": "skill-free-meal-1",
@@ -15341,7 +15341,7 @@ export default {
     },
     "skill-great-luck": {
       "Key": "skill-great-luck",
-      "Translation": "โชคที่ดี"
+      "Translation": "มหาโชค"
     },
     "skill-great-luck-1": {
       "Key": "skill-great-luck-1",
@@ -15461,7 +15461,7 @@ export default {
     },
     "skill-health-boost-description": {
       "Key": "skill-health-boost-description",
-      "Translation": "เพิ่มสุขภาพ"
+      "Translation": "สุขภาพเพิ่มขึ้น"
     },
     "skill-heat-guard": {
       "Key": "skill-heat-guard",
@@ -15469,15 +15469,15 @@ export default {
     },
     "skill-heat-guard-1": {
       "Key": "skill-heat-guard-1",
-      "Translation": "โมฆะความเสียหายความร้อน"
+      "Translation": "โมฆะความร้อนความเสียหาย"
     },
     "skill-heat-guard-description": {
       "Key": "skill-heat-guard-description",
-      "Translation": "โมฆะความเสียหายจากความร้อน"
+      "Translation": "โมฆะเกิดความเสียหายจากความร้อน"
     },
     "skill-heavy-artillery": {
       "Key": "skill-heavy-artillery",
-      "Translation": "ปืนใหญ่หนัก"
+      "Translation": "ปืนใหญ่"
     },
     "skill-heavy-artillery-1": {
       "Key": "skill-heavy-artillery-1",
@@ -15497,27 +15497,27 @@ export default {
     },
     "skill-heroics-1": {
       "Key": "skill-heroics-1",
-      "Translation": "ในขณะที่การใช้งานเพิ่มพลังโจมตี 5% และเพิ่มการป้องกันโดย 15 คะแนน"
+      "Translation": "ในขณะที่การใช้งานเพิ่มขึ้นโจมตีพลังงานโดย 5% และเพิ่มการป้องกันโดย 15 คะแนน"
     },
     "skill-heroics-2": {
       "Key": "skill-heroics-2",
-      "Translation": "ในขณะที่การใช้งานเพิ่มพลังโจมตี 10% และเพิ่มการป้องกันโดย 20 คะแนน"
+      "Translation": "ในขณะที่การใช้งานเพิ่มขึ้นโจมตีพลังงานโดย 10% และเพิ่มการป้องกันโดย 20 คะแนน"
     },
     "skill-heroics-3": {
       "Key": "skill-heroics-3",
-      "Translation": "ในขณะที่การใช้งานเพิ่มพลังโจมตี 15% และเพิ่มการป้องกันโดย 25 คะแนน"
+      "Translation": "ในขณะที่การใช้งานเพิ่มขึ้นโจมตีพลังงานโดย 15% และเพิ่มการป้องกันโดย 25 คะแนน"
     },
     "skill-heroics-4": {
       "Key": "skill-heroics-4",
-      "Translation": "ในขณะที่การใช้งานเพิ่มพลังโจมตี 20% และเพิ่มการป้องกันโดย 30 คะแนน"
+      "Translation": "ในขณะที่การใช้งานเพิ่มขึ้นโจมตีพลังงานโดย 20% และเพิ่มการป้องกันโดย 30 คะแนน"
     },
     "skill-heroics-5": {
       "Key": "skill-heroics-5",
-      "Translation": "ในขณะที่การใช้งานเพิ่มพลังโจมตี 30% และเพิ่มการป้องกันโดย 40 คะแนน"
+      "Translation": "ในขณะที่การใช้งานเพิ่มขึ้นโจมตีพลังงานโดย 30% และเพิ่มการป้องกันโดย 40 คะแนน"
     },
     "skill-heroics-description": {
       "Key": "skill-heroics-description",
-      "Translation": "เพิ่มพลังโจมตีและป้องกันเมื่อสุขภาพลดลงถึง 35% หรือต่ำกว่า"
+      "Translation": "เพิ่มพลังโจมตีและการป้องกันเมื่อสุขภาพลดลงถึง 35% หรือต่ำกว่า"
     },
     "skill-honey-hunter": {
       "Key": "skill-honey-hunter",
@@ -15537,7 +15537,7 @@ export default {
     },
     "skill-horn-maestro-1": {
       "Key": "skill-horn-maestro-1",
-      "Translation": "ขยายระยะเวลาแสดงผลทำนองและเพิ่มการฟื้นฟูสุขภาพ"
+      "Translation": "ขยายระยะเวลาแสดงผลทำนองและการเพิ่มขึ้นของการกู้คืนสุขภาพ"
     },
     "skill-horn-maestro-description": {
       "Key": "skill-horn-maestro-description",
@@ -15569,23 +15569,23 @@ export default {
     },
     "skill-ice-attack-1": {
       "Key": "skill-ice-attack-1",
-      "Translation": "30 โจมตีน้ำแข็ง"
+      "Translation": "โจมตีน้ำแข็ง 30"
     },
     "skill-ice-attack-2": {
       "Key": "skill-ice-attack-2",
-      "Translation": "60 โจมตีน้ำแข็ง"
+      "Translation": "โจมตีน้ำแข็ง 60"
     },
     "skill-ice-attack-3": {
       "Key": "skill-ice-attack-3",
-      "Translation": "100 โจมตีน้ำแข็ง"
+      "Translation": "โจมตีน้ำแข็ง 100"
     },
     "skill-ice-attack-4": {
       "Key": "skill-ice-attack-4",
-      "Translation": "โจมตีน้ำแข็ง + 5%, 100 โบนัส"
+      "Translation": "โจมตีน้ำแข็ง + 5% โบนัส 100"
     },
     "skill-ice-attack-5": {
       "Key": "skill-ice-attack-5",
-      "Translation": "โจมตีน้ำแข็ง + 10%, 100 โบนัส"
+      "Translation": "โจมตีน้ำแข็ง + 10% โบนัส 100"
     },
     "skill-ice-attack-description": {
       "Key": "skill-ice-attack-description",
@@ -15617,7 +15617,7 @@ export default {
     },
     "skill-igni-intensity-1": {
       "Key": "skill-igni-intensity-1",
-      "Translation": "Igni เข้าสู่ระบบมายากล"
+      "Translation": "มายากลเข้าสู่ระบบ Igni"
     },
     "skill-igni-intensity-description": {
       "Key": "skill-igni-intensity-description",
@@ -15637,7 +15637,7 @@ export default {
     },
     "skill-intimidator-3": {
       "Key": "skill-intimidator-3",
-      "Translation": "ป้องกันไม่ให้มอนสเตอร์จากการมีส่วนร่วมของคุณแม้ว่าคุณจะได้รับการเห็น"
+      "Translation": "ป้องกันมอนสเตอร์จากการมีส่วนร่วมของคุณแม้ว่าคุณจะได้รับการเห็น"
     },
     "skill-intimidator-description": {
       "Key": "skill-intimidator-description",
@@ -15657,7 +15657,7 @@ export default {
     },
     "skill-iron-skin-3": {
       "Key": "skill-iron-skin-3",
-      "Translation": "ป้องกันไม่ให้กลาโหมลง"
+      "Translation": "ป้องกันกลาโหมลง"
     },
     "skill-iron-skin-description": {
       "Key": "skill-iron-skin-description",
@@ -15693,11 +15693,11 @@ export default {
     },
     "skill-jump-master-description": {
       "Key": "skill-jump-master-description",
-      "Translation": "ป้องกันการโจมตีจากเคาะคุณกลับในระหว่างการกระโดด"
+      "Translation": "การโจมตีป้องกันจากเคาะคุณสำรองระหว่างกระโดด"
     },
     "skill-latent-power": {
       "Key": "skill-latent-power",
-      "Translation": "พลังแฝง"
+      "Translation": "แฝงพลังงาน"
     },
     "skill-latent-power-1": {
       "Key": "skill-latent-power-1",
@@ -15773,11 +15773,11 @@ export default {
     },
     "skill-master-gatherer-1": {
       "Key": "skill-master-gatherer-1",
-      "Translation": "เพิ่มความเร็วในการรวบรวมและป้องกันไม่ให้ knockbacks ในขณะที่การชุมนุม"
+      "Translation": "ความเร็วถึงการรวบรวมและป้องกัน knockbacks ในขณะที่การชุมนุม"
     },
     "skill-master-gatherer-description": {
       "Key": "skill-master-gatherer-description",
-      "Translation": "ช่วยให้คุณสามารถรวบรวมได้รวดเร็วยิ่งขึ้นและยังช่วยป้องกันการโจมตีจากการเคาะให้คุณกลับมาในขณะที่การชุมนุม"
+      "Translation": "ช่วยให้คุณสามารถรวบรวมได้รวดเร็วยิ่งขึ้นและยังช่วยป้องกันการโจมตีจากเคาะคุณสำรองในขณะที่การชุมนุม"
     },
     "skill-master-mounter": {
       "Key": "skill-master-mounter",
@@ -15785,7 +15785,7 @@ export default {
     },
     "skill-master-mounter-1": {
       "Key": "skill-master-mounter-1",
-      "Translation": "ทำให้ง่ายต่อการติดตั้งและมอนสเตอร์มอนสเตอร์ที่ติดตั้งลง"
+      "Translation": "ทำให้ง่ายต่อการติดตั้งและลงมอนสเตอร์มอนสเตอร์ที่ติดตั้ง"
     },
     "skill-master-mounter-description": {
       "Key": "skill-master-mounter-description",
@@ -15821,7 +15821,7 @@ export default {
     },
     "skill-maximum-might-description": {
       "Key": "skill-maximum-might-description",
-      "Translation": "เพิ่มความสัมพันธ์ที่ใกล้ชิดเมื่อความแข็งแกร่งเต็ม"
+      "Translation": "การเพิ่มขึ้นของความสัมพันธ์เมื่อความแข็งแกร่งเต็ม"
     },
     "skill-minds-eye-ballistics": {
       "Key": "skill-minds-eye-ballistics",
@@ -15905,7 +15905,7 @@ export default {
     },
     "skill-offensive-guard": {
       "Key": "skill-offensive-guard",
-      "Translation": "ดินแดนที่น่ารังเกียจ"
+      "Translation": "เป็นที่น่ารังเกียจยาม"
     },
     "skill-offensive-guard-1": {
       "Key": "skill-offensive-guard-1",
@@ -15969,19 +15969,19 @@ export default {
     },
     "skill-paralysis-attack-1": {
       "Key": "skill-paralysis-attack-1",
-      "Translation": "อัมพาตสะสม + 5%, 10 โบนัส"
+      "Translation": "อัมพาตสะสม + 5% โบนัส 10"
     },
     "skill-paralysis-attack-2": {
       "Key": "skill-paralysis-attack-2",
-      "Translation": "อัมพาตสะสม + 10%, 10 โบนัส"
+      "Translation": "อัมพาตสะสม + 10% โบนัส 10"
     },
     "skill-paralysis-attack-3": {
       "Key": "skill-paralysis-attack-3",
-      "Translation": "อัมพาตสะสม + 20%, 10 โบนัส"
+      "Translation": "อัมพาตสะสม + 20% โบนัส 10"
     },
     "skill-paralysis-attack-description": {
       "Key": "skill-paralysis-attack-description",
-      "Translation": "เพิ่มอัตราการอัมพาตสะสม (การสะสมธาตุมีขีด จำกัด สูงสุด)"
+      "Translation": "เพิ่มอัตราการอัมพาตสะสม (ธาตุสะสมมีขีด จำกัด สูงสุด)"
     },
     "skill-paralysis-resistance": {
       "Key": "skill-paralysis-resistance",
@@ -16033,15 +16033,15 @@ export default {
     },
     "skill-peak-performance-2": {
       "Key": "skill-peak-performance-2",
-      "Translation": "ในขณะที่การใช้งานแก่ 10 โจมตี"
+      "Translation": "ในขณะที่การใช้งานทุนโจมตี +10"
     },
     "skill-peak-performance-3": {
       "Key": "skill-peak-performance-3",
-      "Translation": "ในขณะที่การใช้งานแก่ 20 โจมตี"
+      "Translation": "ในขณะที่การใช้งานทุนโจมตี +20"
     },
     "skill-peak-performance-description": {
       "Key": "skill-peak-performance-description",
-      "Translation": "เพิ่มการโจมตีเมื่อสุขภาพของคุณเต็ม"
+      "Translation": "การเพิ่มขึ้นของการโจมตีเมื่อสุขภาพของคุณเต็ม"
     },
     "skill-piercing-shots": {
       "Key": "skill-piercing-shots",
@@ -16049,7 +16049,7 @@ export default {
     },
     "skill-piercing-shots-1": {
       "Key": "skill-piercing-shots-1",
-      "Translation": "เพิ่มพลังของการเจาะกระสุนและมังกร Piercer"
+      "Translation": "เพิ่มอำนาจของกระสุนเจาะและมังกร Piercer"
     },
     "skill-piercing-shots-description": {
       "Key": "skill-piercing-shots-description",
@@ -16073,7 +16073,7 @@ export default {
     },
     "skill-poison-attack-description": {
       "Key": "skill-poison-attack-description",
-      "Translation": "เพิ่มอัตราการสะสมสารพิษ (การสะสมธาตุมีขีด จำกัด สูงสุด.)"
+      "Translation": "เพิ่มอัตราการสะสมสารพิษ (ธาตุสะสมมีขีด จำกัด สูงสุด.)"
     },
     "skill-poison-duration-up": {
       "Key": "skill-poison-duration-up",
@@ -16101,7 +16101,7 @@ export default {
     },
     "skill-poison-resistance": {
       "Key": "skill-poison-resistance",
-      "Translation": "ต้านทานพิษ"
+      "Translation": "พิษต้านทาน"
     },
     "skill-poison-resistance-1": {
       "Key": "skill-poison-resistance-1",
@@ -16137,7 +16137,7 @@ export default {
     },
     "skill-power-prolonger-description": {
       "Key": "skill-power-prolonger-description",
-      "Translation": "ช่วยให้ดาบยาวใบมีดคู่, glaives แมลงสลับแกนและใบมีดค่าใช้จ่ายจะอยู่ขับเคลื่อนขึ้นอีกต่อไป"
+      "Translation": "ช่วยให้ดาบยาวใบมีดคู่, glaives แมลงแกนสวิทช์และใบมีดค่าใช้จ่ายจะอยู่ขับเคลื่อนขึ้นอีกต่อไป"
     },
     "skill-pro-transporter": {
       "Key": "skill-pro-transporter",
@@ -16153,7 +16153,7 @@ export default {
     },
     "skill-protective-polish": {
       "Key": "skill-protective-polish",
-      "Translation": "โปแลนด์ป้องกัน"
+      "Translation": "ป้องกันโปแลนด์"
     },
     "skill-protective-polish-1": {
       "Key": "skill-protective-polish-1",
@@ -16161,11 +16161,11 @@ export default {
     },
     "skill-protective-polish-description": {
       "Key": "skill-protective-polish-description",
-      "Translation": "อาวุธคมชัดไม่ได้ลดลงสำหรับเวลาที่กำหนดหลังจากเหลา"
+      "Translation": "อาวุธคมชัดไม่ได้ลดลงเป็นเวลาหลังจากที่ชุดเหลา"
     },
     "skill-punishing-draw": {
       "Key": "skill-punishing-draw",
-      "Translation": "วาดลงโทษ"
+      "Translation": "ลงโทษจับสลากแบ่งสาย"
     },
     "skill-punishing-draw-1": {
       "Key": "skill-punishing-draw-1",
@@ -16177,7 +16177,7 @@ export default {
     },
     "skill-quick-sheath": {
       "Key": "skill-quick-sheath",
-      "Translation": "เปลือกด่วน"
+      "Translation": "ด่วนเปลือก"
     },
     "skill-quick-sheath-1": {
       "Key": "skill-quick-sheath-1",
@@ -16193,7 +16193,7 @@ export default {
     },
     "skill-quick-sheath-description": {
       "Key": "skill-quick-sheath-description",
-      "Translation": "เพิ่มความเร็วในการ sheathing อาวุธ"
+      "Translation": "ความเร็วสูงสุด sheathing อาวุธ"
     },
     "skill-razor-sharp-spare-shot": {
       "Key": "skill-razor-sharp-spare-shot",
@@ -16205,7 +16205,7 @@ export default {
     },
     "skill-razor-sharp-spare-shot-description": {
       "Key": "skill-razor-sharp-spare-shot-description",
-      "Translation": "การสูญเสียความคมชัดครึ่ง สำหรับคันธนูและ bowguns ภาพมีโอกาสที่จะไม่ใช้จ่ายเคลือบหรือกระสุน"
+      "Translation": "ครึ่งความคมชัดของการสูญเสีย สำหรับคันธนูและ bowguns ภาพมีโอกาสที่จะไม่ใช้จ่ายเคลือบหรือกระสุน"
     },
     "skill-recovery-speed": {
       "Key": "skill-recovery-speed",
@@ -16225,7 +16225,7 @@ export default {
     },
     "skill-recovery-speed-description": {
       "Key": "skill-recovery-speed-description",
-      "Translation": "รักษาความเร็วของความเสียหายที่ได้รับคืน (ส่วนสีแดงของวัดสุขภาพ)"
+      "Translation": "ความเร็วในการรักษาของความเสียหายที่ได้รับคืน (ส่วนสีแดงของวัดสุขภาพ)"
     },
     "skill-recovery-up": {
       "Key": "skill-recovery-up",
@@ -16245,7 +16245,7 @@ export default {
     },
     "skill-recovery-up-description": {
       "Key": "skill-recovery-up-description",
-      "Translation": "เพิ่มจำนวนเงินที่กู้คืนในขณะที่การฟื้นฟูสุขภาพ"
+      "Translation": "การเพิ่มขึ้นของจำนวนเงินที่กู้คืนในขณะที่การฟื้นฟูสุขภาพ"
     },
     "skill-resentment": {
       "Key": "skill-resentment",
@@ -16257,23 +16257,23 @@ export default {
     },
     "skill-resentment-2": {
       "Key": "skill-resentment-2",
-      "Translation": "ในขณะที่การใช้งานแก่ 10 โจมตี"
+      "Translation": "ในขณะที่การใช้งานทุนโจมตี +10"
     },
     "skill-resentment-3": {
       "Key": "skill-resentment-3",
-      "Translation": "ในขณะที่การใช้งานแก่ 15 โจมตี"
+      "Translation": "ในขณะที่การใช้งานทุนโจมตี +15"
     },
     "skill-resentment-4": {
       "Key": "skill-resentment-4",
-      "Translation": "ในขณะที่การใช้งานแก่ 20 โจมตี"
+      "Translation": "ในขณะที่การใช้งานทุนโจมตี +20"
     },
     "skill-resentment-5": {
       "Key": "skill-resentment-5",
-      "Translation": "ในขณะที่การใช้งานแก่ 25 โจมตี"
+      "Translation": "ในขณะที่การใช้งานทุนการโจมตี 25"
     },
     "skill-resentment-description": {
       "Key": "skill-resentment-description",
-      "Translation": "เพิ่มการโจมตีเมื่อคุณมีความเสียหายที่ได้รับคืน (ส่วนสีแดงของวัดสุขภาพของคุณ)"
+      "Translation": "การเพิ่มขึ้นของการโจมตีเมื่อคุณมีความเสียหายที่ได้รับคืน (ส่วนสีแดงของวัดสุขภาพของคุณ)"
     },
     "skill-resuscitate": {
       "Key": "skill-resuscitate",
@@ -16341,11 +16341,11 @@ export default {
     },
     "skill-sleep-attack-description": {
       "Key": "skill-sleep-attack-description",
-      "Translation": "เพิ่มอัตราการสะสมการนอนหลับ (การสะสมธาตุมีขีด จำกัด สูงสุด.)"
+      "Translation": "เพิ่มอัตราการสะสมการนอนหลับ (ธาตุสะสมมีขีด จำกัด สูงสุด.)"
     },
     "skill-sleep-functionality": {
       "Key": "skill-sleep-functionality",
-      "Translation": "ฟังก์ชั่นการนอนหลับ"
+      "Translation": "การนอนหลับการทำงาน"
     },
     "skill-sleep-functionality-1": {
       "Key": "skill-sleep-functionality-1",
@@ -16369,7 +16369,7 @@ export default {
     },
     "skill-sleep-resistance-3": {
       "Key": "skill-sleep-resistance-3",
-      "Translation": "ป้องกันไม่ให้การนอนหลับ"
+      "Translation": "ป้องกันการนอนหลับ"
     },
     "skill-sleep-resistance-description": {
       "Key": "skill-sleep-resistance-description",
@@ -16413,19 +16413,19 @@ export default {
     },
     "skill-slugger-description": {
       "Key": "skill-slugger-description",
-      "Translation": "ทำให้ง่ายต่อการ stun มอนสเตอร์"
+      "Translation": "ทำให้ง่ายต่อการมอนสเตอร์งัน"
     },
     "skill-special-ammo-boost": {
       "Key": "skill-special-ammo-boost",
-      "Translation": "กระสุนเพิ่มพิเศษ"
+      "Translation": "พิเศษกระสุน Boost"
     },
     "skill-special-ammo-boost-1": {
       "Key": "skill-special-ammo-boost-1",
-      "Translation": "เพิ่มอำนาจของกระสุนพิเศษ Bowgun และมังกร Piercer 10%"
+      "Translation": "เพิ่มพลังของ Bowgun กระสุนพิเศษและมังกร Piercer โดย 10%"
     },
     "skill-special-ammo-boost-2": {
       "Key": "skill-special-ammo-boost-2",
-      "Translation": "เพิ่มอำนาจของกระสุนพิเศษ Bowgun และมังกร Piercer 20%"
+      "Translation": "เพิ่มพลังของ Bowgun กระสุนพิเศษและมังกร Piercer โดย 20%"
     },
     "skill-special-ammo-boost-description": {
       "Key": "skill-special-ammo-boost-description",
@@ -16481,7 +16481,7 @@ export default {
     },
     "skill-speed-sharpening-description": {
       "Key": "skill-speed-sharpening-description",
-      "Translation": "เพิ่มความเร็วในการเหลาอาวุธเมื่อใช้ whestone"
+      "Translation": "ความเร็วสูงสุดเหลาอาวุธเมื่อใช้ whestone"
     },
     "skill-sporepuff-expert": {
       "Key": "skill-sporepuff-expert",
@@ -16505,15 +16505,15 @@ export default {
     },
     "skill-spread-power-shots": {
       "Key": "skill-spread-power-shots",
-      "Translation": "ภาพการแพร่กระจาย / ไฟ"
+      "Translation": "การแพร่กระจาย / ภาพพาวเวอร์"
     },
     "skill-spread-power-shots-1": {
       "Key": "skill-spread-power-shots-1",
-      "Translation": "เพิ่มพลังการแพร่กระจายของกระสุนและอำนาจการยิงลูกศร"
+      "Translation": "เพิ่มพลังการแพร่กระจายของกระสุนและลูกศรอำนาจการยิง"
     },
     "skill-spread-power-shots-description": {
       "Key": "skill-spread-power-shots-description",
-      "Translation": "เพิ่มพลังโจมตีของกระสุนการแพร่กระจายและอำนาจการยิงลูกศร"
+      "Translation": "เพิ่มพลังโจมตีของกระสุนและลูกศรแพร่กระจายอำนาจการยิง"
     },
     "skill-stamina-cap-up": {
       "Key": "skill-stamina-cap-up",
@@ -16521,11 +16521,11 @@ export default {
     },
     "skill-stamina-cap-up-1": {
       "Key": "skill-stamina-cap-up-1",
-      "Translation": "เพิ่มความแข็งแกร่งหมวก"
+      "Translation": "หมวกเพิ่มความแข็งแกร่ง"
     },
     "skill-stamina-cap-up-description": {
       "Key": "skill-stamina-cap-up-description",
-      "Translation": "เพิ่มความแข็งแกร่งหมวก"
+      "Translation": "หมวกเพิ่มความแข็งแกร่ง"
     },
     "skill-stamina-surge": {
       "Key": "skill-stamina-surge",
@@ -16545,7 +16545,7 @@ export default {
     },
     "skill-stamina-surge-description": {
       "Key": "skill-stamina-surge-description",
-      "Translation": "เพิ่มความเร็วในการกู้คืนความแข็งแกร่ง"
+      "Translation": "ความเร็วในการกู้คืนความแข็งแกร่ง"
     },
     "skill-stamina-thief": {
       "Key": "skill-stamina-thief",
@@ -16565,7 +16565,7 @@ export default {
     },
     "skill-stamina-thief-description": {
       "Key": "skill-stamina-thief-description",
-      "Translation": "เพิ่มความสามารถในการโจมตีบางอย่างที่จะหมดมอนสเตอร์"
+      "Translation": "เพิ่มความสามารถในการโจมตีบางอย่างมอนสเตอร์ไอเสีย"
     },
     "skill-stealth": {
       "Key": "skill-stealth",
@@ -16573,19 +16573,19 @@ export default {
     },
     "skill-stealth-1": {
       "Key": "skill-stealth-1",
-      "Translation": "ทำให้มันง่ายขึ้นสำหรับเล็กน้อยมอนสเตอร์ที่จะสูญเสียสายตาของคุณ"
+      "Translation": "ทำให้มันง่ายขึ้นเล็กน้อยสำหรับมอนสเตอร์ที่จะสูญเสียการมองเห็นของคุณ"
     },
     "skill-stealth-2": {
       "Key": "skill-stealth-2",
-      "Translation": "ทำให้มันง่ายขึ้นสำหรับปานกลางมอนสเตอร์ที่จะสูญเสียสายตาของคุณ"
+      "Translation": "ทำให้มันง่ายขึ้นสำหรับปานกลางมอนสเตอร์ที่จะสูญเสียการมองเห็นของคุณ"
     },
     "skill-stealth-3": {
       "Key": "skill-stealth-3",
-      "Translation": "ทำให้มันง่ายมากสำหรับมอนสเตอร์ที่จะสูญเสียสายตาของคุณ"
+      "Translation": "ทำให้มันง่ายมากสำหรับมอนสเตอร์ที่จะสูญเสียการมองเห็นของคุณ"
     },
     "skill-stealth-description": {
       "Key": "skill-stealth-description",
-      "Translation": "ทำให้มันง่ายขึ้นสำหรับมอนสเตอร์ที่จะสูญเสียสายตาของคุณ"
+      "Translation": "ทำให้มันง่ายขึ้นสำหรับมอนสเตอร์ที่จะสูญเสียการมองเห็นของคุณ"
     },
     "skill-stun-resistance": {
       "Key": "skill-stun-resistance",
@@ -16637,15 +16637,15 @@ export default {
     },
     "skill-thunder-attack-4": {
       "Key": "skill-thunder-attack-4",
-      "Translation": "โจมตีทันเดอร์ + 5%, 100 โบนัส"
+      "Translation": "ทันเดอร์โจมตี + 5% โบนัส 100"
     },
     "skill-thunder-attack-5": {
       "Key": "skill-thunder-attack-5",
-      "Translation": "ทันเดอร์โจมตี + 10%, 100 โบนัส"
+      "Translation": "ทันเดอร์โจมตี + 10% โบนัส 100"
     },
     "skill-thunder-attack-description": {
       "Key": "skill-thunder-attack-description",
-      "Translation": "เพิ่มพลังโจมตีฟ้าร้ององค์ประกอบ (พลังโจมตีธาตุมีขีด จำกัด สูงสุด.)"
+      "Translation": "เพิ่มพลังฟ้าร้ององค์ประกอบโจมตี (พลังโจมตีธาตุมีขีด จำกัด สูงสุด.)"
     },
     "skill-thunder-resistance": {
       "Key": "skill-thunder-resistance",
@@ -16661,11 +16661,11 @@ export default {
     },
     "skill-thunder-resistance-3": {
       "Key": "skill-thunder-resistance-3",
-      "Translation": "ต้านทานทันเดอร์ 20, 10 กลาโหม"
+      "Translation": "ทันเดอร์ที่มีความต้านทาน 20 กลาโหม 10"
     },
     "skill-thunder-resistance-description": {
       "Key": "skill-thunder-resistance-description",
-      "Translation": "เพิ่มความต้านทานฟ้าร้อง นอกจากนี้ยังเพิ่มการป้องกันในระดับที่สูง"
+      "Translation": "การเพิ่มขึ้นของฟ้าร้องต้านทาน นอกจากนี้ยังเพิ่มการป้องกันในระดับที่สูง"
     },
     "skill-tool-specialist": {
       "Key": "skill-tool-specialist",
@@ -16673,15 +16673,15 @@ export default {
     },
     "skill-tool-specialist-1": {
       "Key": "skill-tool-specialist-1",
-      "Translation": "ลดระยะเวลาจนกว่าจะนำมาใช้ใหม่ 5%"
+      "Translation": "เวลาน้อยลงจนนำมาใช้ใหม่ 5%"
     },
     "skill-tool-specialist-2": {
       "Key": "skill-tool-specialist-2",
-      "Translation": "ลดระยะเวลาจนกว่าจะนำมาใช้ใหม่ 10%"
+      "Translation": "เวลาน้อยลงจนนำมาใช้ใหม่ 10%"
     },
     "skill-tool-specialist-3": {
       "Key": "skill-tool-specialist-3",
-      "Translation": "ลดระยะเวลาจนกว่าจะนำมาใช้ใหม่ 20%"
+      "Translation": "เวลาน้อยลงจนนำมาใช้ใหม่ 20%"
     },
     "skill-tool-specialist-description": {
       "Key": "skill-tool-specialist-description",
@@ -16693,15 +16693,15 @@ export default {
     },
     "skill-tremor-resistance-1": {
       "Key": "skill-tremor-resistance-1",
-      "Translation": "โมฆะแรงสั่นสะเทือนจากพื้นดินเล็กน้อย"
+      "Translation": "โมฆะแรงสั่นสะเทือนเล็กน้อยพื้นดิน"
     },
     "skill-tremor-resistance-2": {
       "Key": "skill-tremor-resistance-2",
-      "Translation": "โมฆะแรงสั่นสะเทือนจากพื้นดินเล็กน้อยและช่วยลดและผลกระทบของแรงสั่นสะเทือนจากพื้นดินที่สำคัญ"
+      "Translation": "โมฆะแรงสั่นสะเทือนเล็กน้อยพื้นดินและลดการและผลกระทบของแรงสั่นสะเทือนจากพื้นดินที่สำคัญ"
     },
     "skill-tremor-resistance-3": {
       "Key": "skill-tremor-resistance-3",
-      "Translation": "โมฆะเล็กน้อยและที่สำคัญแรงสั่นสะเทือนจากพื้นดิน"
+      "Translation": "โมฆะเล็กน้อยและแรงสั่นสะเทือนจากพื้นดินที่สำคัญ"
     },
     "skill-tremor-resistance-description": {
       "Key": "skill-tremor-resistance-description",
@@ -16713,23 +16713,23 @@ export default {
     },
     "skill-water-attack-1": {
       "Key": "skill-water-attack-1",
-      "Translation": "30 โจมตีน้ำ"
+      "Translation": "การโจมตีของน้ำ 30"
     },
     "skill-water-attack-2": {
       "Key": "skill-water-attack-2",
-      "Translation": "60 โจมตีน้ำ"
+      "Translation": "การโจมตีของน้ำ 60"
     },
     "skill-water-attack-3": {
       "Key": "skill-water-attack-3",
-      "Translation": "100 โจมตีน้ำ"
+      "Translation": "การโจมตีของน้ำ 100"
     },
     "skill-water-attack-4": {
       "Key": "skill-water-attack-4",
-      "Translation": "โจมตีน้ำ + 5%, 100 โบนัส"
+      "Translation": "โจมตีน้ำ + 5% โบนัส 100"
     },
     "skill-water-attack-5": {
       "Key": "skill-water-attack-5",
-      "Translation": "โจมตีน้ำ + 10%, 100 โบนัส"
+      "Translation": "โจมตีน้ำ + 10% โบนัส 100"
     },
     "skill-water-attack-description": {
       "Key": "skill-water-attack-description",
@@ -16801,7 +16801,7 @@ export default {
     },
     "skill-wide-range-description": {
       "Key": "skill-wide-range-description",
-      "Translation": "ช้าผลกระทบของบางรายการที่จะมีผลกระทบต่อพันธมิตรอยู่บริเวณใกล้เคียง"
+      "Translation": "ช้าผลกระทบของบางรายการยังส่งผลกระทบต่อพันธมิตรอยู่บริเวณใกล้เคียง"
     },
     "skill-windproof": {
       "Key": "skill-windproof",
@@ -16825,7 +16825,7 @@ export default {
     },
     "skill-windproof-5": {
       "Key": "skill-windproof-5",
-      "Translation": "ขัดแย้งเล็ก ๆ น้อย ๆ และที่สำคัญความดันลม"
+      "Translation": "ขัดแย้งเล็ก ๆ น้อย ๆ และความดันลมที่สำคัญ"
     },
     "skill-windproof-description": {
       "Key": "skill-windproof-description",
@@ -16833,7 +16833,7 @@ export default {
     },
     "trophy-a-living-fossil": {
       "Key": "trophy-a-living-fossil",
-      "Translation": "ฟอสซิลมีชีวิตอยู่"
+      "Translation": "ฟอสซิลชีวิต"
     },
     "trophy-a-living-fossil-description": {
       "Key": "trophy-a-living-fossil-description",
@@ -16849,7 +16849,7 @@ export default {
     },
     "trophy-an-inquisitive-mind": {
       "Key": "trophy-an-inquisitive-mind",
-      "Translation": "ใจที่อยากรู้อยากเห็น"
+      "Translation": "อยากรู้อยากเห็นใจ"
     },
     "trophy-an-inquisitive-mind-description": {
       "Key": "trophy-an-inquisitive-mind-description",
@@ -16941,7 +16941,7 @@ export default {
     },
     "trophy-clutch-claw-neophyte-description": {
       "Key": "trophy-clutch-claw-neophyte-description",
-      "Translation": "การศึกษาวิธีการของก้ามปูคลัทช์"
+      "Translation": "การศึกษาวิธีการก้ามปูคลัทช์"
     },
     "trophy-commissioned-work": {
       "Key": "trophy-commissioned-work",
@@ -16953,7 +16953,7 @@ export default {
     },
     "trophy-confronting-the-unknown": {
       "Key": "trophy-confronting-the-unknown",
-      "Translation": "เผชิญหน้ากับ Unknown"
+      "Translation": "เผชิญหน้าไม่รู้จัก"
     },
     "trophy-confronting-the-unknown-description": {
       "Key": "trophy-confronting-the-unknown-description",
@@ -17033,11 +17033,11 @@ export default {
     },
     "trophy-established-hunter": {
       "Key": "trophy-established-hunter",
-      "Translation": "ฮันเตอร์ก่อตั้งขึ้น"
+      "Translation": "ก่อตั้งฮันเตอร์"
     },
     "trophy-established-hunter-description": {
       "Key": "trophy-established-hunter-description",
-      "Translation": "ถึงนักล่าอันดับ 100"
+      "Translation": "Reach ล่าอันดับ 100"
     },
     "trophy-evolving-ecology": {
       "Key": "trophy-evolving-ecology",
@@ -17053,7 +17053,7 @@ export default {
     },
     "trophy-experienced-rider-description": {
       "Key": "trophy-experienced-rider-description",
-      "Translation": "ใช้ขี่ Raider หลายต่อหลายครั้ง"
+      "Translation": "ใช้ Raider ขี่หลายต่อหลายครั้ง"
     },
     "trophy-fates-conclusion": {
       "Key": "trophy-fates-conclusion",
@@ -17181,11 +17181,11 @@ export default {
     },
     "trophy-i-am-the-reinforcements-description": {
       "Key": "trophy-i-am-the-reinforcements-description",
-      "Translation": "ตอบสนองต่อเปลวไฟ SOS และช่วยให้สมบูรณ์ 10 เควส"
+      "Translation": "ตอบสนองต่อเปลวไฟ SOS และช่วยเหลือที่สมบูรณ์ 10 เควส"
     },
     "trophy-impregnable-defense": {
       "Key": "trophy-impregnable-defense",
-      "Translation": "กลาโหมเข้มแข็ง"
+      "Translation": "เข้มแข็งกลาโหม"
     },
     "trophy-impregnable-defense-description": {
       "Key": "trophy-impregnable-defense-description",
@@ -17205,7 +17205,7 @@ export default {
     },
     "trophy-indomitable-description": {
       "Key": "trophy-indomitable-description",
-      "Translation": "ล่า 50 มอนสเตอร์ที่มีอารมณ์"
+      "Translation": "ล่า 50 อารมณ์มอนสเตอร์"
     },
     "trophy-indomitable-spirit": {
       "Key": "trophy-indomitable-spirit",
@@ -17217,7 +17217,7 @@ export default {
     },
     "trophy-insatiable-investigator": {
       "Key": "trophy-insatiable-investigator",
-      "Translation": "สืบสวนที่ไม่รู้จักพอ"
+      "Translation": "Insatiable สืบสวน"
     },
     "trophy-insatiable-investigator-description": {
       "Key": "trophy-insatiable-investigator-description",
@@ -17269,7 +17269,7 @@ export default {
     },
     "trophy-master-slayer-description": {
       "Key": "trophy-master-slayer-description",
-      "Translation": "ฆ่า 50 พี่มังกรในเควสยศต้นแบบ"
+      "Translation": "ฆ่ามังกร 50 ผู้สูงอายุในเควสยศต้นแบบ"
     },
     "trophy-miniature-crown": {
       "Key": "trophy-miniature-crown",
@@ -17301,7 +17301,7 @@ export default {
     },
     "trophy-mmm-so-tasty-description": {
       "Key": "trophy-mmm-so-tasty-description",
-      "Translation": "ปรุงอาหารสเต็กดีทำครั้งแรกของคุณ"
+      "Translation": "ปรุงอาหารครั้งแรกสเต็กดีคุณทำ"
     },
     "trophy-monster-hunter": {
       "Key": "trophy-monster-hunter",
@@ -17325,11 +17325,11 @@ export default {
     },
     "trophy-monster-phd-description": {
       "Key": "trophy-monster-phd-description",
-      "Translation": "การวิจัยเกี่ยวกับทุกอย่างเกือบทุกมอนสเตอร์"
+      "Translation": "ทุกอย่างที่เกี่ยวกับการวิจัยเกือบทุกมอนสเตอร์"
     },
     "trophy-monster-slayer": {
       "Key": "trophy-monster-slayer",
-      "Translation": "ฆ่ามอนสเตอร์"
+      "Translation": "มอนสเตอร์ฆ่า"
     },
     "trophy-monster-slayer-description": {
       "Key": "trophy-monster-slayer-description",
@@ -17381,7 +17381,7 @@ export default {
     },
     "trophy-outstanding-observer-description": {
       "Key": "trophy-outstanding-observer-description",
-      "Translation": "เสร็จสิ้นการร้องขอหลายสำหรับนักวิจัย Lynian"
+      "Translation": "การร้องขอหลายที่สมบูรณ์แบบสำหรับนักวิจัย Lynian"
     },
     "trophy-personal-treasure": {
       "Key": "trophy-personal-treasure",
@@ -17405,7 +17405,7 @@ export default {
     },
     "trophy-rainbow-bright-description": {
       "Key": "trophy-rainbow-bright-description",
-      "Translation": "จับภาพสิ่งมีชีวิตที่ glitters เหมือนรุ้งที่"
+      "Translation": "จับภาพสิ่งมีชีวิตที่ glitters ชอบรุ้ง"
     },
     "trophy-remodeler": {
       "Key": "trophy-remodeler",
@@ -17457,7 +17457,7 @@ export default {
     },
     "trophy-step-into-the-arena": {
       "Key": "trophy-step-into-the-arena",
-      "Translation": "ก้าวเข้าสู่สนามกีฬา"
+      "Translation": "ก้าวเข้าสู่สังเวียน"
     },
     "trophy-step-into-the-arena-description": {
       "Key": "trophy-step-into-the-arena-description",
@@ -17473,7 +17473,7 @@ export default {
     },
     "trophy-sweet-melody": {
       "Key": "trophy-sweet-melody",
-      "Translation": "Melody หวาน"
+      "Translation": "หวาน Melody"
     },
     "trophy-sweet-melody-description": {
       "Key": "trophy-sweet-melody-description",
@@ -17485,7 +17485,7 @@ export default {
     },
     "trophy-temper-temper-description": {
       "Key": "trophy-temper-temper-description",
-      "Translation": "ล่าสัตว์ประหลาดอารมณ์แรกของคุณ"
+      "Translation": "ล่าสัตว์ประหลาดแรกอารมณ์ของคุณ"
     },
     "trophy-the-art-of-camouflage": {
       "Key": "trophy-the-art-of-camouflage",
@@ -17529,7 +17529,7 @@ export default {
     },
     "trophy-the-franchise-hunter": {
       "Key": "trophy-the-franchise-hunter",
-      "Translation": "ฮันเตอร์แฟรนไชส์"
+      "Translation": "แฟรนไชส์ฮันเตอร์"
     },
     "trophy-the-franchise-hunter-description": {
       "Key": "trophy-the-franchise-hunter-description",
@@ -17617,7 +17617,7 @@ export default {
     },
     "trophy-veteran-collector": {
       "Key": "trophy-veteran-collector",
-      "Translation": "นักทหารผ่านศึก"
+      "Translation": "เก๋าของนักสะสม"
     },
     "trophy-veteran-collector-description": {
       "Key": "trophy-veteran-collector-description",
@@ -17825,7 +17825,7 @@ export default {
     },
     "weapon-dual-blades-decimation-claws": {
       "Key": "weapon-dual-blades-decimation-claws",
-      "Translation": "กรงเล็บสังหาร"
+      "Translation": "ล้างกรงเล็บ"
     },
     "weapon-dual-blades-diablos-clubs-i": {
       "Key": "weapon-dual-blades-diablos-clubs-i",
@@ -17901,7 +17901,7 @@ export default {
     },
     "weapon-dual-blades-enduring-schism": {
       "Key": "weapon-dual-blades-enduring-schism",
-      "Translation": "แตกแยกนาน"
+      "Translation": "นานแตกแยก"
     },
     "weapon-dual-blades-erupter-gold-twinblades": {
       "Key": "weapon-dual-blades-erupter-gold-twinblades",
@@ -17949,7 +17949,7 @@ export default {
     },
     "weapon-dual-blades-holy-sabers": {
       "Key": "weapon-dual-blades-holy-sabers",
-      "Translation": "สงศักดิ์สิทธิ์"
+      "Translation": "ศักดิ์สิทธิ์สง"
     },
     "weapon-dual-blades-horn-gold-twinblades": {
       "Key": "weapon-dual-blades-horn-gold-twinblades",
@@ -18229,7 +18229,7 @@ export default {
     },
     "weapon-dual-blades-wrathful-predation": {
       "Key": "weapon-dual-blades-wrathful-predation",
-      "Translation": "ปล้นสะดมโมโห"
+      "Translation": "โมโหปล้นสะดม"
     },
     "weapon-dual-blades-xeno-raqs": {
       "Key": "weapon-dual-blades-xeno-raqs",
@@ -18365,7 +18365,7 @@ export default {
     },
     "weapon-great-sword-daoras-decimator": {
       "Key": "weapon-great-sword-daoras-decimator",
-      "Translation": "Decimator Daora ของ"
+      "Translation": "Daora ของ Decimator"
     },
     "weapon-great-sword-datura-blaze-i": {
       "Key": "weapon-great-sword-datura-blaze-i",
@@ -18573,7 +18573,7 @@ export default {
     },
     "weapon-great-sword-leviathans-fury": {
       "Key": "weapon-great-sword-leviathans-fury",
-      "Translation": "ความโกรธเกรี้ยวของยักษ์"
+      "Translation": "ยักษ์ของความโกรธ"
     },
     "weapon-great-sword-lightning-punisher-i": {
       "Key": "weapon-great-sword-lightning-punisher-i",
@@ -18797,7 +18797,7 @@ export default {
     },
     "weapon-gunlance-eradication-flame": {
       "Key": "weapon-gunlance-eradication-flame",
-      "Translation": "เปลวไฟกำจัด"
+      "Translation": "ขจัดเปลวไฟ"
     },
     "weapon-gunlance-glacial-gunlance-i": {
       "Key": "weapon-gunlance-glacial-gunlance-i",
@@ -18897,7 +18897,7 @@ export default {
     },
     "weapon-gunlance-rath-gunlance-ii": {
       "Key": "weapon-gunlance-rath-gunlance-ii",
-      "Translation": "Rath Gunlance ครั้งที่สอง"
+      "Translation": "ไทยรัฐ Gunlance ครั้งที่สอง"
     },
     "weapon-gunlance-red-rook": {
       "Key": "weapon-gunlance-red-rook",
@@ -18905,7 +18905,7 @@ export default {
     },
     "weapon-gunlance-rose-burst": {
       "Key": "weapon-gunlance-rose-burst",
-      "Translation": "ปรับตัวสูงขึ้นต่อเนื่อง"
+      "Translation": "Burst โรส"
     },
     "weapon-gunlance-royal-burst": {
       "Key": "weapon-gunlance-royal-burst",
@@ -19077,7 +19077,7 @@ export default {
     },
     "weapon-hammer-daoras-colossus": {
       "Key": "weapon-hammer-daoras-colossus",
-      "Translation": "ยักษ์ใหญ่ของ Daora"
+      "Translation": "Daora ของยักษ์ใหญ่"
     },
     "weapon-hammer-decay-gold-bludgeon": {
       "Key": "weapon-hammer-decay-gold-bludgeon",
@@ -19233,7 +19233,7 @@ export default {
     },
     "weapon-hammer-jail-hammer": {
       "Key": "weapon-hammer-jail-hammer",
-      "Translation": "ค้อนคุก"
+      "Translation": "คุกค้อน"
     },
     "weapon-hammer-kjarr-hammer-blast": {
       "Key": "weapon-hammer-kjarr-hammer-blast",
@@ -19305,7 +19305,7 @@ export default {
     },
     "weapon-hammer-mud-gold-bludgeon": {
       "Key": "weapon-hammer-mud-gold-bludgeon",
-      "Translation": "โคลนกระบองทอง"
+      "Translation": "โคลนทองกระบอง"
     },
     "weapon-hammer-nergal-crusher": {
       "Key": "weapon-hammer-nergal-crusher",
@@ -19321,7 +19321,7 @@ export default {
     },
     "weapon-hammer-pandemoniums-root": {
       "Key": "weapon-hammer-pandemoniums-root",
-      "Translation": "รากของนรก"
+      "Translation": "นรกของราก"
     },
     "weapon-hammer-rage-gold-bludgeon": {
       "Key": "weapon-hammer-rage-gold-bludgeon",
@@ -19961,7 +19961,7 @@ export default {
     },
     "weapon-lance-blue-prominence": {
       "Key": "weapon-lance-blue-prominence",
-      "Translation": "รุ่งเรืองสีน้ำเงิน"
+      "Translation": "ฟ้ารุ่งเรือง"
     },
     "weapon-lance-blue-tail": {
       "Key": "weapon-lance-blue-tail",
@@ -20001,7 +20001,7 @@ export default {
     },
     "weapon-lance-crusher-gold-defender": {
       "Key": "weapon-lance-crusher-gold-defender",
-      "Translation": "Crusher Defender ทอง"
+      "Translation": "Crusher ทองพิทักษ์"
     },
     "weapon-lance-daoras-fang": {
       "Key": "weapon-lance-daoras-fang",
@@ -20145,7 +20145,7 @@ export default {
     },
     "weapon-lance-heavy-bone-lance-i": {
       "Key": "weapon-lance-heavy-bone-lance-i",
-      "Translation": "กระดูกหนักแลนซ์ฉัน"
+      "Translation": "หนักกระดูกแลนซ์ฉัน"
     },
     "weapon-lance-heavy-bone-lance-ii": {
       "Key": "weapon-lance-heavy-bone-lance-ii",
@@ -20245,7 +20245,7 @@ export default {
     },
     "weapon-lance-loves-sorrow": {
       "Key": "weapon-lance-loves-sorrow",
-      "Translation": "ความเศร้าโศกของความรัก"
+      "Translation": "ความรักความเศร้าโศก"
     },
     "weapon-lance-lurk-gold-defender": {
       "Key": "weapon-lance-lurk-gold-defender",
@@ -20513,7 +20513,7 @@ export default {
     },
     "weapon-long-sword-divine-slasher": {
       "Key": "weapon-long-sword-divine-slasher",
-      "Translation": "Slasher พระเจ้า"
+      "Translation": "พระเจ้า Slasher"
     },
     "weapon-long-sword-dragonbone-stabber-i": {
       "Key": "weapon-long-sword-dragonbone-stabber-i",
@@ -20545,7 +20545,7 @@ export default {
     },
     "weapon-long-sword-exterminations-edge": {
       "Key": "weapon-long-sword-exterminations-edge",
-      "Translation": "ขุดรากถอนโคนขอบ"
+      "Translation": "ขอบขุดรากถอนโคนของ"
     },
     "weapon-long-sword-first-dance-i": {
       "Key": "weapon-long-sword-first-dance-i",
@@ -20589,7 +20589,7 @@ export default {
     },
     "weapon-long-sword-gold-poison-katana": {
       "Key": "weapon-long-sword-gold-poison-katana",
-      "Translation": "Katana พิษทอง"
+      "Translation": "ทองพิษ Katana"
     },
     "weapon-long-sword-gyre-gold-katana": {
       "Key": "weapon-long-sword-gyre-gold-katana",
@@ -20721,11 +20721,11 @@ export default {
     },
     "weapon-long-sword-last-dance-ii": {
       "Key": "weapon-long-sword-last-dance-ii",
-      "Translation": "ล่าสุดเต้นรำครั้งที่สอง"
+      "Translation": "เต้นรำครั้งที่สอง"
     },
     "weapon-long-sword-last-dance-iii": {
       "Key": "weapon-long-sword-last-dance-iii",
-      "Translation": "ล่าสุดเต้นรำ III"
+      "Translation": "เต้นรำ III"
     },
     "weapon-long-sword-legia-stealer": {
       "Key": "weapon-long-sword-legia-stealer",
@@ -21461,11 +21461,11 @@ export default {
     },
     "weapon-tree-great-girros-tree": {
       "Key": "weapon-tree-great-girros-tree",
-      "Translation": "ต้นไม้ Girros ที่ดี"
+      "Translation": "ต้นไม้ใหญ่ Girros"
     },
     "weapon-tree-great-jagras-tree": {
       "Key": "weapon-tree-great-jagras-tree",
-      "Translation": "ต้นไม้ Jagras ที่ดี"
+      "Translation": "ต้นไม้ใหญ่ Jagras"
     },
     "weapon-tree-hornetaur-tree": {
       "Key": "weapon-tree-hornetaur-tree",
@@ -21613,11 +21613,11 @@ export default {
     },
     "weapon-long-sword-blinding-blaze-i": {
       "Key": "weapon-long-sword-blinding-blaze-i",
-      "Translation": "เจิดจ้า Blaze ฉัน"
+      "Translation": "Blinding Blaze ฉัน"
     },
     "weapon-long-sword-blinding-blaze-ii": {
       "Key": "weapon-long-sword-blinding-blaze-ii",
-      "Translation": "เจิดจ้า Blaze ครั้งที่สอง"
+      "Translation": "Blinding Blaze ครั้งที่สอง"
     },
     "weapon-tree-barioth-tree": {
       "Key": "weapon-tree-barioth-tree",
@@ -21801,7 +21801,7 @@ export default {
     },
     "weapon-long-sword-tigrine-need": {
       "Key": "weapon-long-sword-tigrine-need",
-      "Translation": "ต้องการ Tigrine"
+      "Translation": "Tigrine ต้องการ"
     },
     "weapon-tree-yian-garuga-tree": {
       "Key": "weapon-tree-yian-garuga-tree",
@@ -21833,7 +21833,7 @@ export default {
     },
     "weapon-long-sword-radiant-flow": {
       "Key": "weapon-long-sword-radiant-flow",
-      "Translation": "กระแส Radiant"
+      "Translation": "Radiant ไหล"
     },
     "weapon-long-sword-reverent-elusarca": {
       "Key": "weapon-long-sword-reverent-elusarca",
@@ -21921,7 +21921,7 @@ export default {
     },
     "weapon-gunlance-ruinous-eradication": {
       "Key": "weapon-gunlance-ruinous-eradication",
-      "Translation": "กำจัดล่มจม"
+      "Translation": "ย่อยยับกำจัด"
     },
     "weapon-gunlance-mythic-kadachi-striker-plus": {
       "Key": "weapon-gunlance-mythic-kadachi-striker-plus",
@@ -21957,7 +21957,7 @@ export default {
     },
     "weapon-gunlance-highnesss-fury": {
       "Key": "weapon-gunlance-highnesss-fury",
-      "Translation": "ความโกรธเกรี้ยวของสมเด็จ"
+      "Translation": "สมเด็จของความโกรธ"
     },
     "weapon-gunlance-queens-panoply": {
       "Key": "weapon-gunlance-queens-panoply",
@@ -22041,7 +22041,7 @@ export default {
     },
     "weapon-gunlance-accursed-blast": {
       "Key": "weapon-gunlance-accursed-blast",
-      "Translation": "ระเบิดที่ถูกสาปแช่ง"
+      "Translation": "อัปรีย์ระเบิด"
     },
     "weapon-gunlance-flamebite": {
       "Key": "weapon-gunlance-flamebite",
@@ -22133,7 +22133,7 @@ export default {
     },
     "weapon-gunlance-broken-silence": {
       "Key": "weapon-gunlance-broken-silence",
-      "Translation": "เงียบหัก"
+      "Translation": "Broken Silence"
     },
     "weapon-gunlance-magda-lahat-reforged": {
       "Key": "weapon-gunlance-magda-lahat-reforged",
@@ -22209,7 +22209,7 @@ export default {
     },
     "weapon-dual-blades-ruinous-decimation": {
       "Key": "weapon-dual-blades-ruinous-decimation",
-      "Translation": "ล้างล่มจม"
+      "Translation": "ย่อยยับล้าง"
     },
     "weapon-dual-blades-cross-destroyers-i": {
       "Key": "weapon-dual-blades-cross-destroyers-i",
@@ -22261,7 +22261,7 @@ export default {
     },
     "weapon-dual-blades-accursed-chain": {
       "Key": "weapon-dual-blades-accursed-chain",
-      "Translation": "โซ่ที่ถูกสาปแช่ง"
+      "Translation": "อัปรีย์โซ่"
     },
     "weapon-dual-blades-twin-flames": {
       "Key": "weapon-dual-blades-twin-flames",
@@ -22301,7 +22301,7 @@ export default {
     },
     "weapon-dual-blades-untouched-hel": {
       "Key": "weapon-dual-blades-untouched-hel",
-      "Translation": "เฮลแตะต้อง"
+      "Translation": "แตะต้อง Hel"
     },
     "weapon-dual-blades-anja-twinrippers-i": {
       "Key": "weapon-dual-blades-anja-twinrippers-i",
@@ -22437,11 +22437,11 @@ export default {
     },
     "weapon-dual-blades-enduring-sacrifice": {
       "Key": "weapon-dual-blades-enduring-sacrifice",
-      "Translation": "เสียสละนาน"
+      "Translation": "ยั่งยืนเสียสละ"
     },
     "weapon-dual-blades-enduring-surrender": {
       "Key": "weapon-dual-blades-enduring-surrender",
-      "Translation": "ยอมจำนนนาน"
+      "Translation": "ยั่งยืนยอมจำนน"
     },
     "weapon-dual-blades-wunderkirins": {
       "Key": "weapon-dual-blades-wunderkirins",
@@ -22485,7 +22485,7 @@ export default {
     },
     "weapon-great-sword-ruinous-atrocity": {
       "Key": "weapon-great-sword-ruinous-atrocity",
-      "Translation": "โหดร้ายล่มจม"
+      "Translation": "ย่อยยับโหดร้าย"
     },
     "weapon-great-sword-lightning-punisher-iv": {
       "Key": "weapon-great-sword-lightning-punisher-iv",
@@ -22493,7 +22493,7 @@ export default {
     },
     "weapon-great-sword-severing-bolt-i": {
       "Key": "weapon-great-sword-severing-bolt-i",
-      "Translation": "ขาดกลอนฉัน"
+      "Translation": "สั้กลอนฉัน"
     },
     "weapon-great-sword-frost-blaze-iii": {
       "Key": "weapon-great-sword-frost-blaze-iii",
@@ -22633,7 +22633,7 @@ export default {
     },
     "weapon-great-sword-monstrous-madness": {
       "Key": "weapon-great-sword-monstrous-madness",
-      "Translation": "บ้ามหึมา"
+      "Translation": "มหึมาบ้า"
     },
     "weapon-great-sword-don-monstro": {
       "Key": "weapon-great-sword-don-monstro",
@@ -22657,7 +22657,7 @@ export default {
     },
     "weapon-great-sword-fulgurations-edge": {
       "Key": "weapon-great-sword-fulgurations-edge",
-      "Translation": "fulguration ขอบ"
+      "Translation": "ขอบ fulguration ของ"
     },
     "weapon-great-sword-water-golem-iv": {
       "Key": "weapon-great-sword-water-golem-iv",
@@ -22781,7 +22781,7 @@ export default {
     },
     "weapon-lance-ruinous-perdition": {
       "Key": "weapon-lance-ruinous-perdition",
-      "Translation": "หายนะล่มจม"
+      "Translation": "ล่มจมหายนะ"
     },
     "weapon-lance-legiana-halberd-iii": {
       "Key": "weapon-lance-legiana-halberd-iii",
@@ -22821,7 +22821,7 @@ export default {
     },
     "weapon-lance-gama-drill-ii": {
       "Key": "weapon-lance-gama-drill-ii",
-      "Translation": "กามาเจาะครั้งที่สอง"
+      "Translation": "Gama เจาะครั้งที่สอง"
     },
     "weapon-lance-hidden-hastur-i": {
       "Key": "weapon-lance-hidden-hastur-i",
@@ -22865,15 +22865,15 @@ export default {
     },
     "weapon-lance-blue-prominence-plus": {
       "Key": "weapon-lance-blue-prominence-plus",
-      "Translation": "รุ่งเรืองสีน้ำเงิน +"
+      "Translation": "ฟ้ารุ่งเรือง +"
     },
     "weapon-lance-soul-prominence": {
       "Key": "weapon-lance-soul-prominence",
-      "Translation": "รุ่งเรืองวิญญาณ"
+      "Translation": "วิญญาณรุ่งเรือง"
     },
     "weapon-lance-silver-prominence": {
       "Key": "weapon-lance-silver-prominence",
-      "Translation": "รุ่งเรืองเงิน"
+      "Translation": "เงินรุ่งเรือง"
     },
     "weapon-lance-grand-halberd-i": {
       "Key": "weapon-lance-grand-halberd-i",
@@ -22945,7 +22945,7 @@ export default {
     },
     "weapon-lance-odogarons-misery-ii": {
       "Key": "weapon-lance-odogarons-misery-ii",
-      "Translation": "Odogaron ของความทุกข์ยากครั้งที่สอง"
+      "Translation": "Odogaron ของ II เดือดร้อน"
     },
     "weapon-lance-death-garon-lance": {
       "Key": "weapon-lance-death-garon-lance",
@@ -22993,7 +22993,7 @@ export default {
     },
     "weapon-lance-unblinking-gatekeeper": {
       "Key": "weapon-lance-unblinking-gatekeeper",
-      "Translation": "ยามไม่กะพริบตา"
+      "Translation": "ไม่กะพริบตายาม"
     },
     "weapon-lance-blasting-siegespear": {
       "Key": "weapon-lance-blasting-siegespear",
@@ -23013,7 +23013,7 @@ export default {
     },
     "weapon-lance-lost-babel": {
       "Key": "weapon-lance-lost-babel",
-      "Translation": "Lost บาเบล"
+      "Translation": "หายไป Babel"
     },
     "weapon-lance-fates-spindle": {
       "Key": "weapon-lance-fates-spindle",
@@ -23046,5 +23046,293 @@ export default {
     "weapon-lance-great-demon-lance": {
       "Key": "weapon-lance-great-demon-lance",
       "Translation": "ที่ดีปีศาจแลนซ์"
+    },
+    "weapon-sword-and-shield-chrome-knight-sword-i": {
+      "Key": "weapon-sword-and-shield-chrome-knight-sword-i",
+      "Translation": "โครเมี่ยมอัศวินดาบฉัน"
+    },
+    "weapon-sword-and-shield-chrome-knight-sword-ii": {
+      "Key": "weapon-sword-and-shield-chrome-knight-sword-ii",
+      "Translation": "โครเมี่ยมอัศวินดาบที่สอง"
+    },
+    "weapon-sword-and-shield-chrome-knight-sword-iii": {
+      "Key": "weapon-sword-and-shield-chrome-knight-sword-iii",
+      "Translation": "โครเมี่ยมอัศวินดาบ III"
+    },
+    "weapon-sword-and-shield-ruinous-eradication": {
+      "Key": "weapon-sword-and-shield-ruinous-eradication",
+      "Translation": "ย่อยยับกำจัด"
+    },
+    "weapon-sword-and-shield-corona-plus": {
+      "Key": "weapon-sword-and-shield-corona-plus",
+      "Translation": "Corona +"
+    },
+    "weapon-sword-and-shield-blue-corona": {
+      "Key": "weapon-sword-and-shield-blue-corona",
+      "Translation": "ฟ้ามาลา"
+    },
+    "weapon-sword-and-shield-shining-wyvern-blade": {
+      "Key": "weapon-sword-and-shield-shining-wyvern-blade",
+      "Translation": "Shining Blade Wyvern"
+    },
+    "weapon-sword-and-shield-legacy-bang": {
+      "Key": "weapon-sword-and-shield-legacy-bang",
+      "Translation": "มรดกบาง"
+    },
+    "weapon-sword-and-shield-legendary-bang": {
+      "Key": "weapon-sword-and-shield-legendary-bang",
+      "Translation": "ตำนานบาง"
+    },
+    "weapon-sword-and-shield-rogue-wave-iv": {
+      "Key": "weapon-sword-and-shield-rogue-wave-iv",
+      "Translation": "Rogue คลื่น IV"
+    },
+    "weapon-sword-and-shield-laguna-blossom-i": {
+      "Key": "weapon-sword-and-shield-laguna-blossom-i",
+      "Translation": "ลากูน่า Blossom ฉัน"
+    },
+    "weapon-sword-and-shield-laguna-blossom-ii": {
+      "Key": "weapon-sword-and-shield-laguna-blossom-ii",
+      "Translation": "ลากูน่า Blossom II"
+    },
+    "weapon-sword-and-shield-icicle-spike": {
+      "Key": "weapon-sword-and-shield-icicle-spike",
+      "Translation": "หยาดเข็ม"
+    },
+    "weapon-sword-and-shield-icicle-spike-plus": {
+      "Key": "weapon-sword-and-shield-icicle-spike-plus",
+      "Translation": "หยาดเข็ม +"
+    },
+    "weapon-sword-and-shield-nardebosche": {
+      "Key": "weapon-sword-and-shield-nardebosche",
+      "Translation": "Nardebosche"
+    },
+    "weapon-sword-and-shield-legia-rimespire-plus": {
+      "Key": "weapon-sword-and-shield-legia-rimespire-plus",
+      "Translation": "Legia Rimespire +"
+    },
+    "weapon-sword-and-shield-hoarcry-rimespire": {
+      "Key": "weapon-sword-and-shield-hoarcry-rimespire",
+      "Translation": "Hoarcry Rimespire"
+    },
+    "weapon-sword-and-shield-nephilim-glacia": {
+      "Key": "weapon-sword-and-shield-nephilim-glacia",
+      "Translation": "Nephilim Glacia"
+    },
+    "weapon-sword-and-shield-rose-highness": {
+      "Key": "weapon-sword-and-shield-rose-highness",
+      "Translation": "โรสสมเด็จ"
+    },
+    "weapon-sword-and-shield-lunatic-rose": {
+      "Key": "weapon-sword-and-shield-lunatic-rose",
+      "Translation": "คนบ้าโรส"
+    },
+    "weapon-sword-and-shield-lumu-nightmare-i": {
+      "Key": "weapon-sword-and-shield-lumu-nightmare-i",
+      "Translation": "Lumu ฝันร้ายฉัน"
+    },
+    "weapon-sword-and-shield-lumu-nightmare-ii": {
+      "Key": "weapon-sword-and-shield-lumu-nightmare-ii",
+      "Translation": "Lumu ฝันร้ายครั้งที่สอง"
+    },
+    "weapon-sword-and-shield-nyx-tabar-i": {
+      "Key": "weapon-sword-and-shield-nyx-tabar-i",
+      "Translation": "Nyx Tabar ฉัน"
+    },
+    "weapon-sword-and-shield-nyx-tabar-ii": {
+      "Key": "weapon-sword-and-shield-nyx-tabar-ii",
+      "Translation": "Nyx Tabar ครั้งที่สอง"
+    },
+    "weapon-sword-and-shield-datura-florescence-i": {
+      "Key": "weapon-sword-and-shield-datura-florescence-i",
+      "Translation": "ลำโพงบานสะพรั่งฉัน"
+    },
+    "weapon-sword-and-shield-datura-florescence-ii": {
+      "Key": "weapon-sword-and-shield-datura-florescence-ii",
+      "Translation": "ลำโพงบานสะพรั่งครั้งที่สอง"
+    },
+    "weapon-sword-and-shield-dios-edge": {
+      "Key": "weapon-sword-and-shield-dios-edge",
+      "Translation": "Dios ขอบ"
+    },
+    "weapon-sword-and-shield-booming-barrage": {
+      "Key": "weapon-sword-and-shield-booming-barrage",
+      "Translation": "เฟื่องฟูเขื่อน"
+    },
+    "weapon-sword-and-shield-naaga-seax-i": {
+      "Key": "weapon-sword-and-shield-naaga-seax-i",
+      "Translation": "Naaga Seax ฉัน"
+    },
+    "weapon-sword-and-shield-naaga-seax-ii": {
+      "Key": "weapon-sword-and-shield-naaga-seax-ii",
+      "Translation": "Naaga Seax ครั้งที่สอง"
+    },
+    "weapon-sword-and-shield-hidden-edge": {
+      "Key": "weapon-sword-and-shield-hidden-edge",
+      "Translation": "ขอบซ่อน"
+    },
+    "weapon-sword-and-shield-hidden-edge-plus": {
+      "Key": "weapon-sword-and-shield-hidden-edge-plus",
+      "Translation": "ซ่อนขอบ +"
+    },
+    "weapon-sword-and-shield-flash-in-the-night": {
+      "Key": "weapon-sword-and-shield-flash-in-the-night",
+      "Translation": "แฟลชในตอนกลางคืน"
+    },
+    "weapon-sword-and-shield-radobaan-os-i": {
+      "Key": "weapon-sword-and-shield-radobaan-os-i",
+      "Translation": "Radobaan Os ฉัน"
+    },
+    "weapon-sword-and-shield-radobaan-os-ii": {
+      "Key": "weapon-sword-and-shield-radobaan-os-ii",
+      "Translation": "Radobaan Os ครั้งที่สอง"
+    },
+    "weapon-sword-and-shield-radobaan-os-iii": {
+      "Key": "weapon-sword-and-shield-radobaan-os-iii",
+      "Translation": "Radobaan Os III"
+    },
+    "weapon-sword-and-shield-icegale": {
+      "Key": "weapon-sword-and-shield-icegale",
+      "Translation": "Icegale"
+    },
+    "weapon-sword-and-shield-radobaan-osseus-i": {
+      "Key": "weapon-sword-and-shield-radobaan-osseus-i",
+      "Translation": "Radobaan Osseus ฉัน"
+    },
+    "weapon-sword-and-shield-radobaan-osseus-ii": {
+      "Key": "weapon-sword-and-shield-radobaan-osseus-ii",
+      "Translation": "Radobaan Osseus ครั้งที่สอง"
+    },
+    "weapon-sword-and-shield-acid-razor-i": {
+      "Key": "weapon-sword-and-shield-acid-razor-i",
+      "Translation": "กรดมีดโกนผม"
+    },
+    "weapon-sword-and-shield-acid-razor-ii": {
+      "Key": "weapon-sword-and-shield-acid-razor-ii",
+      "Translation": "กรดมีดโกนครั้งที่สอง"
+    },
+    "weapon-sword-and-shield-sabers-gullet-i": {
+      "Key": "weapon-sword-and-shield-sabers-gullet-i",
+      "Translation": "ดาบหลอดอาหารฉัน"
+    },
+    "weapon-sword-and-shield-sabers-gullet-ii": {
+      "Key": "weapon-sword-and-shield-sabers-gullet-ii",
+      "Translation": "ดาบหลอดอาหารครั้งที่สอง"
+    },
+    "weapon-sword-and-shield-rex-talon": {
+      "Key": "weapon-sword-and-shield-rex-talon",
+      "Translation": "เร็กซ์กรงเล็บ"
+    },
+    "weapon-sword-and-shield-rex-talon-plus": {
+      "Key": "weapon-sword-and-shield-rex-talon-plus",
+      "Translation": "เร็กซ์ + กรงเล็บ"
+    },
+    "weapon-sword-and-shield-tigrex-sword": {
+      "Key": "weapon-sword-and-shield-tigrex-sword",
+      "Translation": "Tigrex ดาบ"
+    },
+    "weapon-sword-and-shield-accursed-claw": {
+      "Key": "weapon-sword-and-shield-accursed-claw",
+      "Translation": "อัปรีย์กรงเล็บ"
+    },
+    "weapon-sword-and-shield-stonebite": {
+      "Key": "weapon-sword-and-shield-stonebite",
+      "Translation": "Stonebite"
+    },
+    "weapon-sword-and-shield-lightning-nemesis-iv": {
+      "Key": "weapon-sword-and-shield-lightning-nemesis-iv",
+      "Translation": "สายฟ้าซวย IV"
+    },
+    "weapon-sword-and-shield-usurpers-firebolt": {
+      "Key": "weapon-sword-and-shield-usurpers-firebolt",
+      "Translation": "ทรราชของไม้กวาด"
+    },
+    "weapon-sword-and-shield-usurpers-firebolt-plus": {
+      "Key": "weapon-sword-and-shield-usurpers-firebolt-plus",
+      "Translation": "ทรราชของไม้กวาด +"
+    },
+    "weapon-sword-and-shield-despots-crookbolt": {
+      "Key": "weapon-sword-and-shield-despots-crookbolt",
+      "Translation": "เผด็จการของ Crookbolt"
+    },
+    "weapon-sword-and-shield-barroth-slicer-i": {
+      "Key": "weapon-sword-and-shield-barroth-slicer-i",
+      "Translation": "Barroth ตัดฉัน"
+    },
+    "weapon-sword-and-shield-barroth-slicer-ii": {
+      "Key": "weapon-sword-and-shield-barroth-slicer-ii",
+      "Translation": "Barroth ตัดครั้งที่สอง"
+    },
+    "weapon-sword-and-shield-glavenus-razor-i": {
+      "Key": "weapon-sword-and-shield-glavenus-razor-i",
+      "Translation": "Glavenus มีดโกนผม"
+    },
+    "weapon-sword-and-shield-glavenus-razor-ii": {
+      "Key": "weapon-sword-and-shield-glavenus-razor-ii",
+      "Translation": "Glavenus มีดโกนครั้งที่สอง"
+    },
+    "weapon-sword-and-shield-gnashing-flammensucher-plus": {
+      "Key": "weapon-sword-and-shield-gnashing-flammensucher-plus",
+      "Translation": "ขบ Flammensucher +"
+    },
+    "weapon-sword-and-shield-lohensieger": {
+      "Key": "weapon-sword-and-shield-lohensieger",
+      "Translation": "Lohensieger"
+    },
+    "weapon-sword-and-shield-donnersieger": {
+      "Key": "weapon-sword-and-shield-donnersieger",
+      "Translation": "Donnersieger"
+    },
+    "weapon-sword-and-shield-donnersieger-plus": {
+      "Key": "weapon-sword-and-shield-donnersieger-plus",
+      "Translation": "Donnersieger +"
+    },
+    "weapon-sword-and-shield-fulgurations-talon": {
+      "Key": "weapon-sword-and-shield-fulgurations-talon",
+      "Translation": "fulguration ของกรงเล็บ"
+    },
+    "weapon-sword-and-shield-dragonseal-aldsword-i": {
+      "Key": "weapon-sword-and-shield-dragonseal-aldsword-i",
+      "Translation": "Dragonseal Aldsword ฉัน"
+    },
+    "weapon-sword-and-shield-dragonseal-aldsword-ii": {
+      "Key": "weapon-sword-and-shield-dragonseal-aldsword-ii",
+      "Translation": "Dragonseal Aldsword ครั้งที่สอง"
+    },
+    "weapon-sword-and-shield-manifested-lotus": {
+      "Key": "weapon-sword-and-shield-manifested-lotus",
+      "Translation": "ประจักษ์โลตัส"
+    },
+    "weapon-sword-and-shield-ephemeral-fulminator": {
+      "Key": "weapon-sword-and-shield-ephemeral-fulminator",
+      "Translation": "ชั่วคราว Fulminator"
+    },
+    "weapon-sword-and-shield-hydros-discus": {
+      "Key": "weapon-sword-and-shield-hydros-discus",
+      "Translation": "Hydros Discus"
+    },
+    "weapon-sword-and-shield-teostras-medal": {
+      "Key": "weapon-sword-and-shield-teostras-medal",
+      "Translation": "Teostra เหรียญ"
+    },
+    "weapon-sword-and-shield-fates-shear": {
+      "Key": "weapon-sword-and-shield-fates-shear",
+      "Translation": "ชะตากรรมของแรงเฉือน"
+    },
+    "weapon-sword-and-shield-soulfire-barb-blaze": {
+      "Key": "weapon-sword-and-shield-soulfire-barb-blaze",
+      "Translation": "Soulfire ลวดหนาม \"Blaze\""
+    },
+    "weapon-sword-and-shield-soulfire-barb-ruin": {
+      "Key": "weapon-sword-and-shield-soulfire-barb-ruin",
+      "Translation": "Soulfire ลวดหนาม \"ทำลาย\""
+    },
+    "weapon-sword-and-shield-rajang-club": {
+      "Key": "weapon-sword-and-shield-rajang-club",
+      "Translation": "Rajang คลับ"
+    },
+    "weapon-sword-and-shield-banned-rajang-club": {
+      "Key": "weapon-sword-and-shield-banned-rajang-club",
+      "Translation": "ห้าม Rajang คลับ"
     }
   }

@@ -1,7 +1,7 @@
 export default {
     "armor-alloy-description": {
       "Key": "armor-alloy-description",
-      "Translation": "裝甲製成精美machalite礦石。它的魅力所缺乏的它比在防守彌補。"
+      "Translation": "裝甲製成精美machalite礦石。它缺乏魅力它比在防守彌補。"
     },
     "armor-anja-description": {
       "Key": "armor-anja-description",
@@ -25,7 +25,7 @@ export default {
     },
     "armor-blossom-description": {
       "Key": "armor-blossom-description",
-      "Translation": "需要一個春蕾票務手藝。這盔甲閃耀著春蕾巨星的顏色。"
+      "Translation": "需要一個春蕾票到工藝。這盔甲閃耀著春蕾巨星的顏色。"
     },
     "armor-bone-description": {
       "Key": "armor-bone-description",
@@ -33,7 +33,7 @@ export default {
     },
     "armor-brigade-boots-description": {
       "Key": "armor-brigade-boots-description",
-      "Translation": "公會專屬裝甲競技場冠軍。需要很長的時間來建立。令人難以置信的耐用性。"
+      "Translation": "公會專屬裝甲競技場冠軍。需要很長的時間來鍛造。令人難以置信的耐用性。"
     },
     "armor-brigade-coil-description": {
       "Key": "armor-brigade-coil-description",
@@ -41,11 +41,11 @@ export default {
     },
     "armor-brigade-lobos-description": {
       "Key": "armor-brigade-lobos-description",
-      "Translation": "公會專屬裝甲競技場冠軍。特別精緻的頭飾。"
+      "Translation": "公會專屬裝甲競技場冠軍。特別精緻頭飾。"
     },
     "armor-brigade-suit-description": {
       "Key": "armor-brigade-suit-description",
-      "Translation": "公會專屬裝甲競技場冠軍。該協會的認可證明。易溶於移動。"
+      "Translation": "公會專屬裝甲競技場冠軍。該協會的認可證明。移動方便英寸"
     },
     "armor-brigade-vambraces-description": {
       "Key": "armor-brigade-vambraces-description",
@@ -53,11 +53,11 @@ export default {
     },
     "armor-butterfly-description": {
       "Key": "armor-butterfly-description",
-      "Translation": "昆蟲部分組成耀眼的盔甲。它重量輕，色彩是一個人的類的證據。"
+      "Translation": "光彩奪目的昆蟲部分組成的裝甲。它重量輕，顏色是證明一個人的階級。"
     },
     "armor-chainmail-description": {
       "Key": "armor-chainmail-description",
-      "Translation": "裝甲用織的鏈節。其熟悉的設計靈感在誰穿上它獵人的信任。"
+      "Translation": "裝甲用織的鏈節。其熟悉的設計靈感信任誰穿它的獵人。"
     },
     "armor-component-defense": {
       "Key": "armor-component-defense",
@@ -105,11 +105,11 @@ export default {
     },
     "armor-dantes-leather-boots-description": {
       "Key": "armor-dantes-leather-boots-description",
-      "Translation": "副本靴塑造了一個但丁穿著後。塗料舞池血紅這些beauts。"
+      "Translation": "副本靴塑造了一個但丁穿著後。塗料與這些beauts血紅的舞池。"
     },
     "armor-death-stench-description": {
       "Key": "armor-death-stench-description",
-      "Translation": "被詛咒的防具，據說會帶來死亡。佩戴者聽到他們的受害者的垂死掙扎的迴聲。"
+      "Translation": "被詛咒的防具，帶來死亡說。佩戴者聽到他們的受害者的垂死掙扎的迴聲。"
     },
     "armor-detail-components": {
       "Key": "armor-detail-components",
@@ -161,11 +161,11 @@ export default {
     },
     "armor-deviljho-description": {
       "Key": "armor-deviljho-description",
-      "Translation": "Deviljho裝甲賦予史詩力量的佩戴者，在對肉永無止境口渴的成本。"
+      "Translation": "Deviljho裝甲賦予史詩力量佩戴者，在一個永無止境的渴望肉的成本。"
     },
     "armor-diablos-description": {
       "Key": "armor-diablos-description",
-      "Translation": "在這個Diablo的裝甲大膽的喇叭是任誰懷疑過砂的規則是一個挑戰。"
+      "Translation": "在這個Diablo的大膽的喇叭鎧甲是任誰懷疑過砂的規則是一個挑戰。"
     },
     "armor-diablos-nero-description": {
       "Key": "armor-diablos-nero-description",
@@ -173,7 +173,7 @@ export default {
     },
     "armor-diver-description": {
       "Key": "armor-diver-description",
-      "Translation": "需要一個夏天黃昏票務手藝。裝甲會讓你渴望在海洋中暢遊。"
+      "Translation": "需要一個夏天黃昏票到工藝。裝甲會讓你渴望在海洋中暢遊。"
     },
     "armor-dober-description": {
       "Key": "armor-dober-description",
@@ -217,7 +217,7 @@ export default {
     },
     "armor-empress-crown-description": {
       "Key": "armor-empress-crown-description",
-      "Translation": "只有恰當的Lunastra的靈魂被容納在該特製頭盔內。"
+      "Translation": "它僅再合適不過Lunastra的靈魂被容納在該特製的頭盔內。"
     },
     "armor-empress-greaves-description": {
       "Key": "armor-empress-greaves-description",
@@ -229,7 +229,7 @@ export default {
     },
     "armor-empress-vambraces-description": {
       "Key": "armor-empress-vambraces-description",
-      "Translation": "在這個Lunastra裝甲可以魅力即使是最正直心的專門設計的藍色色調。"
+      "Translation": "在這個Lunastra鎧甲那麼大的魅力，即使是最正義的心的專門設計的藍色色調。"
     },
     "armor-faux-felyne-description": {
       "Key": "armor-faux-felyne-description",
@@ -241,7 +241,7 @@ export default {
     },
     "armor-gala-suit-description": {
       "Key": "armor-gala-suit-description",
-      "Translation": "需要一個鑑賞票手藝。這華麗的鎧甲一樣光亮炫目的欣賞巨星。"
+      "Translation": "需要一個鑑賞票到工藝。這華麗的鎧甲一樣光亮炫目的欣賞巨星。"
     },
     "armor-gastodon-description": {
       "Key": "armor-gastodon-description",
@@ -3249,7 +3249,7 @@ export default {
     },
     "armor-jagras-description": {
       "Key": "armor-jagras-description",
-      "Translation": "孜孜拋光大Jagras規模在結婚和諧優美鋼這件鎧甲。"
+      "Translation": "努力打磨大Jagras規模結婚鋼在這件鎧甲和諧優美。"
     },
     "armor-jyura-description": {
       "Key": "armor-jyura-description",
@@ -3277,11 +3277,11 @@ export default {
     },
     "armor-kulu-ya-ku-head-description": {
       "Key": "armor-kulu-ya-ku-head-description",
-      "Translation": "頭盔甲庫魯雅辜以後被塑造。唐這一點，你可能有一些雞蛋渴望..."
+      "Translation": "頭盔甲庫魯雅辜以後被塑造。 Don，這裡，你可能有一些雞蛋渴望..."
     },
     "armor-kulve-taroth-description": {
       "Key": "armor-kulve-taroth-description",
-      "Translation": "Kulve Taroth裝甲與豐富的光線照射。母親女神的憤怒可怕的謊言中。"
+      "Translation": "Kulve Taroth裝甲與豐富的光線照射。母親女神的謊言中的可怕的憤怒。"
     },
     "armor-kushala-description": {
       "Key": "armor-kushala-description",
@@ -3293,7 +3293,7 @@ export default {
     },
     "armor-lavasioth-description": {
       "Key": "armor-lavasioth-description",
-      "Translation": "厚Lavasioth外殼進行了細緻的處理過程中，產生這種盔甲。一個真正的藝術作品。"
+      "Translation": "厚Lavasioth殼經歷了一個艱苦的處理過程中，產生這種盔甲。一個真正的藝術作品。"
     },
     "armor-leather-description": {
       "Key": "armor-leather-description",
@@ -3301,7 +3301,7 @@ export default {
     },
     "armor-legiana-description": {
       "Key": "armor-legiana-description",
-      "Translation": "護甲風行之有效的主人佩戴。由Legiana部分，它閃亮令人賞心悅目的藍色。"
+      "Translation": "護甲風的證明主人佩戴。由Legiana部分，它閃亮令人賞心悅目的藍色。"
     },
     "armor-lr-alloy": {
       "Key": "armor-lr-alloy",
@@ -6665,7 +6665,7 @@ export default {
     },
     "armor-mr-seething-bazel-beta-plus": {
       "Key": "armor-mr-seething-bazel-beta-plus",
-      "Translation": "熱血巴澤爾SS +"
+      "Translation": "沸騰巴澤爾SS +"
     },
     "armor-mr-shamos-alpha-plus": {
       "Key": "armor-mr-shamos-alpha-plus",
@@ -7165,7 +7165,7 @@ export default {
     },
     "armor-orion-description": {
       "Key": "armor-orion-description",
-      "Translation": "需要一個冬季星票務手藝。 Wawrm和舒適的盔甲，所以你可以享受冬季的慶祝活動。"
+      "Translation": "需要一個冬季明星票到工藝。 Wawrm和舒適的盔甲，所以你可以享受冬季的慶祝活動。"
     },
     "armor-pukei-description": {
       "Key": "armor-pukei-description",
@@ -7177,7 +7177,7 @@ export default {
     },
     "armor-rath-heart-description": {
       "Key": "armor-rath-heart-description",
-      "Translation": "Rathian護甲展現，它讓所有誰看到它著迷和敬畏這樣一個富豪的存在。"
+      "Translation": "Rathian裝甲展品，它讓所有誰看到它這樣一個富豪的存在著迷和敬畏。"
     },
     "armor-rath-soul-description": {
       "Key": "armor-rath-soul-description",
@@ -7185,7 +7185,7 @@ export default {
     },
     "armor-rathalos-description": {
       "Key": "armor-rathalos-description",
-      "Translation": "從天空之王雕件精雕細琢，這個深紅色的盔甲擁有壓倒性的防禦。"
+      "Translation": "從天空之王，這個深紅色的盔甲誇耀壓倒防守雕刻部分製作。"
     },
     "armor-rathian-description": {
       "Key": "armor-rathian-description",
@@ -7225,7 +7225,7 @@ export default {
     },
     "armor-set-bonus-skill-bludgeoner-description": {
       "Key": "armor-set-bonus-skill-bludgeoner-description",
-      "Translation": "提高攻擊為你的武器失去了清晰度。也提高了遠程武器的近戰攻擊和驚人的賠率。"
+      "Translation": "加薪作為攻擊你的武器失去了清晰度。也提高了遠程武器的近戰攻擊和驚艷的機率。"
     },
     "armor-set-bonus-skill-bow-charge-plus": {
       "Key": "armor-set-bonus-skill-bow-charge-plus",
@@ -7241,7 +7241,7 @@ export default {
     },
     "armor-set-bonus-skill-capture-master-description": {
       "Key": "armor-set-bonus-skill-capture-master-description",
-      "Translation": "增加回報高的變化。 （加盟中期任務時，沒有效果。）"
+      "Translation": "增加回報高的變化。 （無效果時加入中期任務。）"
     },
     "armor-set-bonus-skill-carving-master": {
       "Key": "armor-set-bonus-skill-carving-master",
@@ -7285,7 +7285,7 @@ export default {
     },
     "armor-set-bonus-skill-elemental-airborne-description": {
       "Key": "armor-set-bonus-skill-elemental-airborne-description",
-      "Translation": "元素傷害增加了跳躍攻擊。"
+      "Translation": "元素傷害增加跳躍攻擊。"
     },
     "armor-set-bonus-skill-good-luck": {
       "Key": "armor-set-bonus-skill-good-luck",
@@ -7293,7 +7293,7 @@ export default {
     },
     "armor-set-bonus-skill-good-luck-description": {
       "Key": "armor-set-bonus-skill-good-luck-description",
-      "Translation": "增加任務獎勵的好機會。 （加盟中期任務時，沒有效果。）"
+      "Translation": "增加任務獎勵的好機會。 （無效果時加入中期任務。）"
     },
     "armor-set-bonus-skill-great-luck": {
       "Key": "armor-set-bonus-skill-great-luck",
@@ -7301,7 +7301,7 @@ export default {
     },
     "armor-set-bonus-skill-great-luck-description": {
       "Key": "armor-set-bonus-skill-great-luck-description",
-      "Translation": "增加任務獎勵的機會很高。 （加盟中期任務時，沒有效果。）"
+      "Translation": "增加任務獎勵的機會很高。 （無效果時加入中期任務。）"
     },
     "armor-set-bonus-skill-guard-up": {
       "Key": "armor-set-bonus-skill-guard-up",
@@ -7377,7 +7377,7 @@ export default {
     },
     "armor-set-bonus-skill-minds-eye-ballistics-description": {
       "Key": "armor-set-bonus-skill-minds-eye-ballistics-description",
-      "Translation": "防止被偏轉攻擊。還縮短了距離彈藥之前和箭頭達到最大功率。"
+      "Translation": "從防止攻擊的偏轉。還縮短了距離彈藥之前和箭頭達到最大功率。"
     },
     "armor-set-bonus-skill-nergigante-hunger": {
       "Key": "armor-set-bonus-skill-nergigante-hunger",
@@ -7389,7 +7389,7 @@ export default {
     },
     "armor-set-bonus-skill-non-elemental-boost-description": {
       "Key": "armor-set-bonus-skill-non-elemental-boost-description",
-      "Translation": "上電時，你已經具備非元素武器。"
+      "Translation": "權力了非基本武器，你都有配備。"
     },
     "armor-set-bonus-skill-nullify-wind-pressure": {
       "Key": "armor-set-bonus-skill-nullify-wind-pressure",
@@ -7529,15 +7529,15 @@ export default {
     },
     "armor-wiggler-head-description": {
       "Key": "armor-wiggler-head-description",
-      "Translation": "一個扭擺後的頭盔甲塑造。你會與某些研究人員被擊中！時間扭動它，但只有一點點！"
+      "Translation": "頭盔甲扭擺後塑造。你會與某些研究人員被擊中！時間扭動它，但只有一點點！"
     },
     "armor-xenojiiva-description": {
       "Key": "armor-xenojiiva-description",
-      "Translation": "這Xeno'jiiva裝甲能哼唱。如果控制得當，它賦予佩戴者巨大力量。"
+      "Translation": "這Xeno'jiiva鎧甲嗡嗡聲能量。如果控制得當，它賦予佩戴者巨大力量。"
     },
     "armor-zorah-description": {
       "Key": "armor-zorah-description",
-      "Translation": "偉岸如山，這就是瑣拉Magdaros裝甲使得佩戴者未受任何困難。"
+      "Translation": "偉岸如山，這就是瑣拉Magdaros裝甲使得其佩戴任何困難，而不嚇到。"
     },
     "armors-arena-items": {
       "Key": "armors-arena-items",
@@ -7585,7 +7585,7 @@ export default {
     },
     "critical-bounties-bugtrappers-tips": {
       "Key": "critical-bounties-bugtrappers-tips",
-      "Translation": "在古林：一個孤Bugtrapper可以在區域6中的樹（東北營（11））中發現。當你靠近時，Bugtrapper會逃離。跟隨他，他會帶你到他的村莊。\\ n \\ nTake您的時間，因為它是不是一場比賽。超車或運行太近Bugtrapper可能會造成問題。獎勵：你Palico現在可以使用flashfly籠和Jagras說話。"
+      "Translation": "在古林：一個孤Bugtrapper可以在區域6中的樹中發現（東北營（11））。當你靠近時，Bugtrapper會逃離。跟隨他，他會帶你到他的村莊。\\ n \\ nTake您的時間，因為它是不是一場比賽。超車或運行太近Bugtrapper可能會造成問題。獎勵：你Palico現在可以使用flashfly籠和Jagras說話。"
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics",
@@ -7593,7 +7593,7 @@ export default {
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics-tips": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics-tips",
-      "Translation": "這賞金可以在紫苑的Lynian研究員已完成了第4 Lynian研究任務後有所回升。研究人員要求你發現10 Gajalaka塗鴉。\\ n \\ n它重要的是要注意，這個賞金期間，僅在高排名位置其中只有產卵。你可以在區5 1塗鴉和古林1塗鴉區15。你可以在區3 1塗鴉，並在Wildspire廢物1塗鴉區7。\\ n \\ n您可以在區域12中的珊瑚高地1塗鴉。你可以在區3 2塗鴉和3塗鴉區15中的爛谷。當您返回到紫苑，研究者希望你出發去尋找Gajalaka陣營。\\ n \\ n查找在龍的凹槽中的研究員區8。為了啟動賞金，它需要晚上的時間。把你的吉利地幔，並在營地的後面跟的領導者在篝火。獎勵：你Palico現在可以使用meowlotov雞尾酒和交談Gastodon。"
+      "Translation": "這賞金可以在紫苑的Lynian研究員已完成了第4 Lynian研究任務後有所回升。研究人員要求你發現10 Gajalaka塗鴉。\\ n \\ n它重要的是要注意，這個賞金期間，僅在高排名位置，這些只產卵。你可以在區5 1塗鴉和古林1塗鴉區15。你可以在區3 1塗鴉，並在Wildspire廢物1塗鴉區7。\\ n \\ n您可以在區域12中的珊瑚高地1塗鴉。你可以在區3 2塗鴉和3塗鴉區15中的爛谷。當您返回到紫苑，研究者希望你出發去尋找Gajalaka陣營。\\ n \\ n查找在龍的凹槽中的研究員區8。為了啟動賞金，它需要晚上的時間。在營地的後面把你的吉利地幔，跟我們的領導者在篝火。獎勵：你Palico現在可以使用meowlotov雞尾酒和交談Gastodon。"
     },
     "critical-bounties-important": {
       "Key": "critical-bounties-important",
@@ -7601,7 +7601,7 @@ export default {
     },
     "critical-bounties-important-notes": {
       "Key": "critical-bounties-important-notes",
-      "Translation": "有三個研究人員可以在現場遇到了：特有生命研究員的Lynian研究員和魚研究員\\ n \\ n在你著手征戰，只有一個研究員將在該區域產卵。其中研究員產卵，當你選擇你的探險目的地顯示在世界地圖。每當你完成一個任務，探險或考察，它改變其研究員產卵。這就是為什麼它重要的是要定期檢查世界地圖。\\ n \\ n它是非常重要的談話在每個區域每個研究員，以便通過每個研究員的關鍵富饒的進展。既然是隨機的，其研究員產卵（見前面注），很容易錯過這些重要的恩澤。\\ n \\ n如果一名研究人員賞金提供，他們會出現一個黃色的感嘆號（！）在地圖上。我並不總是在地圖上看到這些標誌，這就是為什麼我錯過了這些關鍵的恩澤。一旦你踏上遠征，打開你的世界地圖，並使用L1 / R1鍵選擇地方性生命過濾器，使其更容易被發現。\\ n \\ n如果一個研究者沒有賞金提供，他們會出現一個明亮的綠色點（。）地圖。\\ n \\ n在你完成一個關鍵的賞金，你可以跟各自的研究員告訴他/她你完成賞金。但是，你總是要聊到研究中心紫苑完成賞金並獲得獎勵。\\ n \\ n如果沒有跟研究人員完成賞金後，你將要與他們交談，在新區域接受新的獎金，這是可能的，你必須跟我們的研究員的兩倍。有一次告訴他/她，你完成了前面的賞金。還有一次啟動新區域的關鍵賞金\\ n \\ nChoosing低等級或高等級目的地無所謂，除了龍的休會這不僅是高等級\\ n \\ nLynian懸賞：。無論何時你發現塗鴉，你可以與你的偵察飛行紀念他們，他們會引導你到下一個塗鴉。這樣做會導致你下面列出的位置。結交一個家族後，你可以跟你的Palico在你的房間或在研究基地。然後，您Palico會告訴你新的技巧還是教訓。"
+      "Translation": "有三個研究人員可以在現場遇到了：特有生命研究員的Lynian研究員和魚研究員\\ n \\ n在你著手征戰，只有一個研究員將在該區域產卵。其中研究員產卵，當你選擇你的探險目的地顯示在世界地圖。每當你完成一個任務，探險或考察，它改變其研究員產卵。這就是為什麼定期檢查世界地圖是很重要的。\\ n \\ n它是非常重要的談話在每個區域每個研究員，以便通過每個研究員的關鍵富饒的進展。既然是隨機的，其研究員產卵（見前面注），很容易錯過這些重要的恩澤。\\ n \\ n如果一個研究員有賞金的報價，他們會出現一個黃色的感嘆號（！）在地圖上。我並不總是在地圖上看到這些標誌，這就是為什麼我錯過了這些關鍵的恩澤。一旦你踏上遠征，打開世界地圖，並使用L1 / R1鍵選擇地方性生命過濾器，使之更容易被發現。\\ n \\ n如果一個研究者沒有恩惠的報價，他們會出現一個明亮的綠色點（。）地圖。\\ n \\ n在你完成一個關鍵的賞金，你可以跟各自的研究員告訴他/她你完成賞金。但是，你總是要聊到研究中心紫苑完成賞金並獲得獎勵。\\ n \\ n如果沒有完成賞金後交談的研究員，你將要談論到他們在一個新的區域接受新的獎金，這是可能的，你必須跟我們的研究員的兩倍。有一次告訴他/她，你完成了前面的賞金。還有一次啟動新區域的關鍵賞金\\ n \\ nChoosing低等級或高等級目的地無所謂，對龍的休會除外它是高排名只是\\ n \\ nLynian懸賞：。無論何時你發現塗鴉，你可以與你的偵察飛行紀念他們，他們會引導你到下一個塗鴉。這樣做會導致你下面列出的位置。結交一個家族後，你可以跟你的Palico在你的房間或在研究基地。然後，您Palico會告訴你新的技巧還是教訓。"
     },
     "critical-bounties-notes": {
       "Key": "critical-bounties-notes",
@@ -7613,7 +7613,7 @@ export default {
     },
     "critical-bounties-plunderers-tips": {
       "Key": "critical-bounties-plunderers-tips",
-      "Translation": "在爛谷：你必須已經完成“入谷的深處”，並獲得對爛谷的下部，然後才能找到強盜\\ n \\ nA的掠奪者可以通過旁邊等待的Lynian研究員發現區域13（中央營（11））。一旦過了Lynian研究員每隔5到10分鐘Odegaron巡邏並丟棄在地面上Legiana屍體。不久後掠奪者出現在Legiana屍體，如果你靠近它要逃走。\\ n \\ nFollow掠奪者到區域15和下降生肉大塊的岩石附近。採取一些距離，等到強盜開始吃肉。聊到強盜完成賞金。獎勵：你Palico現在可以使用plunderblade和Girros說話。"
+      "Translation": "在爛谷：你必須已經完成“入谷的深處”，並於爛谷的下部，然後才能找到強盜增益訪問\\ n \\ nA的掠奪者可以通過旁邊等待的Lynian研究員發現區域13（中央營（11））。每隔5到10分鐘Odegaron巡邏過去Lynian研究員並丟棄在地面上Legiana屍體。不久後掠奪者出現在Legiana屍體，如果你靠近它要逃走。\\ n \\ nFollow掠奪者到區域15和下降生肉大塊的岩石附近。採取一些距離，等到強盜開始吃肉。聊到強盜完成賞金。獎勵：您Palico現在可以使用plunderblade並講話以Girros。"
     },
     "critical-bounties-protectors": {
       "Key": "critical-bounties-protectors",
@@ -7621,7 +7621,7 @@ export default {
     },
     "critical-bounties-protectors-tips": {
       "Key": "critical-bounties-protectors-tips",
-      "Translation": "在Wildspire廢物：完成關鍵的賞金[文化交流：Wildspire廢物]和[文化交流：Wildspire廢物II]。保護器可以在孔中發現，在面積8北部的部分（中央營（6））。\\ n \\ nThey問你趕上他們的朋友誰是由Barroth嚇跑了。如果你使用正確的過濾器，他們都標在地圖上。獎勵：你Palico現在可以使用shieldspire和Kestodon說話。"
+      "Translation": "在Wildspire廢物：完成關鍵的賞金[文化交流：Wildspire廢物]和[文化交流：Wildspire廢物II]。保護器可以在一個洞區8（中央營（6））北部被發現。\\ n \\ nThey問你趕上他們的朋友誰是由Barroth嚇跑了。如果你使用正確的過濾器，他們都標在地圖上。獎勵：您Palico現在可以使用shieldspire並講話以Kestodon。"
     },
     "critical-bounties-quests": {
       "Key": "critical-bounties-quests",
@@ -7649,7 +7649,7 @@ export default {
     },
     "critical-bounties-research-help-bomb-beetle-capture-tips": {
       "Key": "critical-bounties-research-help-bomb-beetle-capture-tips",
-      "Translation": "在長輩的凹陷（南營（1））：一個炸彈甲殼蟲推糞周圍的球可以在區域1中找到或2。"
+      "Translation": "在長輩的凹陷（南營（1））：一個炸彈甲殼蟲推糞周圍的球可以在區域1或2中可以找到。"
     },
     "critical-bounties-research-help-capture-the-ancient": {
       "Key": "critical-bounties-research-help-capture-the-ancient",
@@ -7657,7 +7657,7 @@ export default {
     },
     "critical-bounties-research-help-capture-the-ancient-tips": {
       "Key": "critical-bounties-research-help-capture-the-ancient-tips",
-      "Translation": "這賞金可以在任何區域，如果前5個地方性生命的關鍵懸賞和第5魚關鍵懸賞已經完成了爛谷（中央營（面積15拾起。\\ n \\ nA的Petricanths可以夾在水11）），但只在有水最接近Grimalkyne身體。\\ n \\ nA的Petricanths也可以在水區8長輩的凹口（東方陣營的陣營10噸後面追（8））。來回這些區域之間。"
+      "Translation": "這賞金可以在任何區域，如果前5個地方性生命的關鍵懸賞和第5魚關鍵懸賞已經完成了爛谷（中央營（面積15拾起。\\ n \\ nA的Petricanths可以夾在水11）），但只在有水最接近Grimalkyne。\\ n \\ nA的Petricanths身體，也可以在水中陷於面積8長輩的凹槽（東方營（8））的陣營10噸後面。來回這些區域之間。"
     },
     "critical-bounties-research-help-carrier-ant-capture": {
       "Key": "critical-bounties-research-help-carrier-ant-capture",
@@ -7665,7 +7665,7 @@ export default {
     },
     "critical-bounties-research-help-carrier-ant-capture-tips": {
       "Key": "critical-bounties-research-help-carrier-ant-capture-tips",
-      "Translation": "在Wildspire廢物（西南營（1））：三載波螞蟻巡邏可在1區發現了他們重生非常快。"
+      "Translation": "在Wildspire廢物（西南營（1））：三載波螞蟻巡邏隊在區域1中可以找到他們重生非常快。"
     },
     "critical-bounties-research-help-goldenfish-capture": {
       "Key": "critical-bounties-research-help-goldenfish-capture",
@@ -7681,7 +7681,7 @@ export default {
     },
     "critical-bounties-research-help-gunpowderfish-capture-tips": {
       "Key": "critical-bounties-research-help-gunpowderfish-capture-tips",
-      "Translation": "在珊瑚高地（南營（1））：該Gunpowderfish可以在區域7水中抓到，但這已經不可靠了我。相反，我曾在爛谷的區域9容易得多的時間。"
+      "Translation": "在珊瑚高地（南營（1））：該Gunpowderfish可在水中被捕獲在區域7，但這已經不可靠了我。相反，我曾在爛谷的區域9容易得多的時間。"
     },
     "critical-bounties-research-help-phantom-bird": {
       "Key": "critical-bounties-research-help-phantom-bird",
@@ -7697,7 +7697,7 @@ export default {
     },
     "critical-bounties-research-help-pink-parexus-capture-tips": {
       "Key": "critical-bounties-research-help-pink-parexus-capture-tips",
-      "Translation": "在古林（西南營（1））：粉紅Parexus可以在水中捕獲旁魚研究員在區域1或在海灘區域4。"
+      "Translation": "在古林（西南營（1））：粉紅Parexus可在水中被捕獲旁魚研究員在區域1或在海灘區域4。"
     },
     "critical-bounties-research-help-platinumfish-capture": {
       "Key": "critical-bounties-research-help-platinumfish-capture",
@@ -7705,7 +7705,7 @@ export default {
     },
     "critical-bounties-research-help-platinumfish-capture-tips": {
       "Key": "critical-bounties-research-help-platinumfish-capture-tips",
-      "Translation": "在長輩的凹槽（東方營（8））：該Platinumfish可以在水中陷入區8營10噸後面。"
+      "Translation": "在長輩的凹槽（東方營（8））：該Platinumfish可在水中被捕獲在區域8營10噸後面。"
     },
     "critical-bounties-research-help-scavantula-capture": {
       "Key": "critical-bounties-research-help-scavantula-capture",
@@ -7713,7 +7713,7 @@ export default {
     },
     "critical-bounties-research-help-scavantula-capture-tips": {
       "Key": "critical-bounties-research-help-scavantula-capture-tips",
-      "Translation": "在淡水河谷爛（東南營（1））：三到四個Scavantula可以接近骨樁區3和4穿上你的吉利地幔發現。"
+      "Translation": "在淡水河谷爛（東南營（1））：三到四個Scavantula可以找到附近的骨樁區3和4穿上你的吉利地幔。"
     },
     "critical-bounties-research-help-sushifish-capture": {
       "Key": "critical-bounties-research-help-sushifish-capture",
@@ -7721,7 +7721,7 @@ export default {
     },
     "critical-bounties-research-help-sushifish-capture-tips": {
       "Key": "critical-bounties-research-help-sushifish-capture-tips",
-      "Translation": "在Wildspire廢物（西南營（1））：將Sushifish可以在區域1或區域10旁邊的魚研究員水捕獲。"
+      "Translation": "在Wildspire廢物（西南營（1））：將Sushifish可以在水中捕獲旁魚研究員在區域1或區域10。"
     },
     "critical-bounties-research-help-wiggler-capture": {
       "Key": "critical-bounties-research-help-wiggler-capture",
@@ -7729,7 +7729,7 @@ export default {
     },
     "critical-bounties-research-help-wiggler-capture-tips": {
       "Key": "critical-bounties-research-help-wiggler-capture-tips",
-      "Translation": "在珊瑚高地（南營（1））：三扭擺菌落可在1區上的吉利地幔認沽發現，從殖民地步行到殖民地。他們重生速度非常快，但等到他們從地面完全展露。"
+      "Translation": "在珊瑚高地（南營（1））：三扭擺菌落面積1.您吉利地幔認沽被發現和從殖民地步行到殖民地。他們重生速度非常快，但等到他們從地面完全展露。"
     },
     "critical-bounties-research-help-woodland-pteryx-capture": {
       "Key": "critical-bounties-research-help-woodland-pteryx-capture",
@@ -7737,7 +7737,7 @@ export default {
     },
     "critical-bounties-research-help-woodland-pteryx-capture-tips": {
       "Key": "critical-bounties-research-help-woodland-pteryx-capture-tips",
-      "Translation": "在古林（東北營（11））：林地Pteryx可以發現在區域5或11穿上你的吉利地幔走動。"
+      "Translation": "在古林（東北營（11））：林地Pteryx可以在區域5或11穿上你的吉利肩周圍可以找到行走。"
     },
     "critical-bounties-source": {
       "Key": "critical-bounties-source",
@@ -7749,7 +7749,7 @@ export default {
     },
     "critical-bounties-troupers-tips": {
       "Key": "critical-bounties-troupers-tips",
-      "Translation": "在珊瑚高地：Troupers可以在區域11通過很窄的小路通向東北發現（東北營（12））。他們問你殺死2 Tzitzi  - 雅古的可選任務“困擾Troupers”。獎勵：你Palico現在可以使用珊瑚樂隊和Shamos說話。"
+      "Translation": "在珊瑚高地：Troupers可以在區域11通過很窄的小路通向東北發現（東北營（12））。他們問你殺死2 Tzitzi  - 雅古的可選任務“困擾Troupers”。獎勵：您Palico現在可以使用珊瑚樂隊和說話Shamos。"
     },
     "endemic-life-andangler-description": {
       "Key": "endemic-life-andangler-description",
@@ -7777,11 +7777,11 @@ export default {
     },
     "endemic-life-burst-arowana-description": {
       "Key": "endemic-life-burst-arowana-description",
-      "Translation": "這種魚是字面上爆化學爆棚！它隱藏在雜草淺灘，但如果你扭動你的誘餌，它會跑掉！"
+      "Translation": "這種魚是字面上爆化學爆棚！它隱藏在雜草淺灘，但它會逃跑，如果你扭動你的誘餌！"
     },
     "endemic-life-cactuar-cutting-description": {
       "Key": "endemic-life-cactuar-cutting-description",
-      "Translation": "從Eorzea一個神秘的動物，看起來像仙人掌，但並非如此。當它需要逃跑速度非常快。"
+      "Translation": "從Eorzea一個神秘的動物，看起來像仙人掌，但並非如此。非常快的時候，它需要逃脫。"
     },
     "endemic-life-cactuar-description": {
       "Key": "endemic-life-cactuar-description",
@@ -7801,7 +7801,7 @@ export default {
     },
     "endemic-life-copper-calappa-description": {
       "Key": "endemic-life-copper-calappa-description",
-      "Translation": "聖Hermitaurs！有光澤的螃蟹！？看起來，如果你遵循它，它會掉落的東西。等等，這不就是一塊金子！？ NICE！“"
+      "Translation": "聖Hermitaurs！有光澤的螃蟹！？看起來就像如果你遵循它，它會掉落的東西。等待，這不就是一塊金子！？ NICE！“"
     },
     "endemic-life-dapper-coralbird-description": {
       "Key": "endemic-life-dapper-coralbird-description",
@@ -7809,11 +7809,11 @@ export default {
     },
     "endemic-life-downy-crake-description": {
       "Key": "endemic-life-downy-crake-description",
-      "Translation": "你抓住一個霜霉病秧雞！？他們已經看到怪物前的背影，但你是有史以來第一人抓到一個！"
+      "Translation": "你抓住一個霜霉病秧雞！？他們已經看到在之前的怪物的背上，但你是有史以來第一人抓一個！"
     },
     "endemic-life-dung-beetle-description": {
       "Key": "endemic-life-dung-beetle-description",
-      "Translation": "這些小伙子們滾長整天糞。需要一些糞？那麼不要再觀望！你用它做什麼不關我的事！"
+      "Translation": "這些小伙子們滾糞周圍整天。需要一些糞？那麼不要再觀望！你用它做什麼不關我的事！"
     },
     "endemic-life-elegant-coralbird-description": {
       "Key": "endemic-life-elegant-coralbird-description",
@@ -7829,7 +7829,7 @@ export default {
     },
     "endemic-life-flashfly-description": {
       "Key": "endemic-life-flashfly-description",
-      "Translation": "哇，這小狗的光明！即使是一個大怪物就會被它驚呆了，我敢肯定。這就像一個活生生的閃光彈......有翅膀！"
+      "Translation": "哇，這小狗的光明！即使是一個大怪物都會發生驚呆了，我敢肯定。這就像一個活生生的閃光彈......有翅膀！"
     },
     "endemic-life-flowering-cactuar-cutting-description": {
       "Key": "endemic-life-flowering-cactuar-cutting-description",
@@ -7849,7 +7849,7 @@ export default {
     },
     "endemic-life-gastronome-tuna-description": {
       "Key": "endemic-life-gastronome-tuna-description",
-      "Translation": "那吃anything--讓你有時候會從它的肚子裡的項目的魚。這些大魚想搶回誘餌！使用桿的靈活性，以您的利益帶來它，並且一定要檢查它的項目！"
+      "Translation": "魚是吃anything--讓你有時候會從它的肚子裡的物品。這些大魚像搶回誘餌！使用桿的靈活性，以您的利益，以帶上它，並且一定要檢查它的項目！"
     },
     "endemic-life-giant-vigorwasp-description": {
       "Key": "endemic-life-giant-vigorwasp-description",
@@ -7869,11 +7869,11 @@ export default {
     },
     "endemic-life-gold-hercudrome-description": {
       "Key": "endemic-life-gold-hercudrome-description",
-      "Translation": "光的使者？金光燦爛的漏洞？我......我無語了！我的......我的心臟感覺像在金福蘸了！"
+      "Translation": "光的使者？金光燦爛的漏洞？我......我無語了！我的......我的心臟感覺像被浸泡在金色的幸福！"
     },
     "endemic-life-goldenfish-description": {
       "Key": "endemic-life-goldenfish-description",
-      "Translation": "金比例穴居，如果你扭動你的誘餌，他們會拼命逃走吧！他們也喜歡拍攝真實咬之前蠶食，所以不要上當受騙！"
+      "Translation": "金比例穴居，如果你扭動你的誘餌，他們會拼命逃走吧！他們也喜歡拍攝真實咬前四位，所以不要上當受騙！"
     },
     "endemic-life-goldenfry-description": {
       "Key": "endemic-life-goldenfry-description",
@@ -7897,7 +7897,7 @@ export default {
     },
     "endemic-life-iron-helmcrab-description": {
       "Key": "endemic-life-iron-helmcrab-description",
-      "Translation": "哇！它確實看起來像一個頭盔！而且它攜帶......刺耳的波德？嗯，我敢肯定，如果我走，超重，也不會介意！"
+      "Translation": "哇！它確實看起來像一個頭盔！而且它攜帶......刺耳的波德？好吧，我相信它不會介意我，噢！"
     },
     "endemic-life-king-marlin-description": {
       "Key": "endemic-life-king-marlin-description",
@@ -7917,19 +7917,19 @@ export default {
     },
     "endemic-life-omenfly-description": {
       "Key": "endemic-life-omenfly-description",
-      "Translation": "看到那些發光的肚子？通常他們是黃色的，但它會變成紅色附近的大怪物...... W-他們為什麼彤彤靠近我！？紅"
+      "Translation": "看到那些發光的肚子？通常他們是黃色的，但它會變成紅色附近的大怪物...... W-為什麼他們紅彤彤的靠近我！？"
     },
     "endemic-life-paratoad-description": {
       "Key": "endemic-life-paratoad-description",
-      "Translation": "它存儲癱瘓氣體在它的身上，並威脅時釋放它！看到？在這裡，它的軀體，AGH！我......我不能... ... mooove"
+      "Translation": "在受到威脅時它在體內儲存並釋放麻痺氣！看到？在這裡，它的軀體，AGH！我......我不能... ... mooove"
     },
     "endemic-life-petricanths-description": {
       "Key": "endemic-life-petricanths-description",
-      "Translation": "令人難以置信......你已經設法撈傳說，以為到了，走了滅絕Petricanths！我把我的帽子給你！"
+      "Translation": "令人難以置信......你已經設法撈傳說，想的到了，走了滅絕Petricanths！我把我的帽子給你！"
     },
     "endemic-life-phantom-flutterfly": {
       "Key": "endemic-life-phantom-flutterfly",
-      "Translation": "這些華麗的翅膀！他們的彩虹光芒是如此的誘人......我......我不能從它撕了我的眼睛了！什麼傑作！"
+      "Translation": "這些華麗的翅膀！他們的彩虹光芒是如此誘人......我......我不能從它撕了我的眼睛了！什麼傑作！"
     },
     "endemic-life-pilot-hare-description": {
       "Key": "endemic-life-pilot-hare-description",
@@ -7937,7 +7937,7 @@ export default {
     },
     "endemic-life-pink-parexus-description": {
       "Key": "endemic-life-pink-parexus-description",
-      "Translation": "這些魚被發現遍及新大陸，一些驚人的原始生物的表演，他們很容易捕魚即使是初學者！"
+      "Translation": "這些魚被發現遍及新大陸，顯示出一些驚人的原始生物，他們是容易釣魚即使是初學者！"
     },
     "endemic-life-platinumfish-description": {
       "Key": "endemic-life-platinumfish-description",
@@ -7981,7 +7981,7 @@ export default {
     },
     "endemic-life-tsuchinoko-description": {
       "Key": "endemic-life-tsuchinoko-description",
-      "Translation": "車友，說說奇怪的大寫S.它的彈性體，和奇數皮膚...我想我以前聽說過這件事情的童話故事......"
+      "Translation": "車友，說說奇怪的大寫S.它的彈性體，和奇數皮膚...我想我聽說過在此之前的事情童話..."
     },
     "endemic-life-tyrant-hopper-description": {
       "Key": "endemic-life-tyrant-hopper-description",
@@ -7993,7 +7993,7 @@ export default {
     },
     "endemic-life-vigorwasp-description": {
       "Key": "endemic-life-vigorwasp-description",
-      "Translation": "它收集在這個囊這裡是液體......這是正確的，Vitalily花蜜！它的治療作用應該是在緊要關頭有用。"
+      "Translation": "流體，它收集在這個囊這裡是......沒錯，Vitalily花蜜！其癒合的屬性應該是在緊要關頭有用。"
     },
     "endemic-life-whetfish-description": {
       "Key": "endemic-life-whetfish-description",
@@ -8129,7 +8129,7 @@ export default {
     },
     "home-specialized-tools": {
       "Key": "home-specialized-tools",
-      "Translation": "專用工具"
+      "Translation": "專業工具"
     },
     "home-trophies": {
       "Key": "home-trophies",
@@ -8193,7 +8193,7 @@ export default {
     },
     "layered-armor-brigade-how-to-get": {
       "Key": "layered-armor-brigade-how-to-get",
-      "Translation": "完全打破了該旅交貨。"
+      "Translation": "完成突破旅交貨。"
     },
     "layered-armor-brigade-layered-arms": {
       "Key": "layered-armor-brigade-layered-arms",
@@ -8221,7 +8221,7 @@ export default {
     },
     "layered-armor-bushi-homare-how-to-get": {
       "Key": "layered-armor-bushi-homare-how-to-get",
-      "Translation": "完成以下交付：譽，譽精神，譽強度的智慧，譽譽和飛行的基礎得到全套。"
+      "Translation": "完成以下交付：譽，譽精神，譽的實力，譽譽和飛行基礎的智慧來獲得全套。"
     },
     "layered-armor-bushi-kabuto-homare": {
       "Key": "layered-armor-bushi-kabuto-homare",
@@ -8261,7 +8261,7 @@ export default {
     },
     "layered-armor-bushi-sabi-how-to-get": {
       "Key": "layered-armor-bushi-sabi-how-to-get",
-      "Translation": "完成以下交付：薩比，薩比精神，薩比強度的智慧，薩比和薩比飛行的基金會獲得全套。"
+      "Translation": "完成以下交付：薩比，薩比精神，薩比強度，薩比和薩比的飛行基礎的智慧來獲得全套。"
     },
     "layered-armor-bushi-suneate-homare": {
       "Key": "layered-armor-bushi-suneate-homare",
@@ -8381,7 +8381,7 @@ export default {
     },
     "layered-armor-gala-suit-layered-legs": {
       "Key": "layered-armor-gala-suit-layered-legs",
-      "Translation": "晚會套裝分層腿"
+      "Translation": "晚會西裝疊穿腿"
     },
     "layered-armor-gala-suit-layered-torso": {
       "Key": "layered-armor-gala-suit-layered-torso",
@@ -8389,11 +8389,11 @@ export default {
     },
     "layered-armor-geralt-of-rivia": {
       "Key": "layered-armor-geralt-of-rivia",
-      "Translation": "Rivia的傑洛特"
+      "Translation": "傑洛特Rivia的"
     },
     "layered-armor-geralt-of-rivia-how-to-get": {
       "Key": "layered-armor-geralt-of-rivia-how-to-get",
-      "Translation": "完成Rivia的傑洛特交付。"
+      "Translation": "完成Rivia交貨的傑洛特。"
     },
     "layered-armor-guild-cross": {
       "Key": "layered-armor-guild-cross",
@@ -8513,7 +8513,7 @@ export default {
     },
     "layered-armor-sakura-how-to-get": {
       "Key": "layered-armor-sakura-how-to-get",
-      "Translation": "完成盛開的櫻花交付。"
+      "Translation": "完全盛開櫻花交付。"
     },
     "layered-armor-samurai": {
       "Key": "layered-armor-samurai",
@@ -8537,7 +8537,7 @@ export default {
     },
     "layered-armor-shadow-shades-how-to-get": {
       "Key": "layered-armor-shadow-shades-how-to-get",
-      "Translation": "完成在陰影潛伏交付。"
+      "Translation": "在陰影交付完成潛伏。"
     },
     "layered-armor-shadow-shades-layered-head": {
       "Key": "layered-armor-shadow-shades-layered-head",
@@ -8577,7 +8577,7 @@ export default {
     },
     "monster-anjanath-useful-information": {
       "Key": "monster-anjanath-useful-information",
-      "Translation": "Anjanath吐奶從它口中利用其喉嚨獨特的器官的抨擊。它的喉嚨重點攻擊將會使作戰更容易。"
+      "Translation": "Anjanath吐奶從它口中利用其喉嚨獨特的器官的抨擊。它的喉嚨重點攻擊將使更容易對抗它。"
     },
     "monster-apceros": {
       "Key": "monster-apceros",
@@ -8593,7 +8593,7 @@ export default {
     },
     "monster-aptonoth-useful-information": {
       "Key": "monster-aptonoth-useful-information",
-      "Translation": "溫順的食草動物在吃草包。他們的肉被認為是美味和豐富的營養。如果群體的一員被攻擊，其餘的將立即逃離。"
+      "Translation": "溫順，在禮包吃草的食草動物。他們的肉被認為是美味和豐富的營養。如果群體的一員被攻擊，其餘的將立即逃離。"
     },
     "monster-azure-rathalos": {
       "Key": "monster-azure-rathalos",
@@ -8601,11 +8601,11 @@ export default {
     },
     "monster-azure-rathalos-characteristics": {
       "Key": "monster-azure-rathalos-characteristics",
-      "Translation": "Rathalos的湛藍色的亞種。更多的移動比標準的堂兄弟，他們找到獵物從空中並迅速一舉痛下殺手。"
+      "Translation": "Rathalos的湛藍色的亞種。更多的移動比標準的堂兄弟，他們找到從空中獵物，很快一舉痛下殺手。"
     },
     "monster-azure-rathalos-useful-information": {
       "Key": "monster-azure-rathalos-useful-information",
-      "Translation": "通過觀察它的飛行模式，並找出正確的時刻敲出來的天空計數器的當前空降衝擊。一旦接地，它就失去了進行連續攻擊，讓戰鬥更加容易的能力。"
+      "Translation": "通過觀察它的飛行模式，並找出正確的時刻敲出來的天空計數器的當前空降衝擊。一旦接地，它就失去了進行連續攻擊的能力，使戰鬥更加容易。"
     },
     "monster-banbaro": {
       "Key": "monster-banbaro",
@@ -8629,7 +8629,7 @@ export default {
     },
     "monster-barroth-characteristics": {
       "Key": "monster-barroth-characteristics",
-      "Translation": "Barroth尋找螞蟻，他們最喜歡的零食，並用泥紀念其領土。他們攻擊造成毀滅性衝鋒攻擊潛在對手。"
+      "Translation": "Barroth尋找螞蟻，他們最喜歡的零食，並用泥紀念其領土。他們攻擊的潛在對手帶來毀滅性衝鋒攻擊。"
     },
     "monster-barroth-useful-information": {
       "Key": "monster-barroth-useful-information",
@@ -8641,11 +8641,11 @@ export default {
     },
     "monster-bazelgeuse-characteristics": {
       "Key": "monster-bazelgeuse-characteristics",
-      "Translation": "窮凶極惡的飛翼龍行進新大陸尋找獵物。它撒在廣域掠奪任何東西都在爆炸中陷入爆炸性的尺度。"
+      "Translation": "窮凶極惡的飛翼龍行進新大陸尋找獵物。它撒在廣域捕食任何被在爆炸中陷入爆炸性的尺度。"
     },
     "monster-bazelgeuse-useful-information": {
       "Key": "monster-bazelgeuse-useful-information",
-      "Translation": "該Bazelgeuse散射秤爆炸與巨大的力量，使他們非常致命的。專注於它的腿敲下來，然後淘汰規模產生器官。"
+      "Translation": "天秤是Bazelgeuse散射爆炸與巨大的力量，使他們非常致命的。專注於它的腿敲下來，然後淘汰規模產生器官。"
     },
     "monster-behemoth": {
       "Key": "monster-behemoth",
@@ -8653,11 +8653,11 @@ export default {
     },
     "monster-behemoth-characteristics": {
       "Key": "monster-behemoth-characteristics",
-      "Translation": "來自另一個世界的一個強大的野獸。它的大喇叭和肌肉結實違抗性質。獨特的戰略需要打得不可開交。"
+      "Translation": "來自另一個世界的一個強大的野獸。它的大喇叭和肌肉結實以身試法性質。獨特的戰略需要打得不可開交。"
     },
     "monster-behemoth-useful-information": {
       "Key": "monster-behemoth-useful-information",
-      "Translation": "不能單獨作戰，需要一個治療，攻擊者和煽動者的組合。當黃道流星被召喚，蓋取後面倒下彗星或面對你的命運。"
+      "Translation": "不能單獨作戰，需要一個治療，攻擊者和煽動者的組合。當黃道流星被召喚，取後面倒下彗星蓋或面對你的命運。"
     },
     "monster-beotodus": {
       "Key": "monster-beotodus",
@@ -8697,11 +8697,11 @@ export default {
     },
     "monster-deviljho-characteristics": {
       "Key": "monster-deviljho-characteristics",
-      "Translation": "由於其增強新陳代謝，Deviljho必須不斷尋找獵物。這是非常劇烈的，和已知搶奪大怪物在於其強大的魚肚和周圍連枷他們。"
+      "Translation": "由於其增強新陳代謝，Deviljho必須不斷尋找獵物。這是非常劇烈的，和已知搶奪大怪物在於其強大的魚肚和枷身邊。"
     },
     "monster-deviljho-useful-information": {
       "Key": "monster-deviljho-useful-information",
-      "Translation": "當被激怒，Deviljho腫脹的肌肉煥發了地獄般的紅色。它將開始噴湧掃龍元素攻擊，所以看你的距離。 Deviljho停留在攻擊，即使受傷，但不要放棄;繼續戰鬥，你會拔得頭籌。"
+      "Translation": "當被激怒，Deviljho腫脹的肌肉發出紅光地獄般的。它將開始噴湧掃龍元素攻擊，所以看你的距離。即使受傷，但沒有放棄對攻擊Deviljho停留;繼續戰鬥，你會拔得頭籌。"
     },
     "monster-diablos": {
       "Key": "monster-diablos",
@@ -8709,11 +8709,11 @@ export default {
     },
     "monster-diablos-characteristics": {
       "Key": "monster-diablos-characteristics",
-      "Translation": "在Wildspire廢物的頂點怪物。氣勢洶洶，領土獸潛伏在地下。大聲喧嘩會導致其弓步從沙子裡尋找獵物。"
+      "Translation": "在Wildspire廢物的頂點怪物。氣勢洶洶，領土獸潛伏在地下。大聲喧嘩會導致其在尋找獵物弓步沙出來。"
     },
     "monster-diablos-useful-information": {
       "Key": "monster-diablos-useful-information",
-      "Translation": "Diablo的可以用響亮的聲音被強行帶到地面。而它的衝鋒攻擊，而毀滅性的強大，可以誘餌與一個wildspire碰撞，隨時得到Diablo的卡住。"
+      "Translation": "Diablo的可以用響亮的聲音被強行帶到地面。而其充電攻擊，而毀滅性的強大，可以誘餌與一個wildspire碰撞，隨時得到Diablo的卡住。"
     },
     "monster-dodogama": {
       "Key": "monster-dodogama",
@@ -8721,7 +8721,7 @@ export default {
     },
     "monster-dodogama-characteristics": {
       "Key": "monster-dodogama-characteristics",
-      "Translation": "那吞噬石頭作為主要飲食的怪物。它吞噬晶體與其唾液混合，產生爆炸性的礦物質，它可以在它的敵人吐。"
+      "Translation": "那吞噬石頭作為主要飲食的怪物。它吞噬與其唾液混合晶體產生爆炸性的礦物質，它可以在它的敵人吐。"
     },
     "monster-dodogama-useful-information": {
       "Key": "monster-dodogama-useful-information",
@@ -8745,7 +8745,7 @@ export default {
     },
     "monster-gajau-useful-information": {
       "Key": "monster-gajau-useful-information",
-      "Translation": "惡性魚形成群體免受入侵者保衛自己的領地。一定不要過於緊密斗膽它們的棲息地！"
+      "Translation": "惡性魚這種形式的群體，從入侵者保衛自己的領地。一定不要過於緊密斗膽它們的棲息地！"
     },
     "monster-gastodon": {
       "Key": "monster-gastodon",
@@ -8761,7 +8761,7 @@ export default {
     },
     "monster-girros-useful-information": {
       "Key": "monster-girros-useful-information",
-      "Translation": "已知怪物包攻擊，用爛谷的致命蒸氣對自己有利。他們知道與他們的麻痺癱瘓獠牙目標。"
+      "Translation": "已知怪物包攻擊，用爛谷的致命蒸氣對自己有利。他們知道與他們的獠牙癱瘓削弱目標。"
     },
     "monster-glavenus": {
       "Key": "monster-glavenus",
@@ -8777,7 +8777,7 @@ export default {
     },
     "monster-great-girros-characteristics": {
       "Key": "monster-great-girros-characteristics",
-      "Translation": "是食腐餐點的怪物距離珊瑚高地下降。它作為一個Girros組的阿爾法領袖，體育巨頭的獠牙來麻痺獵物。"
+      "Translation": "一個怪物，對於膳食清除了來自珊瑚高地下降。它作為一個Girros組的阿爾法領袖，體育巨頭的獠牙來麻痺獵物。"
     },
     "monster-great-girros-useful-information": {
       "Key": "monster-great-girros-useful-information",
@@ -8789,7 +8789,7 @@ export default {
     },
     "monster-great-jagras-characteristics": {
       "Key": "monster-great-jagras-characteristics",
-      "Translation": "該Jagras的包領袖。餓的時候，大Jagras已知攻擊怪物更強大的艾德里安自己。它氣球無法置信吞下獵物後。"
+      "Translation": "該Jagras的包領袖。餓的時候，大Jagras已知攻擊的怪物更強大的艾德里安自己。它氣球無法置信吞下獵物後。"
     },
     "monster-great-jagras-useful-information": {
       "Key": "monster-great-jagras-useful-information",
@@ -8817,11 +8817,11 @@ export default {
     },
     "monster-jyuratodus-characteristics": {
       "Key": "monster-jyuratodus-characteristics",
-      "Translation": "大型魚飛龍棲息的Wildspire廢物的沼澤。它採用泥捕捉獵物，並且它被稱為戰鬥Barroth的領土。"
+      "Translation": "大型魚飛龍棲息的Wildspire廢物的沼澤。它採用泥捕捉獵物，它的已知戰Barroth的領土。"
     },
     "monster-jyuratodus-useful-information": {
       "Key": "monster-jyuratodus-useful-information",
-      "Translation": "這幾乎是不可能在它的沼澤家裡打Jyuratodus。強制其土地，然後使用水元素武器或拋擲你慢慢蠶食其硬化泥裝甲。"
+      "Translation": "這幾乎是不可能在它的沼澤家裡打Jyuratodus。它強迫土地，然後利用水元素武器或拋擲你慢慢蠶食其硬化泥裝甲。"
     },
     "monster-kelbi": {
       "Key": "monster-kelbi",
@@ -8849,7 +8849,7 @@ export default {
     },
     "monster-kirin-useful-information": {
       "Key": "monster-kirin-useful-information",
-      "Translation": "一個麒麟斗篷本身帶有閃電已經證實增韌它的皮膚。以狩獵麒麟的關鍵在於它驚人的使用Elderseal武器，保護自己免受並避免其雷電的襲擊。"
+      "Translation": "一個麒麟斗篷本身帶有閃電已經證實增韌它的皮膚。關鍵在蹣跚它，使用Elderseal武器，保護自己免受並避免其雷電襲擊狩獵麒麟謊言。"
     },
     "monster-kulu-ya-ku": {
       "Key": "monster-kulu-ya-ku",
@@ -8857,7 +8857,7 @@ export default {
     },
     "monster-kulu-ya-ku-characteristics": {
       "Key": "monster-kulu-ya-ku-characteristics",
-      "Translation": "已經開發了能夠FO攜帶武器四肢一個奇怪的鳥翼龍。它被發現偷從古代森林和Wildspire廢物發現巢卵。"
+      "Translation": "一個奇怪的鳥翼龍已經開發出能夠FO攜帶武器的四肢。它已經發現盜竊在古林和Wildspire廢物發現巢卵。"
     },
     "monster-kulu-ya-ku-useful-information": {
       "Key": "monster-kulu-ya-ku-useful-information",
@@ -8881,7 +8881,7 @@ export default {
     },
     "monster-kushala-daora-characteristics": {
       "Key": "monster-kushala-daora-characteristics",
-      "Translation": "一位長者龍遮蔽本身猛吹，阻止任何人接近它。它的皮膚是由堅硬的金屬秤。"
+      "Translation": "一位長者龍那盾牌本身猛吹，阻止任何人接近它。它的皮膚是由堅硬的金屬秤。"
     },
     "monster-kushala-daora-useful-information": {
       "Key": "monster-kushala-daora-useful-information",
@@ -8905,11 +8905,11 @@ export default {
     },
     "monster-legiana-characteristics": {
       "Key": "monster-legiana-characteristics",
-      "Translation": "珊瑚高地的頂點怪物，它的飲食主要包括Raphinos的。它能發出刺骨的寒風從它身上，它變鈍獵物的逃生能力。"
+      "Translation": "珊瑚高地，他們的飲食主要包括Raphinos的頂點怪物。它能發出寒風從它身上，它變鈍獵物的逃生能力。"
     },
     "monster-legiana-useful-information": {
       "Key": "monster-legiana-useful-information",
-      "Translation": "覆蓋其整個身體的膜使Legiana以令人難以置信的速度移動。破壞這種膜應該有助於減緩下來。毒攻擊也被稱為是有效的。"
+      "Translation": "覆蓋其整個身體的膜使Legiana用不可思議的速度移動。破壞這種膜應該有助於減緩下來。毒攻擊也被稱為是有效的。"
     },
     "monster-leshen": {
       "Key": "monster-leshen",
@@ -8921,7 +8921,7 @@ export default {
     },
     "monster-leshen-useful-information": {
       "Key": "monster-leshen-useful-information",
-      "Translation": "Revoltures和Jagras由慌了神控制是很難接近，但Igni登錄是擋開了慌了神的綁紮根非常有用的。"
+      "Translation": "Revoltures和Jagras由慌了神控制是很難的辦法，但Igni登錄是擋開了慌了神的綁紮根非常有用的。"
     },
     "monster-lunastra": {
       "Key": "monster-lunastra",
@@ -8929,7 +8929,7 @@ export default {
     },
     "monster-lunastra-characteristics": {
       "Key": "monster-lunastra-characteristics",
-      "Translation": "一個罕見的女性真龍是用亂丟藍色熱塵埃的空氣。它與她的隊友，Teostra旅行報告，仍然是未經證實的。"
+      "Translation": "一個罕見的女性真龍窩那用熱藍色塵埃的空氣。它與她的隊友，Teostra旅行報告，仍然是未經證實的。"
     },
     "monster-lunastra-useful-information": {
       "Key": "monster-lunastra-useful-information",
@@ -8953,7 +8953,7 @@ export default {
     },
     "monster-mosswine-useful-information": {
       "Key": "monster-mosswine-useful-information",
-      "Translation": "Mosswine是眾所周知的出色的嗅覺，也常常發現覓食真菌。如果你正在找周圍的蘑菇，按照Mosswine到motherlode。"
+      "Translation": "Mosswine是眾所周知的出色的嗅覺，並經常被發現覓食真菌。如果你正在找周圍的蘑菇，按照Mosswine到motherlode。"
     },
     "monster-namielle": {
       "Key": "monster-namielle",
@@ -8973,7 +8973,7 @@ export default {
     },
     "monster-nergigante-useful-information": {
       "Key": "monster-nergigante-useful-information",
-      "Translation": "Nergigante可以從傷口幾乎瞬間恢復。再生的身體部位隨時間增長更難，所以攻擊他們，而他們仍然新鮮的是理想的策略。"
+      "Translation": "Nergigante可以從傷口幾乎瞬間恢復。再生的身體部位長出很難隨著時間的推移，這樣攻擊他們，而他們仍然新鮮的是理想的策略。"
     },
     "monster-nightshade-paolumu": {
       "Key": "monster-nightshade-paolumu",
@@ -8985,7 +8985,7 @@ export default {
     },
     "monster-noios-useful-information": {
       "Key": "monster-noios-useful-information",
-      "Translation": "Wingdrakes，將產生類似一震時尖叫莢聲音。用肉來引起他們的注意，然後尋找他們的材料，或將其用作運輸。"
+      "Translation": "Wingdrakes一震時候會產生類似於尖叫莢聲音。用肉來引起他們的注意，然後尋找他們的材料，或將其用作運輸。"
     },
     "monster-odogaron": {
       "Key": "monster-odogaron",
@@ -8997,7 +8997,7 @@ export default {
     },
     "monster-odogaron-useful-information": {
       "Key": "monster-odogaron-useful-information",
-      "Translation": "Odogaron的討厭爪子造成大量出血，並應不惜一切代價避免。用肉把它引誘陷阱，錯開它，或者它強制到憤怒的較量輪胎出來，並使其更容易對付。"
+      "Translation": "Odogaron的討厭爪子造成大量出血，並應不惜一切代價避免。使用肉給它引誘陷阱，錯開它，或者它強制到憤怒的較量輪胎出來，並使其更容易對付。"
     },
     "monster-paolumu": {
       "Key": "monster-paolumu",
@@ -9005,11 +9005,11 @@ export default {
     },
     "monster-paolumu-characteristics": {
       "Key": "monster-paolumu-characteristics",
-      "Translation": "在珊瑚高地發現雞蛋Paolumu節日。他們能夠通過浮動使用獨特的囊在他們的身體空氣，並與他們的堅硬無比的尾巴攻擊。"
+      "Translation": "雞蛋Paolumu節日在珊瑚高地發現。他們能夠用獨特的囊在他們的身體攻擊空中，飄浮用自己堅硬無比的尾巴。"
     },
     "monster-paolumu-useful-information": {
       "Key": "monster-paolumu-useful-information",
-      "Translation": "當它的氣囊放氣Paolumu不能作為自由走動。瞄準其充氣的身體部位，或有目的地抽出使用了儲存的空氣其攻擊，佔上風。"
+      "Translation": "當它的氣囊放氣Paolumu不能走動的自由。目的用於其充氣的身體部位，或有目的地抽出使用了儲存的空氣其攻擊，佔上風。"
     },
     "monster-pink-rathian": {
       "Key": "monster-pink-rathian",
@@ -9017,7 +9017,7 @@ export default {
     },
     "monster-pink-rathian-characteristics": {
       "Key": "monster-pink-rathian-characteristics",
-      "Translation": "一個亞種與活力的粉紅色的鱗片。粉紅Rathians還把這些有毒的尾巴更巧妙地比正常Rathians，痛下殺手移動前減弱毒獵物。"
+      "Translation": "一個亞種與活力的粉紅色的鱗片。粉紅Rathians還把這些有毒的尾巴比普通Rathians更靈巧地，在移動痛下殺手之前削弱了毒藥的獵物。"
     },
     "monster-pink-rathian-useful-information": {
       "Key": "monster-pink-rathian-useful-information",
@@ -9029,11 +9029,11 @@ export default {
     },
     "monster-pukei-pukei-characteristics": {
       "Key": "monster-pukei-pukei-characteristics",
-      "Translation": "知鳥翼龍擁有毒毒素在它的身上。它被發現存儲在它的嘴或尾部scatternuts，毒它們包衣和隨地吐痰出來的威脅。"
+      "Translation": "知鳥翼龍擁有毒毒素在它的身上。它已經在它的嘴或尾部斑點存儲scatternuts，毒藥和隨地吐痰出來的威脅進行塗覆。"
     },
     "monster-pukei-pukei-useful-information": {
       "Key": "monster-pukei-pukei-useful-information",
-      "Translation": "觀測報告指出Pukei-Pukei會欺弱的怪物，但之前更大，更強的怪物畏縮。這是容易發生在有危險的徵兆撤退，所以用它來你的優勢。"
+      "Translation": "觀測報告指出Pukei-Pukei會欺弱的怪物，但畏縮之前更大，更強的怪物。這是容易發生在有危險的徵兆撤退，所以用它來你的優勢。"
     },
     "monster-radobaan": {
       "Key": "monster-radobaan",
@@ -9041,7 +9041,7 @@ export default {
     },
     "monster-radobaan-characteristics": {
       "Key": "monster-radobaan-characteristics",
-      "Translation": "該吃的爛谷發現的動物屍體的骨頭一個巨大的蠻力雙足飛龍，使用它的一些裝甲。它還卷進了一個球的攻擊和運輸的形式。"
+      "Translation": "一個巨大的蠻力翼龍是吃屍體的腐爛的淡水河谷發現的骨頭，使用它的一些裝甲。它還卷進了一個球的攻擊和運輸的形式。"
     },
     "monster-radobaan-useful-information": {
       "Key": "monster-radobaan-useful-information",
@@ -9077,11 +9077,11 @@ export default {
     },
     "monster-rathian-characteristics": {
       "Key": "monster-rathian-characteristics",
-      "Translation": "飛龍被稱為“土地的皇后。”陸地食肉動物，他們壓倒獵物的毒蛇尾巴和有力的腿。"
+      "Translation": "飛龍被稱為“土地的皇后。”陸地食肉動物，它們捕食的過電力與他們的惡毒的尾巴和有力的腿。"
     },
     "monster-rathian-useful-information": {
       "Key": "monster-rathian-useful-information",
-      "Translation": "配有防火裝甲準備，並通過切斷尾巴中性的毒攻擊。偷從巢蛋時，對於Rathian會追著一個雞蛋小偷新世界的兩端要小心。"
+      "Translation": "配有防火裝甲準備，通過切斷尾巴閹割它的毒攻擊。偷從巢蛋時，對於Rathian會追著一個雞蛋小偷新世界的兩端要小心。"
     },
     "monster-ruiner-nergigante": {
       "Key": "monster-ruiner-nergigante",
@@ -9125,11 +9125,11 @@ export default {
     },
     "monster-teostra-characteristics": {
       "Key": "monster-teostra-characteristics",
-      "Translation": "殘酷的哥哥龍繚繞在吐火熊熊烈焰。 Teostra是如此激烈和致命性，該行會密切監控他們的行動。"
+      "Translation": "殘酷的哥哥龍繚繞在吐火熊熊烈焰。 Teostra是如此激烈和致命的性質，該行會密切監察他們的行踪的。"
     },
     "monster-teostra-useful-information": {
       "Key": "monster-teostra-useful-information",
-      "Translation": "直到最後爆炸黑皮灰塵Teostra散射將分佈在廣域。保持對眼睛，以及它偶爾屏蔽本身的火焰，並與目標擁有Elderseal能力的武器錯開了。"
+      "Translation": "黑皮灰塵Teostra散射將分佈在廣域直到它最後爆炸。保持對眼睛，以及它偶爾屏蔽本身的火焰，並與目標擁有Elderseal能力的武器錯開了。"
     },
     "monster-tigrex": {
       "Key": "monster-tigrex",
@@ -9141,7 +9141,7 @@ export default {
     },
     "monster-tobi-kadachi-characteristics": {
       "Key": "monster-tobi-kadachi-characteristics",
-      "Translation": "一個毒牙翼龍古福斯特的樹木中是擁有。它的傾向刷對地面和樹木，因為它繞著它的皮毛內積聚的靜電。"
+      "Translation": "一個古代福斯特的樹木中毒牙翼龍是蒼蠅。它的傾向刷對地面和樹木，因為它繞著它的皮毛內積聚的靜電。"
     },
     "monster-tobi-kadachi-useful-information": {
       "Key": "monster-tobi-kadachi-useful-information",
@@ -9153,7 +9153,7 @@ export default {
     },
     "monster-tzitzi-ya-ku-characteristics": {
       "Key": "monster-tzitzi-ya-ku-characteristics",
-      "Translation": "這種奇怪的怪物百葉窗捕食與敵人的頭部附近一個特殊的脈衝器官。然後，它使用其強大的雙腿提供整理的打擊。"
+      "Translation": "這種奇怪的怪物蒙蔽捕食與敵人的頭部附近一個特殊的脈衝器官。然後，它使用其強大的雙腿提供整理的打擊。"
     },
     "monster-tzitzi-ya-ku-useful-information": {
       "Key": "monster-tzitzi-ya-ku-useful-information",
@@ -9165,7 +9165,7 @@ export default {
     },
     "monster-uragaan-characteristics": {
       "Key": "monster-uragaan-characteristics",
-      "Translation": "大蠻力飛龍上的礦石原料，利用其強大的顎急於堅硬的岩石粉末。他們已經知道面對Lavasioths的領土爭端。"
+      "Translation": "大蠻力飛龍礦石為食，利用其強大的顎急於堅硬的岩石粉末。他們已經知道面對Lavasioths的領土爭端。"
     },
     "monster-uragaan-useful-information": {
       "Key": "monster-uragaan-useful-information",
@@ -9181,7 +9181,7 @@ export default {
     },
     "monster-vaal-hazak-useful-information": {
       "Key": "monster-vaal-hazak-useful-information",
-      "Translation": "一旦你成為污點，吸入的原因你自己的健康排出蒸汽。負責人所在區域的蒸氣是薄的，如果你得到污點，盡你所能地擺脫它。"
+      "Translation": "一旦你成為污染，吸入蒸氣的使你自己的健康流失。負責人所在區域的蒸氣是薄的，如果你得到污點，盡你所能地擺脫它。"
     },
     "monster-velkhana": {
       "Key": "monster-velkhana",
@@ -9193,7 +9193,7 @@ export default {
     },
     "monster-vespoid-useful-information": {
       "Key": "monster-vespoid-useful-information",
-      "Translation": "那麻痺他們的目標與他們的長刺的昆蟲。他們容易折斷，所以如果你想瓜分他們用毒藥或拋擲彈藥攻擊他們。"
+      "Translation": "那麻痺他們的目標與他們的長刺的昆蟲。他們容易折斷，所以用毒藥或拋擲彈藥攻擊他們，如果你想雕刻他們。"
     },
     "monster-viper-tobi-kadachi": {
       "Key": "monster-viper-tobi-kadachi",
@@ -9233,7 +9233,7 @@ export default {
     },
     "play-guide-accepting-guild-cards-description": {
       "Key": "play-guide-accepting-guild-cards-description",
-      "Translation": "你接受cn的公會卡你從開始菜單中選擇公會卡接收。請注意，您只能容納多達二十接受的公會卡。"
+      "Translation": "你CN接受公會卡你從開始菜單中選擇公會卡接收。請注意，您只能容納多達二十接受的公會卡。"
     },
     "play-guide-actions-with-weapon-drawn": {
       "Key": "play-guide-actions-with-weapon-drawn",
@@ -9249,7 +9249,7 @@ export default {
     },
     "play-guide-advanced-performance-techniques-description": {
       "Key": "play-guide-advanced-performance-techniques-description",
-      "Translation": "您可以按R2為了執行你放養的旋律。您也可以按R2 +其他攻擊鍵的同時，開始從第二或第三放養旋律你的表現。"
+      "Translation": "您可以按R2為了執行你放養的旋律。您也可以按R2 +，同時另一個攻擊鍵，開始從第二或第三庫存旋律你的表現。"
     },
     "play-guide-advancing-slash": {
       "Key": "play-guide-advancing-slash",
@@ -9265,7 +9265,7 @@ export default {
     },
     "play-guide-amped-state-description": {
       "Key": "play-guide-amped-state-description",
-      "Translation": "上一個怪物，而在劍模式下的土地足夠攻擊進入陶醉狀態，這會增加你的攻擊力。它需要進入陶醉狀態命中次數取決於開關斧頭小藥瓶的類型。"
+      "Translation": "在怪物土地足夠攻擊，同時在劍模式，進入一個陶醉的狀態，這會增加你的攻擊力。它需要進入陶醉狀態命中次數取決於開關斧頭小藥瓶的類型。"
     },
     "play-guide-archdemon-mode": {
       "Key": "play-guide-archdemon-mode",
@@ -9273,7 +9273,7 @@ export default {
     },
     "play-guide-archdemon-mode-description": {
       "Key": "play-guide-archdemon-mode-description",
-      "Translation": "您可以通過，而在惡魔方式登陸，襲擊和杏伏魔計進入大惡魔模式。只有在這種模式下可用一些特殊攻擊。"
+      "Translation": "您可以通過，而在惡魔模式和杏惡魔儀表著陸攻擊進入大惡魔模式。只有在這種模式下可用一些特殊攻擊。"
     },
     "play-guide-armor-skills": {
       "Key": "play-guide-armor-skills",
@@ -9309,7 +9309,7 @@ export default {
     },
     "play-guide-auto-crafting-description": {
       "Key": "play-guide-auto-crafting-description",
-      "Translation": "因為你必須製作它所需的物品自動各具特色，就會自動從手藝各具特色的列表中的項目。按三角選擇您想啟用自動店內提供的項目。"
+      "Translation": "自動各具特色會自動從您​​的各具特色列表手藝的項目，只要你有項目需要手藝吧。按三角選擇您想啟用自動店內提供的項目。"
     },
     "play-guide-automatic-material-storage": {
       "Key": "play-guide-automatic-material-storage",
@@ -9361,7 +9361,7 @@ export default {
     },
     "play-guide-breaking-monster-parts": {
       "Key": "play-guide-breaking-monster-parts",
-      "Translation": "打破怪物零件"
+      "Translation": "最新怪物零件"
     },
     "play-guide-breaking-monster-parts-description": {
       "Key": "play-guide-breaking-monster-parts-description",
@@ -9381,7 +9381,7 @@ export default {
     },
     "play-guide-brightmoss-description": {
       "Key": "play-guide-brightmoss-description",
-      "Translation": "Brightmoss可以配備為拋油環彈藥和在牆壁或其他物體燒製以照亮該區域。您還可以在飛行雙足飛龍的頭部開槍，使他們跌出空氣。"
+      "Translation": "Brightmoss可以配備為拋油環彈藥和在牆壁或其他物體燒製以照亮該區域。您還可以在飛行雙足飛龍的首長拍著讓他們倒下的空氣了。"
     },
     "play-guide-building-new-camps": {
       "Key": "play-guide-building-new-camps",
@@ -9437,7 +9437,7 @@ export default {
     },
     "play-guide-charge-blade-description": {
       "Key": "play-guide-charge-blade-description",
-      "Translation": "劍模式擁有移動性和高後衛的能力，而斧頭模式擁有更強大的攻擊。積蓄精力，而在劍模式，然後用它來處理斧模式高傷害。"
+      "Translation": "劍模式擁有移動性和高後衛的能力，而斧頭模式號稱擁有強大的攻擊力。積蓄精力，而在劍模式，然後用它來處理斧模式高傷害。"
     },
     "play-guide-charge-blade-tips": {
       "Key": "play-guide-charge-blade-tips",
@@ -9449,7 +9449,7 @@ export default {
     },
     "play-guide-charged-shots-description": {
       "Key": "play-guide-charged-shots-description",
-      "Translation": "弓箭是他們最強大的，當你在拍攝之前充電箭頭。您可以通過按住開火鍵或快速連續地拍攝箭頭射收取射擊。"
+      "Translation": "弓箭是他們最強大的，當你在拍攝之前充電箭頭。您可以通過按住開火鍵或快速連續地拍攝箭頭射帶電射擊。"
     },
     "play-guide-charged-slash": {
       "Key": "play-guide-charged-slash",
@@ -9481,15 +9481,15 @@ export default {
     },
     "play-guide-charybdis-description": {
       "Key": "play-guide-charybdis-description",
-      "Translation": "卡律布狄斯召喚龍捲風，其中有針對性的獵人是站著的，並保持在一段時間內的區域。如果你正在有針對性的，移動到一個區域，它不會是一個障礙，你的狩獵。"
+      "Translation": "卡律布狄斯召喚龍捲風，其中有針對性的獵人是站著的，並在該地區停留一段時間。如果你正在有針對性的，移動到一個區域，它不會是一個障礙，你的狩獵。"
     },
     "play-guide-chat": {
       "Key": "play-guide-chat",
-      "Translation": "聊"
+      "Translation": "聊天室"
     },
     "play-guide-chat-description": {
       "Key": "play-guide-chat-description",
-      "Translation": "按住使用聊天功能觸控板。"
+      "Translation": "按住觸控板使用聊天功能。"
     },
     "play-guide-collecting-safari-rewards": {
       "Key": "play-guide-collecting-safari-rewards",
@@ -9497,7 +9497,7 @@ export default {
     },
     "play-guide-collecting-safari-rewards-description": {
       "Key": "play-guide-collecting-safari-rewards-description",
-      "Translation": "Tailraider旅行需要時間來完成，因此你必須採取questes或探險，而他們正在進行中。您也可以收集獎勵而Safari是仍在進行，或者取消正在進行的Safari瀏覽器。"
+      "Translation": "Tailraider旅行時間才能完成，因此，雖然他們正在進行，你必須要在questes或探險拍攝。您還可以收集獎勵而Safari瀏覽器目前仍在進行中，或取消正在進行的Safari瀏覽器。"
     },
     "play-guide-critical-range": {
       "Key": "play-guide-critical-range",
@@ -9505,15 +9505,15 @@ export default {
     },
     "play-guide-critical-range-description": {
       "Key": "play-guide-critical-range-description",
-      "Translation": "遠程武器攻擊有一個臨界範圍，這是它的攻擊造成的最嚴重的損害的距離。它以不同的彈藥和箭頭類型進行實驗，以確定為了對付太大的傷害盡可能他們的重要範圍是很重要的。"
+      "Translation": "遠程武器攻擊有一個臨界範圍，這是它的攻擊造成的最嚴重的損害的距離。重要的是要嘗試不同的彈藥和箭頭類型來確定，以處理太大的傷害盡可能他們的重要範圍是很重要的。"
     },
     "play-guide-crouching-and-camouflage": {
       "Key": "play-guide-crouching-and-camouflage",
-      "Translation": "臥虎藏龍偽裝"
+      "Translation": "蹲下和偽裝"
     },
     "play-guide-crouching-and-camouflage-description": {
       "Key": "play-guide-crouching-and-camouflage-description",
-      "Translation": "按下按鈕，道奇在靜止時蹲伏。蹲在刷授予您偽裝，所以你可以從怪物身上隱藏。"
+      "Translation": "按閃避按鈕，同時站在原地蹲下。在刷臥虎藏龍授予您的偽裝，所以你可以從怪物身上隱藏。"
     },
     "play-guide-cultivating-items": {
       "Key": "play-guide-cultivating-items",
@@ -9521,7 +9521,7 @@ export default {
     },
     "play-guide-cultivating-items-description": {
       "Key": "play-guide-cultivating-items-description",
-      "Translation": "在植物學研究中心，你可以交出物品，如植物，真菌，蟲子，蜂蜜等，以培養更多的同類項目的。每個項目都需要在規定的時間量來培養它可以收穫了。"
+      "Translation": "在植物學研究中心，你可以交出物品，如植物，真菌，蟲子，蜂蜜等，以培養更多的同類項目的。每個項目需要在指定的時間量，以培養它可以收穫了。"
     },
     "play-guide-customizing-your-bowgun": {
       "Key": "play-guide-customizing-your-bowgun",
@@ -9529,7 +9529,7 @@ export default {
     },
     "play-guide-customizing-your-bowgun-description": {
       "Key": "play-guide-customizing-your-bowgun-description",
-      "Translation": "Bowguns可以使用自定義MODS的啟用自動攔截，縮短裝彈時間，等等。你甚至可以裝備同國防部多次以改善其效果。"
+      "Translation": "Bowguns可以使用自定義MODS的啟用自動阻斷，縮短裝彈時間，等等。你甚至可以裝備同國防部多次以改善其效果。"
     },
     "play-guide-damage-reduction": {
       "Key": "play-guide-damage-reduction",
@@ -9553,7 +9553,7 @@ export default {
     },
     "play-guide-dash-stepping-and-guard-dashing-description": {
       "Key": "play-guide-dash-stepping-and-guard-dashing-description",
-      "Translation": "通過短跑步驟，保護橫線結合，你應該能夠足夠接近堅持一個怪物，以保持你的進攻。"
+      "Translation": "通過短跑步驟，保護橫線結合，你應該能夠堅持足夠接近怪物，以保持你的進攻。"
     },
     "play-guide-demon-dodge": {
       "Key": "play-guide-demon-dodge",
@@ -9637,7 +9637,7 @@ export default {
     },
     "play-guide-elder-dragons-description": {
       "Key": "play-guide-elder-dragons-description",
-      "Translation": "埃爾德龍是遠離生活的已知的樹中刪除的怪物。長老龍的外觀很是足以引起的自然現象和災害。許多人們未知他們。"
+      "Translation": "埃爾德龍是遠離生活的已知的樹中刪除的怪物。長老龍的外觀很是足以引起的自然現象和災害。還有許多未知他們。"
     },
     "play-guide-elemental-resistances": {
       "Key": "play-guide-elemental-resistances",
@@ -9653,7 +9653,7 @@ export default {
     },
     "play-guide-elemental-swords-description": {
       "Key": "play-guide-elemental-swords-description",
-      "Translation": "劍盾和快速的攻擊速度完全可以彌補其相對較低的攻擊力，特別是如果你使用具有元素攻擊目標THA你的敵人的弱點劍結合起來。"
+      "Translation": "劍盾和快速的攻擊速度完全可以彌補其相對較低的攻擊力，特別是如果你使用具有元素攻擊塔瞄準你的敵人的弱點劍結合起來。"
     },
     "play-guide-elements": {
       "Key": "play-guide-elements",
@@ -9661,7 +9661,7 @@ export default {
     },
     "play-guide-elements-description": {
       "Key": "play-guide-elements-description",
-      "Translation": "有五個元素：火，雷，水，冰龍。充分利用怪物的元素的弱點來對付額外傷害到它。"
+      "Translation": "有五個元素：火，雷，水，冰龍。充分利用怪物的元素的弱點來對付它的額外傷害。"
     },
     "play-guide-endemic-life-researcher": {
       "Key": "play-guide-endemic-life-researcher",
@@ -9669,7 +9669,7 @@ export default {
     },
     "play-guide-endemic-life-researcher-description": {
       "Key": "play-guide-endemic-life-researcher-description",
-      "Translation": "有激情的研究員對地方性動物和昆蟲工作現場進行指導。沒有人的技術捕捉新的世界流行的動物有較深的造詣。"
+      "Translation": "一個充滿激情的研究員對地方性動物和昆蟲工作現場進行指導。沒有人的技術捕捉新的世界流行的動物有較深的造詣。"
     },
     "play-guide-endemic-life-tips": {
       "Key": "play-guide-endemic-life-tips",
@@ -9709,7 +9709,7 @@ export default {
     },
     "play-guide-fertilizers-description": {
       "Key": "play-guide-fertilizers-description",
-      "Translation": "你可以花的研究點，植物園研究中心使用化肥。肥料增加從每次收穫得到的物品的量，或者可以用於縮短培養時間。"
+      "Translation": "您可以在植物學研究中心花費的研究指出，使用化肥。肥料增加從每次收穫得到的物品的量，或者可以用於縮短培養時間。"
     },
     "play-guide-flashbugs": {
       "Key": "play-guide-flashbugs",
@@ -9725,7 +9725,7 @@ export default {
     },
     "play-guide-flashflies-description": {
       "Key": "play-guide-flashflies-description",
-      "Translation": "當來襲，flashflies發光，可以擊暈mosnters的閃光。當更多Flashflies被擊中一次閃光更強。"
+      "Translation": "當來襲，flashflies發光，可以擊暈mosnters的閃光。當更多Flashflies在一次襲擊閃光燈更強。"
     },
     "play-guide-foresight-slash": {
       "Key": "play-guide-foresight-slash",
@@ -9753,7 +9753,7 @@ export default {
     },
     "play-guide-gathering-points-description": {
       "Key": "play-guide-gathering-points-description",
-      "Translation": "您可以通過收集點收集他們如採礦露頭和bonepiles通過雕刻怪物屍體獲得的材料，和也。"
+      "Translation": "您可以通過收集點，如開採露頭和bonepiles收集他們通過雕刻怪物屍體獲得的材料，和也。"
     },
     "play-guide-getting-the-behemoths-attention": {
       "Key": "play-guide-getting-the-behemoths-attention",
@@ -9761,7 +9761,7 @@ export default {
     },
     "play-guide-getting-the-behemoths-attention-description": {
       "Key": "play-guide-getting-the-behemoths-attention-description",
-      "Translation": "設計用於攔截攻擊應該在巨獸的頭以獲取其關注的武器獵人。當巨獸繼續橫衝直撞，他的頭是難攻，使用具有麻痺性武器或安裝野獸創建一個開口。"
+      "Translation": "設計用於攔截武器的獵人應該攻擊巨獸的頭以獲取其注意力。當巨獸繼續橫衝直撞，他的頭是難攻，使用具有麻痺性武器或安裝野獸創建一個開口。"
     },
     "play-guide-great-fish": {
       "Key": "play-guide-great-fish",
@@ -9769,7 +9769,7 @@ export default {
     },
     "play-guide-great-fish-description": {
       "Key": "play-guide-great-fish-description",
-      "Translation": "魚的許多物種具有“偉大”的標本是非常大的。這些為項目使用，並導致更多的研究分的時候擁有更強大的效果。"
+      "Translation": "魚的許多物種具有“偉大”的標本是非常大的。這些在更多的研究點項目，結果使用時擁有更強大的效果。"
     },
     "play-guide-great-sword": {
       "Key": "play-guide-great-sword",
@@ -9777,7 +9777,7 @@ export default {
     },
     "play-guide-great-sword-description": {
       "Key": "play-guide-great-sword-description",
-      "Translation": "偉大的劍有著悠久的範圍和強大的攻擊力。由於其淨重限制你的移動和攻擊速度，它很適合打了就跑的戰術打擊。"
+      "Translation": "偉大的劍有著悠久的範圍和強大的攻擊力。由於其淨重限制你的移動和攻擊速度，它很適合打了就跑的作戰戰術。"
     },
     "play-guide-great-sword-tips": {
       "Key": "play-guide-great-sword-tips",
@@ -9805,7 +9805,7 @@ export default {
     },
     "play-guide-gunlance-description": {
       "Key": "play-guide-gunlance-description",
-      "Translation": "該gunlance提供了更多的攻擊力槍由於增加的炮轟攻擊比，而且還具有良好的防護能力。這可能需要時間去掌握。"
+      "Translation": "該gunlance提供了更多的攻擊力槍由於增加的炮轟攻擊比，而且還具有良好的防護能力。這可能需要時間來掌握。"
     },
     "play-guide-gunlance-tips": {
       "Key": "play-guide-gunlance-tips",
@@ -9821,7 +9821,7 @@ export default {
     },
     "play-guide-hammer-description": {
       "Key": "play-guide-hammer-description",
-      "Translation": "錘是一個功能強大的鈍器與流動性的數量驚人。它也可以通過提供一個錘子攻擊到頭部擊暈怪物。"
+      "Translation": "錘是一個功能強大的鈍器與流動性的數量驚人。它也可以擊暈怪物通過提供錘子襲擊頭部。"
     },
     "play-guide-hammer-tips": {
       "Key": "play-guide-hammer-tips",
@@ -9833,7 +9833,7 @@ export default {
     },
     "play-guide-health-drinks-description": {
       "Key": "play-guide-health-drinks-description",
-      "Translation": "為了增加你的生命值上限，喝營養素或最大藥水​​，可以通過制定獲得。"
+      "Translation": "為了增加你的生命值上限，飲料的營養或最大藥水​​，可以通過制定獲得。"
     },
     "play-guide-heavenly-blade-dance": {
       "Key": "play-guide-heavenly-blade-dance",
@@ -9881,7 +9881,7 @@ export default {
     },
     "play-guide-info-gathering-in-astera-description": {
       "Key": "play-guide-info-gathering-in-astera-description",
-      "Translation": "紫苑充滿了委員會的有識之士，從獵人和處理程序，研究人員和工程師。與盡可能多的人能夠說話，了解你的冒險有價值的信息。"
+      "Translation": "紫苑充滿了委員會的有識之士，從獵人和處理程序，研究人員和工程師。講與盡可能多的人能夠了解您的冒險有價值的信息。"
     },
     "play-guide-insect-glaive": {
       "Key": "play-guide-insect-glaive",
@@ -9889,7 +9889,7 @@ export default {
     },
     "play-guide-insect-glaive-description": {
       "Key": "play-guide-insect-glaive-description",
-      "Translation": "昆蟲飛刀可以用來控制Kinsect，小的昆蟲收成提取物的怪物，以提高自己的能力。昆蟲飛刀也可以讓你保管庫，以便鬱可進行隨時跳躍攻擊。"
+      "Translation": "昆蟲飛刀可以用來控制Kinsect，小蟲子從怪物收穫提取物，以提高自己的能力。昆蟲飛刀也可以讓你保管庫，以便鬱可進行隨時跳躍攻擊。"
     },
     "play-guide-insect-glaive-tips": {
       "Key": "play-guide-insect-glaive-tips",
@@ -9917,7 +9917,7 @@ export default {
     },
     "play-guide-iron-helmcrabs-description": {
       "Key": "play-guide-iron-helmcrabs-description",
-      "Translation": "這些生物喜歡隨身攜帶像石頭一樣堅硬的物體，並經常被發現持有穿孔吊艙。"
+      "Translation": "這些生物喜歡隨身攜帶像石頭一樣堅硬的物體，並常常發現持有刺穿吊艙。"
     },
     "play-guide-items-and-weapons": {
       "Key": "play-guide-items-and-weapons",
@@ -9925,7 +9925,7 @@ export default {
     },
     "play-guide-items-and-weapons-description": {
       "Key": "play-guide-items-and-weapons-description",
-      "Translation": "即使對於有經驗的獵人，殺害一個巨獸是不容易的任務。頭回營地去購買物品，彈藥，甚至改變你的武器，如果你需要改變策略。"
+      "Translation": "即使對於有經驗的獵人，殺害一個巨獸是不容易的任務。頭回營去購買物品，彈藥，甚至改變你的武器，如果你需要改變策略。"
     },
     "play-guide-kinsect-stamina": {
       "Key": "play-guide-kinsect-stamina",
@@ -9949,7 +9949,7 @@ export default {
     },
     "play-guide-kulve-taroth-siege-strategies-description": {
       "Key": "play-guide-kulve-taroth-siege-strategies-description",
-      "Translation": "您可以通過簡單地收集由Kulve Taroth離開軌道提高追求水平無論研究水平。提高追求水平處於轉彎這個怪物是至關重要的。\\ n在天球追求\\ n所有的獵人將獲得同樣的好處時，追求或報酬水平提高。團隊與其他獵人追捕Kulve Taroth。\\ n \\ n您可以從開始菜單中選擇特殊任務檢查Kulve Taroth細節。"
+      "Translation": "您可以通過簡單地收集由Kulve Taroth離開軌道提高追求水平無論研究水平。提高追求水平處於轉彎這個怪物是至關重要的。\\ n在天球追求\\ n所有的獵人將獲得同樣的好處時，追求或報酬水平提高。組隊與其他獵人追捕Kulve Taroth。\\ n \\ n您可以從開始菜單中選擇特殊任務檢查Kulve Taroth細節。"
     },
     "play-guide-kulve-taroths-weaknesses": {
       "Key": "play-guide-kulve-taroths-weaknesses",
@@ -9977,7 +9977,7 @@ export default {
     },
     "play-guide-leaping-wide-slash-description": {
       "Key": "play-guide-leaping-wide-slash-description",
-      "Translation": "由於這種攻擊造成更多的元素和狀態inflicing比他人損害的，與強大的元素大劍配對是最有用的。"
+      "Translation": "因為這種攻擊更加交易元素和狀態inflicing比他人損害的，它是最有用的時候具有很強的元素大劍配對。"
     },
     "play-guide-light-bowgun-tip": {
       "Key": "play-guide-light-bowgun-tip",
@@ -9989,7 +9989,7 @@ export default {
     },
     "play-guide-limited-bounties-description": {
       "Key": "play-guide-limited-bounties-description",
-      "Translation": "有限賞金是一個特殊的賞金定期提供下載世界各地，但只有一段有限的時間。一定要完成有限的賞金是，但他們仍然可用，每一個是由一個跟隨它更換。"
+      "Translation": "有限的慷慨定期提供下載全世界一個特別獎金，但只有一段有限的時間。請務必完整有限賞金是，但他們仍然可用，每一個是由一個跟隨它更換。"
     },
     "play-guide-long-sword": {
       "Key": "play-guide-long-sword",
@@ -9997,7 +9997,7 @@ export default {
     },
     "play-guide-long-sword-description": {
       "Key": "play-guide-long-sword-description",
-      "Translation": "長的劍能夠快速，流暢的運動和連擊的，但它不能被用來守衛。"
+      "Translation": "長的劍能夠快速，流暢的運動和連擊的，但它不能被用來看守。"
     },
     "play-guide-long-sword-tips": {
       "Key": "play-guide-long-sword-tips",
@@ -10017,7 +10017,7 @@ export default {
     },
     "play-guide-lynian-researcher-description": {
       "Key": "play-guide-lynian-researcher-description",
-      "Translation": "乾癟專家Lynian研究領域。雖然致力於研究到Grimalkynes，他是通過他的研究的迅速，狡猾的目標不甘示弱。現在，他正在尋求一個有用的獵人幫助他在他的研究。"
+      "Translation": "一個在Lynian研究領域的專家乾癟。雖然致力於研究Grimalkynes，他是不甘落後的迅速，他的研究的狡猾的目標。現在，他正在尋求一個有用的獵人幫助他在他的研究。"
     },
     "play-guide-max-potions": {
       "Key": "play-guide-max-potions",
@@ -10033,7 +10033,7 @@ export default {
     },
     "play-guide-meal-effect-duration-description": {
       "Key": "play-guide-meal-effect-duration-description",
-      "Translation": "膳食影響將逐漸消失，如果你的追求或探險中暈倒。他們也將穿脫，一旦你完成，或者失敗，或者從一個任務或遠征退出。吃了一頓後，您將無法在短期內再次吃。"
+      "Translation": "膳食影響將逐漸消失，如果你的追求或探險中暈倒。一旦你完成，失敗，或從一個任務或退出遠征，他們也將逐漸消失。吃了一頓後，您將無法在短期內再次吃。"
     },
     "play-guide-meal-vouchers": {
       "Key": "play-guide-meal-vouchers",
@@ -10085,7 +10085,7 @@ export default {
     },
     "play-guide-monster-research-description": {
       "Key": "play-guide-monster-research-description",
-      "Translation": "通過收集怪物的痕跡，並增加你的研究水平，您將了解的怪物，比如他們的弱點更詳細的生態信息。你scoutflies也將能夠更好地檢測，你已深入研究的怪物。"
+      "Translation": "通過收集怪物的踪跡，並增加你的研究水平，您將了解的怪物，比如他們的弱點更詳細的生態信息。你scoutflies也將能夠更好地檢測，你已深入研究的怪物。"
     },
     "play-guide-mounting-controls": {
       "Key": "play-guide-mounting-controls",
@@ -10093,7 +10093,7 @@ export default {
     },
     "play-guide-mounting-controls-description": {
       "Key": "play-guide-mounting-controls-description",
-      "Translation": "一旦你安裝一個怪物，按下R2當怪物捶打要挺住，或L，以避免某些攻擊。請注意：如果你的體力耗盡，你會自動脫落。"
+      "Translation": "一旦你安裝一個怪物，按R2時對怪物捶打要挺住，或L，以避免某些攻擊。請注意：如果你的體力耗盡，你會自動脫落。"
     },
     "play-guide-mounting-monsters": {
       "Key": "play-guide-mounting-monsters",
@@ -10101,7 +10101,7 @@ export default {
     },
     "play-guide-mounting-monsters-description": {
       "Key": "play-guide-mounting-monsters-description",
-      "Translation": "您可以通過在空中攻擊在兩者安裝怪物。一旦安裝，如果你避免被揭去的怪物，而你繼續傷害它，你可以敲下來。"
+      "Translation": "您可以通過在空中攻擊在兩者安裝怪物。一旦安裝，如果您避免揭去的怪物，而你繼續傷害它，你可以敲下來。"
     },
     "play-guide-multiplayer": {
       "Key": "play-guide-multiplayer",
@@ -10109,7 +10109,7 @@ export default {
     },
     "play-guide-multiplayer-description": {
       "Key": "play-guide-multiplayer-description",
-      "Translation": "最多四名玩家可以參加任務。如果您無法單獨狩獵，採取一些朋友跟你一起！"
+      "Translation": "最多四名玩家可以參加任務。如果你正獨自麻煩狩獵，採取一些朋友跟你一起！"
     },
     "play-guide-nitrotoads": {
       "Key": "play-guide-nitrotoads",
@@ -10117,11 +10117,11 @@ export default {
     },
     "play-guide-nitrotoads-description": {
       "Key": "play-guide-nitrotoads-description",
-      "Translation": "Whens卡車，nitrotoads釋放有足夠的力量爆炸東倒西歪，甚至是大怪物揮發性液體的噴霧。"
+      "Translation": "Whens卡車，nitrotoads釋放揮發性的液體，有足夠的力量爆炸東倒西歪，甚至大怪物的噴霧。"
     },
     "play-guide-objective-of-the-taroth-siege": {
       "Key": "play-guide-objective-of-the-taroth-siege",
-      "Translation": "在Tar​​oth圍攻的目標"
+      "Translation": "客觀的Taroth圍城"
     },
     "play-guide-objective-of-the-taroth-siege-description": {
       "Key": "play-guide-objective-of-the-taroth-siege-description",
@@ -10141,7 +10141,7 @@ export default {
     },
     "play-guide-omenflies-description": {
       "Key": "play-guide-omenflies-description",
-      "Translation": "Omenflies是在大型怪物的存在變成紅色昆蟲。尋找他們，並注意它們的顏色，可以迅速為你感到周圍的區域。"
+      "Translation": "Omenflies是夜光大怪物的存在紅蟲。尋找他們，並注意它們的顏色，可以迅速為你感到周圍的區域。"
     },
     "play-guide-oven-roasting": {
       "Key": "play-guide-oven-roasting",
@@ -10149,7 +10149,7 @@ export default {
     },
     "play-guide-oven-roasting-description": {
       "Key": "play-guide-oven-roasting-description",
-      "Translation": "您可以請求的處理程序在食堂烤箱烤你的各種物品。這需要一些時間，項目完成焙燒，但一旦他們做，你可以從食堂或直接從處理器要求他們。"
+      "Translation": "您可以通過請求處理器可以在食堂烤箱烤各種物品給你。這需要一些時間的項目完成焙燒，但一旦他們做，你可以從食堂或直接從處理器要求他們。"
     },
     "play-guide-palico-equipment": {
       "Key": "play-guide-palico-equipment",
@@ -10185,7 +10185,7 @@ export default {
     },
     "play-guide-paratoads-description": {
       "Key": "play-guide-paratoads-description",
-      "Translation": "當來襲，paratoads釋放氣體強大到足以癱瘓甚至大怪物的噴霧。"
+      "Translation": "當來襲，paratoads釋放氣體夠強的噴霧癱瘓甚至大怪物。"
     },
     "play-guide-performance-effect-radius": {
       "Key": "play-guide-performance-effect-radius",
@@ -10193,7 +10193,7 @@ export default {
     },
     "play-guide-performance-effect-radius-description": {
       "Key": "play-guide-performance-effect-radius-description",
-      "Translation": "如果你可以告訴一個黨員就是內的性能影響範圍通過看他們的名字旁邊的圖標。"
+      "Translation": "如果你可以告訴一個黨員就是內的性能影響範圍通過查看圖標的名稱旁。"
     },
     "play-guide-phial-effects": {
       "Key": "play-guide-phial-effects",
@@ -10225,7 +10225,7 @@ export default {
     },
     "play-guide-poisoncups-description": {
       "Key": "play-guide-poisoncups-description",
-      "Translation": "敲擊時Poisoncups釋放有毒液體的淋浴。注意你的步驟，因為毒藥仍然在地面上的時間很短池。"
+      "Translation": "敲擊時Poisoncups釋放有毒液體的淋浴。注意你的步驟，因為毒物殘留在地面上匯集的時間很短。"
     },
     "play-guide-power-charge": {
       "Key": "play-guide-power-charge",
@@ -10257,7 +10257,7 @@ export default {
     },
     "play-guide-puddle-pod-description": {
       "Key": "play-guide-puddle-pod-description",
-      "Translation": "Watermoss可以撿起來，並作為所謂的水坑豆莢拋擲彈藥。嘗試使用它來觸發遙遠的當日和桶炸彈，或清洗脫泥的目標的。"
+      "Translation": "Watermoss可以撿起來，並作為所謂的水坑豆莢拋擲彈藥。嘗試使用它來觸發遙遠的當日和桶炸彈，或乾淨的脫泥的目標的。"
     },
     "play-guide-rare-endemic-life": {
       "Key": "play-guide-rare-endemic-life",
@@ -10313,7 +10313,7 @@ export default {
     },
     "play-guide-scoutflies-description": {
       "Key": "play-guide-scoutflies-description",
-      "Translation": "Scoutflies自動怪物的痕跡和許多其他物質對環境作出反應。如果你覺得在一個新的地方丟了，按照你的scoutflies當你長大習慣了你的周圍發現的興趣點。研究委員會\\ n \\ n標準齒輪獵人。這些小蟲子放出綠光，並存儲在一個小籠子。他們可以拿起特殊氣味和物質，就派上用場了，當研究委員會繼續探險，或者是跟踪一個怪物。"
+      "Translation": "Scoutflies自動怪物的痕跡和許多其他物質對環境作出反應。如果你覺得在一個新的地方丟了，按照你的scoutflies當你長大習慣了你的周圍發現的興趣點。\\ n研究委員會\\ n標準齒輪獵人。這些小蟲子放出綠光，並存儲在一個小籠子。他們可以拿起特殊氣味和物質，就派上用場了，當研究委員會繼續探險，或者是跟踪一個怪物。"
     },
     "play-guide-setting-decorations": {
       "Key": "play-guide-setting-decorations",
@@ -10329,7 +10329,7 @@ export default {
     },
     "play-guide-sharpness-description": {
       "Key": "play-guide-sharpness-description",
-      "Translation": "近距離武器每次攻擊逐漸失去清晰度。作為武器的清晰度水平下降，它的攻擊更容易偏轉，但您可以用磨刀石恢復它的清晰度。"
+      "Translation": "近距離武器逐漸失去銳度每次攻擊。作為武器的清晰度水平下降，它的攻擊更容易偏轉，但您可以用磨刀石恢復它的清晰度。"
     },
     "play-guide-shelling": {
       "Key": "play-guide-shelling",
@@ -10349,7 +10349,7 @@ export default {
     },
     "play-guide-sleeptoads-description": {
       "Key": "play-guide-sleeptoads-description",
-      "Translation": "當來襲，sleeptoads釋放氣體足夠強大到讓大怪物睡覺的噴霧。"
+      "Translation": "當來襲，sleeptoads釋放氣體夠強的噴放，甚至大怪物睡眠。"
     },
     "play-guide-slinger": {
       "Key": "play-guide-slinger",
@@ -10381,7 +10381,7 @@ export default {
     },
     "play-guide-slinger-thorn-description": {
       "Key": "play-guide-slinger-thorn-description",
-      "Translation": "當與攻擊命中斯林格索恩彈藥（索恩豆莢）堅持目標和爆炸。"
+      "Translation": "當與攻擊命中斯林格索恩彈藥（索恩豆莢）粘到目標並且爆炸。"
     },
     "play-guide-slinger-tips": {
       "Key": "play-guide-slinger-tips",
@@ -10393,7 +10393,7 @@ export default {
     },
     "play-guide-slinger-torches-description": {
       "Key": "play-guide-slinger-torches-description",
-      "Translation": "斯林格火炬彈藥（火炬豆莢）闖進火焰，當它的土地，排斥某些怪物，並有可能吸引被拉到火怪獸。"
+      "Translation": "斯林格火炬彈藥（火炬豆莢）爆發成火焰，當它的土地，排斥某些怪物，並有可能吸引被吸引到火怪獸。"
     },
     "play-guide-slot-level": {
       "Key": "play-guide-slot-level",
@@ -10413,7 +10413,7 @@ export default {
     },
     "play-guide-specialized-tools": {
       "Key": "play-guide-specialized-tools",
-      "Translation": "專用工具"
+      "Translation": "專業工具"
     },
     "play-guide-specialized-tools-description": {
       "Key": "play-guide-specialized-tools-description",
@@ -10433,7 +10433,7 @@ export default {
     },
     "play-guide-spirit-thrust-description": {
       "Key": "play-guide-spirit-thrust-description",
-      "Translation": "高功率的進攻，消耗靈規執行的一個水平。當精神量表是紅色的它涉及最嚴重的損害。"
+      "Translation": "一個高功率的攻擊，靈計的消耗一個級別上執行。它涉及當精神量表是紅色的最嚴重的損害。"
     },
     "play-guide-sporepuffs": {
       "Key": "play-guide-sporepuffs",
@@ -10457,7 +10457,7 @@ export default {
     },
     "play-guide-stamina-description": {
       "Key": "play-guide-stamina-description",
-      "Translation": "請速，逃避，和執行某些動作會消耗你的體力。你最大的耐力也將隨時間逐漸減少，但它可以通過吃全熟的牛排或口糧維持。"
+      "Translation": "請速，逃避，和執行某些動作會消耗你的體力。你最大的耐力也將逐漸減少隨著時間的推移，但它可以通過吃全熟的牛排或口糧維持。"
     },
     "play-guide-stones": {
       "Key": "play-guide-stones",
@@ -10497,7 +10497,7 @@ export default {
     },
     "play-guide-switch-axe-description": {
       "Key": "play-guide-switch-axe-description",
-      "Translation": "斧頭和劍模式之間的切換斧頭搖身一變。斧模式擁有權力和長距離，而劍模式擁有更快的攻擊和爆發力的選手。"
+      "Translation": "斧頭和劍模式之間的切換斧頭變種。斧模式吹噓功率和長距離，而劍模式擁有更快的攻擊和爆發力的選手。"
     },
     "play-guide-switch-axe-tips": {
       "Key": "play-guide-switch-axe-tips",
@@ -10509,7 +10509,7 @@ export default {
     },
     "play-guide-switch-gauge-description": {
       "Key": "play-guide-switch-gauge-description",
-      "Translation": "在劍模式Atacking消耗開關儀表。從劍模式到斧模式切換重新填充量規的量小。該指數也將自動隨著時間的推移補充。"
+      "Translation": "在劍模式Atacking消耗開關儀表。從劍模式到斧模式切換重新填充量規的量小。該指數也將自動筆芯隨著時間的推移。"
     },
     "play-guide-sword-and-shield": {
       "Key": "play-guide-sword-and-shield",
@@ -10517,7 +10517,7 @@ export default {
     },
     "play-guide-sword-and-shield-description": {
       "Key": "play-guide-sword-and-shield-description",
-      "Translation": "重量輕，使用方便，劍盾和還擁有出色的攻擊速度。屏蔽可用於保護，雖然它可能不容納某些攻擊。"
+      "Translation": "重量輕，易於使用，劍盾和還擁有出色的攻擊速度。屏蔽可以用來守衛，雖然它可能不容納某些攻擊。"
     },
     "play-guide-sword-and-shield-tips": {
       "Key": "play-guide-sword-and-shield-tips",
@@ -10529,7 +10529,7 @@ export default {
     },
     "play-guide-sword-condensed-element-slash-description": {
       "Key": "play-guide-sword-condensed-element-slash-description",
-      "Translation": "通過鏈接一充為冷凝元大幅削減，而元素升壓是積極的，你的劍攻擊模式也將暫時從藥瓶效應中受益。"
+      "Translation": "通過鏈接一充為冷凝元斜杠，而元素升壓是積極的，你的劍攻擊模式也將暫時從藥瓶效應中受益。"
     },
     "play-guide-sword-mode-attacks": {
       "Key": "play-guide-sword-mode-attacks",
@@ -10545,7 +10545,7 @@ export default {
     },
     "play-guide-tackle-description": {
       "Key": "play-guide-tackle-description",
-      "Translation": "有彈性的攻擊，防止任何擊退。時間是根據怪物的攻擊，你可以繼續你的連擊不間斷。"
+      "Translation": "有彈性的攻擊，防止任何擊退。時間是根據怪物的攻擊，你可以繼續你的連擊中斷。"
     },
     "play-guide-tailraider-safari-members": {
       "Key": "play-guide-tailraider-safari-members",
@@ -10553,7 +10553,7 @@ export default {
     },
     "play-guide-tailraider-safari-members-description": {
       "Key": "play-guide-tailraider-safari-members-description",
-      "Translation": "每個Tailraider Safari瀏覽器的成員可以從獵人的你已經與交換公會卡的Palicoes選擇。在該Palicoes'水平高，你可以期望在他們的回報獎勵越好。"
+      "Translation": "每個Tailraider Safari瀏覽器的成員可以從獵人的你已經與交換公會卡的Palicoes選擇。在Palicoes“水平更高，更好的回報，你可以期望在他們的回歸。"
     },
     "play-guide-tailraider-safaris": {
       "Key": "play-guide-tailraider-safaris",
@@ -10569,11 +10569,11 @@ export default {
     },
     "play-guide-tempered-monsters": {
       "Key": "play-guide-tempered-monsters",
-      "Translation": "煉成怪獸"
+      "Translation": "強化怪獸"
     },
     "play-guide-tempered-monsters-description": {
       "Key": "play-guide-tempered-monsters-description",
-      "Translation": "您可能會發現特別激烈的怪物的痕跡 - 被稱為回火怪獸 - 而在高級別探險。如果您收集這些痕跡的話，你可能會收到新的調查任務。"
+      "Translation": "您可能會發現特別激烈的怪物的痕跡 - 被稱為回火怪獸 - 而在高級別探險。如果你收集到足夠的這些痕跡的，您可能會收到新的調查任務。"
     },
     "play-guide-the-argosy": {
       "Key": "play-guide-the-argosy",
@@ -10585,7 +10585,7 @@ export default {
     },
     "play-guide-the-argosy-is-in-port-description": {
       "Key": "play-guide-the-argosy-is-in-port-description",
-      "Translation": "該Argost目前在紫苑端口。您可以獲取從阿戈隊長眾多的物品和材料，你不能得到其他地方，他的股票每次改變他所說的進港時間。"
+      "Translation": "該Argost目前在紫苑端口。您可以從阿戈隊長獲得眾多的物品和材料，你不能得到其他地方，他的股票每次改變他所說的進港時間。"
     },
     "play-guide-the-argosy-sets-sail": {
       "Key": "play-guide-the-argosy-sets-sail",
@@ -10613,7 +10613,7 @@ export default {
     },
     "play-guide-the-elder-crossing-description": {
       "Key": "play-guide-the-elder-crossing-description",
-      "Translation": "上古穿越是一個生態現象，其中龍長老前往新大陸。雖然它曾經只發生一次百年左右，叉口現在發生大約每隔十年。神秘，有些上了年紀的龍甚至從來沒有使它的新世界。"
+      "Translation": "上古穿越是一個生態現象，其中龍長老前往新大陸。雖然它曾經只出現每百年左右一次，叉口現在發生大約每隔十年。神秘，有些上了年紀的龍甚至從來沒有使它的新世界。"
     },
     "play-guide-the-field-researchers": {
       "Key": "play-guide-the-field-researchers",
@@ -10629,7 +10629,7 @@ export default {
     },
     "play-guide-the-golden-tribe-description": {
       "Key": "play-guide-the-golden-tribe-description",
-      "Translation": "一個奇怪的金色部落生活埃爾多拉多的洞穴內，並可以進行一些有用的物品。如果你攻擊他們的黃金鎧甲的結晶，它們可以運行遠離你。"
+      "Translation": "一個奇怪的金色部落生活埃爾多拉多的洞穴內，並可以進行一些有用的物品。如果你攻擊他們的黃金鎧甲的結晶，他們可能會從你跑掉。"
     },
     "play-guide-the-intrepid-field-researchers": {
       "Key": "play-guide-the-intrepid-field-researchers",
@@ -10661,7 +10661,7 @@ export default {
     },
     "play-guide-the-research-commission-description": {
       "Key": "play-guide-the-research-commission-description",
-      "Translation": "該委員會由協會的精英成員。包括在他們的人數是獵人，學者和工程師，所有的人都需要通過嚴格的測試，他們可以加入之前。"
+      "Translation": "該委員會由協會的精英成員組成。包括在他們的人數是獵人，學者和工程師，所有的人都需要通過嚴格的測試，他們可以加入之前。"
     },
     "play-guide-the-resource-center": {
       "Key": "play-guide-the-resource-center",
@@ -10713,7 +10713,7 @@ export default {
     },
     "play-guide-trading-with-the-argosy-description": {
       "Key": "play-guide-trading-with-the-argosy-description",
-      "Translation": "該雅奇是一個貿易船是偶爾叫進港在紫苑和銷售提供了特殊的項目集。該項目集更改每次阿戈考察，它們可能含有稀有物品無法在別處。"
+      "Translation": "該雅奇是一個貿易船是零星調用到紫苑，並提供專項套出售端口。該項目集更改每次阿戈考察，它們可能含有稀有物品無法在別處。"
     },
     "play-guide-traps-and-elder-dragons": {
       "Key": "play-guide-traps-and-elder-dragons",
@@ -10737,7 +10737,7 @@ export default {
     },
     "play-guide-types-of-shelling-attacks-description": {
       "Key": "play-guide-types-of-shelling-attacks-description",
-      "Translation": "Gunlances擁有三種不同類型的砲擊攻擊之一。這些攻擊的力量，彈藥的能力和範圍不同。在選擇你的gunlance，因為每個類型都需要一個稍微不同的打法小心。"
+      "Translation": "Gunlances擁有三種不同類型的砲擊攻擊之一。這些攻擊的能力不同，因此彈藥的能力和範圍。在選擇你的gunlance，因為每個類型都需要一個稍微不同的打法小心。"
     },
     "play-guide-upgrading-charms": {
       "Key": "play-guide-upgrading-charms",
@@ -10761,11 +10761,11 @@ export default {
     },
     "play-guide-using-performances-to-attack": {
       "Key": "play-guide-using-performances-to-attack",
-      "Translation": "使用性能來攻擊"
+      "Translation": "使用性能攻擊"
     },
     "play-guide-using-performances-to-attack-description": {
       "Key": "play-guide-using-performances-to-attack-description",
-      "Translation": "在狩獵號角Performnace創建的初始衝擊波具有較高的攻擊力和驚人的力量，使得此舉完全可行的是在自己的權利的攻擊。你也可以連接普通攻擊到性能，並取消了躲閃卷的性能。"
+      "Translation": "在狩獵號角Performnace創建的初始衝擊波具有較高的攻擊力和驚人的力量，使得此舉完全可行的是在自己的權利的攻擊。你也可以連接普通攻擊到性能，並取消績效與道奇卷。"
     },
     "play-guide-using-the-environment": {
       "Key": "play-guide-using-the-environment",
@@ -10789,7 +10789,7 @@ export default {
     },
     "play-guide-utilizing-skills-description": {
       "Key": "play-guide-utilizing-skills-description",
-      "Translation": "一個針對巨獸閃失，都會為您和您的團隊帶來災難。使用裝甲技能，如健康大有裨益，或食物的技能，如Felyne莫邪或Felyne保險。"
+      "Translation": "腳下一滑，對抗巨獸能為您和您的團隊帶來災難。使用裝甲技能，如健康大有裨益，或像Felyne莫邪或Felyne保險食物的技巧。"
     },
     "play-guide-utilizing-the-environment": {
       "Key": "play-guide-utilizing-the-environment",
@@ -10801,7 +10801,7 @@ export default {
     },
     "play-guide-vigorwasps-description": {
       "Key": "play-guide-vigorwasps-description",
-      "Translation": "Vigorwasps colelct活力花蜜，使他們的蜂蜜，敲擊時釋放它在雲中。這可以作為治療的領域的有效方法時出。"
+      "Translation": "Vigorwasps colelct活力花蜜，使他們的蜂蜜，敲擊時釋放它在雲中。這可以作為外出時在治療領域的一個有效方法。"
     },
     "play-guide-vitalilies": {
       "Key": "play-guide-vitalilies",
@@ -10845,7 +10845,7 @@ export default {
     },
     "play-guide-what-furr-iends-are-for-description": {
       "Key": "play-guide-what-furr-iends-are-for-description",
-      "Translation": "獵人和你有交流的意願公會卡友Palicoes有時會出現在現場。與他們交談，他們可能沿著標記，以幫助你在你的狩獵！"
+      "Translation": "獵人和你交換與公會卡友Palicoes有時會出現在現場。與他們交談，他們可能沿著標記，以幫助你在你的狩獵！"
     },
     "play-guide-wiggly-litchi": {
       "Key": "play-guide-wiggly-litchi",
@@ -10861,7 +10861,7 @@ export default {
     },
     "play-guide-wyvernblast-description": {
       "Key": "play-guide-wyvernblast-description",
-      "Translation": "造成Wyvernblast彈藥，爆炸取決於所使用的攻擊類型。更強大的攻擊將產生更強大的爆炸。"
+      "Translation": "造成Wyvernblast的爆炸彈藥取決於所使用的攻擊類型而有所不同。更強大的攻擊將產生更強大的爆炸。"
     },
     "poogie-about-poogie": {
       "Key": "poogie-about-poogie",
@@ -10893,7 +10893,7 @@ export default {
     },
     "poogie-boa-bell-coat-how-to-get": {
       "Key": "poogie-boa-bell-coat-how-to-get",
-      "Translation": "冬節活動期間前往收集中心，然後跟你Poogie得到這個服裝。"
+      "Translation": "轉至收集中心的冬節活動期間，然後跟你Poogie得到這個服裝。"
     },
     "poogie-buzzy-bee": {
       "Key": "poogie-buzzy-bee",
@@ -10921,7 +10921,7 @@ export default {
     },
     "poogie-emperors-new-duds-how-to-get": {
       "Key": "poogie-emperors-new-duds-how-to-get",
-      "Translation": "了觀測點內的所有道路，需要經過鐵匠鋪區和不斷攀登的地方Poogie的涼亭。您需要先擊敗Xeno'jiiva。"
+      "Translation": "觀察點一路上漲裡面，需要經過鐵匠鋪區和不斷攀登的地方Poogie的涼亭。您需要先擊敗Xeno'jiiva。"
     },
     "poogie-hog-in-a-frog": {
       "Key": "poogie-hog-in-a-frog",
@@ -10949,7 +10949,7 @@ export default {
     },
     "poogie-petting-poogie-text": {
       "Key": "poogie-petting-poogie-text",
-      "Translation": "寵Poogie，接近它，然後按下按鈕寵物。等到一個感嘆號出現在它的頭上，按圈控制器上。這樣做足夠的時間，Poogie會開始喜歡你了。"
+      "Translation": "寵Poogie，接近它，然後按寵物圖標。等到一個感嘆號出現在它的頭上，按圈控制器上。這樣做足夠的時間，Poogie會開始喜歡你了。"
     },
     "poogie-pumpkins-revenge": {
       "Key": "poogie-pumpkins-revenge",
@@ -10957,7 +10957,7 @@ export default {
     },
     "poogie-pumpkins-revenge-how-to-get": {
       "Key": "poogie-pumpkins-revenge-how-to-get",
-      "Translation": "在中秋節活動期間前往收集中心，然後跟你Poogie得到這個服裝。"
+      "Translation": "轉至收集中心的中秋節活動期間，然後跟你Poogie得到這個服裝。"
     },
     "poogie-seaside-sausage": {
       "Key": "poogie-seaside-sausage",
@@ -10965,7 +10965,7 @@ export default {
     },
     "poogie-seaside-sausage-how-to-get": {
       "Key": "poogie-seaside-sausage-how-to-get",
-      "Translation": "夏季黃昏活動期間前往收集中心，然後跟你Poogie得到這個服裝。"
+      "Translation": "轉至收集中心夏季黃昏活動期間，然後跟你Poogie得到這個服裝。"
     },
     "poogie-sparkling-party": {
       "Key": "poogie-sparkling-party",
@@ -10973,7 +10973,7 @@ export default {
     },
     "poogie-sparkling-party-how-to-get": {
       "Key": "poogie-sparkling-party-how-to-get",
-      "Translation": "鑑賞節活動期間前往收集中心，然後跟你Poogie得到這個服裝。"
+      "Translation": "轉至收集中心鑑賞節活動期間，然後跟你Poogie得到這個服裝。"
     },
     "poogie-using-poogie": {
       "Key": "poogie-using-poogie",
@@ -10981,7 +10981,7 @@ export default {
     },
     "poogie-using-poogie-text": {
       "Key": "poogie-using-poogie-text",
-      "Translation": "要使用Poogie，你需要獲得該Poogie從一個任務返回時，映入你眼簾的地步。簡單收拾Poggie起來，直到你的控制器啟動振動或在你的手晃Poogie攜帶它周圍紫苑，然後把他放下。一旦發現Poogie一個項目，與它交互，從而獲得該項目。請注意，你只能找到每一個試件。如果你想找到另一個項目，你需要去另一個任務，並從一個任務返回使用Poogie一次。"
+      "Translation": "要使用Poogie，你需要獲得到Poogie迎接你從一個任務返回時的點。簡單收拾Poggie起來，直到你的控制器啟動振動或Poogie在你的手晃帶著它四處紫苑，然後把他放下。一旦發現Poogie一個項目，與它交互，從而獲得該項目。請注意，你只能找到每一個試件。如果你想找到另一個項目，你需要去另一個任務，並從一個任務返回再次使用Poogie。"
     },
     "poogie-white-jammies": {
       "Key": "poogie-white-jammies",
@@ -10989,7 +10989,7 @@ export default {
     },
     "poogie-white-jammies-how-to-get": {
       "Key": "poogie-white-jammies-how-to-get",
-      "Translation": "接下來到最左邊的生態研究區的大化石的岩石"
+      "Translation": "旁邊的大岩石化石上最左邊的生態研究區"
     },
     "query-a-fiery-convergence-description": {
       "Key": "query-a-fiery-convergence-description",
@@ -11005,7 +11005,7 @@ export default {
     },
     "quest-a-blaze-on-the-sand-description": {
       "Key": "quest-a-blaze-on-the-sand-description",
-      "Translation": "在此間舉行的第二艦隊，我們一直在努力開發新的工具來幫助你狩獵，但我們需要你的幫助收集材料，我們全靠你了把這個任務！"
+      "Translation": "在此間舉行的第二艦隊，我們一直在努力開發新的工具來幫助你狩獵，但我們需要你的幫助收集材料，我們就指望你把這個任務！"
     },
     "quest-a-blaze-on-the-sand-notable-rewards": {
       "Key": "quest-a-blaze-on-the-sand-notable-rewards",
@@ -11017,11 +11017,11 @@ export default {
     },
     "quest-a-bone-to-pick-description": {
       "Key": "quest-a-bone-to-pick-description",
-      "Translation": "這幾乎是不可能對任何我們的研究人員研究的爛谷的化石，因為他們一直陷入到炸開Radobaan滾來滾去那裡..."
+      "Translation": "這對我們的任何研究人員研究化石爛谷的幾乎是不可能的，因為他們一直陷入到炸開Radobaan滾來滾去那裡..."
     },
     "quest-a-bone-to-pick-tips": {
       "Key": "quest-a-bone-to-pick-tips",
-      "Translation": "從東南營（1），圍繞第一級目標側傾開始，艇員選拔方向，並再次軋製前在每一個開放區域停止。它一般在產卵扇區1的開口面積，並在追求的開始滾向扇區3。有在部門1和部門2濕軟地基它會逃離朝部門4更新其骨骼時，他們都被摧毀易碎的鐘乳石。"
+      "Translation": "從東南營（1），圍繞第一級目標側傾開始，艇員選拔方向，並再次軋製前在每一個開放區域停止。它通常在扇區1的開放區域產卵和輥到扇區3的任務的開始。有扇區1和濕軟地面部門2.它會逃離朝部門4更新其骨骼時，他們都被摧毀易碎的鐘乳石。"
     },
     "quest-a-cherry-wind-upon-the-reefs": {
       "Key": "quest-a-cherry-wind-upon-the-reefs",
@@ -11045,7 +11045,7 @@ export default {
     },
     "quest-a-colossal-task-tips": {
       "Key": "quest-a-colossal-task-tips",
-      "Translation": "通過使用wingdrake降落在瑣拉Magdaros'回來開始。一定要抓住一些石頭附近的著陸點供以後使用。直走，你應該達到瑣拉的Magmacore之一。摧毀它確保躲閃熔岩噴湧它。在Magmacore銷毀下降的材料。負責人瑣拉的“尾巴”，並往下走，直到你找到另一Magmacore一個洞穴，消滅它。\\ n \\ nNow用自己的方式一路上漲瑣拉Magdaros身體，從左翼攀登，你應該遇到大的岩漿岩，你可以摧毀它30RP。一旦在頂部，你可以跳下來的物事最後Magmacore站好地方，現在你可以摧毀它，但它可能Nergigante之前出現了，你要再來。 \\ n \\ n如照顧Nergigante的是弱版本，它將足夠的傷害後逃到完成它，然後你需要銷毀所有剩餘Magmacore。一旦所有Magmacore被破壞，等待Wingdrake給你帶來的障礙。你可以找到另一個石頭上瑣拉的右翼突破，同時等待。 \\ n \\非屏障，裝載大砲和火，確保排隊與瑣拉的位置大砲，嘗試射擊一次5砲彈用盡瑣拉Magdaros。當沒有更多的彈藥，切換到另一個炮。在某些時候，外勤組長將談論屠龍，不使用它，但保持發射大砲，向船一點一點地移動。當？NPC？說瑣拉Magdaros充電上漲的一大攻擊，使用操縱桿上的船來激活屠龍，並停止瑣拉的進攻。在此之後，它只是一個時間和砲彈的問題，直到瑣拉Magdaros放棄。"
+      "Translation": "通過使用wingdrake對瑣拉Magdaros'回來的土地開始。一定要抓住一些石頭附近的著陸點供以後使用。直走，你應該達到瑣拉的Magmacore之一。摧毀它確保躲閃熔岩噴湧它。在Magmacore滴上破壞的材料。負責人瑣拉的“尾巴”，並往下走，直到你找到另一Magmacore一個洞穴，消滅它。\\ n \\ nNow用自己的方式一路上漲瑣拉Magdaros身體，從左翼攀岩，你要遇到一個大的岩漿岩，你可以摧毀它30RP。一旦在頂部，你可以跳下來的物事最後Magmacore站好地方，現在你可以摧毀它，但它的可能Nergigante之前出現了，你要再來。 \\ n \\ n如打理Nergigante的是弱版本，它將足夠的傷害後逃到完成它，然後你需要銷毀所有剩餘Magmacore。一旦所有Magmacore被破壞，等待Wingdrake給你帶來的障礙。你可以找到另一個石頭上瑣拉的右翼突破，同時等待。 \\ n \\非屏障，裝載大砲和火，確保排隊與瑣拉的位置大砲，嘗試一次用盡瑣拉Magdaros火5砲彈。當沒有更多的彈藥，切換到另一個炮。在某些時候，外勤組長將談論屠龍，不使用它，但保持發射大砲，一點一點朝小船點點移動。當？NPC？說瑣拉Magdaros充電上漲的一大攻擊，使用操縱桿上的船來激活屠龍，並停止瑣拉的進攻。在此之後，它只是一個時間和砲彈的問題，直到瑣拉Magdaros放棄。"
     },
     "quest-a-crown-of-mud-and-anger": {
       "Key": "quest-a-crown-of-mud-and-anger",
@@ -11053,7 +11053,7 @@ export default {
     },
     "quest-a-crown-of-mud-and-anger-description": {
       "Key": "quest-a-crown-of-mud-and-anger-description",
-      "Translation": "我們已經得到了一個不同尋常的強大Barroth的漫遊Wildspire浪費了令人不安的報告。開始你的調查盡快，但要注意其泥結塊的攻擊！"
+      "Translation": "我們已經得到了一個不同尋常的強大Barroth的漫遊Wildspire廢物一個令人不安的報告。開始你的調查盡快，但要注意其泥結塊的攻擊！"
     },
     "quest-a-crown-of-mud-and-anger-notes": {
       "Key": "quest-a-crown-of-mud-and-anger-notes",
@@ -11073,7 +11073,7 @@ export default {
     },
     "quest-a-fiery-throne-atop-the-forest-description": {
       "Key": "quest-a-fiery-throne-atop-the-forest-description",
-      "Translation": "第一Wyverian不是要溢出約瑣拉豆，直到我們站在食物鏈的最頂端。這意味著我們得尋找我們Rathalos！ ......這是否意味著我們必須吃它嗎？"
+      "Translation": "第一Wyverian不是直到我們站在食物鏈的最頂端會波及約瑣拉豆。這意味著我們得尋找我們Rathalos！ ......我們這是否意味著有吃它嗎？"
     },
     "quest-a-flash-in-the-pan": {
       "Key": "quest-a-flash-in-the-pan",
@@ -11081,7 +11081,7 @@ export default {
     },
     "quest-a-flash-in-the-pan-description": {
       "Key": "quest-a-flash-in-the-pan-description",
-      "Translation": "我親愛的姐姐，我是從視力低下症，但第二艦隊大師精雕細琢我們一些細微的眼鏡。如果你幫我測試出來我給雷到你！"
+      "Translation": "我親愛的姐姐，我是從視力低下症，但第二艦隊大師精雕細琢我們一些細微的眼鏡。我給雷到你，如果你幫我測試出來！"
     },
     "quest-a-hair-raising-experience": {
       "Key": "quest-a-hair-raising-experience",
@@ -11109,7 +11109,7 @@ export default {
     },
     "quest-a-kestodon-kerfuffle-description": {
       "Key": "quest-a-kestodon-kerfuffle-description",
-      "Translation": "瑣拉Magdaros'的出現，帶動Kestodon一群到新的領域。我們需要你走出去，頭黃油的薄，牛群。"
+      "Translation": "瑣拉Magdaros'的出現，帶動Kestodon一群到新的領域。我們需要你走出去，薄，頭黃油的牛群。"
     },
     "quest-a-light-upon-the-rivers-gloom": {
       "Key": "quest-a-light-upon-the-rivers-gloom",
@@ -11121,7 +11121,7 @@ export default {
     },
     "quest-a-light-upon-the-rivers-gloom-notes": {
       "Key": "quest-a-light-upon-the-rivers-gloom-notes",
-      "Translation": "這是你funished融合的土地轉讓後出現的可選任務，並允許您種田Xeno'jiiva材料。看樣子你完成任何任務或調查（更通常較高的排名）後隨機。然而，你會得到一張紙條，上面的任務是可用的。只有兩個任務的時間內有效。此後，它再次消失。"
+      "Translation": "這是你funished融合的土地轉讓後出現的可選任務，並允許您的農場Xeno'jiiva材料。看樣子你完成任何任務或調查（更通常較高的排名）後隨機。然而，你會得到一張紙條，上面的任務是可用的。只有兩個任務的時間內有效。此後，它再次消失。"
     },
     "quest-a-meow-for-help": {
       "Key": "quest-a-meow-for-help",
@@ -11141,7 +11141,7 @@ export default {
     },
     "quest-a-nose-for-an-eye-description": {
       "Key": "quest-a-nose-for-an-eye-description",
-      "Translation": "在我的一天，我們並不需要這些Scoutflies追查怪物，但是這是新的世界......我已經找到了你一些有趣的怪物。去找他們。 （獎勵HR點完成後獎勵。）"
+      "Translation": "在我的一天，我們並不需要這些Scoutflies追查怪物，但是這是新的世界......我已經找到了一些有趣的怪物你。去找他們。 （獎勵HR點完成後獎勵。）"
     },
     "quest-a-portent-of-disaster": {
       "Key": "quest-a-portent-of-disaster",
@@ -11157,15 +11157,15 @@ export default {
     },
     "quest-a-rotten-thing-to-do": {
       "Key": "quest-a-rotten-thing-to-do",
-      "Translation": "爛事做"
+      "Translation": "爛事"
     },
     "quest-a-rotten-thing-to-do-description": {
       "Key": "quest-a-rotten-thing-to-do-description",
-      "Translation": "我是工作-K-王爛V-谷時，G-G-大Girros從背後Z-Z-手段傳給我。在一塊我G-下了，但我依然T-T-刺痛......完成了J-J-工作嗎？ P-請！"
+      "Translation": "我是工作-K-王爛V-谷時，G-G-大Girros從背後Z-Z-手段傳給我。在一塊我G-下了，但我依然T-T-刺痛......完成了我的J-J-工作嗎？ P-請！"
     },
     "quest-a-rotten-thing-to-do-tips": {
       "Key": "quest-a-rotten-thing-to-do-tips",
-      "Translation": "這個任務有你處理脫髮，永久的大面積損壞處理氣體。雖然這聽起來很煩人，你可以用惡臭的專家技能，在Hornetaur郵件胸部的鎧甲，這是很容易發現的手藝忽略它。（Girros線圈也有這個技能）有些麻痺性可以來派上用場了。來自東南亞西營開始（1），頭和具有如下幾個Girros尋找在部門3.目標周圍徘徊腐爛的淡水河谷的整個第二水平下降的路徑，經常。它的巢穴是在部門7，在上一節。"
+      "Translation": "這個任務有你處理脫髮，永久的大面積破壞交易的氣體。雖然這聽起來很煩人，你可以用惡臭的專家技能，在Hornetaur郵件胸部的鎧甲，這是很容易發現的手藝忽略它。（Girros線圈也有這個技能）有些麻痺性可以來派上用場了。從東南營（1），頭向西，尋找在部門3.圍繞爛谷的整個第二層次的目標飄蕩下降的路徑有如下幾個Girros開始，經常。它的巢穴是在部門7，在上一節。"
     },
     "quest-a-royal-pain": {
       "Key": "quest-a-royal-pain",
@@ -11181,7 +11181,7 @@ export default {
     },
     "quest-a-rush-of-blood-description": {
       "Key": "quest-a-rush-of-blood-description",
-      "Translation": "不好了！有部份大醇'怪物看起來很像我們火拼！有人的gottal平靜的大男孩了！幫助我們，我們會給你一些特殊的齒輪為您Palico！"
+      "Translation": "不好了！還有那個看起來很像我們拉什的部份大醇'的怪物！有人的gottal平靜的大男孩了！幫助我們，我們會給你一些特殊的齒輪為您Palico！"
     },
     "quest-a-scalding-scoop": {
       "Key": "quest-a-scalding-scoop",
@@ -11189,7 +11189,7 @@ export default {
     },
     "quest-a-scalding-scoop-description": {
       "Key": "quest-a-scalding-scoop-description",
-      "Translation": "我在外面執行任務時，Barnos我barfed東西。不管是什麼，它是熱的，痛苦的熱！而且還有銷售，地段 - 的 - 份熱樣的！幫我把我的故事！"
+      "Translation": "我在外面執行任務時，Barnos我barfed東西。不管是什麼，它是熱的，痛苦的熱！而且還有銷售，地段 -   - 副本的那種熱！幫我把我的故事！"
     },
     "quest-a-scalidng-scoop-tips": {
       "Key": "quest-a-scalidng-scoop-tips",
@@ -11217,7 +11217,7 @@ export default {
     },
     "quest-a-sore-site-notes": {
       "Key": "quest-a-sore-site-notes",
-      "Translation": "任務鏈：刺痛的味道，碩士吐司交付，以自己的方式卡住，一場大火噴湧BREW傳送，瘡網站，RRRRRumble的浪費！高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "任務鏈：刺痛的味道，大師的麵包送貨，停留在他們的方式，一場大火噴湧BREW傳送，瘡網站，RRRRRumble的浪費！高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-a-summons-from-below": {
       "Key": "quest-a-summons-from-below",
@@ -11225,7 +11225,7 @@ export default {
     },
     "quest-a-summons-from-below-conditions": {
       "Key": "quest-a-summons-from-below-conditions",
-      "Translation": "亨特3種不同的強化長輩龍（威脅等級3）解鎖"
+      "Translation": "亨特3種不同的鍛煉老年人龍（威脅等級3）解鎖"
     },
     "quest-a-summons-from-below-description": {
       "Key": "quest-a-summons-from-below-description",
@@ -11241,7 +11241,7 @@ export default {
     },
     "quest-a-thicket-of-thugs-description": {
       "Key": "quest-a-thicket-of-thugs-description",
-      "Translation": "我的一個領域的研究者的要收集brightmoss研究。唯一的問題是，它的大部分發現於洞穴。猜猜還有什麼是在山洞裡發現大多？這是正確的... Jagras！"
+      "Translation": "我的一個領域的研究者的要收集brightmoss學習。唯一的問題是，它的大部分發現於洞穴。猜猜還有什麼是在山洞裡發現大多？這是正確的... Jagras！"
     },
     "quest-a-tingling-taste": {
       "Key": "quest-a-tingling-taste",
@@ -11253,7 +11253,7 @@ export default {
     },
     "quest-a-tingling-taste-notes": {
       "Key": "quest-a-tingling-taste-notes",
-      "Translation": "任務鏈：刺痛的味道，碩士吐司交付，以自己的方式卡住，一場大火噴湧BREW傳送，瘡網站，RRRRRumble的浪費！高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。解鎖研究基地的任務鏈，導致了RRRRRumble的浪費！可選的任務後。"
+      "Translation": "任務鏈：刺痛的味道，大師的麵包送貨，停留在他們的方式，一場大火噴湧BREW傳送，瘡網站，RRRRRumble的浪費！高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。解鎖任務鏈的研究基地，導致垃圾中的RRRRRumble！可選的任務後。"
     },
     "quest-a-tzitzi-for-science": {
       "Key": "quest-a-tzitzi-for-science",
@@ -11261,11 +11261,11 @@ export default {
     },
     "quest-a-tzitzi-for-science-description": {
       "Key": "quest-a-tzitzi-for-science-description",
-      "Translation": "我們已經聽到了珊瑚高地的Tzitzi  - 雅古的說法，它是如何發光的閃爍，盲目的敵人。我們必須知道invovled的mchanics。野隊，請尋找一個為我們的研究！"
+      "Translation": "我們已經聽到了珊瑚高地的Tzitzi  - 雅古的說法，它是如何發光的閃爍，盲目的敵人。我們必須知道invovled的mchanics。野隊，請追捕一個為我們的研究！"
     },
     "quest-a-tzitzi-for-science-tips": {
       "Key": "quest-a-tzitzi-for-science-tips",
-      "Translation": "南營開始（1），眩暈抗性可以是有益的，但不是強制性的。東頭，並按照較低的路徑，直到你遇到的目標，Shamos可以作為分心，但很可能會死的附帶損害。它的巢穴是在7扇區，在扇區2攀爬藤蔓到達。"
+      "Translation": "開始從南營（1），眩暈抗性可以是有益的，但根本不是強制性的。直到你遇到的目標，Shamos可以作為分心，但很可能會死附帶損害東頭，然後按照下面的路徑。它的巢穴是在7扇區，在扇區2攀爬藤蔓到達。"
     },
     "quest-a-visitor-from-another-world": {
       "Key": "quest-a-visitor-from-another-world",
@@ -11273,7 +11273,7 @@ export default {
     },
     "quest-a-visitor-from-another-world-description": {
       "Key": "quest-a-visitor-from-another-world-description",
-      "Translation": "我的怪人合作夥伴將不會閉嘴一些非獸獸，他在Wildspire排泄物中。你想沿著標籤？不管是什麼，它必然是一些有趣的事情！"
+      "Translation": "我的怪人合作夥伴將不會閉嘴一些非獸獸，他在Wildspire排泄物中。你想標記一起？不管是什麼，它必然是一些有趣的事情！"
     },
     "quest-a-visitor-from-eorzea": {
       "Key": "quest-a-visitor-from-eorzea",
@@ -11281,7 +11281,7 @@ export default {
     },
     "quest-a-visitor-from-eorzea-description": {
       "Key": "quest-a-visitor-from-eorzea-description",
-      "Translation": "巨獸出現在長輩的凹槽中。傳統的方法是行不通的，在值得信賴的亨特呼籲 - 冒險家，以幫助平息獸！"
+      "Translation": "巨獸出現在長輩的凹槽中。傳統的方法是行不通的，在值得信賴的亨特呼籲 - 冒險家幫助平息獸！"
     },
     "quest-a-visitor-from-eorzea-extreme": {
       "Key": "quest-a-visitor-from-eorzea-extreme",
@@ -11305,7 +11305,7 @@ export default {
     },
     "quest-a-wound-and-a-thirst-description": {
       "Key": "quest-a-wound-and-a-thirst-description",
-      "Translation": "該Nergigante長期從老隧道的另一邊打量著我們，但現在我們有它的下落領先。如果我們可以研究它，它可能揭示了隧道的本色。"
+      "Translation": "該Nergigante長期盯著我們從老隧道的另一邊，但現在我們有它的下落領先。如果我們可以研究它，它可能揭示了隧道的本色。"
     },
     "quest-arena-quest-01": {
       "Key": "quest-arena-quest-01",
@@ -11313,7 +11313,7 @@ export default {
     },
     "quest-arena-quest-01-description": {
       "Key": "quest-arena-quest-01-description",
-      "Translation": "在怪物的角落：Pukei-Pukei，有毒Tussler中，要舔機！當你說“沒有舌頭”他不會聽！誰擁有膽量與一套武器和防具打呢？"
+      "Translation": "在怪物的角落：Pukei-Pukei，有毒Tussler中，要舔機！當你說“沒有舌頭”他不會聽！誰擁有膽量與設定的武器和防具打呢？"
     },
     "quest-arena-quest-02": {
       "Key": "quest-arena-quest-02",
@@ -11321,7 +11321,7 @@ export default {
     },
     "quest-arena-quest-02-description": {
       "Key": "quest-arena-quest-02-description",
-      "Translation": "在怪物的角落：庫魯 - 雅古，粉碎機，該Peckanizer！如果這種鳥是詞，那麼這個詞是SMASH！誰擁有膽量與一套武器和防具打呢？"
+      "Translation": "在怪物的角落：庫魯 - 雅古，粉碎機，該Peckanizer！如果這種鳥是詞，那麼這個詞是SMASH！誰擁有膽量與設定的武器和防具打呢？"
     },
     "quest-arena-quest-03": {
       "Key": "quest-arena-quest-03",
@@ -11329,7 +11329,7 @@ export default {
     },
     "quest-arena-quest-03-description": {
       "Key": "quest-arena-quest-03-description",
-      "Translation": "在怪物的角落：Rathian，女王O'格林Skyborne Slasher的！不要小姐生氣;她的毒！誰擁有膽量與一套武器和防具打她嗎？"
+      "Translation": "在怪物的角落：Rathian，女王O'格林Skyborne Slasher的！不要小姐生氣;她的毒藥！誰擁有膽量與設定的武器和防具打她嗎？"
     },
     "quest-arena-quest-04": {
       "Key": "quest-arena-quest-04",
@@ -11337,7 +11337,7 @@ export default {
     },
     "quest-arena-quest-04-description": {
       "Key": "quest-arena-quest-04-description",
-      "Translation": "在怪物的角落：Tzitzi雅-KU，蜥蜴的萬人迷，在Flashinator！這種小動物的熱小跑和精細的光芒！誰擁有膽量與一套武器和防具打呢？"
+      "Translation": "在怪物的角落：Tzitzi雅-KU，蜥蜴的萬人迷，在Flashinator！這個小動物是熱小跑和精細的光芒！誰擁有膽量與設定的武器和防具打呢？"
     },
     "quest-arena-quest-05": {
       "Key": "quest-arena-quest-05",
@@ -11345,7 +11345,7 @@ export default {
     },
     "quest-arena-quest-05-description": {
       "Key": "quest-arena-quest-05-description",
-      "Translation": "在怪物的角落：Barroth的笨重的頭撞中，Skullcracker！失去了這個傢伙，你的名字是泥！誰擁有膽量與一套武器和防具打呢？"
+      "Translation": "在怪物的角落：Barroth的笨重的頭撞中，Skullcracker！失去了這個傢伙，你的名字是泥！誰擁有膽量與設定的武器和防具打呢？"
     },
     "quest-arena-quest-06": {
       "Key": "quest-arena-quest-06",
@@ -11353,7 +11353,7 @@ export default {
     },
     "quest-arena-quest-06-description": {
       "Key": "quest-arena-quest-06-description",
-      "Translation": "在怪物的角落：Dodogama，繁榮的巨獸，在Crucnher！什麼打擊了，必須讓你失望！誰擁有膽量與一套武器和防具打呢？"
+      "Translation": "在怪物的角落：Dodogama，繁榮的巨獸，在Crucnher！什麼打擊了，必須讓你失望！誰擁有膽量與設定的武器和防具打呢？"
     },
     "quest-arena-quest-07": {
       "Key": "quest-arena-quest-07",
@@ -11361,7 +11361,7 @@ export default {
     },
     "quest-arena-quest-07-description": {
       "Key": "quest-arena-quest-07-description",
-      "Translation": "在怪物的角落：天青Rathalos，藍寶石蘇丹，真藍恐怖！跪拜所有飛龍之王！誰擁有膽量與一套武器和防具打呢？"
+      "Translation": "在怪物的角落：天青Rathalos，藍寶石蘇丹，真藍恐怖！跪拜所有飛龍之王！誰擁有膽量與設定的武器和防具打呢？"
     },
     "quest-arena-quest-08": {
       "Key": "quest-arena-quest-08",
@@ -11369,7 +11369,7 @@ export default {
     },
     "quest-arena-quest-08-description": {
       "Key": "quest-arena-quest-08-description",
-      "Translation": "在怪物的角落：一個Radobaan-Uragaan標記隊！車輪轉向，和你的電話號碼的了！誰擁有膽量打'時間與設定的武器和盔甲？"
+      "Translation": "在怪物的角落：一個Radobaan-Uragaan標記隊！車輪轉向，和你的電話號碼是了！誰擁有膽量與一套武器和防具打他們嗎？"
     },
     "quest-arena-quest-09": {
       "Key": "quest-arena-quest-09",
@@ -11377,7 +11377,7 @@ export default {
     },
     "quest-arena-quest-09-description": {
       "Key": "quest-arena-quest-09-description",
-      "Translation": "在怪物的角落：一個Diablo的黑Diablo的標記隊！曾經有你的耳朵刺穿？現在嘗試極端的版本！誰擁有膽量打'時間與設定的武器和盔甲？"
+      "Translation": "在怪物的角落：一個Diablo的黑Diablo的標記隊！曾經有你的耳朵刺穿？現在嘗試極端的版本！誰擁有膽量與一套武器和防具打他們嗎？"
     },
     "quest-ballooning-problems": {
       "Key": "quest-ballooning-problems",
@@ -11385,7 +11385,7 @@ export default {
     },
     "quest-ballooning-problems-description": {
       "Key": "quest-ballooning-problems-description",
-      "Translation": "......對不起，我只是乾嘔想著那個怪物的臉。說真的，你會做一個忙......和我們太多。亨特它和飛艇工程師將擁有他所需要的一切。"
+      "Translation": "......對不起，我只是乾嘔了關於怪物的臉思維。說真的，你會做一個忙......和我們太多。亨特它和飛艇工程師將擁有他所需要的一切。"
     },
     "quest-bazelgeuse-in-the-field-of-fire": {
       "Key": "quest-bazelgeuse-in-the-field-of-fire",
@@ -11393,7 +11393,7 @@ export default {
     },
     "quest-bazelgeuse-in-the-field-of-fire-description": {
       "Key": "quest-bazelgeuse-in-the-field-of-fire-description",
-      "Translation": "這三人偏心已經又一次做到了！現在，他們已經發現了Bazelgeuse的位置，他們就要去研究吧！請尋找它，他們讓自己受傷之前！"
+      "Translation": "這三人偏心已經又一次做到了！現在，他們已經發現了Bazelgeuse的位置，他們就要去研究吧！請尋找它，他們才把自己受傷了！"
     },
     "quest-beyond-the-blasting-scales": {
       "Key": "quest-beyond-the-blasting-scales",
@@ -11409,7 +11409,7 @@ export default {
     },
     "quest-bird-brained-bandit-description": {
       "Key": "quest-bird-brained-bandit-description",
-      "Translation": "在庫魯雅辜使用其靈巧的前臂攜帶的對象。任其發展很容易與重要物資流失。步驟重建一個安全營狩獵是小偷的一個！"
+      "Translation": "在庫魯雅辜使用其靈巧的前臂攜帶的對象。任其發展很容易與重要物資流失。重建一個安全營狩獵是小偷的第一步！"
     },
     "quest-blue-prominence": {
       "Key": "quest-blue-prominence",
@@ -11417,7 +11417,7 @@ export default {
     },
     "quest-blue-prominence-description": {
       "Key": "quest-blue-prominence-description",
-      "Translation": "我在外面學習一些嚴重的地方可愛的動物時的供電habis  -  WOWZERS  - 出現一個巨大的藍色真龍！照顧它，所以我可以回去研究的事項！"
+      "Translation": "我在外面學習一些嚴重的地方可愛的動物時的供電habis  -  WOWZERS  - 一個巨大的蘭長老龍出現！照顧它，所以我可以回去研究的事項！"
     },
     "quest-brown-desert-green-queen": {
       "Key": "quest-brown-desert-green-queen",
@@ -11425,7 +11425,7 @@ export default {
     },
     "quest-brown-desert-green-queen-description": {
       "Key": "quest-brown-desert-green-queen-description",
-      "Translation": "我們已經得到了出現在Wildspire廢物一個異常強大的Rathian的令人不安的報告。開始你的調查盡快，但它的有毒尾當心！"
+      "Translation": "我們已經得到了出現在Wildspire廢物一個異常強大的Rathian的一個令人不安的報告。開始你的調查盡快，但它的有毒尾當心！"
     },
     "quest-brown-desert-green-queen-notes": {
       "Key": "quest-brown-desert-green-queen-notes",
@@ -11437,11 +11437,11 @@ export default {
     },
     "quest-butting-heads-with-nature-description": {
       "Key": "quest-butting-heads-with-nature-description",
-      "Translation": "詛咒Kestodon！每一次我們出去收集樣本，這些惱人的生物敲我們前tushes！我希望他們能插手我們的研究！"
+      "Translation": "詛咒Kestodon！每一次我們出去收集樣本，這些惱人的生物敲我們前tushes！我希望他們能對接我們研究的了！"
     },
     "quest-butting-heads-with-nature-tips": {
       "Key": "quest-butting-heads-with-nature-tips",
-      "Translation": "從南營（1）啟動和頭部扇區1中發現1男2女Kestodon。 Revolture將回落在他們的屍體為食。然後前往第4區（可以找到牧羊犬野兔，Blissbill在路上）去下坡找男2例，女3例。你能趕上白天在水中的美食家金槍魚，也許是罕見的王馬林。然後穿過扇區3然後2到達扇區12和最後Kestodon基。您可以使用斯林格做出巨大的岩石懸落在他們。您可以在這個區域獲取Omenfly。"
+      "Translation": "從南營（1）啟動和頭部扇區1中發現1男2女Kestodon。 Revolture將回落在他們的屍體為食。然後前往第4區（可以找到牧羊犬野兔，Blissbill在路上）去下坡找男2例，女3例。你能趕上在水中的美食家金槍魚，也許白天難得王馬林。然後穿過扇區3然後2到達扇區12和最後Kestodon基。您可以使用斯林格做出巨大的岩石懸落在他們。您可以在這個區域獲取Omenfly。"
     },
     "quest-camp-crasher": {
       "Key": "quest-camp-crasher",
@@ -11449,7 +11449,7 @@ export default {
     },
     "quest-camp-crasher-description": {
       "Key": "quest-camp-crasher-description",
-      "Translation": "其他早上我研究者之一醒來那些偷竊庫魯 - 雅古的一個已經被偷走他的陣營。做點什麼它ransacks另一個營前！"
+      "Translation": "我研究的其他早上醒來一個由那些偷竊庫魯 - 雅古的一個已經被偷走他的陣營。做點什麼它ransacks另一個營前！"
     },
     "quest-camp-crasher-tips": {
       "Key": "quest-camp-crasher-tips",
@@ -11505,7 +11505,7 @@ export default {
     },
     "quest-chew-the-fat-description": {
       "Key": "quest-chew-the-fat-description",
-      "Translation": "喲，要給你一個任務，但不要擔心，這是對你的胡同。我們有一對夫婦大Jagras的需要被照顧。相信我，回報將是值得的。"
+      "Translation": "喲，有一個追求你，但不要擔心，這是對你的胡同。我們有一對夫婦大Jagras的需要被照顧。相信我，回報將是值得的。"
     },
     "quest-client": {
       "Key": "quest-client",
@@ -11625,7 +11625,7 @@ export default {
     },
     "quest-client-long-black-haired-hunter": {
       "Key": "quest-client-long-black-haired-hunter",
-      "Translation": "長長的黑頭髮的獵人"
+      "Translation": "長黑髮獵人"
     },
     "quest-client-lost-scholar": {
       "Key": "quest-client-lost-scholar",
@@ -11989,7 +11989,7 @@ export default {
     },
     "quest-dodogama-drama-tips": {
       "Key": "quest-dodogama-drama-tips",
-      "Translation": "Dodogama可以發現吃岩石行業7，8和9。它應該是用Blast第一怪物攻擊你在遊戲中遇到的，所以要小心。"
+      "Translation": "Dodogama可以發現吃岩石行業7，8和9。它應該是你在遊戲中遇到的第一個使用怪物爆的攻擊，所以要小心。"
     },
     "quest-effluvial-opera": {
       "Key": "quest-effluvial-opera",
@@ -12029,7 +12029,7 @@ export default {
     },
     "quest-exterminator-of-the-waste-tips": {
       "Key": "quest-exterminator-of-the-waste-tips",
-      "Translation": "從西南營開始（1），向東而停留在其南側，直到你達到扇9和一個小泥濘的區域。 Vespoid飛周圍的樹在這一領域中，使用斯林格殺死他們沒有，如果你需要的材料破壞他們的屍體。你可以在這裡等他們到周圍的2個孔重生或向北在山洞裡，採取導致Rathian窩在正確的道路，並殺死Vespoid。"
+      "Translation": "從西南營（1），向東而停留在其南側，直到你達到扇9和一個小泥濘的區域開始。 Vespoid飛周圍的樹在這一領域中，使用斯林格殺死他們沒有，如果你需要的材料破壞他們的屍體。你可以在這裡等他們重生或向北在山洞裡，採取引到Rathian巢和周圍的2個孔殺死Vespoid正確的道路。"
     },
     "quest-failure-barroth-is-slain": {
       "Key": "quest-failure-barroth-is-slain",
@@ -12045,11 +12045,11 @@ export default {
     },
     "quest-failure-faint-3-times": {
       "Key": "quest-failure-faint-3-times",
-      "Translation": "淡淡的3倍"
+      "Translation": "暈3倍"
     },
     "quest-failure-faint-9-times": {
       "Key": "quest-failure-faint-9-times",
-      "Translation": "淡淡的9倍"
+      "Translation": "暈9次"
     },
     "quest-failure-odogaron-is-slain": {
       "Key": "quest-failure-odogaron-is-slain",
@@ -12061,7 +12061,7 @@ export default {
     },
     "quest-flesh-cleaved-to-bone": {
       "Key": "quest-flesh-cleaved-to-bone",
-      "Translation": "果肉切割而骨"
+      "Translation": "肉切割而骨"
     },
     "quest-flesh-cleaved-to-bone-description": {
       "Key": "quest-flesh-cleaved-to-bone-description",
@@ -12073,7 +12073,7 @@ export default {
     },
     "quest-flying-sparks-tobi-kadachi-description": {
       "Key": "quest-flying-sparks-tobi-kadachi-description",
-      "Translation": "天啊！這托比 -  Kadachi肯定是越來越在我們前進的道路！你的獵人將永遠不會，如果我成為它的晚飯我做這些專業工具保持！"
+      "Translation": "天啊！這托比 -  Kadachi肯定是越來越在我們前進的道路！你的獵人永遠不會得到這些專門的工具，如果我成為它的晚飯我做一個持有！"
     },
     "quest-flying-sparks-tobi-kadachi-notable-rewards": {
       "Key": "quest-flying-sparks-tobi-kadachi-notable-rewards",
@@ -12081,11 +12081,11 @@ export default {
     },
     "quest-fungal-flexin-in-the-ancient-forest": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest",
-      "Translation": "在古林真菌Flexin“"
+      "Translation": "真菌Flexin“在古林"
     },
     "quest-fungal-flexin-in-the-ancient-forest-description": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-description",
-      "Translation": "補充？在我的食堂？ Pfft！我們都是有機的，寶貝！如果你需要維生素D，得到一些美食Shroomcaps！"
+      "Translation": "補充？在我的食堂？ Pfft！我們都是有機的，寶貝！如果你需要維生素d，得到一些美食Shroomcaps！"
     },
     "quest-fungal-flexin-in-the-ancient-forest-notable-rewards": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-notable-rewards",
@@ -12093,7 +12093,7 @@ export default {
     },
     "quest-fungal-flexin-in-the-ancient-forest-tips": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-tips",
-      "Translation": "從東北營（11）如果解鎖啟動或經過部門1> 3> 4，其中也有一些獨特的蘑菇殖民地去部門5。您可以在這一領域捕捉Paratoad，Flashfly，林場Pteryx，也許是難得的森林Pteryx。要小心的Anjanath和Pukei-Pukei，像在這一領域徘徊。月光下的蘑菇可以在此任務中產卵。從扇區5往北走，看看左邊的另一種獨特的蘑菇菌落在一個大的分支，導致你。按照分支並進入小洞北側為更多的蘑菇。您可以在這個洞穴趕Omenfly。"
+      "Translation": "如果解鎖東北營（11）開始或經過部門1> 3> 4，其中也有一些獨特的蘑菇殖民地去部門5。您可以在這一領域捕捉Paratoad，Flashfly，林場Pteryx，也許是難得的森林Pteryx。要小心的Anjanath和Pukei-Pukei，像在這一領域徘徊。月光下的蘑菇可以在此任務中產卵。從扇區5和外觀一直向北，左側為另一種獨特的蘑菇殖民地上的大樹枝，帶你了。按照分支並進入小洞北側為更多的蘑菇。您可以在這個洞穴趕Omenfly。"
     },
     "quest-gaze-upon-the-dawn": {
       "Key": "quest-gaze-upon-the-dawn",
@@ -12101,7 +12101,7 @@ export default {
     },
     "quest-gaze-upon-the-dawn-description": {
       "Key": "quest-gaze-upon-the-dawn-description",
-      "Translation": "每當我看到瑣拉Magdaros，我不禁感到悲傷，有點想家。讓我們完成了我們的研究，所以我可以回到舊世界，還要再見面我的主人和前隊友！"
+      "Translation": "每當我看到瑣拉Magdaros，我不禁感到悲傷，有點想家。讓我們結束了我們的研究，所以我可以回到舊世界，還要再見面我的主人和前隊友！"
     },
     "quest-gettin-yolked-in-the-forest": {
       "Key": "quest-gettin-yolked-in-the-forest",
@@ -12113,7 +12113,7 @@ export default {
     },
     "quest-gettin-yolked-in-the-forest-tips": {
       "Key": "quest-gettin-yolked-in-the-forest-tips",
-      "Translation": "從遠古森林營（17）開始，並確保您有吉利的地幔下面南部路徑，Rathian巢（臨轉運人員可來方便太多），頭16扇區一路上漲。把吉利地幔上挑飛龍蛋，你不能與卵子的分支下通過這樣下去西坡（你可以放心地滑下），並尋找北側出口，然後就回去營地，重複一次。如果你足夠快，你可以逃脫不吉利地幔Rathian，該Rathian不能跟著你到部門17。"
+      "Translation": "從開始古林營（17），並確保你有吉利地幔（臨轉運人員可來方便太多），頭部為Rathian巢都按照南方路一路上揚的部門16。把吉利地幔上挑飛龍蛋，你不能與卵子的分支下通過這樣下去西坡（你可以放心地滑下），尋找北側出口，然後就回去營地，重複一次。如果你足夠快，你可以逃脫的Rathian不吉利地幔中，Rathian不能跟著你到部門17。"
     },
     "quest-gettin-yolked-in-the-waste": {
       "Key": "quest-gettin-yolked-in-the-waste",
@@ -12125,7 +12125,7 @@ export default {
     },
     "quest-gettin-yolked-in-the-waste-tips": {
       "Key": "quest-gettin-yolked-in-the-waste-tips",
-      "Translation": "使吉利地幔（臨轉運人員可來方便太多），西南營（1）開始，向東找到草食動物窩。把吉利地幔上挑雞蛋一個，把它帶回了營地。在吉利地幔讓這個怪物將不會跟隨你，盡量讓你放下雞蛋。只是管理你的耐力作為打0會讓你放棄它。你可以滾，衝刺並與對象攀升，但在小通道不蹲"
+      "Translation": "使吉利地幔（臨轉運人員可來方便太多），西南營（1），向東開始找到草食動物窩。把吉利地幔上挑雞蛋一個，把它帶回了營地。在吉利地幔讓這個怪物將不會跟隨你，盡量讓你放下雞蛋。只是管理你的耐力作為打0會讓你放棄它。你可以滾，衝刺並與對象攀升，但在小通道不是蜷縮"
     },
     "quest-gone-in-a-flash": {
       "Key": "quest-gone-in-a-flash",
@@ -12181,7 +12181,7 @@ export default {
     },
     "quest-he-taketh-it-with-his-eyes-description": {
       "Key": "quest-he-taketh-it-with-his-eyes-description",
-      "Translation": "這是一個巨獸，一個Eorzean獸，在長輩的凹槽中。聽取莫古利的建議，對其他值得信賴的亨特呼籲 - 冒險家，以幫助平息這種恐怖！"
+      "Translation": "這是一個巨獸，一個Eorzean獸，在長輩的凹槽中。聽取莫古利的建議，對其他值得信賴的亨特呼籲 - 冒險家幫助平息這種恐怖！"
     },
     "quest-hellfires-stronghold": {
       "Key": "quest-hellfires-stronghold",
@@ -12205,7 +12205,7 @@ export default {
     },
     "quest-horned-tyrant-below-the-sands-description": {
       "Key": "quest-horned-tyrant-below-the-sands-description",
-      "Translation": "第一Wyverian不是要溢出約瑣拉豆，直到我們站在食物鏈的最頂端。這意味著我們得尋找我們Diablo的！ ......這是否意味著我們必須吃它嗎？"
+      "Translation": "第一Wyverian不是直到我們站在食物鏈的最頂端會波及約瑣拉豆。這意味著我們得尋找我們Diablo的！ ......我們這是否意味著有吃它嗎？"
     },
     "quest-infernal-monarchy": {
       "Key": "quest-infernal-monarchy",
@@ -12213,7 +12213,7 @@ export default {
     },
     "quest-infernal-monarchy-description": {
       "Key": "quest-infernal-monarchy-description",
-      "Translation": "我不知道怎麼回事，但我們必須遵守的Wildspire廢物Teostra和Lunastra行為的機會！這是我們不能錯過！去親身體驗一下，但不要受傷！"
+      "Translation": "我不知道怎麼回事，但我們必須遵守的Wildspire廢物Teostra和Lunastra行為的機會！這是我們不能錯過！去看看自己，但不要受傷！"
     },
     "quest-into-the-bowels-of-the-vale": {
       "Key": "quest-into-the-bowels-of-the-vale",
@@ -12229,7 +12229,7 @@ export default {
     },
     "quest-invader-in-the-waste-description": {
       "Key": "quest-invader-in-the-waste-description",
-      "Translation": "一個Pukei-Pukei在Wildspire廢物！？如果這不是已經怪異的是，這一次的格外艱難。我們得去的這條底線！要小心，合作夥伴！"
+      "Translation": "一個Pukei-Pukei在Wildspire廢物！？如果這已經是不奇怪的是，這一次的格外艱難。我們得去的這條底線！要小心，合作夥伴！"
     },
     "quest-it-cant-see-you-if-you-dont-move": {
       "Key": "quest-it-cant-see-you-if-you-dont-move",
@@ -12237,7 +12237,7 @@ export default {
     },
     "quest-it-cant-see-you-if-you-dont-move-description": {
       "Key": "quest-it-cant-see-you-if-you-dont-move-description",
-      "Translation": "我們已經得到了出現在古林一個不同尋常的強大Anjanath的令人不安的報告。開始你的調查盡快，但要注意其火熱的攻擊！"
+      "Translation": "我們已經得到了出現在古林一個不同尋常的強大Anjanath的一個令人不安的報告。開始你的調查盡快，但要注意其火熱的攻擊！"
     },
     "quest-it-cant-see-you-if-you-dont-move-notes": {
       "Key": "quest-it-cant-see-you-if-you-dont-move-notes",
@@ -12257,7 +12257,7 @@ export default {
     },
     "quest-its-a-crying-shamos-tips": {
       "Key": "quest-its-a-crying-shamos-tips",
-      "Translation": "從南營（1），向東開始，然後遇到的所有目標下的路徑。"
+      "Translation": "南營（1），向東開始，並按照較低的路徑遇到的所有目標。"
     },
     "quest-jagras-of-the-ancient-forest": {
       "Key": "quest-jagras-of-the-ancient-forest",
@@ -12265,7 +12265,7 @@ export default {
     },
     "quest-jagras-of-the-ancient-forest-description": {
       "Key": "quest-jagras-of-the-ancient-forest-description",
-      "Translation": "瑣拉Magdaros的外觀帶來了當地生態系統的變化。一頭扎進Jagras境內進行調查，並在必要時帶他們出去。"
+      "Translation": "瑣拉Magdaros的外觀帶來了當地生態系統的變化。頭到Jagras境內進行調查，並在必要時帶他們出去。"
     },
     "quest-keep-your-hands-to-yourself": {
       "Key": "quest-keep-your-hands-to-yourself",
@@ -12273,7 +12273,7 @@ export default {
     },
     "quest-keep-your-hands-to-yourself-description": {
       "Key": "quest-keep-your-hands-to-yourself-description",
-      "Translation": "我們已經得到了一個不同尋常的強大庫魯 - 雅古的漫遊Wildspire浪費了令人不安的報告。開始你的調查盡快，但要注意其巧妙的攻擊！"
+      "Translation": "我們已經得到了一個不同尋常的強大庫魯 - 雅古的漫遊Wildspire廢物一個令人不安的報告。開始你的調查盡快，但要注意其巧妙的攻擊！"
     },
     "quest-keep-your-hands-to-yourself-notes": {
       "Key": "quest-keep-your-hands-to-yourself-notes",
@@ -12309,7 +12309,7 @@ export default {
     },
     "quest-kushala-daora-dragon-of-steel-description": {
       "Key": "quest-kushala-daora-dragon-of-steel-description",
-      "Translation": "在森林裡的長輩龍曲目？ Kushala Daora。我敢肯定。我們知道這是在長輩的凹槽中。對於每個人在紫苑的安全，我們就指望你了！"
+      "Translation": "在森林裡的長輩龍曲目？ Kushala Daora。我敢肯定。我們知道這是在長輩的凹槽中。對於大家在紫苑的安全，我們就指望你了！"
     },
     "quest-land-of-convergence": {
       "Key": "quest-land-of-convergence",
@@ -12325,11 +12325,11 @@ export default {
     },
     "quest-landing-the-landslide-wyvern-description": {
       "Key": "quest-landing-the-landslide-wyvern-description",
-      "Translation": "Barroth住在Wildspire廢物的沼澤，但他們的活動，飲食和生活習慣築巢的細節仍然不明。抓住一個幫助在這個問題上闡明。"
+      "Translation": "Barroth住在Wildspire廢物的沼澤，但他們的活動，飲食和生活習慣築巢的細節仍然不明。抓人幫助闡明了這個問題。"
     },
     "quest-landing-the-landslide-wyvern-tips": {
       "Key": "quest-landing-the-landslide-wyvern-tips",
-      "Translation": "非常相似沿用了石塔，但你需要捕捉目標。從中央營開始（6），尋找它的部門和戰鬥，直到它一瘸一拐朝區段9出逃既然你不能把衝擊陷阱在水和Barroth可以摧毀泥，放陷阱附近的圓形仙人掌這裡吸引了。它可以幫助使用幾個Tr​​anq炸彈，而怪物睡著了。如果這是你第一次捕捉Barroth，你會解鎖特殊競技場：Barroth可選任務。"
+      "Translation": "非常相似沿用了石塔，但你需要捕捉目標。開始從中央營（6），尋找它的部門和鬥爭，直到它一瘸一拐朝區段9出逃既然你不能把衝擊陷阱在水和Barroth可以摧毀泥，放陷阱附近的圓形仙人掌這裡吸引了。它可以幫助使用幾個Tr​​anq炸彈，而怪物睡著了。如果這是你第一次捕捉Barroth，你會解鎖特殊競技場：Barroth可選任務。"
     },
     "quest-lavasioth-monster-of-magma": {
       "Key": "quest-lavasioth-monster-of-magma",
@@ -12345,11 +12345,11 @@ export default {
     },
     "quest-left-quite-the-impression-description": {
       "Key": "quest-left-quite-the-impression-description",
-      "Translation": "不瑣拉Magdaros的符號讓你的心臟停止跳動？我向你保證，看到它的秤收起來是一樣威風。這是我們必須進行更多的研究它。"
+      "Translation": "不瑣拉Magdaros的符號讓你的心臟停止跳動？我向你保證，靠近看到它的規模起來是一樣威風。這是我們必須進行更多的研究它。"
     },
     "quest-left-quite-the-impression-notes": {
       "Key": "quest-left-quite-the-impression-notes",
-      "Translation": "這是你完成了分配關係國計民生的大事後出現一個可選的任務，並允許您以務農瑣拉Magdaros材料。看樣子你完成任何任務或調查（更通常較高的排名）後隨機。然而，你會得到一張紙條，上面的任務是可用的。只有兩個任務的時間內有效。此後，它再次消失。"
+      "Translation": "這是你完成了分配關係國計民生的大事後出現一個可選的任務，並允許您農場瑣拉Magdaros材料。看樣子你完成任何任務或調查（更通常較高的排名）後隨機。然而，你會得到一張紙條，上面的任務是可用的。只有兩個任務的時間內有效。此後，它再次消失。"
     },
     "quest-legiana-embodiment-of-elegance": {
       "Key": "quest-legiana-embodiment-of-elegance",
@@ -12357,7 +12357,7 @@ export default {
     },
     "quest-legiana-embodiment-of-elegance-description": {
       "Key": "quest-legiana-embodiment-of-elegance-description",
-      "Translation": "你已經知道我是怎麼想的是無法忍受的生物。只要控制在高原的天空，我們就永遠不能讓我們的血統。不要照顧它，不是嗎？"
+      "Translation": "你已經知道我是怎麼想的是無法忍受的生物。只要控制在高原的天空，我們就永遠不能讓我們的血統。難道照顧它，不是嗎？"
     },
     "quest-legiana-highlands-royalty": {
       "Key": "quest-legiana-highlands-royalty",
@@ -12417,7 +12417,7 @@ export default {
     },
     "quest-mans-best-fiend-description": {
       "Key": "quest-mans-best-fiend-description",
-      "Translation": "我真的很想念我的舊寵物。天，我們花了去公園，打取。我渴望的是陪伴......說忠誠。請走出去，找到了我一個新的。"
+      "Translation": "我真的很想念我的舊寵物。我們花了去公園的日子，玩接球。我渴望的是陪伴......說忠誠。請走出去，找到了我一個新的。"
     },
     "quest-mans-best-fiend-tips": {
       "Key": "quest-mans-best-fiend-tips",
@@ -12437,7 +12437,7 @@ export default {
     },
     "quest-midnight-mayhem-description": {
       "Key": "quest-midnight-mayhem-description",
-      "Translation": "赫克，我是失去了什麼？我不認識這個地方。噢，我可能也有一些基金，而我在這裡！ （由Lynian研究員翻譯）（特價機票獎勵）"
+      "Translation": "赫克，我是不是失去了什麼？我不認識這個地方。噢，我可能也有一些基金，而我在這裡！ （由Lynian研究員翻譯）（特價機票獎勵）"
     },
     "quest-minutes": {
       "Key": "quest-minutes",
@@ -12453,7 +12453,7 @@ export default {
     },
     "quest-mired-in-the-spire-tips": {
       "Key": "quest-mired-in-the-spire-tips",
-      "Translation": "從中央北營開始（6），（美食家金槍魚可以在訓練營中）頭和目標應該是圍繞Kestodon。它應該向部門8逃離，你可以嘗試使用幻燈片/跳躍攻擊安裝它。它會向部門7逃到更新其身上的泥。當它開始變得太弱，它會朝著逃跑扇9和覆蓋自己在泥。在這一地區的戰鬥時，不要低估你的動作，淨水效果。它也不可能把衝擊陷阱在深水中。"
+      "Translation": "從中央營（6），向北（美食家金槍魚可以在營地中找到）和目標應該是圍繞Kestodon啟動。它應該向部門8逃離，你可以嘗試使用幻燈片/跳躍攻擊安裝它。它會向部門7逃到更新其身上的泥。當它開始變得太弱，它會朝著逃跑扇9和覆蓋自己在泥。在這一地區的戰鬥時，不要低估你的動作，淨水效果。它也不可能把衝擊陷阱在深水中。"
     },
     "quest-new-world-sky-new-world-flower": {
       "Key": "quest-new-world-sky-new-world-flower",
@@ -12461,7 +12461,7 @@ export default {
     },
     "quest-new-world-sky-new-world-flower-conditions": {
       "Key": "quest-new-world-sky-new-world-flower-conditions",
-      "Translation": "亨特7不同回火怪物（威脅級別2）解鎖"
+      "Translation": "亨特7不同回火怪物（威脅級別2）至解鎖"
     },
     "quest-new-world-sky-new-world-flower-description": {
       "Key": "quest-new-world-sky-new-world-flower-description",
@@ -12477,7 +12477,7 @@ export default {
     },
     "quest-no-remorse-no-surrender-description": {
       "Key": "quest-no-remorse-no-surrender-description",
-      "Translation": "我從來沒有想過我會活著看到兩個皇帝和他在一個地方女皇。你必須結束其統治的榮譽，這只是配件。"
+      "Translation": "我從來沒有想過我會活著看到兩個皇帝和他在一個地方女皇。它理所當然，你必須結束其統治的榮譽。"
     },
     "quest-no-tomorrow-for-usurpers": {
       "Key": "quest-no-tomorrow-for-usurpers",
@@ -12485,7 +12485,7 @@ export default {
     },
     "quest-no-tomorrow-for-usurpers-description": {
       "Key": "quest-no-tomorrow-for-usurpers-description",
-      "Translation": "我們的球員發現，在長輩的凹槽大，醜陋飛擾！讓您的齒輪，我們需要你在這裡盡快！ （獎勵HR點完成後獎勵。）"
+      "Translation": "我們的球員看準長輩的凹槽那麼大，醜飛擾！讓您的齒輪，我們需要你在這裡盡快！ （獎勵HR點完成後獎勵。）"
     },
     "quest-notable-rewards": {
       "Key": "quest-notable-rewards",
@@ -12573,7 +12573,7 @@ export default {
     },
     "quest-objective-guide-zorah-magdaros": {
       "Key": "quest-objective-guide-zorah-magdaros",
-      "Translation": "引導瑣拉Magdaros"
+      "Translation": "指南瑣拉Magdaros"
     },
     "quest-objective-hunt-13-shamos": {
       "Key": "quest-objective-hunt-13-shamos",
@@ -12781,7 +12781,7 @@ export default {
     },
     "quest-objective-slay-a-kirin-tempered": {
       "Key": "quest-objective-slay-a-kirin-tempered",
-      "Translation": "必殺一個麒麟（回火）"
+      "Translation": "殺一個麒麟（回火）"
     },
     "quest-objective-slay-a-kulu-ya-ku": {
       "Key": "quest-objective-slay-a-kulu-ya-ku",
@@ -12873,7 +12873,7 @@ export default {
     },
     "quest-old-monster-in-the-new-world-description": {
       "Key": "quest-old-monster-in-the-new-world-description",
-      "Translation": "我們終於找到了那些神秘曲目的來源。報告，珊瑚高地和找到它！它會盡快大功告成期待你的報告！"
+      "Translation": "我們終於找到了那些神秘曲目的來源。報告珊瑚高地和找到它！它會盡快大功告成期待你的報告！"
     },
     "quest-on-nightmares-wings": {
       "Key": "quest-on-nightmares-wings",
@@ -12881,11 +12881,11 @@ export default {
     },
     "quest-on-nightmares-wings-description": {
       "Key": "quest-on-nightmares-wings-description",
-      "Translation": "在此間舉行的第二艦隊，我們一直在努力開發新的工具來幫助你rhunts，但我們需要你的幫助收集材料。我們就指望你把這個任務！"
+      "Translation": "在此間舉行的第二艦隊，我們一直在努力開發新的工具給你rhunts幫助，但我們需要你的幫助收集材料。我們就指望你把這個任務！"
     },
     "quest-on-nightmares-wings-tips": {
       "Key": "quest-on-nightmares-wings-tips",
-      "Translation": "這個任務有你處理脫髮，永久的大面積損壞處理氣體。雖然這聽起來很煩人，你可以用惡臭的專家技能，在Hornetaur郵件胸甲發現，這是很容易的工藝忽略它。（Girros線圈也有這個技能）的目標是飛來飛去第二級在部門6,7和9。"
+      "Translation": "這個任務有你處理脫髮，永久的大面積破壞交易的氣體。雖然這聽起來很煩人，你可以用惡臭的專家技能，在Hornetaur郵件胸甲發現，這是很容易的工藝忽略它。（Girros線圈也有這個技能）的目標是圍繞第二級飛行部門6,7和9。"
     },
     "quest-one-for-the-history-books": {
       "Key": "quest-one-for-the-history-books",
@@ -12893,7 +12893,7 @@ export default {
     },
     "quest-one-for-the-history-books-description": {
       "Key": "quest-one-for-the-history-books-description",
-      "Translation": "天亮了，我們會嘗試什麼在歷史上還沒有人敢：捕捉真龍！讓你的準備工作，並繼續到現場。願藍寶石之星引導我們。"
+      "Translation": "天亮了，我們會嘗試什麼沒有人在歷史上一直沒敢：捕捉真龍！讓你的準備工作，並繼續到現場。願藍寶石之星引導我們。"
     },
     "quest-one-helluva-sinus-infection": {
       "Key": "quest-one-helluva-sinus-infection",
@@ -12905,7 +12905,7 @@ export default {
     },
     "quest-one-helluva-sinus-infection-tips": {
       "Key": "quest-one-helluva-sinus-infection-tips",
-      "Translation": "從東北營（11）開始，將目標從地圖北部來到部門5。基本Anjanath追捕。"
+      "Translation": "開始從東北營（11），目標從地圖北部來到部門5。基本Anjanath追捕。"
     },
     "quest-ore-eating-occupier": {
       "Key": "quest-ore-eating-occupier",
@@ -12925,7 +12925,7 @@ export default {
     },
     "quest-pandoras-arena-description": {
       "Key": "quest-pandoras-arena-description",
-      "Translation": "有一種說法大約有角的動物，塞給我心中 - 無論哪種方式，還有的受傷Teostra在特別競技場搶下。有什麼地方了吧。你去看看，嗯？"
+      "Translation": "有一種說法有關塞給我介意走投無路的動物 - 無論哪種方式，還有的受傷Teostra在特別競技場搶下。有什麼地方了吧。你去看看，嗯？"
     },
     "quest-persistent-pests": {
       "Key": "quest-persistent-pests",
@@ -12933,11 +12933,11 @@ export default {
     },
     "quest-persistent-pests-description": {
       "Key": "quest-persistent-pests-description",
-      "Translation": "有一個點，我一定隱藏的秘密新古樹的生長，但它與Hornetaurs出沒！ *解鎖上首次完成一個植物學研究插槽。"
+      "Translation": "有一個點，我一定皮張的秘密新古樹的生長，但它與Hornetaurs出沒！ *解鎖上首次完成一個植物學研究插槽。"
     },
     "quest-persistent-pests-tips": {
       "Key": "quest-persistent-pests-tips",
-      "Translation": "從東南營開始（1），向西找到扇區3第一組爬上藤蔓和北上在第4區發現了大量的人，從血池幾重生。 （您可以在這個區域獲取Scavantula，確保不驚嚇他們）"
+      "Translation": "從東南營（1），向西開始尋找在行業第一組3爬上藤蔓和北上在第4區發現了大量的人，從血池幾重生。 （您可以在這個區域獲取Scavantula，確保不驚嚇他們）"
     },
     "quest-pretty-in-pink": {
       "Key": "quest-pretty-in-pink",
@@ -12965,7 +12965,7 @@ export default {
     },
     "quest-prickly-predicament-tips": {
       "Key": "quest-prickly-predicament-tips",
-      "Translation": "從中央營（6）直接攀上留在外面的葡萄和北上找到3回合仙人掌，還有一個是北部的岩石橋樑和仙人掌填充平台的另一個東邊。 （一Diablo的喜歡四處流浪部門6）從西南營（1），去東南方找一個圓形仙人掌然後頭扇9的南段再弄一個。最後，3個或4個刷新點可以在岩石頂上只是在部門10湖中發現之前。"
+      "Translation": "從中央營（6）直接爬上左邊外面的葡萄和北上找到3回合仙人掌，還有一個是北部的岩石橋樑和仙人掌填充平台的另一個東邊。 （像Diablo的四處流浪部門6）從西南營（1），去東南方找一個圓形仙人掌然後頭扇9的南段再弄一個。最後，3個或4個刷新點可以在岩石頂上只是在部門10湖中發現之前。"
     },
     "quest-pukei-pukei-ambush": {
       "Key": "quest-pukei-pukei-ambush",
@@ -12973,7 +12973,7 @@ export default {
     },
     "quest-pukei-pukei-ambush-description": {
       "Key": "quest-pukei-pukei-ambush-description",
-      "Translation": "在生態系統中的一個主要變化是駕車從他們的自然棲息地的怪物。頭向Wildspire廢物和盡快開始你的入侵Pukei-Pukei的調查！"
+      "Translation": "在生態系統中的一個主要變化是駕車從他們的自然棲息地的怪物。團長Wildspire廢物和盡快開始你的入侵Pukei-Pukei的調查！"
     },
     "quest-pukei-pukei-ambush-notes": {
       "Key": "quest-pukei-pukei-ambush-notes",
@@ -13009,7 +13009,7 @@ export default {
     },
     "quest-rathalos-rematch-description": {
       "Key": "quest-rathalos-rematch-description",
-      "Translation": "我們已經得到了在古林的另一個不尋常的強大Rathian的令人不安的報告。讓那紅色的野獸知道誰真正站在這裡的食物鏈的頂部！"
+      "Translation": "我們已經得到了在古林的另一個不尋常的強大Rathian的一個令人不安的報告。讓紅色野獸知道誰真正站在這裡的食物鏈的頂部！"
     },
     "quest-rathalos-rematch-notes": {
       "Key": "quest-rathalos-rematch-notes",
@@ -13057,11 +13057,11 @@ export default {
     },
     "quest-royal-relocation-description": {
       "Key": "quest-royal-relocation-description",
-      "Translation": "我需要進一步麻古樹研究的樣本是正確的下Rathian的巢。也許你可以將它給我嗎？"
+      "Translation": "我需要進一步麻古樹研究的樣品是一個Rathian巢之下的權利。也許你可以將它給我嗎？"
     },
     "quest-royal-relocation-tips": {
       "Key": "quest-royal-relocation-tips",
-      "Translation": "不要用毒藥保護打擾，如果你不能完全阻止它，只是把解毒劑與你使用的防火設備。從西南營開始（1），向北進入扇區2森林尋找目標。 Rathian是，儘管在部門3的毒攻擊，因此Poisoncup可以用來仍然容易受到毒害。它的巢是在地圖的另一邊在部門12，迅遊東方營（11）和水後爬上藤蔓。"
+      "Translation": "不要用毒藥保護打擾，如果你不能完全阻止它，只是把解毒劑與你使用的防火設備。從西南營（1），向北開始進入該行業2森林尋找目標。 Rathian是，儘管在部門3的毒攻擊，因此Poisoncup可以用來仍然容易受到毒害。它的巢是在地圖的另一邊在部門12，迅遊東方營（11）和水後爬上藤蔓。"
     },
     "quest-rrrrrumble-in-the-waste": {
       "Key": "quest-rrrrrumble-in-the-waste",
@@ -13081,7 +13081,7 @@ export default {
     },
     "quest-rrrrrumble-in-the-waste-notes": {
       "Key": "quest-rrrrrumble-in-the-waste-notes",
-      "Translation": "任務鏈：刺痛的味道，碩士吐司交付，以自己的方式卡住，一場大火噴湧BREW傳送，瘡網站，RRRRRumble的浪費！高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。亞種分享他們的大部分對手的性狀，但一般都比較激進，或使用不同的戰術。"
+      "Translation": "任務鏈：刺痛的味道，大師的麵包送貨，停留在他們的方式，一場大火噴湧BREW傳送，瘡網站，RRRRRumble的浪費！高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。亞種分享他們的大部分對手的性狀，但一般都比較激進，或使用不同的戰術。"
     },
     "quest-ruler-of-the-azure-skies": {
       "Key": "quest-ruler-of-the-azure-skies",
@@ -13113,7 +13113,7 @@ export default {
     },
     "quest-scatternut-shortage-description": {
       "Key": "quest-scatternut-shortage-description",
-      "Translation": "一個Pukei-Pukei一定表現，因為它越來越難以收集scatternuts！我們不能學習theem如果我們能夠收集的唯一標本都屬於毒！"
+      "Translation": "一個Pukei-Pukei一定表現，因為它越來越難以收集scatternuts！我們不能學習theem如果只標本，我們可以收集覆蓋的毒！"
     },
     "quest-scrapping-with-the-shamos": {
       "Key": "quest-scrapping-with-the-shamos",
@@ -13121,7 +13121,7 @@ export default {
     },
     "quest-scrapping-with-the-shamos-description": {
       "Key": "quest-scrapping-with-the-shamos-description",
-      "Translation": "我越來越轟炸正確的東西請求離開N'我穿，但我會需要一些特殊的材料，以滿足需求。這是你的提示，獵人。你知道該做什麼。"
+      "Translation": "我越來越轟炸留下的請求N'適合我穿的東西，但我會需要一些特殊的材料，以滿足需求。這是你的提示，獵人。你知道該做什麼。"
     },
     "quest-scratching-the-itch": {
       "Key": "quest-scratching-the-itch",
@@ -13129,7 +13129,7 @@ export default {
     },
     "quest-scratching-the-itch-description": {
       "Key": "quest-scratching-the-itch-description",
-      "Translation": "今天早上，我醒來了輝煌的頓悟！我有東西一整天後，每一個獵人需要在外地... Odogaron backscratchers的想法！"
+      "Translation": "今天早上，我醒來了輝煌的頓悟！我有一個想法，什麼東西一整天後，每一個獵人需要在外地... Odogaron backscratchers！"
     },
     "quest-showdown-the-muck-and-the-maul": {
       "Key": "quest-showdown-the-muck-and-the-maul",
@@ -13137,7 +13137,7 @@ export default {
     },
     "quest-showdown-the-muck-and-the-maul-conditions": {
       "Key": "quest-showdown-the-muck-and-the-maul-conditions",
-      "Translation": "亨特5不同回火怪物（威脅級別1到解鎖）"
+      "Translation": "亨特5不同回火怪物（威脅等級1至解鎖）"
     },
     "quest-showdown-the-muck-and-the-maul-description": {
       "Key": "quest-showdown-the-muck-and-the-maul-description",
@@ -13149,11 +13149,11 @@ export default {
     },
     "quest-sinister-shadows-in-the-swamp": {
       "Key": "quest-sinister-shadows-in-the-swamp",
-      "Translation": "在沼澤邪惡陰影"
+      "Translation": "險惡的陰影在沼澤"
     },
     "quest-sinister-shadows-in-the-swamp-description": {
       "Key": "quest-sinister-shadows-in-the-swamp-description",
-      "Translation": "一位年輕的學者已經得到了他在Wildspire廢物護送出分離。找到他，他護送回基地。中和構成威脅的任何大怪物。"
+      "Translation": "一位年輕的學者已經得到了他的護送分離出來的Wildspire廢物。找到他，他護送回基地。中和構成威脅的任何大怪物。"
     },
     "quest-snatch-the-snatcher": {
       "Key": "quest-snatch-the-snatcher",
@@ -13165,7 +13165,7 @@ export default {
     },
     "quest-snatch-the-snatcher-tips": {
       "Key": "quest-snatch-the-snatcher-tips",
-      "Translation": "從西南營開始（1），以EZ Tranq炸彈和EZ衝擊陷阱在電源盒然後去東部和北部的部門4.將目標從北方來的到來，戰鬥，直到它開始跛行或有骷髏圖標閃爍的小地圖上。它會逃離自己的窩吃一個雞蛋，使用2個或3 EZ Tranq炸彈上它，而它吃那麼使用EZ衝擊陷阱捕捉到它。"
+      "Translation": "從西南營（1）開始，您可以在電源盒的EZ Tranq炸彈和EZ衝擊陷阱然後去東部和北部的部門4.將目標從北方來的到來，戰鬥，直到它開始跛行或有骷髏圖標閃爍的小地圖上。它會逃離自己的窩吃一個雞蛋，使用2個或3 EZ Tranq炸彈上它，而它吃那麼使用EZ衝擊陷阱捕捉到它。"
     },
     "quest-snow-cherry-blossoms": {
       "Key": "quest-snow-cherry-blossoms",
@@ -13185,7 +13185,7 @@ export default {
     },
     "quest-sorry-youre-not-invited-tips": {
       "Key": "quest-sorry-youre-not-invited-tips",
-      "Translation": "南營（1），頭西北部在隨後扇區3 9 5開始，如果你不能找到目標，它會成為行業8的鬥爭可以在某些時候，移動到部門4其中藍色地面濕軟。該Paolumu可以踩住地面，並創建一個衝擊波，讓你失去你的立足點幾秒鐘，但驚艷Paolumu該區域上方必竟是陷害他有一個良好的時間。它的巢穴是在扇9，巨型結構裡面，它會經常飛來飛去的區域，只是等待它回來。"
+      "Translation": "南營（1），頭西北部在隨後扇區3 9 5開始，如果你不能找到目標，它會成為行業8的鬥爭可以在某些時候，其中藍色移到部門4地面濕軟。該Paolumu可以踩住地面，並創建一個衝擊波，讓你失去你的立足點幾秒鐘，但驚艷Paolumu該區域上方將實際陷害他的時間好量。它的巢穴是在扇9，巨型結構裡面，它會經常飛來飛去的區域，只是等待它回來。"
     },
     "quest-special-arena-anjanath": {
       "Key": "quest-special-arena-anjanath",
@@ -13193,7 +13193,7 @@ export default {
     },
     "quest-special-arena-anjanath-tips": {
       "Key": "quest-special-arena-anjanath-tips",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-barroth": {
       "Key": "quest-special-arena-barroth",
@@ -13205,7 +13205,7 @@ export default {
     },
     "quest-special-arena-barroth-tips": {
       "Key": "quest-special-arena-barroth-tips",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-diablos": {
       "Key": "quest-special-arena-diablos",
@@ -13217,7 +13217,7 @@ export default {
     },
     "quest-special-arena-diablos-tips": {
       "Key": "quest-special-arena-diablos-tips",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-hr-anjanath": {
       "Key": "quest-special-arena-hr-anjanath",
@@ -13225,7 +13225,7 @@ export default {
     },
     "quest-special-arena-hr-anjanath-notes": {
       "Key": "quest-special-arena-hr-anjanath-notes",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-hr-azure-rathalos": {
       "Key": "quest-special-arena-hr-azure-rathalos",
@@ -13233,7 +13233,7 @@ export default {
     },
     "quest-special-arena-hr-azure-rathalos-notes": {
       "Key": "quest-special-arena-hr-azure-rathalos-notes",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-hr-barroth": {
       "Key": "quest-special-arena-hr-barroth",
@@ -13241,7 +13241,7 @@ export default {
     },
     "quest-special-arena-hr-barroth-notes": {
       "Key": "quest-special-arena-hr-barroth-notes",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-hr-black-diablos": {
       "Key": "quest-special-arena-hr-black-diablos",
@@ -13249,7 +13249,7 @@ export default {
     },
     "quest-special-arena-hr-black-diablos-notes": {
       "Key": "quest-special-arena-hr-black-diablos-notes",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-hr-diablos": {
       "Key": "quest-special-arena-hr-diablos",
@@ -13257,7 +13257,7 @@ export default {
     },
     "quest-special-arena-hr-diablos-notes": {
       "Key": "quest-special-arena-hr-diablos-notes",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-hr-legiana": {
       "Key": "quest-special-arena-hr-legiana",
@@ -13265,7 +13265,7 @@ export default {
     },
     "quest-special-arena-hr-legiana-notes": {
       "Key": "quest-special-arena-hr-legiana-notes",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-hr-odogaron": {
       "Key": "quest-special-arena-hr-odogaron",
@@ -13273,7 +13273,7 @@ export default {
     },
     "quest-special-arena-hr-odogaron-notes": {
       "Key": "quest-special-arena-hr-odogaron-notes",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-hr-paolumu": {
       "Key": "quest-special-arena-hr-paolumu",
@@ -13281,7 +13281,7 @@ export default {
     },
     "quest-special-arena-hr-paolumu-notes": {
       "Key": "quest-special-arena-hr-paolumu-notes",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-hr-pink-rathian": {
       "Key": "quest-special-arena-hr-pink-rathian",
@@ -13293,7 +13293,7 @@ export default {
     },
     "quest-special-arena-hr-pukei-pukei-notes": {
       "Key": "quest-special-arena-hr-pukei-pukei-notes",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-hr-radobaan": {
       "Key": "quest-special-arena-hr-radobaan",
@@ -13301,7 +13301,7 @@ export default {
     },
     "quest-special-arena-hr-radobaan-notes": {
       "Key": "quest-special-arena-hr-radobaan-notes",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-hr-rathalos": {
       "Key": "quest-special-arena-hr-rathalos",
@@ -13313,7 +13313,7 @@ export default {
     },
     "quest-special-arena-hr-rathalos-notes": {
       "Key": "quest-special-arena-hr-rathalos-notes",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-hr-rathian": {
       "Key": "quest-special-arena-hr-rathian",
@@ -13321,7 +13321,7 @@ export default {
     },
     "quest-special-arena-hr-rathian-notes": {
       "Key": "quest-special-arena-hr-rathian-notes",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-hr-tobi-kadachi": {
       "Key": "quest-special-arena-hr-tobi-kadachi",
@@ -13329,7 +13329,7 @@ export default {
     },
     "quest-special-arena-hr-tobi-kadachi-notes": {
       "Key": "quest-special-arena-hr-tobi-kadachi-notes",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-hr-uragaan": {
       "Key": "quest-special-arena-hr-uragaan",
@@ -13337,7 +13337,7 @@ export default {
     },
     "quest-special-arena-hr-uragaan-notes": {
       "Key": "quest-special-arena-hr-uragaan-notes",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-legiana": {
       "Key": "quest-special-arena-legiana",
@@ -13345,7 +13345,7 @@ export default {
     },
     "quest-special-arena-legiana-tips": {
       "Key": "quest-special-arena-legiana-tips",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-odogaron": {
       "Key": "quest-special-arena-odogaron",
@@ -13353,7 +13353,7 @@ export default {
     },
     "quest-special-arena-odogaron-tips": {
       "Key": "quest-special-arena-odogaron-tips",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-paolumu": {
       "Key": "quest-special-arena-paolumu",
@@ -13365,7 +13365,7 @@ export default {
     },
     "quest-special-arena-paolumu-tips": {
       "Key": "quest-special-arena-paolumu-tips",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-pukei-pukei": {
       "Key": "quest-special-arena-pukei-pukei",
@@ -13373,7 +13373,7 @@ export default {
     },
     "quest-special-arena-pukei-pukei-tips": {
       "Key": "quest-special-arena-pukei-pukei-tips",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-radobaan": {
       "Key": "quest-special-arena-radobaan",
@@ -13381,7 +13381,7 @@ export default {
     },
     "quest-special-arena-radobaan-tips": {
       "Key": "quest-special-arena-radobaan-tips",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-rathalos": {
       "Key": "quest-special-arena-rathalos",
@@ -13389,7 +13389,7 @@ export default {
     },
     "quest-special-arena-rathalos-tips": {
       "Key": "quest-special-arena-rathalos-tips",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-rathian": {
       "Key": "quest-special-arena-rathian",
@@ -13397,7 +13397,7 @@ export default {
     },
     "quest-special-arena-rathian-tips": {
       "Key": "quest-special-arena-rathian-tips",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-special-arena-tobi-kadachi": {
       "Key": "quest-special-arena-tobi-kadachi",
@@ -13409,7 +13409,7 @@ export default {
     },
     "quest-special-arena-tobi-kadachi-tips": {
       "Key": "quest-special-arena-tobi-kadachi-tips",
-      "Translation": "特別競技場支線任務坑對選擇大怪物的玩家的獨特的地圖上。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
+      "Translation": "特別競技場支線任務坑對一個獨特的地圖上選擇大怪物的玩家。玩家可以使用大砲，弩，下降巨石陷阱後在小說的某個點，致命的屠龍，幫助他們攻擊他們的敵人戰鬥。這些任務出現一次玩家捕捉他們的特定物種的第一個怪物，是一個足夠高的獵人等級的。"
     },
     "quest-stirrings-from-the-grave": {
       "Key": "quest-stirrings-from-the-grave",
@@ -13445,7 +13445,7 @@ export default {
     },
     "quest-stuck-in-their-ways-notes": {
       "Key": "quest-stuck-in-their-ways-notes",
-      "Translation": "任務鏈：刺痛的味道，碩士吐司交付，以自己的方式卡住，一場大火噴湧BREW傳送，瘡網站，RRRRRumble的浪費！同一場驚心動魄的經驗，但需要捕捉目標。"
+      "Translation": "任務鏈：刺痛的味道，碩士吐司交付，以自己的方式卡住，一場大火噴湧BREW傳送，瘡網站，RRRRRumble的浪費！同一場驚心動魄的經驗，但需要捕獲目標。"
     },
     "quest-talons-of-ire-and-ice": {
       "Key": "quest-talons-of-ire-and-ice",
@@ -13453,7 +13453,7 @@ export default {
     },
     "quest-talons-of-ire-and-ice-description": {
       "Key": "quest-talons-of-ire-and-ice-description",
-      "Translation": "有一個點，我一定隱藏的秘密增長的古樹。不幸的是，兩名討厭的怪物巡邏該地區。 *解鎖上首次完成一個植物學研究插槽。"
+      "Translation": "有一個點，我一定皮張的秘密增長的古樹。不幸的是，兩名討厭的怪物巡邏該地區。 *解鎖上首次完成一個植物學研究插槽。"
     },
     "quest-talons-of-ire-and-ice-notes": {
       "Key": "quest-talons-of-ire-and-ice-notes",
@@ -13497,7 +13497,7 @@ export default {
     },
     "quest-the-current-situation-tips": {
       "Key": "quest-the-current-situation-tips",
-      "Translation": "從東北營（11）開始，一定不會有負雷霆性，並開始向南部門5.（環顧四周，在一個罕見的森林Pteryx產卵的情況下），一旦你到達威格利荔枝，直到你看到一個高藤往西走 - 覆蓋牆，在這一點上，你可以交叉與目標的路徑。一旦被攻擊，則戰鬥將開始它會逃離到最近的開放區域。如果你失去了它的軌道，當它回到它的巢，回到藤牆，爬起來，向西時即可。"
+      "Translation": "開始從東北營（11），一定不會有負雷霆性，並開始向南部門5.直到你看到一個高藤（環顧四周，在一個罕見的森林Pteryx產卵的情況下），一旦你到達威格利荔枝西部大開發 - 覆蓋牆，在這一點上，你可以交叉與目標的路徑。一旦被攻擊，則戰鬥將開始它會逃離到最近的開放區域。如果你失去了它的軌道，當它回到它的巢，回到藤牆，爬起來，頭向西時即可。"
     },
     "quest-the-deathly-quiet-curtain": {
       "Key": "quest-the-deathly-quiet-curtain",
@@ -13505,7 +13505,7 @@ export default {
     },
     "quest-the-deathly-quiet-curtain-description": {
       "Key": "quest-the-deathly-quiet-curtain-description",
-      "Translation": "真正可怕的事情是那些在沉默中睡覺，不是嗎？但是，它可能是？第三艦隊敦促你按上，解除了窗簾關閉這個謎，並養活我們痴迷。"
+      "Translation": "真正怕怕的東西是那些在沉默中睡覺，不是嗎？但是，它可能是？第三艦隊敦促你按下，抬起窗簾關閉這個謎，並養活我們痴迷。"
     },
     "quest-the-eater-of-elders": {
       "Key": "quest-the-eater-of-elders",
@@ -13521,7 +13521,7 @@ export default {
     },
     "quest-the-encroaching-anjanath-description": {
       "Key": "quest-the-encroaching-anjanath-description",
-      "Translation": "正如我們整裝待發，準備捕捉瑣拉Magdaros，我們需要保護紫苑盡可能多的，我們可以。這是太危險的到有Anjanath漫遊如此接近基地。"
+      "Translation": "正如我們加緊拍攝瑣拉Magdaros，我們必須確保紫苑盡可能多的，我們可以。這是太危險的到有Anjanath漫遊如此接近基地。"
     },
     "quest-the-eye-of-the-storm": {
       "Key": "quest-the-eye-of-the-storm",
@@ -13537,7 +13537,7 @@ export default {
     },
     "quest-the-fires-of-hell-bite-deep-description": {
       "Key": "quest-the-fires-of-hell-bite-deep-description",
-      "Translation": "我們已經有了一個激怒了Teostra堅持強硬立場。好像它被踢出了王國。問題是，什麼做了唱歌'？時間去調查！"
+      "Translation": "我們已經得到了堅持強硬立場，一個激怒了Teostra。看起來就像是它的王國踢出。問題是，什麼做了唱歌'？時間去調查！"
     },
     "quest-the-food-chain-dominator": {
       "Key": "quest-the-food-chain-dominator",
@@ -13561,11 +13561,11 @@ export default {
     },
     "quest-the-great-glutton-description": {
       "Key": "quest-the-great-glutton-description",
-      "Translation": "我敢肯定，現在你已經看到了這樣大Jagras吞下獵物的整體。一位一直在森林裡發現再次。把它拿出來我的研究人員之一之前被吞併了！"
+      "Translation": "我敢肯定，現在你已經看到了這樣大Jagras吞下獵物的整體。一直一個人在森林裡發現再次。把它拿出來我的研究人員之一之前被吞併了！"
     },
     "quest-the-great-glutton-tips": {
       "Key": "quest-the-great-glutton-tips",
-      "Translation": "從西南營開始（1），北上向扇區2找到目標。你可以等待它的攻擊，以避免部門2 Jagras加入戰鬥之前達到1扇區。它會逃離自己的窩在部門2減弱不夠時，你就可以殺死或捕獲它。"
+      "Translation": "開始從西南營（1），北上向扇區2找到目標。你可以等待它的攻擊，以避免部門2 Jagras加入戰鬥之前達到1扇區。它會逃離自己的窩在部門2減弱不夠時，你就可以殺死或捕獲它。"
     },
     "quest-the-great-jagras-hunt": {
       "Key": "quest-the-great-jagras-hunt",
@@ -13573,7 +13573,7 @@ export default {
     },
     "quest-the-great-jagras-hunt-description": {
       "Key": "quest-the-great-jagras-hunt-description",
-      "Translation": "“通過大Jagras研究者整個吞下。”：事情我在寫我的日報不感興趣把它拿出來之前，我確實有寫吧！"
+      "Translation": "東西我不是在寫我的每日報告感興趣的是：“研究人員整粒吞服的大Jagras。”把它拿出來之前，我確實有寫吧！"
     },
     "quest-the-greatest-jagras": {
       "Key": "quest-the-greatest-jagras",
@@ -13597,7 +13597,7 @@ export default {
     },
     "quest-the-heralds-of-destruction-cry-description": {
       "Key": "quest-the-heralds-of-destruction-cry-description",
-      "Translation": "我還記得當事情出現了。我聽到喇叭在我的頭上刺耳。這聽起來像毀滅的歌曲。我需要我的研究幫助，所以這對犄角可以停止！"
+      "Translation": "我還記得當事情出現了。我聽到喇叭在我的頭上刺耳。這聽起來像毀滅的歌曲。我需要幫助，我的研究，使這些角可以停止！"
     },
     "quest-the-legendary-beast": {
       "Key": "quest-the-legendary-beast",
@@ -13629,7 +13629,7 @@ export default {
     },
     "quest-the-names-lavasioth-description": {
       "Key": "quest-the-names-lavasioth-description",
-      "Translation": "喲，我們得到了要求研究認為沒有人想研究一個怪物！你知道一個，圍繞喜歡休息的熔岩是大軟盤腥！是啊，這一個！ （特價機票獎勵）"
+      "Translation": "喲，我們得到了要求研究一種怪物沒有人願意研究！你知道一個，在熔岩那個大軟盤腥，喜歡閒呆著！是啊，這一個！ （特價機票獎勵）"
     },
     "quest-the-pain-from-gains": {
       "Key": "quest-the-pain-from-gains",
@@ -13645,7 +13645,7 @@ export default {
     },
     "quest-the-pain-from-gains-tips": {
       "Key": "quest-the-pain-from-gains-tips",
-      "Translation": "從西南營（1）開始，向東跨越各部門4和9（皇帝鬥，運營商螞蟻和Shepherd野兔可右營外發現），以達到在部門10.一個小湖你會找到你Gajau在這湖，你可以引誘他們堅實的地面上，使它們束手無策。檢查在岩石頂部的死樹湖前右也許發現罕見棱鏡Hercudrome。"
+      "Translation": "開始從西南營（1），（皇帝鬥，運營商螞蟻和Shepherd野兔可右營外發現的）頭按部門4和9東道口達到扇區10一個小湖你會找到你Gajau在這湖，你可以引誘他們堅實的地面上，使它們束手無策。檢查在岩石頂部的死樹湖前右也許發現罕見棱鏡Hercudrome。"
     },
     "quest-the-piscine-problem": {
       "Key": "quest-the-piscine-problem",
@@ -13653,7 +13653,7 @@ export default {
     },
     "quest-the-piscine-problem-description": {
       "Key": "quest-the-piscine-problem-description",
-      "Translation": "鐵Helmcrab就是這樣一個迷人的人兒。就在踢它和我們的持久性有機污染物刺耳莢！我們希望更多的而不是研究它們與Jyuratodus潛伏！"
+      "Translation": "鐵Helmcrab就是這樣一個迷人的人兒。只是踢過來，我們的持久性有機污染物刺耳莢！我們很樂意去研究更多，但不與Jyuratodus潛伏！"
     },
     "quest-the-piscine-problem-tips": {
       "Key": "quest-the-piscine-problem-tips",
@@ -13673,7 +13673,7 @@ export default {
     },
     "quest-the-proving-description": {
       "Key": "quest-the-proving-description",
-      "Translation": "我們等待這一天這麼長時間。這時候你參加在證明，成為真正的勇敢。提供你的獎杯全的母親，你應當慷慨地祝福。"
+      "Translation": "我們已經等了這麼久的這一天。這時候你參加在證明，成為真正的勇敢。提供你的獎杯全的母親，你應當慷慨地祝福。"
     },
     "quest-the-red-and-blue-crew": {
       "Key": "quest-the-red-and-blue-crew",
@@ -13697,7 +13697,7 @@ export default {
     },
     "quest-the-sapphire-stars-guidance-description": {
       "Key": "quest-the-sapphire-stars-guidance-description",
-      "Translation": "到了無與倫比的獵人，我給你這最後的任務。返回到長輩的凹槽與勇敢的長老'猛攻。使用所有你的掌握中證明自己新世界的主人。"
+      "Translation": "到了無與倫比的獵人，我給你這最後的任務。返回到長輩的凹槽與勇敢的長老'猛攻。使用所有你的掌握中證明自己掌握了新的世界。"
     },
     "quest-the-sapphire-stars-guidance-notable-rewards": {
       "Key": "quest-the-sapphire-stars-guidance-notable-rewards",
@@ -13705,7 +13705,7 @@ export default {
     },
     "quest-the-sapphire-stars-guidance-notes": {
       "Key": "quest-the-sapphire-stars-guidance-notes",
-      "Translation": "這些目標產卵一前一後，讓遭遇的球員休息。 Kushala Daora是第一扇區3產卵，然後在Teostra扇區12和最後Nergigante在扇區14。"
+      "Translation": "該目標菌種一前一後，讓遭遇的球員休息。 Kushala Daora是第一扇區3產卵，然後在Teostra扇區12和最後Nergigante在扇區14。"
     },
     "quest-the-scorn-of-the-sun": {
       "Key": "quest-the-scorn-of-the-sun",
@@ -13713,7 +13713,7 @@ export default {
     },
     "quest-the-scorn-of-the-sun-description": {
       "Key": "quest-the-scorn-of-the-sun-description",
-      "Translation": "當我第一次在舊世界打了Teostra回來，我怕洗著我，但它給我的火打。但現在我意識到這是冷靜，不要害怕，你需要殺死它。"
+      "Translation": "當我第一次打在舊世界一個Teostra回來，我怕洗著我，但它給我的火打。但現在我意識到它的冷靜，不要害怕，你需要殺死它。"
     },
     "quest-the-sleeping-sylvan-queen": {
       "Key": "quest-the-sleeping-sylvan-queen",
@@ -13737,7 +13737,7 @@ export default {
     },
     "quest-the-white-winds-of-the-new-world": {
       "Key": "quest-the-white-winds-of-the-new-world",
-      "Translation": "新世界的白風"
+      "Translation": "白風新世界"
     },
     "quest-the-white-winds-of-the-new-world-conditions": {
       "Key": "quest-the-white-winds-of-the-new-world-conditions",
@@ -13745,7 +13745,7 @@ export default {
     },
     "quest-the-white-winds-of-the-new-world-description": {
       "Key": "quest-the-white-winds-of-the-new-world-description",
-      "Translation": "為了誰征服了每一個調查的獵人，我提供這個，最終的追求。進入特殊競技場，並就新的世界。您之前使用所有的謊言，並聲稱榮耀。"
+      "Translation": "為了誰征服了每一個調查的獵人，我提供這個，最終的追求。進入特殊競技場，並就新的世界。使用您之前所有的謊言，並要求榮耀。"
     },
     "quest-the-white-winds-of-the-new-world-notable-rewards": {
       "Key": "quest-the-white-winds-of-the-new-world-notable-rewards",
@@ -13753,7 +13753,7 @@ export default {
     },
     "quest-the-white-winds-of-the-new-world-notes": {
       "Key": "quest-the-white-winds-of-the-new-world-notes",
-      "Translation": "只有Legiana是在開始時的賽場上，Odogaron排在第二，那麼Diablo的，最後Rathalos。菌種定時器/條件尚未知道。完成這個任務後，跟指揮官解鎖與大家對話在紫苑和研究基地"
+      "Translation": "只有Legiana是在開始時的賽場上，Odogaron排在第二，那麼Diablo的，最後Rathalos。菌種定時器/條件尚未知道。完成這個任務，去跟指揮官解鎖對話與大家在紫苑和研究基地後"
     },
     "quest-the-winds-of-wrath-bite-deep": {
       "Key": "quest-the-winds-of-wrath-bite-deep",
@@ -13761,7 +13761,7 @@ export default {
     },
     "quest-the-winds-of-wrath-bite-deep-description": {
       "Key": "quest-the-winds-of-wrath-bite-deep-description",
-      "Translation": "我們已經有了一個Kushala Daora運行'輪，，撕裂的東西了。好像它被踢出其領土。問題是，什麼做了唱歌'？時間去調查！"
+      "Translation": "我們已經有了一個Kushala Daora運行'輪，，撕裂的東西了。看起來就像是其領土的踢出。問題是，什麼做了唱歌'？時間去調查！"
     },
     "quest-this-is-how-revolts-start": {
       "Key": "quest-this-is-how-revolts-start",
@@ -13785,7 +13785,7 @@ export default {
     },
     "quest-tickled-pink-description": {
       "Key": "quest-tickled-pink-description",
-      "Translation": "一個強大的Anjanath的已經看見了！他們種的金 - 粉紅色 - 標準新世界怪物。我們不能讓這個機會在一個理想的樣品溜走。去尋找它盡快！"
+      "Translation": "一個強大的Anjanath的已經看見了！他們種的金 - 粉紅色 - 標準新世界怪物。我們可以'讓我們在一個理想的樣本溜走這個機會。去尋找它盡快！"
     },
     "quest-tickled-pink-notable-rewards": {
       "Key": "quest-tickled-pink-notable-rewards",
@@ -13797,7 +13797,7 @@ export default {
     },
     "quest-timberland-troublemakers-description": {
       "Key": "quest-timberland-troublemakers-description",
-      "Translation": "我早早起來去獲取一些Goldbloom，但我發現了一個脾氣暴躁Anjanath站在我的路！照顧他，好不好？ （稀有物質獎勵機會了，可特價機票）"
+      "Translation": "我早早起來去獲取一些Goldbloom，但我發現了一個脾氣暴躁Anjanath站在我的路！照顧他，好不好？ （稀有物質獎勵機會了，特價票有售）"
     },
     "quest-time": {
       "Key": "quest-time",
@@ -13817,7 +13817,7 @@ export default {
     },
     "quest-todays-special-hunter-flambe-description": {
       "Key": "quest-todays-special-hunter-flambe-description",
-      "Translation": "合作夥伴，我們的食物鏈太多，如果你仔細想想的一部分。這是個壞消息對我們來說，如果Deviljho得到了渴望的獵人漢堡！所以，讓我們的追捕下來我們午餐前！"
+      "Translation": "合作夥伴，我們是食物鏈的一部分太多，如果你考慮一下吧。這是個壞消息對我們來說，如果Deviljho得到了渴望的獵人漢堡！所以，讓我們的追捕下來之前我們正在吃午飯！"
     },
     "quest-todays-special-hunter-flambe-notes": {
       "Key": "quest-todays-special-hunter-flambe-notes",
@@ -13837,7 +13837,7 @@ export default {
     },
     "quest-trespassing-troublemaker-description": {
       "Key": "quest-trespassing-troublemaker-description",
-      "Translation": "在生態系統中的一個主要變化是駕車從他們的自然棲息地的怪物。團長Wildspire廢物，並開始你的入侵進行調查Anjanath盡快！"
+      "Translation": "在生態系統中的一個主要變化是駕車從他們的自然棲息地的怪物。團長Wildspire廢物和盡快開始你的入侵Anjanath的調查！"
     },
     "quest-trespassing-troublemaker-notes": {
       "Key": "quest-trespassing-troublemaker-notes",
@@ -13849,19 +13849,19 @@ export default {
     },
     "quest-triple-threat-throwdown-description": {
       "Key": "quest-triple-threat-throwdown-description",
-      "Translation": "這是我準備......只為你一個任務。你不會相信你會多少裝飾品得到，如果你能完成這個任務！現在，讓我看看你得到了什麼！"
+      "Translation": "這是一個任務，我已經準備......只為你。你不會相信你會多少裝飾品得到，如果你能完成這個任務！現在，讓我看看你得到了什麼！"
     },
     "quest-troubled-troupers": {
       "Key": "quest-troubled-troupers",
-      "Translation": "陷入困境的戰隊"
+      "Translation": "困擾戰隊"
     },
     "quest-troubled-troupers-description": {
       "Key": "quest-troubled-troupers-description",
-      "Translation": "我們Troupers越來越由兩個Tzitzi雅辜batterfanged。請喀拉 - 喵 -  nize我們的戰士將其衝擊力成hightailing吧！ （由Lynian研究員翻譯）"
+      "Translation": "我們Troupers越來越由兩個Tzitzi雅辜batterfanged。請HAR-喵 -  nize我們的戰士將其衝擊力成hightailing吧！ （由Lynian研究員翻譯）"
     },
     "quest-troubled-troupers-tips": {
       "Key": "quest-troubled-troupers-tips",
-      "Translation": "南營開始（1），注意你的小夥伴和頭部東部。這兩個目標會從北方而來，並通過部門1，如果你不希望在同一時間打兩，讓第一次運行和從事第二。您將在狩獵結束被帶到Troupers營。"
+      "Translation": "開始從南營（1），注意你的小夥伴和頭部東部。這兩個目標會從北方而來，並通過部門1，如果你不希望在同一時間打兩，讓第一次運行和從事第二。您將在狩獵結束被帶到Troupers營。"
     },
     "quest-twin-spines-upon-the-sands": {
       "Key": "quest-twin-spines-upon-the-sands",
@@ -13869,7 +13869,7 @@ export default {
     },
     "quest-twin-spines-upon-the-sands-description": {
       "Key": "quest-twin-spines-upon-the-sands-description",
-      "Translation": "你知道有通過鑽入Diablo的尾巴survievs昆蟲的物種嗎？沒有？那麼我們也沒有！我們不會發現，除非你去給我們一個可以肯定的！"
+      "Translation": "你知道有地下打洞進入Diablo的尾巴是一個物種的昆蟲survievs？沒有？那麼我們也沒有！我們不會發現，除非你去給我們一個可以肯定的！"
     },
     "quest-two-horned-hostility": {
       "Key": "quest-two-horned-hostility",
@@ -13885,7 +13885,7 @@ export default {
     },
     "quest-type-capture-quest": {
       "Key": "quest-type-capture-quest",
-      "Translation": "捕捉任務"
+      "Translation": "採集任務"
     },
     "quest-type-delivery-quest": {
       "Key": "quest-type-delivery-quest",
@@ -13925,7 +13925,7 @@ export default {
     },
     "quest-up-to-your-waist-in-the-waste-description": {
       "Key": "quest-up-to-your-waist-in-the-waste-description",
-      "Translation": "我們已經得到了一個不同尋常的強大Jyuratodus的出現在Wildspire廢物一個令人不安的報告。開始你的調查盡快，但陷在淤泥當心！"
+      "Translation": "我們已經得到了出現在Wildspire廢物一個異常強大的Jyuratodus的一個令人不安的報告。開始你的調查盡快，但陷在淤泥當心！"
     },
     "quest-up-to-your-waist-in-the-waste-notes": {
       "Key": "quest-up-to-your-waist-in-the-waste-notes",
@@ -13937,7 +13937,7 @@ export default {
     },
     "quest-urgent-pukei-pukei-hunt-description": {
       "Key": "quest-urgent-pukei-pukei-hunt-description",
-      "Translation": "這Pukei-Pukei是沒有太高興在其領土渣。如果我們在派學者研究它，它會更不樂意。看起來我們得把它放了下來。"
+      "Translation": "這Pukei-Pukei是沒有太高興在其領土渣。它會如果我們在派學者研究它甚至不太高興。像我們看起來都愛不釋手。"
     },
     "quest-usj-blazing-azure-stars": {
       "Key": "quest-usj-blazing-azure-stars",
@@ -13953,7 +13953,7 @@ export default {
     },
     "quest-usj-gold-star-treatment-description": {
       "Key": "quest-usj-gold-star-treatment-description",
-      "Translation": "USJ很高興曾經為您帶來最精彩的吸引力！見證了這一盛大的世界，所有的金色的光輝中！你會用一些精彩的設備來呈現，一旦你就大功告成了！"
+      "Translation": "USJ非常高興地不斷為您帶來最精彩的吸引力！見證了這一盛大的世界，所有的金色的光輝中！你會用一些精彩的設備來呈現，一旦你就大功告成了！"
     },
     "quest-well-that-diablos": {
       "Key": "quest-well-that-diablos",
@@ -13981,15 +13981,15 @@ export default {
     },
     "quest-what-a-bunch-of-abalone-tips": {
       "Key": "quest-what-a-bunch-of-abalone-tips",
-      "Translation": "從南營（1），頭部門3西北部，走在岩石橋下找了海螺在地面上。\\ n和平路線\\ nTurn回來，爬在你的右邊，另一個海螺第一批葡萄樹等待只是在頂部。\\ nClimb北葡萄和向西另找一個，經過Paolumu巢找到最後一個。\\正危險路線\\ NKEEP向部門5北上，4海螺等候在這裡，但在Tzitzi雅辜喜歡四處流浪。"
+      "Translation": "從南營（1），頭部門3西北部，走在岩石橋，尋找海螺下的地面。\\ n和平路線\\ nTurn回來，爬在你的右邊，另一個海螺第一批葡萄樹的await只是在頂部。\\ nClimb北葡萄和向西另找一個，經過Paolumu巢找到最後一個。\\正危險路線\\ NKEEP向部門5北上，4海螺等候在這裡，但在Tzitzi雅辜喜歡四處流浪。"
     },
     "quest-when-blue-dust-surpasses-red-lust": {
       "Key": "quest-when-blue-dust-surpasses-red-lust",
-      "Translation": "當藍塵紅色的超越慾望"
+      "Translation": "當藍塵赶超紅色"
     },
     "quest-when-blue-dust-surpasses-red-lust-description": {
       "Key": "quest-when-blue-dust-surpasses-red-lust-description",
-      "Translation": "什麼是真正的愛情？ *嘆*一個必須看到的皇后和火焰真正知道皇帝之間的激情結合。靠得太近，肯定會造成灼傷。像我一樣..."
+      "Translation": "什麼是真正的愛情？ *感嘆*我們必須看到真正知道娘娘和火焰的皇帝之間的激情結合。靠得太近，肯定會造成灼傷。像我一樣..."
     },
     "quest-when-desire-becomes-an-obsession": {
       "Key": "quest-when-desire-becomes-an-obsession",
@@ -14005,7 +14005,7 @@ export default {
     },
     "quest-where-sun-meets-moon-description": {
       "Key": "quest-where-sun-meets-moon-description",
-      "Translation": "我聽說有一段時間，當晝夜和夜間地方性生活EMET，所以我想看看我自己，但現在我在一個果醬！ （特價機票，增加稀有物質獎勵）"
+      "Translation": "我聽說有一個週期的，當晝夜和夜間地方性生活EMET，所以我想看看我自己的時間，但現在我在一個果醬！ （特價機票，增加稀有物質獎勵）"
     },
     "quest-white-monster-for-a-white-coat": {
       "Key": "quest-white-monster-for-a-white-coat",
@@ -14013,11 +14013,11 @@ export default {
     },
     "quest-white-monster-for-a-white-coat-description": {
       "Key": "quest-white-monster-for-a-white-coat-description",
-      "Translation": "Paolumu住在珊瑚高地，但他們的活動，飲食和生活習慣築巢的細節仍然不明。抓住一個，以幫助這個神秘生物線索。"
+      "Translation": "Paolumu住在珊瑚高地，但他們的活動，飲食和生活習慣築巢的細節仍然不明。抓人幫助闡明這一神秘生物。"
     },
     "quest-white-monster-for-a-white-coat-tips": {
       "Key": "quest-white-monster-for-a-white-coat-tips",
-      "Translation": "同對不起不會邀請你，但需要捕捉目標。如果這是你第一次追求目標捕獲-A-paolumu，你會解鎖特殊競技場：Paolumu可選任務。"
+      "Translation": "同對不起不會邀請你，而是需要捕獲目標。如果這是你第一次追求目標捕獲-A-paolumu，你會解鎖特殊競技場：Paolumu可選任務。"
     },
     "quest-wicked-wildspire-warfare": {
       "Key": "quest-wicked-wildspire-warfare",
@@ -14025,7 +14025,7 @@ export default {
     },
     "quest-wicked-wildspire-warfare-description": {
       "Key": "quest-wicked-wildspire-warfare-description",
-      "Translation": "你知道，如果我們得到了幾個非常領土的怪物在一個地方會發生什麼？沒有？我也不！讓我們來看看。拔得頭籌賺取護甲球！"
+      "Translation": "你知道，如果我們得到了幾個非常領土的怪物在一個地方有什麼會發生？沒有？我也不！讓我們來看看。拔得頭籌賺取護甲球！"
     },
     "quest-wiggle-me-this": {
       "Key": "quest-wiggle-me-this",
@@ -14049,7 +14049,7 @@ export default {
     },
     "quest-ya-ku-with-that-description": {
       "Key": "quest-ya-ku-with-that-description",
-      "Translation": "獵人，這兩個meownsters是SU-呼嚕聲善於偷雞蛋和在一瞬間下降wingdrakes。但是purrhaps他們會做出好裝備也巢聽到了嗎？"
+      "Translation": "獵人，這兩個meownsters是在偷蛋和閃光燈下降wingdrakes SU-呼嚕聲好。但是purrhaps他們會做出好裝備也巢聽到了嗎？"
     },
     "search-arena-quests": {
       "Key": "search-arena-quests",
@@ -14073,7 +14073,7 @@ export default {
     },
     "search-canteen-skills": {
       "Key": "search-canteen-skills",
-      "Translation": "搜索食堂技巧"
+      "Translation": "搜索食堂技能"
     },
     "search-charms": {
       "Key": "search-charms",
@@ -14181,7 +14181,7 @@ export default {
     },
     "settings-join-discord-text": {
       "Key": "settings-join-discord-text",
-      "Translation": "加入我的不和諧服務器！與其他玩家交談，討論怪物和戰略，成立了遊戲廳，結交新朋友，並直接與我聊天:)"
+      "Translation": "加入我的不和諧服務器！ Talk與其他玩家，怪物的討論和戰略，成立了遊戲廳，結交新朋友，並直接與我聊天:)"
     },
     "settings-language": {
       "Key": "settings-language",
@@ -14253,7 +14253,7 @@ export default {
     },
     "settings-quick-search-text": {
       "Key": "settings-quick-search-text",
-      "Translation": "開：當您輸入的每個字符快速搜索會自動搜索，但是這可能是某些設備上的速度很慢\\ NOFF：當你按下鍵盤上的回車/返回鍵快速搜索將只搜索\\ n此默認為關閉。"
+      "Translation": "開：當您輸入的每個字符快速搜索會自動搜索，但是這可能會很慢一些設備\\ NOFF：快速搜索只當您按下鍵盤上的回車/返回鍵搜索\\ n此默認為關閉。"
     },
     "settings-rate-app": {
       "Key": "settings-rate-app",
@@ -14269,7 +14269,7 @@ export default {
     },
     "settings-redeem-code-ads": {
       "Key": "settings-redeem-code-ads",
-      "Translation": "去除成功的廣告。如果仍出現廣告，終止該應用並重新啟動應用程序。如果這個問題仍然存在，請聯繫我通過電子郵件^^"
+      "Translation": "成功刪除廣告。如果仍出現廣告，終止該應用並重新啟動應用程序。如果這個問題仍然存在，通過電子郵件聯繫我^^"
     },
     "settings-redeem-code-enter-a-value": {
       "Key": "settings-redeem-code-enter-a-value",
@@ -14337,7 +14337,7 @@ export default {
     },
     "settings-upgrade-loadouts-database-text": {
       "Key": "settings-upgrade-loadouts-database-text",
-      "Translation": "如果專用工具不能正確顯示在屏幕價格：免費使用這個。"
+      "Translation": "如果專門的工具不能正確顯示在屏幕價格：免費使用這個。"
     },
     "settings-upgrade-successful": {
       "Key": "settings-upgrade-successful",
@@ -14381,23 +14381,23 @@ export default {
     },
     "skill-agitator-1": {
       "Key": "skill-agitator-1",
-      "Translation": "雖然活性，授予攻擊4和3％增加的親和力。"
+      "Translation": "雖然活性，補助金通過3％攻擊4和增加的親和力。"
     },
     "skill-agitator-2": {
       "Key": "skill-agitator-2",
-      "Translation": "雖然活性，授予攻擊8和6％增加的親和力。"
+      "Translation": "雖然活性，補助金通過6％攻擊8和增加的親和力。"
     },
     "skill-agitator-3": {
       "Key": "skill-agitator-3",
-      "Translation": "雖然活性，授予攻擊12和9％增加的親和力。"
+      "Translation": "雖然活性，撥款9％攻擊12和增加的親和力。"
     },
     "skill-agitator-4": {
       "Key": "skill-agitator-4",
-      "Translation": "雖然活性，授予攻擊16和由12％增加的親和力。"
+      "Translation": "雖然活性，補助金通過12％攻擊16和增加的親和力。"
     },
     "skill-agitator-5": {
       "Key": "skill-agitator-5",
-      "Translation": "雖然活躍，授予攻擊+20，並增加15％的親和力。"
+      "Translation": "雖然活躍，資助了15％，攻擊+20，並增加親和力。"
     },
     "skill-agitator-description": {
       "Key": "skill-agitator-description",
@@ -14413,7 +14413,7 @@ export default {
     },
     "skill-airborne-description": {
       "Key": "skill-airborne-description",
-      "Translation": "上漲造成跳躍攻擊的傷害。"
+      "Translation": "增加引起跳躍攻擊的傷害。"
     },
     "skill-aquatic-expert": {
       "Key": "skill-aquatic-expert",
@@ -14429,7 +14429,7 @@ export default {
     },
     "skill-aquatic-expert-3": {
       "Key": "skill-aquatic-expert-3",
-      "Translation": "從減緩運動防止水，大大提高了逃避，而在水中。"
+      "Translation": "防止水從減速運動，大大提高了逃避，而在水中。"
     },
     "skill-aquatic-expert-description": {
       "Key": "skill-aquatic-expert-description",
@@ -14441,15 +14441,15 @@ export default {
     },
     "skill-artillery-1": {
       "Key": "skill-artillery-1",
-      "Translation": "增加10％的每次進攻能力和減少15％翼龍之火的冷卻時間。"
+      "Translation": "10％的每次進攻增加了功率和減少15％翼龍之火的冷卻時間。"
     },
     "skill-artillery-2": {
       "Key": "skill-artillery-2",
-      "Translation": "增加20％的每次進攻的能力和減少30％翼龍之火的冷卻時間。"
+      "Translation": "20％的每次進攻增加了功率和減少30％翼龍之火的冷卻時間。"
     },
     "skill-artillery-3": {
       "Key": "skill-artillery-3",
-      "Translation": "提高30％的每次進攻能力和降低50％翼龍之火的冷卻時間。"
+      "Translation": "30％的每次進攻增加了功率和降低50％翼龍之火的冷卻時間。"
     },
     "skill-artillery-description": {
       "Key": "skill-artillery-description",
@@ -14573,7 +14573,7 @@ export default {
     },
     "skill-bleeding-resistance-description": {
       "Key": "skill-bleeding-resistance-description",
-      "Translation": "授予針對出血的保護。"
+      "Translation": "給予保護，防止出血。"
     },
     "skill-blight-resistance": {
       "Key": "skill-blight-resistance",
@@ -14613,11 +14613,11 @@ export default {
     },
     "skill-bludgeoner-1": {
       "Key": "skill-bludgeoner-1",
-      "Translation": "提高攻擊為你的武器失去了清晰度。也提高了遠程武器的近戰攻擊和驚人的賠率。"
+      "Translation": "加薪作為攻擊你的武器失去了清晰度。也提高了遠程武器的近戰攻擊和驚艷的機率。"
     },
     "skill-bludgeoner-description": {
       "Key": "skill-bludgeoner-description",
-      "Translation": "提高攻擊為你的武器失去了清晰度。也提高了遠程武器的近戰攻擊和驚人的賠率。"
+      "Translation": "加薪作為攻擊你的武器失去了清晰度。也提高了遠程武器的近戰攻擊和驚艷的機率。"
     },
     "skill-bombardier": {
       "Key": "skill-bombardier",
@@ -14693,11 +14693,11 @@ export default {
     },
     "skill-capture-master-1": {
       "Key": "skill-capture-master-1",
-      "Translation": "增加捕獲報酬高的變化。 （加盟中期任務時，沒有效果。）"
+      "Translation": "增加捕獲報酬高的變化。 （無效果時加入中期任務。）"
     },
     "skill-capture-master-description": {
       "Key": "skill-capture-master-description",
-      "Translation": "增加捕獲報酬高的變化。 （加盟中期任務時，沒有效果。）"
+      "Translation": "增加捕獲報酬高的變化。 （無效果時加入中期任務。）"
     },
     "skill-carving-pro": {
       "Key": "skill-carving-pro",
@@ -14753,7 +14753,7 @@ export default {
     },
     "skill-coldproof-description": {
       "Key": "skill-coldproof-description",
-      "Translation": "棄用寒冷天氣的影響。"
+      "Translation": "勾銷寒冷天氣的影響。"
     },
     "skill-constitution": {
       "Key": "skill-constitution",
@@ -14761,19 +14761,19 @@ export default {
     },
     "skill-constitution-1": {
       "Key": "skill-constitution-1",
-      "Translation": "降低10％固定耐力耗盡"
+      "Translation": "減少10％的固定的耐力耗盡"
     },
     "skill-constitution-2": {
       "Key": "skill-constitution-2",
-      "Translation": "降低20％固定耐力耗盡"
+      "Translation": "減少20％的固定的耐力耗盡"
     },
     "skill-constitution-3": {
       "Key": "skill-constitution-3",
-      "Translation": "降低30％固定耐力耗盡"
+      "Translation": "降低30％的固定的耐力耗盡"
     },
     "skill-constitution-4": {
       "Key": "skill-constitution-4",
-      "Translation": "降低40％固定耐力耗盡"
+      "Translation": "降低40％的固定的耐力耗盡"
     },
     "skill-constitution-5": {
       "Key": "skill-constitution-5",
@@ -14789,15 +14789,15 @@ export default {
     },
     "skill-critical-boost-1": {
       "Key": "skill-critical-boost-1",
-      "Translation": "傷害提高30％的致命一擊處理。"
+      "Translation": "傷害提高30％，由處理的致命一擊。"
     },
     "skill-critical-boost-2": {
       "Key": "skill-critical-boost-2",
-      "Translation": "傷害提高35％的致命一擊處理。"
+      "Translation": "傷害提高35％，由處理的致命一擊。"
     },
     "skill-critical-boost-3": {
       "Key": "skill-critical-boost-3",
-      "Translation": "傷害提高40％的致命一擊處理。"
+      "Translation": "傷害提高40％，由處理的致命一擊。"
     },
     "skill-critical-boost-description": {
       "Key": "skill-critical-boost-description",
@@ -14917,7 +14917,7 @@ export default {
     },
     "skill-defense-boost-description": {
       "Key": "skill-defense-boost-description",
-      "Translation": "增加防禦。提升等級，提高電阻為好。"
+      "Translation": "增加防禦。等級達到改善電阻為好。"
     },
     "skill-detector": {
       "Key": "skill-detector",
@@ -15009,7 +15009,7 @@ export default {
     },
     "skill-dungmaster-description": {
       "Key": "skill-dungmaster-description",
-      "Translation": "讓怪物與拋擲糞便莢更容易運行擊中。"
+      "Translation": "讓怪物更容易運行擊中拋擲糞便豆莢。"
     },
     "skill-earplugs": {
       "Key": "skill-earplugs",
@@ -15025,7 +15025,7 @@ export default {
     },
     "skill-earplugs-3": {
       "Key": "skill-earplugs-3",
-      "Translation": "棄用弱怪獸怒吼，"
+      "Translation": "勾銷弱怪獸怒吼，"
     },
     "skill-earplugs-4": {
       "Key": "skill-earplugs-4",
@@ -15033,7 +15033,7 @@ export default {
     },
     "skill-earplugs-5": {
       "Key": "skill-earplugs-5",
-      "Translation": "棄用弱和強怪獸怒吼。"
+      "Translation": "勾銷弱和強怪獸怒吼。"
     },
     "skill-earplugs-description": {
       "Key": "skill-earplugs-description",
@@ -15065,7 +15065,7 @@ export default {
     },
     "skill-effluvial-expert-1": {
       "Key": "skill-effluvial-expert-1",
-      "Translation": "從臭氣勾銷損害和降低來自酸的損害。"
+      "Translation": "勾銷從臭氣損壞和從酸降低了損壞。"
     },
     "skill-effluvial-expert-description": {
       "Key": "skill-effluvial-expert-description",
@@ -15089,11 +15089,11 @@ export default {
     },
     "skill-elemental-airborne-1": {
       "Key": "skill-elemental-airborne-1",
-      "Translation": "元素傷害增加了跳躍攻擊。"
+      "Translation": "元素傷害增加跳躍攻擊。"
     },
     "skill-elemental-airborne-description": {
       "Key": "skill-elemental-airborne-description",
-      "Translation": "元素傷害增加了跳躍攻擊。"
+      "Translation": "元素傷害增加跳躍攻擊。"
     },
     "skill-entomologist": {
       "Key": "skill-entomologist",
@@ -15101,7 +15101,7 @@ export default {
     },
     "skill-entomologist-1": {
       "Key": "skill-entomologist-1",
-      "Translation": "提高被留下一具屍體的機會。"
+      "Translation": "被甩增加一具屍體的機會後面。"
     },
     "skill-entomologist-2": {
       "Key": "skill-entomologist-2",
@@ -15189,7 +15189,7 @@ export default {
     },
     "skill-fire-attack-description": {
       "Key": "skill-fire-attack-description",
-      "Translation": "增加了火元素攻擊力。 （元素攻擊力的最大限制。）"
+      "Translation": "使火元素攻擊力。 （元素攻擊力的最大限制。）"
     },
     "skill-fire-resistance": {
       "Key": "skill-fire-resistance",
@@ -15213,7 +15213,7 @@ export default {
     },
     "skill-flinch-free": {
       "Key": "skill-flinch-free",
-      "Translation": "退縮免費"
+      "Translation": "免費望而卻步"
     },
     "skill-flinch-free-1": {
       "Key": "skill-flinch-free-1",
@@ -15265,11 +15265,11 @@ export default {
     },
     "skill-fortify": {
       "Key": "skill-fortify",
-      "Translation": "強化"
+      "Translation": "Fortify的"
     },
     "skill-fortify-1": {
       "Key": "skill-fortify-1",
-      "Translation": "提高10％每用一次，攻擊和防禦15％。"
+      "Translation": "攻擊強度提高10％和防禦15％，每次使用。"
     },
     "skill-fortify-description": {
       "Key": "skill-fortify-description",
@@ -15305,7 +15305,7 @@ export default {
     },
     "skill-free-meal-description": {
       "Key": "skill-free-meal-description",
-      "Translation": "給你一個預定消耗的食物或喝免費的項目。"
+      "Translation": "給你一個預定消耗的食物或飲料項目免費的。"
     },
     "skill-geologist": {
       "Key": "skill-geologist",
@@ -15333,11 +15333,11 @@ export default {
     },
     "skill-good-luck-1": {
       "Key": "skill-good-luck-1",
-      "Translation": "增加任務獎勵的好機會。 （加盟中期任務時，沒有效果）"
+      "Translation": "增加任務獎勵的好機會。 （接合用追求中旬時無影響）"
     },
     "skill-good-luck-description": {
       "Key": "skill-good-luck-description",
-      "Translation": "增加任務獎勵的好機會。 （加盟中期任務時，沒有效果）"
+      "Translation": "增加任務獎勵的好機會。 （接合用追求中旬時無影響）"
     },
     "skill-great-luck": {
       "Key": "skill-great-luck",
@@ -15345,11 +15345,11 @@ export default {
     },
     "skill-great-luck-1": {
       "Key": "skill-great-luck-1",
-      "Translation": "增加任務獎勵的機會很高。 （加盟中期任務時，沒有效果）"
+      "Translation": "增加任務獎勵的機會很高。 （接合用追求中旬時無影響）"
     },
     "skill-great-luck-description": {
       "Key": "skill-great-luck-description",
-      "Translation": "增加任務獎勵的機會很高。 （加盟中期任務時，沒有效果）"
+      "Translation": "增加任務獎勵的機會很高。 （接合用追求中旬時無影響）"
     },
     "skill-guard": {
       "Key": "skill-guard",
@@ -15469,11 +15469,11 @@ export default {
     },
     "skill-heat-guard-1": {
       "Key": "skill-heat-guard-1",
-      "Translation": "棄用熱損傷。"
+      "Translation": "勾銷熱損傷。"
     },
     "skill-heat-guard-description": {
       "Key": "skill-heat-guard-description",
-      "Translation": "勾銷從熱損傷。"
+      "Translation": "勾銷從熱損壞。"
     },
     "skill-heavy-artillery": {
       "Key": "skill-heavy-artillery",
@@ -15497,7 +15497,7 @@ export default {
     },
     "skill-heroics-1": {
       "Key": "skill-heroics-1",
-      "Translation": "雖然活躍，5％增加攻擊力和15點加防禦。"
+      "Translation": "雖然活躍，增加5％的攻擊力和15點加防禦。"
     },
     "skill-heroics-2": {
       "Key": "skill-heroics-2",
@@ -15505,7 +15505,7 @@ export default {
     },
     "skill-heroics-3": {
       "Key": "skill-heroics-3",
-      "Translation": "雖然活躍，增加15％的攻擊力和25點加防禦。"
+      "Translation": "雖然活躍，增加了15％，攻擊力和25點加防禦。"
     },
     "skill-heroics-4": {
       "Key": "skill-heroics-4",
@@ -15513,7 +15513,7 @@ export default {
     },
     "skill-heroics-5": {
       "Key": "skill-heroics-5",
-      "Translation": "雖然活躍，增加30％的攻擊力和40點加防禦。"
+      "Translation": "雖然活躍，增加了30％，攻擊力和40點加防禦。"
     },
     "skill-heroics-description": {
       "Key": "skill-heroics-description",
@@ -15629,7 +15629,7 @@ export default {
     },
     "skill-intimidator-1": {
       "Key": "skill-intimidator-1",
-      "Translation": "不鼓勵搞你，即使你已經發現的怪物。"
+      "Translation": "從搞你，即使你已經發現阻止怪物。"
     },
     "skill-intimidator-2": {
       "Key": "skill-intimidator-2",
@@ -15637,7 +15637,7 @@ export default {
     },
     "skill-intimidator-3": {
       "Key": "skill-intimidator-3",
-      "Translation": "從搞你，即使你已經發現防止怪物。"
+      "Translation": "從搞你，即使你已經發現阻止怪物。"
     },
     "skill-intimidator-description": {
       "Key": "skill-intimidator-description",
@@ -15693,7 +15693,7 @@ export default {
     },
     "skill-jump-master-description": {
       "Key": "skill-jump-master-description",
-      "Translation": "防止跳時敲你回來攻擊。"
+      "Translation": "從跳時敲你回來防止攻擊的目的。"
     },
     "skill-latent-power": {
       "Key": "skill-latent-power",
@@ -15721,7 +15721,7 @@ export default {
     },
     "skill-latent-power-description": {
       "Key": "skill-latent-power-description",
-      "Translation": "暫時增大的親和力和降低耐力耗盡當滿足一定的條件。"
+      "Translation": "暫時增大的親和力和降低當滿足某些條件耐力耗盡。"
     },
     "skill-leap-of-faith": {
       "Key": "skill-leap-of-faith",
@@ -15753,7 +15753,7 @@ export default {
     },
     "skill-marathon-runner-description": {
       "Key": "skill-marathon-runner-description",
-      "Translation": "減慢對於其中連續漏耐力操作（如橫飛）耐力耗盡。"
+      "Translation": "減慢耐力耗盡針對連續漏耐力操作（如橫飛）。"
     },
     "skill-master-fisher": {
       "Key": "skill-master-fisher",
@@ -15773,7 +15773,7 @@ export default {
     },
     "skill-master-gatherer-1": {
       "Key": "skill-master-gatherer-1",
-      "Translation": "加快集聚，防止knockbacks而聚集。"
+      "Translation": "速度可達收集和防止knockbacks而聚會。"
     },
     "skill-master-gatherer-description": {
       "Key": "skill-master-gatherer-description",
@@ -15809,19 +15809,19 @@ export default {
     },
     "skill-maximum-might-1": {
       "Key": "skill-maximum-might-1",
-      "Translation": "雖然活性，增加10％的親和力"
+      "Translation": "雖然活性，增加親和力的10％"
     },
     "skill-maximum-might-2": {
       "Key": "skill-maximum-might-2",
-      "Translation": "雖然活性，增加20％的親和力"
+      "Translation": "雖然活性，增加親和力的20％"
     },
     "skill-maximum-might-3": {
       "Key": "skill-maximum-might-3",
-      "Translation": "雖然活性，增加30％的親和力"
+      "Translation": "雖然活性，增加親和力由30％"
     },
     "skill-maximum-might-description": {
       "Key": "skill-maximum-might-description",
-      "Translation": "增加親和力，當體力滿。"
+      "Translation": "當增加耐力是親和力十足。"
     },
     "skill-minds-eye-ballistics": {
       "Key": "skill-minds-eye-ballistics",
@@ -15833,7 +15833,7 @@ export default {
     },
     "skill-minds-eye-ballistics-description": {
       "Key": "skill-minds-eye-ballistics-description",
-      "Translation": "防止被偏轉攻擊。還縮短了距離彈藥之前和箭頭達到最大功率。"
+      "Translation": "從防止攻擊的偏轉。還縮短了距離彈藥之前和箭頭達到最大功率。"
     },
     "skill-muck-resistance": {
       "Key": "skill-muck-resistance",
@@ -15877,7 +15877,7 @@ export default {
     },
     "skill-non-elemental-boost-description": {
       "Key": "skill-non-elemental-boost-description",
-      "Translation": "上電時，你已經具備非元素武器。"
+      "Translation": "權力了非基本武器，你都有配備。"
     },
     "skill-normal-shots": {
       "Key": "skill-normal-shots",
@@ -15921,7 +15921,7 @@ export default {
     },
     "skill-offensive-guard-description": {
       "Key": "skill-offensive-guard-description",
-      "Translation": "執行完美的計時後衛後暫時增加攻擊力。"
+      "Translation": "執行一個完美的計時後衛後暫時增加攻擊力。"
     },
     "skill-palico-rally": {
       "Key": "skill-palico-rally",
@@ -16021,7 +16021,7 @@ export default {
     },
     "skill-partbreaker-description": {
       "Key": "skill-partbreaker-description",
-      "Translation": "使得它更容易折斷或切斷大怪物的部分。"
+      "Translation": "使得它更容易破裂或大型怪物的服務器部分。"
     },
     "skill-peak-performance": {
       "Key": "skill-peak-performance",
@@ -16041,7 +16041,7 @@ export default {
     },
     "skill-peak-performance-description": {
       "Key": "skill-peak-performance-description",
-      "Translation": "增加攻擊時，你的健康是滿的。"
+      "Translation": "當你的健康是全加攻擊。"
     },
     "skill-piercing-shots": {
       "Key": "skill-piercing-shots",
@@ -16161,7 +16161,7 @@ export default {
     },
     "skill-protective-polish-description": {
       "Key": "skill-protective-polish-description",
-      "Translation": "銳化後的武器清晰度不會降低設定的時間。"
+      "Translation": "支招清晰度不會降低對銳化後的凝固時間。"
     },
     "skill-punishing-draw": {
       "Key": "skill-punishing-draw",
@@ -16193,7 +16193,7 @@ export default {
     },
     "skill-quick-sheath-description": {
       "Key": "skill-quick-sheath-description",
-      "Translation": "加快武器護套。"
+      "Translation": "速度高達武器護套。"
     },
     "skill-razor-sharp-spare-shot": {
       "Key": "skill-razor-sharp-spare-shot",
@@ -16225,7 +16225,7 @@ export default {
     },
     "skill-recovery-speed-description": {
       "Key": "skill-recovery-speed-description",
-      "Translation": "可恢復損傷的癒合速度（健康計的紅色部分）。"
+      "Translation": "速度恢復的破壞（健康計的紅色部分）的癒合。"
     },
     "skill-recovery-up": {
       "Key": "skill-recovery-up",
@@ -16273,7 +16273,7 @@ export default {
     },
     "skill-resentment-description": {
       "Key": "skill-resentment-description",
-      "Translation": "增加攻擊時，你有恢復的破壞（您的健康計的紅色部分）。"
+      "Translation": "當你有恢復的破壞（您的健康計的紅色部分）增加攻擊。"
     },
     "skill-resuscitate": {
       "Key": "skill-resuscitate",
@@ -16369,7 +16369,7 @@ export default {
     },
     "skill-sleep-resistance-3": {
       "Key": "skill-sleep-resistance-3",
-      "Translation": "防止睡眠。"
+      "Translation": "防止睡覺。"
     },
     "skill-sleep-resistance-description": {
       "Key": "skill-sleep-resistance-description",
@@ -16421,15 +16421,15 @@ export default {
     },
     "skill-special-ammo-boost-1": {
       "Key": "skill-special-ammo-boost-1",
-      "Translation": "穿孔增加10％bowgun特殊彈藥和龍的力量。"
+      "Translation": "增加10％bowgun特殊彈藥和龍穿孔的力量。"
     },
     "skill-special-ammo-boost-2": {
       "Key": "skill-special-ammo-boost-2",
-      "Translation": "穿孔由20％提高bowgun特殊彈藥和龍的力量。"
+      "Translation": "增加20％的bowgun特殊彈藥和龍穿孔的力量。"
     },
     "skill-special-ammo-boost-description": {
       "Key": "skill-special-ammo-boost-description",
-      "Translation": "增加bowgun特殊彈藥和龍穿孔的力量。"
+      "Translation": "提高了功率bowgun特殊彈藥和龍穿孔。"
     },
     "skill-speed-crawler": {
       "Key": "skill-speed-crawler",
@@ -16565,7 +16565,7 @@ export default {
     },
     "skill-stamina-thief-description": {
       "Key": "skill-stamina-thief-description",
-      "Translation": "增加某些攻擊'用盡怪物的能力。"
+      "Translation": "增加某些攻擊的能力排氣怪物。"
     },
     "skill-stealth": {
       "Key": "skill-stealth",
@@ -16573,19 +16573,19 @@ export default {
     },
     "skill-stealth-1": {
       "Key": "skill-stealth-1",
-      "Translation": "使它稍微容易怪物失去你的視線。"
+      "Translation": "使它成為怪物忘記你稍微容易些。"
     },
     "skill-stealth-2": {
       "Key": "skill-stealth-2",
-      "Translation": "使得它更容易適度怪物失去你的視線。"
+      "Translation": "使它成為怪物忘記你適度容易。"
     },
     "skill-stealth-3": {
       "Key": "skill-stealth-3",
-      "Translation": "使得它更容易怪物失去你的視線。"
+      "Translation": "使得它更怪物忽視的你更容易。"
     },
     "skill-stealth-description": {
       "Key": "skill-stealth-description",
-      "Translation": "更容易為怪物失去你的視線。"
+      "Translation": "更容易為怪物忘記你。"
     },
     "skill-stun-resistance": {
       "Key": "skill-stun-resistance",
@@ -16645,7 +16645,7 @@ export default {
     },
     "skill-thunder-attack-description": {
       "Key": "skill-thunder-attack-description",
-      "Translation": "增加雷霆元素的攻擊力。 （元素攻擊力的最大限制。）"
+      "Translation": "雷霆增加元素攻擊力。 （元素攻擊力的最大限制。）"
     },
     "skill-thunder-resistance": {
       "Key": "skill-thunder-resistance",
@@ -16677,15 +16677,15 @@ export default {
     },
     "skill-tool-specialist-2": {
       "Key": "skill-tool-specialist-2",
-      "Translation": "縮短時間，直到10％重用。"
+      "Translation": "縮短時間，直到10％的重用。"
     },
     "skill-tool-specialist-3": {
       "Key": "skill-tool-specialist-3",
-      "Translation": "縮短時間，直到20％重用。"
+      "Translation": "縮短時間，直到20％的重用。"
     },
     "skill-tool-specialist-description": {
       "Key": "skill-tool-specialist-description",
-      "Translation": "減少了充電時間專門的工具。"
+      "Translation": "減少了充電時間為專門的工具。"
     },
     "skill-tremor-resistance": {
       "Key": "skill-tremor-resistance",
@@ -16693,15 +16693,15 @@ export default {
     },
     "skill-tremor-resistance-1": {
       "Key": "skill-tremor-resistance-1",
-      "Translation": "棄用輕微地震顫。"
+      "Translation": "勾銷輕微地震顫。"
     },
     "skill-tremor-resistance-2": {
       "Key": "skill-tremor-resistance-2",
-      "Translation": "棄用輕微地震顫，並減少和主要地面震顫的效果。"
+      "Translation": "勾銷輕微地震顫，並減少和主要地面震顫的效果。"
     },
     "skill-tremor-resistance-3": {
       "Key": "skill-tremor-resistance-3",
-      "Translation": "棄用次要和主要地面震顫。"
+      "Translation": "勾銷次要和主要地面震顫。"
     },
     "skill-tremor-resistance-description": {
       "Key": "skill-tremor-resistance-description",
@@ -16761,15 +16761,15 @@ export default {
     },
     "skill-weakness-exploit-1": {
       "Key": "skill-weakness-exploit-1",
-      "Translation": "襲擊的薄弱點攻擊15％增加親和力。"
+      "Translation": "襲擊的薄弱點的攻擊有15％的增加親和力。"
     },
     "skill-weakness-exploit-2": {
       "Key": "skill-weakness-exploit-2",
-      "Translation": "襲擊的薄弱點攻擊30％增加親和力。"
+      "Translation": "襲擊的薄弱點的攻擊有30％的增加親和力。"
     },
     "skill-weakness-exploit-3": {
       "Key": "skill-weakness-exploit-3",
-      "Translation": "擊中弱點攻擊增加50％的親和力。"
+      "Translation": "襲擊的薄弱點的攻擊有50％的增加親和力。"
     },
     "skill-weakness-exploit-description": {
       "Key": "skill-weakness-exploit-description",
@@ -16785,11 +16785,11 @@ export default {
     },
     "skill-wide-range-2": {
       "Key": "skill-wide-range-2",
-      "Translation": "項目影響附近的盟友在更廣泛的範圍與他們效力的33％。"
+      "Translation": "項目可以影響與他們效力的33％更大半徑附近的盟友。"
     },
     "skill-wide-range-3": {
       "Key": "skill-wide-range-3",
-      "Translation": "項目影響附近的盟友在更廣泛的範圍與他們效力的66％。"
+      "Translation": "項目可以影響與他們效力的66％更大半徑附近的盟友。"
     },
     "skill-wide-range-4": {
       "Key": "skill-wide-range-4",
@@ -16801,7 +16801,7 @@ export default {
     },
     "skill-wide-range-description": {
       "Key": "skill-wide-range-description",
-      "Translation": "減緩某些項目的影響，也影響周圍的盟友。"
+      "Translation": "減慢某些項目的效果也影響附近的盟友。"
     },
     "skill-windproof": {
       "Key": "skill-windproof",
@@ -16985,7 +16985,7 @@ export default {
     },
     "trophy-death-begets-life": {
       "Key": "trophy-death-begets-life",
-      "Translation": "死亡性導致的生活"
+      "Translation": "死亡引來了生命"
     },
     "trophy-death-begets-life-description": {
       "Key": "trophy-death-begets-life-description",
@@ -17005,7 +17005,7 @@ export default {
     },
     "trophy-deft-digger-description": {
       "Key": "trophy-deft-digger-description",
-      "Translation": "捕捉喜歡在地上挖孔的生物。"
+      "Translation": "捕獲的動物，喜歡在地上挖孔。"
     },
     "trophy-devastating-offense": {
       "Key": "trophy-devastating-offense",
@@ -17037,7 +17037,7 @@ export default {
     },
     "trophy-established-hunter-description": {
       "Key": "trophy-established-hunter-description",
-      "Translation": "到達獵人等級100。"
+      "Translation": "關愛獵人等級100。"
     },
     "trophy-evolving-ecology": {
       "Key": "trophy-evolving-ecology",
@@ -17053,7 +17053,7 @@ export default {
     },
     "trophy-experienced-rider-description": {
       "Key": "trophy-experienced-rider-description",
-      "Translation": "使用入侵者騎多次。"
+      "Translation": "使用入侵者換乘多次。"
     },
     "trophy-fates-conclusion": {
       "Key": "trophy-fates-conclusion",
@@ -17269,7 +17269,7 @@ export default {
     },
     "trophy-master-slayer-description": {
       "Key": "trophy-master-slayer-description",
-      "Translation": "殺死在主級別任務50長輩龍。"
+      "Translation": "在殺死主級別任務50長輩龍。"
     },
     "trophy-miniature-crown": {
       "Key": "trophy-miniature-crown",
@@ -17325,7 +17325,7 @@ export default {
     },
     "trophy-monster-phd-description": {
       "Key": "trophy-monster-phd-description",
-      "Translation": "有關研究幾乎每一個怪物的一切。"
+      "Translation": "研究有關的一切幾乎每一個怪物。"
     },
     "trophy-monster-slayer": {
       "Key": "trophy-monster-slayer",
@@ -17337,7 +17337,7 @@ export default {
     },
     "trophy-movin-on-up": {
       "Key": "trophy-movin-on-up",
-      "Translation": "往前在向上"
+      "Translation": "居無定所'在向上"
     },
     "trophy-movin-on-up-description": {
       "Key": "trophy-movin-on-up-description",
@@ -17381,7 +17381,7 @@ export default {
     },
     "trophy-outstanding-observer-description": {
       "Key": "trophy-outstanding-observer-description",
-      "Translation": "完成對Lynian研究員許多要求。"
+      "Translation": "對於Lynian研究員完成很多請求。"
     },
     "trophy-personal-treasure": {
       "Key": "trophy-personal-treasure",
@@ -17405,7 +17405,7 @@ export default {
     },
     "trophy-rainbow-bright-description": {
       "Key": "trophy-rainbow-bright-description",
-      "Translation": "捕捉閃光的彩虹般的生物。"
+      "Translation": "捕獲的動物，一如閃爍的彩虹。"
     },
     "trophy-remodeler": {
       "Key": "trophy-remodeler",
@@ -17457,7 +17457,7 @@ export default {
     },
     "trophy-step-into-the-arena": {
       "Key": "trophy-step-into-the-arena",
-      "Translation": "走進競技場"
+      "Translation": "踏入競技場"
     },
     "trophy-step-into-the-arena-description": {
       "Key": "trophy-step-into-the-arena-description",
@@ -17485,7 +17485,7 @@ export default {
     },
     "trophy-temper-temper-description": {
       "Key": "trophy-temper-temper-description",
-      "Translation": "亨特你的第一個強化的怪物。"
+      "Translation": "亨特你的第一個鍛煉的怪物。"
     },
     "trophy-the-art-of-camouflage": {
       "Key": "trophy-the-art-of-camouflage",
@@ -18285,7 +18285,7 @@ export default {
     },
     "weapon-great-sword-blooming-blade-ii": {
       "Key": "weapon-great-sword-blooming-blade-ii",
-      "Translation": "盛開的刀鋒戰士2"
+      "Translation": "開花刀鋒戰士2"
     },
     "weapon-great-sword-blooming-blade-iii": {
       "Key": "weapon-great-sword-blooming-blade-iii",
@@ -18905,7 +18905,7 @@ export default {
     },
     "weapon-gunlance-rose-burst": {
       "Key": "weapon-gunlance-rose-burst",
-      "Translation": "玫瑰爆裂"
+      "Translation": "玫瑰突發"
     },
     "weapon-gunlance-royal-burst": {
       "Key": "weapon-gunlance-royal-burst",
@@ -18993,7 +18993,7 @@ export default {
     },
     "weapon-hammer-blooming-hammer-i": {
       "Key": "weapon-hammer-blooming-hammer-i",
-      "Translation": "盛開錘我"
+      "Translation": "開花錘我"
     },
     "weapon-hammer-blooming-hammer-ii": {
       "Key": "weapon-hammer-blooming-hammer-ii",
@@ -19469,11 +19469,11 @@ export default {
     },
     "weapon-hunting-horn-blazing-horn-i": {
       "Key": "weapon-hunting-horn-blazing-horn-i",
-      "Translation": "熾熱的號角我"
+      "Translation": "燃燒的號角我"
     },
     "weapon-hunting-horn-blazing-horn-ii": {
       "Key": "weapon-hunting-horn-blazing-horn-ii",
-      "Translation": "熾焰角II"
+      "Translation": "熾天喇叭II"
     },
     "weapon-hunting-horn-blooming-horn-i": {
       "Key": "weapon-hunting-horn-blooming-horn-i",
@@ -19997,7 +19997,7 @@ export default {
     },
     "weapon-lance-claw-gold-defender": {
       "Key": "weapon-lance-claw-gold-defender",
-      "Translation": "金爪後衛"
+      "Translation": "爪黃金後衛"
     },
     "weapon-lance-crusher-gold-defender": {
       "Key": "weapon-lance-crusher-gold-defender",
@@ -20925,7 +20925,7 @@ export default {
     },
     "weapon-sword-and-shield-blacksteel-sword-i": {
       "Key": "weapon-sword-and-shield-blacksteel-sword-i",
-      "Translation": "黑鋼劍我"
+      "Translation": "劍黑鋼我"
     },
     "weapon-sword-and-shield-blacksteel-sword-ii": {
       "Key": "weapon-sword-and-shield-blacksteel-sword-ii",
@@ -20933,11 +20933,11 @@ export default {
     },
     "weapon-sword-and-shield-blazing-edge-i": {
       "Key": "weapon-sword-and-shield-blazing-edge-i",
-      "Translation": "熾熱的邊緣我"
+      "Translation": "燃燒的邊緣我"
     },
     "weapon-sword-and-shield-blazing-edge-ii": {
       "Key": "weapon-sword-and-shield-blazing-edge-ii",
-      "Translation": "熾烈的邊緣II"
+      "Translation": "燃燒的邊緣II"
     },
     "weapon-sword-and-shield-blooming-knife-i": {
       "Key": "weapon-sword-and-shield-blooming-knife-i",
@@ -20945,11 +20945,11 @@ export default {
     },
     "weapon-sword-and-shield-blooming-knife-ii": {
       "Key": "weapon-sword-and-shield-blooming-knife-ii",
-      "Translation": "盛開的刀II"
+      "Translation": "開花刀II"
     },
     "weapon-sword-and-shield-blooming-knife-iii": {
       "Key": "weapon-sword-and-shield-blooming-knife-iii",
-      "Translation": "盛開的刀III"
+      "Translation": "開花刀III"
     },
     "weapon-sword-and-shield-bone-kukri-i": {
       "Key": "weapon-sword-and-shield-bone-kukri-i",
@@ -21613,11 +21613,11 @@ export default {
     },
     "weapon-long-sword-blinding-blaze-i": {
       "Key": "weapon-long-sword-blinding-blaze-i",
-      "Translation": "布拉致盲我"
+      "Translation": "致盲火焰我"
     },
     "weapon-long-sword-blinding-blaze-ii": {
       "Key": "weapon-long-sword-blinding-blaze-ii",
-      "Translation": "布拉致盲II"
+      "Translation": "致盲大火II"
     },
     "weapon-tree-barioth-tree": {
       "Key": "weapon-tree-barioth-tree",
@@ -22133,7 +22133,7 @@ export default {
     },
     "weapon-gunlance-broken-silence": {
       "Key": "weapon-gunlance-broken-silence",
-      "Translation": "殘破的沉默"
+      "Translation": "打破沉默"
     },
     "weapon-gunlance-magda-lahat-reforged": {
       "Key": "weapon-gunlance-magda-lahat-reforged",
@@ -22261,7 +22261,7 @@ export default {
     },
     "weapon-dual-blades-accursed-chain": {
       "Key": "weapon-dual-blades-accursed-chain",
-      "Translation": "詛咒鏈"
+      "Translation": "被詛咒鏈"
     },
     "weapon-dual-blades-twin-flames": {
       "Key": "weapon-dual-blades-twin-flames",
@@ -22369,11 +22369,11 @@ export default {
     },
     "weapon-dual-blades-shattering-flames-i": {
       "Key": "weapon-dual-blades-shattering-flames-i",
-      "Translation": "驚天動地的火焰我"
+      "Translation": "震破我的火焰"
     },
     "weapon-dual-blades-shattering-flames-ii": {
       "Key": "weapon-dual-blades-shattering-flames-ii",
-      "Translation": "驚天動地II火焰"
+      "Translation": "震破火焰II"
     },
     "weapon-dual-blades-smoldering-cities": {
       "Key": "weapon-dual-blades-smoldering-cities",
@@ -22437,11 +22437,11 @@ export default {
     },
     "weapon-dual-blades-enduring-sacrifice": {
       "Key": "weapon-dual-blades-enduring-sacrifice",
-      "Translation": "持久犧牲"
+      "Translation": "持久的犧牲"
     },
     "weapon-dual-blades-enduring-surrender": {
       "Key": "weapon-dual-blades-enduring-surrender",
-      "Translation": "持久投降"
+      "Translation": "持久的投降"
     },
     "weapon-dual-blades-wunderkirins": {
       "Key": "weapon-dual-blades-wunderkirins",
@@ -22765,7 +22765,7 @@ export default {
     },
     "weapon-lance-chrome-drill-i": {
       "Key": "weapon-lance-chrome-drill-i",
-      "Translation": "鉻鑽我"
+      "Translation": "借助Chrome我鑽"
     },
     "weapon-lance-chrome-drill-ii": {
       "Key": "weapon-lance-chrome-drill-ii",
@@ -22821,7 +22821,7 @@ export default {
     },
     "weapon-lance-gama-drill-ii": {
       "Key": "weapon-lance-gama-drill-ii",
-      "Translation": "伽馬鑽II"
+      "Translation": "GAMA鑽II"
     },
     "weapon-lance-hidden-hastur-i": {
       "Key": "weapon-lance-hidden-hastur-i",
@@ -23013,7 +23013,7 @@ export default {
     },
     "weapon-lance-lost-babel": {
       "Key": "weapon-lance-lost-babel",
-      "Translation": "失去巴貝爾"
+      "Translation": "失落的巴貝爾"
     },
     "weapon-lance-fates-spindle": {
       "Key": "weapon-lance-fates-spindle",
@@ -23046,5 +23046,293 @@ export default {
     "weapon-lance-great-demon-lance": {
       "Key": "weapon-lance-great-demon-lance",
       "Translation": "大惡魔蘭斯"
+    },
+    "weapon-sword-and-shield-chrome-knight-sword-i": {
+      "Key": "weapon-sword-and-shield-chrome-knight-sword-i",
+      "Translation": "Chrome的騎士劍我"
+    },
+    "weapon-sword-and-shield-chrome-knight-sword-ii": {
+      "Key": "weapon-sword-and-shield-chrome-knight-sword-ii",
+      "Translation": "Chrome的騎士劍II"
+    },
+    "weapon-sword-and-shield-chrome-knight-sword-iii": {
+      "Key": "weapon-sword-and-shield-chrome-knight-sword-iii",
+      "Translation": "Chrome的騎士劍III"
+    },
+    "weapon-sword-and-shield-ruinous-eradication": {
+      "Key": "weapon-sword-and-shield-ruinous-eradication",
+      "Translation": "毀滅性根除"
+    },
+    "weapon-sword-and-shield-corona-plus": {
+      "Key": "weapon-sword-and-shield-corona-plus",
+      "Translation": "科羅納+"
+    },
+    "weapon-sword-and-shield-blue-corona": {
+      "Key": "weapon-sword-and-shield-blue-corona",
+      "Translation": "藍電暈"
+    },
+    "weapon-sword-and-shield-shining-wyvern-blade": {
+      "Key": "weapon-sword-and-shield-shining-wyvern-blade",
+      "Translation": "閃亮飛龍劍"
+    },
+    "weapon-sword-and-shield-legacy-bang": {
+      "Key": "weapon-sword-and-shield-legacy-bang",
+      "Translation": "舊邦"
+    },
+    "weapon-sword-and-shield-legendary-bang": {
+      "Key": "weapon-sword-and-shield-legendary-bang",
+      "Translation": "傳奇爆炸"
+    },
+    "weapon-sword-and-shield-rogue-wave-iv": {
+      "Key": "weapon-sword-and-shield-rogue-wave-iv",
+      "Translation": "Rogue Wave的IV"
+    },
+    "weapon-sword-and-shield-laguna-blossom-i": {
+      "Key": "weapon-sword-and-shield-laguna-blossom-i",
+      "Translation": "拉古那花我"
+    },
+    "weapon-sword-and-shield-laguna-blossom-ii": {
+      "Key": "weapon-sword-and-shield-laguna-blossom-ii",
+      "Translation": "拉古那II開花"
+    },
+    "weapon-sword-and-shield-icicle-spike": {
+      "Key": "weapon-sword-and-shield-icicle-spike",
+      "Translation": "冰柱斯派克"
+    },
+    "weapon-sword-and-shield-icicle-spike-plus": {
+      "Key": "weapon-sword-and-shield-icicle-spike-plus",
+      "Translation": "冰柱斯派克+"
+    },
+    "weapon-sword-and-shield-nardebosche": {
+      "Key": "weapon-sword-and-shield-nardebosche",
+      "Translation": "Nardebosche"
+    },
+    "weapon-sword-and-shield-legia-rimespire-plus": {
+      "Key": "weapon-sword-and-shield-legia-rimespire-plus",
+      "Translation": "萊吉亞Rimespire +"
+    },
+    "weapon-sword-and-shield-hoarcry-rimespire": {
+      "Key": "weapon-sword-and-shield-hoarcry-rimespire",
+      "Translation": "Hoarcry Rimespire"
+    },
+    "weapon-sword-and-shield-nephilim-glacia": {
+      "Key": "weapon-sword-and-shield-nephilim-glacia",
+      "Translation": "巨人Glacia"
+    },
+    "weapon-sword-and-shield-rose-highness": {
+      "Key": "weapon-sword-and-shield-rose-highness",
+      "Translation": "羅斯殿下"
+    },
+    "weapon-sword-and-shield-lunatic-rose": {
+      "Key": "weapon-sword-and-shield-lunatic-rose",
+      "Translation": "瘋子玫瑰"
+    },
+    "weapon-sword-and-shield-lumu-nightmare-i": {
+      "Key": "weapon-sword-and-shield-lumu-nightmare-i",
+      "Translation": "陸慕我夢魘"
+    },
+    "weapon-sword-and-shield-lumu-nightmare-ii": {
+      "Key": "weapon-sword-and-shield-lumu-nightmare-ii",
+      "Translation": "陸慕噩夢II"
+    },
+    "weapon-sword-and-shield-nyx-tabar-i": {
+      "Key": "weapon-sword-and-shield-nyx-tabar-i",
+      "Translation": "NYX塔巴爾我"
+    },
+    "weapon-sword-and-shield-nyx-tabar-ii": {
+      "Key": "weapon-sword-and-shield-nyx-tabar-ii",
+      "Translation": "NYX塔巴爾II"
+    },
+    "weapon-sword-and-shield-datura-florescence-i": {
+      "Key": "weapon-sword-and-shield-datura-florescence-i",
+      "Translation": "曼陀羅我花期"
+    },
+    "weapon-sword-and-shield-datura-florescence-ii": {
+      "Key": "weapon-sword-and-shield-datura-florescence-ii",
+      "Translation": "曼陀羅花期II"
+    },
+    "weapon-sword-and-shield-dios-edge": {
+      "Key": "weapon-sword-and-shield-dios-edge",
+      "Translation": "奧斯邊緣"
+    },
+    "weapon-sword-and-shield-booming-barrage": {
+      "Key": "weapon-sword-and-shield-booming-barrage",
+      "Translation": "蓬勃發展的彈幕"
+    },
+    "weapon-sword-and-shield-naaga-seax-i": {
+      "Key": "weapon-sword-and-shield-naaga-seax-i",
+      "Translation": "Naaga Seax我"
+    },
+    "weapon-sword-and-shield-naaga-seax-ii": {
+      "Key": "weapon-sword-and-shield-naaga-seax-ii",
+      "Translation": "Naaga Seax II"
+    },
+    "weapon-sword-and-shield-hidden-edge": {
+      "Key": "weapon-sword-and-shield-hidden-edge",
+      "Translation": "隱藏的邊緣"
+    },
+    "weapon-sword-and-shield-hidden-edge-plus": {
+      "Key": "weapon-sword-and-shield-hidden-edge-plus",
+      "Translation": "隱藏邊+"
+    },
+    "weapon-sword-and-shield-flash-in-the-night": {
+      "Key": "weapon-sword-and-shield-flash-in-the-night",
+      "Translation": "Flash在夜"
+    },
+    "weapon-sword-and-shield-radobaan-os-i": {
+      "Key": "weapon-sword-and-shield-radobaan-os-i",
+      "Translation": "Radobaan O的我"
+    },
+    "weapon-sword-and-shield-radobaan-os-ii": {
+      "Key": "weapon-sword-and-shield-radobaan-os-ii",
+      "Translation": "Radobaan鋨II"
+    },
+    "weapon-sword-and-shield-radobaan-os-iii": {
+      "Key": "weapon-sword-and-shield-radobaan-os-iii",
+      "Translation": "Radobaan鋨III"
+    },
+    "weapon-sword-and-shield-icegale": {
+      "Key": "weapon-sword-and-shield-icegale",
+      "Translation": "Icegale"
+    },
+    "weapon-sword-and-shield-radobaan-osseus-i": {
+      "Key": "weapon-sword-and-shield-radobaan-osseus-i",
+      "Translation": "Radobaan Osseus我"
+    },
+    "weapon-sword-and-shield-radobaan-osseus-ii": {
+      "Key": "weapon-sword-and-shield-radobaan-osseus-ii",
+      "Translation": "Radobaan Osseus II"
+    },
+    "weapon-sword-and-shield-acid-razor-i": {
+      "Key": "weapon-sword-and-shield-acid-razor-i",
+      "Translation": "酸剃刀我"
+    },
+    "weapon-sword-and-shield-acid-razor-ii": {
+      "Key": "weapon-sword-and-shield-acid-razor-ii",
+      "Translation": "酸剃刀II"
+    },
+    "weapon-sword-and-shield-sabers-gullet-i": {
+      "Key": "weapon-sword-and-shield-sabers-gullet-i",
+      "Translation": "Saber的格萊特我"
+    },
+    "weapon-sword-and-shield-sabers-gullet-ii": {
+      "Key": "weapon-sword-and-shield-sabers-gullet-ii",
+      "Translation": "Saber的格萊特II"
+    },
+    "weapon-sword-and-shield-rex-talon": {
+      "Key": "weapon-sword-and-shield-rex-talon",
+      "Translation": "雷克斯猛禽"
+    },
+    "weapon-sword-and-shield-rex-talon-plus": {
+      "Key": "weapon-sword-and-shield-rex-talon-plus",
+      "Translation": "雷克斯爪+"
+    },
+    "weapon-sword-and-shield-tigrex-sword": {
+      "Key": "weapon-sword-and-shield-tigrex-sword",
+      "Translation": "Tigrex劍"
+    },
+    "weapon-sword-and-shield-accursed-claw": {
+      "Key": "weapon-sword-and-shield-accursed-claw",
+      "Translation": "詛咒之爪"
+    },
+    "weapon-sword-and-shield-stonebite": {
+      "Key": "weapon-sword-and-shield-stonebite",
+      "Translation": "Stonebite"
+    },
+    "weapon-sword-and-shield-lightning-nemesis-iv": {
+      "Key": "weapon-sword-and-shield-lightning-nemesis-iv",
+      "Translation": "閃電剋星IV"
+    },
+    "weapon-sword-and-shield-usurpers-firebolt": {
+      "Key": "weapon-sword-and-shield-usurpers-firebolt",
+      "Translation": "篡位的火焰箭"
+    },
+    "weapon-sword-and-shield-usurpers-firebolt-plus": {
+      "Key": "weapon-sword-and-shield-usurpers-firebolt-plus",
+      "Translation": "篡位的火焰箭+"
+    },
+    "weapon-sword-and-shield-despots-crookbolt": {
+      "Key": "weapon-sword-and-shield-despots-crookbolt",
+      "Translation": "暴君的Crookbolt"
+    },
+    "weapon-sword-and-shield-barroth-slicer-i": {
+      "Key": "weapon-sword-and-shield-barroth-slicer-i",
+      "Translation": "Barroth切片我"
+    },
+    "weapon-sword-and-shield-barroth-slicer-ii": {
+      "Key": "weapon-sword-and-shield-barroth-slicer-ii",
+      "Translation": "Barroth切片機II"
+    },
+    "weapon-sword-and-shield-glavenus-razor-i": {
+      "Key": "weapon-sword-and-shield-glavenus-razor-i",
+      "Translation": "Glavenus剃刀我"
+    },
+    "weapon-sword-and-shield-glavenus-razor-ii": {
+      "Key": "weapon-sword-and-shield-glavenus-razor-ii",
+      "Translation": "Glavenus剃刀II"
+    },
+    "weapon-sword-and-shield-gnashing-flammensucher-plus": {
+      "Key": "weapon-sword-and-shield-gnashing-flammensucher-plus",
+      "Translation": "咬牙切齒Flammensucher +"
+    },
+    "weapon-sword-and-shield-lohensieger": {
+      "Key": "weapon-sword-and-shield-lohensieger",
+      "Translation": "Lohensieger"
+    },
+    "weapon-sword-and-shield-donnersieger": {
+      "Key": "weapon-sword-and-shield-donnersieger",
+      "Translation": "Donnersieger"
+    },
+    "weapon-sword-and-shield-donnersieger-plus": {
+      "Key": "weapon-sword-and-shield-donnersieger-plus",
+      "Translation": "Donnersieger +"
+    },
+    "weapon-sword-and-shield-fulgurations-talon": {
+      "Key": "weapon-sword-and-shield-fulgurations-talon",
+      "Translation": "電灼的爪"
+    },
+    "weapon-sword-and-shield-dragonseal-aldsword-i": {
+      "Key": "weapon-sword-and-shield-dragonseal-aldsword-i",
+      "Translation": "Dragonseal Aldsword我"
+    },
+    "weapon-sword-and-shield-dragonseal-aldsword-ii": {
+      "Key": "weapon-sword-and-shield-dragonseal-aldsword-ii",
+      "Translation": "Dragonseal Aldsword II"
+    },
+    "weapon-sword-and-shield-manifested-lotus": {
+      "Key": "weapon-sword-and-shield-manifested-lotus",
+      "Translation": "郭海燕蓮花"
+    },
+    "weapon-sword-and-shield-ephemeral-fulminator": {
+      "Key": "weapon-sword-and-shield-ephemeral-fulminator",
+      "Translation": "短暫Fulminator"
+    },
+    "weapon-sword-and-shield-hydros-discus": {
+      "Key": "weapon-sword-and-shield-hydros-discus",
+      "Translation": "HYDROS鐵餅"
+    },
+    "weapon-sword-and-shield-teostras-medal": {
+      "Key": "weapon-sword-and-shield-teostras-medal",
+      "Translation": "Teostra的勳章"
+    },
+    "weapon-sword-and-shield-fates-shear": {
+      "Key": "weapon-sword-and-shield-fates-shear",
+      "Translation": "命運的剪"
+    },
+    "weapon-sword-and-shield-soulfire-barb-blaze": {
+      "Key": "weapon-sword-and-shield-soulfire-barb-blaze",
+      "Translation": "靈魂之火倒鉤“大火”"
+    },
+    "weapon-sword-and-shield-soulfire-barb-ruin": {
+      "Key": "weapon-sword-and-shield-soulfire-barb-ruin",
+      "Translation": "靈魂之火倒鉤“三絕”"
+    },
+    "weapon-sword-and-shield-rajang-club": {
+      "Key": "weapon-sword-and-shield-rajang-club",
+      "Translation": "拉讓俱樂部"
+    },
+    "weapon-sword-and-shield-banned-rajang-club": {
+      "Key": "weapon-sword-and-shield-banned-rajang-club",
+      "Translation": "禁止拉讓俱樂部"
     }
   }

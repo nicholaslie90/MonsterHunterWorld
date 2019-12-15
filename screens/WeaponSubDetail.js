@@ -1061,6 +1061,10 @@ export default class WeaponSubDetailScreen extends React.PureComponent {
                 return require('../assets/weapons/hunting_horn/melodies/icon-blue2.png');
                 break;
 
+            case 'f':
+                return require('../assets/weapons/hunting_horn/melodies/icon-f.png');
+                break;
+
             case 'green':
                 return require('../assets/weapons/hunting_horn/melodies/icon-green.png');
                 break;

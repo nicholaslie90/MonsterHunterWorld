@@ -99,6 +99,7 @@ export default class AboutScreen extends React.PureComponent {
                             Special Contributors:
                             {"\n"}
                             - DerMotze
+                            - Kenny Todd
 
                             {"\n"}{"\n"}
 
