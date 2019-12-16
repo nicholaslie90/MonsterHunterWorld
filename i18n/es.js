@@ -2709,7 +2709,7 @@ export default {
     },
     "armor-hr-rathalos-mail-beta": {
       "Key": "armor-hr-rathalos-mail-beta",
-      "Translation": "Rathalos ß correo"
+      "Translation": "ß Rathalos correo"
     },
     "armor-hr-rathalos-vambraces-alpha": {
       "Key": "armor-hr-rathalos-vambraces-alpha",
@@ -8005,7 +8005,7 @@ export default {
     },
     "endemic-life-wiggler-queen-description": {
       "Key": "endemic-life-wiggler-queen-description",
-      "Translation": "Esta emperatriz de la noche sólo aparece cuando hay una luna llena! Vamos a ver si ella se digna a mostrarnos sus reales pies ... URRGH! No..."
+      "Translation": "Esta emperatriz de la noche sólo aparece cuando hay una luna llena! Vamos a ver si ella se digna a mostrarnos sus reales pies ... URRGH! Nop ..."
     },
     "endemic-life-wildspire-gecko-description": {
       "Key": "endemic-life-wildspire-gecko-description",
@@ -12085,7 +12085,7 @@ export default {
     },
     "quest-fungal-flexin-in-the-ancient-forest-description": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-description",
-      "Translation": "Suplementos? En mi cantimplora? ¡No! Estamos todos orgánica, baby! Si necesita vitamina D, hacer algo de Gourmet Shroomcaps!"
+      "Translation": "Suplementos? En mi cantimplora? Pff! Estamos todos orgánica, baby! Si necesita vitamina D, hacer algo de Gourmet Shroomcaps!"
     },
     "quest-fungal-flexin-in-the-ancient-forest-notable-rewards": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-notable-rewards",
@@ -12121,7 +12121,7 @@ export default {
     },
     "quest-gettin-yolked-in-the-waste-description": {
       "Key": "quest-gettin-yolked-in-the-waste-description",
-      "Translation": "Estás listo para el día de la pierna !? ¡BUENO! Tendrá que ellos cuando se está ejecutando desde esa manada Apceros! Ahora tráeme mi ronroneo-Otein!"
+      "Translation": "Estás listo para el día de la pierna !? ¡BUENO! Tendrá que ellos cuando se está ejecutando de ese rebaño Apceros! Ahora tráeme mi ronroneo-Otein!"
     },
     "quest-gettin-yolked-in-the-waste-tips": {
       "Key": "quest-gettin-yolked-in-the-waste-tips",
@@ -12453,7 +12453,7 @@ export default {
     },
     "quest-mired-in-the-spire-tips": {
       "Key": "quest-mired-in-the-spire-tips",
-      "Translation": "Comience desde el campamento central (6), (Gastronome atún se puede encontrar en el Camp) hacia el norte y el objetivo debe ser alrededor del Kestodon. Debe huir hacia el sector 8, donde se puede tratar de usar el ataque de diapositivas / salto para montarlo. Se va a huir hacia el sector de 7 a renovar el barro en su cuerpo. Cuando comienza a recibir demasiado débil, que va a huir hacia el sector 9 y cubre a sí mismo en el barro. No hay que subestimar el efecto del agua en sus movimientos cuando se combate en esta área. También es imposible poner Shock Trap en aguas profundas."
+      "Translation": "Comience desde el campamento central (6), (Gastronome atún se puede encontrar en el Camp) hacia el norte y el objetivo debe ser alrededor del Kestodon. Debe huir hacia el sector 8, donde se puede tratar de usar el ataque de diapositivas / salto para montarlo. Se va a huir hacia el sector de 7 a renovar el barro en su cuerpo. Cuando se comienza a recibir demasiado débil, que va a huir hacia el sector 9 y cubre a sí mismo en el barro. No hay que subestimar el efecto del agua en sus movimientos cuando se combate en esta área. También es imposible poner Shock Trap en aguas profundas."
     },
     "quest-new-world-sky-new-world-flower": {
       "Key": "quest-new-world-sky-new-world-flower",
@@ -14205,7 +14205,7 @@ export default {
     },
     "settings-language-german": {
       "Key": "settings-language-german",
-      "Translation": "Alemán"
+      "Translation": "Deutsch"
     },
     "settings-language-italian": {
       "Key": "settings-language-italian",
@@ -14713,7 +14713,7 @@ export default {
     },
     "skill-cliffhanger": {
       "Key": "skill-cliffhanger",
-      "Translation": "Momento culminante"
+      "Translation": "Máximo riesgo"
     },
     "skill-cliffhanger-1": {
       "Key": "skill-cliffhanger-1",
@@ -17449,7 +17449,7 @@ export default {
     },
     "trophy-spreading-the-word": {
       "Key": "trophy-spreading-the-word",
-      "Translation": "Pasando la voz"
+      "Translation": "Difundiendo la palabra"
     },
     "trophy-spreading-the-word-description": {
       "Key": "trophy-spreading-the-word-description",
@@ -17737,7 +17737,7 @@ export default {
     },
     "ui-worn": {
       "Key": "ui-worn",
-      "Translation": "Desgastado"
+      "Translation": "Pasado"
     },
     "weapon-dual-blades-anja-cyclone-i": {
       "Key": "weapon-dual-blades-anja-cyclone-i",
@@ -23334,5 +23334,453 @@ export default {
     "weapon-sword-and-shield-banned-rajang-club": {
       "Key": "weapon-sword-and-shield-banned-rajang-club",
       "Translation": "Prohibido Rajang club"
+    },
+    "weapon-bow-dragon-perforator-i": {
+      "Key": "weapon-bow-dragon-perforator-i",
+      "Translation": "Dragón perforador I"
+    },
+    "weapon-bow-dragon-perforator-ii": {
+      "Key": "weapon-bow-dragon-perforator-ii",
+      "Translation": "Dragón perforador II"
+    },
+    "weapon-bow-dragon-perforator-iii": {
+      "Key": "weapon-bow-dragon-perforator-iii",
+      "Translation": "Dragón Perforador III"
+    },
+    "weapon-bow-usurpers-rumble": {
+      "Key": "weapon-bow-usurpers-rumble",
+      "Translation": "Rumble del usurpador"
+    },
+    "weapon-bow-usurpers-rumble-plus": {
+      "Key": "weapon-bow-usurpers-rumble-plus",
+      "Translation": "del usurpador Rumble +"
+    },
+    "weapon-bow-despots-earlybolt": {
+      "Key": "weapon-bow-despots-earlybolt",
+      "Translation": "Earlybolt Déspota"
+    },
+    "weapon-bow-alqaws-al-nasr-i": {
+      "Key": "weapon-bow-alqaws-al-nasr-i",
+      "Translation": "Alqaws al-Nasr I"
+    },
+    "weapon-bow-alqaws-al-nasr-ii": {
+      "Key": "weapon-bow-alqaws-al-nasr-ii",
+      "Translation": "Alqaws al-Nasr II"
+    },
+    "weapon-bow-rex-bow-i": {
+      "Key": "weapon-bow-rex-bow-i",
+      "Translation": "Rex arco I"
+    },
+    "weapon-bow-rex-bow-ii": {
+      "Key": "weapon-bow-rex-bow-ii",
+      "Translation": "Rex arco II"
+    },
+    "weapon-bow-accursed-arc": {
+      "Key": "weapon-bow-accursed-arc",
+      "Translation": "maldita Arco"
+    },
+    "weapon-bow-dios-flier": {
+      "Key": "weapon-bow-dios-flier",
+      "Translation": "Dios aviador"
+    },
+    "weapon-bow-tsali-flier": {
+      "Key": "weapon-bow-tsali-flier",
+      "Translation": "Tsali aviador"
+    },
+    "weapon-bow-gigacles-plus": {
+      "Key": "weapon-bow-gigacles-plus",
+      "Translation": "Gigacles +"
+    },
+    "weapon-bow-gigantomachy": {
+      "Key": "weapon-bow-gigantomachy",
+      "Translation": "Gigantomachy"
+    },
+    "weapon-bow-princess-arrow-iv": {
+      "Key": "weapon-bow-princess-arrow-iv",
+      "Translation": "Princesa Flecha IV"
+    },
+    "weapon-bow-rathslinger-iv": {
+      "Key": "weapon-bow-rathslinger-iv",
+      "Translation": "Rathslinger IV"
+    },
+    "weapon-bow-azure-mightbow": {
+      "Key": "weapon-bow-azure-mightbow",
+      "Translation": "Azure Mightbow"
+    },
+    "weapon-bow-water-shot-iv": {
+      "Key": "weapon-bow-water-shot-iv",
+      "Translation": "Disparo de agua IV"
+    },
+    "weapon-bow-laguna-shot-i": {
+      "Key": "weapon-bow-laguna-shot-i",
+      "Translation": "Laguna tiro que"
+    },
+    "weapon-bow-laguna-shot-ii": {
+      "Key": "weapon-bow-laguna-shot-ii",
+      "Translation": "Laguna Shot II"
+    },
+    "weapon-bow-icicle-blizzard-i": {
+      "Key": "weapon-bow-icicle-blizzard-i",
+      "Translation": "Carámbano de Blizzard I"
+    },
+    "weapon-bow-icicle-blizzard-ii": {
+      "Key": "weapon-bow-icicle-blizzard-ii",
+      "Translation": "Carámbano de Blizzard II"
+    },
+    "weapon-bow-hidden-bow": {
+      "Key": "weapon-bow-hidden-bow",
+      "Translation": "oculto arco"
+    },
+    "weapon-bow-hidden-bow-plus": {
+      "Key": "weapon-bow-hidden-bow-plus",
+      "Translation": "Oculto arco +"
+    },
+    "weapon-bow-night-flight": {
+      "Key": "weapon-bow-night-flight",
+      "Translation": "Vuelo nocturno"
+    },
+    "weapon-bow-legia-snowfletcher-plus": {
+      "Key": "weapon-bow-legia-snowfletcher-plus",
+      "Translation": "Legia Snowfletcher +"
+    },
+    "weapon-bow-hoarcry-snowfletcher": {
+      "Key": "weapon-bow-hoarcry-snowfletcher",
+      "Translation": "Hoarcry Snowfletcher"
+    },
+    "weapon-bow-mist-glacia": {
+      "Key": "weapon-bow-mist-glacia",
+      "Translation": "niebla Glacia"
+    },
+    "weapon-bow-hunters-bravebow-i": {
+      "Key": "weapon-bow-hunters-bravebow-i",
+      "Translation": "de Hunter Bravebow I"
+    },
+    "weapon-bow-hunters-bravebow-ii": {
+      "Key": "weapon-bow-hunters-bravebow-ii",
+      "Translation": "de Hunter II Bravebow"
+    },
+    "weapon-bow-hunters-bravebow-iii": {
+      "Key": "weapon-bow-hunters-bravebow-iii",
+      "Translation": "de Hunter III Bravebow"
+    },
+    "weapon-bow-iceflinger": {
+      "Key": "weapon-bow-iceflinger",
+      "Translation": "Iceflinger"
+    },
+    "weapon-bow-alluring-evelia": {
+      "Key": "weapon-bow-alluring-evelia",
+      "Translation": "seductora Evelia"
+    },
+    "weapon-bow-mammoth-greatbow-i": {
+      "Key": "weapon-bow-mammoth-greatbow-i",
+      "Translation": "Mammoth Greatbow I"
+    },
+    "weapon-bow-mammoth-greatbow-ii": {
+      "Key": "weapon-bow-mammoth-greatbow-ii",
+      "Translation": "Mammoth Greatbow II"
+    },
+    "weapon-bow-glavenus-arrow-i": {
+      "Key": "weapon-bow-glavenus-arrow-i",
+      "Translation": "Glavenus flecha I"
+    },
+    "weapon-bow-glavenus-arrow-ii": {
+      "Key": "weapon-bow-glavenus-arrow-ii",
+      "Translation": "Glavenus Flecha II"
+    },
+    "weapon-bow-acidic-arrow-i": {
+      "Key": "weapon-bow-acidic-arrow-i",
+      "Translation": "Flecha ácida I"
+    },
+    "monster-stygian-zinogre": {
+      "Key": "monster-stygian-zinogre",
+      "Translation": "Stygian Zinogre"
+    },
+    "monster-safijiiva": {
+      "Key": "monster-safijiiva",
+      "Translation": "Safi'jiiva"
+    },
+    "weapon-tree-defender-tree": {
+      "Key": "weapon-tree-defender-tree",
+      "Translation": "Árbol de defensa"
+    },
+    "weapon-bow-defender-powerbow-i": {
+      "Key": "weapon-bow-defender-powerbow-i",
+      "Translation": "Defensor Powerbow I"
+    },
+    "weapon-bow-defender-powerbow-ii": {
+      "Key": "weapon-bow-defender-powerbow-ii",
+      "Translation": "Defender II Powerbow"
+    },
+    "weapon-bow-defender-powerbow-iii": {
+      "Key": "weapon-bow-defender-powerbow-iii",
+      "Translation": "Defender III Powerbow"
+    },
+    "weapon-bow-defender-powerbow-iv": {
+      "Key": "weapon-bow-defender-powerbow-iv",
+      "Translation": "Defensor Powerbow IV"
+    },
+    "weapon-bow-defender-powerbow-v": {
+      "Key": "weapon-bow-defender-powerbow-v",
+      "Translation": "Defensor Powerbow V"
+    },
+    "weapon-bow-defender-shield-i": {
+      "Key": "weapon-bow-defender-shield-i",
+      "Translation": "Defensor Escudo I"
+    },
+    "weapon-bow-defender-shield-ii": {
+      "Key": "weapon-bow-defender-shield-ii",
+      "Translation": "Defensor Shield II"
+    },
+    "weapon-bow-defender-shield-iii": {
+      "Key": "weapon-bow-defender-shield-iii",
+      "Translation": "Escudo defensor III"
+    },
+    "weapon-bow-defender-shield-iv": {
+      "Key": "weapon-bow-defender-shield-iv",
+      "Translation": "Defensor Escudo IV"
+    },
+    "weapon-bow-defender-shield-v": {
+      "Key": "weapon-bow-defender-shield-v",
+      "Translation": "Defensor Escudo V"
+    },
+    "weapon-dual-blades-defender-chainsaws-i": {
+      "Key": "weapon-dual-blades-defender-chainsaws-i",
+      "Translation": "Defensor motosierras I"
+    },
+    "weapon-dual-blades-defender-chainsaws-ii": {
+      "Key": "weapon-dual-blades-defender-chainsaws-ii",
+      "Translation": "Defender II motosierras"
+    },
+    "weapon-dual-blades-defender-chainsaws-iii": {
+      "Key": "weapon-dual-blades-defender-chainsaws-iii",
+      "Translation": "Defender III motosierras"
+    },
+    "weapon-dual-blades-defender-chainsaws-iv": {
+      "Key": "weapon-dual-blades-defender-chainsaws-iv",
+      "Translation": "Defensor motosierras IV"
+    },
+    "weapon-dual-blades-defender-chainsaws-v": {
+      "Key": "weapon-dual-blades-defender-chainsaws-v",
+      "Translation": "Defensor motosierras V"
+    },
+    "weapon-great-sword-defender-great-sword-i": {
+      "Key": "weapon-great-sword-defender-great-sword-i",
+      "Translation": "Defensor Gran Espada I"
+    },
+    "weapon-great-sword-defender-great-sword-ii": {
+      "Key": "weapon-great-sword-defender-great-sword-ii",
+      "Translation": "Defensor Gran espada II"
+    },
+    "weapon-great-sword-defender-great-sword-iii": {
+      "Key": "weapon-great-sword-defender-great-sword-iii",
+      "Translation": "Defensor Gran Espada III"
+    },
+    "weapon-great-sword-defender-great-sword-iv": {
+      "Key": "weapon-great-sword-defender-great-sword-iv",
+      "Translation": "Defensor Gran Espada IV"
+    },
+    "weapon-great-sword-defender-great-sword-v": {
+      "Key": "weapon-great-sword-defender-great-sword-v",
+      "Translation": "Defensor Gran Espada V"
+    },
+    "weapon-gunlance-defender-gunlance-i": {
+      "Key": "weapon-gunlance-defender-gunlance-i",
+      "Translation": "Defensor Gunlance I"
+    },
+    "weapon-gunlance-defender-gunlance-ii": {
+      "Key": "weapon-gunlance-defender-gunlance-ii",
+      "Translation": "Defender II Gunlance"
+    },
+    "weapon-gunlance-defender-gunlance-iii": {
+      "Key": "weapon-gunlance-defender-gunlance-iii",
+      "Translation": "Defender III Gunlance"
+    },
+    "weapon-gunlance-defender-gunlance-iv": {
+      "Key": "weapon-gunlance-defender-gunlance-iv",
+      "Translation": "Defensor Gunlance IV"
+    },
+    "weapon-gunlance-defender-gunlance-v": {
+      "Key": "weapon-gunlance-defender-gunlance-v",
+      "Translation": "Defensor Gunlance V"
+    },
+    "weapon-gunlance-defender-warhammer-i": {
+      "Key": "weapon-gunlance-defender-warhammer-i",
+      "Translation": "Defensor Warhammer I"
+    },
+    "weapon-gunlance-defender-warhammer-ii": {
+      "Key": "weapon-gunlance-defender-warhammer-ii",
+      "Translation": "Defender II Warhammer"
+    },
+    "weapon-gunlance-defender-warhammer-iii": {
+      "Key": "weapon-gunlance-defender-warhammer-iii",
+      "Translation": "Defender III Warhammer"
+    },
+    "weapon-gunlance-defender-warhammer-iv": {
+      "Key": "weapon-gunlance-defender-warhammer-iv",
+      "Translation": "Defensor Warhammer IV"
+    },
+    "weapon-gunlance-defender-warhammer-v": {
+      "Key": "weapon-gunlance-defender-warhammer-v",
+      "Translation": "Defensor Warhammer V"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-i": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-i",
+      "Translation": "Defensor pesada Bowgun I"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-ii": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-ii",
+      "Translation": "Defensor pesada Bowgun II"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-iii": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-iii",
+      "Translation": "Defensor pesada Bowgun III"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-iv": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-iv",
+      "Translation": "Defensor pesada Bowgun IV"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-v": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-v",
+      "Translation": "Defensor pesada V Bowgun"
+    },
+    "weapon-hunting-horn-defender-rally-horn-i": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-i",
+      "Translation": "Defensor Rally Cuerno I"
+    },
+    "weapon-hunting-horn-defender-rally-horn-ii": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-ii",
+      "Translation": "Defender II Rally de Hornos"
+    },
+    "weapon-hunting-horn-defender-rally-horn-iii": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-iii",
+      "Translation": "Defensor Rally Cuerno III"
+    },
+    "weapon-hunting-horn-defender-rally-horn-iv": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-iv",
+      "Translation": "Defensor Rally Cuerno IV"
+    },
+    "weapon-hunting-horn-defender-rally-horn-v": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-v",
+      "Translation": "Defensor Rally Cuerno V"
+    },
+    "weapon-insect-glaive-defender-glaive-i": {
+      "Key": "weapon-insect-glaive-defender-glaive-i",
+      "Translation": "Defensor Glaive I"
+    },
+    "weapon-insect-glaive-defender-glaive-ii": {
+      "Key": "weapon-insect-glaive-defender-glaive-ii",
+      "Translation": "Defender II Glaive"
+    },
+    "weapon-insect-glaive-defender-glaive-iii": {
+      "Key": "weapon-insect-glaive-defender-glaive-iii",
+      "Translation": "Defender III Glaive"
+    },
+    "weapon-insect-glaive-defender-glaive-iv": {
+      "Key": "weapon-insect-glaive-defender-glaive-iv",
+      "Translation": "Defensor Glaive IV"
+    },
+    "weapon-insect-glaive-defender-glaive-v": {
+      "Key": "weapon-insect-glaive-defender-glaive-v",
+      "Translation": "Defensor Glaive V"
+    },
+    "weapon-lance-defender-lance-i": {
+      "Key": "weapon-lance-defender-lance-i",
+      "Translation": "Defender la lanza I"
+    },
+    "weapon-lance-defender-lance-ii": {
+      "Key": "weapon-lance-defender-lance-ii",
+      "Translation": "Defender la lanza II"
+    },
+    "weapon-lance-defender-lance-iii": {
+      "Key": "weapon-lance-defender-lance-iii",
+      "Translation": "Defender la lanza III"
+    },
+    "weapon-lance-defender-lance-iv": {
+      "Key": "weapon-lance-defender-lance-iv",
+      "Translation": "Defender la lanza IV"
+    },
+    "weapon-lance-defender-lance-v": {
+      "Key": "weapon-lance-defender-lance-v",
+      "Translation": "Defender la lanza V"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-i": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-i",
+      "Translation": "Defender la luz que Bowgun"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-ii": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-ii",
+      "Translation": "Defensor Luz Bowgun II"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-iii": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-iii",
+      "Translation": "Defensor Luz Bowgun III"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-iv": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-iv",
+      "Translation": "Defensor Luz Bowgun IV"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-v": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-v",
+      "Translation": "Defensor Luz Bowgun V"
+    },
+    "weapon-long-sword-defender-katana-i": {
+      "Key": "weapon-long-sword-defender-katana-i",
+      "Translation": "Defensor Katana I"
+    },
+    "weapon-long-sword-defender-katana-ii": {
+      "Key": "weapon-long-sword-defender-katana-ii",
+      "Translation": "Defensor Katana II"
+    },
+    "weapon-long-sword-defender-katana-iii": {
+      "Key": "weapon-long-sword-defender-katana-iii",
+      "Translation": "Defender III Katana"
+    },
+    "weapon-long-sword-defender-katana-iv": {
+      "Key": "weapon-long-sword-defender-katana-iv",
+      "Translation": "Defender IV Katana"
+    },
+    "weapon-long-sword-defender-katana-v": {
+      "Key": "weapon-long-sword-defender-katana-v",
+      "Translation": "Defensor Katana V"
+    },
+    "weapon-switch-axe-defender-switch-axe-i": {
+      "Key": "weapon-switch-axe-defender-switch-axe-i",
+      "Translation": "Interruptor defensor Axe I"
+    },
+    "weapon-switch-axe-defender-switch-axe-ii": {
+      "Key": "weapon-switch-axe-defender-switch-axe-ii",
+      "Translation": "Interruptor defensor Axe II"
+    },
+    "weapon-switch-axe-defender-switch-axe-iii": {
+      "Key": "weapon-switch-axe-defender-switch-axe-iii",
+      "Translation": "Interruptor defensor Axe III"
+    },
+    "weapon-switch-axe-defender-switch-axe-iv": {
+      "Key": "weapon-switch-axe-defender-switch-axe-iv",
+      "Translation": "Interruptor defensor Axe IV"
+    },
+    "weapon-switch-axe-defender-switch-axe-v": {
+      "Key": "weapon-switch-axe-defender-switch-axe-v",
+      "Translation": "Interruptor defensor Axe V"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-i": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-i",
+      "Translation": "Defensor Warhatchet I"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-ii": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-ii",
+      "Translation": "Defender II Warhatchet"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-iii": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-iii",
+      "Translation": "Defender III Warhatchet"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-iv": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-iv",
+      "Translation": "Defensor Warhatchet IV"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-v": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-v",
+      "Translation": "Defensor Warhatchet V"
     }
   }

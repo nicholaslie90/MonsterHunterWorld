@@ -3649,7 +3649,7 @@ export default {
     },
     "armor-lr-harvest": {
       "Key": "armor-lr-harvest",
-      "Translation": "추수"
+      "Translation": "수확"
     },
     "armor-lr-harvest-flor": {
       "Key": "armor-lr-harvest-flor",
@@ -7513,7 +7513,7 @@ export default {
     },
     "armor-uragaan-description": {
       "Key": "armor-uragaan-description",
-      "Translation": "무거운 갑옷 무거운 Uragaan 부분으로 구성하고, 그것의 모든 온스는 방어에 추가합니다."
+      "Translation": "무거운 갑옷 무거운 Uragaan 부분으로, 그리고 그것의 모든 온스는 방어에 추가합니다."
     },
     "armor-vaal-hazak-description": {
       "Key": "armor-vaal-hazak-description",
@@ -7593,7 +7593,7 @@ export default {
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics-tips": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics-tips",
-      "Translation": "첫 번째 4 명 Lynian 연구 퀘스트를 완료 한 후이 현상금은 아스 테라의 Lynian 연구원에서 포착 할 수 있습니다. 연구자는. 당신이 10 개 Gajalaka의 낙서를 발견하도록 요청 \\ n \\ n 설치 다음은이 현상금 동안 만 높은 순위 위치에 산란을하는 것이 중요하다. 당신은 지역 5 1 낙서와 고대의 숲 영역 (15) 1 낙서를 찾을 수 있습니다. 당신은. 영역 3 1 낙서와 Wildspire 폐기물 영역 7 일 낙서를 찾을 수 있습니다 \\ n \\ n 삭제 산호 고원 영역 (12) 1 낙서를 찾을 수 있습니다. 당신은 지역 3 2 낙서와 썩은 베일의 영역 (15)의 3 낙서를 찾을 수 있습니다. 당신은 아스 테라로 돌아 가면, 연구원은. 당신이 Gajalaka 캠프를 찾기 위해 밖으로 설정 싶어 \\ n \\ n 좋아 드래곤의 쉬는 시간 영역 (8)의 연구원. 현상금을 시작하기 위해서는, 밤 시간이 될 필요가있다. 캠프의 뒤쪽에 캠프 화재에서 지도자로 Ghillie 맨틀과 이야기를 착용 할 것. 보상 : 귀하의 Palico 지금 Gastodon에 meowlotov 칵테일과 이야기를 할 수 있습니다."
+      "Translation": "첫 번째 4 개 Lynian 연구 퀘스트를 완료 한 후이 현상금은 아스 테라의 Lynian 연구원에서 포착 할 수 있습니다. 연구자는. 당신이 10 개 Gajalaka의 낙서를 발견하도록 요청 \\ n \\ n 설치 다음은이 현상금 동안 만 높은 순위 위치에 산란을하는 것이 중요하다. 당신은 지역 5 1 낙서와 고대의 숲 영역 (15) 1 낙서를 찾을 수 있습니다. 당신은. 영역 3 1 낙서와 Wildspire 폐기물 영역 7 일 낙서를 찾을 수 있습니다 \\ n \\ n 삭제 산호 고원 영역 (12) 1 낙서를 찾을 수 있습니다. 당신은 지역 3 2 낙서와 썩은 베일의 영역 (15)의 3 낙서를 찾을 수 있습니다. 당신은 아스 테라로 돌아 가면, 연구원은. 당신이 Gajalaka 캠프를 찾기 위해 밖으로 설정 싶어 \\ n \\ n 좋아 드래곤의 쉬는 시간 영역 (8)의 연구원. 현상금을 시작하기 위해서는, 밤 시간이 될 필요가있다. 캠프의 뒤쪽에 캠프 화재에서 지도자로 Ghillie 맨틀과 이야기를 착용 할 것. 보상 : 귀하의 Palico 지금 Gastodon에 meowlotov 칵테일과 이야기를 할 수 있습니다."
     },
     "critical-bounties-important": {
       "Key": "critical-bounties-important",
@@ -7601,7 +7601,7 @@ export default {
     },
     "critical-bounties-important-notes": {
       "Key": "critical-bounties-important-notes",
-      "Translation": ". 당신이 현장에서 발생할 수있는 세 가지 연구가있다 : 당신이 탐험에 규정 된 지방 병 생활 연구원의 Lynian 연구원과 어류 연구원 \\ n \\ n 해당이 단 하나의 연구원이 영역에 산란한다. 당신이 당신의 탐험 대상을 선택할 때 어떤 연구원 급부상, 세계지도에 표시됩니다. 당신이 할당, 탐험 또는 조사를 완료 할 때마다, 그것은 어떤 연구원의 급부상을 변경합니다. 있다고는. 정기적으로 세계지도를 확인하는 것이 중요하다 \\ n \\ n 설치는 각 연구원의 중요한 상금을 진행하기 위해 각 영역의 각 연구원에게 이야기하는 것이 중요 이유. 이 무작위이기 때문에 연구원의 급부상은 (이전 참고 사항 참조),이.이 중요한 특지를 놓치지 쉬운 \\ n \\ n 만약 연구원이 제공하는 현상금을 가지고, 그들은지도에 노란색 느낌표 (!)로 표시되는 . 난 항상지도에이 마크가 표시되지 않았고, 나는이 중요한 특지 놓쳤다 이유입니다. 당신이 탐험에 일단, 당신의 세계지도를 열고 쉽게 발견 할 수 있도록 풍토 생활 필터를 선택합니다 L1 / R1 버튼을 사용합니다. \\ n \\ n 만약이 연구원이 제공하는 더 현상금이 없습니다, 그들은 밝은 녹색으로 표시됩니다 점 (.)지도가 있습니다. \\ n \\ n 응급 당신이 그를 알리기 위해 각각의 연구원에게 말할 수, 중요한 현상금을 완료 / 그녀는 당신은 현상금을 완료되었는지. 그러나, 당신은 항상. 보상을 현상금을 완료하고받을 아스 테라의 연구 센터에 얘기를해야 \\ n \\ n 만약 당신이 현상금을 마친 후 연구원에게 이야기하지 않았고 당신은 새로운 영역에서 그들에게 이야기하려고합니다 새로운 현상금을 받아, 당신이 두 배 연구원에게 얘기를해야 가능성이있다. 한 시간이 그를 알려 / 그녀를 이전 현상금을 완료있다. 또 다른 시간은 새로운 영역의 중요한 현상금을 시작합니다 \\ n \\ nChoosing 높은 순위 인 문제, 용의 쉬는 시간을 제외하지 않는 낮은 순위 또는 높은 순위 목적지에만 \\ n \\ nLynian 수배 :.. 당신은 낙서를 찾을 때마다 당신의 스카우트 파리로 표시 할 수 있으며 다음 낙서로 여러분을 안내 할 것입니다. 아래의 위치에이 리드를하고. 클랜 친구가되어 주라 하신다 후, 당신은 당신의 방에 나 기지에 당신의 Palico 이야기 할 수 있습니다. 귀하의 Palico은 당신이 배운 새로운 트릭을 알려드립니다."
+      "Translation": ". 당신이 현장에서 발생할 수있는 세 가지 연구가있다 : 당신이 탐험에 규정 된 지방 병 생활 연구원의 Lynian 연구원과 어류 연구원 \\ n \\ n 해당이 단 하나의 연구원이 영역에 산란한다. 당신이 당신의 탐험 대상을 선택할 때 어떤 연구원 급부상, 세계지도에 표시됩니다. 당신이 할당, 탐험 또는 조사를 완료 할 때마다, 그것은 어떤 연구원의 급부상을 변경합니다. 있다고는. 정기적으로 세계지도를 확인하는 것이 중요하다 \\ n \\ n 설치는 각 연구원의 중요한 상금을 진행하기 위해 각 영역의 각 연구원에게 이야기하는 중요한 이유. 이 무작위이기 때문에 연구원의 급부상은 (이전 참고 사항 참조),이.이 중요한 특지를 놓치지 쉬운 \\ n \\ n 만약 연구원이 제공하는 현상금을 가지고, 그들은지도에 노란색 느낌표 (!)로 표시되는 . 난 항상지도에이 마크가 표시되지 않았고, 나는이 중요한 특지 놓쳤다 이유입니다. 당신이 탐험에 일단, 당신의 세계지도를 열고 쉽게 발견 할 수 있도록 풍토 생활 필터를 선택합니다 L1 / R1 버튼을 사용합니다. \\ n \\ n 만약이 연구원이 제공하는 더 현상금이 없습니다, 그들은 밝은 녹색으로 표시됩니다 점 (.)지도가 있습니다. \\ n \\ n 응급 당신이 그를 알리기 위해 각각의 연구원에게 말할 수, 중요한 현상금을 완료 / 그녀는 당신은 현상금을 완료되었는지. 그러나, 당신은 항상. 보상을 현상금을 완료하고받을 아스 테라의 연구 센터에 얘기를해야 \\ n \\ n 만약 당신이 현상금을 마친 후 연구원에게 이야기하지 않았고 당신은 새로운 영역에서 그들에게 이야기하려고합니다 새로운 현상금을 받아, 당신이 두 배 연구원에게 얘기를해야 가능성이있다. 한 시간이 그를 알려 / 그녀를 이전 현상금을 완료있다. 또 다른 시간은 새로운 영역의 중요한 현상금을 시작합니다 \\ n \\ nChoosing 높은 순위 인 문제, 용의 쉬는 시간을 제외하지 않는 낮은 순위 또는 높은 순위 목적지에만 \\ n \\ nLynian 수배 :.. 당신은 낙서를 찾을 때마다 당신의 스카우트 파리로 표시 할 수 있으며 다음 낙서로 여러분을 안내 할 것입니다. 아래의 위치에이 리드를하고. 클랜 친구가되어 주라 하신다 후, 당신은 당신의 방에 나 기지에 당신의 Palico 이야기 할 수 있습니다. 귀하의 Palico은 당신이 배운 새로운 트릭을 알려드립니다."
     },
     "critical-bounties-notes": {
       "Key": "critical-bounties-notes",
@@ -7897,7 +7897,7 @@ export default {
     },
     "endemic-life-iron-helmcrab-description": {
       "Key": "endemic-life-iron-helmcrab-description",
-      "Translation": "와! 정말 헬멧처럼 보입니까! 그리고 ... 날카로운 포드를 들고이야? 글쎄, 나는 내가 테이크 아우를 경우 신경 쓰지 확신!"
+      "Translation": "와우! 정말 헬멧처럼 보입니까! 그리고 ... 날카로운 포드를 들고이야? 글쎄, 나는 내가 테이크 아우를 경우 신경 쓰지 확신!"
     },
     "endemic-life-king-marlin-description": {
       "Key": "endemic-life-king-marlin-description",
@@ -7921,7 +7921,7 @@ export default {
     },
     "endemic-life-paratoad-description": {
       "Key": "endemic-life-paratoad-description",
-      "Translation": "위협을 때 몸 해제를에 가스를 마비 저장! 보다? 여기, 그 소마 - AGH에서! 난 ... 할 수 없습니다 ... mooove ..."
+      "Translation": "위협을 때 몸 해제를에 가스를 마비 저장! 만나다? 여기, 그 소마 - AGH에서! 난 ... 할 수 없습니다 ... mooove ..."
     },
     "endemic-life-petricanths-description": {
       "Key": "endemic-life-petricanths-description",
@@ -8425,7 +8425,7 @@ export default {
     },
     "layered-armor-harvest": {
       "Key": "layered-armor-harvest",
-      "Translation": "추수"
+      "Translation": "수확"
     },
     "layered-armor-harvest-how-to-get": {
       "Key": "layered-armor-harvest-how-to-get",
@@ -12497,7 +12497,7 @@ export default {
     },
     "quest-objective": {
       "Key": "quest-objective",
-      "Translation": "객관적인"
+      "Translation": "목표"
     },
     "quest-objective-capture-a-barroth": {
       "Key": "quest-objective-capture-a-barroth",
@@ -13129,7 +13129,7 @@ export default {
     },
     "quest-scratching-the-itch-description": {
       "Key": "quest-scratching-the-itch-description",
-      "Translation": "오늘 아침 나는 훌륭한 출현 깨웠다! 나는 현장 ... Odogaron의 backscratchers에서 무언가에 대한 긴 하루 후 매 사냥꾼의 요구에 아이디어가!"
+      "Translation": "오늘 아침에 나는 화려한 출현 깨웠다! 나는 현장 ... Odogaron의 backscratchers에서 무언가에 대한 긴 하루 후 매 사냥꾼의 요구에 아이디어가!"
     },
     "quest-showdown-the-muck-and-the-maul": {
       "Key": "quest-showdown-the-muck-and-the-maul",
@@ -13565,7 +13565,7 @@ export default {
     },
     "quest-the-great-glutton-tips": {
       "Key": "quest-the-great-glutton-tips",
-      "Translation": "남서 캠프 (1)에서 시작, 대상을 찾을 섹터 2를 향해 북쪽으로 이동합니다. 이 싸움에 참여 섹터 2의 Jagras을 피하기 위해 공격하기 전에 섹터 1에 도달하기 위해 당신은 기다릴 수 있습니다. 그것은 충분히 약화되면, 당신은 다음 죽일하거나 캡처 할 수 있습니다 섹터 2에서 그것의 둥지에 도망 것입니다."
+      "Translation": "사우스 웨스트 캠프 (1)에서 시작, 대상을 찾을 섹터 2를 향해 북쪽으로 이동합니다. 이 싸움에 참여 섹터 2의 Jagras을 피하기 위해 공격하기 전에 섹터 1에 도달하기 위해 당신은 기다릴 수 있습니다. 그것은 충분히 약화되면, 당신은 다음 죽일하거나 캡처 할 수 있습니다 섹터 2에서 그것의 둥지에 도망 것입니다."
     },
     "quest-the-great-jagras-hunt": {
       "Key": "quest-the-great-jagras-hunt",
@@ -14257,7 +14257,7 @@ export default {
     },
     "settings-rate-app": {
       "Key": "settings-rate-app",
-      "Translation": "이 앱을 평가 해주세요"
+      "Translation": "이 앱을 평가 해주십시오"
     },
     "settings-rate-app-text": {
       "Key": "settings-rate-app-text",
@@ -14349,7 +14349,7 @@ export default {
     },
     "settings-value-on": {
       "Key": "settings-value-on",
-      "Translation": "의 위에"
+      "Translation": "에"
     },
     "skill-adrenaline": {
       "Key": "skill-adrenaline",
@@ -15697,7 +15697,7 @@ export default {
     },
     "skill-latent-power": {
       "Key": "skill-latent-power",
-      "Translation": "잠복 전원"
+      "Translation": "잠재 파워"
     },
     "skill-latent-power-1": {
       "Key": "skill-latent-power-1",
@@ -16217,7 +16217,7 @@ export default {
     },
     "skill-recovery-speed-2": {
       "Key": "skill-recovery-speed-2",
-      "Translation": "이 복구 손상을 치유하는 속도를 트리플."
+      "Translation": "당신이 복구 손상을 치유하는 속도를 트리플."
     },
     "skill-recovery-speed-3": {
       "Key": "skill-recovery-speed-3",
@@ -17149,7 +17149,7 @@ export default {
     },
     "trophy-helpful-hunter-description": {
       "Key": "trophy-helpful-hunter-description",
-      "Translation": "마스터 순위 사냥꾼으로 10 개 퀘스트에 낮은 순위 또는 상위 사냥꾼을 원조."
+      "Translation": "마스터 순위 사냥꾼 등 10 개 퀘스트에 낮은 순위 또는 상위 사냥꾼을 원조."
     },
     "trophy-hunter-prodigy": {
       "Key": "trophy-hunter-prodigy",
@@ -17369,7 +17369,7 @@ export default {
     },
     "trophy-one-shall-stand-one-shall-fall": {
       "Key": "trophy-one-shall-stand-one-shall-fall",
-      "Translation": "하나는 하나의 가을 할까, 스탠드 할까"
+      "Translation": "하나는 하나는 가을 할까, 스탠드 할까"
     },
     "trophy-one-shall-stand-one-shall-fall-description": {
       "Key": "trophy-one-shall-stand-one-shall-fall-description",
@@ -20533,7 +20533,7 @@ export default {
     },
     "weapon-long-sword-empress-sword-blaze": {
       "Key": "weapon-long-sword-empress-sword-blaze",
-      "Translation": "엠 프레스 검 \"불꽃\""
+      "Translation": "황후의 검 \"불꽃\""
     },
     "weapon-long-sword-empress-sword-ruin": {
       "Key": "weapon-long-sword-empress-sword-ruin",
@@ -23334,5 +23334,453 @@ export default {
     "weapon-sword-and-shield-banned-rajang-club": {
       "Key": "weapon-sword-and-shield-banned-rajang-club",
       "Translation": "금지에서 Rajang 클럽"
+    },
+    "weapon-bow-dragon-perforator-i": {
+      "Key": "weapon-bow-dragon-perforator-i",
+      "Translation": "드래곤 천공기 I"
+    },
+    "weapon-bow-dragon-perforator-ii": {
+      "Key": "weapon-bow-dragon-perforator-ii",
+      "Translation": "드래곤 천공기 II"
+    },
+    "weapon-bow-dragon-perforator-iii": {
+      "Key": "weapon-bow-dragon-perforator-iii",
+      "Translation": "드래곤 천공기 III"
+    },
+    "weapon-bow-usurpers-rumble": {
+      "Key": "weapon-bow-usurpers-rumble",
+      "Translation": "횡령의 럼블"
+    },
+    "weapon-bow-usurpers-rumble-plus": {
+      "Key": "weapon-bow-usurpers-rumble-plus",
+      "Translation": "횡령의 럼블 +"
+    },
+    "weapon-bow-despots-earlybolt": {
+      "Key": "weapon-bow-despots-earlybolt",
+      "Translation": "군주의 Earlybolt"
+    },
+    "weapon-bow-alqaws-al-nasr-i": {
+      "Key": "weapon-bow-alqaws-al-nasr-i",
+      "Translation": "Alqaws 알 - 나스 르 I"
+    },
+    "weapon-bow-alqaws-al-nasr-ii": {
+      "Key": "weapon-bow-alqaws-al-nasr-ii",
+      "Translation": "Alqaws 알 - 나스 르 II"
+    },
+    "weapon-bow-rex-bow-i": {
+      "Key": "weapon-bow-rex-bow-i",
+      "Translation": "렉스 활 I"
+    },
+    "weapon-bow-rex-bow-ii": {
+      "Key": "weapon-bow-rex-bow-ii",
+      "Translation": "렉스 활 II"
+    },
+    "weapon-bow-accursed-arc": {
+      "Key": "weapon-bow-accursed-arc",
+      "Translation": "저주 호"
+    },
+    "weapon-bow-dios-flier": {
+      "Key": "weapon-bow-dios-flier",
+      "Translation": "디오스 전단지"
+    },
+    "weapon-bow-tsali-flier": {
+      "Key": "weapon-bow-tsali-flier",
+      "Translation": "트 살리 전단지"
+    },
+    "weapon-bow-gigacles-plus": {
+      "Key": "weapon-bow-gigacles-plus",
+      "Translation": "Gigacles +"
+    },
+    "weapon-bow-gigantomachy": {
+      "Key": "weapon-bow-gigantomachy",
+      "Translation": "Gigantomachy"
+    },
+    "weapon-bow-princess-arrow-iv": {
+      "Key": "weapon-bow-princess-arrow-iv",
+      "Translation": "공주 화살표 IV"
+    },
+    "weapon-bow-rathslinger-iv": {
+      "Key": "weapon-bow-rathslinger-iv",
+      "Translation": "Rathslinger IV"
+    },
+    "weapon-bow-azure-mightbow": {
+      "Key": "weapon-bow-azure-mightbow",
+      "Translation": "푸른 Mightbow"
+    },
+    "weapon-bow-water-shot-iv": {
+      "Key": "weapon-bow-water-shot-iv",
+      "Translation": "물 샷 IV"
+    },
+    "weapon-bow-laguna-shot-i": {
+      "Key": "weapon-bow-laguna-shot-i",
+      "Translation": "라구나 샷 I"
+    },
+    "weapon-bow-laguna-shot-ii": {
+      "Key": "weapon-bow-laguna-shot-ii",
+      "Translation": "라구나 샷 II"
+    },
+    "weapon-bow-icicle-blizzard-i": {
+      "Key": "weapon-bow-icicle-blizzard-i",
+      "Translation": "고드름 블리자드 I"
+    },
+    "weapon-bow-icicle-blizzard-ii": {
+      "Key": "weapon-bow-icicle-blizzard-ii",
+      "Translation": "고드름 블리자드 II"
+    },
+    "weapon-bow-hidden-bow": {
+      "Key": "weapon-bow-hidden-bow",
+      "Translation": "숨겨진 활"
+    },
+    "weapon-bow-hidden-bow-plus": {
+      "Key": "weapon-bow-hidden-bow-plus",
+      "Translation": "숨겨진 활 +"
+    },
+    "weapon-bow-night-flight": {
+      "Key": "weapon-bow-night-flight",
+      "Translation": "야간 비행"
+    },
+    "weapon-bow-legia-snowfletcher-plus": {
+      "Key": "weapon-bow-legia-snowfletcher-plus",
+      "Translation": "레 기아 Snowfletcher +"
+    },
+    "weapon-bow-hoarcry-snowfletcher": {
+      "Key": "weapon-bow-hoarcry-snowfletcher",
+      "Translation": "Hoarcry Snowfletcher"
+    },
+    "weapon-bow-mist-glacia": {
+      "Key": "weapon-bow-mist-glacia",
+      "Translation": "미스트 Glacia"
+    },
+    "weapon-bow-hunters-bravebow-i": {
+      "Key": "weapon-bow-hunters-bravebow-i",
+      "Translation": "사냥꾼의 Bravebow I"
+    },
+    "weapon-bow-hunters-bravebow-ii": {
+      "Key": "weapon-bow-hunters-bravebow-ii",
+      "Translation": "사냥꾼의 Bravebow II"
+    },
+    "weapon-bow-hunters-bravebow-iii": {
+      "Key": "weapon-bow-hunters-bravebow-iii",
+      "Translation": "사냥꾼의 Bravebow III"
+    },
+    "weapon-bow-iceflinger": {
+      "Key": "weapon-bow-iceflinger",
+      "Translation": "Iceflinger"
+    },
+    "weapon-bow-alluring-evelia": {
+      "Key": "weapon-bow-alluring-evelia",
+      "Translation": "고혹적 Evelia"
+    },
+    "weapon-bow-mammoth-greatbow-i": {
+      "Key": "weapon-bow-mammoth-greatbow-i",
+      "Translation": "맘모스 Greatbow I"
+    },
+    "weapon-bow-mammoth-greatbow-ii": {
+      "Key": "weapon-bow-mammoth-greatbow-ii",
+      "Translation": "맘모스 Greatbow II"
+    },
+    "weapon-bow-glavenus-arrow-i": {
+      "Key": "weapon-bow-glavenus-arrow-i",
+      "Translation": "Glavenus 화살표 I"
+    },
+    "weapon-bow-glavenus-arrow-ii": {
+      "Key": "weapon-bow-glavenus-arrow-ii",
+      "Translation": "Glavenus 화살표 II"
+    },
+    "weapon-bow-acidic-arrow-i": {
+      "Key": "weapon-bow-acidic-arrow-i",
+      "Translation": "산성 화살표 I"
+    },
+    "monster-stygian-zinogre": {
+      "Key": "monster-stygian-zinogre",
+      "Translation": "Stygian Zinogre"
+    },
+    "monster-safijiiva": {
+      "Key": "monster-safijiiva",
+      "Translation": "Safi'jiiva"
+    },
+    "weapon-tree-defender-tree": {
+      "Key": "weapon-tree-defender-tree",
+      "Translation": "수비수 트리"
+    },
+    "weapon-bow-defender-powerbow-i": {
+      "Key": "weapon-bow-defender-powerbow-i",
+      "Translation": "수비수 Powerbow I"
+    },
+    "weapon-bow-defender-powerbow-ii": {
+      "Key": "weapon-bow-defender-powerbow-ii",
+      "Translation": "수비수 Powerbow II"
+    },
+    "weapon-bow-defender-powerbow-iii": {
+      "Key": "weapon-bow-defender-powerbow-iii",
+      "Translation": "수비수 Powerbow III"
+    },
+    "weapon-bow-defender-powerbow-iv": {
+      "Key": "weapon-bow-defender-powerbow-iv",
+      "Translation": "수비수 Powerbow IV"
+    },
+    "weapon-bow-defender-powerbow-v": {
+      "Key": "weapon-bow-defender-powerbow-v",
+      "Translation": "수비수 Powerbow V"
+    },
+    "weapon-bow-defender-shield-i": {
+      "Key": "weapon-bow-defender-shield-i",
+      "Translation": "수비수 쉴드 I"
+    },
+    "weapon-bow-defender-shield-ii": {
+      "Key": "weapon-bow-defender-shield-ii",
+      "Translation": "수비수 쉴드 II"
+    },
+    "weapon-bow-defender-shield-iii": {
+      "Key": "weapon-bow-defender-shield-iii",
+      "Translation": "수비수 방패 III"
+    },
+    "weapon-bow-defender-shield-iv": {
+      "Key": "weapon-bow-defender-shield-iv",
+      "Translation": "수비수 방패 IV"
+    },
+    "weapon-bow-defender-shield-v": {
+      "Key": "weapon-bow-defender-shield-v",
+      "Translation": "수비수 쉴드 V"
+    },
+    "weapon-dual-blades-defender-chainsaws-i": {
+      "Key": "weapon-dual-blades-defender-chainsaws-i",
+      "Translation": "수비수 동력 사슬 톱 I"
+    },
+    "weapon-dual-blades-defender-chainsaws-ii": {
+      "Key": "weapon-dual-blades-defender-chainsaws-ii",
+      "Translation": "수비수 동력 사슬 톱 II"
+    },
+    "weapon-dual-blades-defender-chainsaws-iii": {
+      "Key": "weapon-dual-blades-defender-chainsaws-iii",
+      "Translation": "수비수 동력 사슬 톱 III"
+    },
+    "weapon-dual-blades-defender-chainsaws-iv": {
+      "Key": "weapon-dual-blades-defender-chainsaws-iv",
+      "Translation": "수비수 동력 사슬 톱 IV"
+    },
+    "weapon-dual-blades-defender-chainsaws-v": {
+      "Key": "weapon-dual-blades-defender-chainsaws-v",
+      "Translation": "수비수 동력 사슬 톱 V"
+    },
+    "weapon-great-sword-defender-great-sword-i": {
+      "Key": "weapon-great-sword-defender-great-sword-i",
+      "Translation": "수비수 대검 I"
+    },
+    "weapon-great-sword-defender-great-sword-ii": {
+      "Key": "weapon-great-sword-defender-great-sword-ii",
+      "Translation": "수비수 대검 II"
+    },
+    "weapon-great-sword-defender-great-sword-iii": {
+      "Key": "weapon-great-sword-defender-great-sword-iii",
+      "Translation": "수비수 대검 III"
+    },
+    "weapon-great-sword-defender-great-sword-iv": {
+      "Key": "weapon-great-sword-defender-great-sword-iv",
+      "Translation": "수비수 대검 IV"
+    },
+    "weapon-great-sword-defender-great-sword-v": {
+      "Key": "weapon-great-sword-defender-great-sword-v",
+      "Translation": "수비수 대검 V"
+    },
+    "weapon-gunlance-defender-gunlance-i": {
+      "Key": "weapon-gunlance-defender-gunlance-i",
+      "Translation": "수비수 Gunlance I"
+    },
+    "weapon-gunlance-defender-gunlance-ii": {
+      "Key": "weapon-gunlance-defender-gunlance-ii",
+      "Translation": "수비수 Gunlance II"
+    },
+    "weapon-gunlance-defender-gunlance-iii": {
+      "Key": "weapon-gunlance-defender-gunlance-iii",
+      "Translation": "수비수 Gunlance III"
+    },
+    "weapon-gunlance-defender-gunlance-iv": {
+      "Key": "weapon-gunlance-defender-gunlance-iv",
+      "Translation": "수비수 Gunlance IV"
+    },
+    "weapon-gunlance-defender-gunlance-v": {
+      "Key": "weapon-gunlance-defender-gunlance-v",
+      "Translation": "수비수 Gunlance V"
+    },
+    "weapon-gunlance-defender-warhammer-i": {
+      "Key": "weapon-gunlance-defender-warhammer-i",
+      "Translation": "수비수 워해머 I"
+    },
+    "weapon-gunlance-defender-warhammer-ii": {
+      "Key": "weapon-gunlance-defender-warhammer-ii",
+      "Translation": "수비수 워해머 II"
+    },
+    "weapon-gunlance-defender-warhammer-iii": {
+      "Key": "weapon-gunlance-defender-warhammer-iii",
+      "Translation": "수비수 워해머 III"
+    },
+    "weapon-gunlance-defender-warhammer-iv": {
+      "Key": "weapon-gunlance-defender-warhammer-iv",
+      "Translation": "수비수 워해머 IV"
+    },
+    "weapon-gunlance-defender-warhammer-v": {
+      "Key": "weapon-gunlance-defender-warhammer-v",
+      "Translation": "수비수 워해머 V"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-i": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-i",
+      "Translation": "수비수 중공업 Bowgun I"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-ii": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-ii",
+      "Translation": "수비수 중공업 Bowgun II"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-iii": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-iii",
+      "Translation": "수비수 중공업 Bowgun III"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-iv": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-iv",
+      "Translation": "수비수 중공업 Bowgun IV"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-v": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-v",
+      "Translation": "수비수 중공업 Bowgun V"
+    },
+    "weapon-hunting-horn-defender-rally-horn-i": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-i",
+      "Translation": "수비수 랠리 혼 I"
+    },
+    "weapon-hunting-horn-defender-rally-horn-ii": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-ii",
+      "Translation": "수비수 랠리 혼 II"
+    },
+    "weapon-hunting-horn-defender-rally-horn-iii": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-iii",
+      "Translation": "수비수 랠리 혼 III"
+    },
+    "weapon-hunting-horn-defender-rally-horn-iv": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-iv",
+      "Translation": "수비수 랠리 혼 IV"
+    },
+    "weapon-hunting-horn-defender-rally-horn-v": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-v",
+      "Translation": "수비수 랠리 혼 V"
+    },
+    "weapon-insect-glaive-defender-glaive-i": {
+      "Key": "weapon-insect-glaive-defender-glaive-i",
+      "Translation": "수비수 글레이브 I"
+    },
+    "weapon-insect-glaive-defender-glaive-ii": {
+      "Key": "weapon-insect-glaive-defender-glaive-ii",
+      "Translation": "수비수 글레이브 II"
+    },
+    "weapon-insect-glaive-defender-glaive-iii": {
+      "Key": "weapon-insect-glaive-defender-glaive-iii",
+      "Translation": "수비수 글레이브 III"
+    },
+    "weapon-insect-glaive-defender-glaive-iv": {
+      "Key": "weapon-insect-glaive-defender-glaive-iv",
+      "Translation": "수비수 글레이브 IV"
+    },
+    "weapon-insect-glaive-defender-glaive-v": {
+      "Key": "weapon-insect-glaive-defender-glaive-v",
+      "Translation": "수비수 글레이브 V"
+    },
+    "weapon-lance-defender-lance-i": {
+      "Key": "weapon-lance-defender-lance-i",
+      "Translation": "수비수 랜스 I"
+    },
+    "weapon-lance-defender-lance-ii": {
+      "Key": "weapon-lance-defender-lance-ii",
+      "Translation": "수비수 랜스 II"
+    },
+    "weapon-lance-defender-lance-iii": {
+      "Key": "weapon-lance-defender-lance-iii",
+      "Translation": "수비수 랜스 III"
+    },
+    "weapon-lance-defender-lance-iv": {
+      "Key": "weapon-lance-defender-lance-iv",
+      "Translation": "수비수 랜스 IV"
+    },
+    "weapon-lance-defender-lance-v": {
+      "Key": "weapon-lance-defender-lance-v",
+      "Translation": "수비수 랜스 V"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-i": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-i",
+      "Translation": "수비수 라이트 Bowgun I"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-ii": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-ii",
+      "Translation": "수비수 라이트 Bowgun II"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-iii": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-iii",
+      "Translation": "수비수 라이트 Bowgun III"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-iv": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-iv",
+      "Translation": "수비수 라이트 Bowgun IV"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-v": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-v",
+      "Translation": "수비수 라이트 Bowgun V"
+    },
+    "weapon-long-sword-defender-katana-i": {
+      "Key": "weapon-long-sword-defender-katana-i",
+      "Translation": "수비수 카타나 I"
+    },
+    "weapon-long-sword-defender-katana-ii": {
+      "Key": "weapon-long-sword-defender-katana-ii",
+      "Translation": "수비수 카타나 II"
+    },
+    "weapon-long-sword-defender-katana-iii": {
+      "Key": "weapon-long-sword-defender-katana-iii",
+      "Translation": "수비수 카타나 III"
+    },
+    "weapon-long-sword-defender-katana-iv": {
+      "Key": "weapon-long-sword-defender-katana-iv",
+      "Translation": "수비수 카타나 IV"
+    },
+    "weapon-long-sword-defender-katana-v": {
+      "Key": "weapon-long-sword-defender-katana-v",
+      "Translation": "수비수 카타나 V"
+    },
+    "weapon-switch-axe-defender-switch-axe-i": {
+      "Key": "weapon-switch-axe-defender-switch-axe-i",
+      "Translation": "수비수 스위치 도끼 I"
+    },
+    "weapon-switch-axe-defender-switch-axe-ii": {
+      "Key": "weapon-switch-axe-defender-switch-axe-ii",
+      "Translation": "수비수 스위치 도끼 II"
+    },
+    "weapon-switch-axe-defender-switch-axe-iii": {
+      "Key": "weapon-switch-axe-defender-switch-axe-iii",
+      "Translation": "수비수 스위치 도끼 III"
+    },
+    "weapon-switch-axe-defender-switch-axe-iv": {
+      "Key": "weapon-switch-axe-defender-switch-axe-iv",
+      "Translation": "수비수 스위치 도끼 IV"
+    },
+    "weapon-switch-axe-defender-switch-axe-v": {
+      "Key": "weapon-switch-axe-defender-switch-axe-v",
+      "Translation": "수비수 스위치 도끼 V"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-i": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-i",
+      "Translation": "수비수 Warhatchet I"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-ii": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-ii",
+      "Translation": "수비수 Warhatchet II"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-iii": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-iii",
+      "Translation": "수비수 Warhatchet III"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-iv": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-iv",
+      "Translation": "수비수 Warhatchet IV"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-v": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-v",
+      "Translation": "수비수 Warhatchet V"
     }
   }

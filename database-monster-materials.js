@@ -4424,7 +4424,7 @@ let monsterMaterials = [{
     'maxCapacity': '99',
 }, {
     'name': 'Safi\'jiiva Cortex',
-    'icon': require('./assets/monster_materials/gastodon-carapace.png'),
+    'icon': require('./assets/monster_materials/gastodon-carapace.jpg'),
     'description': 'Very rare Safi\'jiiva material. Mostly obtained as a reward. Its maturation has created complex layers to appear.',
     'rarity': '11',
     'value': '7600',

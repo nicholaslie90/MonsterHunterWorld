@@ -4201,7 +4201,7 @@ export default {
     },
     "armor-mosswine-mask-description": {
       "Key": "armor-mosswine-mask-description",
-      "Translation": "老式頭飾看起來像一個Mosswine頭。折騰它，並進入角色。很有趣！"
+      "Translation": "老式頭飾看起來像一個Mosswine頭。折騰它，並進入角色。好有趣！"
     },
     "armor-mr-acidic-glavenus-alpha-plus": {
       "Key": "armor-mr-acidic-glavenus-alpha-plus",
@@ -7601,7 +7601,7 @@ export default {
     },
     "critical-bounties-important-notes": {
       "Key": "critical-bounties-important-notes",
-      "Translation": "有三個研究人員可以在現場遇到了：特有生命研究員的Lynian研究員和魚研究員\\ n \\ n在你著手征戰，只有一個研究員將在該區域產卵。其中研究員產卵，當你選擇你的探險目的地顯示在世界地圖。每當你完成一個任務，探險或考察，它改變其研究員產卵。這就是為什麼定期檢查世界地圖是很重要的。\\ n \\ n它是非常重要的談話在每個區域每個研究員，以便通過每個研究員的關鍵富饒的進展。既然是隨機的，其研究員產卵（見前面注），很容易錯過這些重要的恩澤。\\ n \\ n如果一個研究員有賞金的報價，他們會出現一個黃色的感嘆號（！）在地圖上。我並不總是在地圖上看到這些標誌，這就是為什麼我錯過了這些關鍵的恩澤。一旦你踏上遠征，打開世界地圖，並使用L1 / R1鍵選擇地方性生命過濾器，使之更容易被發現。\\ n \\ n如果一個研究者沒有恩惠的報價，他們會出現一個明亮的綠色點（。）地圖。\\ n \\ n在你完成一個關鍵的賞金，你可以跟各自的研究員告訴他/她你完成賞金。但是，你總是要聊到研究中心紫苑完成賞金並獲得獎勵。\\ n \\ n如果沒有完成賞金後交談的研究員，你將要談論到他們在一個新的區域接受新的獎金，這是可能的，你必須跟我們的研究員的兩倍。有一次告訴他/她，你完成了前面的賞金。還有一次啟動新區域的關鍵賞金\\ n \\ nChoosing低等級或高等級目的地無所謂，對龍的休會除外它是高排名只是\\ n \\ nLynian懸賞：。無論何時你發現塗鴉，你可以與你的偵察飛行紀念他們，他們會引導你到下一個塗鴉。這樣做會導致你下面列出的位置。結交一個家族後，你可以跟你的Palico在你的房間或在研究基地。然後，您Palico會告訴你新的技巧還是教訓。"
+      "Translation": "有三個研究人員可以在現場遇到了：特有生命研究員的Lynian研究員和魚研究員\\ n \\ n在你著手征戰，只有一個研究員將在該區域產卵。其中研究員產卵，當你選擇你的探險目的地顯示在世界地圖。每當你完成一個任務，探險或考察，它改變其研究員產卵。這就是為什麼定期檢查世界地圖是很重要的。\\ n \\ n它是非常重要的談話在每個區域每個研究員，以便通過每個研究員的關鍵富饒的進展。既然是隨機的，其研究員產卵（見前面注），很容易錯過這些重要的恩澤。\\ n \\ n如果一個研究員有賞金的報價，他們會出現一個黃色的感嘆號（！）在地圖上。我並不總是在地圖上看到這些標誌，這就是為什麼我錯過了這些關鍵的恩澤。一旦你踏上遠征，打開你的世界地圖，並使用L1 / R1鍵選擇地方性生命過濾器，使其更容易被發現。\\ n \\ n如果一個研究者沒有恩惠的報價，他們會出現一個明亮的綠色點（。）地圖。\\ n \\ n在你完成一個關鍵的賞金，你可以跟各自的研究員告訴他/她你完成賞金。但是，你總是要聊到研究中心紫苑完成賞金並獲得獎勵。\\ n \\ n如果沒有完成賞金後交談的研究員，你將要談論到他們在一個新的區域接受新的獎金，這是可能的，你必須跟我們的研究員的兩倍。有一次告訴他/她，你完成了前面的賞金。還有一次啟動新區域的關鍵賞金\\ n \\ nChoosing低等級或高等級目的地無所謂，對龍的休會除外它是高排名只是\\ n \\ nLynian懸賞：。無論何時你發現塗鴉，你可以與你的偵察飛行紀念他們，他們會引導你到下一個塗鴉。這樣做會導致你下面列出的位置。結交一個家族後，你可以跟你的Palico在你的房間或在研究基地。然後，您Palico會告訴你新的技巧還是教訓。"
     },
     "critical-bounties-notes": {
       "Key": "critical-bounties-notes",
@@ -11489,7 +11489,7 @@ export default {
     },
     "quest-chef-quest-pumped-to-deliver-description": {
       "Key": "quest-chef-quest-pumped-to-deliver-description",
-      "Translation": "現在，你已經工作都你全身上下，你準備把它用得好！？好！開始工作吧！ *解鎖上首次完成了新食堂成分。"
+      "Translation": "現在，你已經工作都你全身上下，你準備把它用得好！？好！開始乾活！ *解鎖上首次完成了新食堂成分。"
     },
     "quest-chef-quest-pumped-to-deliver-notable-rewards": {
       "Key": "quest-chef-quest-pumped-to-deliver-notable-rewards",
@@ -13521,7 +13521,7 @@ export default {
     },
     "quest-the-encroaching-anjanath-description": {
       "Key": "quest-the-encroaching-anjanath-description",
-      "Translation": "正如我們加緊拍攝瑣拉Magdaros，我們必須確保紫苑盡可能多的，我們可以。這是太危險的到有Anjanath漫遊如此接近基地。"
+      "Translation": "正如我們整裝待發，準備捕捉瑣拉Magdaros，我們需要保護紫苑盡可能多的，我們可以。這是太危險的到有Anjanath漫遊如此接近基地。"
     },
     "quest-the-eye-of-the-storm": {
       "Key": "quest-the-eye-of-the-storm",
@@ -14313,7 +14313,7 @@ export default {
     },
     "settings-send-me-an-email": {
       "Key": "settings-send-me-an-email",
-      "Translation": "傳一個電子郵件給我"
+      "Translation": "給我發個電郵"
     },
     "settings-send-me-an-email-text": {
       "Key": "settings-send-me-an-email-text",
@@ -23334,5 +23334,453 @@ export default {
     "weapon-sword-and-shield-banned-rajang-club": {
       "Key": "weapon-sword-and-shield-banned-rajang-club",
       "Translation": "禁止拉讓俱樂部"
+    },
+    "weapon-bow-dragon-perforator-i": {
+      "Key": "weapon-bow-dragon-perforator-i",
+      "Translation": "龍穿孔我"
+    },
+    "weapon-bow-dragon-perforator-ii": {
+      "Key": "weapon-bow-dragon-perforator-ii",
+      "Translation": "龍穿孔II"
+    },
+    "weapon-bow-dragon-perforator-iii": {
+      "Key": "weapon-bow-dragon-perforator-iii",
+      "Translation": "龍穿孔III"
+    },
+    "weapon-bow-usurpers-rumble": {
+      "Key": "weapon-bow-usurpers-rumble",
+      "Translation": "篡位的隆隆聲"
+    },
+    "weapon-bow-usurpers-rumble-plus": {
+      "Key": "weapon-bow-usurpers-rumble-plus",
+      "Translation": "篡位的隆隆聲+"
+    },
+    "weapon-bow-despots-earlybolt": {
+      "Key": "weapon-bow-despots-earlybolt",
+      "Translation": "暴君的Earlybolt"
+    },
+    "weapon-bow-alqaws-al-nasr-i": {
+      "Key": "weapon-bow-alqaws-al-nasr-i",
+      "Translation": "Alqaws人，我納斯爾"
+    },
+    "weapon-bow-alqaws-al-nasr-ii": {
+      "Key": "weapon-bow-alqaws-al-nasr-ii",
+      "Translation": "Alqaws AL-II納斯爾"
+    },
+    "weapon-bow-rex-bow-i": {
+      "Key": "weapon-bow-rex-bow-i",
+      "Translation": "雷克斯弓I"
+    },
+    "weapon-bow-rex-bow-ii": {
+      "Key": "weapon-bow-rex-bow-ii",
+      "Translation": "雷克斯弓II"
+    },
+    "weapon-bow-accursed-arc": {
+      "Key": "weapon-bow-accursed-arc",
+      "Translation": "詛咒弧"
+    },
+    "weapon-bow-dios-flier": {
+      "Key": "weapon-bow-dios-flier",
+      "Translation": "奧斯弗利爾"
+    },
+    "weapon-bow-tsali-flier": {
+      "Key": "weapon-bow-tsali-flier",
+      "Translation": "薩利弗利爾"
+    },
+    "weapon-bow-gigacles-plus": {
+      "Key": "weapon-bow-gigacles-plus",
+      "Translation": "Gigacles +"
+    },
+    "weapon-bow-gigantomachy": {
+      "Key": "weapon-bow-gigantomachy",
+      "Translation": "Gigantomachy"
+    },
+    "weapon-bow-princess-arrow-iv": {
+      "Key": "weapon-bow-princess-arrow-iv",
+      "Translation": "公主箭IV"
+    },
+    "weapon-bow-rathslinger-iv": {
+      "Key": "weapon-bow-rathslinger-iv",
+      "Translation": "Rathslinger IV"
+    },
+    "weapon-bow-azure-mightbow": {
+      "Key": "weapon-bow-azure-mightbow",
+      "Translation": "Azure的Mightbow"
+    },
+    "weapon-bow-water-shot-iv": {
+      "Key": "weapon-bow-water-shot-iv",
+      "Translation": "水上射擊IV"
+    },
+    "weapon-bow-laguna-shot-i": {
+      "Key": "weapon-bow-laguna-shot-i",
+      "Translation": "拉古納射擊我"
+    },
+    "weapon-bow-laguna-shot-ii": {
+      "Key": "weapon-bow-laguna-shot-ii",
+      "Translation": "拉古那II鏡頭"
+    },
+    "weapon-bow-icicle-blizzard-i": {
+      "Key": "weapon-bow-icicle-blizzard-i",
+      "Translation": "冰柱暴雪我"
+    },
+    "weapon-bow-icicle-blizzard-ii": {
+      "Key": "weapon-bow-icicle-blizzard-ii",
+      "Translation": "冰柱暴雪II"
+    },
+    "weapon-bow-hidden-bow": {
+      "Key": "weapon-bow-hidden-bow",
+      "Translation": "隱藏弓"
+    },
+    "weapon-bow-hidden-bow-plus": {
+      "Key": "weapon-bow-hidden-bow-plus",
+      "Translation": "隱藏弓+"
+    },
+    "weapon-bow-night-flight": {
+      "Key": "weapon-bow-night-flight",
+      "Translation": "晚上的航班"
+    },
+    "weapon-bow-legia-snowfletcher-plus": {
+      "Key": "weapon-bow-legia-snowfletcher-plus",
+      "Translation": "萊吉亞Snowfletcher +"
+    },
+    "weapon-bow-hoarcry-snowfletcher": {
+      "Key": "weapon-bow-hoarcry-snowfletcher",
+      "Translation": "Hoarcry Snowfletcher"
+    },
+    "weapon-bow-mist-glacia": {
+      "Key": "weapon-bow-mist-glacia",
+      "Translation": "霧Glacia"
+    },
+    "weapon-bow-hunters-bravebow-i": {
+      "Key": "weapon-bow-hunters-bravebow-i",
+      "Translation": "獵人的Bravebow我"
+    },
+    "weapon-bow-hunters-bravebow-ii": {
+      "Key": "weapon-bow-hunters-bravebow-ii",
+      "Translation": "獵人的Bravebow II"
+    },
+    "weapon-bow-hunters-bravebow-iii": {
+      "Key": "weapon-bow-hunters-bravebow-iii",
+      "Translation": "獵人的Bravebow III"
+    },
+    "weapon-bow-iceflinger": {
+      "Key": "weapon-bow-iceflinger",
+      "Translation": "Iceflinger"
+    },
+    "weapon-bow-alluring-evelia": {
+      "Key": "weapon-bow-alluring-evelia",
+      "Translation": "誘人Evelia"
+    },
+    "weapon-bow-mammoth-greatbow-i": {
+      "Key": "weapon-bow-mammoth-greatbow-i",
+      "Translation": "猛獁Greatbow我"
+    },
+    "weapon-bow-mammoth-greatbow-ii": {
+      "Key": "weapon-bow-mammoth-greatbow-ii",
+      "Translation": "猛獁Greatbow II"
+    },
+    "weapon-bow-glavenus-arrow-i": {
+      "Key": "weapon-bow-glavenus-arrow-i",
+      "Translation": "Glavenus箭我"
+    },
+    "weapon-bow-glavenus-arrow-ii": {
+      "Key": "weapon-bow-glavenus-arrow-ii",
+      "Translation": "Glavenus箭II"
+    },
+    "weapon-bow-acidic-arrow-i": {
+      "Key": "weapon-bow-acidic-arrow-i",
+      "Translation": "酸性箭我"
+    },
+    "monster-stygian-zinogre": {
+      "Key": "monster-stygian-zinogre",
+      "Translation": "冥河Zinogre"
+    },
+    "monster-safijiiva": {
+      "Key": "monster-safijiiva",
+      "Translation": "Safi'jiiva"
+    },
+    "weapon-tree-defender-tree": {
+      "Key": "weapon-tree-defender-tree",
+      "Translation": "後衛樹"
+    },
+    "weapon-bow-defender-powerbow-i": {
+      "Key": "weapon-bow-defender-powerbow-i",
+      "Translation": "後衛Powerbow我"
+    },
+    "weapon-bow-defender-powerbow-ii": {
+      "Key": "weapon-bow-defender-powerbow-ii",
+      "Translation": "後衛Powerbow II"
+    },
+    "weapon-bow-defender-powerbow-iii": {
+      "Key": "weapon-bow-defender-powerbow-iii",
+      "Translation": "後衛Powerbow III"
+    },
+    "weapon-bow-defender-powerbow-iv": {
+      "Key": "weapon-bow-defender-powerbow-iv",
+      "Translation": "後衛Powerbow IV"
+    },
+    "weapon-bow-defender-powerbow-v": {
+      "Key": "weapon-bow-defender-powerbow-v",
+      "Translation": "後衛Powerbow V"
+    },
+    "weapon-bow-defender-shield-i": {
+      "Key": "weapon-bow-defender-shield-i",
+      "Translation": "後衛盾我"
+    },
+    "weapon-bow-defender-shield-ii": {
+      "Key": "weapon-bow-defender-shield-ii",
+      "Translation": "後衛盾II"
+    },
+    "weapon-bow-defender-shield-iii": {
+      "Key": "weapon-bow-defender-shield-iii",
+      "Translation": "後衛盾III"
+    },
+    "weapon-bow-defender-shield-iv": {
+      "Key": "weapon-bow-defender-shield-iv",
+      "Translation": "後衛盾IV"
+    },
+    "weapon-bow-defender-shield-v": {
+      "Key": "weapon-bow-defender-shield-v",
+      "Translation": "後衛盾V"
+    },
+    "weapon-dual-blades-defender-chainsaws-i": {
+      "Key": "weapon-dual-blades-defender-chainsaws-i",
+      "Translation": "後衛油鋸我"
+    },
+    "weapon-dual-blades-defender-chainsaws-ii": {
+      "Key": "weapon-dual-blades-defender-chainsaws-ii",
+      "Translation": "後衛油鋸II"
+    },
+    "weapon-dual-blades-defender-chainsaws-iii": {
+      "Key": "weapon-dual-blades-defender-chainsaws-iii",
+      "Translation": "後衛油鋸III"
+    },
+    "weapon-dual-blades-defender-chainsaws-iv": {
+      "Key": "weapon-dual-blades-defender-chainsaws-iv",
+      "Translation": "後衛油鋸IV"
+    },
+    "weapon-dual-blades-defender-chainsaws-v": {
+      "Key": "weapon-dual-blades-defender-chainsaws-v",
+      "Translation": "後衛油鋸V"
+    },
+    "weapon-great-sword-defender-great-sword-i": {
+      "Key": "weapon-great-sword-defender-great-sword-i",
+      "Translation": "後衛大劍我"
+    },
+    "weapon-great-sword-defender-great-sword-ii": {
+      "Key": "weapon-great-sword-defender-great-sword-ii",
+      "Translation": "後衛大劍II"
+    },
+    "weapon-great-sword-defender-great-sword-iii": {
+      "Key": "weapon-great-sword-defender-great-sword-iii",
+      "Translation": "後衛大劍III"
+    },
+    "weapon-great-sword-defender-great-sword-iv": {
+      "Key": "weapon-great-sword-defender-great-sword-iv",
+      "Translation": "後衛大劍IV"
+    },
+    "weapon-great-sword-defender-great-sword-v": {
+      "Key": "weapon-great-sword-defender-great-sword-v",
+      "Translation": "後衛大劍V"
+    },
+    "weapon-gunlance-defender-gunlance-i": {
+      "Key": "weapon-gunlance-defender-gunlance-i",
+      "Translation": "後衛Gunlance我"
+    },
+    "weapon-gunlance-defender-gunlance-ii": {
+      "Key": "weapon-gunlance-defender-gunlance-ii",
+      "Translation": "後衛Gunlance II"
+    },
+    "weapon-gunlance-defender-gunlance-iii": {
+      "Key": "weapon-gunlance-defender-gunlance-iii",
+      "Translation": "後衛Gunlance III"
+    },
+    "weapon-gunlance-defender-gunlance-iv": {
+      "Key": "weapon-gunlance-defender-gunlance-iv",
+      "Translation": "後衛Gunlance IV"
+    },
+    "weapon-gunlance-defender-gunlance-v": {
+      "Key": "weapon-gunlance-defender-gunlance-v",
+      "Translation": "後衛Gunlance V"
+    },
+    "weapon-gunlance-defender-warhammer-i": {
+      "Key": "weapon-gunlance-defender-warhammer-i",
+      "Translation": "後衛戰鎚我"
+    },
+    "weapon-gunlance-defender-warhammer-ii": {
+      "Key": "weapon-gunlance-defender-warhammer-ii",
+      "Translation": "後衛戰鎚II"
+    },
+    "weapon-gunlance-defender-warhammer-iii": {
+      "Key": "weapon-gunlance-defender-warhammer-iii",
+      "Translation": "後衛戰鎚III"
+    },
+    "weapon-gunlance-defender-warhammer-iv": {
+      "Key": "weapon-gunlance-defender-warhammer-iv",
+      "Translation": "後衛戰鎚IV"
+    },
+    "weapon-gunlance-defender-warhammer-v": {
+      "Key": "weapon-gunlance-defender-warhammer-v",
+      "Translation": "後衛戰鎚V"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-i": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-i",
+      "Translation": "後衛重型Bowgun我"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-ii": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-ii",
+      "Translation": "後衛重型Bowgun II"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-iii": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-iii",
+      "Translation": "後衛重型Bowgun III"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-iv": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-iv",
+      "Translation": "後衛重型Bowgun IV"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-v": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-v",
+      "Translation": "後衛重型Bowgun V"
+    },
+    "weapon-hunting-horn-defender-rally-horn-i": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-i",
+      "Translation": "後衛拉力霍恩我"
+    },
+    "weapon-hunting-horn-defender-rally-horn-ii": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-ii",
+      "Translation": "後衛拉力喇叭II"
+    },
+    "weapon-hunting-horn-defender-rally-horn-iii": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-iii",
+      "Translation": "後衛拉力喇叭III"
+    },
+    "weapon-hunting-horn-defender-rally-horn-iv": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-iv",
+      "Translation": "後衛拉力喇叭IV"
+    },
+    "weapon-hunting-horn-defender-rally-horn-v": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-v",
+      "Translation": "後衛拉力喇叭V"
+    },
+    "weapon-insect-glaive-defender-glaive-i": {
+      "Key": "weapon-insect-glaive-defender-glaive-i",
+      "Translation": "後衛長刀我"
+    },
+    "weapon-insect-glaive-defender-glaive-ii": {
+      "Key": "weapon-insect-glaive-defender-glaive-ii",
+      "Translation": "後衛戰刃II"
+    },
+    "weapon-insect-glaive-defender-glaive-iii": {
+      "Key": "weapon-insect-glaive-defender-glaive-iii",
+      "Translation": "後衛長刀III"
+    },
+    "weapon-insect-glaive-defender-glaive-iv": {
+      "Key": "weapon-insect-glaive-defender-glaive-iv",
+      "Translation": "後衛長刀IV"
+    },
+    "weapon-insect-glaive-defender-glaive-v": {
+      "Key": "weapon-insect-glaive-defender-glaive-v",
+      "Translation": "後衛長刀V"
+    },
+    "weapon-lance-defender-lance-i": {
+      "Key": "weapon-lance-defender-lance-i",
+      "Translation": "後衛蘭斯我"
+    },
+    "weapon-lance-defender-lance-ii": {
+      "Key": "weapon-lance-defender-lance-ii",
+      "Translation": "後衛長矛II"
+    },
+    "weapon-lance-defender-lance-iii": {
+      "Key": "weapon-lance-defender-lance-iii",
+      "Translation": "後衛蘭斯III"
+    },
+    "weapon-lance-defender-lance-iv": {
+      "Key": "weapon-lance-defender-lance-iv",
+      "Translation": "後衛蘭斯IV"
+    },
+    "weapon-lance-defender-lance-v": {
+      "Key": "weapon-lance-defender-lance-v",
+      "Translation": "後衛蘭斯V"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-i": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-i",
+      "Translation": "後衛光Bowgun我"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-ii": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-ii",
+      "Translation": "後衛光Bowgun II"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-iii": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-iii",
+      "Translation": "後衛光Bowgun III"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-iv": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-iv",
+      "Translation": "後衛光Bowgun IV"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-v": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-v",
+      "Translation": "後衛光Bowgun V"
+    },
+    "weapon-long-sword-defender-katana-i": {
+      "Key": "weapon-long-sword-defender-katana-i",
+      "Translation": "後衛武士刀我"
+    },
+    "weapon-long-sword-defender-katana-ii": {
+      "Key": "weapon-long-sword-defender-katana-ii",
+      "Translation": "後衛武士刀II"
+    },
+    "weapon-long-sword-defender-katana-iii": {
+      "Key": "weapon-long-sword-defender-katana-iii",
+      "Translation": "後衛武士刀III"
+    },
+    "weapon-long-sword-defender-katana-iv": {
+      "Key": "weapon-long-sword-defender-katana-iv",
+      "Translation": "後衛武士刀IV"
+    },
+    "weapon-long-sword-defender-katana-v": {
+      "Key": "weapon-long-sword-defender-katana-v",
+      "Translation": "後衛武士刀V"
+    },
+    "weapon-switch-axe-defender-switch-axe-i": {
+      "Key": "weapon-switch-axe-defender-switch-axe-i",
+      "Translation": "後衛開關斧我"
+    },
+    "weapon-switch-axe-defender-switch-axe-ii": {
+      "Key": "weapon-switch-axe-defender-switch-axe-ii",
+      "Translation": "後衛開關斧II"
+    },
+    "weapon-switch-axe-defender-switch-axe-iii": {
+      "Key": "weapon-switch-axe-defender-switch-axe-iii",
+      "Translation": "後衛開關斧III"
+    },
+    "weapon-switch-axe-defender-switch-axe-iv": {
+      "Key": "weapon-switch-axe-defender-switch-axe-iv",
+      "Translation": "後衛開關斧IV"
+    },
+    "weapon-switch-axe-defender-switch-axe-v": {
+      "Key": "weapon-switch-axe-defender-switch-axe-v",
+      "Translation": "後衛開關斧V"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-i": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-i",
+      "Translation": "後衛Warhatchet我"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-ii": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-ii",
+      "Translation": "後衛Warhatchet II"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-iii": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-iii",
+      "Translation": "後衛Warhatchet III"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-iv": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-iv",
+      "Translation": "後衛Warhatchet IV"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-v": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-v",
+      "Translation": "後衛Warhatchet V"
     }
   }

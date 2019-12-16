@@ -23334,5 +23334,453 @@ export default {
     "weapon-sword-and-shield-banned-rajang-club": {
       "Key": "weapon-sword-and-shield-banned-rajang-club",
       "Translation": "Banned Rajang Club"
+    },
+    "weapon-bow-dragon-perforator-i": {
+      "Key": "weapon-bow-dragon-perforator-i",
+      "Translation": "Dragon Perforator I"
+    },
+    "weapon-bow-dragon-perforator-ii": {
+      "Key": "weapon-bow-dragon-perforator-ii",
+      "Translation": "Dragon Perforator II"
+    },
+    "weapon-bow-dragon-perforator-iii": {
+      "Key": "weapon-bow-dragon-perforator-iii",
+      "Translation": "Dragon Perforator III"
+    },
+    "weapon-bow-usurpers-rumble": {
+      "Key": "weapon-bow-usurpers-rumble",
+      "Translation": "Usurper's Rumble"
+    },
+    "weapon-bow-usurpers-rumble-plus": {
+      "Key": "weapon-bow-usurpers-rumble-plus",
+      "Translation": "Usurper's Rumble+"
+    },
+    "weapon-bow-despots-earlybolt": {
+      "Key": "weapon-bow-despots-earlybolt",
+      "Translation": "Despot's Earlybolt"
+    },
+    "weapon-bow-alqaws-al-nasr-i": {
+      "Key": "weapon-bow-alqaws-al-nasr-i",
+      "Translation": "Alqaws al-Nasr I"
+    },
+    "weapon-bow-alqaws-al-nasr-ii": {
+      "Key": "weapon-bow-alqaws-al-nasr-ii",
+      "Translation": "Alqaws al-Nasr II"
+    },
+    "weapon-bow-rex-bow-i": {
+      "Key": "weapon-bow-rex-bow-i",
+      "Translation": "Rex Bow I"
+    },
+    "weapon-bow-rex-bow-ii": {
+      "Key": "weapon-bow-rex-bow-ii",
+      "Translation": "Rex Bow II"
+    },
+    "weapon-bow-accursed-arc": {
+      "Key": "weapon-bow-accursed-arc",
+      "Translation": "Accursed Arc"
+    },
+    "weapon-bow-dios-flier": {
+      "Key": "weapon-bow-dios-flier",
+      "Translation": "Dios Flier"
+    },
+    "weapon-bow-tsali-flier": {
+      "Key": "weapon-bow-tsali-flier",
+      "Translation": "Tsali Flier"
+    },
+    "weapon-bow-gigacles-plus": {
+      "Key": "weapon-bow-gigacles-plus",
+      "Translation": "Gigacles+"
+    },
+    "weapon-bow-gigantomachy": {
+      "Key": "weapon-bow-gigantomachy",
+      "Translation": "Gigantomachy"
+    },
+    "weapon-bow-princess-arrow-iv": {
+      "Key": "weapon-bow-princess-arrow-iv",
+      "Translation": "Princess Arrow IV"
+    },
+    "weapon-bow-rathslinger-iv": {
+      "Key": "weapon-bow-rathslinger-iv",
+      "Translation": "Rathslinger IV"
+    },
+    "weapon-bow-azure-mightbow": {
+      "Key": "weapon-bow-azure-mightbow",
+      "Translation": "Azure Mightbow"
+    },
+    "weapon-bow-water-shot-iv": {
+      "Key": "weapon-bow-water-shot-iv",
+      "Translation": "Water Shot IV"
+    },
+    "weapon-bow-laguna-shot-i": {
+      "Key": "weapon-bow-laguna-shot-i",
+      "Translation": "Laguna Shot I"
+    },
+    "weapon-bow-laguna-shot-ii": {
+      "Key": "weapon-bow-laguna-shot-ii",
+      "Translation": "Laguna Shot II"
+    },
+    "weapon-bow-icicle-blizzard-i": {
+      "Key": "weapon-bow-icicle-blizzard-i",
+      "Translation": "Icicle Blizzard I"
+    },
+    "weapon-bow-icicle-blizzard-ii": {
+      "Key": "weapon-bow-icicle-blizzard-ii",
+      "Translation": "Icicle Blizzard II"
+    },
+    "weapon-bow-hidden-bow": {
+      "Key": "weapon-bow-hidden-bow",
+      "Translation": "Hidden Bow"
+    },
+    "weapon-bow-hidden-bow-plus": {
+      "Key": "weapon-bow-hidden-bow-plus",
+      "Translation": "Hidden Bow+"
+    },
+    "weapon-bow-night-flight": {
+      "Key": "weapon-bow-night-flight",
+      "Translation": "Night Flight"
+    },
+    "weapon-bow-legia-snowfletcher-plus": {
+      "Key": "weapon-bow-legia-snowfletcher-plus",
+      "Translation": "Legia Snowfletcher+"
+    },
+    "weapon-bow-hoarcry-snowfletcher": {
+      "Key": "weapon-bow-hoarcry-snowfletcher",
+      "Translation": "Hoarcry Snowfletcher"
+    },
+    "weapon-bow-mist-glacia": {
+      "Key": "weapon-bow-mist-glacia",
+      "Translation": "Mist Glacia"
+    },
+    "weapon-bow-hunters-bravebow-i": {
+      "Key": "weapon-bow-hunters-bravebow-i",
+      "Translation": "Hunter's Bravebow I"
+    },
+    "weapon-bow-hunters-bravebow-ii": {
+      "Key": "weapon-bow-hunters-bravebow-ii",
+      "Translation": "Hunter's Bravebow II"
+    },
+    "weapon-bow-hunters-bravebow-iii": {
+      "Key": "weapon-bow-hunters-bravebow-iii",
+      "Translation": "Hunter's Bravebow III"
+    },
+    "weapon-bow-iceflinger": {
+      "Key": "weapon-bow-iceflinger",
+      "Translation": "Iceflinger"
+    },
+    "weapon-bow-alluring-evelia": {
+      "Key": "weapon-bow-alluring-evelia",
+      "Translation": "Alluring Evelia"
+    },
+    "weapon-bow-mammoth-greatbow-i": {
+      "Key": "weapon-bow-mammoth-greatbow-i",
+      "Translation": "Mammoth Greatbow I"
+    },
+    "weapon-bow-mammoth-greatbow-ii": {
+      "Key": "weapon-bow-mammoth-greatbow-ii",
+      "Translation": "Mammoth Greatbow II"
+    },
+    "weapon-bow-glavenus-arrow-i": {
+      "Key": "weapon-bow-glavenus-arrow-i",
+      "Translation": "Glavenus Arrow I"
+    },
+    "weapon-bow-glavenus-arrow-ii": {
+      "Key": "weapon-bow-glavenus-arrow-ii",
+      "Translation": "Glavenus Arrow II"
+    },
+    "weapon-bow-acidic-arrow-i": {
+      "Key": "weapon-bow-acidic-arrow-i",
+      "Translation": "Acidic Arrow I"
+    },
+    "monster-stygian-zinogre": {
+      "Key": "monster-stygian-zinogre",
+      "Translation": "Stygian Zinogre"
+    },
+    "monster-safijiiva": {
+      "Key": "monster-safijiiva",
+      "Translation": "Safi'jiiva"
+    },
+    "weapon-tree-defender-tree": {
+      "Key": "weapon-tree-defender-tree",
+      "Translation": "Defender Tree"
+    },
+    "weapon-bow-defender-powerbow-i": {
+      "Key": "weapon-bow-defender-powerbow-i",
+      "Translation": "Defender Powerbow I"
+    },
+    "weapon-bow-defender-powerbow-ii": {
+      "Key": "weapon-bow-defender-powerbow-ii",
+      "Translation": "Defender Powerbow II"
+    },
+    "weapon-bow-defender-powerbow-iii": {
+      "Key": "weapon-bow-defender-powerbow-iii",
+      "Translation": "Defender Powerbow III"
+    },
+    "weapon-bow-defender-powerbow-iv": {
+      "Key": "weapon-bow-defender-powerbow-iv",
+      "Translation": "Defender Powerbow IV"
+    },
+    "weapon-bow-defender-powerbow-v": {
+      "Key": "weapon-bow-defender-powerbow-v",
+      "Translation": "Defender Powerbow V"
+    },
+    "weapon-bow-defender-shield-i": {
+      "Key": "weapon-bow-defender-shield-i",
+      "Translation": "Defender Shield I"
+    },
+    "weapon-bow-defender-shield-ii": {
+      "Key": "weapon-bow-defender-shield-ii",
+      "Translation": "Defender Shield II"
+    },
+    "weapon-bow-defender-shield-iii": {
+      "Key": "weapon-bow-defender-shield-iii",
+      "Translation": "Defender Shield III"
+    },
+    "weapon-bow-defender-shield-iv": {
+      "Key": "weapon-bow-defender-shield-iv",
+      "Translation": "Defender Shield IV"
+    },
+    "weapon-bow-defender-shield-v": {
+      "Key": "weapon-bow-defender-shield-v",
+      "Translation": "Defender Shield V"
+    },
+    "weapon-dual-blades-defender-chainsaws-i": {
+      "Key": "weapon-dual-blades-defender-chainsaws-i",
+      "Translation": "Defender Chainsaws I"
+    },
+    "weapon-dual-blades-defender-chainsaws-ii": {
+      "Key": "weapon-dual-blades-defender-chainsaws-ii",
+      "Translation": "Defender Chainsaws II"
+    },
+    "weapon-dual-blades-defender-chainsaws-iii": {
+      "Key": "weapon-dual-blades-defender-chainsaws-iii",
+      "Translation": "Defender Chainsaws III"
+    },
+    "weapon-dual-blades-defender-chainsaws-iv": {
+      "Key": "weapon-dual-blades-defender-chainsaws-iv",
+      "Translation": "Defender Chainsaws IV"
+    },
+    "weapon-dual-blades-defender-chainsaws-v": {
+      "Key": "weapon-dual-blades-defender-chainsaws-v",
+      "Translation": "Defender Chainsaws V"
+    },
+    "weapon-great-sword-defender-great-sword-i": {
+      "Key": "weapon-great-sword-defender-great-sword-i",
+      "Translation": "Defender Great Sword I"
+    },
+    "weapon-great-sword-defender-great-sword-ii": {
+      "Key": "weapon-great-sword-defender-great-sword-ii",
+      "Translation": "Defender Great Sword II"
+    },
+    "weapon-great-sword-defender-great-sword-iii": {
+      "Key": "weapon-great-sword-defender-great-sword-iii",
+      "Translation": "Defender Great Sword III"
+    },
+    "weapon-great-sword-defender-great-sword-iv": {
+      "Key": "weapon-great-sword-defender-great-sword-iv",
+      "Translation": "Defender Great Sword IV"
+    },
+    "weapon-great-sword-defender-great-sword-v": {
+      "Key": "weapon-great-sword-defender-great-sword-v",
+      "Translation": "Defender Great Sword V"
+    },
+    "weapon-gunlance-defender-gunlance-i": {
+      "Key": "weapon-gunlance-defender-gunlance-i",
+      "Translation": "Defender Gunlance I"
+    },
+    "weapon-gunlance-defender-gunlance-ii": {
+      "Key": "weapon-gunlance-defender-gunlance-ii",
+      "Translation": "Defender Gunlance II"
+    },
+    "weapon-gunlance-defender-gunlance-iii": {
+      "Key": "weapon-gunlance-defender-gunlance-iii",
+      "Translation": "Defender Gunlance III"
+    },
+    "weapon-gunlance-defender-gunlance-iv": {
+      "Key": "weapon-gunlance-defender-gunlance-iv",
+      "Translation": "Defender Gunlance IV"
+    },
+    "weapon-gunlance-defender-gunlance-v": {
+      "Key": "weapon-gunlance-defender-gunlance-v",
+      "Translation": "Defender Gunlance V"
+    },
+    "weapon-gunlance-defender-warhammer-i": {
+      "Key": "weapon-gunlance-defender-warhammer-i",
+      "Translation": "Defender Warhammer I"
+    },
+    "weapon-gunlance-defender-warhammer-ii": {
+      "Key": "weapon-gunlance-defender-warhammer-ii",
+      "Translation": "Defender Warhammer II"
+    },
+    "weapon-gunlance-defender-warhammer-iii": {
+      "Key": "weapon-gunlance-defender-warhammer-iii",
+      "Translation": "Defender Warhammer III"
+    },
+    "weapon-gunlance-defender-warhammer-iv": {
+      "Key": "weapon-gunlance-defender-warhammer-iv",
+      "Translation": "Defender Warhammer IV"
+    },
+    "weapon-gunlance-defender-warhammer-v": {
+      "Key": "weapon-gunlance-defender-warhammer-v",
+      "Translation": "Defender Warhammer V"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-i": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-i",
+      "Translation": "Defender Heavy Bowgun I"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-ii": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-ii",
+      "Translation": "Defender Heavy Bowgun II"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-iii": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-iii",
+      "Translation": "Defender Heavy Bowgun III"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-iv": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-iv",
+      "Translation": "Defender Heavy Bowgun IV"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-v": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-v",
+      "Translation": "Defender Heavy Bowgun V"
+    },
+    "weapon-hunting-horn-defender-rally-horn-i": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-i",
+      "Translation": "Defender Rally Horn I"
+    },
+    "weapon-hunting-horn-defender-rally-horn-ii": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-ii",
+      "Translation": "Defender Rally Horn II"
+    },
+    "weapon-hunting-horn-defender-rally-horn-iii": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-iii",
+      "Translation": "Defender Rally Horn III"
+    },
+    "weapon-hunting-horn-defender-rally-horn-iv": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-iv",
+      "Translation": "Defender Rally Horn IV"
+    },
+    "weapon-hunting-horn-defender-rally-horn-v": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-v",
+      "Translation": "Defender Rally Horn V"
+    },
+    "weapon-insect-glaive-defender-glaive-i": {
+      "Key": "weapon-insect-glaive-defender-glaive-i",
+      "Translation": "Defender Glaive I"
+    },
+    "weapon-insect-glaive-defender-glaive-ii": {
+      "Key": "weapon-insect-glaive-defender-glaive-ii",
+      "Translation": "Defender Glaive II"
+    },
+    "weapon-insect-glaive-defender-glaive-iii": {
+      "Key": "weapon-insect-glaive-defender-glaive-iii",
+      "Translation": "Defender Glaive III"
+    },
+    "weapon-insect-glaive-defender-glaive-iv": {
+      "Key": "weapon-insect-glaive-defender-glaive-iv",
+      "Translation": "Defender Glaive IV"
+    },
+    "weapon-insect-glaive-defender-glaive-v": {
+      "Key": "weapon-insect-glaive-defender-glaive-v",
+      "Translation": "Defender Glaive V"
+    },
+    "weapon-lance-defender-lance-i": {
+      "Key": "weapon-lance-defender-lance-i",
+      "Translation": "Defender Lance I"
+    },
+    "weapon-lance-defender-lance-ii": {
+      "Key": "weapon-lance-defender-lance-ii",
+      "Translation": "Defender Lance II"
+    },
+    "weapon-lance-defender-lance-iii": {
+      "Key": "weapon-lance-defender-lance-iii",
+      "Translation": "Defender Lance III"
+    },
+    "weapon-lance-defender-lance-iv": {
+      "Key": "weapon-lance-defender-lance-iv",
+      "Translation": "Defender Lance IV"
+    },
+    "weapon-lance-defender-lance-v": {
+      "Key": "weapon-lance-defender-lance-v",
+      "Translation": "Defender Lance V"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-i": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-i",
+      "Translation": "Defender Light Bowgun I"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-ii": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-ii",
+      "Translation": "Defender Light Bowgun II"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-iii": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-iii",
+      "Translation": "Defender Light Bowgun III"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-iv": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-iv",
+      "Translation": "Defender Light Bowgun IV"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-v": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-v",
+      "Translation": "Defender Light Bowgun V"
+    },
+    "weapon-long-sword-defender-katana-i": {
+      "Key": "weapon-long-sword-defender-katana-i",
+      "Translation": "Defender Katana I"
+    },
+    "weapon-long-sword-defender-katana-ii": {
+      "Key": "weapon-long-sword-defender-katana-ii",
+      "Translation": "Defender Katana II"
+    },
+    "weapon-long-sword-defender-katana-iii": {
+      "Key": "weapon-long-sword-defender-katana-iii",
+      "Translation": "Defender Katana III"
+    },
+    "weapon-long-sword-defender-katana-iv": {
+      "Key": "weapon-long-sword-defender-katana-iv",
+      "Translation": "Defender Katana IV"
+    },
+    "weapon-long-sword-defender-katana-v": {
+      "Key": "weapon-long-sword-defender-katana-v",
+      "Translation": "Defender Katana V"
+    },
+    "weapon-switch-axe-defender-switch-axe-i": {
+      "Key": "weapon-switch-axe-defender-switch-axe-i",
+      "Translation": "Defender Switch Axe I"
+    },
+    "weapon-switch-axe-defender-switch-axe-ii": {
+      "Key": "weapon-switch-axe-defender-switch-axe-ii",
+      "Translation": "Defender Switch Axe II"
+    },
+    "weapon-switch-axe-defender-switch-axe-iii": {
+      "Key": "weapon-switch-axe-defender-switch-axe-iii",
+      "Translation": "Defender Switch Axe III"
+    },
+    "weapon-switch-axe-defender-switch-axe-iv": {
+      "Key": "weapon-switch-axe-defender-switch-axe-iv",
+      "Translation": "Defender Switch Axe IV"
+    },
+    "weapon-switch-axe-defender-switch-axe-v": {
+      "Key": "weapon-switch-axe-defender-switch-axe-v",
+      "Translation": "Defender Switch Axe V"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-i": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-i",
+      "Translation": "Defender Warhatchet I"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-ii": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-ii",
+      "Translation": "Defender Warhatchet II"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-iii": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-iii",
+      "Translation": "Defender Warhatchet III"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-iv": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-iv",
+      "Translation": "Defender Warhatchet IV"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-v": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-v",
+      "Translation": "Defender Warhatchet V"
     }
   }

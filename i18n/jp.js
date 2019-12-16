@@ -2805,7 +2805,7 @@ export default {
     },
     "armor-hr-strategist-spectacles-alpha": {
       "Key": "armor-hr-strategist-spectacles-alpha",
-      "Translation": "ストラテジストの眼鏡⍺"
+      "Translation": "ストラテジスト眼鏡⍺"
     },
     "armor-hr-teostra-alpha": {
       "Key": "armor-hr-teostra-alpha",
@@ -2833,7 +2833,7 @@ export default {
     },
     "armor-hr-tzitzi-coil-beta": {
       "Key": "armor-hr-tzitzi-coil-beta",
-      "Translation": "Tzitziコイルß"
+      "Translation": "コイルTzitziß"
     },
     "armor-hr-tzitzi-greaves-alpha": {
       "Key": "armor-hr-tzitzi-greaves-alpha",
@@ -7289,7 +7289,7 @@ export default {
     },
     "armor-set-bonus-skill-good-luck": {
       "Key": "armor-set-bonus-skill-good-luck",
-      "Translation": "幸運を"
+      "Translation": "がんばろう"
     },
     "armor-set-bonus-skill-good-luck-description": {
       "Key": "armor-set-bonus-skill-good-luck-description",
@@ -7593,7 +7593,7 @@ export default {
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics-tips": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics-tips",
-      "Translation": "あなたが最初の4つのLynian研究クエストを完了した後、この恵みは、アステラでLynian研究でピックアップすることができます。研究員は。あなたが10のGajalakaいたずら書きを発見するために頼む\\ nは\\ NITは、これらが唯一、この恵みの間だけハイランクの場所に産卵ことに注意することが重要です。あなたはエリア5で1つのいたずら書きや古代の森のエリア15で1つの落書きを見つけることができます。あなたはWildspire廃棄物のエリア7エリア3と1落書きで1つの落書きを見つけることができます\\ n \\ nあなたはコーラル高地のエリア12に1つの落書きを見つけることができます。あなたはエリア3で2つの落書きや腐ったヴェイルエリア15で3つの落書きを見つけることができます。あなたはアステラに戻ると、研究員は、あなたがGajalakaキャンプを見つけるために着手したいと考えています。\\ n \\ nFindドラゴンの凹部にエリア8で研究員。恵みを開始するためには、夜の時間にする必要があります。キャンプのバックでキャンプファイヤーでリーダーにあなたのGhillieのマントルと話に置きます。報酬：あなたのPalicoは今Gastodonにmeowlotovカクテルと話を使用することができます。"
+      "Translation": "あなたが最初の4つのLynian研究クエストを完了した後、この恵みは、アステラでLynian研究でピックアップすることができます。研究員は、NITが、これらは唯一、この恵みの間だけハイランクの場所に出現していることに注意することが重要である\\。10のGajalakaいたずら書きを発見するように要求されます\\ n個。あなたはエリア5で1つのいたずら書きや古代の森のエリア15で1つの落書きを見つけることができます。あなたはWildspire廃棄物のエリア7エリア3と1落書きで1つの落書きを見つけることができます\\ n \\ nあなたはコーラル高地のエリア12に1つの落書きを見つけることができます。あなたはエリア3で2落書きや腐ったヴェイルエリア15で3つの落書きを見つけることができます。あなたはアステラに戻ると、研究員は、あなたがGajalakaキャンプを見つけるために着手したいと考えています。\\ n \\ nFindドラゴンの凹部にエリア8で研究員。恵みを起動するためには、夜の時間にする必要があります。キャンプのバックでキャンプファイヤーでリーダーにあなたのGhillieのマントルと話に置きます。報酬：あなたのPalicoは今Gastodonにmeowlotovカクテルと話を使用することができます。"
     },
     "critical-bounties-important": {
       "Key": "critical-bounties-important",
@@ -7653,7 +7653,7 @@ export default {
     },
     "critical-bounties-research-help-capture-the-ancient": {
       "Key": "critical-bounties-research-help-capture-the-ancient",
-      "Translation": "リサーチヘルプ：キャプチャ古代"
+      "Translation": "研究のヘルプ：キャプチャ古代"
     },
     "critical-bounties-research-help-capture-the-ancient-tips": {
       "Key": "critical-bounties-research-help-capture-the-ancient-tips",
@@ -10641,7 +10641,7 @@ export default {
     },
     "play-guide-the-new-world": {
       "Key": "play-guide-the-new-world",
-      "Translation": "新世界"
+      "Translation": "新しい世界"
     },
     "play-guide-the-new-world-description": {
       "Key": "play-guide-the-new-world-description",
@@ -10933,7 +10933,7 @@ export default {
     },
     "poogie-how-to": {
       "Key": "poogie-how-to",
-      "Translation": "方法"
+      "Translation": "の仕方"
     },
     "poogie-memorial-stripes": {
       "Key": "poogie-memorial-stripes",
@@ -11181,7 +11181,7 @@ export default {
     },
     "quest-a-rush-of-blood-description": {
       "Key": "quest-a-rush-of-blood-description",
-      "Translation": "大野！私たちのラッシュのようにたくさん見えるTHS大きな老いたモンスターがあります！誰かのgottal穏やかビッグボーイダウン！私たちを助け、私たちはあなたのPalicoのためのいくつかの特別なギアをあげます！"
+      "Translation": "あらいやだ！私たちのラッシュのようにたくさん見えるTHS大きな老いたモンスターがあります！誰かのgottal穏やかビッグボーイダウン！私たちを助け、私たちはあなたのPalicoのためのいくつかの特別なギアをあげます！"
     },
     "quest-a-scalding-scoop": {
       "Key": "quest-a-scalding-scoop",
@@ -11289,7 +11289,7 @@ export default {
     },
     "quest-a-visitor-from-eorzea-extreme-description": {
       "Key": "quest-a-visitor-from-eorzea-extreme-description",
-      "Translation": "別のベヒーモスは、エルダーの凹部に登場し、さらに危険最後よりもしました！召喚、他の冒険者と鎮める獣！ （非常に難しい！特典、Drachenは鎧とギルドカードのタイトルをレイヤード）"
+      "Translation": "別のベヒーモスは、エルダーの凹部に登場し、さらに危険最後よりもしました！召喚、他の冒険者と鎮める獣！ （非常に難しい！報酬は、Drachenは鎧とギルドカードのタイトルをレイヤード）"
     },
     "quest-a-whisper-of-white-mane": {
       "Key": "quest-a-whisper-of-white-mane",
@@ -11941,7 +11941,7 @@ export default {
     },
     "quest-conditions-none": {
       "Key": "quest-conditions-none",
-      "Translation": "無し"
+      "Translation": "なし"
     },
     "quest-contract-trouble-in-the-ancient-forest": {
       "Key": "quest-contract-trouble-in-the-ancient-forest",
@@ -13869,7 +13869,7 @@ export default {
     },
     "quest-twin-spines-upon-the-sands-description": {
       "Key": "quest-twin-spines-upon-the-sands-description",
-      "Translation": "あなたは角竜の尾の中に穴を掘ることでsurvievs昆虫の種があります知っていましたか？番号？まあどちらも私たちもしません！そして、我々はあなたが行くと確かに私たちに1を持っていない限り出て見つけることができません！"
+      "Translation": "あなたは角竜の尾の中に穴を掘ることでsurvievs昆虫の種があります知っていましたか？ノー？まあどちらも私たちもしません！そして、我々はあなたが行くと確かに私たちに1を持っていない限り出て見つけることができません！"
     },
     "quest-two-horned-hostility": {
       "Key": "quest-two-horned-hostility",
@@ -14025,7 +14025,7 @@ export default {
     },
     "quest-wicked-wildspire-warfare-description": {
       "Key": "quest-wicked-wildspire-warfare-description",
-      "Translation": "あなたは私たちが一つの場所で非常に領土モンスターのカップルを取得したらどうだろう何を知っていますか？番号？私もそうではないです！確認してみましょう。鎧球を稼ぐために上に出てきます！"
+      "Translation": "あなたは私たちが一つの場所で非常に領土モンスターのカップルを取得したらどうだろう何を知っていますか？ノー？私もそうではないです！確認してみましょう。鎧球を稼ぐために上に出てきます！"
     },
     "quest-wiggle-me-this": {
       "Key": "quest-wiggle-me-this",
@@ -14209,7 +14209,7 @@ export default {
     },
     "settings-language-italian": {
       "Key": "settings-language-italian",
-      "Translation": "イタリアの"
+      "Translation": "イタリア語"
     },
     "settings-language-japanese": {
       "Key": "settings-language-japanese",
@@ -14325,7 +14325,7 @@ export default {
     },
     "settings-theme-dark": {
       "Key": "settings-theme-dark",
-      "Translation": "闇"
+      "Translation": "ダーク"
     },
     "settings-theme-light": {
       "Key": "settings-theme-light",
@@ -14349,7 +14349,7 @@ export default {
     },
     "settings-value-on": {
       "Key": "settings-value-on",
-      "Translation": "オン"
+      "Translation": "に"
     },
     "skill-adrenaline": {
       "Key": "skill-adrenaline",
@@ -15265,7 +15265,7 @@ export default {
     },
     "skill-fortify": {
       "Key": "skill-fortify",
-      "Translation": "固めます"
+      "Translation": "Fortifyは"
     },
     "skill-fortify-1": {
       "Key": "skill-fortify-1",
@@ -15329,7 +15329,7 @@ export default {
     },
     "skill-good-luck": {
       "Key": "skill-good-luck",
-      "Translation": "幸運を"
+      "Translation": "がんばろう"
     },
     "skill-good-luck-1": {
       "Key": "skill-good-luck-1",
@@ -16493,7 +16493,7 @@ export default {
     },
     "skill-sporepuff-expert-2": {
       "Key": "skill-sporepuff-expert-2",
-      "Translation": "35 Sporepuffsは健康を回復します。"
+      "Translation": "Sporepuffsは35健康を回復します。"
     },
     "skill-sporepuff-expert-3": {
       "Key": "skill-sporepuff-expert-3",
@@ -23334,5 +23334,453 @@ export default {
     "weapon-sword-and-shield-banned-rajang-club": {
       "Key": "weapon-sword-and-shield-banned-rajang-club",
       "Translation": "禁止Rajangクラブ"
+    },
+    "weapon-bow-dragon-perforator-i": {
+      "Key": "weapon-bow-dragon-perforator-i",
+      "Translation": "ドラゴン穿孔I"
+    },
+    "weapon-bow-dragon-perforator-ii": {
+      "Key": "weapon-bow-dragon-perforator-ii",
+      "Translation": "ドラゴン穿孔II"
+    },
+    "weapon-bow-dragon-perforator-iii": {
+      "Key": "weapon-bow-dragon-perforator-iii",
+      "Translation": "ドラゴン穿孔III"
+    },
+    "weapon-bow-usurpers-rumble": {
+      "Key": "weapon-bow-usurpers-rumble",
+      "Translation": "強奪者のランブル"
+    },
+    "weapon-bow-usurpers-rumble-plus": {
+      "Key": "weapon-bow-usurpers-rumble-plus",
+      "Translation": "強奪者のランブル+"
+    },
+    "weapon-bow-despots-earlybolt": {
+      "Key": "weapon-bow-despots-earlybolt",
+      "Translation": "専制君主のEarlybolt"
+    },
+    "weapon-bow-alqaws-al-nasr-i": {
+      "Key": "weapon-bow-alqaws-al-nasr-i",
+      "Translation": "Alqawsアル・ナスルI"
+    },
+    "weapon-bow-alqaws-al-nasr-ii": {
+      "Key": "weapon-bow-alqaws-al-nasr-ii",
+      "Translation": "Alqawsアル・ナスルII"
+    },
+    "weapon-bow-rex-bow-i": {
+      "Key": "weapon-bow-rex-bow-i",
+      "Translation": "レックスボウI"
+    },
+    "weapon-bow-rex-bow-ii": {
+      "Key": "weapon-bow-rex-bow-ii",
+      "Translation": "レックスボウII"
+    },
+    "weapon-bow-accursed-arc": {
+      "Key": "weapon-bow-accursed-arc",
+      "Translation": "呪われたアーク"
+    },
+    "weapon-bow-dios-flier": {
+      "Key": "weapon-bow-dios-flier",
+      "Translation": "ディオスフライヤー"
+    },
+    "weapon-bow-tsali-flier": {
+      "Key": "weapon-bow-tsali-flier",
+      "Translation": "トサリフライヤー"
+    },
+    "weapon-bow-gigacles-plus": {
+      "Key": "weapon-bow-gigacles-plus",
+      "Translation": "Gigacles +"
+    },
+    "weapon-bow-gigantomachy": {
+      "Key": "weapon-bow-gigantomachy",
+      "Translation": "Gigantomachy"
+    },
+    "weapon-bow-princess-arrow-iv": {
+      "Key": "weapon-bow-princess-arrow-iv",
+      "Translation": "プリンセスアローIV"
+    },
+    "weapon-bow-rathslinger-iv": {
+      "Key": "weapon-bow-rathslinger-iv",
+      "Translation": "Rathslinger IV"
+    },
+    "weapon-bow-azure-mightbow": {
+      "Key": "weapon-bow-azure-mightbow",
+      "Translation": "AzureのMightbow"
+    },
+    "weapon-bow-water-shot-iv": {
+      "Key": "weapon-bow-water-shot-iv",
+      "Translation": "水のショットIV"
+    },
+    "weapon-bow-laguna-shot-i": {
+      "Key": "weapon-bow-laguna-shot-i",
+      "Translation": "ラグナショットI"
+    },
+    "weapon-bow-laguna-shot-ii": {
+      "Key": "weapon-bow-laguna-shot-ii",
+      "Translation": "ラグナショットII"
+    },
+    "weapon-bow-icicle-blizzard-i": {
+      "Key": "weapon-bow-icicle-blizzard-i",
+      "Translation": "つららブリザードI"
+    },
+    "weapon-bow-icicle-blizzard-ii": {
+      "Key": "weapon-bow-icicle-blizzard-ii",
+      "Translation": "つららブリザードII"
+    },
+    "weapon-bow-hidden-bow": {
+      "Key": "weapon-bow-hidden-bow",
+      "Translation": "隠しボウ"
+    },
+    "weapon-bow-hidden-bow-plus": {
+      "Key": "weapon-bow-hidden-bow-plus",
+      "Translation": "隠された弓+"
+    },
+    "weapon-bow-night-flight": {
+      "Key": "weapon-bow-night-flight",
+      "Translation": "夜間飛行"
+    },
+    "weapon-bow-legia-snowfletcher-plus": {
+      "Key": "weapon-bow-legia-snowfletcher-plus",
+      "Translation": "レギアSnowfletcher +"
+    },
+    "weapon-bow-hoarcry-snowfletcher": {
+      "Key": "weapon-bow-hoarcry-snowfletcher",
+      "Translation": "Hoarcry Snowfletcher"
+    },
+    "weapon-bow-mist-glacia": {
+      "Key": "weapon-bow-mist-glacia",
+      "Translation": "ミストGlacia"
+    },
+    "weapon-bow-hunters-bravebow-i": {
+      "Key": "weapon-bow-hunters-bravebow-i",
+      "Translation": "ハンターのBravebow I"
+    },
+    "weapon-bow-hunters-bravebow-ii": {
+      "Key": "weapon-bow-hunters-bravebow-ii",
+      "Translation": "ハンターのBravebow II"
+    },
+    "weapon-bow-hunters-bravebow-iii": {
+      "Key": "weapon-bow-hunters-bravebow-iii",
+      "Translation": "ハンターのBravebow III"
+    },
+    "weapon-bow-iceflinger": {
+      "Key": "weapon-bow-iceflinger",
+      "Translation": "Iceflinger"
+    },
+    "weapon-bow-alluring-evelia": {
+      "Key": "weapon-bow-alluring-evelia",
+      "Translation": "魅惑Evelia"
+    },
+    "weapon-bow-mammoth-greatbow-i": {
+      "Key": "weapon-bow-mammoth-greatbow-i",
+      "Translation": "マンモスGreatbow I"
+    },
+    "weapon-bow-mammoth-greatbow-ii": {
+      "Key": "weapon-bow-mammoth-greatbow-ii",
+      "Translation": "マンモスGreatbow II"
+    },
+    "weapon-bow-glavenus-arrow-i": {
+      "Key": "weapon-bow-glavenus-arrow-i",
+      "Translation": "GlavenusアローI"
+    },
+    "weapon-bow-glavenus-arrow-ii": {
+      "Key": "weapon-bow-glavenus-arrow-ii",
+      "Translation": "GlavenusアローII"
+    },
+    "weapon-bow-acidic-arrow-i": {
+      "Key": "weapon-bow-acidic-arrow-i",
+      "Translation": "酸性アローI"
+    },
+    "monster-stygian-zinogre": {
+      "Key": "monster-stygian-zinogre",
+      "Translation": "ステイジアンZinogre"
+    },
+    "monster-safijiiva": {
+      "Key": "monster-safijiiva",
+      "Translation": "Safi'jiiva"
+    },
+    "weapon-tree-defender-tree": {
+      "Key": "weapon-tree-defender-tree",
+      "Translation": "ディフェンダーツリー"
+    },
+    "weapon-bow-defender-powerbow-i": {
+      "Key": "weapon-bow-defender-powerbow-i",
+      "Translation": "ディフェンダーPowerbow I"
+    },
+    "weapon-bow-defender-powerbow-ii": {
+      "Key": "weapon-bow-defender-powerbow-ii",
+      "Translation": "ディフェンダーPowerbow II"
+    },
+    "weapon-bow-defender-powerbow-iii": {
+      "Key": "weapon-bow-defender-powerbow-iii",
+      "Translation": "ディフェンダーPowerbow III"
+    },
+    "weapon-bow-defender-powerbow-iv": {
+      "Key": "weapon-bow-defender-powerbow-iv",
+      "Translation": "ディフェンダーPowerbow IV"
+    },
+    "weapon-bow-defender-powerbow-v": {
+      "Key": "weapon-bow-defender-powerbow-v",
+      "Translation": "ディフェンダーPowerbow V"
+    },
+    "weapon-bow-defender-shield-i": {
+      "Key": "weapon-bow-defender-shield-i",
+      "Translation": "ディフェンダーシールドI"
+    },
+    "weapon-bow-defender-shield-ii": {
+      "Key": "weapon-bow-defender-shield-ii",
+      "Translation": "ディフェンダーシールドII"
+    },
+    "weapon-bow-defender-shield-iii": {
+      "Key": "weapon-bow-defender-shield-iii",
+      "Translation": "ディフェンダーシールドIII"
+    },
+    "weapon-bow-defender-shield-iv": {
+      "Key": "weapon-bow-defender-shield-iv",
+      "Translation": "ディフェンダーシールドIV"
+    },
+    "weapon-bow-defender-shield-v": {
+      "Key": "weapon-bow-defender-shield-v",
+      "Translation": "ディフェンダーシールドV"
+    },
+    "weapon-dual-blades-defender-chainsaws-i": {
+      "Key": "weapon-dual-blades-defender-chainsaws-i",
+      "Translation": "ディフェンダーチェーンソーI"
+    },
+    "weapon-dual-blades-defender-chainsaws-ii": {
+      "Key": "weapon-dual-blades-defender-chainsaws-ii",
+      "Translation": "ディフェンダーチェーンソーII"
+    },
+    "weapon-dual-blades-defender-chainsaws-iii": {
+      "Key": "weapon-dual-blades-defender-chainsaws-iii",
+      "Translation": "ディフェンダーチェーンソーIII"
+    },
+    "weapon-dual-blades-defender-chainsaws-iv": {
+      "Key": "weapon-dual-blades-defender-chainsaws-iv",
+      "Translation": "ディフェンダーチェーンソーIV"
+    },
+    "weapon-dual-blades-defender-chainsaws-v": {
+      "Key": "weapon-dual-blades-defender-chainsaws-v",
+      "Translation": "ディフェンダーチェーンソーV"
+    },
+    "weapon-great-sword-defender-great-sword-i": {
+      "Key": "weapon-great-sword-defender-great-sword-i",
+      "Translation": "ディフェンダーグレートソードI"
+    },
+    "weapon-great-sword-defender-great-sword-ii": {
+      "Key": "weapon-great-sword-defender-great-sword-ii",
+      "Translation": "ディフェンダーグレートソードII"
+    },
+    "weapon-great-sword-defender-great-sword-iii": {
+      "Key": "weapon-great-sword-defender-great-sword-iii",
+      "Translation": "ディフェンダーグレートソードIII"
+    },
+    "weapon-great-sword-defender-great-sword-iv": {
+      "Key": "weapon-great-sword-defender-great-sword-iv",
+      "Translation": "ディフェンダーグレートソードIV"
+    },
+    "weapon-great-sword-defender-great-sword-v": {
+      "Key": "weapon-great-sword-defender-great-sword-v",
+      "Translation": "ディフェンダーグレートソードV"
+    },
+    "weapon-gunlance-defender-gunlance-i": {
+      "Key": "weapon-gunlance-defender-gunlance-i",
+      "Translation": "ディフェンダーGunlance I"
+    },
+    "weapon-gunlance-defender-gunlance-ii": {
+      "Key": "weapon-gunlance-defender-gunlance-ii",
+      "Translation": "ディフェンダーGunlance II"
+    },
+    "weapon-gunlance-defender-gunlance-iii": {
+      "Key": "weapon-gunlance-defender-gunlance-iii",
+      "Translation": "ディフェンダーGunlance III"
+    },
+    "weapon-gunlance-defender-gunlance-iv": {
+      "Key": "weapon-gunlance-defender-gunlance-iv",
+      "Translation": "ディフェンダーGunlance IV"
+    },
+    "weapon-gunlance-defender-gunlance-v": {
+      "Key": "weapon-gunlance-defender-gunlance-v",
+      "Translation": "ディフェンダーGunlance V"
+    },
+    "weapon-gunlance-defender-warhammer-i": {
+      "Key": "weapon-gunlance-defender-warhammer-i",
+      "Translation": "ディフェンダーウォーハンマーI"
+    },
+    "weapon-gunlance-defender-warhammer-ii": {
+      "Key": "weapon-gunlance-defender-warhammer-ii",
+      "Translation": "ディフェンダーウォーハンマーII"
+    },
+    "weapon-gunlance-defender-warhammer-iii": {
+      "Key": "weapon-gunlance-defender-warhammer-iii",
+      "Translation": "ディフェンダーウォーハンマーIII"
+    },
+    "weapon-gunlance-defender-warhammer-iv": {
+      "Key": "weapon-gunlance-defender-warhammer-iv",
+      "Translation": "ディフェンダーウォーハンマーIV"
+    },
+    "weapon-gunlance-defender-warhammer-v": {
+      "Key": "weapon-gunlance-defender-warhammer-v",
+      "Translation": "ディフェンダーウォーハンマーV"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-i": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-i",
+      "Translation": "ディフェンダーヘビーBowgun I"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-ii": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-ii",
+      "Translation": "ディフェンダーヘビーBowgun II"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-iii": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-iii",
+      "Translation": "ディフェンダーヘビーBowgun III"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-iv": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-iv",
+      "Translation": "ディフェンダーヘビーBowgun IV"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-v": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-v",
+      "Translation": "ディフェンダーヘビーBowgun V"
+    },
+    "weapon-hunting-horn-defender-rally-horn-i": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-i",
+      "Translation": "ディフェンダーラリー・ホーンI"
+    },
+    "weapon-hunting-horn-defender-rally-horn-ii": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-ii",
+      "Translation": "ディフェンダーラリー・ホーンII"
+    },
+    "weapon-hunting-horn-defender-rally-horn-iii": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-iii",
+      "Translation": "ディフェンダーラリー・ホーンIII"
+    },
+    "weapon-hunting-horn-defender-rally-horn-iv": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-iv",
+      "Translation": "ディフェンダーラリー・ホーンIV"
+    },
+    "weapon-hunting-horn-defender-rally-horn-v": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-v",
+      "Translation": "ディフェンダーラリー・ホーンV"
+    },
+    "weapon-insect-glaive-defender-glaive-i": {
+      "Key": "weapon-insect-glaive-defender-glaive-i",
+      "Translation": "ディフェンダーグレイブI"
+    },
+    "weapon-insect-glaive-defender-glaive-ii": {
+      "Key": "weapon-insect-glaive-defender-glaive-ii",
+      "Translation": "ディフェンダーグレイブII"
+    },
+    "weapon-insect-glaive-defender-glaive-iii": {
+      "Key": "weapon-insect-glaive-defender-glaive-iii",
+      "Translation": "ディフェンダーグレイブIII"
+    },
+    "weapon-insect-glaive-defender-glaive-iv": {
+      "Key": "weapon-insect-glaive-defender-glaive-iv",
+      "Translation": "ディフェンダーグレイブIV"
+    },
+    "weapon-insect-glaive-defender-glaive-v": {
+      "Key": "weapon-insect-glaive-defender-glaive-v",
+      "Translation": "ディフェンダーグレイブV"
+    },
+    "weapon-lance-defender-lance-i": {
+      "Key": "weapon-lance-defender-lance-i",
+      "Translation": "ディフェンダーランスI"
+    },
+    "weapon-lance-defender-lance-ii": {
+      "Key": "weapon-lance-defender-lance-ii",
+      "Translation": "ディフェンダーランスII"
+    },
+    "weapon-lance-defender-lance-iii": {
+      "Key": "weapon-lance-defender-lance-iii",
+      "Translation": "ディフェンダーランスIII"
+    },
+    "weapon-lance-defender-lance-iv": {
+      "Key": "weapon-lance-defender-lance-iv",
+      "Translation": "ディフェンダーランスIV"
+    },
+    "weapon-lance-defender-lance-v": {
+      "Key": "weapon-lance-defender-lance-v",
+      "Translation": "ディフェンダーランスV"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-i": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-i",
+      "Translation": "ディフェンダーライトBowgun I"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-ii": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-ii",
+      "Translation": "ディフェンダーライトBowgun II"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-iii": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-iii",
+      "Translation": "ディフェンダーライトBowgun III"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-iv": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-iv",
+      "Translation": "ディフェンダーライトBowgun IV"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-v": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-v",
+      "Translation": "ディフェンダーライトBowgun V"
+    },
+    "weapon-long-sword-defender-katana-i": {
+      "Key": "weapon-long-sword-defender-katana-i",
+      "Translation": "ディフェンダーカタナI"
+    },
+    "weapon-long-sword-defender-katana-ii": {
+      "Key": "weapon-long-sword-defender-katana-ii",
+      "Translation": "ディフェンダーカタナII"
+    },
+    "weapon-long-sword-defender-katana-iii": {
+      "Key": "weapon-long-sword-defender-katana-iii",
+      "Translation": "ディフェンダーカタナIII"
+    },
+    "weapon-long-sword-defender-katana-iv": {
+      "Key": "weapon-long-sword-defender-katana-iv",
+      "Translation": "ディフェンダーカタナIV"
+    },
+    "weapon-long-sword-defender-katana-v": {
+      "Key": "weapon-long-sword-defender-katana-v",
+      "Translation": "ディフェンダーカタナV"
+    },
+    "weapon-switch-axe-defender-switch-axe-i": {
+      "Key": "weapon-switch-axe-defender-switch-axe-i",
+      "Translation": "ディフェンダースイッチアックスI"
+    },
+    "weapon-switch-axe-defender-switch-axe-ii": {
+      "Key": "weapon-switch-axe-defender-switch-axe-ii",
+      "Translation": "ディフェンダースイッチアックスII"
+    },
+    "weapon-switch-axe-defender-switch-axe-iii": {
+      "Key": "weapon-switch-axe-defender-switch-axe-iii",
+      "Translation": "ディフェンダースイッチアックスIII"
+    },
+    "weapon-switch-axe-defender-switch-axe-iv": {
+      "Key": "weapon-switch-axe-defender-switch-axe-iv",
+      "Translation": "ディフェンダースイッチアックスIV"
+    },
+    "weapon-switch-axe-defender-switch-axe-v": {
+      "Key": "weapon-switch-axe-defender-switch-axe-v",
+      "Translation": "ディフェンダースイッチアックスV"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-i": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-i",
+      "Translation": "ディフェンダーWarhatchet I"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-ii": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-ii",
+      "Translation": "ディフェンダーWarhatchet II"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-iii": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-iii",
+      "Translation": "ディフェンダーWarhatchet III"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-iv": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-iv",
+      "Translation": "ディフェンダーWarhatchet IV"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-v": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-v",
+      "Translation": "ディフェンダーWarhatchet V"
     }
   }

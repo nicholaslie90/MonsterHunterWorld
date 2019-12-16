@@ -2169,7 +2169,7 @@ export default {
     },
     "armor-hr-lavasioth-greaves-alpha": {
       "Key": "armor-hr-lavasioth-greaves-alpha",
-      "Translation": "Lavasioth นับ⍺"
+      "Translation": "Lavasioth สนับ⍺"
     },
     "armor-hr-lavasioth-greaves-beta": {
       "Key": "armor-hr-lavasioth-greaves-beta",
@@ -7973,7 +7973,7 @@ export default {
     },
     "endemic-life-soldier-helmcrab-description": {
       "Key": "endemic-life-soldier-helmcrab-description",
-      "Translation": "พวกเขาพก Slinger หนามและเดินไปรอบ ๆ ในกลุ่มเช่นเดียวกับทหาร! ที่ทำให้หนามปันส่วนของพวกเขา? พวกเขาไม่ ... กินมัน? Ew ..."
+      "Translation": "พวกเขาพก Slinger หนามและเดินไปรอบ ๆ ในกลุ่มเช่นเดียวกับทหาร! ที่ทำให้หนามปันส่วนของพวกเขา? พวกเขาไม่ ... กินมันได้หรือไม่ Ew ..."
     },
     "endemic-life-sushifish-description": {
       "Key": "endemic-life-sushifish-description",
@@ -8141,7 +8141,7 @@ export default {
     },
     "home-wishlist": {
       "Key": "home-wishlist",
-      "Translation": "รายการที่ต้องการ"
+      "Translation": "สิ่งที่อยากได้"
     },
     "layered-armor-aloy": {
       "Key": "layered-armor-aloy",
@@ -8985,7 +8985,7 @@ export default {
     },
     "monster-noios-useful-information": {
       "Key": "monster-noios-useful-information",
-      "Translation": "Wingdrakes ที่จะผลิตเสียงคล้ายกับฝักโวยเมื่อตกใจ ใช้เนื้อสัตว์ได้รับความสนใจของพวกเขาแล้วพวกเขาล่าสำหรับวัสดุหรือใช้พวกเขาเป็นขนส่ง"
+      "Translation": "Wingdrakes ที่จะผลิตเสียงคล้ายกับฝักโวยเมื่อตกใจ ใช้เนื้อสัตว์ได้รับความสนใจของพวกเขาแล้วล่าพวกเขาสำหรับวัสดุหรือใช้พวกเขาเป็นขนส่ง"
     },
     "monster-odogaron": {
       "Key": "monster-odogaron",
@@ -10093,7 +10093,7 @@ export default {
     },
     "play-guide-mounting-controls-description": {
       "Key": "play-guide-mounting-controls-description",
-      "Translation": "เมื่อคุณได้ติดตั้งมอนสเตอร์ให้กด R2 เมื่อ thrashes มอนสเตอร์จะจับหรือ L เพื่อหลีกเลี่ยงการโจมตีบางอย่าง ระวัง: คุณจะตกหลุมปิดโดยอัตโนมัติหากความแข็งแกร่งของคุณหมด"
+      "Translation": "เมื่อคุณได้ติดตั้งมอนสเตอร์ให้กด R2 เมื่อ thrashes มอนสเตอร์จะจับหรือ L เพื่อหลีกเลี่ยงการโจมตีบางอย่าง ระวัง: คุณจะหลุดออกมาโดยอัตโนมัติหากความแข็งแกร่งของคุณหมด"
     },
     "play-guide-mounting-monsters": {
       "Key": "play-guide-mounting-monsters",
@@ -10593,7 +10593,7 @@ export default {
     },
     "play-guide-the-argosy-sets-sail-description": {
       "Key": "play-guide-the-argosy-sets-sail-description",
-      "Translation": "สำเภาเท่านั้นยังคงอยู่ในพอร์ตระยะเวลาที่ จำกัด"
+      "Translation": "สำเภาเท่านั้นยังคงอยู่ในพอร์ตสำหรับระยะเวลาที่ จำกัด"
     },
     "play-guide-the-botanical-research-center": {
       "Key": "play-guide-the-botanical-research-center",
@@ -11345,7 +11345,7 @@ export default {
     },
     "quest-arena-quest-05-description": {
       "Key": "quest-arena-quest-05-description",
-      "Translation": "ในมุมของมอนสเตอร์: Barroth การอุ้ยอ้ายโขกที่ Skullcracker! แพ้ผู้ชายคนนี้และชื่อของคุณเป็นโคลน! ใครมีความกล้าที่จะต่อสู้กับมันด้วยอาวุธและชุดเกราะตั้ง?"
+      "Translation": "ในมุมของมอนสเตอร์: Barroth ที่อุ้ยอ้ายโขกที่ Skullcracker! แพ้ผู้ชายคนนี้และชื่อของคุณเป็นโคลน! ใครมีความกล้าที่จะต่อสู้กับมันด้วยอาวุธและชุดเกราะตั้ง?"
     },
     "quest-arena-quest-06": {
       "Key": "quest-arena-quest-06",
@@ -11425,7 +11425,7 @@ export default {
     },
     "quest-brown-desert-green-queen-description": {
       "Key": "quest-brown-desert-green-queen-description",
-      "Translation": "เราเคยรายงานรบกวนของระเฑียรที่มีประสิทธิภาพผิดปกติที่ปรากฏใน Wildspire เสีย เริ่มต้นการสอบสวนของคุณ ASAP แต่ระวังหางพิษของมัน!"
+      "Translation": "เราเคยรายงานรบกวนของระเฑียรที่มีประสิทธิภาพผิดปกติที่ปรากฏใน Wildspire เสีย เริ่มต้นการสอบสวนของคุณให้เร็วที่สุด แต่ระวังหางพิษของมัน!"
     },
     "quest-brown-desert-green-queen-notes": {
       "Key": "quest-brown-desert-green-queen-notes",
@@ -23334,5 +23334,453 @@ export default {
     "weapon-sword-and-shield-banned-rajang-club": {
       "Key": "weapon-sword-and-shield-banned-rajang-club",
       "Translation": "ห้าม Rajang คลับ"
+    },
+    "weapon-bow-dragon-perforator-i": {
+      "Key": "weapon-bow-dragon-perforator-i",
+      "Translation": "มังกร Perforator ฉัน"
+    },
+    "weapon-bow-dragon-perforator-ii": {
+      "Key": "weapon-bow-dragon-perforator-ii",
+      "Translation": "มังกร Perforator ครั้งที่สอง"
+    },
+    "weapon-bow-dragon-perforator-iii": {
+      "Key": "weapon-bow-dragon-perforator-iii",
+      "Translation": "มังกร Perforator III"
+    },
+    "weapon-bow-usurpers-rumble": {
+      "Key": "weapon-bow-usurpers-rumble",
+      "Translation": "ทรราชของก้อง"
+    },
+    "weapon-bow-usurpers-rumble-plus": {
+      "Key": "weapon-bow-usurpers-rumble-plus",
+      "Translation": "ทรราชของก้อง +"
+    },
+    "weapon-bow-despots-earlybolt": {
+      "Key": "weapon-bow-despots-earlybolt",
+      "Translation": "เผด็จการของ Earlybolt"
+    },
+    "weapon-bow-alqaws-al-nasr-i": {
+      "Key": "weapon-bow-alqaws-al-nasr-i",
+      "Translation": "Alqaws Al-Nasr ฉัน"
+    },
+    "weapon-bow-alqaws-al-nasr-ii": {
+      "Key": "weapon-bow-alqaws-al-nasr-ii",
+      "Translation": "Alqaws อัลนาสร์ไอ"
+    },
+    "weapon-bow-rex-bow-i": {
+      "Key": "weapon-bow-rex-bow-i",
+      "Translation": "เร็กซ์โบว์ผม"
+    },
+    "weapon-bow-rex-bow-ii": {
+      "Key": "weapon-bow-rex-bow-ii",
+      "Translation": "เร็กซ์โบว์ครั้งที่สอง"
+    },
+    "weapon-bow-accursed-arc": {
+      "Key": "weapon-bow-accursed-arc",
+      "Translation": "อัปรีย์ Arc"
+    },
+    "weapon-bow-dios-flier": {
+      "Key": "weapon-bow-dios-flier",
+      "Translation": "Dios นักบิน"
+    },
+    "weapon-bow-tsali-flier": {
+      "Key": "weapon-bow-tsali-flier",
+      "Translation": "ทซาลีนักบิน"
+    },
+    "weapon-bow-gigacles-plus": {
+      "Key": "weapon-bow-gigacles-plus",
+      "Translation": "Gigacles +"
+    },
+    "weapon-bow-gigantomachy": {
+      "Key": "weapon-bow-gigantomachy",
+      "Translation": "Gigantomachy"
+    },
+    "weapon-bow-princess-arrow-iv": {
+      "Key": "weapon-bow-princess-arrow-iv",
+      "Translation": "ปริ๊นเซศร IV"
+    },
+    "weapon-bow-rathslinger-iv": {
+      "Key": "weapon-bow-rathslinger-iv",
+      "Translation": "Rathslinger IV"
+    },
+    "weapon-bow-azure-mightbow": {
+      "Key": "weapon-bow-azure-mightbow",
+      "Translation": "Azure Mightbow"
+    },
+    "weapon-bow-water-shot-iv": {
+      "Key": "weapon-bow-water-shot-iv",
+      "Translation": "น้ำยิง IV"
+    },
+    "weapon-bow-laguna-shot-i": {
+      "Key": "weapon-bow-laguna-shot-i",
+      "Translation": "ลากูน่ายิงฉัน"
+    },
+    "weapon-bow-laguna-shot-ii": {
+      "Key": "weapon-bow-laguna-shot-ii",
+      "Translation": "ลากูน่าครั้งที่สองยิง"
+    },
+    "weapon-bow-icicle-blizzard-i": {
+      "Key": "weapon-bow-icicle-blizzard-i",
+      "Translation": "หยาด Blizzard ฉัน"
+    },
+    "weapon-bow-icicle-blizzard-ii": {
+      "Key": "weapon-bow-icicle-blizzard-ii",
+      "Translation": "หยาดพายุหิมะครั้งที่สอง"
+    },
+    "weapon-bow-hidden-bow": {
+      "Key": "weapon-bow-hidden-bow",
+      "Translation": "ซ่อนโบว์"
+    },
+    "weapon-bow-hidden-bow-plus": {
+      "Key": "weapon-bow-hidden-bow-plus",
+      "Translation": "ซ่อนโบว์ +"
+    },
+    "weapon-bow-night-flight": {
+      "Key": "weapon-bow-night-flight",
+      "Translation": "เที่ยวบินกลางคืน"
+    },
+    "weapon-bow-legia-snowfletcher-plus": {
+      "Key": "weapon-bow-legia-snowfletcher-plus",
+      "Translation": "Legia Snowfletcher +"
+    },
+    "weapon-bow-hoarcry-snowfletcher": {
+      "Key": "weapon-bow-hoarcry-snowfletcher",
+      "Translation": "Hoarcry Snowfletcher"
+    },
+    "weapon-bow-mist-glacia": {
+      "Key": "weapon-bow-mist-glacia",
+      "Translation": "หมอก Glacia"
+    },
+    "weapon-bow-hunters-bravebow-i": {
+      "Key": "weapon-bow-hunters-bravebow-i",
+      "Translation": "ฮันเตอร์ Bravebow ฉัน"
+    },
+    "weapon-bow-hunters-bravebow-ii": {
+      "Key": "weapon-bow-hunters-bravebow-ii",
+      "Translation": "ฮันเตอร์ Bravebow ครั้งที่สอง"
+    },
+    "weapon-bow-hunters-bravebow-iii": {
+      "Key": "weapon-bow-hunters-bravebow-iii",
+      "Translation": "ฮันเตอร์ Bravebow III"
+    },
+    "weapon-bow-iceflinger": {
+      "Key": "weapon-bow-iceflinger",
+      "Translation": "Iceflinger"
+    },
+    "weapon-bow-alluring-evelia": {
+      "Key": "weapon-bow-alluring-evelia",
+      "Translation": "เสน่ห์ Evelia"
+    },
+    "weapon-bow-mammoth-greatbow-i": {
+      "Key": "weapon-bow-mammoth-greatbow-i",
+      "Translation": "แมมมอ ธ Greatbow ฉัน"
+    },
+    "weapon-bow-mammoth-greatbow-ii": {
+      "Key": "weapon-bow-mammoth-greatbow-ii",
+      "Translation": "แมมมอ ธ Greatbow ครั้งที่สอง"
+    },
+    "weapon-bow-glavenus-arrow-i": {
+      "Key": "weapon-bow-glavenus-arrow-i",
+      "Translation": "Glavenus ลูกฉัน"
+    },
+    "weapon-bow-glavenus-arrow-ii": {
+      "Key": "weapon-bow-glavenus-arrow-ii",
+      "Translation": "Glavenus ลูกที่สอง"
+    },
+    "weapon-bow-acidic-arrow-i": {
+      "Key": "weapon-bow-acidic-arrow-i",
+      "Translation": "เป็นกรดลูกฉัน"
+    },
+    "monster-stygian-zinogre": {
+      "Key": "monster-stygian-zinogre",
+      "Translation": "Stygian Zinogre"
+    },
+    "monster-safijiiva": {
+      "Key": "monster-safijiiva",
+      "Translation": "Safi'jiiva"
+    },
+    "weapon-tree-defender-tree": {
+      "Key": "weapon-tree-defender-tree",
+      "Translation": "กองหลังต้นไม้"
+    },
+    "weapon-bow-defender-powerbow-i": {
+      "Key": "weapon-bow-defender-powerbow-i",
+      "Translation": "Defender Powerbow ฉัน"
+    },
+    "weapon-bow-defender-powerbow-ii": {
+      "Key": "weapon-bow-defender-powerbow-ii",
+      "Translation": "Defender Powerbow ครั้งที่สอง"
+    },
+    "weapon-bow-defender-powerbow-iii": {
+      "Key": "weapon-bow-defender-powerbow-iii",
+      "Translation": "Defender Powerbow III"
+    },
+    "weapon-bow-defender-powerbow-iv": {
+      "Key": "weapon-bow-defender-powerbow-iv",
+      "Translation": "Defender Powerbow IV"
+    },
+    "weapon-bow-defender-powerbow-v": {
+      "Key": "weapon-bow-defender-powerbow-v",
+      "Translation": "Defender Powerbow V"
+    },
+    "weapon-bow-defender-shield-i": {
+      "Key": "weapon-bow-defender-shield-i",
+      "Translation": "พิทักษ์โล่ฉัน"
+    },
+    "weapon-bow-defender-shield-ii": {
+      "Key": "weapon-bow-defender-shield-ii",
+      "Translation": "พิทักษ์โล่ II"
+    },
+    "weapon-bow-defender-shield-iii": {
+      "Key": "weapon-bow-defender-shield-iii",
+      "Translation": "พิทักษ์โล่ III"
+    },
+    "weapon-bow-defender-shield-iv": {
+      "Key": "weapon-bow-defender-shield-iv",
+      "Translation": "พิทักษ์โล่ IV"
+    },
+    "weapon-bow-defender-shield-v": {
+      "Key": "weapon-bow-defender-shield-v",
+      "Translation": "พิทักษ์โล่ V"
+    },
+    "weapon-dual-blades-defender-chainsaws-i": {
+      "Key": "weapon-dual-blades-defender-chainsaws-i",
+      "Translation": "Defender เลื่อยฉัน"
+    },
+    "weapon-dual-blades-defender-chainsaws-ii": {
+      "Key": "weapon-dual-blades-defender-chainsaws-ii",
+      "Translation": "Defender เลื่อยโซ่ยนต์ครั้งที่สอง"
+    },
+    "weapon-dual-blades-defender-chainsaws-iii": {
+      "Key": "weapon-dual-blades-defender-chainsaws-iii",
+      "Translation": "Defender เลื่อย III"
+    },
+    "weapon-dual-blades-defender-chainsaws-iv": {
+      "Key": "weapon-dual-blades-defender-chainsaws-iv",
+      "Translation": "Defender เลื่อย IV"
+    },
+    "weapon-dual-blades-defender-chainsaws-v": {
+      "Key": "weapon-dual-blades-defender-chainsaws-v",
+      "Translation": "Defender เลื่อย V"
+    },
+    "weapon-great-sword-defender-great-sword-i": {
+      "Key": "weapon-great-sword-defender-great-sword-i",
+      "Translation": "กองหลังที่ดีดาบฉัน"
+    },
+    "weapon-great-sword-defender-great-sword-ii": {
+      "Key": "weapon-great-sword-defender-great-sword-ii",
+      "Translation": "กองหลังที่ดีดาบที่สอง"
+    },
+    "weapon-great-sword-defender-great-sword-iii": {
+      "Key": "weapon-great-sword-defender-great-sword-iii",
+      "Translation": "กองหลังที่ดีดาบ III"
+    },
+    "weapon-great-sword-defender-great-sword-iv": {
+      "Key": "weapon-great-sword-defender-great-sword-iv",
+      "Translation": "กองหลังที่ดีดาบ IV"
+    },
+    "weapon-great-sword-defender-great-sword-v": {
+      "Key": "weapon-great-sword-defender-great-sword-v",
+      "Translation": "กองหลังที่ดีดาบ V"
+    },
+    "weapon-gunlance-defender-gunlance-i": {
+      "Key": "weapon-gunlance-defender-gunlance-i",
+      "Translation": "Defender Gunlance ฉัน"
+    },
+    "weapon-gunlance-defender-gunlance-ii": {
+      "Key": "weapon-gunlance-defender-gunlance-ii",
+      "Translation": "Defender Gunlance ครั้งที่สอง"
+    },
+    "weapon-gunlance-defender-gunlance-iii": {
+      "Key": "weapon-gunlance-defender-gunlance-iii",
+      "Translation": "Defender Gunlance III"
+    },
+    "weapon-gunlance-defender-gunlance-iv": {
+      "Key": "weapon-gunlance-defender-gunlance-iv",
+      "Translation": "Defender Gunlance IV"
+    },
+    "weapon-gunlance-defender-gunlance-v": {
+      "Key": "weapon-gunlance-defender-gunlance-v",
+      "Translation": "Defender Gunlance V"
+    },
+    "weapon-gunlance-defender-warhammer-i": {
+      "Key": "weapon-gunlance-defender-warhammer-i",
+      "Translation": "แฮมเมอร์กองหลังผม"
+    },
+    "weapon-gunlance-defender-warhammer-ii": {
+      "Key": "weapon-gunlance-defender-warhammer-ii",
+      "Translation": "Defender แฮมเมอร์ครั้งที่สอง"
+    },
+    "weapon-gunlance-defender-warhammer-iii": {
+      "Key": "weapon-gunlance-defender-warhammer-iii",
+      "Translation": "แฮมเมอร์กองหลังที่สาม"
+    },
+    "weapon-gunlance-defender-warhammer-iv": {
+      "Key": "weapon-gunlance-defender-warhammer-iv",
+      "Translation": "แฮมเมอร์กองหลัง IV"
+    },
+    "weapon-gunlance-defender-warhammer-v": {
+      "Key": "weapon-gunlance-defender-warhammer-v",
+      "Translation": "Defender แฮมเมอร์วี"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-i": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-i",
+      "Translation": "Defender หนัก Bowgun ฉัน"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-ii": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-ii",
+      "Translation": "Defender หนัก Bowgun ครั้งที่สอง"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-iii": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-iii",
+      "Translation": "Defender หนัก Bowgun III"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-iv": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-iv",
+      "Translation": "Defender หนัก Bowgun IV"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-v": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-v",
+      "Translation": "Defender หนัก Bowgun V"
+    },
+    "weapon-hunting-horn-defender-rally-horn-i": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-i",
+      "Translation": "กองหลังแรลลี่ฮอร์นผม"
+    },
+    "weapon-hunting-horn-defender-rally-horn-ii": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-ii",
+      "Translation": "กองหลังแรลลี่ฮอร์นที่สอง"
+    },
+    "weapon-hunting-horn-defender-rally-horn-iii": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-iii",
+      "Translation": "กองหลังแรลลี่ฮอร์นที่สาม"
+    },
+    "weapon-hunting-horn-defender-rally-horn-iv": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-iv",
+      "Translation": "กองหลังแรลลี่ฮอร์นที่สี่"
+    },
+    "weapon-hunting-horn-defender-rally-horn-v": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-v",
+      "Translation": "กองหลังแรลลี่ฮอร์นวี"
+    },
+    "weapon-insect-glaive-defender-glaive-i": {
+      "Key": "weapon-insect-glaive-defender-glaive-i",
+      "Translation": "Defender Glaive ฉัน"
+    },
+    "weapon-insect-glaive-defender-glaive-ii": {
+      "Key": "weapon-insect-glaive-defender-glaive-ii",
+      "Translation": "Defender Glaive ครั้งที่สอง"
+    },
+    "weapon-insect-glaive-defender-glaive-iii": {
+      "Key": "weapon-insect-glaive-defender-glaive-iii",
+      "Translation": "Defender Glaive III"
+    },
+    "weapon-insect-glaive-defender-glaive-iv": {
+      "Key": "weapon-insect-glaive-defender-glaive-iv",
+      "Translation": "Defender Glaive IV"
+    },
+    "weapon-insect-glaive-defender-glaive-v": {
+      "Key": "weapon-insect-glaive-defender-glaive-v",
+      "Translation": "Defender Glaive V"
+    },
+    "weapon-lance-defender-lance-i": {
+      "Key": "weapon-lance-defender-lance-i",
+      "Translation": "Defender แลนซ์ฉัน"
+    },
+    "weapon-lance-defender-lance-ii": {
+      "Key": "weapon-lance-defender-lance-ii",
+      "Translation": "Defender แลนซ์ครั้งที่สอง"
+    },
+    "weapon-lance-defender-lance-iii": {
+      "Key": "weapon-lance-defender-lance-iii",
+      "Translation": "Defender แลนซ์ที่สาม"
+    },
+    "weapon-lance-defender-lance-iv": {
+      "Key": "weapon-lance-defender-lance-iv",
+      "Translation": "Defender แลนซ์ IV"
+    },
+    "weapon-lance-defender-lance-v": {
+      "Key": "weapon-lance-defender-lance-v",
+      "Translation": "Defender แลนซ์วี"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-i": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-i",
+      "Translation": "Defender แสง Bowgun ฉัน"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-ii": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-ii",
+      "Translation": "Defender แสง Bowgun ครั้งที่สอง"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-iii": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-iii",
+      "Translation": "Defender แสง Bowgun III"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-iv": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-iv",
+      "Translation": "Defender แสง Bowgun IV"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-v": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-v",
+      "Translation": "Defender แสง Bowgun V"
+    },
+    "weapon-long-sword-defender-katana-i": {
+      "Key": "weapon-long-sword-defender-katana-i",
+      "Translation": "Defender Katana ฉัน"
+    },
+    "weapon-long-sword-defender-katana-ii": {
+      "Key": "weapon-long-sword-defender-katana-ii",
+      "Translation": "Defender Katana II"
+    },
+    "weapon-long-sword-defender-katana-iii": {
+      "Key": "weapon-long-sword-defender-katana-iii",
+      "Translation": "Defender Katana III"
+    },
+    "weapon-long-sword-defender-katana-iv": {
+      "Key": "weapon-long-sword-defender-katana-iv",
+      "Translation": "Defender Katana IV"
+    },
+    "weapon-long-sword-defender-katana-v": {
+      "Key": "weapon-long-sword-defender-katana-v",
+      "Translation": "Defender Katana V"
+    },
+    "weapon-switch-axe-defender-switch-axe-i": {
+      "Key": "weapon-switch-axe-defender-switch-axe-i",
+      "Translation": "กองหลังสวิทช์ขวานฉัน"
+    },
+    "weapon-switch-axe-defender-switch-axe-ii": {
+      "Key": "weapon-switch-axe-defender-switch-axe-ii",
+      "Translation": "กองหลังสวิทช์ขวานครั้งที่สอง"
+    },
+    "weapon-switch-axe-defender-switch-axe-iii": {
+      "Key": "weapon-switch-axe-defender-switch-axe-iii",
+      "Translation": "กองหลังสวิทช์ขวาน III"
+    },
+    "weapon-switch-axe-defender-switch-axe-iv": {
+      "Key": "weapon-switch-axe-defender-switch-axe-iv",
+      "Translation": "กองหลังสวิทช์ขวาน IV"
+    },
+    "weapon-switch-axe-defender-switch-axe-v": {
+      "Key": "weapon-switch-axe-defender-switch-axe-v",
+      "Translation": "กองหลังสวิทช์ขวาน V"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-i": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-i",
+      "Translation": "Defender Warhatchet ฉัน"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-ii": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-ii",
+      "Translation": "Defender Warhatchet ครั้งที่สอง"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-iii": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-iii",
+      "Translation": "Defender Warhatchet III"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-iv": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-iv",
+      "Translation": "Defender Warhatchet IV"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-v": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-v",
+      "Translation": "Defender Warhatchet V"
     }
   }

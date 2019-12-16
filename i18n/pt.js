@@ -1,7 +1,7 @@
 export default {
     "armor-alloy-description": {
       "Key": "armor-alloy-description",
-      "Translation": "Armadura feita de minério de machalite bem. O que lhe falta em charme que mais do que compensa na defesa."
+      "Translation": "Armadura feita de minério fino machalite. O que lhe falta em charme que mais do que compensa na defesa."
     },
     "armor-anja-description": {
       "Key": "armor-anja-description",
@@ -13,11 +13,11 @@ export default {
     },
     "armor-barnos-description": {
       "Key": "armor-barnos-description",
-      "Translation": "O cabelo espesso e rígido Gastodon utilizado nesta armadura foi tratada para maximizar a absorção de impacto."
+      "Translation": "A, dura cabelo espesso Gastodon utilizado nesta armadura foi tratada para maximizar a absorção de impacto."
     },
     "armor-barroth-description": {
       "Key": "armor-barroth-description",
-      "Translation": "Um wyvern poderia pisar esta armadura feita de shell Barroth e não deixar uma única rachadura."
+      "Translation": "Um wyvern poderia pisar esta armadura feita de Barroth shell e não deixar uma única rachadura."
     },
     "armor-bazel-description": {
       "Key": "armor-bazel-description",
@@ -33,7 +33,7 @@ export default {
     },
     "armor-brigade-boots-description": {
       "Key": "armor-brigade-boots-description",
-      "Translation": "Aliança exclusiva armadura para os campeões da arena. Leva muito tempo para forjar. durabilidade incrível."
+      "Translation": "Aliança exclusiva armadura para os campeões da arena. Leva muito tempo para forja. durabilidade incrível."
     },
     "armor-brigade-coil-description": {
       "Key": "armor-brigade-coil-description",
@@ -53,11 +53,11 @@ export default {
     },
     "armor-butterfly-description": {
       "Key": "armor-butterfly-description",
-      "Translation": "armadura do brilho feita a partir de partes de insectos. Seu peso leve e cor são a prova da classe de um."
+      "Translation": "Do brilho armadura feita a partir de partes de insectos. Seu peso leve e cor são a prova de sua classe."
     },
     "armor-chainmail-description": {
       "Key": "armor-chainmail-description",
-      "Translation": "Armadura feita de elos de corrente de tecidos. Seu design familiar inspira confiança nos caçadores que usá-lo."
+      "Translation": "Armadura feita de elos de corrente de tecidos. Seus inspira design familiar confiar em caçadores que usá-lo."
     },
     "armor-component-defense": {
       "Key": "armor-component-defense",
@@ -109,7 +109,7 @@ export default {
     },
     "armor-death-stench-description": {
       "Key": "armor-death-stench-description",
-      "Translation": "armadura maldita, disse para trazer a morte. O usuário ouve ecos de agonia da vítima."
+      "Translation": "armadura amaldiçoado, disse para trazer a morte. O usuário ouve ecos de agonia da vítima."
     },
     "armor-detail-components": {
       "Key": "armor-detail-components",
@@ -137,11 +137,11 @@ export default {
     },
     "armor-detail-total-fire-defense": {
       "Key": "armor-detail-total-fire-defense",
-      "Translation": "Total Defense fogo"
+      "Translation": "Total de Fogo Defesa"
     },
     "armor-detail-total-ice-defense": {
       "Key": "armor-detail-total-ice-defense",
-      "Translation": "Total Defense Ice"
+      "Translation": "Total de gelo Defesa"
     },
     "armor-detail-total-materials": {
       "Key": "armor-detail-total-materials",
@@ -161,11 +161,11 @@ export default {
     },
     "armor-deviljho-description": {
       "Key": "armor-deviljho-description",
-      "Translation": "Deviljho armadura que dá poder épica para seu portador, com o custo de uma sede interminável para carne."
+      "Translation": "Deviljho armadura que dá poder épica para o utente, ao custo de um interminável sede de carne."
     },
     "armor-diablos-description": {
       "Key": "armor-diablos-description",
-      "Translation": "Os chifres negrito nesta armadura Diablos são um desafio para qualquer um que duvidar de sua regra sobre as areias."
+      "Translation": "Os chifres corajosa neste Diablos armadura são um desafio para qualquer um que duvidar de sua regra sobre as areias."
     },
     "armor-diablos-nero-description": {
       "Key": "armor-diablos-nero-description",
@@ -173,7 +173,7 @@ export default {
     },
     "armor-diver-description": {
       "Key": "armor-diver-description",
-      "Translation": "Requer um Crepúsculo Ticket verão para embarcações. Armadura que vai ter você ansiosos para um mergulho no oceano."
+      "Translation": "Requer um bilhete Crepúsculo Verão às embarcações. Armadura que vai ter você ansiosos para um mergulho no oceano."
     },
     "armor-dober-description": {
       "Key": "armor-dober-description",
@@ -205,7 +205,7 @@ export default {
     },
     "armor-dragonseal-earrings-alpha-description": {
       "Key": "armor-dragonseal-earrings-alpha-description",
-      "Translation": "brincos dignas concedidos aos combatentes Arena. Um símbolo da vontade de superar a contenda."
+      "Translation": "brincos dignas concedidos aos combatentes Arena. Um símbolo da vontade de subir contenda acima."
     },
     "armor-dragonseal-earrings-alpha-how-to-get": {
       "Key": "armor-dragonseal-earrings-alpha-how-to-get",
@@ -241,11 +241,11 @@ export default {
     },
     "armor-gala-suit-description": {
       "Key": "armor-gala-suit-description",
-      "Translation": "Requer um Bilhete Valorização de artesanato. Esta armadura lindo deslumbra tão brilhantemente como a Valorização Fest."
+      "Translation": "Requer um Bilhete Agradecimento ao ofício. Esta armadura lindo deslumbra tão brilhantemente como a Valorização Fest."
     },
     "armor-gastodon-description": {
       "Key": "armor-gastodon-description",
-      "Translation": "O cabelo espesso e rígido Gastodon utilizado nesta armadura foi tratada para maximizar a absorção de impacto."
+      "Translation": "A, dura cabelo espesso Gastodon utilizado nesta armadura foi tratada para maximizar a absorção de impacto."
     },
     "armor-girros-description": {
       "Key": "armor-girros-description",
@@ -265,7 +265,7 @@ export default {
     },
     "armor-hr-alloy-beta": {
       "Key": "armor-hr-alloy-beta",
-      "Translation": "ß liga"
+      "Translation": "ß Alloy"
     },
     "armor-hr-alloy-coil-alpha": {
       "Key": "armor-hr-alloy-coil-alpha",
@@ -273,7 +273,7 @@ export default {
     },
     "armor-hr-alloy-coil-beta": {
       "Key": "armor-hr-alloy-coil-beta",
-      "Translation": "ß liga bobina"
+      "Translation": "Alloy Bobina ß"
     },
     "armor-hr-alloy-greaves-alpha": {
       "Key": "armor-hr-alloy-greaves-alpha",
@@ -281,7 +281,7 @@ export default {
     },
     "armor-hr-alloy-greaves-beta": {
       "Key": "armor-hr-alloy-greaves-beta",
-      "Translation": "ß liga Greaves"
+      "Translation": "Alloy Greaves ß"
     },
     "armor-hr-alloy-helm-alpha": {
       "Key": "armor-hr-alloy-helm-alpha",
@@ -289,7 +289,7 @@ export default {
     },
     "armor-hr-alloy-helm-beta": {
       "Key": "armor-hr-alloy-helm-beta",
-      "Translation": "ß liga Helm"
+      "Translation": "Alloy Helm ß"
     },
     "armor-hr-alloy-mail-alpha": {
       "Key": "armor-hr-alloy-mail-alpha",
@@ -305,7 +305,7 @@ export default {
     },
     "armor-hr-alloy-vambraces-beta": {
       "Key": "armor-hr-alloy-vambraces-beta",
-      "Translation": "ß liga vambraces"
+      "Translation": "Alloy Vambraces ß"
     },
     "armor-hr-anja-alpha": {
       "Key": "armor-hr-anja-alpha",
@@ -313,7 +313,7 @@ export default {
     },
     "armor-hr-anja-beta": {
       "Key": "armor-hr-anja-beta",
-      "Translation": "ß anja"
+      "Translation": "Anja ß"
     },
     "armor-hr-anja-coil-alpha": {
       "Key": "armor-hr-anja-coil-alpha",
@@ -321,7 +321,7 @@ export default {
     },
     "armor-hr-anja-coil-beta": {
       "Key": "armor-hr-anja-coil-beta",
-      "Translation": "ß Anja Bobina"
+      "Translation": "Anja Bobina ß"
     },
     "armor-hr-anja-greaves-alpha": {
       "Key": "armor-hr-anja-greaves-alpha",
@@ -329,7 +329,7 @@ export default {
     },
     "armor-hr-anja-greaves-beta": {
       "Key": "armor-hr-anja-greaves-beta",
-      "Translation": "ß Anja Greaves"
+      "Translation": "Anja Greaves ß"
     },
     "armor-hr-anja-helm-alpha": {
       "Key": "armor-hr-anja-helm-alpha",
@@ -337,7 +337,7 @@ export default {
     },
     "armor-hr-anja-helm-beta": {
       "Key": "armor-hr-anja-helm-beta",
-      "Translation": "ß Anja Helm"
+      "Translation": "Anja Helm ß"
     },
     "armor-hr-anja-mail-alpha": {
       "Key": "armor-hr-anja-mail-alpha",
@@ -353,7 +353,7 @@ export default {
     },
     "armor-hr-anja-vambraces-beta": {
       "Key": "armor-hr-anja-vambraces-beta",
-      "Translation": "ß Anja vambraces"
+      "Translation": "Anja Vambraces ß"
     },
     "armor-hr-azure-starlord-alpha": {
       "Key": "armor-hr-azure-starlord-alpha",
@@ -393,15 +393,15 @@ export default {
     },
     "armor-hr-baan-coil-beta": {
       "Key": "armor-hr-baan-coil-beta",
-      "Translation": "ß Baan Bobina"
+      "Translation": "Baan Bobina ß"
     },
     "armor-hr-baan-greaves-alpha": {
       "Key": "armor-hr-baan-greaves-alpha",
-      "Translation": "Baan Greaves ⍺"
+      "Translation": "Greaves Baan ⍺"
     },
     "armor-hr-baan-greaves-beta": {
       "Key": "armor-hr-baan-greaves-beta",
-      "Translation": "ß Baan Greaves"
+      "Translation": "Baan Greaves ß"
     },
     "armor-hr-baan-helm-alpha": {
       "Key": "armor-hr-baan-helm-alpha",
@@ -409,7 +409,7 @@ export default {
     },
     "armor-hr-baan-helm-beta": {
       "Key": "armor-hr-baan-helm-beta",
-      "Translation": "ß Baan Helm"
+      "Translation": "Baan Helm ß"
     },
     "armor-hr-baan-mail-alpha": {
       "Key": "armor-hr-baan-mail-alpha",
@@ -425,7 +425,7 @@ export default {
     },
     "armor-hr-baan-vambraces-beta": {
       "Key": "armor-hr-baan-vambraces-beta",
-      "Translation": "ß Baan vambraces"
+      "Translation": "Baan Vambraces ß"
     },
     "armor-hr-barnos-alpha": {
       "Key": "armor-hr-barnos-alpha",
@@ -433,7 +433,7 @@ export default {
     },
     "armor-hr-barnos-beta": {
       "Key": "armor-hr-barnos-beta",
-      "Translation": "ß Barnos"
+      "Translation": "Barnos ß"
     },
     "armor-hr-barnos-jacket-alpha": {
       "Key": "armor-hr-barnos-jacket-alpha",
@@ -441,7 +441,7 @@ export default {
     },
     "armor-hr-barnos-jacket-beta": {
       "Key": "armor-hr-barnos-jacket-beta",
-      "Translation": "ß Jacket Barnos"
+      "Translation": "Barnos ß Jacket"
     },
     "armor-hr-barroth-alpha": {
       "Key": "armor-hr-barroth-alpha",
@@ -449,7 +449,7 @@ export default {
     },
     "armor-hr-barroth-beta": {
       "Key": "armor-hr-barroth-beta",
-      "Translation": "ß Barroth"
+      "Translation": "Barroth ß"
     },
     "armor-hr-barroth-coil-alpha": {
       "Key": "armor-hr-barroth-coil-alpha",
@@ -457,7 +457,7 @@ export default {
     },
     "armor-hr-barroth-coil-beta": {
       "Key": "armor-hr-barroth-coil-beta",
-      "Translation": "ß Barroth Bobina"
+      "Translation": "Barroth Bobina ß"
     },
     "armor-hr-barroth-greaves-alpha": {
       "Key": "armor-hr-barroth-greaves-alpha",
@@ -465,7 +465,7 @@ export default {
     },
     "armor-hr-barroth-greaves-beta": {
       "Key": "armor-hr-barroth-greaves-beta",
-      "Translation": "ß Barroth Greaves"
+      "Translation": "Barroth Greaves ß"
     },
     "armor-hr-barroth-helm-alpha": {
       "Key": "armor-hr-barroth-helm-alpha",
@@ -473,7 +473,7 @@ export default {
     },
     "armor-hr-barroth-helm-beta": {
       "Key": "armor-hr-barroth-helm-beta",
-      "Translation": "ß Barroth Helm"
+      "Translation": "Barroth Helm ß"
     },
     "armor-hr-barroth-mail-alpha": {
       "Key": "armor-hr-barroth-mail-alpha",
@@ -489,7 +489,7 @@ export default {
     },
     "armor-hr-barroth-vambraces-beta": {
       "Key": "armor-hr-barroth-vambraces-beta",
-      "Translation": "ß Barroth vambraces"
+      "Translation": "Barroth Vambraces ß"
     },
     "armor-hr-bazel-alpha": {
       "Key": "armor-hr-bazel-alpha",
@@ -497,7 +497,7 @@ export default {
     },
     "armor-hr-bazel-beta": {
       "Key": "armor-hr-bazel-beta",
-      "Translation": "ß Bazel"
+      "Translation": "Bazel ß"
     },
     "armor-hr-bazel-coil-alpha": {
       "Key": "armor-hr-bazel-coil-alpha",
@@ -505,7 +505,7 @@ export default {
     },
     "armor-hr-bazel-coil-beta": {
       "Key": "armor-hr-bazel-coil-beta",
-      "Translation": "ß Bazel Bobina"
+      "Translation": "Bazel Bobina ß"
     },
     "armor-hr-bazel-greaves-alpha": {
       "Key": "armor-hr-bazel-greaves-alpha",
@@ -513,7 +513,7 @@ export default {
     },
     "armor-hr-bazel-greaves-beta": {
       "Key": "armor-hr-bazel-greaves-beta",
-      "Translation": "ß Bazel Greaves"
+      "Translation": "Bazel Greaves ß"
     },
     "armor-hr-bazel-helm-alpha": {
       "Key": "armor-hr-bazel-helm-alpha",
@@ -521,7 +521,7 @@ export default {
     },
     "armor-hr-bazel-helm-beta": {
       "Key": "armor-hr-bazel-helm-beta",
-      "Translation": "ß Bazel Helm"
+      "Translation": "Bazel Helm ß"
     },
     "armor-hr-bazel-mail-alpha": {
       "Key": "armor-hr-bazel-mail-alpha",
@@ -537,7 +537,7 @@ export default {
     },
     "armor-hr-bazel-vambraces-beta": {
       "Key": "armor-hr-bazel-vambraces-beta",
-      "Translation": "ß Bazel vambraces"
+      "Translation": "Bazel Vambraces ß"
     },
     "armor-hr-blossom-alpha": {
       "Key": "armor-hr-blossom-alpha",
@@ -545,7 +545,7 @@ export default {
     },
     "armor-hr-blossom-boots-alpha": {
       "Key": "armor-hr-blossom-boots-alpha",
-      "Translation": "Botas flor ⍺"
+      "Translation": "Flor Botas ⍺"
     },
     "armor-hr-blossom-coat-alpha": {
       "Key": "armor-hr-blossom-coat-alpha",
@@ -553,7 +553,7 @@ export default {
     },
     "armor-hr-blossom-cuffs-alpha": {
       "Key": "armor-hr-blossom-cuffs-alpha",
-      "Translation": "Flor punhos ⍺"
+      "Translation": "Blossom punhos ⍺"
     },
     "armor-hr-blossom-headgear-alpha": {
       "Key": "armor-hr-blossom-headgear-alpha",
@@ -569,7 +569,7 @@ export default {
     },
     "armor-hr-bone-beta": {
       "Key": "armor-hr-bone-beta",
-      "Translation": "ß osso"
+      "Translation": "ß óssea"
     },
     "armor-hr-bone-coil-alpha": {
       "Key": "armor-hr-bone-coil-alpha",
@@ -577,7 +577,7 @@ export default {
     },
     "armor-hr-bone-coil-beta": {
       "Key": "armor-hr-bone-coil-beta",
-      "Translation": "SS osso bobina"
+      "Translation": "Osso bobina SS"
     },
     "armor-hr-bone-greaves-alpha": {
       "Key": "armor-hr-bone-greaves-alpha",
@@ -585,7 +585,7 @@ export default {
     },
     "armor-hr-bone-greaves-beta": {
       "Key": "armor-hr-bone-greaves-beta",
-      "Translation": "SS osso Greaves"
+      "Translation": "Osso Greaves SS"
     },
     "armor-hr-bone-helm-alpha": {
       "Key": "armor-hr-bone-helm-alpha",
@@ -593,7 +593,7 @@ export default {
     },
     "armor-hr-bone-helm-beta": {
       "Key": "armor-hr-bone-helm-beta",
-      "Translation": "SS osso Helm"
+      "Translation": "Osso Helm SS"
     },
     "armor-hr-bone-mail-alpha": {
       "Key": "armor-hr-bone-mail-alpha",
@@ -609,7 +609,7 @@ export default {
     },
     "armor-hr-bone-vambraces-beta": {
       "Key": "armor-hr-bone-vambraces-beta",
-      "Translation": "SS osso vambraces"
+      "Translation": "Osso Vambraces SS"
     },
     "armor-hr-brigade-alpha": {
       "Key": "armor-hr-brigade-alpha",
@@ -617,15 +617,15 @@ export default {
     },
     "armor-hr-brigade-beta": {
       "Key": "armor-hr-brigade-beta",
-      "Translation": "ß Brigada"
+      "Translation": "Brigada ß"
     },
     "armor-hr-brigade-boots-alpha": {
       "Key": "armor-hr-brigade-boots-alpha",
-      "Translation": "Botas Brigada ⍺"
+      "Translation": "Brigada Botas ⍺"
     },
     "armor-hr-brigade-boots-beta": {
       "Key": "armor-hr-brigade-boots-beta",
-      "Translation": "ß Brigada Botas"
+      "Translation": "Brigada Botas ß"
     },
     "armor-hr-brigade-coil-alpha": {
       "Key": "armor-hr-brigade-coil-alpha",
@@ -633,7 +633,7 @@ export default {
     },
     "armor-hr-brigade-coil-beta": {
       "Key": "armor-hr-brigade-coil-beta",
-      "Translation": "ß Brigada Bobina"
+      "Translation": "Brigada Bobina ß"
     },
     "armor-hr-brigade-lobos-alpha": {
       "Key": "armor-hr-brigade-lobos-alpha",
@@ -641,15 +641,15 @@ export default {
     },
     "armor-hr-brigade-lobos-beta": {
       "Key": "armor-hr-brigade-lobos-beta",
-      "Translation": "ß Brigada Lobos"
+      "Translation": "Brigada Lobos ß"
     },
     "armor-hr-brigade-suit-alpha": {
       "Key": "armor-hr-brigade-suit-alpha",
-      "Translation": "Terno Brigada ⍺"
+      "Translation": "Brigada Suit ⍺"
     },
     "armor-hr-brigade-suit-beta": {
       "Key": "armor-hr-brigade-suit-beta",
-      "Translation": "ß Brigada Suit"
+      "Translation": "Brigada ß Suit"
     },
     "armor-hr-brigade-vambraces-alpha": {
       "Key": "armor-hr-brigade-vambraces-alpha",
@@ -657,7 +657,7 @@ export default {
     },
     "armor-hr-brigade-vambraces-beta": {
       "Key": "armor-hr-brigade-vambraces-beta",
-      "Translation": "ß Brigada vambraces"
+      "Translation": "Brigada Vambraces ß"
     },
     "armor-hr-butterfly-alpha": {
       "Key": "armor-hr-butterfly-alpha",
@@ -673,7 +673,7 @@ export default {
     },
     "armor-hr-butterfly-brachia-beta": {
       "Key": "armor-hr-butterfly-brachia-beta",
-      "Translation": "ß borboleta braquiais"
+      "Translation": "Borboleta braquiais ß"
     },
     "armor-hr-butterfly-crura-alpha": {
       "Key": "armor-hr-butterfly-crura-alpha",
@@ -681,7 +681,7 @@ export default {
     },
     "armor-hr-butterfly-crura-beta": {
       "Key": "armor-hr-butterfly-crura-beta",
-      "Translation": "ß borboleta crura"
+      "Translation": "Borboleta crura ß"
     },
     "armor-hr-butterfly-elytra-alpha": {
       "Key": "armor-hr-butterfly-elytra-alpha",
@@ -689,7 +689,7 @@ export default {
     },
     "armor-hr-butterfly-elytra-beta": {
       "Key": "armor-hr-butterfly-elytra-beta",
-      "Translation": "ß borboleta elytra"
+      "Translation": "Borboleta Élitros ß"
     },
     "armor-hr-butterfly-thorax-alpha": {
       "Key": "armor-hr-butterfly-thorax-alpha",
@@ -697,7 +697,7 @@ export default {
     },
     "armor-hr-butterfly-thorax-beta": {
       "Key": "armor-hr-butterfly-thorax-beta",
-      "Translation": "ß borboleta Tórax"
+      "Translation": "Borboleta Thorax ß"
     },
     "armor-hr-butterfly-vertex-alpha": {
       "Key": "armor-hr-butterfly-vertex-alpha",
@@ -705,7 +705,7 @@ export default {
     },
     "armor-hr-butterfly-vertex-beta": {
       "Key": "armor-hr-butterfly-vertex-beta",
-      "Translation": "ß borboleta Vertex"
+      "Translation": "Borboleta Vertex ß"
     },
     "armor-hr-chainmail-alpha": {
       "Key": "armor-hr-chainmail-alpha",
@@ -717,7 +717,7 @@ export default {
     },
     "armor-hr-chainmail-armor-beta": {
       "Key": "armor-hr-chainmail-armor-beta",
-      "Translation": "ß Chainmail Armadura"
+      "Translation": "Chainmail Armadura ß"
     },
     "armor-hr-chainmail-belt-alpha": {
       "Key": "armor-hr-chainmail-belt-alpha",
@@ -729,7 +729,7 @@ export default {
     },
     "armor-hr-chainmail-beta": {
       "Key": "armor-hr-chainmail-beta",
-      "Translation": "ß Chainmail"
+      "Translation": "Chainmail ß"
     },
     "armor-hr-chainmail-gloves-alpha": {
       "Key": "armor-hr-chainmail-gloves-alpha",
@@ -745,7 +745,7 @@ export default {
     },
     "armor-hr-chainmail-headgear-beta": {
       "Key": "armor-hr-chainmail-headgear-beta",
-      "Translation": "ß Chainmail Chapelaria"
+      "Translation": "Chainmail Chapelaria ß"
     },
     "armor-hr-chainmail-trousers-alpha": {
       "Key": "armor-hr-chainmail-trousers-alpha",
@@ -777,7 +777,7 @@ export default {
     },
     "armor-hr-commission-gorget-beta": {
       "Key": "armor-hr-commission-gorget-beta",
-      "Translation": "ß Comissão Gorget"
+      "Translation": "Comissão Gorget ß"
     },
     "armor-hr-commission-jacket-alpha": {
       "Key": "armor-hr-commission-jacket-alpha",
@@ -785,11 +785,11 @@ export default {
     },
     "armor-hr-commission-jacket-beta": {
       "Key": "armor-hr-commission-jacket-beta",
-      "Translation": "ß Jacket Comissão"
+      "Translation": "Comissão ß Jacket"
     },
     "armor-hr-commission-pants-alpha": {
       "Key": "armor-hr-commission-pants-alpha",
-      "Translation": "Comissão Calças ⍺"
+      "Translation": "Calças Comissão ⍺"
     },
     "armor-hr-commission-pants-beta": {
       "Key": "armor-hr-commission-pants-beta",
@@ -801,7 +801,7 @@ export default {
     },
     "armor-hr-commission-vambraces-beta": {
       "Key": "armor-hr-commission-vambraces-beta",
-      "Translation": "ß Comissão vambraces"
+      "Translation": "Comissão Vambraces ß"
     },
     "armor-hr-damascus-alpha": {
       "Key": "armor-hr-damascus-alpha",
@@ -809,7 +809,7 @@ export default {
     },
     "armor-hr-damascus-beta": {
       "Key": "armor-hr-damascus-beta",
-      "Translation": "ß Damasco"
+      "Translation": "Damasco ß"
     },
     "armor-hr-damascus-coil-alpha": {
       "Key": "armor-hr-damascus-coil-alpha",
@@ -817,7 +817,7 @@ export default {
     },
     "armor-hr-damascus-coil-beta": {
       "Key": "armor-hr-damascus-coil-beta",
-      "Translation": "ß Damasco Bobina"
+      "Translation": "Damasco Bobina ß"
     },
     "armor-hr-damascus-greaves-alpha": {
       "Key": "armor-hr-damascus-greaves-alpha",
@@ -825,7 +825,7 @@ export default {
     },
     "armor-hr-damascus-greaves-beta": {
       "Key": "armor-hr-damascus-greaves-beta",
-      "Translation": "ß Damasco Greaves"
+      "Translation": "Damasco Greaves ß"
     },
     "armor-hr-damascus-helm-alpha": {
       "Key": "armor-hr-damascus-helm-alpha",
@@ -833,7 +833,7 @@ export default {
     },
     "armor-hr-damascus-helm-beta": {
       "Key": "armor-hr-damascus-helm-beta",
-      "Translation": "ß Damasco Helm"
+      "Translation": "Damasco Helm ß"
     },
     "armor-hr-damascus-mail-alpha": {
       "Key": "armor-hr-damascus-mail-alpha",
@@ -849,7 +849,7 @@ export default {
     },
     "armor-hr-damascus-vambraces-beta": {
       "Key": "armor-hr-damascus-vambraces-beta",
-      "Translation": "ß Damasco vambraces"
+      "Translation": "Damasco Vambraces ß"
     },
     "armor-hr-dante-alpha": {
       "Key": "armor-hr-dante-alpha",
@@ -877,11 +877,11 @@ export default {
     },
     "armor-hr-death-stench-alpha": {
       "Key": "armor-hr-death-stench-alpha",
-      "Translation": "Stench morte ⍺"
+      "Translation": "Morte Stench ⍺"
     },
     "armor-hr-death-stench-beta": {
       "Key": "armor-hr-death-stench-beta",
-      "Translation": "ß Stench morte"
+      "Translation": "Morte Stench ß"
     },
     "armor-hr-death-stench-bowels-alpha": {
       "Key": "armor-hr-death-stench-bowels-alpha",
@@ -889,7 +889,7 @@ export default {
     },
     "armor-hr-death-stench-bowels-beta": {
       "Key": "armor-hr-death-stench-bowels-beta",
-      "Translation": "ß morte Stench entranhas"
+      "Translation": "Morte Stench Bowels ß"
     },
     "armor-hr-death-stench-brain-alpha": {
       "Key": "armor-hr-death-stench-brain-alpha",
@@ -897,31 +897,31 @@ export default {
     },
     "armor-hr-death-stench-brain-beta": {
       "Key": "armor-hr-death-stench-brain-beta",
-      "Translation": "ß cérebro Stench morte"
+      "Translation": "ß morte Stench Cérebro"
     },
     "armor-hr-death-stench-grip-alpha": {
       "Key": "armor-hr-death-stench-grip-alpha",
-      "Translation": "Morte aperto Stench ⍺"
+      "Translation": "Morte Stench aperto ⍺"
     },
     "armor-hr-death-stench-grip-beta": {
       "Key": "armor-hr-death-stench-grip-beta",
-      "Translation": "ß aperto Stench morte"
+      "Translation": "Morte Stench ß aperto"
     },
     "armor-hr-death-stench-heel-alpha": {
       "Key": "armor-hr-death-stench-heel-alpha",
-      "Translation": "Morte Heel Stench ⍺"
+      "Translation": "Morte Stench Heel ⍺"
     },
     "armor-hr-death-stench-heel-beta": {
       "Key": "armor-hr-death-stench-heel-beta",
-      "Translation": "ß salto Stench morte"
+      "Translation": "Morte Stench ß Heel"
     },
     "armor-hr-death-stench-muscle-alpha": {
       "Key": "armor-hr-death-stench-muscle-alpha",
-      "Translation": "Morte Muscle Stench ⍺"
+      "Translation": "Morte Stench Muscle ⍺"
     },
     "armor-hr-death-stench-muscle-beta": {
       "Key": "armor-hr-death-stench-muscle-beta",
-      "Translation": "ß musculares Stench morte"
+      "Translation": "Morte Stench ß Muscle"
     },
     "armor-hr-deviljho-alpha": {
       "Key": "armor-hr-deviljho-alpha",
@@ -929,7 +929,7 @@ export default {
     },
     "armor-hr-deviljho-beta": {
       "Key": "armor-hr-deviljho-beta",
-      "Translation": "ß Deviljho"
+      "Translation": "Deviljho ß"
     },
     "armor-hr-diablos-alpha": {
       "Key": "armor-hr-diablos-alpha",
@@ -937,7 +937,7 @@ export default {
     },
     "armor-hr-diablos-beta": {
       "Key": "armor-hr-diablos-beta",
-      "Translation": "ß Diablos"
+      "Translation": "Diablos ß"
     },
     "armor-hr-diablos-coil-alpha": {
       "Key": "armor-hr-diablos-coil-alpha",
@@ -945,7 +945,7 @@ export default {
     },
     "armor-hr-diablos-coil-beta": {
       "Key": "armor-hr-diablos-coil-beta",
-      "Translation": "ß Diablos Bobina"
+      "Translation": "Diablos Bobina ß"
     },
     "armor-hr-diablos-greaves-alpha": {
       "Key": "armor-hr-diablos-greaves-alpha",
@@ -953,7 +953,7 @@ export default {
     },
     "armor-hr-diablos-greaves-beta": {
       "Key": "armor-hr-diablos-greaves-beta",
-      "Translation": "ß Diablos Greaves"
+      "Translation": "Diablos Greaves ß"
     },
     "armor-hr-diablos-helm-alpha": {
       "Key": "armor-hr-diablos-helm-alpha",
@@ -961,7 +961,7 @@ export default {
     },
     "armor-hr-diablos-helm-beta": {
       "Key": "armor-hr-diablos-helm-beta",
-      "Translation": "ß Diablos Helm"
+      "Translation": "Diablos Helm ß"
     },
     "armor-hr-diablos-mail-alpha": {
       "Key": "armor-hr-diablos-mail-alpha",
@@ -977,7 +977,7 @@ export default {
     },
     "armor-hr-diablos-nero-beta": {
       "Key": "armor-hr-diablos-nero-beta",
-      "Translation": "ß Diablos Nero"
+      "Translation": "Diablos Nero ß"
     },
     "armor-hr-diablos-nero-braces-alpha": {
       "Key": "armor-hr-diablos-nero-braces-alpha",
@@ -985,7 +985,7 @@ export default {
     },
     "armor-hr-diablos-nero-braces-beta": {
       "Key": "armor-hr-diablos-nero-braces-beta",
-      "Translation": "ß Diablos Nero Suspensórios"
+      "Translation": "Diablos Nero Suspensórios ß"
     },
     "armor-hr-diablos-nero-coil-alpha": {
       "Key": "armor-hr-diablos-nero-coil-alpha",
@@ -993,7 +993,7 @@ export default {
     },
     "armor-hr-diablos-nero-coil-beta": {
       "Key": "armor-hr-diablos-nero-coil-beta",
-      "Translation": "ß Diablos Nero Bobina"
+      "Translation": "Diablos Nero Bobina ß"
     },
     "armor-hr-diablos-nero-greaves-alpha": {
       "Key": "armor-hr-diablos-nero-greaves-alpha",
@@ -1001,7 +1001,7 @@ export default {
     },
     "armor-hr-diablos-nero-greaves-beta": {
       "Key": "armor-hr-diablos-nero-greaves-beta",
-      "Translation": "ß Diablos Nero Greaves"
+      "Translation": "Diablos Nero Greaves ß"
     },
     "armor-hr-diablos-nero-helm-alpha": {
       "Key": "armor-hr-diablos-nero-helm-alpha",
@@ -1009,7 +1009,7 @@ export default {
     },
     "armor-hr-diablos-nero-helm-beta": {
       "Key": "armor-hr-diablos-nero-helm-beta",
-      "Translation": "ß Diablos Nero Helm"
+      "Translation": "Diablos Nero Helm ß"
     },
     "armor-hr-diablos-nero-mail-alpha": {
       "Key": "armor-hr-diablos-nero-mail-alpha",
@@ -1025,7 +1025,7 @@ export default {
     },
     "armor-hr-diablos-vambraces-beta": {
       "Key": "armor-hr-diablos-vambraces-beta",
-      "Translation": "ß Diablos vambraces"
+      "Translation": "Diablos Vambraces ß"
     },
     "armor-hr-diver-alpha": {
       "Key": "armor-hr-diver-alpha",
@@ -1057,7 +1057,7 @@ export default {
     },
     "armor-hr-dober-beta": {
       "Key": "armor-hr-dober-beta",
-      "Translation": "ß Dober"
+      "Translation": "Dober ß"
     },
     "armor-hr-dober-coil-alpha": {
       "Key": "armor-hr-dober-coil-alpha",
@@ -1065,7 +1065,7 @@ export default {
     },
     "armor-hr-dober-coil-beta": {
       "Key": "armor-hr-dober-coil-beta",
-      "Translation": "ß Dober Bobina"
+      "Translation": "Dober Bobina ß"
     },
     "armor-hr-dober-greaves-alpha": {
       "Key": "armor-hr-dober-greaves-alpha",
@@ -1073,7 +1073,7 @@ export default {
     },
     "armor-hr-dober-greaves-beta": {
       "Key": "armor-hr-dober-greaves-beta",
-      "Translation": "ß Dober Greaves"
+      "Translation": "Dober Greaves ß"
     },
     "armor-hr-dober-helm-alpha": {
       "Key": "armor-hr-dober-helm-alpha",
@@ -1081,7 +1081,7 @@ export default {
     },
     "armor-hr-dober-helm-beta": {
       "Key": "armor-hr-dober-helm-beta",
-      "Translation": "ß Dober Helm"
+      "Translation": "Dober Helm ß"
     },
     "armor-hr-dober-mail-alpha": {
       "Key": "armor-hr-dober-mail-alpha",
@@ -1097,7 +1097,7 @@ export default {
     },
     "armor-hr-dober-vambraces-beta": {
       "Key": "armor-hr-dober-vambraces-beta",
-      "Translation": "ß Dober vambraces"
+      "Translation": "Dober Vambraces ß"
     },
     "armor-hr-dodogama-alpha": {
       "Key": "armor-hr-dodogama-alpha",
@@ -1105,7 +1105,7 @@ export default {
     },
     "armor-hr-dodogama-beta": {
       "Key": "armor-hr-dodogama-beta",
-      "Translation": "ß Dodogama"
+      "Translation": "Dodogama ß"
     },
     "armor-hr-dodogama-coil-alpha": {
       "Key": "armor-hr-dodogama-coil-alpha",
@@ -1113,7 +1113,7 @@ export default {
     },
     "armor-hr-dodogama-coil-beta": {
       "Key": "armor-hr-dodogama-coil-beta",
-      "Translation": "ß Dodogama Bobina"
+      "Translation": "Dodogama Bobina ß"
     },
     "armor-hr-dodogama-greaves-alpha": {
       "Key": "armor-hr-dodogama-greaves-alpha",
@@ -1121,7 +1121,7 @@ export default {
     },
     "armor-hr-dodogama-greaves-beta": {
       "Key": "armor-hr-dodogama-greaves-beta",
-      "Translation": "ß Dodogama Greaves"
+      "Translation": "Dodogama Greaves ß"
     },
     "armor-hr-dodogama-helm-alpha": {
       "Key": "armor-hr-dodogama-helm-alpha",
@@ -1129,7 +1129,7 @@ export default {
     },
     "armor-hr-dodogama-helm-beta": {
       "Key": "armor-hr-dodogama-helm-beta",
-      "Translation": "ß Dodogama Helm"
+      "Translation": "Dodogama Helm ß"
     },
     "armor-hr-dodogama-mail-alpha": {
       "Key": "armor-hr-dodogama-mail-alpha",
@@ -1145,7 +1145,7 @@ export default {
     },
     "armor-hr-dodogama-vambraces-beta": {
       "Key": "armor-hr-dodogama-vambraces-beta",
-      "Translation": "ß Dodogama vambraces"
+      "Translation": "Dodogama Vambraces ß"
     },
     "armor-hr-drachen-alpha": {
       "Key": "armor-hr-drachen-alpha",
@@ -1181,7 +1181,7 @@ export default {
     },
     "armor-hr-dragonseal-earrings-alpha": {
       "Key": "armor-hr-dragonseal-earrings-alpha",
-      "Translation": "Brincos Dragonseal ⍺"
+      "Translation": "Dragonseal Brincos ⍺"
     },
     "armor-hr-empress-coil-alpha": {
       "Key": "armor-hr-empress-coil-alpha",
@@ -1189,11 +1189,11 @@ export default {
     },
     "armor-hr-empress-coil-beta": {
       "Key": "armor-hr-empress-coil-beta",
-      "Translation": "ß Imperatriz Bobina"
+      "Translation": "Imperatriz Bobina ß"
     },
     "armor-hr-empress-coil-gamma": {
       "Key": "armor-hr-empress-coil-gamma",
-      "Translation": "γ Imperatriz Bobina"
+      "Translation": "Imperatriz Bobina γ"
     },
     "armor-hr-empress-crown-alpha": {
       "Key": "armor-hr-empress-crown-alpha",
@@ -1213,11 +1213,11 @@ export default {
     },
     "armor-hr-empress-greaves-beta": {
       "Key": "armor-hr-empress-greaves-beta",
-      "Translation": "ß Imperatriz Greaves"
+      "Translation": "Imperatriz Greaves ß"
     },
     "armor-hr-empress-greaves-gamma": {
       "Key": "armor-hr-empress-greaves-gamma",
-      "Translation": "γ Imperatriz Greaves"
+      "Translation": "Imperatriz Greaves γ"
     },
     "armor-hr-empress-mail-alpha": {
       "Key": "armor-hr-empress-mail-alpha",
@@ -1237,11 +1237,11 @@ export default {
     },
     "armor-hr-empress-vambraces-beta": {
       "Key": "armor-hr-empress-vambraces-beta",
-      "Translation": "ß Imperatriz vambraces"
+      "Translation": "Imperatriz Vambraces ß"
     },
     "armor-hr-empress-vambraces-gamma": {
       "Key": "armor-hr-empress-vambraces-gamma",
-      "Translation": "γ Imperatriz vambraces"
+      "Translation": "Imperatriz Vambraces γ"
     },
     "armor-hr-faux-felyne-alpha": {
       "Key": "armor-hr-faux-felyne-alpha",
@@ -1253,7 +1253,7 @@ export default {
     },
     "armor-hr-gajau-beta": {
       "Key": "armor-hr-gajau-beta",
-      "Translation": "ß Gajau"
+      "Translation": "Gajau ß"
     },
     "armor-hr-gajau-boots-alpha": {
       "Key": "armor-hr-gajau-boots-alpha",
@@ -1261,31 +1261,31 @@ export default {
     },
     "armor-hr-gajau-boots-beta": {
       "Key": "armor-hr-gajau-boots-beta",
-      "Translation": "ß Gajau Botas"
+      "Translation": "Gajau Botas ß"
     },
     "armor-hr-gala-suit-alpha": {
       "Key": "armor-hr-gala-suit-alpha",
-      "Translation": "Terno Gala ⍺"
+      "Translation": "Gala Suit ⍺"
     },
     "armor-hr-gala-suit-cuffs-alpha": {
       "Key": "armor-hr-gala-suit-cuffs-alpha",
-      "Translation": "Punhos terno Gala ⍺"
+      "Translation": "Punhos terno de gala ⍺"
     },
     "armor-hr-gala-suit-jacket-alpha": {
       "Key": "armor-hr-gala-suit-jacket-alpha",
-      "Translation": "Terno Gala Jacket ⍺"
+      "Translation": "Gala paletó ⍺"
     },
     "armor-hr-gala-suit-slacks-alpha": {
       "Key": "armor-hr-gala-suit-slacks-alpha",
-      "Translation": "Slacks Terno Gala ⍺"
+      "Translation": "Slacks Terno de Gala ⍺"
     },
     "armor-hr-gala-suit-tail-alpha": {
       "Key": "armor-hr-gala-suit-tail-alpha",
-      "Translation": "Terno Gala cauda ⍺"
+      "Translation": "Gala Suit cauda ⍺"
     },
     "armor-hr-gala-suit-top-hat-alpha": {
       "Key": "armor-hr-gala-suit-top-hat-alpha",
-      "Translation": "Terno Gala Top Hat ⍺"
+      "Translation": "Gala Suit Top Hat ⍺"
     },
     "armor-hr-gastodon-alpha": {
       "Key": "armor-hr-gastodon-alpha",
@@ -1293,7 +1293,7 @@ export default {
     },
     "armor-hr-gastodon-beta": {
       "Key": "armor-hr-gastodon-beta",
-      "Translation": "ß Gastodon"
+      "Translation": "Gastodon ß"
     },
     "armor-hr-gastodon-horn-alpha": {
       "Key": "armor-hr-gastodon-horn-alpha",
@@ -1309,7 +1309,7 @@ export default {
     },
     "armor-hr-girros-beta": {
       "Key": "armor-hr-girros-beta",
-      "Translation": "ß Girros"
+      "Translation": "Girros ß"
     },
     "armor-hr-girros-coil-alpha": {
       "Key": "armor-hr-girros-coil-alpha",
@@ -1317,7 +1317,7 @@ export default {
     },
     "armor-hr-girros-coil-beta": {
       "Key": "armor-hr-girros-coil-beta",
-      "Translation": "ß Girros Bobina"
+      "Translation": "Girros Bobina ß"
     },
     "armor-hr-girros-greaves-alpha": {
       "Key": "armor-hr-girros-greaves-alpha",
@@ -1325,7 +1325,7 @@ export default {
     },
     "armor-hr-girros-greaves-beta": {
       "Key": "armor-hr-girros-greaves-beta",
-      "Translation": "ß Girros Greaves"
+      "Translation": "Girros Greaves ß"
     },
     "armor-hr-girros-mail-alpha": {
       "Key": "armor-hr-girros-mail-alpha",
@@ -1341,7 +1341,7 @@ export default {
     },
     "armor-hr-girros-mask-beta": {
       "Key": "armor-hr-girros-mask-beta",
-      "Translation": "ß Máscara Girros"
+      "Translation": "Girros ß Máscara"
     },
     "armor-hr-girros-vambraces-alpha": {
       "Key": "armor-hr-girros-vambraces-alpha",
@@ -1349,7 +1349,7 @@ export default {
     },
     "armor-hr-girros-vambraces-beta": {
       "Key": "armor-hr-girros-vambraces-beta",
-      "Translation": "ß Girros vambraces"
+      "Translation": "Girros Vambraces ß"
     },
     "armor-hr-guild-cross-alpha": {
       "Key": "armor-hr-guild-cross-alpha",
@@ -1357,7 +1357,7 @@ export default {
     },
     "armor-hr-guild-cross-beta": {
       "Key": "armor-hr-guild-cross-beta",
-      "Translation": "Guilda ß Cruz"
+      "Translation": "ß Aliança Cruz"
     },
     "armor-hr-guild-cross-boots-alpha": {
       "Key": "armor-hr-guild-cross-boots-alpha",
@@ -1373,7 +1373,7 @@ export default {
     },
     "armor-hr-guild-cross-circlet-beta": {
       "Key": "armor-hr-guild-cross-circlet-beta",
-      "Translation": "Guilda ß Cruz Circlet"
+      "Translation": "Aliança Cruz Circlet ß"
     },
     "armor-hr-guild-cross-coil-alpha": {
       "Key": "armor-hr-guild-cross-coil-alpha",
@@ -1381,7 +1381,7 @@ export default {
     },
     "armor-hr-guild-cross-coil-beta": {
       "Key": "armor-hr-guild-cross-coil-beta",
-      "Translation": "Guilda ß Cruz Bobina"
+      "Translation": "Aliança Cruz Bobina ß"
     },
     "armor-hr-guild-cross-suit-alpha": {
       "Key": "armor-hr-guild-cross-suit-alpha",
@@ -1389,15 +1389,15 @@ export default {
     },
     "armor-hr-guild-cross-suit-beta": {
       "Key": "armor-hr-guild-cross-suit-beta",
-      "Translation": "Guilda Cruz ß Suit"
+      "Translation": "Aliança Cruz ß Suit"
     },
     "armor-hr-guild-cross-vambraces-alpha": {
       "Key": "armor-hr-guild-cross-vambraces-alpha",
-      "Translation": "Aliança Cruz Vambraces ⍺"
+      "Translation": "Guilda Cruz Vambraces ⍺"
     },
     "armor-hr-guild-cross-vambraces-beta": {
       "Key": "armor-hr-guild-cross-vambraces-beta",
-      "Translation": "Aliança ß Cruz vambraces"
+      "Translation": "Aliança Cruz Vambraces ß"
     },
     "armor-hr-harvest-alpha": {
       "Key": "armor-hr-harvest-alpha",
@@ -1425,11 +1425,11 @@ export default {
     },
     "armor-hr-high-metal-alpha": {
       "Key": "armor-hr-high-metal-alpha",
-      "Translation": "Alta do metal ⍺"
+      "Translation": "Alta ⍺ metal"
     },
     "armor-hr-high-metal-beta": {
       "Key": "armor-hr-high-metal-beta",
-      "Translation": "ß alta de metal"
+      "Translation": "Alta do metal ß"
     },
     "armor-hr-high-metal-braces-alpha": {
       "Key": "armor-hr-high-metal-braces-alpha",
@@ -1437,7 +1437,7 @@ export default {
     },
     "armor-hr-high-metal-braces-beta": {
       "Key": "armor-hr-high-metal-braces-beta",
-      "Translation": "ß elevados do metal Suspensórios"
+      "Translation": "Alta de Metal Braces ß"
     },
     "armor-hr-high-metal-coil-alpha": {
       "Key": "armor-hr-high-metal-coil-alpha",
@@ -1445,15 +1445,15 @@ export default {
     },
     "armor-hr-high-metal-coil-beta": {
       "Key": "armor-hr-high-metal-coil-beta",
-      "Translation": "ß elevados Espiral de Metal"
+      "Translation": "Alta Espiral de Metal ß"
     },
     "armor-hr-high-metal-greaves-alpha": {
       "Key": "armor-hr-high-metal-greaves-alpha",
-      "Translation": "Greaves alta metal ⍺"
+      "Translation": "Alta do metal Greaves ⍺"
     },
     "armor-hr-high-metal-greaves-beta": {
       "Key": "armor-hr-high-metal-greaves-beta",
-      "Translation": "ß elevados do metal Greaves"
+      "Translation": "Alta do metal Greaves ß"
     },
     "armor-hr-high-metal-helm-alpha": {
       "Key": "armor-hr-high-metal-helm-alpha",
@@ -1461,15 +1461,15 @@ export default {
     },
     "armor-hr-high-metal-helm-beta": {
       "Key": "armor-hr-high-metal-helm-beta",
-      "Translation": "ß elevados do metal Helm"
+      "Translation": "Alta do metal Helm ß"
     },
     "armor-hr-high-metal-mail-alpha": {
       "Key": "armor-hr-high-metal-mail-alpha",
-      "Translation": "Correio alta metal ⍺"
+      "Translation": "Alta do metal Correio ⍺"
     },
     "armor-hr-high-metal-mail-beta": {
       "Key": "armor-hr-high-metal-mail-beta",
-      "Translation": "ß elevados do metal de correio"
+      "Translation": "ß alta metal Correio"
     },
     "armor-hr-hornetaur-alpha": {
       "Key": "armor-hr-hornetaur-alpha",
@@ -1477,7 +1477,7 @@ export default {
     },
     "armor-hr-hornetaur-beta": {
       "Key": "armor-hr-hornetaur-beta",
-      "Translation": "ß Hornetaur"
+      "Translation": "Hornetaur ß"
     },
     "armor-hr-hornetaur-coil-alpha": {
       "Key": "armor-hr-hornetaur-coil-alpha",
@@ -1485,7 +1485,7 @@ export default {
     },
     "armor-hr-hornetaur-coil-beta": {
       "Key": "armor-hr-hornetaur-coil-beta",
-      "Translation": "ß Hornetaur Bobina"
+      "Translation": "Hornetaur Bobina ß"
     },
     "armor-hr-hornetaur-greaves-alpha": {
       "Key": "armor-hr-hornetaur-greaves-alpha",
@@ -1493,7 +1493,7 @@ export default {
     },
     "armor-hr-hornetaur-greaves-beta": {
       "Key": "armor-hr-hornetaur-greaves-beta",
-      "Translation": "ß Hornetaur Greaves"
+      "Translation": "Hornetaur Greaves ß"
     },
     "armor-hr-hornetaur-helm-alpha": {
       "Key": "armor-hr-hornetaur-helm-alpha",
@@ -1501,7 +1501,7 @@ export default {
     },
     "armor-hr-hornetaur-helm-beta": {
       "Key": "armor-hr-hornetaur-helm-beta",
-      "Translation": "ß Hornetaur Helm"
+      "Translation": "Hornetaur Helm ß"
     },
     "armor-hr-hornetaur-mail-alpha": {
       "Key": "armor-hr-hornetaur-mail-alpha",
@@ -1517,7 +1517,7 @@ export default {
     },
     "armor-hr-hornetaur-vambraces-beta": {
       "Key": "armor-hr-hornetaur-vambraces-beta",
-      "Translation": "ß Hornetaur vambraces"
+      "Translation": "Hornetaur Vambraces ß"
     },
     "armor-hr-hunters-alpha": {
       "Key": "armor-hr-hunters-alpha",
@@ -1533,15 +1533,15 @@ export default {
     },
     "armor-hr-hunters-coil-beta": {
       "Key": "armor-hr-hunters-coil-beta",
-      "Translation": "ß bobina de Hunter"
+      "Translation": "ß Bobina de Hunter"
     },
     "armor-hr-hunters-greaves-alpha": {
       "Key": "armor-hr-hunters-greaves-alpha",
-      "Translation": "Greaves ⍺ de Hunter"
+      "Translation": "Greaves do caçador ⍺"
     },
     "armor-hr-hunters-greaves-beta": {
       "Key": "armor-hr-hunters-greaves-beta",
-      "Translation": "ß Greaves do caçador"
+      "Translation": "ß Greaves de Hunter"
     },
     "armor-hr-hunters-headgear-alpha": {
       "Key": "armor-hr-hunters-headgear-alpha",
@@ -1557,7 +1557,7 @@ export default {
     },
     "armor-hr-hunters-mail-beta": {
       "Key": "armor-hr-hunters-mail-beta",
-      "Translation": "ß Correio do caçador"
+      "Translation": "ß Mail Hunter"
     },
     "armor-hr-hunters-vambraces-alpha": {
       "Key": "armor-hr-hunters-vambraces-alpha",
@@ -1565,7 +1565,7 @@ export default {
     },
     "armor-hr-hunters-vambraces-beta": {
       "Key": "armor-hr-hunters-vambraces-beta",
-      "Translation": "ß vambraces do caçador"
+      "Translation": "ß Vambraces de Hunter"
     },
     "armor-hr-ingot-alpha": {
       "Key": "armor-hr-ingot-alpha",
@@ -1573,7 +1573,7 @@ export default {
     },
     "armor-hr-ingot-beta": {
       "Key": "armor-hr-ingot-beta",
-      "Translation": "ß lingote"
+      "Translation": "lingote ß"
     },
     "armor-hr-ingot-coil-alpha": {
       "Key": "armor-hr-ingot-coil-alpha",
@@ -1581,7 +1581,7 @@ export default {
     },
     "armor-hr-ingot-coil-beta": {
       "Key": "armor-hr-ingot-coil-beta",
-      "Translation": "ß lingote Bobina"
+      "Translation": "Lingote Bobina ß"
     },
     "armor-hr-ingot-greaves-alpha": {
       "Key": "armor-hr-ingot-greaves-alpha",
@@ -1589,7 +1589,7 @@ export default {
     },
     "armor-hr-ingot-greaves-beta": {
       "Key": "armor-hr-ingot-greaves-beta",
-      "Translation": "ß lingote Greaves"
+      "Translation": "Lingote Greaves ß"
     },
     "armor-hr-ingot-helm-alpha": {
       "Key": "armor-hr-ingot-helm-alpha",
@@ -1597,7 +1597,7 @@ export default {
     },
     "armor-hr-ingot-helm-beta": {
       "Key": "armor-hr-ingot-helm-beta",
-      "Translation": "ß lingote Helm"
+      "Translation": "Lingote Helm ß"
     },
     "armor-hr-ingot-mail-alpha": {
       "Key": "armor-hr-ingot-mail-alpha",
@@ -1605,7 +1605,7 @@ export default {
     },
     "armor-hr-ingot-mail-beta": {
       "Key": "armor-hr-ingot-mail-beta",
-      "Translation": "ß lingote de correio"
+      "Translation": "ß lingote correio"
     },
     "armor-hr-ingot-vambraces-alpha": {
       "Key": "armor-hr-ingot-vambraces-alpha",
@@ -1613,7 +1613,7 @@ export default {
     },
     "armor-hr-ingot-vambraces-beta": {
       "Key": "armor-hr-ingot-vambraces-beta",
-      "Translation": "ß lingote vambraces"
+      "Translation": "Lingote Vambraces ß"
     },
     "armor-hr-jagras-alpha": {
       "Key": "armor-hr-jagras-alpha",
@@ -1621,7 +1621,7 @@ export default {
     },
     "armor-hr-jagras-beta": {
       "Key": "armor-hr-jagras-beta",
-      "Translation": "ß Jagras"
+      "Translation": "Jagras ß"
     },
     "armor-hr-jagras-coil-alpha": {
       "Key": "armor-hr-jagras-coil-alpha",
@@ -1629,7 +1629,7 @@ export default {
     },
     "armor-hr-jagras-coil-beta": {
       "Key": "armor-hr-jagras-coil-beta",
-      "Translation": "ß Jagras Bobina"
+      "Translation": "Jagras Bobina ß"
     },
     "armor-hr-jagras-greaves-alpha": {
       "Key": "armor-hr-jagras-greaves-alpha",
@@ -1637,7 +1637,7 @@ export default {
     },
     "armor-hr-jagras-greaves-beta": {
       "Key": "armor-hr-jagras-greaves-beta",
-      "Translation": "ß Jagras Greaves"
+      "Translation": "Jagras Greaves ß"
     },
     "armor-hr-jagras-helm-alpha": {
       "Key": "armor-hr-jagras-helm-alpha",
@@ -1661,7 +1661,7 @@ export default {
     },
     "armor-hr-jagras-vambraces-beta": {
       "Key": "armor-hr-jagras-vambraces-beta",
-      "Translation": "ß Jagras vambraces"
+      "Translation": "Jagras Vambraces ß"
     },
     "armor-hr-jyura-alpha": {
       "Key": "armor-hr-jyura-alpha",
@@ -1669,7 +1669,7 @@ export default {
     },
     "armor-hr-jyura-beta": {
       "Key": "armor-hr-jyura-beta",
-      "Translation": "ß Jyura"
+      "Translation": "Jyura ß"
     },
     "armor-hr-jyura-coil-alpha": {
       "Key": "armor-hr-jyura-coil-alpha",
@@ -1677,7 +1677,7 @@ export default {
     },
     "armor-hr-jyura-coil-beta": {
       "Key": "armor-hr-jyura-coil-beta",
-      "Translation": "ß Jyura Bobina"
+      "Translation": "Jyura Bobina ß"
     },
     "armor-hr-jyura-greaves-alpha": {
       "Key": "armor-hr-jyura-greaves-alpha",
@@ -1685,7 +1685,7 @@ export default {
     },
     "armor-hr-jyura-greaves-beta": {
       "Key": "armor-hr-jyura-greaves-beta",
-      "Translation": "ß Jyura Greaves"
+      "Translation": "Jyura Greaves ß"
     },
     "armor-hr-jyura-helm-alpha": {
       "Key": "armor-hr-jyura-helm-alpha",
@@ -1693,7 +1693,7 @@ export default {
     },
     "armor-hr-jyura-helm-beta": {
       "Key": "armor-hr-jyura-helm-beta",
-      "Translation": "ß Jyura Helm"
+      "Translation": "Jyura Helm ß"
     },
     "armor-hr-jyura-mail-alpha": {
       "Key": "armor-hr-jyura-mail-alpha",
@@ -1709,7 +1709,7 @@ export default {
     },
     "armor-hr-jyura-vambraces-beta": {
       "Key": "armor-hr-jyura-vambraces-beta",
-      "Translation": "ß Jyura vambraces"
+      "Translation": "Jyura Vambraces ß"
     },
     "armor-hr-kadachi-alpha": {
       "Key": "armor-hr-kadachi-alpha",
@@ -1717,7 +1717,7 @@ export default {
     },
     "armor-hr-kadachi-beta": {
       "Key": "armor-hr-kadachi-beta",
-      "Translation": "ß Kadachi"
+      "Translation": "Kadachi ß"
     },
     "armor-hr-kadachi-coil-alpha": {
       "Key": "armor-hr-kadachi-coil-alpha",
@@ -1725,7 +1725,7 @@ export default {
     },
     "armor-hr-kadachi-coil-beta": {
       "Key": "armor-hr-kadachi-coil-beta",
-      "Translation": "ß Kadachi Bobina"
+      "Translation": "Kadachi Bobina ß"
     },
     "armor-hr-kadachi-greaves-alpha": {
       "Key": "armor-hr-kadachi-greaves-alpha",
@@ -1733,7 +1733,7 @@ export default {
     },
     "armor-hr-kadachi-greaves-beta": {
       "Key": "armor-hr-kadachi-greaves-beta",
-      "Translation": "ß Kadachi Greaves"
+      "Translation": "Kadachi Greaves ß"
     },
     "armor-hr-kadachi-helm-alpha": {
       "Key": "armor-hr-kadachi-helm-alpha",
@@ -1741,7 +1741,7 @@ export default {
     },
     "armor-hr-kadachi-helm-beta": {
       "Key": "armor-hr-kadachi-helm-beta",
-      "Translation": "ß Kadachi Helm"
+      "Translation": "Kadachi Helm ß"
     },
     "armor-hr-kadachi-mail-alpha": {
       "Key": "armor-hr-kadachi-mail-alpha",
@@ -1757,7 +1757,7 @@ export default {
     },
     "armor-hr-kadachi-vambraces-beta": {
       "Key": "armor-hr-kadachi-vambraces-beta",
-      "Translation": "ß Kadachi vambraces"
+      "Translation": "Kadachi Vambraces ß"
     },
     "armor-hr-kaiser-coil-alpha": {
       "Key": "armor-hr-kaiser-coil-alpha",
@@ -1765,11 +1765,11 @@ export default {
     },
     "armor-hr-kaiser-coil-beta": {
       "Key": "armor-hr-kaiser-coil-beta",
-      "Translation": "ß Kaiser Bobina"
+      "Translation": "Kaiser Bobina ß"
     },
     "armor-hr-kaiser-coil-gamma": {
       "Key": "armor-hr-kaiser-coil-gamma",
-      "Translation": "γ Kaiser Bobina"
+      "Translation": "Kaiser Bobina γ"
     },
     "armor-hr-kaiser-crown-alpha": {
       "Key": "armor-hr-kaiser-crown-alpha",
@@ -1789,11 +1789,11 @@ export default {
     },
     "armor-hr-kaiser-greaves-beta": {
       "Key": "armor-hr-kaiser-greaves-beta",
-      "Translation": "ß Kaiser Greaves"
+      "Translation": "Kaiser Greaves ß"
     },
     "armor-hr-kaiser-greaves-gamma": {
       "Key": "armor-hr-kaiser-greaves-gamma",
-      "Translation": "γ Kaiser Greaves"
+      "Translation": "Kaiser Greaves γ"
     },
     "armor-hr-kaiser-mail-alpha": {
       "Key": "armor-hr-kaiser-mail-alpha",
@@ -1813,11 +1813,11 @@ export default {
     },
     "armor-hr-kaiser-vambraces-beta": {
       "Key": "armor-hr-kaiser-vambraces-beta",
-      "Translation": "ß Kaiser vambraces"
+      "Translation": "Kaiser Vambraces ß"
     },
     "armor-hr-kaiser-vambraces-gamma": {
       "Key": "armor-hr-kaiser-vambraces-gamma",
-      "Translation": "γ Kaiser vambraces"
+      "Translation": "Kaiser Vambraces γ"
     },
     "armor-hr-kestodon-alpha": {
       "Key": "armor-hr-kestodon-alpha",
@@ -1825,7 +1825,7 @@ export default {
     },
     "armor-hr-kestodon-beta": {
       "Key": "armor-hr-kestodon-beta",
-      "Translation": "ß Kestodon"
+      "Translation": "Kestodon ß"
     },
     "armor-hr-kestodon-guards-alpha": {
       "Key": "armor-hr-kestodon-guards-alpha",
@@ -1841,7 +1841,7 @@ export default {
     },
     "armor-hr-king-beetle-beta": {
       "Key": "armor-hr-king-beetle-beta",
-      "Translation": "ß Rei Besouro"
+      "Translation": "Rei Besouro ß"
     },
     "armor-hr-king-beetle-brachia-alpha": {
       "Key": "armor-hr-king-beetle-brachia-alpha",
@@ -1849,7 +1849,7 @@ export default {
     },
     "armor-hr-king-beetle-brachia-beta": {
       "Key": "armor-hr-king-beetle-brachia-beta",
-      "Translation": "ß Rei Besouro braquiais"
+      "Translation": "Rei Besouro braquiais ß"
     },
     "armor-hr-king-beetle-crura-alpha": {
       "Key": "armor-hr-king-beetle-crura-alpha",
@@ -1857,7 +1857,7 @@ export default {
     },
     "armor-hr-king-beetle-crura-beta": {
       "Key": "armor-hr-king-beetle-crura-beta",
-      "Translation": "ß Rei Besouro crura"
+      "Translation": "Rei Besouro crura ß"
     },
     "armor-hr-king-beetle-elytra-alpha": {
       "Key": "armor-hr-king-beetle-elytra-alpha",
@@ -1865,7 +1865,7 @@ export default {
     },
     "armor-hr-king-beetle-elytra-beta": {
       "Key": "armor-hr-king-beetle-elytra-beta",
-      "Translation": "ß Rei Besouro elytra"
+      "Translation": "Rei Besouro Élitros ß"
     },
     "armor-hr-king-beetle-thorax-alpha": {
       "Key": "armor-hr-king-beetle-thorax-alpha",
@@ -1873,7 +1873,7 @@ export default {
     },
     "armor-hr-king-beetle-thorax-beta": {
       "Key": "armor-hr-king-beetle-thorax-beta",
-      "Translation": "ß Rei Besouro Tórax"
+      "Translation": "Rei Besouro Thorax ß"
     },
     "armor-hr-king-beetle-vertex-alpha": {
       "Key": "armor-hr-king-beetle-vertex-alpha",
@@ -1889,11 +1889,11 @@ export default {
     },
     "armor-hr-kirin-beta": {
       "Key": "armor-hr-kirin-beta",
-      "Translation": "ß Kirin"
+      "Translation": "Kirin ß"
     },
     "armor-hr-kirin-gamma": {
       "Key": "armor-hr-kirin-gamma",
-      "Translation": "γ Kirin"
+      "Translation": "Kirin γ"
     },
     "armor-hr-kirin-hoop-alpha": {
       "Key": "armor-hr-kirin-hoop-alpha",
@@ -1901,11 +1901,11 @@ export default {
     },
     "armor-hr-kirin-hoop-beta": {
       "Key": "armor-hr-kirin-hoop-beta",
-      "Translation": "ß Kirin Hoop"
+      "Translation": "Kirin Hoop ß"
     },
     "armor-hr-kirin-hoop-gamma": {
       "Key": "armor-hr-kirin-hoop-gamma",
-      "Translation": "γ Kirin Hoop"
+      "Translation": "Kirin Hoop γ"
     },
     "armor-hr-kirin-horn-alpha": {
       "Key": "armor-hr-kirin-horn-alpha",
@@ -1921,27 +1921,27 @@ export default {
     },
     "armor-hr-kirin-jacket-alpha": {
       "Key": "armor-hr-kirin-jacket-alpha",
-      "Translation": "Kirin Jacket ⍺"
+      "Translation": "Jacket Kirin ⍺"
     },
     "armor-hr-kirin-jacket-beta": {
       "Key": "armor-hr-kirin-jacket-beta",
-      "Translation": "ß Jacket Kirin"
+      "Translation": "Kirin ß Jacket"
     },
     "armor-hr-kirin-jacket-gamma": {
       "Key": "armor-hr-kirin-jacket-gamma",
-      "Translation": "γ Jacket Kirin"
+      "Translation": "Kirin γ Jacket"
     },
     "armor-hr-kirin-leg-guards-alpha": {
       "Key": "armor-hr-kirin-leg-guards-alpha",
-      "Translation": "Kirin Leg Guards ⍺"
+      "Translation": "Kirin caneleiras ⍺"
     },
     "armor-hr-kirin-leg-guards-beta": {
       "Key": "armor-hr-kirin-leg-guards-beta",
-      "Translation": "Kirin Leg guardas da SS"
+      "Translation": "Kirin caneleiras ß"
     },
     "armor-hr-kirin-leg-guards-gamma": {
       "Key": "armor-hr-kirin-leg-guards-gamma",
-      "Translation": "Kirin Leg Guards γ"
+      "Translation": "Kirin caneleiras γ"
     },
     "armor-hr-kirin-longarms-alpha": {
       "Key": "armor-hr-kirin-longarms-alpha",
@@ -1949,11 +1949,11 @@ export default {
     },
     "armor-hr-kirin-longarms-beta": {
       "Key": "armor-hr-kirin-longarms-beta",
-      "Translation": "ß Kirin Longarms"
+      "Translation": "Kirin Longarms ß"
     },
     "armor-hr-kirin-longarms-gamma": {
       "Key": "armor-hr-kirin-longarms-gamma",
-      "Translation": "γ Kirin Longarms"
+      "Translation": "Kirin Longarms γ"
     },
     "armor-hr-kulu-alpha": {
       "Key": "armor-hr-kulu-alpha",
@@ -1961,7 +1961,7 @@ export default {
     },
     "armor-hr-kulu-beta": {
       "Key": "armor-hr-kulu-beta",
-      "Translation": "ß Kulu"
+      "Translation": "Kulu ß"
     },
     "armor-hr-kulu-coil-alpha": {
       "Key": "armor-hr-kulu-coil-alpha",
@@ -1969,7 +1969,7 @@ export default {
     },
     "armor-hr-kulu-coil-beta": {
       "Key": "armor-hr-kulu-coil-beta",
-      "Translation": "ß Kulu Bobina"
+      "Translation": "Kulu Bobina ß"
     },
     "armor-hr-kulu-greaves-alpha": {
       "Key": "armor-hr-kulu-greaves-alpha",
@@ -1977,7 +1977,7 @@ export default {
     },
     "armor-hr-kulu-greaves-beta": {
       "Key": "armor-hr-kulu-greaves-beta",
-      "Translation": "ß Kulu Greaves"
+      "Translation": "Kulu Greaves ß"
     },
     "armor-hr-kulu-headpiece-alpha": {
       "Key": "armor-hr-kulu-headpiece-alpha",
@@ -1985,7 +1985,7 @@ export default {
     },
     "armor-hr-kulu-headpiece-beta": {
       "Key": "armor-hr-kulu-headpiece-beta",
-      "Translation": "ß Kulu Headpiece"
+      "Translation": "Kulu Headpiece ß"
     },
     "armor-hr-kulu-mail-alpha": {
       "Key": "armor-hr-kulu-mail-alpha",
@@ -2001,7 +2001,7 @@ export default {
     },
     "armor-hr-kulu-vambraces-beta": {
       "Key": "armor-hr-kulu-vambraces-beta",
-      "Translation": "ß Kulu vambraces"
+      "Translation": "Kulu Vambraces ß"
     },
     "armor-hr-kulu-ya-ku-head-alpha": {
       "Key": "armor-hr-kulu-ya-ku-head-alpha",
@@ -2013,7 +2013,7 @@ export default {
     },
     "armor-hr-kulve-taroth-beta": {
       "Key": "armor-hr-kulve-taroth-beta",
-      "Translation": "ß Kulve Taroth"
+      "Translation": "Kulve Taroth ß"
     },
     "armor-hr-kulve-taroth-fury-alpha": {
       "Key": "armor-hr-kulve-taroth-fury-alpha",
@@ -2021,15 +2021,15 @@ export default {
     },
     "armor-hr-kulve-taroth-fury-beta": {
       "Key": "armor-hr-kulve-taroth-fury-beta",
-      "Translation": "ß Kulve Taroth Fúria"
+      "Translation": "Kulve Taroth Fúria ß"
     },
     "armor-hr-kulve-taroth-fury-gamma": {
       "Key": "armor-hr-kulve-taroth-fury-gamma",
-      "Translation": "γ fúria de Kulve Taroth"
+      "Translation": "γ Fúria de Kulve Taroth"
     },
     "armor-hr-kulve-taroth-gamma": {
       "Key": "armor-hr-kulve-taroth-gamma",
-      "Translation": "γ Kulve Taroth"
+      "Translation": "Kulve Taroth γ"
     },
     "armor-hr-kulve-taroth-ire-alpha": {
       "Key": "armor-hr-kulve-taroth-ire-alpha",
@@ -2037,11 +2037,11 @@ export default {
     },
     "armor-hr-kulve-taroth-ire-beta": {
       "Key": "armor-hr-kulve-taroth-ire-beta",
-      "Translation": "ß Kulve Taroth Ire"
+      "Translation": "Kulve Taroth Ire ß"
     },
     "armor-hr-kulve-taroth-ire-gamma": {
       "Key": "armor-hr-kulve-taroth-ire-gamma",
-      "Translation": "γ ira de Kulve Taroth"
+      "Translation": "γ Ire do Kulve Taroth"
     },
     "armor-hr-kulve-taroth-malice-alpha": {
       "Key": "armor-hr-kulve-taroth-malice-alpha",
@@ -2049,11 +2049,11 @@ export default {
     },
     "armor-hr-kulve-taroth-malice-beta": {
       "Key": "armor-hr-kulve-taroth-malice-beta",
-      "Translation": "ß Kulve Taroth Malice"
+      "Translation": "Kulve Taroth Malice ß"
     },
     "armor-hr-kulve-taroth-malice-gamma": {
       "Key": "armor-hr-kulve-taroth-malice-gamma",
-      "Translation": "γ malícia de Kulve Taroth"
+      "Translation": "γ Malice de Kulve Taroth"
     },
     "armor-hr-kulve-taroth-rage-alpha": {
       "Key": "armor-hr-kulve-taroth-rage-alpha",
@@ -2061,11 +2061,11 @@ export default {
     },
     "armor-hr-kulve-taroth-rage-beta": {
       "Key": "armor-hr-kulve-taroth-rage-beta",
-      "Translation": "ß Raiva Kulve Taroth"
+      "Translation": "Kulve Taroth ß Raiva"
     },
     "armor-hr-kulve-taroth-rage-gamma": {
       "Key": "armor-hr-kulve-taroth-rage-gamma",
-      "Translation": "γ raiva de Kulve Taroth"
+      "Translation": "γ Rage Kulve Taroth"
     },
     "armor-hr-kulve-taroth-wrath-alpha": {
       "Key": "armor-hr-kulve-taroth-wrath-alpha",
@@ -2073,11 +2073,11 @@ export default {
     },
     "armor-hr-kulve-taroth-wrath-beta": {
       "Key": "armor-hr-kulve-taroth-wrath-beta",
-      "Translation": "ß Kulve Taroth Wrath"
+      "Translation": "Kulve Taroth Wrath ß"
     },
     "armor-hr-kulve-taroth-wrath-gamma": {
       "Key": "armor-hr-kulve-taroth-wrath-gamma",
-      "Translation": "γ ira de Kulve Taroth"
+      "Translation": "γ Wrath do Kulve Taroth"
     },
     "armor-hr-kushala-alpha": {
       "Key": "armor-hr-kushala-alpha",
@@ -2085,7 +2085,7 @@ export default {
     },
     "armor-hr-kushala-beta": {
       "Key": "armor-hr-kushala-beta",
-      "Translation": "ß Kushala"
+      "Translation": "Kushala ß"
     },
     "armor-hr-kushala-cista-alpha": {
       "Key": "armor-hr-kushala-cista-alpha",
@@ -2093,11 +2093,11 @@ export default {
     },
     "armor-hr-kushala-cista-beta": {
       "Key": "armor-hr-kushala-cista-beta",
-      "Translation": "ß Kushala Cista"
+      "Translation": "Kushala Cista ß"
     },
     "armor-hr-kushala-cista-gamma": {
       "Key": "armor-hr-kushala-cista-gamma",
-      "Translation": "γ Kushala Cista"
+      "Translation": "Kushala Cista γ"
     },
     "armor-hr-kushala-cocoon-alpha": {
       "Key": "armor-hr-kushala-cocoon-alpha",
@@ -2105,11 +2105,11 @@ export default {
     },
     "armor-hr-kushala-cocoon-beta": {
       "Key": "armor-hr-kushala-cocoon-beta",
-      "Translation": "ß Kushala Cocoon"
+      "Translation": "Kushala Cocoon ß"
     },
     "armor-hr-kushala-cocoon-gamma": {
       "Key": "armor-hr-kushala-cocoon-gamma",
-      "Translation": "γ Kushala Cocoon"
+      "Translation": "Kushala Cocoon γ"
     },
     "armor-hr-kushala-crus-alpha": {
       "Key": "armor-hr-kushala-crus-alpha",
@@ -2117,15 +2117,15 @@ export default {
     },
     "armor-hr-kushala-crus-beta": {
       "Key": "armor-hr-kushala-crus-beta",
-      "Translation": "ß Kushala Crus"
+      "Translation": "Kushala Crus ß"
     },
     "armor-hr-kushala-crus-gamma": {
       "Key": "armor-hr-kushala-crus-gamma",
-      "Translation": "γ Kushala Crus"
+      "Translation": "Kushala Crus γ"
     },
     "armor-hr-kushala-gamma": {
       "Key": "armor-hr-kushala-gamma",
-      "Translation": "γ Kushala"
+      "Translation": "Kushala γ"
     },
     "armor-hr-kushala-glare-alpha": {
       "Key": "armor-hr-kushala-glare-alpha",
@@ -2133,11 +2133,11 @@ export default {
     },
     "armor-hr-kushala-glare-beta": {
       "Key": "armor-hr-kushala-glare-beta",
-      "Translation": "ß Kushala Glare"
+      "Translation": "Kushala Glare ß"
     },
     "armor-hr-kushala-glare-gamma": {
       "Key": "armor-hr-kushala-glare-gamma",
-      "Translation": "γ Kushala Glare"
+      "Translation": "Kushala Glare γ"
     },
     "armor-hr-kushala-grip-alpha": {
       "Key": "armor-hr-kushala-grip-alpha",
@@ -2145,11 +2145,11 @@ export default {
     },
     "armor-hr-kushala-grip-beta": {
       "Key": "armor-hr-kushala-grip-beta",
-      "Translation": "ß aperto Kushala"
+      "Translation": "Kushala ß aperto"
     },
     "armor-hr-kushala-grip-gamma": {
       "Key": "armor-hr-kushala-grip-gamma",
-      "Translation": "γ aperto Kushala"
+      "Translation": "Kushala γ aperto"
     },
     "armor-hr-lavasioth-alpha": {
       "Key": "armor-hr-lavasioth-alpha",
@@ -2157,7 +2157,7 @@ export default {
     },
     "armor-hr-lavasioth-beta": {
       "Key": "armor-hr-lavasioth-beta",
-      "Translation": "ß Lavasioth"
+      "Translation": "Lavasioth ß"
     },
     "armor-hr-lavasioth-coil-alpha": {
       "Key": "armor-hr-lavasioth-coil-alpha",
@@ -2165,7 +2165,7 @@ export default {
     },
     "armor-hr-lavasioth-coil-beta": {
       "Key": "armor-hr-lavasioth-coil-beta",
-      "Translation": "ß Lavasioth Bobina"
+      "Translation": "Lavasioth Bobina ß"
     },
     "armor-hr-lavasioth-greaves-alpha": {
       "Key": "armor-hr-lavasioth-greaves-alpha",
@@ -2173,7 +2173,7 @@ export default {
     },
     "armor-hr-lavasioth-greaves-beta": {
       "Key": "armor-hr-lavasioth-greaves-beta",
-      "Translation": "ß Lavasioth Greaves"
+      "Translation": "Lavasioth Greaves ß"
     },
     "armor-hr-lavasioth-helm-alpha": {
       "Key": "armor-hr-lavasioth-helm-alpha",
@@ -2181,7 +2181,7 @@ export default {
     },
     "armor-hr-lavasioth-helm-beta": {
       "Key": "armor-hr-lavasioth-helm-beta",
-      "Translation": "ß Lavasioth Helm"
+      "Translation": "Lavasioth Helm ß"
     },
     "armor-hr-lavasioth-mail-alpha": {
       "Key": "armor-hr-lavasioth-mail-alpha",
@@ -2197,11 +2197,11 @@ export default {
     },
     "armor-hr-lavasioth-vambraces-beta": {
       "Key": "armor-hr-lavasioth-vambraces-beta",
-      "Translation": "ß Lavasioth vambraces"
+      "Translation": "Lavasioth Vambraces ß"
     },
     "armor-hr-leather-alpha": {
       "Key": "armor-hr-leather-alpha",
-      "Translation": "⍺ couro"
+      "Translation": "couro ⍺"
     },
     "armor-hr-leather-belt-alpha": {
       "Key": "armor-hr-leather-belt-alpha",
@@ -2209,7 +2209,7 @@ export default {
     },
     "armor-hr-leather-belt-beta": {
       "Key": "armor-hr-leather-belt-beta",
-      "Translation": "ß cinto de couro"
+      "Translation": "Couro ß Belt"
     },
     "armor-hr-leather-beta": {
       "Key": "armor-hr-leather-beta",
@@ -2225,11 +2225,11 @@ export default {
     },
     "armor-hr-leather-headgear-alpha": {
       "Key": "armor-hr-leather-headgear-alpha",
-      "Translation": "Chapelaria couro ⍺"
+      "Translation": "Couro Chapelaria ⍺"
     },
     "armor-hr-leather-headgear-beta": {
       "Key": "armor-hr-leather-headgear-beta",
-      "Translation": "ß Chapelaria couro"
+      "Translation": "Couro Chapelaria ß"
     },
     "armor-hr-leather-mail-alpha": {
       "Key": "armor-hr-leather-mail-alpha",
@@ -2237,7 +2237,7 @@ export default {
     },
     "armor-hr-leather-mail-beta": {
       "Key": "armor-hr-leather-mail-beta",
-      "Translation": "ß couro de correio"
+      "Translation": "ß correio couro"
     },
     "armor-hr-leather-trousers-alpha": {
       "Key": "armor-hr-leather-trousers-alpha",
@@ -2261,7 +2261,7 @@ export default {
     },
     "armor-hr-legiana-coil-beta": {
       "Key": "armor-hr-legiana-coil-beta",
-      "Translation": "ß Legiana Bobina"
+      "Translation": "Legiana Bobina ß"
     },
     "armor-hr-legiana-greaves-alpha": {
       "Key": "armor-hr-legiana-greaves-alpha",
@@ -2269,7 +2269,7 @@ export default {
     },
     "armor-hr-legiana-greaves-beta": {
       "Key": "armor-hr-legiana-greaves-beta",
-      "Translation": "ß Legiana Greaves"
+      "Translation": "Legiana Greaves ß"
     },
     "armor-hr-legiana-helm-alpha": {
       "Key": "armor-hr-legiana-helm-alpha",
@@ -2277,7 +2277,7 @@ export default {
     },
     "armor-hr-legiana-helm-beta": {
       "Key": "armor-hr-legiana-helm-beta",
-      "Translation": "ß Legiana Helm"
+      "Translation": "Legiana Helm ß"
     },
     "armor-hr-legiana-mail-alpha": {
       "Key": "armor-hr-legiana-mail-alpha",
@@ -2293,7 +2293,7 @@ export default {
     },
     "armor-hr-legiana-vambraces-beta": {
       "Key": "armor-hr-legiana-vambraces-beta",
-      "Translation": "ß Legiana vambraces"
+      "Translation": "Legiana Vambraces ß"
     },
     "armor-hr-lumu-alpha": {
       "Key": "armor-hr-lumu-alpha",
@@ -2301,7 +2301,7 @@ export default {
     },
     "armor-hr-lumu-beta": {
       "Key": "armor-hr-lumu-beta",
-      "Translation": "ß Lumu"
+      "Translation": "Lumu ß"
     },
     "armor-hr-lumu-coil-alpha": {
       "Key": "armor-hr-lumu-coil-alpha",
@@ -2309,7 +2309,7 @@ export default {
     },
     "armor-hr-lumu-coil-beta": {
       "Key": "armor-hr-lumu-coil-beta",
-      "Translation": "ß Lumu Bobina"
+      "Translation": "Lumu Bobina ß"
     },
     "armor-hr-lumu-greaves-alpha": {
       "Key": "armor-hr-lumu-greaves-alpha",
@@ -2317,7 +2317,7 @@ export default {
     },
     "armor-hr-lumu-greaves-beta": {
       "Key": "armor-hr-lumu-greaves-beta",
-      "Translation": "ß Lumu Greaves"
+      "Translation": "Lumu Greaves ß"
     },
     "armor-hr-lumu-hat-alpha": {
       "Key": "armor-hr-lumu-hat-alpha",
@@ -2325,7 +2325,7 @@ export default {
     },
     "armor-hr-lumu-hat-beta": {
       "Key": "armor-hr-lumu-hat-beta",
-      "Translation": "ß Lumu Hat"
+      "Translation": "Lumu Hat ß"
     },
     "armor-hr-lumu-mail-alpha": {
       "Key": "armor-hr-lumu-mail-alpha",
@@ -2341,7 +2341,7 @@ export default {
     },
     "armor-hr-lumu-vambraces-beta": {
       "Key": "armor-hr-lumu-vambraces-beta",
-      "Translation": "ß Lumu vambraces"
+      "Translation": "Lumu Vambraces ß"
     },
     "armor-hr-lunastra-alpha": {
       "Key": "armor-hr-lunastra-alpha",
@@ -2349,11 +2349,11 @@ export default {
     },
     "armor-hr-lunastra-beta": {
       "Key": "armor-hr-lunastra-beta",
-      "Translation": "ß Lunastra"
+      "Translation": "Lunastra ß"
     },
     "armor-hr-lunastra-gamma": {
       "Key": "armor-hr-lunastra-gamma",
-      "Translation": "γ Lunastra"
+      "Translation": "Lunastra γ"
     },
     "armor-hr-mosswine-mask-alpha": {
       "Key": "armor-hr-mosswine-mask-alpha",
@@ -2365,7 +2365,7 @@ export default {
     },
     "armor-hr-nergigante-beta": {
       "Key": "armor-hr-nergigante-beta",
-      "Translation": "ß Nergigante"
+      "Translation": "Nergigante ß"
     },
     "armor-hr-nergigante-coil-alpha": {
       "Key": "armor-hr-nergigante-coil-alpha",
@@ -2373,15 +2373,15 @@ export default {
     },
     "armor-hr-nergigante-coil-beta": {
       "Key": "armor-hr-nergigante-coil-beta",
-      "Translation": "ß Nergigante Bobina"
+      "Translation": "Nergigante Bobina ß"
     },
     "armor-hr-nergigante-coil-gamma": {
       "Key": "armor-hr-nergigante-coil-gamma",
-      "Translation": "γ Nergigante Bobina"
+      "Translation": "Nergigante Bobina γ"
     },
     "armor-hr-nergigante-gamma": {
       "Key": "armor-hr-nergigante-gamma",
-      "Translation": "γ Nergigante"
+      "Translation": "Nergigante γ"
     },
     "armor-hr-nergigante-greaves-alpha": {
       "Key": "armor-hr-nergigante-greaves-alpha",
@@ -2389,11 +2389,11 @@ export default {
     },
     "armor-hr-nergigante-greaves-beta": {
       "Key": "armor-hr-nergigante-greaves-beta",
-      "Translation": "ß Nergigante Greaves"
+      "Translation": "Nergigante Greaves ß"
     },
     "armor-hr-nergigante-greaves-gamma": {
       "Key": "armor-hr-nergigante-greaves-gamma",
-      "Translation": "γ Nergigante Greaves"
+      "Translation": "Nergigante Greaves γ"
     },
     "armor-hr-nergigante-helm-alpha": {
       "Key": "armor-hr-nergigante-helm-alpha",
@@ -2401,11 +2401,11 @@ export default {
     },
     "armor-hr-nergigante-helm-beta": {
       "Key": "armor-hr-nergigante-helm-beta",
-      "Translation": "ß Nergigante Helm"
+      "Translation": "Nergigante Helm ß"
     },
     "armor-hr-nergigante-helm-gamma": {
       "Key": "armor-hr-nergigante-helm-gamma",
-      "Translation": "γ Nergigante Helm"
+      "Translation": "Nergigante Helm γ"
     },
     "armor-hr-nergigante-mail-alpha": {
       "Key": "armor-hr-nergigante-mail-alpha",
@@ -2425,11 +2425,11 @@ export default {
     },
     "armor-hr-nergigante-vambraces-beta": {
       "Key": "armor-hr-nergigante-vambraces-beta",
-      "Translation": "ß Nergigante vambraces"
+      "Translation": "Nergigante Vambraces ß"
     },
     "armor-hr-nergigante-vambraces-gamma": {
       "Key": "armor-hr-nergigante-vambraces-gamma",
-      "Translation": "γ Nergigante vambraces"
+      "Translation": "Nergigante Vambraces γ"
     },
     "armor-hr-odogaron-alpha": {
       "Key": "armor-hr-odogaron-alpha",
@@ -2437,7 +2437,7 @@ export default {
     },
     "armor-hr-odogaron-beta": {
       "Key": "armor-hr-odogaron-beta",
-      "Translation": "ß Odogaron"
+      "Translation": "Odogaron ß"
     },
     "armor-hr-odogaron-coil-alpha": {
       "Key": "armor-hr-odogaron-coil-alpha",
@@ -2445,7 +2445,7 @@ export default {
     },
     "armor-hr-odogaron-coil-beta": {
       "Key": "armor-hr-odogaron-coil-beta",
-      "Translation": "ß Odogaron Bobina"
+      "Translation": "Odogaron Bobina ß"
     },
     "armor-hr-odogaron-greaves-alpha": {
       "Key": "armor-hr-odogaron-greaves-alpha",
@@ -2453,7 +2453,7 @@ export default {
     },
     "armor-hr-odogaron-greaves-beta": {
       "Key": "armor-hr-odogaron-greaves-beta",
-      "Translation": "ß Odogaron Greaves"
+      "Translation": "Odogaron Greaves ß"
     },
     "armor-hr-odogaron-helm-alpha": {
       "Key": "armor-hr-odogaron-helm-alpha",
@@ -2461,7 +2461,7 @@ export default {
     },
     "armor-hr-odogaron-helm-beta": {
       "Key": "armor-hr-odogaron-helm-beta",
-      "Translation": "ß Odogaron Helm"
+      "Translation": "Odogaron Helm ß"
     },
     "armor-hr-odogaron-mail-alpha": {
       "Key": "armor-hr-odogaron-mail-alpha",
@@ -2477,7 +2477,7 @@ export default {
     },
     "armor-hr-odogaron-vambraces-beta": {
       "Key": "armor-hr-odogaron-vambraces-beta",
-      "Translation": "ß Odogaron vambraces"
+      "Translation": "Odogaron Vambraces ß"
     },
     "armor-hr-orion-alpha": {
       "Key": "armor-hr-orion-alpha",
@@ -2509,7 +2509,7 @@ export default {
     },
     "armor-hr-pukei-beta": {
       "Key": "armor-hr-pukei-beta",
-      "Translation": "ß Pukei"
+      "Translation": "Pukei ß"
     },
     "armor-hr-pukei-coil-alpha": {
       "Key": "armor-hr-pukei-coil-alpha",
@@ -2517,7 +2517,7 @@ export default {
     },
     "armor-hr-pukei-coil-beta": {
       "Key": "armor-hr-pukei-coil-beta",
-      "Translation": "ß Pukei Bobina"
+      "Translation": "Pukei Bobina ß"
     },
     "armor-hr-pukei-greaves-alpha": {
       "Key": "armor-hr-pukei-greaves-alpha",
@@ -2525,7 +2525,7 @@ export default {
     },
     "armor-hr-pukei-greaves-beta": {
       "Key": "armor-hr-pukei-greaves-beta",
-      "Translation": "ß Pukei Greaves"
+      "Translation": "Pukei Greaves ß"
     },
     "armor-hr-pukei-hood-alpha": {
       "Key": "armor-hr-pukei-hood-alpha",
@@ -2533,7 +2533,7 @@ export default {
     },
     "armor-hr-pukei-hood-beta": {
       "Key": "armor-hr-pukei-hood-beta",
-      "Translation": "ß Pukei capa"
+      "Translation": "Pukei capa ß"
     },
     "armor-hr-pukei-mail-alpha": {
       "Key": "armor-hr-pukei-mail-alpha",
@@ -2549,7 +2549,7 @@ export default {
     },
     "armor-hr-pukei-vambraces-beta": {
       "Key": "armor-hr-pukei-vambraces-beta",
-      "Translation": "ß Pukei vambraces"
+      "Translation": "Pukei Vambraces ß"
     },
     "armor-hr-queen-beetle-alpha": {
       "Key": "armor-hr-queen-beetle-alpha",
@@ -2581,15 +2581,15 @@ export default {
     },
     "armor-hr-rath-heart-beta": {
       "Key": "armor-hr-rath-heart-beta",
-      "Translation": "ß coração Rath"
+      "Translation": "ß Rath Coração"
     },
     "armor-hr-rath-heart-braces-alpha": {
       "Key": "armor-hr-rath-heart-braces-alpha",
-      "Translation": "Rath Suspensórios coração ⍺"
+      "Translation": "Rath coração Suspensórios ⍺"
     },
     "armor-hr-rath-heart-braces-beta": {
       "Key": "armor-hr-rath-heart-braces-beta",
-      "Translation": "ß Rath coração Suspensórios"
+      "Translation": "Rath coração Suspensórios ß"
     },
     "armor-hr-rath-heart-coil-alpha": {
       "Key": "armor-hr-rath-heart-coil-alpha",
@@ -2597,7 +2597,7 @@ export default {
     },
     "armor-hr-rath-heart-coil-beta": {
       "Key": "armor-hr-rath-heart-coil-beta",
-      "Translation": "ß Rath coração Bobina"
+      "Translation": "Rath coração Bobina ß"
     },
     "armor-hr-rath-heart-greaves-alpha": {
       "Key": "armor-hr-rath-heart-greaves-alpha",
@@ -2605,7 +2605,7 @@ export default {
     },
     "armor-hr-rath-heart-greaves-beta": {
       "Key": "armor-hr-rath-heart-greaves-beta",
-      "Translation": "ß Rath coração Greaves"
+      "Translation": "Rath coração Greaves ß"
     },
     "armor-hr-rath-heart-helm-alpha": {
       "Key": "armor-hr-rath-heart-helm-alpha",
@@ -2613,7 +2613,7 @@ export default {
     },
     "armor-hr-rath-heart-helm-beta": {
       "Key": "armor-hr-rath-heart-helm-beta",
-      "Translation": "ß Rath coração Helm"
+      "Translation": "Rath coração Helm ß"
     },
     "armor-hr-rath-heart-mail-alpha": {
       "Key": "armor-hr-rath-heart-mail-alpha",
@@ -2629,7 +2629,7 @@ export default {
     },
     "armor-hr-rath-soul-beta": {
       "Key": "armor-hr-rath-soul-beta",
-      "Translation": "ß Rath alma"
+      "Translation": "Rath Alma ß"
     },
     "armor-hr-rath-soul-braces-alpha": {
       "Key": "armor-hr-rath-soul-braces-alpha",
@@ -2637,7 +2637,7 @@ export default {
     },
     "armor-hr-rath-soul-braces-beta": {
       "Key": "armor-hr-rath-soul-braces-beta",
-      "Translation": "ß Rath Alma Suspensórios"
+      "Translation": "Rath Alma Suspensórios ß"
     },
     "armor-hr-rath-soul-coil-alpha": {
       "Key": "armor-hr-rath-soul-coil-alpha",
@@ -2645,7 +2645,7 @@ export default {
     },
     "armor-hr-rath-soul-coil-beta": {
       "Key": "armor-hr-rath-soul-coil-beta",
-      "Translation": "ß Rath Alma Bobina"
+      "Translation": "Rath Alma Bobina ß"
     },
     "armor-hr-rath-soul-greaves-alpha": {
       "Key": "armor-hr-rath-soul-greaves-alpha",
@@ -2653,7 +2653,7 @@ export default {
     },
     "armor-hr-rath-soul-greaves-beta": {
       "Key": "armor-hr-rath-soul-greaves-beta",
-      "Translation": "ß Rath Alma Greaves"
+      "Translation": "Rath Alma Greaves ß"
     },
     "armor-hr-rath-soul-helm-alpha": {
       "Key": "armor-hr-rath-soul-helm-alpha",
@@ -2661,7 +2661,7 @@ export default {
     },
     "armor-hr-rath-soul-helm-beta": {
       "Key": "armor-hr-rath-soul-helm-beta",
-      "Translation": "ß Rath Alma Helm"
+      "Translation": "Rath Alma Helm ß"
     },
     "armor-hr-rath-soul-mail-alpha": {
       "Key": "armor-hr-rath-soul-mail-alpha",
@@ -2669,7 +2669,7 @@ export default {
     },
     "armor-hr-rath-soul-mail-beta": {
       "Key": "armor-hr-rath-soul-mail-beta",
-      "Translation": "ß Rath Alma de correio"
+      "Translation": "ß Rath Alma correio"
     },
     "armor-hr-rathalos-alpha": {
       "Key": "armor-hr-rathalos-alpha",
@@ -2677,7 +2677,7 @@ export default {
     },
     "armor-hr-rathalos-beta": {
       "Key": "armor-hr-rathalos-beta",
-      "Translation": "ß Rathalos"
+      "Translation": "Rathalos ß"
     },
     "armor-hr-rathalos-coil-alpha": {
       "Key": "armor-hr-rathalos-coil-alpha",
@@ -2685,7 +2685,7 @@ export default {
     },
     "armor-hr-rathalos-coil-beta": {
       "Key": "armor-hr-rathalos-coil-beta",
-      "Translation": "ß Rathalos Bobina"
+      "Translation": "Rathalos Bobina ß"
     },
     "armor-hr-rathalos-greaves-alpha": {
       "Key": "armor-hr-rathalos-greaves-alpha",
@@ -2693,7 +2693,7 @@ export default {
     },
     "armor-hr-rathalos-greaves-beta": {
       "Key": "armor-hr-rathalos-greaves-beta",
-      "Translation": "ß Rathalos Greaves"
+      "Translation": "Rathalos Greaves ß"
     },
     "armor-hr-rathalos-helm-alpha": {
       "Key": "armor-hr-rathalos-helm-alpha",
@@ -2701,7 +2701,7 @@ export default {
     },
     "armor-hr-rathalos-helm-beta": {
       "Key": "armor-hr-rathalos-helm-beta",
-      "Translation": "ß Rathalos Helm"
+      "Translation": "Rathalos Helm ß"
     },
     "armor-hr-rathalos-mail-alpha": {
       "Key": "armor-hr-rathalos-mail-alpha",
@@ -2717,7 +2717,7 @@ export default {
     },
     "armor-hr-rathalos-vambraces-beta": {
       "Key": "armor-hr-rathalos-vambraces-beta",
-      "Translation": "ß Rathalos vambraces"
+      "Translation": "Rathalos Vambraces ß"
     },
     "armor-hr-rathian-alpha": {
       "Key": "armor-hr-rathian-alpha",
@@ -2733,7 +2733,7 @@ export default {
     },
     "armor-hr-rathian-coil-beta": {
       "Key": "armor-hr-rathian-coil-beta",
-      "Translation": "ß Rathian Bobina"
+      "Translation": "Rathian Bobina ß"
     },
     "armor-hr-rathian-greaves-alpha": {
       "Key": "armor-hr-rathian-greaves-alpha",
@@ -2741,7 +2741,7 @@ export default {
     },
     "armor-hr-rathian-greaves-beta": {
       "Key": "armor-hr-rathian-greaves-beta",
-      "Translation": "ß Rathian Greaves"
+      "Translation": "Rathian Greaves ß"
     },
     "armor-hr-rathian-helm-alpha": {
       "Key": "armor-hr-rathian-helm-alpha",
@@ -2749,7 +2749,7 @@ export default {
     },
     "armor-hr-rathian-helm-beta": {
       "Key": "armor-hr-rathian-helm-beta",
-      "Translation": "ß Helm Rathian"
+      "Translation": "Rathian Helm ß"
     },
     "armor-hr-rathian-mail-alpha": {
       "Key": "armor-hr-rathian-mail-alpha",
@@ -2757,7 +2757,7 @@ export default {
     },
     "armor-hr-rathian-mail-beta": {
       "Key": "armor-hr-rathian-mail-beta",
-      "Translation": "ß correio Rathian"
+      "Translation": "ß Correio Rathian"
     },
     "armor-hr-rathian-vambraces-alpha": {
       "Key": "armor-hr-rathian-vambraces-alpha",
@@ -2765,7 +2765,7 @@ export default {
     },
     "armor-hr-rathian-vambraces-beta": {
       "Key": "armor-hr-rathian-vambraces-beta",
-      "Translation": "ß Rathian vambraces"
+      "Translation": "Rathian Vambraces ß"
     },
     "armor-hr-sealed-eyepatch-alpha": {
       "Key": "armor-hr-sealed-eyepatch-alpha",
@@ -2781,7 +2781,7 @@ export default {
     },
     "armor-hr-shamos-beta": {
       "Key": "armor-hr-shamos-beta",
-      "Translation": "ß Shamos"
+      "Translation": "Shamos ß"
     },
     "armor-hr-shamos-goggles-alpha": {
       "Key": "armor-hr-shamos-goggles-alpha",
@@ -2789,7 +2789,7 @@ export default {
     },
     "armor-hr-shamos-goggles-beta": {
       "Key": "armor-hr-shamos-goggles-beta",
-      "Translation": "ß Shamos Óculos"
+      "Translation": "Shamos Goggles ß"
     },
     "armor-hr-skull-alpha": {
       "Key": "armor-hr-skull-alpha",
@@ -2797,7 +2797,7 @@ export default {
     },
     "armor-hr-skull-mask-alpha": {
       "Key": "armor-hr-skull-mask-alpha",
-      "Translation": "Crânio Máscara ⍺"
+      "Translation": "Máscara de caveira ⍺"
     },
     "armor-hr-strategist-alpha": {
       "Key": "armor-hr-strategist-alpha",
@@ -2813,11 +2813,11 @@ export default {
     },
     "armor-hr-teostra-beta": {
       "Key": "armor-hr-teostra-beta",
-      "Translation": "ß Teostra"
+      "Translation": "Teostra ß"
     },
     "armor-hr-teostra-gamma": {
       "Key": "armor-hr-teostra-gamma",
-      "Translation": "γ Teostra"
+      "Translation": "Teostra γ"
     },
     "armor-hr-tzitzi-alpha": {
       "Key": "armor-hr-tzitzi-alpha",
@@ -2825,7 +2825,7 @@ export default {
     },
     "armor-hr-tzitzi-beta": {
       "Key": "armor-hr-tzitzi-beta",
-      "Translation": "ß Tzitzi"
+      "Translation": "Tzitzi ß"
     },
     "armor-hr-tzitzi-coil-alpha": {
       "Key": "armor-hr-tzitzi-coil-alpha",
@@ -2833,7 +2833,7 @@ export default {
     },
     "armor-hr-tzitzi-coil-beta": {
       "Key": "armor-hr-tzitzi-coil-beta",
-      "Translation": "ß Tzitzi Bobina"
+      "Translation": "Tzitzi Bobina ß"
     },
     "armor-hr-tzitzi-greaves-alpha": {
       "Key": "armor-hr-tzitzi-greaves-alpha",
@@ -2841,7 +2841,7 @@ export default {
     },
     "armor-hr-tzitzi-greaves-beta": {
       "Key": "armor-hr-tzitzi-greaves-beta",
-      "Translation": "ß Tzitzi Greaves"
+      "Translation": "Tzitzi Greaves ß"
     },
     "armor-hr-tzitzi-headgear-alpha": {
       "Key": "armor-hr-tzitzi-headgear-alpha",
@@ -2849,7 +2849,7 @@ export default {
     },
     "armor-hr-tzitzi-headgear-beta": {
       "Key": "armor-hr-tzitzi-headgear-beta",
-      "Translation": "ß Tzitzi Chapelaria"
+      "Translation": "Tzitzi Chapelaria ß"
     },
     "armor-hr-tzitzi-mail-alpha": {
       "Key": "armor-hr-tzitzi-mail-alpha",
@@ -2865,7 +2865,7 @@ export default {
     },
     "armor-hr-tzitzi-vambraces-beta": {
       "Key": "armor-hr-tzitzi-vambraces-beta",
-      "Translation": "ß Tzitzi vambraces"
+      "Translation": "Tzitzi Vambraces ß"
     },
     "armor-hr-uragaan-alpha": {
       "Key": "armor-hr-uragaan-alpha",
@@ -2881,15 +2881,15 @@ export default {
     },
     "armor-hr-uragaan-coil-beta": {
       "Key": "armor-hr-uragaan-coil-beta",
-      "Translation": "ß Uragaan Bobina"
+      "Translation": "Uragaan Bobina ß"
     },
     "armor-hr-uragaan-greaves-alpha": {
       "Key": "armor-hr-uragaan-greaves-alpha",
-      "Translation": "Uragaan Greaves ⍺"
+      "Translation": "Greaves Uragaan ⍺"
     },
     "armor-hr-uragaan-greaves-beta": {
       "Key": "armor-hr-uragaan-greaves-beta",
-      "Translation": "ß Uragaan Greaves"
+      "Translation": "Uragaan Greaves ß"
     },
     "armor-hr-uragaan-helm-alpha": {
       "Key": "armor-hr-uragaan-helm-alpha",
@@ -2897,11 +2897,11 @@ export default {
     },
     "armor-hr-uragaan-helm-beta": {
       "Key": "armor-hr-uragaan-helm-beta",
-      "Translation": "ß Uragaan Helm"
+      "Translation": "Uragaan Helm ß"
     },
     "armor-hr-uragaan-mail-alpha": {
       "Key": "armor-hr-uragaan-mail-alpha",
-      "Translation": "Uragaan Correio ⍺"
+      "Translation": "Correio Uragaan ⍺"
     },
     "armor-hr-uragaan-mail-beta": {
       "Key": "armor-hr-uragaan-mail-beta",
@@ -2913,7 +2913,7 @@ export default {
     },
     "armor-hr-uragaan-vambraces-beta": {
       "Key": "armor-hr-uragaan-vambraces-beta",
-      "Translation": "ß Uragaan vambraces"
+      "Translation": "Uragaan Vambraces ß"
     },
     "armor-hr-vaal-hazak-alpha": {
       "Key": "armor-hr-vaal-hazak-alpha",
@@ -2921,7 +2921,7 @@ export default {
     },
     "armor-hr-vaal-hazak-beta": {
       "Key": "armor-hr-vaal-hazak-beta",
-      "Translation": "ß Vaal házak"
+      "Translation": "Vaal házak ß"
     },
     "armor-hr-vaal-hazak-braces-alpha": {
       "Key": "armor-hr-vaal-hazak-braces-alpha",
@@ -2929,11 +2929,11 @@ export default {
     },
     "armor-hr-vaal-hazak-braces-beta": {
       "Key": "armor-hr-vaal-hazak-braces-beta",
-      "Translation": "ß Vaal házak Suspensórios"
+      "Translation": "Vaal házak Suspensórios ß"
     },
     "armor-hr-vaal-hazak-braces-gamma": {
       "Key": "armor-hr-vaal-hazak-braces-gamma",
-      "Translation": "γ Vaal házak Suspensórios"
+      "Translation": "Vaal házak Suspensórios γ"
     },
     "armor-hr-vaal-hazak-coil-alpha": {
       "Key": "armor-hr-vaal-hazak-coil-alpha",
@@ -2941,15 +2941,15 @@ export default {
     },
     "armor-hr-vaal-hazak-coil-beta": {
       "Key": "armor-hr-vaal-hazak-coil-beta",
-      "Translation": "ß Vaal házak Bobina"
+      "Translation": "Vaal házak Bobina ß"
     },
     "armor-hr-vaal-hazak-coil-gamma": {
       "Key": "armor-hr-vaal-hazak-coil-gamma",
-      "Translation": "γ Vaal házak Bobina"
+      "Translation": "Vaal házak Bobina γ"
     },
     "armor-hr-vaal-hazak-gamma": {
       "Key": "armor-hr-vaal-hazak-gamma",
-      "Translation": "γ Vaal házak"
+      "Translation": "Vaal házak γ"
     },
     "armor-hr-vaal-hazak-greaves-alpha": {
       "Key": "armor-hr-vaal-hazak-greaves-alpha",
@@ -2957,11 +2957,11 @@ export default {
     },
     "armor-hr-vaal-hazak-greaves-beta": {
       "Key": "armor-hr-vaal-hazak-greaves-beta",
-      "Translation": "ß Vaal házak Greaves"
+      "Translation": "Vaal házak Greaves ß"
     },
     "armor-hr-vaal-hazak-greaves-gamma": {
       "Key": "armor-hr-vaal-hazak-greaves-gamma",
-      "Translation": "γ Vaal házak Greaves"
+      "Translation": "Vaal házak Greaves γ"
     },
     "armor-hr-vaal-hazak-helm-alpha": {
       "Key": "armor-hr-vaal-hazak-helm-alpha",
@@ -2969,11 +2969,11 @@ export default {
     },
     "armor-hr-vaal-hazak-helm-beta": {
       "Key": "armor-hr-vaal-hazak-helm-beta",
-      "Translation": "ß Vaal házak Helm"
+      "Translation": "Vaal házak Helm ß"
     },
     "armor-hr-vaal-hazak-helm-gamma": {
       "Key": "armor-hr-vaal-hazak-helm-gamma",
-      "Translation": "γ Vaal házak Helm"
+      "Translation": "Vaal házak Helm γ"
     },
     "armor-hr-vaal-hazak-mail-alpha": {
       "Key": "armor-hr-vaal-hazak-mail-alpha",
@@ -2993,7 +2993,7 @@ export default {
     },
     "armor-hr-vangis-coil-beta": {
       "Key": "armor-hr-vangis-coil-beta",
-      "Translation": "ß vangis Bobina"
+      "Translation": "Vangis Bobina ß"
     },
     "armor-hr-vangis-greaves-alpha": {
       "Key": "armor-hr-vangis-greaves-alpha",
@@ -3001,7 +3001,7 @@ export default {
     },
     "armor-hr-vangis-greaves-beta": {
       "Key": "armor-hr-vangis-greaves-beta",
-      "Translation": "ß vangis Greaves"
+      "Translation": "Vangis Greaves ß"
     },
     "armor-hr-vangis-helm-alpha": {
       "Key": "armor-hr-vangis-helm-alpha",
@@ -3009,7 +3009,7 @@ export default {
     },
     "armor-hr-vangis-helm-beta": {
       "Key": "armor-hr-vangis-helm-beta",
-      "Translation": "ß vangis Helm"
+      "Translation": "Vangis Helm ß"
     },
     "armor-hr-vangis-mail-alpha": {
       "Key": "armor-hr-vangis-mail-alpha",
@@ -3025,7 +3025,7 @@ export default {
     },
     "armor-hr-vangis-vambraces-beta": {
       "Key": "armor-hr-vangis-vambraces-beta",
-      "Translation": "ß vangis vambraces"
+      "Translation": "Vangis Vambraces ß"
     },
     "armor-hr-vespoid-alpha": {
       "Key": "armor-hr-vespoid-alpha",
@@ -3033,7 +3033,7 @@ export default {
     },
     "armor-hr-vespoid-beta": {
       "Key": "armor-hr-vespoid-beta",
-      "Translation": "ß Vespoid"
+      "Translation": "Vespoid ß"
     },
     "armor-hr-vespoid-coil-alpha": {
       "Key": "armor-hr-vespoid-coil-alpha",
@@ -3041,7 +3041,7 @@ export default {
     },
     "armor-hr-vespoid-coil-beta": {
       "Key": "armor-hr-vespoid-coil-beta",
-      "Translation": "ß Vespoid Bobina"
+      "Translation": "Vespoid Bobina ß"
     },
     "armor-hr-vespoid-greaves-alpha": {
       "Key": "armor-hr-vespoid-greaves-alpha",
@@ -3049,7 +3049,7 @@ export default {
     },
     "armor-hr-vespoid-greaves-beta": {
       "Key": "armor-hr-vespoid-greaves-beta",
-      "Translation": "ß Vespoid Greaves"
+      "Translation": "Vespoid Greaves ß"
     },
     "armor-hr-vespoid-helm-alpha": {
       "Key": "armor-hr-vespoid-helm-alpha",
@@ -3057,7 +3057,7 @@ export default {
     },
     "armor-hr-vespoid-helm-beta": {
       "Key": "armor-hr-vespoid-helm-beta",
-      "Translation": "ß Vespoid Helm"
+      "Translation": "Vespoid Helm ß"
     },
     "armor-hr-vespoid-mail-alpha": {
       "Key": "armor-hr-vespoid-mail-alpha",
@@ -3073,7 +3073,7 @@ export default {
     },
     "armor-hr-vespoid-vambraces-beta": {
       "Key": "armor-hr-vespoid-vambraces-beta",
-      "Translation": "ß Vespoid vambraces"
+      "Translation": "Vespoid Vambraces ß"
     },
     "armor-hr-wiggler-head-alpha": {
       "Key": "armor-hr-wiggler-head-alpha",
@@ -3093,11 +3093,11 @@ export default {
     },
     "armor-hr-xenojiiva-claws-beta": {
       "Key": "armor-hr-xenojiiva-claws-beta",
-      "Translation": "ß Xeno'jiiva Garras"
+      "Translation": "Xeno'jiiva Garras ß"
     },
     "armor-hr-xenojiiva-claws-gamma": {
       "Key": "armor-hr-xenojiiva-claws-gamma",
-      "Translation": "γ Xeno'jiiva Garras"
+      "Translation": "Xeno'jiiva Garras γ"
     },
     "armor-hr-xenojiiva-gamma": {
       "Key": "armor-hr-xenojiiva-gamma",
@@ -3109,11 +3109,11 @@ export default {
     },
     "armor-hr-xenojiiva-headgear-beta": {
       "Key": "armor-hr-xenojiiva-headgear-beta",
-      "Translation": "ß Xeno'jiiva Chapelaria"
+      "Translation": "Xeno'jiiva Chapelaria ß"
     },
     "armor-hr-xenojiiva-headgear-gamma": {
       "Key": "armor-hr-xenojiiva-headgear-gamma",
-      "Translation": "γ Xeno'jiiva Chapelaria"
+      "Translation": "Xeno'jiiva Chapelaria γ"
     },
     "armor-hr-xenojiiva-hide-alpha": {
       "Key": "armor-hr-xenojiiva-hide-alpha",
@@ -3121,11 +3121,11 @@ export default {
     },
     "armor-hr-xenojiiva-hide-beta": {
       "Key": "armor-hr-xenojiiva-hide-beta",
-      "Translation": "Xeno'jiiva Esconder ß"
+      "Translation": "Xeno'jiiva Ocultar ß"
     },
     "armor-hr-xenojiiva-hide-gamma": {
       "Key": "armor-hr-xenojiiva-hide-gamma",
-      "Translation": "Xeno'jiiva Esconder γ"
+      "Translation": "Xeno'jiiva Ocultar γ"
     },
     "armor-hr-xenojiiva-spine-alpha": {
       "Key": "armor-hr-xenojiiva-spine-alpha",
@@ -3133,11 +3133,11 @@ export default {
     },
     "armor-hr-xenojiiva-spine-beta": {
       "Key": "armor-hr-xenojiiva-spine-beta",
-      "Translation": "ß Spine Xeno'jiiva"
+      "Translation": "Xeno'jiiva Spine ß"
     },
     "armor-hr-xenojiiva-spine-gamma": {
       "Key": "armor-hr-xenojiiva-spine-gamma",
-      "Translation": "γ Spine Xeno'jiiva"
+      "Translation": "Xeno'jiiva Spine γ"
     },
     "armor-hr-xenojiiva-spurs-alpha": {
       "Key": "armor-hr-xenojiiva-spurs-alpha",
@@ -3145,11 +3145,11 @@ export default {
     },
     "armor-hr-xenojiiva-spurs-beta": {
       "Key": "armor-hr-xenojiiva-spurs-beta",
-      "Translation": "ß Xeno'jiiva Spurs"
+      "Translation": "Xeno'jiiva Spurs ß"
     },
     "armor-hr-xenojiiva-spurs-gamma": {
       "Key": "armor-hr-xenojiiva-spurs-gamma",
-      "Translation": "γ Xeno'jiiva Spurs"
+      "Translation": "Xeno'jiiva Spurs γ"
     },
     "armor-hr-zorah-alpha": {
       "Key": "armor-hr-zorah-alpha",
@@ -3157,7 +3157,7 @@ export default {
     },
     "armor-hr-zorah-beta": {
       "Key": "armor-hr-zorah-beta",
-      "Translation": "ß zorah"
+      "Translation": "Zorá ß"
     },
     "armor-hr-zorah-claws-alpha": {
       "Key": "armor-hr-zorah-claws-alpha",
@@ -3165,15 +3165,15 @@ export default {
     },
     "armor-hr-zorah-claws-beta": {
       "Key": "armor-hr-zorah-claws-beta",
-      "Translation": "ß Zorá Garras"
+      "Translation": "Zorá Garras ß"
     },
     "armor-hr-zorah-claws-gamma": {
       "Key": "armor-hr-zorah-claws-gamma",
-      "Translation": "γ Zorá Garras"
+      "Translation": "Zorá Garras γ"
     },
     "armor-hr-zorah-gamma": {
       "Key": "armor-hr-zorah-gamma",
-      "Translation": "γ zorah"
+      "Translation": "Zorá γ"
     },
     "armor-hr-zorah-headgear-alpha": {
       "Key": "armor-hr-zorah-headgear-alpha",
@@ -3181,11 +3181,11 @@ export default {
     },
     "armor-hr-zorah-headgear-beta": {
       "Key": "armor-hr-zorah-headgear-beta",
-      "Translation": "ß Zorá Chapelaria"
+      "Translation": "Zorá Chapelaria ß"
     },
     "armor-hr-zorah-headgear-gamma": {
       "Key": "armor-hr-zorah-headgear-gamma",
-      "Translation": "γ Zorá Chapelaria"
+      "Translation": "Zorá Chapelaria γ"
     },
     "armor-hr-zorah-hide-alpha": {
       "Key": "armor-hr-zorah-hide-alpha",
@@ -3193,11 +3193,11 @@ export default {
     },
     "armor-hr-zorah-hide-beta": {
       "Key": "armor-hr-zorah-hide-beta",
-      "Translation": "Zorah Esconder ß"
+      "Translation": "Zorá Ocultar ß"
     },
     "armor-hr-zorah-hide-gamma": {
       "Key": "armor-hr-zorah-hide-gamma",
-      "Translation": "Zorah Esconder γ"
+      "Translation": "Zorá Ocultar γ"
     },
     "armor-hr-zorah-spine-alpha": {
       "Key": "armor-hr-zorah-spine-alpha",
@@ -3205,11 +3205,11 @@ export default {
     },
     "armor-hr-zorah-spine-beta": {
       "Key": "armor-hr-zorah-spine-beta",
-      "Translation": "ß Spine zorah"
+      "Translation": "Zorá Spine ß"
     },
     "armor-hr-zorah-spine-gamma": {
       "Key": "armor-hr-zorah-spine-gamma",
-      "Translation": "γ Spine zorah"
+      "Translation": "Zorá Spine γ"
     },
     "armor-hr-zorah-spurs-alpha": {
       "Key": "armor-hr-zorah-spurs-alpha",
@@ -3217,11 +3217,11 @@ export default {
     },
     "armor-hr-zorah-spurs-beta": {
       "Key": "armor-hr-zorah-spurs-beta",
-      "Translation": "ß Zorá Spurs"
+      "Translation": "Zorá Spurs ß"
     },
     "armor-hr-zorah-spurs-gamma": {
       "Key": "armor-hr-zorah-spurs-gamma",
-      "Translation": "γ Zorá Spurs"
+      "Translation": "Zorá Spurs γ"
     },
     "armor-hunters-coil-description": {
       "Key": "armor-hunters-coil-description",
@@ -3249,7 +3249,7 @@ export default {
     },
     "armor-jagras-description": {
       "Key": "armor-jagras-description",
-      "Translation": "escala Grande Jagras diligentemente polido se casa com aço na bela harmonia nessa armadura."
+      "Translation": "Diligentemente polido Grande Jagras aço casar escala em bela harmonia nessa armadura."
     },
     "armor-jyura-description": {
       "Key": "armor-jyura-description",
@@ -3277,11 +3277,11 @@ export default {
     },
     "armor-kulu-ya-ku-head-description": {
       "Key": "armor-kulu-ya-ku-head-description",
-      "Translation": "armor cabeça formado após um Kulu-Ya-Ku. Don isso, e você pode ter um desejo ardente de alguns ovos ..."
+      "Translation": "armor cabeça formado após um Kulu-Ya-Ku. Don este, e você pode ter um desejo ardente de alguns ovos ..."
     },
     "armor-kulve-taroth-description": {
       "Key": "armor-kulve-taroth-description",
-      "Translation": "Kulve Taroth armadura que brilha com uma luz rica. A raiva terrível da deusa-mãe se encontra dentro."
+      "Translation": "Kulve Taroth armadura que brilha com uma luz rica. A raiva aterrorizante das mentiras mãe deusa dentro."
     },
     "armor-kushala-description": {
       "Key": "armor-kushala-description",
@@ -3349,7 +3349,7 @@ export default {
     },
     "armor-lr-anja-vambraces": {
       "Key": "armor-lr-anja-vambraces",
-      "Translation": "Anja Vambraces"
+      "Translation": "anja Vambraces"
     },
     "armor-lr-baan": {
       "Key": "armor-lr-baan",
@@ -3405,7 +3405,7 @@ export default {
     },
     "armor-lr-blossom-boots": {
       "Key": "armor-lr-blossom-boots",
-      "Translation": "Botas flor"
+      "Translation": "Blossom Botas"
     },
     "armor-lr-blossom-coat": {
       "Key": "armor-lr-blossom-coat",
@@ -3453,7 +3453,7 @@ export default {
     },
     "armor-lr-brigade-boots": {
       "Key": "armor-lr-brigade-boots",
-      "Translation": "Botas Brigada"
+      "Translation": "Brigada Botas"
     },
     "armor-lr-brigade-coil": {
       "Key": "armor-lr-brigade-coil",
@@ -3465,7 +3465,7 @@ export default {
     },
     "armor-lr-brigade-suit": {
       "Key": "armor-lr-brigade-suit",
-      "Translation": "terno Brigade"
+      "Translation": "Brigada Suit"
     },
     "armor-lr-brigade-vambraces": {
       "Key": "armor-lr-brigade-vambraces",
@@ -3513,7 +3513,7 @@ export default {
     },
     "armor-lr-chainmail-trousers": {
       "Key": "armor-lr-chainmail-trousers",
-      "Translation": "Calças Chainmail"
+      "Translation": "Chainmail Calças"
     },
     "armor-lr-chainmail-vest": {
       "Key": "armor-lr-chainmail-vest",
@@ -3521,7 +3521,7 @@ export default {
     },
     "armor-lr-death-stench": {
       "Key": "armor-lr-death-stench",
-      "Translation": "Stench morte"
+      "Translation": "morte Stench"
     },
     "armor-lr-death-stench-bowels": {
       "Key": "armor-lr-death-stench-bowels",
@@ -3533,15 +3533,15 @@ export default {
     },
     "armor-lr-death-stench-grip": {
       "Key": "armor-lr-death-stench-grip",
-      "Translation": "Morte aperto Stench"
+      "Translation": "Morte Stench aperto"
     },
     "armor-lr-death-stench-heel": {
       "Key": "armor-lr-death-stench-heel",
-      "Translation": "Morte Heel Stench"
+      "Translation": "Morte Stench Heel"
     },
     "armor-lr-death-stench-muscle": {
       "Key": "armor-lr-death-stench-muscle",
-      "Translation": "Muscle Stench morte"
+      "Translation": "Morte Stench Muscle"
     },
     "armor-lr-diablos": {
       "Key": "armor-lr-diablos",
@@ -3605,23 +3605,23 @@ export default {
     },
     "armor-lr-gala-suit-cuffs": {
       "Key": "armor-lr-gala-suit-cuffs",
-      "Translation": "Punhos terno Gala"
+      "Translation": "Punhos terno de gala"
     },
     "armor-lr-gala-suit-jacket": {
       "Key": "armor-lr-gala-suit-jacket",
-      "Translation": "Paletó Gala"
+      "Translation": "Gala paletó"
     },
     "armor-lr-gala-suit-slacks": {
       "Key": "armor-lr-gala-suit-slacks",
-      "Translation": "Slacks Terno Gala"
+      "Translation": "Slacks Terno de Gala"
     },
     "armor-lr-gala-suit-tail": {
       "Key": "armor-lr-gala-suit-tail",
-      "Translation": "Cauda Suit Gala"
+      "Translation": "Gala cauda Suit"
     },
     "armor-lr-gala-suit-top-hat": {
       "Key": "armor-lr-gala-suit-top-hat",
-      "Translation": "Terno Gala Top Hat"
+      "Translation": "Gala Suit Top Hat"
     },
     "armor-lr-girros": {
       "Key": "armor-lr-girros",
@@ -3677,7 +3677,7 @@ export default {
     },
     "armor-lr-high-metal-braces": {
       "Key": "armor-lr-high-metal-braces",
-      "Translation": "Suspensórios metal de alta"
+      "Translation": "Alta hastes metálicas"
     },
     "armor-lr-high-metal-coil": {
       "Key": "armor-lr-high-metal-coil",
@@ -3689,7 +3689,7 @@ export default {
     },
     "armor-lr-high-metal-helm": {
       "Key": "armor-lr-high-metal-helm",
-      "Translation": "Helm alta do metal"
+      "Translation": "Alta Helm metal"
     },
     "armor-lr-high-metal-mail": {
       "Key": "armor-lr-high-metal-mail",
@@ -3741,7 +3741,7 @@ export default {
     },
     "armor-lr-hunters-vambraces": {
       "Key": "armor-lr-hunters-vambraces",
-      "Translation": "Vambraces de Hunter"
+      "Translation": "Vambraces do caçador"
     },
     "armor-lr-ingot": {
       "Key": "armor-lr-ingot",
@@ -3881,7 +3881,7 @@ export default {
     },
     "armor-lr-kirin-horn": {
       "Key": "armor-lr-kirin-horn",
-      "Translation": "Kirin chifre"
+      "Translation": "Kirin Corno"
     },
     "armor-lr-kirin-jacket": {
       "Key": "armor-lr-kirin-jacket",
@@ -3933,7 +3933,7 @@ export default {
     },
     "armor-lr-leather-headgear": {
       "Key": "armor-lr-leather-headgear",
-      "Translation": "Cabeça de couro"
+      "Translation": "couro Chapelaria"
     },
     "armor-lr-leather-mail": {
       "Key": "armor-lr-leather-mail",
@@ -4021,7 +4021,7 @@ export default {
     },
     "armor-lr-orion-boots": {
       "Key": "armor-lr-orion-boots",
-      "Translation": "Botas Orion"
+      "Translation": "Orion Botas"
     },
     "armor-lr-orion-cap": {
       "Key": "armor-lr-orion-cap",
@@ -4065,7 +4065,7 @@ export default {
     },
     "armor-lr-pulverizing-feather": {
       "Key": "armor-lr-pulverizing-feather",
-      "Translation": "pulverizando Feather"
+      "Translation": "pulverização Feather"
     },
     "armor-lr-queen-beetle": {
       "Key": "armor-lr-queen-beetle",
@@ -4129,7 +4129,7 @@ export default {
     },
     "armor-lr-rathian-helm": {
       "Key": "armor-lr-rathian-helm",
-      "Translation": "Helm Rathian"
+      "Translation": "Rathian Helm"
     },
     "armor-lr-rathian-mail": {
       "Key": "armor-lr-rathian-mail",
@@ -4197,7 +4197,7 @@ export default {
     },
     "armor-lumu-description": {
       "Key": "armor-lumu-description",
-      "Translation": "Esta armadura Paolumu oferece, um ajuste sob medida perfeito para qualquer forma do corpo, nem sequer se sentir como você está vestindo armadura."
+      "Translation": "Este Paolumu ofertas armadura um perfeito, anunciou ajustar a qualquer forma do corpo, nem sequer se sentir como você está vestindo armadura."
     },
     "armor-mosswine-mask-description": {
       "Key": "armor-mosswine-mask-description",
@@ -4209,7 +4209,7 @@ export default {
     },
     "armor-mr-acidic-glavenus-beta-plus": {
       "Key": "armor-mr-acidic-glavenus-beta-plus",
-      "Translation": "ß ácidas Glavenus +"
+      "Translation": "Ácida Glavenus ß +"
     },
     "armor-mr-acidic-glavenus-braces-alpha-plus": {
       "Key": "armor-mr-acidic-glavenus-braces-alpha-plus",
@@ -4217,7 +4217,7 @@ export default {
     },
     "armor-mr-acidic-glavenus-braces-beta-plus": {
       "Key": "armor-mr-acidic-glavenus-braces-beta-plus",
-      "Translation": "ß ácida Glavenus Suspensórios +"
+      "Translation": "Ácida Glavenus Suspensórios ß +"
     },
     "armor-mr-acidic-glavenus-coil-alpha-plus": {
       "Key": "armor-mr-acidic-glavenus-coil-alpha-plus",
@@ -4225,7 +4225,7 @@ export default {
     },
     "armor-mr-acidic-glavenus-coil-beta-plus": {
       "Key": "armor-mr-acidic-glavenus-coil-beta-plus",
-      "Translation": "ß ácida Glavenus bobina +"
+      "Translation": "Ácida Glavenus Bobina ß +"
     },
     "armor-mr-acidic-glavenus-greaves-alpha-plus": {
       "Key": "armor-mr-acidic-glavenus-greaves-alpha-plus",
@@ -4233,7 +4233,7 @@ export default {
     },
     "armor-mr-acidic-glavenus-greaves-beta-plus": {
       "Key": "armor-mr-acidic-glavenus-greaves-beta-plus",
-      "Translation": "ß ácida Glavenus Greaves +"
+      "Translation": "Ácida Glavenus Greaves ß +"
     },
     "armor-mr-acidic-glavenus-helm-alpha-plus": {
       "Key": "armor-mr-acidic-glavenus-helm-alpha-plus",
@@ -4241,7 +4241,7 @@ export default {
     },
     "armor-mr-acidic-glavenus-helm-beta-plus": {
       "Key": "armor-mr-acidic-glavenus-helm-beta-plus",
-      "Translation": "ß ácida Glavenus Helm +"
+      "Translation": "Ácida Glavenus Helm ß +"
     },
     "armor-mr-acidic-glavenus-mail-alpha-plus": {
       "Key": "armor-mr-acidic-glavenus-mail-alpha-plus",
@@ -4249,7 +4249,7 @@ export default {
     },
     "armor-mr-acidic-glavenus-mail-beta-plus": {
       "Key": "armor-mr-acidic-glavenus-mail-beta-plus",
-      "Translation": "ß ácida Glavenus e-mail +"
+      "Translation": "Ácida Glavenus Correio ß +"
     },
     "armor-mr-alloy-alpha-plus": {
       "Key": "armor-mr-alloy-alpha-plus",
@@ -4257,7 +4257,7 @@ export default {
     },
     "armor-mr-alloy-beta-plus": {
       "Key": "armor-mr-alloy-beta-plus",
-      "Translation": "ß liga +"
+      "Translation": "Alloy ß +"
     },
     "armor-mr-alloy-coil-alpha-plus": {
       "Key": "armor-mr-alloy-coil-alpha-plus",
@@ -4265,7 +4265,7 @@ export default {
     },
     "armor-mr-alloy-coil-beta-plus": {
       "Key": "armor-mr-alloy-coil-beta-plus",
-      "Translation": "ß liga bobina +"
+      "Translation": "Alloy Bobina ß +"
     },
     "armor-mr-alloy-greaves-alpha-plus": {
       "Key": "armor-mr-alloy-greaves-alpha-plus",
@@ -4273,7 +4273,7 @@ export default {
     },
     "armor-mr-alloy-greaves-beta-plus": {
       "Key": "armor-mr-alloy-greaves-beta-plus",
-      "Translation": "ß liga Greaves +"
+      "Translation": "Alloy Greaves ß +"
     },
     "armor-mr-alloy-helm-alpha-plus": {
       "Key": "armor-mr-alloy-helm-alpha-plus",
@@ -4281,7 +4281,7 @@ export default {
     },
     "armor-mr-alloy-helm-beta-plus": {
       "Key": "armor-mr-alloy-helm-beta-plus",
-      "Translation": "ß liga Helm +"
+      "Translation": "Alloy Helm ß +"
     },
     "armor-mr-alloy-mail-alpha-plus": {
       "Key": "armor-mr-alloy-mail-alpha-plus",
@@ -4297,7 +4297,7 @@ export default {
     },
     "armor-mr-anja-beta-plus": {
       "Key": "armor-mr-anja-beta-plus",
-      "Translation": "ß anja +"
+      "Translation": "Anja ß +"
     },
     "armor-mr-anja-coil-alpha-plus": {
       "Key": "armor-mr-anja-coil-alpha-plus",
@@ -4305,7 +4305,7 @@ export default {
     },
     "armor-mr-anja-coil-beta-plus": {
       "Key": "armor-mr-anja-coil-beta-plus",
-      "Translation": "ß Anja bobina +"
+      "Translation": "Anja Bobina ß +"
     },
     "armor-mr-anja-greaves-alpha-plus": {
       "Key": "armor-mr-anja-greaves-alpha-plus",
@@ -4313,7 +4313,7 @@ export default {
     },
     "armor-mr-anja-greaves-beta-plus": {
       "Key": "armor-mr-anja-greaves-beta-plus",
-      "Translation": "ß Anja Greaves +"
+      "Translation": "Anja Greaves ß +"
     },
     "armor-mr-anja-helm-alpha-plus": {
       "Key": "armor-mr-anja-helm-alpha-plus",
@@ -4321,7 +4321,7 @@ export default {
     },
     "armor-mr-anja-helm-beta-plus": {
       "Key": "armor-mr-anja-helm-beta-plus",
-      "Translation": "ß Anja Helm +"
+      "Translation": "Anja Helm ß +"
     },
     "armor-mr-anja-mail-alpha-plus": {
       "Key": "armor-mr-anja-mail-alpha-plus",
@@ -4329,7 +4329,7 @@ export default {
     },
     "armor-mr-anja-mail-beta-plus": {
       "Key": "armor-mr-anja-mail-beta-plus",
-      "Translation": "ß Anja e-mail +"
+      "Translation": "Anja Correio ß +"
     },
     "armor-mr-anja-vambraces-alpha-plus": {
       "Key": "armor-mr-anja-vambraces-alpha-plus",
@@ -4337,7 +4337,7 @@ export default {
     },
     "armor-mr-anja-vambraces-beta-plus": {
       "Key": "armor-mr-anja-vambraces-beta-plus",
-      "Translation": "ß Anja vambraces +"
+      "Translation": "Anja Vambraces ß +"
     },
     "armor-mr-artian-alpha-plus": {
       "Key": "armor-mr-artian-alpha-plus",
@@ -4345,7 +4345,7 @@ export default {
     },
     "armor-mr-artian-beta-plus": {
       "Key": "armor-mr-artian-beta-plus",
-      "Translation": "ß Artian +"
+      "Translation": "Artian ß +"
     },
     "armor-mr-artian-coil-alpha-plus": {
       "Key": "armor-mr-artian-coil-alpha-plus",
@@ -4353,11 +4353,11 @@ export default {
     },
     "armor-mr-artian-coil-beta-plus": {
       "Key": "armor-mr-artian-coil-beta-plus",
-      "Translation": "ß Artian bobina +"
+      "Translation": "Artian Bobina ß +"
     },
     "armor-mr-artian-greaves-alpha-plus": {
       "Key": "armor-mr-artian-greaves-alpha-plus",
-      "Translation": "Greaves Artian ⍺ +"
+      "Translation": "Artian Greaves ⍺ +"
     },
     "armor-mr-artian-greaves-beta-plus": {
       "Key": "armor-mr-artian-greaves-beta-plus",
@@ -4365,11 +4365,11 @@ export default {
     },
     "armor-mr-artian-helm-alpha-plus": {
       "Key": "armor-mr-artian-helm-alpha-plus",
-      "Translation": "Helm Artian ⍺ +"
+      "Translation": "Artian Helm ⍺ +"
     },
     "armor-mr-artian-helm-beta-plus": {
       "Key": "armor-mr-artian-helm-beta-plus",
-      "Translation": "ß Artian Helm +"
+      "Translation": "Artian Helm ß +"
     },
     "armor-mr-artian-mail-alpha-plus": {
       "Key": "armor-mr-artian-mail-alpha-plus",
@@ -4377,7 +4377,7 @@ export default {
     },
     "armor-mr-artian-mail-beta-plus": {
       "Key": "armor-mr-artian-mail-beta-plus",
-      "Translation": "ß correio Artian +"
+      "Translation": "Correio Artian ß +"
     },
     "armor-mr-artian-vambraces-alpha-plus": {
       "Key": "armor-mr-artian-vambraces-alpha-plus",
@@ -4389,7 +4389,7 @@ export default {
     },
     "armor-mr-baan-beta-plus": {
       "Key": "armor-mr-baan-beta-plus",
-      "Translation": "ß Baan +"
+      "Translation": "Baan SS +"
     },
     "armor-mr-baan-coil-alpha-plus": {
       "Key": "armor-mr-baan-coil-alpha-plus",
@@ -4397,7 +4397,7 @@ export default {
     },
     "armor-mr-baan-coil-beta-plus": {
       "Key": "armor-mr-baan-coil-beta-plus",
-      "Translation": "ß Baan bobina +"
+      "Translation": "Baan Bobina ß +"
     },
     "armor-mr-baan-greaves-alpha-plus": {
       "Key": "armor-mr-baan-greaves-alpha-plus",
@@ -4405,7 +4405,7 @@ export default {
     },
     "armor-mr-baan-greaves-beta-plus": {
       "Key": "armor-mr-baan-greaves-beta-plus",
-      "Translation": "ß Baan Greaves +"
+      "Translation": "Baan Greaves ß +"
     },
     "armor-mr-baan-helm-alpha-plus": {
       "Key": "armor-mr-baan-helm-alpha-plus",
@@ -4413,7 +4413,7 @@ export default {
     },
     "armor-mr-baan-helm-beta-plus": {
       "Key": "armor-mr-baan-helm-beta-plus",
-      "Translation": "ß Baan Helm +"
+      "Translation": "Baan Helm ß +"
     },
     "armor-mr-baan-mail-alpha-plus": {
       "Key": "armor-mr-baan-mail-alpha-plus",
@@ -4421,7 +4421,7 @@ export default {
     },
     "armor-mr-baan-mail-beta-plus": {
       "Key": "armor-mr-baan-mail-beta-plus",
-      "Translation": "ß Baan e-mail +"
+      "Translation": "Baan Correio ß +"
     },
     "armor-mr-baan-vambraces-alpha-plus": {
       "Key": "armor-mr-baan-vambraces-alpha-plus",
@@ -4429,7 +4429,7 @@ export default {
     },
     "armor-mr-baan-vambraces-beta-plus": {
       "Key": "armor-mr-baan-vambraces-beta-plus",
-      "Translation": "ß Baan vambraces +"
+      "Translation": "Baan Vambraces ß +"
     },
     "armor-mr-banbaro-alpha-plus": {
       "Key": "armor-mr-banbaro-alpha-plus",
@@ -4437,7 +4437,7 @@ export default {
     },
     "armor-mr-banbaro-beta-plus": {
       "Key": "armor-mr-banbaro-beta-plus",
-      "Translation": "ß Banbaro +"
+      "Translation": "Banbaro ß +"
     },
     "armor-mr-banbaro-coil-alpha-plus": {
       "Key": "armor-mr-banbaro-coil-alpha-plus",
@@ -4445,7 +4445,7 @@ export default {
     },
     "armor-mr-banbaro-coil-beta-plus": {
       "Key": "armor-mr-banbaro-coil-beta-plus",
-      "Translation": "ß Banbaro bobina +"
+      "Translation": "Banbaro Bobina ß +"
     },
     "armor-mr-banbaro-greaves-alpha-plus": {
       "Key": "armor-mr-banbaro-greaves-alpha-plus",
@@ -4453,7 +4453,7 @@ export default {
     },
     "armor-mr-banbaro-greaves-beta-plus": {
       "Key": "armor-mr-banbaro-greaves-beta-plus",
-      "Translation": "ß Banbaro Greaves +"
+      "Translation": "Banbaro Greaves ß +"
     },
     "armor-mr-banbaro-helm-alpha-plus": {
       "Key": "armor-mr-banbaro-helm-alpha-plus",
@@ -4461,7 +4461,7 @@ export default {
     },
     "armor-mr-banbaro-helm-beta-plus": {
       "Key": "armor-mr-banbaro-helm-beta-plus",
-      "Translation": "ß Banbaro Helm +"
+      "Translation": "Banbaro Helm ß +"
     },
     "armor-mr-banbaro-mail-alpha-plus": {
       "Key": "armor-mr-banbaro-mail-alpha-plus",
@@ -4469,7 +4469,7 @@ export default {
     },
     "armor-mr-banbaro-mail-beta-plus": {
       "Key": "armor-mr-banbaro-mail-beta-plus",
-      "Translation": "ß Banbaro e-mail +"
+      "Translation": "Banbaro Correio ß +"
     },
     "armor-mr-banbaro-vambraces-alpha-plus": {
       "Key": "armor-mr-banbaro-vambraces-alpha-plus",
@@ -4477,7 +4477,7 @@ export default {
     },
     "armor-mr-banbaro-vambraces-beta-plus": {
       "Key": "armor-mr-banbaro-vambraces-beta-plus",
-      "Translation": "ß Banbaro vambraces +"
+      "Translation": "Banbaro Vambraces ß +"
     },
     "armor-mr-barioth-alpha-plus": {
       "Key": "armor-mr-barioth-alpha-plus",
@@ -4493,7 +4493,7 @@ export default {
     },
     "armor-mr-barioth-faulds-beta-plus": {
       "Key": "armor-mr-barioth-faulds-beta-plus",
-      "Translation": "ß Barioth Faulds +"
+      "Translation": "Barioth Faulds ß +"
     },
     "armor-mr-barioth-greaves-alpha-plus": {
       "Key": "armor-mr-barioth-greaves-alpha-plus",
@@ -4501,7 +4501,7 @@ export default {
     },
     "armor-mr-barioth-greaves-beta-plus": {
       "Key": "armor-mr-barioth-greaves-beta-plus",
-      "Translation": "ß Barioth Greaves +"
+      "Translation": "Barioth Greaves ß +"
     },
     "armor-mr-barioth-helm-alpha-plus": {
       "Key": "armor-mr-barioth-helm-alpha-plus",
@@ -4509,7 +4509,7 @@ export default {
     },
     "armor-mr-barioth-helm-beta-plus": {
       "Key": "armor-mr-barioth-helm-beta-plus",
-      "Translation": "ß Barioth Helm +"
+      "Translation": "Barioth Helm ß +"
     },
     "armor-mr-barioth-mail-alpha-plus": {
       "Key": "armor-mr-barioth-mail-alpha-plus",
@@ -4517,7 +4517,7 @@ export default {
     },
     "armor-mr-barioth-mail-beta-plus": {
       "Key": "armor-mr-barioth-mail-beta-plus",
-      "Translation": "ß Barioth e-mail +"
+      "Translation": "Barioth Correio ß +"
     },
     "armor-mr-barioth-vambraces-alpha-plus": {
       "Key": "armor-mr-barioth-vambraces-alpha-plus",
@@ -4525,7 +4525,7 @@ export default {
     },
     "armor-mr-barioth-vambraces-beta-plus": {
       "Key": "armor-mr-barioth-vambraces-beta-plus",
-      "Translation": "ß Barioth vambraces +"
+      "Translation": "Barioth Vambraces ß +"
     },
     "armor-mr-barnos-alpha-plus": {
       "Key": "armor-mr-barnos-alpha-plus",
@@ -4533,7 +4533,7 @@ export default {
     },
     "armor-mr-barnos-beta-plus": {
       "Key": "armor-mr-barnos-beta-plus",
-      "Translation": "ß Barnos +"
+      "Translation": "Barnos ß +"
     },
     "armor-mr-barnos-jacket-alpha-plus": {
       "Key": "armor-mr-barnos-jacket-alpha-plus",
@@ -4541,7 +4541,7 @@ export default {
     },
     "armor-mr-barnos-jacket-beta-plus": {
       "Key": "armor-mr-barnos-jacket-beta-plus",
-      "Translation": "Barnos ß jacket +"
+      "Translation": "Barnos Jacket ß +"
     },
     "armor-mr-barroth-alpha-plus": {
       "Key": "armor-mr-barroth-alpha-plus",
@@ -4557,7 +4557,7 @@ export default {
     },
     "armor-mr-barroth-coil-beta-plus": {
       "Key": "armor-mr-barroth-coil-beta-plus",
-      "Translation": "ß Barroth bobina +"
+      "Translation": "Barroth Bobina ß +"
     },
     "armor-mr-barroth-greaves-alpha-plus": {
       "Key": "armor-mr-barroth-greaves-alpha-plus",
@@ -4565,7 +4565,7 @@ export default {
     },
     "armor-mr-barroth-greaves-beta-plus": {
       "Key": "armor-mr-barroth-greaves-beta-plus",
-      "Translation": "ß Barroth Greaves +"
+      "Translation": "Barroth Greaves ß +"
     },
     "armor-mr-barroth-helm-alpha-plus": {
       "Key": "armor-mr-barroth-helm-alpha-plus",
@@ -4573,7 +4573,7 @@ export default {
     },
     "armor-mr-barroth-helm-beta-plus": {
       "Key": "armor-mr-barroth-helm-beta-plus",
-      "Translation": "ß Barroth Helm +"
+      "Translation": "Barroth Helm ß +"
     },
     "armor-mr-barroth-mail-alpha-plus": {
       "Key": "armor-mr-barroth-mail-alpha-plus",
@@ -4581,7 +4581,7 @@ export default {
     },
     "armor-mr-barroth-mail-beta-plus": {
       "Key": "armor-mr-barroth-mail-beta-plus",
-      "Translation": "ß Barroth e-mail +"
+      "Translation": "Barroth Correio ß +"
     },
     "armor-mr-barroth-vambraces-alpha-plus": {
       "Key": "armor-mr-barroth-vambraces-alpha-plus",
@@ -4589,7 +4589,7 @@ export default {
     },
     "armor-mr-barroth-vambraces-beta-plus": {
       "Key": "armor-mr-barroth-vambraces-beta-plus",
-      "Translation": "ß Barroth vambraces +"
+      "Translation": "Barroth Vambraces ß +"
     },
     "armor-mr-beo-alpha-plus": {
       "Key": "armor-mr-beo-alpha-plus",
@@ -4597,7 +4597,7 @@ export default {
     },
     "armor-mr-beo-beta-plus": {
       "Key": "armor-mr-beo-beta-plus",
-      "Translation": "ß Beo +"
+      "Translation": "Beo ß +"
     },
     "armor-mr-beo-coil-alpha-plus": {
       "Key": "armor-mr-beo-coil-alpha-plus",
@@ -4605,7 +4605,7 @@ export default {
     },
     "armor-mr-beo-coil-beta-plus": {
       "Key": "armor-mr-beo-coil-beta-plus",
-      "Translation": "ß Beo bobina +"
+      "Translation": "Beo Bobina ß +"
     },
     "armor-mr-beo-greaves-alpha-plus": {
       "Key": "armor-mr-beo-greaves-alpha-plus",
@@ -4613,7 +4613,7 @@ export default {
     },
     "armor-mr-beo-greaves-beta-plus": {
       "Key": "armor-mr-beo-greaves-beta-plus",
-      "Translation": "ß Beo Greaves +"
+      "Translation": "Beo Greaves ß +"
     },
     "armor-mr-beo-helm-alpha-plus": {
       "Key": "armor-mr-beo-helm-alpha-plus",
@@ -4621,7 +4621,7 @@ export default {
     },
     "armor-mr-beo-helm-beta-plus": {
       "Key": "armor-mr-beo-helm-beta-plus",
-      "Translation": "ß Beo Helm +"
+      "Translation": "Beo Helm ß +"
     },
     "armor-mr-beo-mail-alpha-plus": {
       "Key": "armor-mr-beo-mail-alpha-plus",
@@ -4629,7 +4629,7 @@ export default {
     },
     "armor-mr-beo-mail-beta-plus": {
       "Key": "armor-mr-beo-mail-beta-plus",
-      "Translation": "ß Beo e-mail +"
+      "Translation": "Beo Correio ß +"
     },
     "armor-mr-beo-vambraces-alpha-plus": {
       "Key": "armor-mr-beo-vambraces-alpha-plus",
@@ -4637,7 +4637,7 @@ export default {
     },
     "armor-mr-beo-vambraces-beta-plus": {
       "Key": "armor-mr-beo-vambraces-beta-plus",
-      "Translation": "ß Beo vambraces +"
+      "Translation": "Beo Vambraces ß +"
     },
     "armor-mr-black-belt-alpha-plus": {
       "Key": "armor-mr-black-belt-alpha-plus",
@@ -4645,7 +4645,7 @@ export default {
     },
     "armor-mr-black-belt-beta-plus": {
       "Key": "armor-mr-black-belt-beta-plus",
-      "Translation": "ß Black Belt +"
+      "Translation": "Black Belt ß +"
     },
     "armor-mr-black-belt-braces-alpha-plus": {
       "Key": "armor-mr-black-belt-braces-alpha-plus",
@@ -4653,7 +4653,7 @@ export default {
     },
     "armor-mr-black-belt-braces-beta-plus": {
       "Key": "armor-mr-black-belt-braces-beta-plus",
-      "Translation": "ß Preto Suspensórios Belt +"
+      "Translation": "Black Belt Suspensórios ß +"
     },
     "armor-mr-black-belt-greaves-alpha-plus": {
       "Key": "armor-mr-black-belt-greaves-alpha-plus",
@@ -4661,7 +4661,7 @@ export default {
     },
     "armor-mr-black-belt-greaves-beta-plus": {
       "Key": "armor-mr-black-belt-greaves-beta-plus",
-      "Translation": "ß Preto Greaves Belt +"
+      "Translation": "Black Belt Greaves ß +"
     },
     "armor-mr-black-belt-helm-alpha-plus": {
       "Key": "armor-mr-black-belt-helm-alpha-plus",
@@ -4669,7 +4669,7 @@ export default {
     },
     "armor-mr-black-belt-helm-beta-plus": {
       "Key": "armor-mr-black-belt-helm-beta-plus",
-      "Translation": "ß Preto Helm Belt +"
+      "Translation": "Black Belt Helm ß +"
     },
     "armor-mr-black-belt-mail-alpha-plus": {
       "Key": "armor-mr-black-belt-mail-alpha-plus",
@@ -4677,7 +4677,7 @@ export default {
     },
     "armor-mr-black-belt-mail-beta-plus": {
       "Key": "armor-mr-black-belt-mail-beta-plus",
-      "Translation": "ß Black Belt e-mail +"
+      "Translation": "Preto Correio Belt ß +"
     },
     "armor-mr-black-belt-tassets-alpha-plus": {
       "Key": "armor-mr-black-belt-tassets-alpha-plus",
@@ -4685,7 +4685,7 @@ export default {
     },
     "armor-mr-black-belt-tassets-beta-plus": {
       "Key": "armor-mr-black-belt-tassets-beta-plus",
-      "Translation": "ß Preto as coxas Belt +"
+      "Translation": "Black Belt as coxas ß +"
     },
     "armor-mr-blackveil-hazak-alpha-plus": {
       "Key": "armor-mr-blackveil-hazak-alpha-plus",
@@ -4693,7 +4693,7 @@ export default {
     },
     "armor-mr-blackveil-hazak-beta-plus": {
       "Key": "armor-mr-blackveil-hazak-beta-plus",
-      "Translation": "ß Blackveil házak +"
+      "Translation": "Blackveil házak ß +"
     },
     "armor-mr-bone-alpha-plus": {
       "Key": "armor-mr-bone-alpha-plus",
@@ -4701,7 +4701,7 @@ export default {
     },
     "armor-mr-bone-beta-plus": {
       "Key": "armor-mr-bone-beta-plus",
-      "Translation": "SS + ósseas"
+      "Translation": "Osso SS +"
     },
     "armor-mr-bone-coil-alpha-plus": {
       "Key": "armor-mr-bone-coil-alpha-plus",
@@ -4709,7 +4709,7 @@ export default {
     },
     "armor-mr-bone-coil-beta-plus": {
       "Key": "armor-mr-bone-coil-beta-plus",
-      "Translation": "SS osso bobina +"
+      "Translation": "Osso bobina SS +"
     },
     "armor-mr-bone-greaves-alpha-plus": {
       "Key": "armor-mr-bone-greaves-alpha-plus",
@@ -4717,7 +4717,7 @@ export default {
     },
     "armor-mr-bone-greaves-beta-plus": {
       "Key": "armor-mr-bone-greaves-beta-plus",
-      "Translation": "SS osso Greaves +"
+      "Translation": "Osso Greaves SS +"
     },
     "armor-mr-bone-helm-alpha-plus": {
       "Key": "armor-mr-bone-helm-alpha-plus",
@@ -4725,7 +4725,7 @@ export default {
     },
     "armor-mr-bone-helm-beta-plus": {
       "Key": "armor-mr-bone-helm-beta-plus",
-      "Translation": "SS osso Helm +"
+      "Translation": "Osso Helm SS +"
     },
     "armor-mr-bone-mail-alpha-plus": {
       "Key": "armor-mr-bone-mail-alpha-plus",
@@ -4733,7 +4733,7 @@ export default {
     },
     "armor-mr-bone-mail-beta-plus": {
       "Key": "armor-mr-bone-mail-beta-plus",
-      "Translation": "ß osso correio +"
+      "Translation": "Osso correio ß +"
     },
     "armor-mr-bone-vambraces-alpha-plus": {
       "Key": "armor-mr-bone-vambraces-alpha-plus",
@@ -4741,7 +4741,7 @@ export default {
     },
     "armor-mr-bone-vambraces-beta-plus": {
       "Key": "armor-mr-bone-vambraces-beta-plus",
-      "Translation": "SS osso vambraces +"
+      "Translation": "Osso Vambraces SS +"
     },
     "armor-mr-brachydios-alpha-plus": {
       "Key": "armor-mr-brachydios-alpha-plus",
@@ -4757,7 +4757,7 @@ export default {
     },
     "armor-mr-brachydios-braces-beta-plus": {
       "Key": "armor-mr-brachydios-braces-beta-plus",
-      "Translation": "ß Brachydios Suspensórios +"
+      "Translation": "Brachydios Suspensórios ß +"
     },
     "armor-mr-brachydios-faulds-alpha-plus": {
       "Key": "armor-mr-brachydios-faulds-alpha-plus",
@@ -4765,7 +4765,7 @@ export default {
     },
     "armor-mr-brachydios-faulds-beta-plus": {
       "Key": "armor-mr-brachydios-faulds-beta-plus",
-      "Translation": "ß Brachydios Faulds +"
+      "Translation": "Brachydios Faulds ß +"
     },
     "armor-mr-brachydios-greaves-alpha-plus": {
       "Key": "armor-mr-brachydios-greaves-alpha-plus",
@@ -4773,7 +4773,7 @@ export default {
     },
     "armor-mr-brachydios-greaves-beta-plus": {
       "Key": "armor-mr-brachydios-greaves-beta-plus",
-      "Translation": "ß Brachydios Greaves +"
+      "Translation": "Brachydios Greaves ß +"
     },
     "armor-mr-brachydios-helm-alpha-plus": {
       "Key": "armor-mr-brachydios-helm-alpha-plus",
@@ -4789,7 +4789,7 @@ export default {
     },
     "armor-mr-brachydios-mail-beta-plus": {
       "Key": "armor-mr-brachydios-mail-beta-plus",
-      "Translation": "ß Brachydios e-mail +"
+      "Translation": "Brachydios Correio ß +"
     },
     "armor-mr-clockwork-alpha-plus": {
       "Key": "armor-mr-clockwork-alpha-plus",
@@ -4797,7 +4797,7 @@ export default {
     },
     "armor-mr-clockwork-beta-plus": {
       "Key": "armor-mr-clockwork-beta-plus",
-      "Translation": "ß Clockwork +"
+      "Translation": "Clockwork ß +"
     },
     "armor-mr-clockwork-braces-alpha-plus": {
       "Key": "armor-mr-clockwork-braces-alpha-plus",
@@ -4805,7 +4805,7 @@ export default {
     },
     "armor-mr-clockwork-braces-beta-plus": {
       "Key": "armor-mr-clockwork-braces-beta-plus",
-      "Translation": "ß Clockwork Suspensórios +"
+      "Translation": "Clockwork Suspensórios ß +"
     },
     "armor-mr-clockwork-coil-alpha-plus": {
       "Key": "armor-mr-clockwork-coil-alpha-plus",
@@ -4813,7 +4813,7 @@ export default {
     },
     "armor-mr-clockwork-coil-beta-plus": {
       "Key": "armor-mr-clockwork-coil-beta-plus",
-      "Translation": "ß Clockwork bobina +"
+      "Translation": "Clockwork Bobina ß +"
     },
     "armor-mr-clockwork-greaves-alpha-plus": {
       "Key": "armor-mr-clockwork-greaves-alpha-plus",
@@ -4821,7 +4821,7 @@ export default {
     },
     "armor-mr-clockwork-greaves-beta-plus": {
       "Key": "armor-mr-clockwork-greaves-beta-plus",
-      "Translation": "ß Clockwork Greaves +"
+      "Translation": "Clockwork Greaves ß +"
     },
     "armor-mr-clockwork-helm-alpha-plus": {
       "Key": "armor-mr-clockwork-helm-alpha-plus",
@@ -4829,7 +4829,7 @@ export default {
     },
     "armor-mr-clockwork-helm-beta-plus": {
       "Key": "armor-mr-clockwork-helm-beta-plus",
-      "Translation": "ß Clockwork Helm +"
+      "Translation": "Clockwork Helm ß +"
     },
     "armor-mr-clockwork-mail-alpha-plus": {
       "Key": "armor-mr-clockwork-mail-alpha-plus",
@@ -4837,7 +4837,7 @@ export default {
     },
     "armor-mr-clockwork-mail-beta-plus": {
       "Key": "armor-mr-clockwork-mail-beta-plus",
-      "Translation": "ß Clockwork e-mail +"
+      "Translation": "Clockwork Correio ß +"
     },
     "armor-mr-coral-pukei-alpha-plus": {
       "Key": "armor-mr-coral-pukei-alpha-plus",
@@ -4845,7 +4845,7 @@ export default {
     },
     "armor-mr-coral-pukei-beta-plus": {
       "Key": "armor-mr-coral-pukei-beta-plus",
-      "Translation": "ß Coral Pukei +"
+      "Translation": "Coral Pukei ß +"
     },
     "armor-mr-cortos-alpha-plus": {
       "Key": "armor-mr-cortos-alpha-plus",
@@ -4861,7 +4861,7 @@ export default {
     },
     "armor-mr-cortos-cape-beta-plus": {
       "Key": "armor-mr-cortos-cape-beta-plus",
-      "Translation": "ß Cortos Cabo +"
+      "Translation": "Cortos Cape ß +"
     },
     "armor-mr-damascus-alpha-plus": {
       "Key": "armor-mr-damascus-alpha-plus",
@@ -4869,7 +4869,7 @@ export default {
     },
     "armor-mr-damascus-beta-plus": {
       "Key": "armor-mr-damascus-beta-plus",
-      "Translation": "ß Damasco +"
+      "Translation": "Damasco ß +"
     },
     "armor-mr-damascus-coil-alpha-plus": {
       "Key": "armor-mr-damascus-coil-alpha-plus",
@@ -4877,7 +4877,7 @@ export default {
     },
     "armor-mr-damascus-coil-beta-plus": {
       "Key": "armor-mr-damascus-coil-beta-plus",
-      "Translation": "ß Damasco bobina +"
+      "Translation": "Damasco Bobina ß +"
     },
     "armor-mr-damascus-greaves-alpha-plus": {
       "Key": "armor-mr-damascus-greaves-alpha-plus",
@@ -4885,7 +4885,7 @@ export default {
     },
     "armor-mr-damascus-greaves-beta-plus": {
       "Key": "armor-mr-damascus-greaves-beta-plus",
-      "Translation": "ß Damasco Greaves +"
+      "Translation": "Damasco Greaves ß +"
     },
     "armor-mr-damascus-helm-alpha-plus": {
       "Key": "armor-mr-damascus-helm-alpha-plus",
@@ -4893,7 +4893,7 @@ export default {
     },
     "armor-mr-damascus-helm-beta-plus": {
       "Key": "armor-mr-damascus-helm-beta-plus",
-      "Translation": "ß Damscus Helm +"
+      "Translation": "Damscus Helm ß +"
     },
     "armor-mr-damascus-mail-alpha-plus": {
       "Key": "armor-mr-damascus-mail-alpha-plus",
@@ -4901,7 +4901,7 @@ export default {
     },
     "armor-mr-damascus-mail-beta-plus": {
       "Key": "armor-mr-damascus-mail-beta-plus",
-      "Translation": "ß Damasco e-mail +"
+      "Translation": "Damasco Correio ß +"
     },
     "armor-mr-damascus-vambraces-alpha-plus": {
       "Key": "armor-mr-damascus-vambraces-alpha-plus",
@@ -4909,7 +4909,7 @@ export default {
     },
     "armor-mr-damascus-vambraces-beta-plus": {
       "Key": "armor-mr-damascus-vambraces-beta-plus",
-      "Translation": "ß Damasco vambraces +"
+      "Translation": "Damasco Vambraces ß +"
     },
     "armor-mr-death-garon-alpha-plus": {
       "Key": "armor-mr-death-garon-alpha-plus",
@@ -4917,7 +4917,7 @@ export default {
     },
     "armor-mr-death-garon-beta-plus": {
       "Key": "armor-mr-death-garon-beta-plus",
-      "Translation": "Morte ß Garon +"
+      "Translation": "Morte Garon ß +"
     },
     "armor-mr-diablos-alpha-plus": {
       "Key": "armor-mr-diablos-alpha-plus",
@@ -4925,7 +4925,7 @@ export default {
     },
     "armor-mr-diablos-beta-plus": {
       "Key": "armor-mr-diablos-beta-plus",
-      "Translation": "ß Diablos +"
+      "Translation": "Diablos ß +"
     },
     "armor-mr-diablos-coil-alpha-plus": {
       "Key": "armor-mr-diablos-coil-alpha-plus",
@@ -4933,7 +4933,7 @@ export default {
     },
     "armor-mr-diablos-coil-beta-plus": {
       "Key": "armor-mr-diablos-coil-beta-plus",
-      "Translation": "ß Diablos bobina +"
+      "Translation": "Diablos Bobina ß +"
     },
     "armor-mr-diablos-greaves-alpha-plus": {
       "Key": "armor-mr-diablos-greaves-alpha-plus",
@@ -4941,7 +4941,7 @@ export default {
     },
     "armor-mr-diablos-greaves-beta-plus": {
       "Key": "armor-mr-diablos-greaves-beta-plus",
-      "Translation": "ß Diablos Greaves +"
+      "Translation": "Diablos Greaves ß +"
     },
     "armor-mr-diablos-helm-alpha-plus": {
       "Key": "armor-mr-diablos-helm-alpha-plus",
@@ -4949,7 +4949,7 @@ export default {
     },
     "armor-mr-diablos-helm-beta-plus": {
       "Key": "armor-mr-diablos-helm-beta-plus",
-      "Translation": "ß Diablos Helm +"
+      "Translation": "Diablos Helm ß +"
     },
     "armor-mr-diablos-mail-alpha-plus": {
       "Key": "armor-mr-diablos-mail-alpha-plus",
@@ -4957,7 +4957,7 @@ export default {
     },
     "armor-mr-diablos-mail-beta-plus": {
       "Key": "armor-mr-diablos-mail-beta-plus",
-      "Translation": "ß Diablos e-mail +"
+      "Translation": "Diablos Correio ß +"
     },
     "armor-mr-diablos-nero-alpha-plus": {
       "Key": "armor-mr-diablos-nero-alpha-plus",
@@ -4965,7 +4965,7 @@ export default {
     },
     "armor-mr-diablos-nero-beta-plus": {
       "Key": "armor-mr-diablos-nero-beta-plus",
-      "Translation": "ß Diablos Nero +"
+      "Translation": "Diablos Nero ß +"
     },
     "armor-mr-diablos-vambraces-alpha-plus": {
       "Key": "armor-mr-diablos-vambraces-alpha-plus",
@@ -4973,7 +4973,7 @@ export default {
     },
     "armor-mr-diablos-vambraces-beta-plus": {
       "Key": "armor-mr-diablos-vambraces-beta-plus",
-      "Translation": "ß Diablos vambraces +"
+      "Translation": "Diablos Vambraces ß +"
     },
     "armor-mr-dober-alpha-plus": {
       "Key": "armor-mr-dober-alpha-plus",
@@ -4989,7 +4989,7 @@ export default {
     },
     "armor-mr-dober-coil-beta-plus": {
       "Key": "armor-mr-dober-coil-beta-plus",
-      "Translation": "ß Dober bobina +"
+      "Translation": "Dober Bobina ß +"
     },
     "armor-mr-dober-greaves-alpha-plus": {
       "Key": "armor-mr-dober-greaves-alpha-plus",
@@ -5013,7 +5013,7 @@ export default {
     },
     "armor-mr-dober-mail-beta-plus": {
       "Key": "armor-mr-dober-mail-beta-plus",
-      "Translation": "ß Dober e-mail +"
+      "Translation": "Dober Correio ß +"
     },
     "armor-mr-dober-vambraces-alpha-plus": {
       "Key": "armor-mr-dober-vambraces-alpha-plus",
@@ -5029,7 +5029,7 @@ export default {
     },
     "armor-mr-dodogama-beta-plus": {
       "Key": "armor-mr-dodogama-beta-plus",
-      "Translation": "ß Dodogama +"
+      "Translation": "Dodogama ß +"
     },
     "armor-mr-dodogama-coil-alpha-plus": {
       "Key": "armor-mr-dodogama-coil-alpha-plus",
@@ -5037,7 +5037,7 @@ export default {
     },
     "armor-mr-dodogama-coil-beta-plus": {
       "Key": "armor-mr-dodogama-coil-beta-plus",
-      "Translation": "ß Dodogama bobina +"
+      "Translation": "Dodogama Bobina ß +"
     },
     "armor-mr-dodogama-greaves-alpha-plus": {
       "Key": "armor-mr-dodogama-greaves-alpha-plus",
@@ -5045,7 +5045,7 @@ export default {
     },
     "armor-mr-dodogama-greaves-beta-plus": {
       "Key": "armor-mr-dodogama-greaves-beta-plus",
-      "Translation": "ß Dodogama Greaves +"
+      "Translation": "Dodogama Greaves ß +"
     },
     "armor-mr-dodogama-helm-alpha-plus": {
       "Key": "armor-mr-dodogama-helm-alpha-plus",
@@ -5053,7 +5053,7 @@ export default {
     },
     "armor-mr-dodogama-helm-beta-plus": {
       "Key": "armor-mr-dodogama-helm-beta-plus",
-      "Translation": "ß Dodogama Helm +"
+      "Translation": "Dodogama Helm ß +"
     },
     "armor-mr-dodogama-mail-alpha-plus": {
       "Key": "armor-mr-dodogama-mail-alpha-plus",
@@ -5061,7 +5061,7 @@ export default {
     },
     "armor-mr-dodogama-mail-beta-plus": {
       "Key": "armor-mr-dodogama-mail-beta-plus",
-      "Translation": "ß Dodogama e-mail +"
+      "Translation": "Dodogama Correio ß +"
     },
     "armor-mr-dodogama-vambraces-alpha-plus": {
       "Key": "armor-mr-dodogama-vambraces-alpha-plus",
@@ -5069,7 +5069,7 @@ export default {
     },
     "armor-mr-dodogama-vambraces-beta-plus": {
       "Key": "armor-mr-dodogama-vambraces-beta-plus",
-      "Translation": "ß Dodogama vambraces +"
+      "Translation": "Dodogama Vambraces ß +"
     },
     "armor-mr-esurient-faulds-alpha-plus": {
       "Key": "armor-mr-esurient-faulds-alpha-plus",
@@ -5101,7 +5101,7 @@ export default {
     },
     "armor-mr-esurient-mail-beta-plus": {
       "Key": "armor-mr-esurient-mail-beta-plus",
-      "Translation": "ß esurient e-mail +"
+      "Translation": "Esurient Correio ß +"
     },
     "armor-mr-esurient-vambraces-alpha-plus": {
       "Key": "armor-mr-esurient-vambraces-alpha-plus",
@@ -5117,7 +5117,7 @@ export default {
     },
     "armor-mr-fellshroud-braces-beta-plus": {
       "Key": "armor-mr-fellshroud-braces-beta-plus",
-      "Translation": "ß Fellshroud Suspensórios +"
+      "Translation": "Fellshroud Suspensórios ß +"
     },
     "armor-mr-fellshroud-coil-alpha-plus": {
       "Key": "armor-mr-fellshroud-coil-alpha-plus",
@@ -5125,7 +5125,7 @@ export default {
     },
     "armor-mr-fellshroud-coil-beta-plus": {
       "Key": "armor-mr-fellshroud-coil-beta-plus",
-      "Translation": "ß Fellshroud bobina +"
+      "Translation": "Fellshroud Bobina ß +"
     },
     "armor-mr-fellshroud-greaves-alpha-plus": {
       "Key": "armor-mr-fellshroud-greaves-alpha-plus",
@@ -5133,7 +5133,7 @@ export default {
     },
     "armor-mr-fellshroud-greaves-beta-plus": {
       "Key": "armor-mr-fellshroud-greaves-beta-plus",
-      "Translation": "ß Fellshroud Greaves +"
+      "Translation": "Fellshroud Greaves ß +"
     },
     "armor-mr-fellshroud-helm-alpha-plus": {
       "Key": "armor-mr-fellshroud-helm-alpha-plus",
@@ -5141,7 +5141,7 @@ export default {
     },
     "armor-mr-fellshroud-helm-beta-plus": {
       "Key": "armor-mr-fellshroud-helm-beta-plus",
-      "Translation": "ß Fellshroud Helm +"
+      "Translation": "Fellshroud Helm ß +"
     },
     "armor-mr-fellshroud-mail-alpha-plus": {
       "Key": "armor-mr-fellshroud-mail-alpha-plus",
@@ -5149,7 +5149,7 @@ export default {
     },
     "armor-mr-fellshroud-mail-beta-plus": {
       "Key": "armor-mr-fellshroud-mail-beta-plus",
-      "Translation": "ß Fellshroud e-mail +"
+      "Translation": "Fellshroud Correio ß +"
     },
     "armor-mr-fulgur-anja-alpha-plus": {
       "Key": "armor-mr-fulgur-anja-alpha-plus",
@@ -5157,7 +5157,7 @@ export default {
     },
     "armor-mr-fulgur-anja-beta-plus": {
       "Key": "armor-mr-fulgur-anja-beta-plus",
-      "Translation": "ß Fulgur Anja +"
+      "Translation": "Fulgur Anja ß +"
     },
     "armor-mr-fulgur-coil-alpha-plus": {
       "Key": "armor-mr-fulgur-coil-alpha-plus",
@@ -5165,7 +5165,7 @@ export default {
     },
     "armor-mr-fulgur-coil-beta-plus": {
       "Key": "armor-mr-fulgur-coil-beta-plus",
-      "Translation": "ß Fulgur bobina +"
+      "Translation": "Fulgur Bobina ß +"
     },
     "armor-mr-fulgur-greaves-alpha-plus": {
       "Key": "armor-mr-fulgur-greaves-alpha-plus",
@@ -5189,7 +5189,7 @@ export default {
     },
     "armor-mr-fulgur-mail-beta-plus": {
       "Key": "armor-mr-fulgur-mail-beta-plus",
-      "Translation": "ß Fulgur e-mail +"
+      "Translation": "Fulgur Correio ß +"
     },
     "armor-mr-fulgur-vambraces-alpha-plus": {
       "Key": "armor-mr-fulgur-vambraces-alpha-plus",
@@ -5213,7 +5213,7 @@ export default {
     },
     "armor-mr-gajau-boots-beta-plus": {
       "Key": "armor-mr-gajau-boots-beta-plus",
-      "Translation": "ß Gajau Botas +"
+      "Translation": "Gajau Botas ß +"
     },
     "armor-mr-gastodon-alpha-plus": {
       "Key": "armor-mr-gastodon-alpha-plus",
@@ -5221,7 +5221,7 @@ export default {
     },
     "armor-mr-gastodon-beta-plus": {
       "Key": "armor-mr-gastodon-beta-plus",
-      "Translation": "ß Gastodon +"
+      "Translation": "Gastodon ß +"
     },
     "armor-mr-gastodon-horn-alpha-plus": {
       "Key": "armor-mr-gastodon-horn-alpha-plus",
@@ -5229,7 +5229,7 @@ export default {
     },
     "armor-mr-gastodon-horn-beta-plus": {
       "Key": "armor-mr-gastodon-horn-beta-plus",
-      "Translation": "ß Gastodon Chifre +"
+      "Translation": "Gastodon Chifre ß +"
     },
     "armor-mr-girros-alpha-plus": {
       "Key": "armor-mr-girros-alpha-plus",
@@ -5245,7 +5245,7 @@ export default {
     },
     "armor-mr-girros-coil-beta-plus": {
       "Key": "armor-mr-girros-coil-beta-plus",
-      "Translation": "ß Girros bobina +"
+      "Translation": "Girros Bobina ß +"
     },
     "armor-mr-girros-greaves-alpha-plus": {
       "Key": "armor-mr-girros-greaves-alpha-plus",
@@ -5253,7 +5253,7 @@ export default {
     },
     "armor-mr-girros-greaves-beta-plus": {
       "Key": "armor-mr-girros-greaves-beta-plus",
-      "Translation": "ß Girros Greaves +"
+      "Translation": "Girros Greaves ß +"
     },
     "armor-mr-girros-headgear-alpha-plus": {
       "Key": "armor-mr-girros-headgear-alpha-plus",
@@ -5261,7 +5261,7 @@ export default {
     },
     "armor-mr-girros-headgear-beta-plus": {
       "Key": "armor-mr-girros-headgear-beta-plus",
-      "Translation": "ß Girros Cabeça +"
+      "Translation": "Girros Chapelaria ß +"
     },
     "armor-mr-girros-mail-alpha-plus": {
       "Key": "armor-mr-girros-mail-alpha-plus",
@@ -5269,7 +5269,7 @@ export default {
     },
     "armor-mr-girros-mail-beta-plus": {
       "Key": "armor-mr-girros-mail-beta-plus",
-      "Translation": "ß Girros e-mail +"
+      "Translation": "Girros Correio ß +"
     },
     "armor-mr-girros-vambraces-alpha-plus": {
       "Key": "armor-mr-girros-vambraces-alpha-plus",
@@ -5289,7 +5289,7 @@ export default {
     },
     "armor-mr-glavenus-braces-beta-plus": {
       "Key": "armor-mr-glavenus-braces-beta-plus",
-      "Translation": "ß Glavenus Suspensórios +"
+      "Translation": "Glavenus Suspensórios ß +"
     },
     "armor-mr-glavenus-faulds-alpha-plus": {
       "Key": "armor-mr-glavenus-faulds-alpha-plus",
@@ -5321,7 +5321,7 @@ export default {
     },
     "armor-mr-glavenus-mail-beta-plus": {
       "Key": "armor-mr-glavenus-mail-beta-plus",
-      "Translation": "ß Glavenus e-mail +"
+      "Translation": "Glavenus Correio ß +"
     },
     "armor-mr-golden-hakama-alpha-plus": {
       "Key": "armor-mr-golden-hakama-alpha-plus",
@@ -5329,7 +5329,7 @@ export default {
     },
     "armor-mr-golden-hakama-beta-plus": {
       "Key": "armor-mr-golden-hakama-beta-plus",
-      "Translation": "ß Ouro Hakama +"
+      "Translation": "Ouro Hakama ß +"
     },
     "armor-mr-golden-haori-alpha-plus": {
       "Key": "armor-mr-golden-haori-alpha-plus",
@@ -5337,7 +5337,7 @@ export default {
     },
     "armor-mr-golden-haori-beta-plus": {
       "Key": "armor-mr-golden-haori-beta-plus",
-      "Translation": "ß Ouro Haori +"
+      "Translation": "Ouro Haori ß +"
     },
     "armor-mr-golden-headdress-alpha-plus": {
       "Key": "armor-mr-golden-headdress-alpha-plus",
@@ -5345,7 +5345,7 @@ export default {
     },
     "armor-mr-golden-headdress-beta-plus": {
       "Key": "armor-mr-golden-headdress-beta-plus",
-      "Translation": "ß dourados Mantilha +"
+      "Translation": "Ouro mantilha ß +"
     },
     "armor-mr-golden-kote-alpha-plus": {
       "Key": "armor-mr-golden-kote-alpha-plus",
@@ -5353,7 +5353,7 @@ export default {
     },
     "armor-mr-golden-kote-beta-plus": {
       "Key": "armor-mr-golden-kote-beta-plus",
-      "Translation": "ß Ouro Kote +"
+      "Translation": "Ouro Kote ß +"
     },
     "armor-mr-golden-lune-alpha-plus": {
       "Key": "armor-mr-golden-lune-alpha-plus",
@@ -5361,15 +5361,15 @@ export default {
     },
     "armor-mr-golden-lune-beta-plus": {
       "Key": "armor-mr-golden-lune-beta-plus",
-      "Translation": "Ouro ß Lune +"
+      "Translation": "Ouro Lune ß +"
     },
     "armor-mr-golden-lunebraces-alpha-plus": {
       "Key": "armor-mr-golden-lunebraces-alpha-plus",
-      "Translation": "Lunebraces dourados ⍺ +"
+      "Translation": "Ouro Lunebraces ⍺ +"
     },
     "armor-mr-golden-lunebraces-beta-plus": {
       "Key": "armor-mr-golden-lunebraces-beta-plus",
-      "Translation": "ß Ouro Lunebraces +"
+      "Translation": "Lunebraces dourados ß +"
     },
     "armor-mr-golden-lunecoil-alpha-plus": {
       "Key": "armor-mr-golden-lunecoil-alpha-plus",
@@ -5377,15 +5377,15 @@ export default {
     },
     "armor-mr-golden-lunecoil-beta-plus": {
       "Key": "armor-mr-golden-lunecoil-beta-plus",
-      "Translation": "ß Ouro Lunecoil +"
+      "Translation": "Ouro Lunecoil ß +"
     },
     "armor-mr-golden-lunegreaves-alpha-plus": {
       "Key": "armor-mr-golden-lunegreaves-alpha-plus",
-      "Translation": "Lunegreaves dourados ⍺ +"
+      "Translation": "Ouro Lunegreaves ⍺ +"
     },
     "armor-mr-golden-lunegreaves-beta-plus": {
       "Key": "armor-mr-golden-lunegreaves-beta-plus",
-      "Translation": "ß Ouro Lunegreaves +"
+      "Translation": "Lunegreaves dourados ß +"
     },
     "armor-mr-golden-lunehelm-alpha-plus": {
       "Key": "armor-mr-golden-lunehelm-alpha-plus",
@@ -5393,7 +5393,7 @@ export default {
     },
     "armor-mr-golden-lunehelm-beta-plus": {
       "Key": "armor-mr-golden-lunehelm-beta-plus",
-      "Translation": "ß Ouro Lunehelm +"
+      "Translation": "Ouro Lunehelm ß +"
     },
     "armor-mr-golden-lunemail-alpha-plus": {
       "Key": "armor-mr-golden-lunemail-alpha-plus",
@@ -5401,7 +5401,7 @@ export default {
     },
     "armor-mr-golden-lunemail-beta-plus": {
       "Key": "armor-mr-golden-lunemail-beta-plus",
-      "Translation": "ß Ouro Lunemail +"
+      "Translation": "Ouro Lunemail ß +"
     },
     "armor-mr-golden-obi-alpha-plus": {
       "Key": "armor-mr-golden-obi-alpha-plus",
@@ -5409,7 +5409,7 @@ export default {
     },
     "armor-mr-golden-obi-beta-plus": {
       "Key": "armor-mr-golden-obi-beta-plus",
-      "Translation": "ß Ouro Obi +"
+      "Translation": "Ouro Obi ß +"
     },
     "armor-mr-guild-palace-alpha-plus": {
       "Key": "armor-mr-guild-palace-alpha-plus",
@@ -5421,11 +5421,11 @@ export default {
     },
     "armor-mr-guild-palace-braces-alpha-plus": {
       "Key": "armor-mr-guild-palace-braces-alpha-plus",
-      "Translation": "Guilda Palace Suspensórios ⍺ +"
+      "Translation": "Aliança Palace Suspensórios ⍺ +"
     },
     "armor-mr-guild-palace-braces-beta-plus": {
       "Key": "armor-mr-guild-palace-braces-beta-plus",
-      "Translation": "ß Aliança Palace Suspensórios +"
+      "Translation": "Aliança Palace Suspensórios ß +"
     },
     "armor-mr-guild-palace-coil-alpha-plus": {
       "Key": "armor-mr-guild-palace-coil-alpha-plus",
@@ -5433,7 +5433,7 @@ export default {
     },
     "armor-mr-guild-palace-coil-beta-plus": {
       "Key": "armor-mr-guild-palace-coil-beta-plus",
-      "Translation": "Aliança ß Palace bobina +"
+      "Translation": "Aliança Palace Bobina ß +"
     },
     "armor-mr-guild-palace-greaves-alpha-plus": {
       "Key": "armor-mr-guild-palace-greaves-alpha-plus",
@@ -5441,7 +5441,7 @@ export default {
     },
     "armor-mr-guild-palace-greaves-beta-plus": {
       "Key": "armor-mr-guild-palace-greaves-beta-plus",
-      "Translation": "Aliança ß Palace Greaves +"
+      "Translation": "Aliança Palace Greaves ß +"
     },
     "armor-mr-guild-palace-helm-alpha-plus": {
       "Key": "armor-mr-guild-palace-helm-alpha-plus",
@@ -5449,7 +5449,7 @@ export default {
     },
     "armor-mr-guild-palace-helm-beta-plus": {
       "Key": "armor-mr-guild-palace-helm-beta-plus",
-      "Translation": "Aliança ß Palace Helm +"
+      "Translation": "Aliança Palace Helm ß +"
     },
     "armor-mr-guild-palace-mail-alpha-plus": {
       "Key": "armor-mr-guild-palace-mail-alpha-plus",
@@ -5457,7 +5457,7 @@ export default {
     },
     "armor-mr-guild-palace-mail-beta-plus": {
       "Key": "armor-mr-guild-palace-mail-beta-plus",
-      "Translation": "Aliança ß Palácio de correio +"
+      "Translation": "Aliança Palace Correio ß +"
     },
     "armor-mr-high-metal-alpha-plus": {
       "Key": "armor-mr-high-metal-alpha-plus",
@@ -5465,15 +5465,15 @@ export default {
     },
     "armor-mr-high-metal-beta-plus": {
       "Key": "armor-mr-high-metal-beta-plus",
-      "Translation": "ß alta do metal +"
+      "Translation": "Alta do metal ß +"
     },
     "armor-mr-high-metal-braces-alpha-plus": {
       "Key": "armor-mr-high-metal-braces-alpha-plus",
-      "Translation": "Metal de alta Suspensórios ⍺ +"
+      "Translation": "Alta de Metal Braces ⍺ +"
     },
     "armor-mr-high-metal-braces-beta-plus": {
       "Key": "armor-mr-high-metal-braces-beta-plus",
-      "Translation": "ß elevados do metal Suspensórios +"
+      "Translation": "Alta de Metal Braces ß +"
     },
     "armor-mr-high-metal-coil-alpha-plus": {
       "Key": "armor-mr-high-metal-coil-alpha-plus",
@@ -5481,7 +5481,7 @@ export default {
     },
     "armor-mr-high-metal-coil-beta-plus": {
       "Key": "armor-mr-high-metal-coil-beta-plus",
-      "Translation": "ß elevados Espiral de Metal +"
+      "Translation": "Alta Espiral de Metal ß +"
     },
     "armor-mr-high-metal-greaves-alpha-plus": {
       "Key": "armor-mr-high-metal-greaves-alpha-plus",
@@ -5489,7 +5489,7 @@ export default {
     },
     "armor-mr-high-metal-greaves-beta-plus": {
       "Key": "armor-mr-high-metal-greaves-beta-plus",
-      "Translation": "ß elevados do metal Greaves +"
+      "Translation": "Alta do metal Greaves ß +"
     },
     "armor-mr-high-metal-helm-alpha-plus": {
       "Key": "armor-mr-high-metal-helm-alpha-plus",
@@ -5497,15 +5497,15 @@ export default {
     },
     "armor-mr-high-metal-helm-beta-plus": {
       "Key": "armor-mr-high-metal-helm-beta-plus",
-      "Translation": "Alta do metal ß Helm +"
+      "Translation": "Alta do metal Helm ß +"
     },
     "armor-mr-high-metal-mail-alpha-plus": {
       "Key": "armor-mr-high-metal-mail-alpha-plus",
-      "Translation": "Correio alta metal ⍺ +"
+      "Translation": "Alta do metal Correio ⍺ +"
     },
     "armor-mr-high-metal-mail-beta-plus": {
       "Key": "armor-mr-high-metal-mail-beta-plus",
-      "Translation": "Alta do metal ß correio +"
+      "Translation": "Alta do metal Correio ß +"
     },
     "armor-mr-hoarcry-coil-alpha-plus": {
       "Key": "armor-mr-hoarcry-coil-alpha-plus",
@@ -5513,7 +5513,7 @@ export default {
     },
     "armor-mr-hoarcry-coil-beta-plus": {
       "Key": "armor-mr-hoarcry-coil-beta-plus",
-      "Translation": "ß Hoarcry bobina +"
+      "Translation": "Hoarcry Bobina ß +"
     },
     "armor-mr-hoarcry-greaves-alpha-plus": {
       "Key": "armor-mr-hoarcry-greaves-alpha-plus",
@@ -5533,7 +5533,7 @@ export default {
     },
     "armor-mr-hoarcry-mail-beta-plus": {
       "Key": "armor-mr-hoarcry-mail-beta-plus",
-      "Translation": "ß Hoarcry e-mail +"
+      "Translation": "Hoarcry Correio ß +"
     },
     "armor-mr-hoarcry-vambraces-alpha-plus": {
       "Key": "armor-mr-hoarcry-vambraces-alpha-plus",
@@ -5557,7 +5557,7 @@ export default {
     },
     "armor-mr-hornetaur-coil-beta-plus": {
       "Key": "armor-mr-hornetaur-coil-beta-plus",
-      "Translation": "ß Hornetaur bobina +"
+      "Translation": "Hornetaur Bobina ß +"
     },
     "armor-mr-hornetaur-greaves-alpha-plus": {
       "Key": "armor-mr-hornetaur-greaves-alpha-plus",
@@ -5593,7 +5593,7 @@ export default {
     },
     "armor-mr-ingot-beta-plus": {
       "Key": "armor-mr-ingot-beta-plus",
-      "Translation": "ß lingote +"
+      "Translation": "Lingote ß +"
     },
     "armor-mr-ingot-coil-alpha-plus": {
       "Key": "armor-mr-ingot-coil-alpha-plus",
@@ -5601,7 +5601,7 @@ export default {
     },
     "armor-mr-ingot-coil-beta-alpha-plus": {
       "Key": "armor-mr-ingot-coil-beta-alpha-plus",
-      "Translation": "ß lingote bobina +"
+      "Translation": "Lingote Bobina ß +"
     },
     "armor-mr-ingot-greaves-alpha-plus": {
       "Key": "armor-mr-ingot-greaves-alpha-plus",
@@ -5609,7 +5609,7 @@ export default {
     },
     "armor-mr-ingot-greaves-beta-plus": {
       "Key": "armor-mr-ingot-greaves-beta-plus",
-      "Translation": "ß lingote Greaves +"
+      "Translation": "Lingote Greaves ß +"
     },
     "armor-mr-ingot-helm-alpha-plus": {
       "Key": "armor-mr-ingot-helm-alpha-plus",
@@ -5617,7 +5617,7 @@ export default {
     },
     "armor-mr-ingot-helm-beta-plus": {
       "Key": "armor-mr-ingot-helm-beta-plus",
-      "Translation": "ß lingote Helm +"
+      "Translation": "Lingote Helm ß +"
     },
     "armor-mr-ingot-mail-alpha-plus": {
       "Key": "armor-mr-ingot-mail-alpha-plus",
@@ -5625,7 +5625,7 @@ export default {
     },
     "armor-mr-ingot-mail-beta-plus": {
       "Key": "armor-mr-ingot-mail-beta-plus",
-      "Translation": "ß lingote e-mail +"
+      "Translation": "Lingote Correio ß +"
     },
     "armor-mr-ingot-vambraces-alpha-plus": {
       "Key": "armor-mr-ingot-vambraces-alpha-plus",
@@ -5633,7 +5633,7 @@ export default {
     },
     "armor-mr-ingot-vambraces-beta-plus": {
       "Key": "armor-mr-ingot-vambraces-beta-plus",
-      "Translation": "ß lingote vambraces +"
+      "Translation": "Lingote Vambraces ß +"
     },
     "armor-mr-jagras-alpha-plus": {
       "Key": "armor-mr-jagras-alpha-plus",
@@ -5649,7 +5649,7 @@ export default {
     },
     "armor-mr-jagras-coil-beta-plus": {
       "Key": "armor-mr-jagras-coil-beta-plus",
-      "Translation": "ß Jagras bobina +"
+      "Translation": "Jagras Bobina ß +"
     },
     "armor-mr-jagras-greaves-alpha-plus": {
       "Key": "armor-mr-jagras-greaves-alpha-plus",
@@ -5673,7 +5673,7 @@ export default {
     },
     "armor-mr-jagras-mail-beta-plus": {
       "Key": "armor-mr-jagras-mail-beta-plus",
-      "Translation": "ß Jagras e-mail +"
+      "Translation": "Jagras Correio ß +"
     },
     "armor-mr-jagras-vambraces-alpha-plus": {
       "Key": "armor-mr-jagras-vambraces-alpha-plus",
@@ -5689,7 +5689,7 @@ export default {
     },
     "armor-mr-jyura-beta-plus": {
       "Key": "armor-mr-jyura-beta-plus",
-      "Translation": "ß Jyura +"
+      "Translation": "Jyura ß +"
     },
     "armor-mr-jyura-coil-alpha-plus": {
       "Key": "armor-mr-jyura-coil-alpha-plus",
@@ -5697,7 +5697,7 @@ export default {
     },
     "armor-mr-jyura-coil-beta-plus": {
       "Key": "armor-mr-jyura-coil-beta-plus",
-      "Translation": "ß Jyura bobina +"
+      "Translation": "Jyura Bobina ß +"
     },
     "armor-mr-jyura-greaves-alpha-plus": {
       "Key": "armor-mr-jyura-greaves-alpha-plus",
@@ -5705,7 +5705,7 @@ export default {
     },
     "armor-mr-jyura-greaves-beta-plus": {
       "Key": "armor-mr-jyura-greaves-beta-plus",
-      "Translation": "ß Jyura Greaves +"
+      "Translation": "Jyura Greaves ß +"
     },
     "armor-mr-jyura-helm-alpha-plus": {
       "Key": "armor-mr-jyura-helm-alpha-plus",
@@ -5713,7 +5713,7 @@ export default {
     },
     "armor-mr-jyura-helm-beta-plus": {
       "Key": "armor-mr-jyura-helm-beta-plus",
-      "Translation": "ß Jyura Helm +"
+      "Translation": "Jyura Helm ß +"
     },
     "armor-mr-jyura-mail-alpha-plus": {
       "Key": "armor-mr-jyura-mail-alpha-plus",
@@ -5721,7 +5721,7 @@ export default {
     },
     "armor-mr-jyura-mail-beta-plus": {
       "Key": "armor-mr-jyura-mail-beta-plus",
-      "Translation": "ß Jyura e-mail +"
+      "Translation": "Jyura Correio ß +"
     },
     "armor-mr-jyura-vambraces-alpha-plus": {
       "Key": "armor-mr-jyura-vambraces-alpha-plus",
@@ -5729,7 +5729,7 @@ export default {
     },
     "armor-mr-jyura-vambraces-beta-plus": {
       "Key": "armor-mr-jyura-vambraces-beta-plus",
-      "Translation": "ß Jyura vambraces +"
+      "Translation": "Jyura Vambraces ß +"
     },
     "armor-mr-kadachi-alpha-plus": {
       "Key": "armor-mr-kadachi-alpha-plus",
@@ -5737,7 +5737,7 @@ export default {
     },
     "armor-mr-kadachi-beta-plus": {
       "Key": "armor-mr-kadachi-beta-plus",
-      "Translation": "ß Kadachi +"
+      "Translation": "Kadachi ß +"
     },
     "armor-mr-kadachi-coil-alpha-plus": {
       "Key": "armor-mr-kadachi-coil-alpha-plus",
@@ -5745,7 +5745,7 @@ export default {
     },
     "armor-mr-kadachi-coil-beta-plus": {
       "Key": "armor-mr-kadachi-coil-beta-plus",
-      "Translation": "ß Kadachi bobina +"
+      "Translation": "Kadachi Bobina ß +"
     },
     "armor-mr-kadachi-greaves-alpha-plus": {
       "Key": "armor-mr-kadachi-greaves-alpha-plus",
@@ -5753,7 +5753,7 @@ export default {
     },
     "armor-mr-kadachi-greaves-beta-plus": {
       "Key": "armor-mr-kadachi-greaves-beta-plus",
-      "Translation": "ß Kadachi Greaves +"
+      "Translation": "Kadachi Greaves ß +"
     },
     "armor-mr-kadachi-hat-alpha-plus": {
       "Key": "armor-mr-kadachi-hat-alpha-plus",
@@ -5761,7 +5761,7 @@ export default {
     },
     "armor-mr-kadachi-hat-beta-plus": {
       "Key": "armor-mr-kadachi-hat-beta-plus",
-      "Translation": "ß Kadachi Hat +"
+      "Translation": "Kadachi Hat ß +"
     },
     "armor-mr-kadachi-mail-alpha-plus": {
       "Key": "armor-mr-kadachi-mail-alpha-plus",
@@ -5769,7 +5769,7 @@ export default {
     },
     "armor-mr-kadachi-mail-beta-plus": {
       "Key": "armor-mr-kadachi-mail-beta-plus",
-      "Translation": "ß Kadachi e-mail +"
+      "Translation": "Kadachi Correio ß +"
     },
     "armor-mr-kadachi-vambraces-alpha-plus": {
       "Key": "armor-mr-kadachi-vambraces-alpha-plus",
@@ -5777,7 +5777,7 @@ export default {
     },
     "armor-mr-kadachi-vambraces-beta-plus": {
       "Key": "armor-mr-kadachi-vambraces-beta-plus",
-      "Translation": "ß Kadachi vambraces +"
+      "Translation": "Kadachi Vambraces ß +"
     },
     "armor-mr-kaiser-coil-alpha-plus": {
       "Key": "armor-mr-kaiser-coil-alpha-plus",
@@ -5785,7 +5785,7 @@ export default {
     },
     "armor-mr-kaiser-coil-beta-plus": {
       "Key": "armor-mr-kaiser-coil-beta-plus",
-      "Translation": "ß Kaiser bobina +"
+      "Translation": "Kaiser Bobina ß +"
     },
     "armor-mr-kaiser-crown-alpha-plus": {
       "Key": "armor-mr-kaiser-crown-alpha-plus",
@@ -5793,7 +5793,7 @@ export default {
     },
     "armor-mr-kaiser-crown-beta-plus": {
       "Key": "armor-mr-kaiser-crown-beta-plus",
-      "Translation": "ß Kaiser Crown +"
+      "Translation": "Kaiser Crown ß +"
     },
     "armor-mr-kaiser-greaves-alpha-plus": {
       "Key": "armor-mr-kaiser-greaves-alpha-plus",
@@ -5801,7 +5801,7 @@ export default {
     },
     "armor-mr-kaiser-greaves-beta-plus": {
       "Key": "armor-mr-kaiser-greaves-beta-plus",
-      "Translation": "ß Kaiser Greaves +"
+      "Translation": "Kaiser Greaves ß +"
     },
     "armor-mr-kaiser-mail-alpha-plus": {
       "Key": "armor-mr-kaiser-mail-alpha-plus",
@@ -5809,7 +5809,7 @@ export default {
     },
     "armor-mr-kaiser-mail-beta-plus": {
       "Key": "armor-mr-kaiser-mail-beta-plus",
-      "Translation": "ß Kaiser e-mail +"
+      "Translation": "Kaiser Correio ß +"
     },
     "armor-mr-kaiser-vambraces-alpha-plus": {
       "Key": "armor-mr-kaiser-vambraces-alpha-plus",
@@ -5817,7 +5817,7 @@ export default {
     },
     "armor-mr-kaiser-vambraces-beta-plus": {
       "Key": "armor-mr-kaiser-vambraces-beta-plus",
-      "Translation": "ß Kaiser vambraces +"
+      "Translation": "Kaiser Vambraces ß +"
     },
     "armor-mr-kestodon-alpha-plus": {
       "Key": "armor-mr-kestodon-alpha-plus",
@@ -5825,7 +5825,7 @@ export default {
     },
     "armor-mr-kestodon-beta-plus": {
       "Key": "armor-mr-kestodon-beta-plus",
-      "Translation": "ß Kestodon +"
+      "Translation": "Kestodon ß +"
     },
     "armor-mr-kestodon-guards-alpha-plus": {
       "Key": "armor-mr-kestodon-guards-alpha-plus",
@@ -5841,7 +5841,7 @@ export default {
     },
     "armor-mr-kirin-beta-plus": {
       "Key": "armor-mr-kirin-beta-plus",
-      "Translation": "ß Kirin +"
+      "Translation": "Kirin ß +"
     },
     "armor-mr-kirin-hoop-alpha-plus": {
       "Key": "armor-mr-kirin-hoop-alpha-plus",
@@ -5849,7 +5849,7 @@ export default {
     },
     "armor-mr-kirin-hoop-beta-plus": {
       "Key": "armor-mr-kirin-hoop-beta-plus",
-      "Translation": "ß Kirin Hoop +"
+      "Translation": "Kirin Hoop ß +"
     },
     "armor-mr-kirin-horn-alpha-plus": {
       "Key": "armor-mr-kirin-horn-alpha-plus",
@@ -5857,15 +5857,15 @@ export default {
     },
     "armor-mr-kirin-horn-beta-plus": {
       "Key": "armor-mr-kirin-horn-beta-plus",
-      "Translation": "ß Kirin Chifre +"
+      "Translation": "Kirin Chifre ß +"
     },
     "armor-mr-kirin-jacket-alpha-plus": {
       "Key": "armor-mr-kirin-jacket-alpha-plus",
-      "Translation": "Kirin Jacket ⍺ +"
+      "Translation": "Jacket Kirin ⍺ +"
     },
     "armor-mr-kirin-jacket-beta-plus": {
       "Key": "armor-mr-kirin-jacket-beta-plus",
-      "Translation": "Kirin ß jacket +"
+      "Translation": "Kirin Jacket ß +"
     },
     "armor-mr-kirin-leg-guards-alpha-plus": {
       "Key": "armor-mr-kirin-leg-guards-alpha-plus",
@@ -5873,7 +5873,7 @@ export default {
     },
     "armor-mr-kirin-leg-guards-beta-plus": {
       "Key": "armor-mr-kirin-leg-guards-beta-plus",
-      "Translation": "Kirin Leg guardas da SS +"
+      "Translation": "Kirin perna guardas da SS +"
     },
     "armor-mr-kirin-longarms-alpha-plus": {
       "Key": "armor-mr-kirin-longarms-alpha-plus",
@@ -5881,7 +5881,7 @@ export default {
     },
     "armor-mr-kirin-longarms-beta-plus": {
       "Key": "armor-mr-kirin-longarms-beta-plus",
-      "Translation": "ß Kirin Longarms +"
+      "Translation": "Kirin Longarms ß +"
     },
     "armor-mr-kulu-alpha-plus": {
       "Key": "armor-mr-kulu-alpha-plus",
@@ -5889,7 +5889,7 @@ export default {
     },
     "armor-mr-kulu-beta-plus": {
       "Key": "armor-mr-kulu-beta-plus",
-      "Translation": "ß Kulu +"
+      "Translation": "Kulu ß +"
     },
     "armor-mr-kulu-coil-alpha-plus": {
       "Key": "armor-mr-kulu-coil-alpha-plus",
@@ -5897,7 +5897,7 @@ export default {
     },
     "armor-mr-kulu-coil-beta-plus": {
       "Key": "armor-mr-kulu-coil-beta-plus",
-      "Translation": "ß Kulu bobina +"
+      "Translation": "Kulu Bobina ß +"
     },
     "armor-mr-kulu-greaves-alpha-plus": {
       "Key": "armor-mr-kulu-greaves-alpha-plus",
@@ -5905,7 +5905,7 @@ export default {
     },
     "armor-mr-kulu-greaves-beta-plus": {
       "Key": "armor-mr-kulu-greaves-beta-plus",
-      "Translation": "ß Kulu Greaves +"
+      "Translation": "Kulu Greaves ß +"
     },
     "armor-mr-kulu-headpiece-alpha-plus": {
       "Key": "armor-mr-kulu-headpiece-alpha-plus",
@@ -5913,7 +5913,7 @@ export default {
     },
     "armor-mr-kulu-headpiece-beta-plus": {
       "Key": "armor-mr-kulu-headpiece-beta-plus",
-      "Translation": "ß Kulu Headpiece +"
+      "Translation": "Kulu Headpiece ß +"
     },
     "armor-mr-kulu-mail-alpha-plus": {
       "Key": "armor-mr-kulu-mail-alpha-plus",
@@ -5921,7 +5921,7 @@ export default {
     },
     "armor-mr-kulu-mail-beta-plus": {
       "Key": "armor-mr-kulu-mail-beta-plus",
-      "Translation": "ß Kulu e-mail +"
+      "Translation": "Kulu Correio ß +"
     },
     "armor-mr-kulu-vambraces-alpha-plus": {
       "Key": "armor-mr-kulu-vambraces-alpha-plus",
@@ -5929,7 +5929,7 @@ export default {
     },
     "armor-mr-kulu-vambraces-beta-plus": {
       "Key": "armor-mr-kulu-vambraces-beta-plus",
-      "Translation": "ß Kulu vambraces +"
+      "Translation": "Kulu Vambraces ß +"
     },
     "armor-mr-kushala-alpha-plus": {
       "Key": "armor-mr-kushala-alpha-plus",
@@ -5937,7 +5937,7 @@ export default {
     },
     "armor-mr-kushala-beta-plus": {
       "Key": "armor-mr-kushala-beta-plus",
-      "Translation": "ß Kushala +"
+      "Translation": "Kushala ß +"
     },
     "armor-mr-kushala-cista-alpha-plus": {
       "Key": "armor-mr-kushala-cista-alpha-plus",
@@ -5945,7 +5945,7 @@ export default {
     },
     "armor-mr-kushala-cista-beta-plus": {
       "Key": "armor-mr-kushala-cista-beta-plus",
-      "Translation": "ß Kushala Cista +"
+      "Translation": "Kushala Cista ß +"
     },
     "armor-mr-kushala-cocoon-alpha-plus": {
       "Key": "armor-mr-kushala-cocoon-alpha-plus",
@@ -5953,7 +5953,7 @@ export default {
     },
     "armor-mr-kushala-cocoon-beta-plus": {
       "Key": "armor-mr-kushala-cocoon-beta-plus",
-      "Translation": "ß Kushala Cocoon +"
+      "Translation": "Kushala Cocoon ß +"
     },
     "armor-mr-kushala-crus-alpha-plus": {
       "Key": "armor-mr-kushala-crus-alpha-plus",
@@ -5961,7 +5961,7 @@ export default {
     },
     "armor-mr-kushala-crus-beta-plus": {
       "Key": "armor-mr-kushala-crus-beta-plus",
-      "Translation": "ß Kushala Crus +"
+      "Translation": "Kushala Crus ß +"
     },
     "armor-mr-kushala-glare-alpha-plus": {
       "Key": "armor-mr-kushala-glare-alpha-plus",
@@ -5969,7 +5969,7 @@ export default {
     },
     "armor-mr-kushala-glare-beta-plus": {
       "Key": "armor-mr-kushala-glare-beta-plus",
-      "Translation": "ß Kushala Brilho +"
+      "Translation": "Kushala Glare ß +"
     },
     "armor-mr-kushala-grip-alpha-plus": {
       "Key": "armor-mr-kushala-grip-alpha-plus",
@@ -5977,7 +5977,7 @@ export default {
     },
     "armor-mr-kushala-grip-beta-plus": {
       "Key": "armor-mr-kushala-grip-beta-plus",
-      "Translation": "Kushala ß aperto +"
+      "Translation": "Kushala aperto ß +"
     },
     "armor-mr-lavasioth-alpha-plus": {
       "Key": "armor-mr-lavasioth-alpha-plus",
@@ -5985,7 +5985,7 @@ export default {
     },
     "armor-mr-lavasioth-beta-plus": {
       "Key": "armor-mr-lavasioth-beta-plus",
-      "Translation": "ß Lavasioth +"
+      "Translation": "Lavasioth ß +"
     },
     "armor-mr-lavasioth-coil-alpha-plus": {
       "Key": "armor-mr-lavasioth-coil-alpha-plus",
@@ -5993,7 +5993,7 @@ export default {
     },
     "armor-mr-lavasioth-coil-beta-plus": {
       "Key": "armor-mr-lavasioth-coil-beta-plus",
-      "Translation": "ß Lavasioth bobina +"
+      "Translation": "Lavasioth Bobina ß +"
     },
     "armor-mr-lavasioth-greaves-alpha-plus": {
       "Key": "armor-mr-lavasioth-greaves-alpha-plus",
@@ -6001,7 +6001,7 @@ export default {
     },
     "armor-mr-lavasioth-greaves-beta-plus": {
       "Key": "armor-mr-lavasioth-greaves-beta-plus",
-      "Translation": "ß Lavasioth Greaves +"
+      "Translation": "Lavasioth Greaves ß +"
     },
     "armor-mr-lavasioth-helm-alpha-plus": {
       "Key": "armor-mr-lavasioth-helm-alpha-plus",
@@ -6017,7 +6017,7 @@ export default {
     },
     "armor-mr-lavasioth-mail-beta-plus": {
       "Key": "armor-mr-lavasioth-mail-beta-plus",
-      "Translation": "ß Lavasioth e-mail +"
+      "Translation": "Lavasioth Correio ß +"
     },
     "armor-mr-lavasioth-vambraces-alpha-plus": {
       "Key": "armor-mr-lavasioth-vambraces-alpha-plus",
@@ -6041,7 +6041,7 @@ export default {
     },
     "armor-mr-legiana-coil-beta-plus": {
       "Key": "armor-mr-legiana-coil-beta-plus",
-      "Translation": "ß Legiana bobina +"
+      "Translation": "Legiana Bobina ß +"
     },
     "armor-mr-legiana-greaves-alpha-plus": {
       "Key": "armor-mr-legiana-greaves-alpha-plus",
@@ -6065,7 +6065,7 @@ export default {
     },
     "armor-mr-legiana-mail-beta-plus": {
       "Key": "armor-mr-legiana-mail-beta-plus",
-      "Translation": "ß Legiana e-mail +"
+      "Translation": "Legiana Correio ß +"
     },
     "armor-mr-legiana-vambraces-alpha-plus": {
       "Key": "armor-mr-legiana-vambraces-alpha-plus",
@@ -6081,7 +6081,7 @@ export default {
     },
     "armor-mr-lumu-beta-plus": {
       "Key": "armor-mr-lumu-beta-plus",
-      "Translation": "ß Lumu +"
+      "Translation": "Lumu ß +"
     },
     "armor-mr-lumu-coil-alpha-plus": {
       "Key": "armor-mr-lumu-coil-alpha-plus",
@@ -6089,7 +6089,7 @@ export default {
     },
     "armor-mr-lumu-coil-beta-plus": {
       "Key": "armor-mr-lumu-coil-beta-plus",
-      "Translation": "ß Lumu bobina +"
+      "Translation": "Lumu Bobina ß +"
     },
     "armor-mr-lumu-greaves-alpha-plus": {
       "Key": "armor-mr-lumu-greaves-alpha-plus",
@@ -6097,7 +6097,7 @@ export default {
     },
     "armor-mr-lumu-greaves-beta-plus": {
       "Key": "armor-mr-lumu-greaves-beta-plus",
-      "Translation": "ß Lumu Greaves +"
+      "Translation": "Lumu Greaves ß +"
     },
     "armor-mr-lumu-hat-alpha-plus": {
       "Key": "armor-mr-lumu-hat-alpha-plus",
@@ -6105,7 +6105,7 @@ export default {
     },
     "armor-mr-lumu-hat-beta-plus": {
       "Key": "armor-mr-lumu-hat-beta-plus",
-      "Translation": "ß Lumu Hat +"
+      "Translation": "Lumu Hat ß +"
     },
     "armor-mr-lumu-mail-alpha-plus": {
       "Key": "armor-mr-lumu-mail-alpha-plus",
@@ -6113,7 +6113,7 @@ export default {
     },
     "armor-mr-lumu-mail-beta-plus": {
       "Key": "armor-mr-lumu-mail-beta-plus",
-      "Translation": "ß Lumu e-mail +"
+      "Translation": "Lumu Correio ß +"
     },
     "armor-mr-lumu-phantasm-alpha-plus": {
       "Key": "armor-mr-lumu-phantasm-alpha-plus",
@@ -6121,7 +6121,7 @@ export default {
     },
     "armor-mr-lumu-phantasm-beta-plus": {
       "Key": "armor-mr-lumu-phantasm-beta-plus",
-      "Translation": "ß Lumu Phantasm +"
+      "Translation": "Lumu Phantasm ß +"
     },
     "armor-mr-lumu-phantasm-braces-alpha-plus": {
       "Key": "armor-mr-lumu-phantasm-braces-alpha-plus",
@@ -6129,7 +6129,7 @@ export default {
     },
     "armor-mr-lumu-phantasm-braces-beta-plus": {
       "Key": "armor-mr-lumu-phantasm-braces-beta-plus",
-      "Translation": "ß Lumu Phantasm Suspensórios +"
+      "Translation": "Lumu Phantasm Suspensórios ß +"
     },
     "armor-mr-lumu-phantasm-coil-alpha-plus": {
       "Key": "armor-mr-lumu-phantasm-coil-alpha-plus",
@@ -6137,7 +6137,7 @@ export default {
     },
     "armor-mr-lumu-phantasm-coil-beta-plus": {
       "Key": "armor-mr-lumu-phantasm-coil-beta-plus",
-      "Translation": "ß Lumu Phantasm bobina +"
+      "Translation": "Lumu Phantasm Bobina ß +"
     },
     "armor-mr-lumu-phantasm-greaves-alpha-plus": {
       "Key": "armor-mr-lumu-phantasm-greaves-alpha-plus",
@@ -6145,7 +6145,7 @@ export default {
     },
     "armor-mr-lumu-phantasm-greaves-beta-plus": {
       "Key": "armor-mr-lumu-phantasm-greaves-beta-plus",
-      "Translation": "ß Lumu Phantasm Greaves +"
+      "Translation": "Lumu Phantasm Greaves ß +"
     },
     "armor-mr-lumu-phantasm-hood-alpha-plus": {
       "Key": "armor-mr-lumu-phantasm-hood-alpha-plus",
@@ -6153,7 +6153,7 @@ export default {
     },
     "armor-mr-lumu-phantasm-hood-beta-plus": {
       "Key": "armor-mr-lumu-phantasm-hood-beta-plus",
-      "Translation": "ß Lumu Phantasm capa +"
+      "Translation": "Lumu Phantasm capa ß +"
     },
     "armor-mr-lumu-phantasm-mail-alpha-plus": {
       "Key": "armor-mr-lumu-phantasm-mail-alpha-plus",
@@ -6161,7 +6161,7 @@ export default {
     },
     "armor-mr-lumu-phantasm-mail-beta-plus": {
       "Key": "armor-mr-lumu-phantasm-mail-beta-plus",
-      "Translation": "ß Lumu Phantasm e-mail +"
+      "Translation": "Lumu Phantasm Correio ß +"
     },
     "armor-mr-lumu-vambraces-alpha-plus": {
       "Key": "armor-mr-lumu-vambraces-alpha-plus",
@@ -6169,7 +6169,7 @@ export default {
     },
     "armor-mr-lumu-vambraces-beta-plus": {
       "Key": "armor-mr-lumu-vambraces-beta-plus",
-      "Translation": "ß Lumu vambraces +"
+      "Translation": "Lumu Vambraces ß +"
     },
     "armor-mr-lunastra-alpha-plus": {
       "Key": "armor-mr-lunastra-alpha-plus",
@@ -6177,7 +6177,7 @@ export default {
     },
     "armor-mr-lunastra-beta-plus": {
       "Key": "armor-mr-lunastra-beta-plus",
-      "Translation": "ß Lunastra +"
+      "Translation": "Lunastra ß +"
     },
     "armor-mr-namielle-alpha-plus": {
       "Key": "armor-mr-namielle-alpha-plus",
@@ -6185,7 +6185,7 @@ export default {
     },
     "armor-mr-namielle-beta-plus": {
       "Key": "armor-mr-namielle-beta-plus",
-      "Translation": "ß Namielle +"
+      "Translation": "Namielle ß +"
     },
     "armor-mr-nargacuga-alpha-plus": {
       "Key": "armor-mr-nargacuga-alpha-plus",
@@ -6193,7 +6193,7 @@ export default {
     },
     "armor-mr-nargacuga-beta-plus": {
       "Key": "armor-mr-nargacuga-beta-plus",
-      "Translation": "ß Nargacuga +"
+      "Translation": "Nargacuga ß +"
     },
     "armor-mr-nargacuga-braces-alpha-plus": {
       "Key": "armor-mr-nargacuga-braces-alpha-plus",
@@ -6201,7 +6201,7 @@ export default {
     },
     "armor-mr-nargacuga-braces-beta-plus": {
       "Key": "armor-mr-nargacuga-braces-beta-plus",
-      "Translation": "ß Nargacuga Suspensórios +"
+      "Translation": "Nargacuga Suspensórios ß +"
     },
     "armor-mr-nargacuga-faulds-alpha-plus": {
       "Key": "armor-mr-nargacuga-faulds-alpha-plus",
@@ -6209,7 +6209,7 @@ export default {
     },
     "armor-mr-nargacuga-faulds-beta-plus": {
       "Key": "armor-mr-nargacuga-faulds-beta-plus",
-      "Translation": "ß Nargacuga Faulds +"
+      "Translation": "Nargacuga Faulds ß +"
     },
     "armor-mr-nargacuga-greaves-alpha-plus": {
       "Key": "armor-mr-nargacuga-greaves-alpha-plus",
@@ -6217,7 +6217,7 @@ export default {
     },
     "armor-mr-nargacuga-greaves-beta-plus": {
       "Key": "armor-mr-nargacuga-greaves-beta-plus",
-      "Translation": "ß Nargacuga Greaves +"
+      "Translation": "Nargacuga Greaves ß +"
     },
     "armor-mr-nargacuga-helm-alpha-plus": {
       "Key": "armor-mr-nargacuga-helm-alpha-plus",
@@ -6225,7 +6225,7 @@ export default {
     },
     "armor-mr-nargacuga-helm-beta-plus": {
       "Key": "armor-mr-nargacuga-helm-beta-plus",
-      "Translation": "ß Nargacuga Helm +"
+      "Translation": "Nargacuga Helm ß +"
     },
     "armor-mr-nargacuga-mail-alpha-plus": {
       "Key": "armor-mr-nargacuga-mail-alpha-plus",
@@ -6233,7 +6233,7 @@ export default {
     },
     "armor-mr-nargacuga-mail-beta-plus": {
       "Key": "armor-mr-nargacuga-mail-beta-plus",
-      "Translation": "ß Nargacuga e-mail +"
+      "Translation": "Nargacuga Correio ß +"
     },
     "armor-mr-odogaron-alpha-plus": {
       "Key": "armor-mr-odogaron-alpha-plus",
@@ -6241,7 +6241,7 @@ export default {
     },
     "armor-mr-odogaron-beta-plus": {
       "Key": "armor-mr-odogaron-beta-plus",
-      "Translation": "ß Odogaron +"
+      "Translation": "Odogaron ß +"
     },
     "armor-mr-odogaron-coil-alpha-plus": {
       "Key": "armor-mr-odogaron-coil-alpha-plus",
@@ -6249,7 +6249,7 @@ export default {
     },
     "armor-mr-odogaron-coil-beta-plus": {
       "Key": "armor-mr-odogaron-coil-beta-plus",
-      "Translation": "ß Odogaron bobina +"
+      "Translation": "Odogaron Bobina ß +"
     },
     "armor-mr-odogaron-greaves-alpha-plus": {
       "Key": "armor-mr-odogaron-greaves-alpha-plus",
@@ -6257,7 +6257,7 @@ export default {
     },
     "armor-mr-odogaron-greaves-beta-plus": {
       "Key": "armor-mr-odogaron-greaves-beta-plus",
-      "Translation": "ß Odogaron Greaves +"
+      "Translation": "Odogaron Greaves ß +"
     },
     "armor-mr-odogaron-helm-alpha-plus": {
       "Key": "armor-mr-odogaron-helm-alpha-plus",
@@ -6273,7 +6273,7 @@ export default {
     },
     "armor-mr-odogaron-mail-beta-plus": {
       "Key": "armor-mr-odogaron-mail-beta-plus",
-      "Translation": "ß Odogaron e-mail +"
+      "Translation": "Odogaron Correio ß +"
     },
     "armor-mr-odogaron-vambraces-alpha-plus": {
       "Key": "armor-mr-odogaron-vambraces-alpha-plus",
@@ -6281,7 +6281,7 @@ export default {
     },
     "armor-mr-odogaron-vambraces-beta-plus": {
       "Key": "armor-mr-odogaron-vambraces-beta-plus",
-      "Translation": "ß Odogaron vambraces +"
+      "Translation": "Odogaron Vambraces ß +"
     },
     "armor-mr-pearlspring-alpha-plus": {
       "Key": "armor-mr-pearlspring-alpha-plus",
@@ -6297,7 +6297,7 @@ export default {
     },
     "armor-mr-pride-greaves-beta-plus": {
       "Key": "armor-mr-pride-greaves-beta-plus",
-      "Translation": "ß orgulho Greaves +"
+      "Translation": "Orgulho Greaves ß +"
     },
     "armor-mr-pride-helm-alpha-plus": {
       "Key": "armor-mr-pride-helm-alpha-plus",
@@ -6305,7 +6305,7 @@ export default {
     },
     "armor-mr-pride-helm-beta-plus": {
       "Key": "armor-mr-pride-helm-beta-plus",
-      "Translation": "ß orgulho Helm +"
+      "Translation": "Orgulho Helm ß +"
     },
     "armor-mr-pride-mail-alpha-plus": {
       "Key": "armor-mr-pride-mail-alpha-plus",
@@ -6313,7 +6313,7 @@ export default {
     },
     "armor-mr-pride-mail-beta-plus": {
       "Key": "armor-mr-pride-mail-beta-plus",
-      "Translation": "ß orgulho e-mail +"
+      "Translation": "Orgulho Correio ß +"
     },
     "armor-mr-pride-vambraces-alpha-plus": {
       "Key": "armor-mr-pride-vambraces-alpha-plus",
@@ -6325,7 +6325,7 @@ export default {
     },
     "armor-mr-pukei-beta-plus": {
       "Key": "armor-mr-pukei-beta-plus",
-      "Translation": "ß Pukei +"
+      "Translation": "Pukei ß +"
     },
     "armor-mr-pukei-coil-alpha-plus": {
       "Key": "armor-mr-pukei-coil-alpha-plus",
@@ -6333,7 +6333,7 @@ export default {
     },
     "armor-mr-pukei-coil-beta-plus": {
       "Key": "armor-mr-pukei-coil-beta-plus",
-      "Translation": "ß Pukei bobina +"
+      "Translation": "Pukei Bobina ß +"
     },
     "armor-mr-pukei-greaves-alpha-plus": {
       "Key": "armor-mr-pukei-greaves-alpha-plus",
@@ -6341,7 +6341,7 @@ export default {
     },
     "armor-mr-pukei-greaves-beta-plus": {
       "Key": "armor-mr-pukei-greaves-beta-plus",
-      "Translation": "ß Pukei Greaves +"
+      "Translation": "Pukei Greaves ß +"
     },
     "armor-mr-pukei-hat-alpha-plus": {
       "Key": "armor-mr-pukei-hat-alpha-plus",
@@ -6349,7 +6349,7 @@ export default {
     },
     "armor-mr-pukei-hat-beta-plus": {
       "Key": "armor-mr-pukei-hat-beta-plus",
-      "Translation": "ß Pukei Hat +"
+      "Translation": "Pukei Hat ß +"
     },
     "armor-mr-pukei-lagoon-braces-alpha-plus": {
       "Key": "armor-mr-pukei-lagoon-braces-alpha-plus",
@@ -6357,7 +6357,7 @@ export default {
     },
     "armor-mr-pukei-lagoon-braces-beta-plus": {
       "Key": "armor-mr-pukei-lagoon-braces-beta-plus",
-      "Translation": "ß Pukei Lagoa Suspensórios +"
+      "Translation": "Pukei Lagoa Suspensórios ß +"
     },
     "armor-mr-pukei-lagoon-coil-alpha-plus": {
       "Key": "armor-mr-pukei-lagoon-coil-alpha-plus",
@@ -6365,7 +6365,7 @@ export default {
     },
     "armor-mr-pukei-lagoon-coil-beta-plus": {
       "Key": "armor-mr-pukei-lagoon-coil-beta-plus",
-      "Translation": "ß Pukei Lagoa bobina +"
+      "Translation": "Pukei Lagoa Bobina ß +"
     },
     "armor-mr-pukei-lagoon-greaves-alpha-plus": {
       "Key": "armor-mr-pukei-lagoon-greaves-alpha-plus",
@@ -6373,7 +6373,7 @@ export default {
     },
     "armor-mr-pukei-lagoon-greaves-beta-plus": {
       "Key": "armor-mr-pukei-lagoon-greaves-beta-plus",
-      "Translation": "ß Pukei Lagoa Greaves +"
+      "Translation": "Pukei Lagoa Greaves ß +"
     },
     "armor-mr-pukei-lagoon-hat-alpha-plus": {
       "Key": "armor-mr-pukei-lagoon-hat-alpha-plus",
@@ -6381,7 +6381,7 @@ export default {
     },
     "armor-mr-pukei-lagoon-hat-beta-plus": {
       "Key": "armor-mr-pukei-lagoon-hat-beta-plus",
-      "Translation": "ß Pukei Lagoa Hat +"
+      "Translation": "Pukei Lagoa Hat ß +"
     },
     "armor-mr-pukei-lagoon-mail-alpha-plus": {
       "Key": "armor-mr-pukei-lagoon-mail-alpha-plus",
@@ -6389,7 +6389,7 @@ export default {
     },
     "armor-mr-pukei-lagoon-mail-beta-plus": {
       "Key": "armor-mr-pukei-lagoon-mail-beta-plus",
-      "Translation": "ß Pukei Lagoa e-mail +"
+      "Translation": "Pukei Lagoa Correio ß +"
     },
     "armor-mr-pukei-mail-alpha-plus": {
       "Key": "armor-mr-pukei-mail-alpha-plus",
@@ -6397,7 +6397,7 @@ export default {
     },
     "armor-mr-pukei-mail-beta-plus": {
       "Key": "armor-mr-pukei-mail-beta-plus",
-      "Translation": "ß Pukei e-mail +"
+      "Translation": "Pukei Correio ß +"
     },
     "armor-mr-pukei-vambraces-alpha-plus": {
       "Key": "armor-mr-pukei-vambraces-alpha-plus",
@@ -6405,7 +6405,7 @@ export default {
     },
     "armor-mr-pukei-vambraces-beta-plus": {
       "Key": "armor-mr-pukei-vambraces-beta-plus",
-      "Translation": "ß Pukei vambraces +"
+      "Translation": "Pukei Vambraces ß +"
     },
     "armor-mr-rajang-alpha-plus": {
       "Key": "armor-mr-rajang-alpha-plus",
@@ -6413,7 +6413,7 @@ export default {
     },
     "armor-mr-rajang-beta-plus": {
       "Key": "armor-mr-rajang-beta-plus",
-      "Translation": "ß Rajang +"
+      "Translation": "Rajang ß +"
     },
     "armor-mr-rath-heart-alpha-plus": {
       "Key": "armor-mr-rath-heart-alpha-plus",
@@ -6421,7 +6421,7 @@ export default {
     },
     "armor-mr-rath-heart-beta-plus": {
       "Key": "armor-mr-rath-heart-beta-plus",
-      "Translation": "ß Rath Coração +"
+      "Translation": "Rath coração ß +"
     },
     "armor-mr-rath-heart-braces-alpha-plus": {
       "Key": "armor-mr-rath-heart-braces-alpha-plus",
@@ -6429,7 +6429,7 @@ export default {
     },
     "armor-mr-rath-heart-braces-beta-plus": {
       "Key": "armor-mr-rath-heart-braces-beta-plus",
-      "Translation": "ß Rath coração Suspensórios +"
+      "Translation": "Rath coração Suspensórios ß +"
     },
     "armor-mr-rath-heart-coil-alpha-plus": {
       "Key": "armor-mr-rath-heart-coil-alpha-plus",
@@ -6437,7 +6437,7 @@ export default {
     },
     "armor-mr-rath-heart-coil-beta-plus": {
       "Key": "armor-mr-rath-heart-coil-beta-plus",
-      "Translation": "ß Rath coração bobina +"
+      "Translation": "Rath coração Bobina ß +"
     },
     "armor-mr-rath-heart-greaves-alpha-plus": {
       "Key": "armor-mr-rath-heart-greaves-alpha-plus",
@@ -6445,7 +6445,7 @@ export default {
     },
     "armor-mr-rath-heart-greaves-beta-plus": {
       "Key": "armor-mr-rath-heart-greaves-beta-plus",
-      "Translation": "ß Rath coração Greaves +"
+      "Translation": "Rath coração Greaves ß +"
     },
     "armor-mr-rath-heart-helm-alpha-plus": {
       "Key": "armor-mr-rath-heart-helm-alpha-plus",
@@ -6453,7 +6453,7 @@ export default {
     },
     "armor-mr-rath-heart-helm-beta-plus": {
       "Key": "armor-mr-rath-heart-helm-beta-plus",
-      "Translation": "ß Rath coração Helm +"
+      "Translation": "Rath coração Helm ß +"
     },
     "armor-mr-rath-heart-mail-alpha-plus": {
       "Key": "armor-mr-rath-heart-mail-alpha-plus",
@@ -6461,7 +6461,7 @@ export default {
     },
     "armor-mr-rath-heart-mail-beta-plus": {
       "Key": "armor-mr-rath-heart-mail-beta-plus",
-      "Translation": "ß Rath coração e-mail +"
+      "Translation": "Rath coração correio ß +"
     },
     "armor-mr-rath-soul-alpha-plus": {
       "Key": "armor-mr-rath-soul-alpha-plus",
@@ -6469,7 +6469,7 @@ export default {
     },
     "armor-mr-rath-soul-beta-plus": {
       "Key": "armor-mr-rath-soul-beta-plus",
-      "Translation": "ß Rath Alma +"
+      "Translation": "Rath Alma ß +"
     },
     "armor-mr-rathalos-alpha-plus": {
       "Key": "armor-mr-rathalos-alpha-plus",
@@ -6485,7 +6485,7 @@ export default {
     },
     "armor-mr-rathalos-coil-beta-plus": {
       "Key": "armor-mr-rathalos-coil-beta-plus",
-      "Translation": "ß Rathalos bobina +"
+      "Translation": "Rathalos Bobina ß +"
     },
     "armor-mr-rathalos-greaves-alpha-plus": {
       "Key": "armor-mr-rathalos-greaves-alpha-plus",
@@ -6509,7 +6509,7 @@ export default {
     },
     "armor-mr-rathalos-mail-beta-plus": {
       "Key": "armor-mr-rathalos-mail-beta-plus",
-      "Translation": "ß Rathalos e-mail +"
+      "Translation": "Rathalos Correio ß +"
     },
     "armor-mr-rathalos-vambraces-alpha-plus": {
       "Key": "armor-mr-rathalos-vambraces-alpha-plus",
@@ -6521,7 +6521,7 @@ export default {
     },
     "armor-mr-rathian-beta-plus": {
       "Key": "armor-mr-rathian-beta-plus",
-      "Translation": "ß Rathian +"
+      "Translation": "Rathian ß +"
     },
     "armor-mr-rathian-coil-alpha-plus": {
       "Key": "armor-mr-rathian-coil-alpha-plus",
@@ -6529,7 +6529,7 @@ export default {
     },
     "armor-mr-rathian-coil-beta-plus": {
       "Key": "armor-mr-rathian-coil-beta-plus",
-      "Translation": "ß Rathian bobina +"
+      "Translation": "Rathian Bobina ß +"
     },
     "armor-mr-rathian-greaves-alpha-plus": {
       "Key": "armor-mr-rathian-greaves-alpha-plus",
@@ -6541,7 +6541,7 @@ export default {
     },
     "armor-mr-rathian-helm-alpha-plus": {
       "Key": "armor-mr-rathian-helm-alpha-plus",
-      "Translation": "Helm Rathian ⍺ +"
+      "Translation": "Rathian Helm ⍺ +"
     },
     "armor-mr-rathian-helm-beta-plus": {
       "Key": "armor-mr-rathian-helm-beta-plus",
@@ -6553,7 +6553,7 @@ export default {
     },
     "armor-mr-rathian-mail-beta-plus": {
       "Key": "armor-mr-rathian-mail-beta-plus",
-      "Translation": "ß correio Rathian +"
+      "Translation": "Correio Rathian ß +"
     },
     "armor-mr-rathian-vambraces-alpha-plus": {
       "Key": "armor-mr-rathian-vambraces-alpha-plus",
@@ -6569,7 +6569,7 @@ export default {
     },
     "armor-mr-rimeguard-coil-beta-plus": {
       "Key": "armor-mr-rimeguard-coil-beta-plus",
-      "Translation": "ß Rimeguard bobina +"
+      "Translation": "Rimeguard Bobina ß +"
     },
     "armor-mr-rimeguard-greaves-alpha-plus": {
       "Key": "armor-mr-rimeguard-greaves-alpha-plus",
@@ -6593,7 +6593,7 @@ export default {
     },
     "armor-mr-rimeguard-mail-beta-plus": {
       "Key": "armor-mr-rimeguard-mail-beta-plus",
-      "Translation": "ß Rimeguard e-mail +"
+      "Translation": "Rimeguard Correio ß +"
     },
     "armor-mr-rimeguard-vambraces-alpha-plus": {
       "Key": "armor-mr-rimeguard-vambraces-alpha-plus",
@@ -6609,7 +6609,7 @@ export default {
     },
     "armor-mr-ruiner-nergi-beta-plus": {
       "Key": "armor-mr-ruiner-nergi-beta-plus",
-      "Translation": "ß Ruiner Nergi +"
+      "Translation": "Ruiner Nergi ß +"
     },
     "armor-mr-ruinous-coil-alpha-plus": {
       "Key": "armor-mr-ruinous-coil-alpha-plus",
@@ -6617,23 +6617,23 @@ export default {
     },
     "armor-mr-ruinous-coil-beta-plus": {
       "Key": "armor-mr-ruinous-coil-beta-plus",
-      "Translation": "ß ruinosas bobina +"
+      "Translation": "Ruinosa Bobina ß +"
     },
     "armor-mr-ruinous-greaves-alpha-plus": {
       "Key": "armor-mr-ruinous-greaves-alpha-plus",
-      "Translation": "Greaves ruinosas ⍺ +"
+      "Translation": "Ruinosa Greaves ⍺ +"
     },
     "armor-mr-ruinous-greaves-beta-plus": {
       "Key": "armor-mr-ruinous-greaves-beta-plus",
-      "Translation": "ß ruinosas Greaves +"
+      "Translation": "Ruinosa Greaves ß +"
     },
     "armor-mr-ruinous-helm-alpha-plus": {
       "Key": "armor-mr-ruinous-helm-alpha-plus",
-      "Translation": "Helm ruinosa ⍺ +"
+      "Translation": "Ruinosa Helm ⍺ +"
     },
     "armor-mr-ruinous-helm-beta-plus": {
       "Key": "armor-mr-ruinous-helm-beta-plus",
-      "Translation": "ß Helm ruinosas +"
+      "Translation": "Ruinosa Helm ß +"
     },
     "armor-mr-ruinous-mail-alpha-plus": {
       "Key": "armor-mr-ruinous-mail-alpha-plus",
@@ -6641,7 +6641,7 @@ export default {
     },
     "armor-mr-ruinous-mail-beta-plus": {
       "Key": "armor-mr-ruinous-mail-beta-plus",
-      "Translation": "ß correio ruinosas +"
+      "Translation": "Ruinosa Correio ß +"
     },
     "armor-mr-ruinous-vambraces-alpha-plus": {
       "Key": "armor-mr-ruinous-vambraces-alpha-plus",
@@ -6649,7 +6649,7 @@ export default {
     },
     "armor-mr-ruinous-vambraces-beta-plus": {
       "Key": "armor-mr-ruinous-vambraces-beta-plus",
-      "Translation": "ß ruinosas vambraces +"
+      "Translation": "Ruinosa Vambraces ß +"
     },
     "armor-mr-savage-jho-alpha-plus": {
       "Key": "armor-mr-savage-jho-alpha-plus",
@@ -6657,7 +6657,7 @@ export default {
     },
     "armor-mr-savage-jho-beta-plus": {
       "Key": "armor-mr-savage-jho-beta-plus",
-      "Translation": "ß Savage jho +"
+      "Translation": "Savage Jho ß +"
     },
     "armor-mr-seething-bazel-alpha-plus": {
       "Key": "armor-mr-seething-bazel-alpha-plus",
@@ -6665,7 +6665,7 @@ export default {
     },
     "armor-mr-seething-bazel-beta-plus": {
       "Key": "armor-mr-seething-bazel-beta-plus",
-      "Translation": "Fervendo ß Bazel +"
+      "Translation": "Seething Bazel ß +"
     },
     "armor-mr-shamos-alpha-plus": {
       "Key": "armor-mr-shamos-alpha-plus",
@@ -6673,7 +6673,7 @@ export default {
     },
     "armor-mr-shamos-beta-plus": {
       "Key": "armor-mr-shamos-beta-plus",
-      "Translation": "ß Shamos +"
+      "Translation": "Shamos ß +"
     },
     "armor-mr-shamos-goggles-alpha-plus": {
       "Key": "armor-mr-shamos-goggles-alpha-plus",
@@ -6681,7 +6681,7 @@ export default {
     },
     "armor-mr-shamos-goggles-beta-plus": {
       "Key": "armor-mr-shamos-goggles-beta-plus",
-      "Translation": "ß Shamos Óculos +"
+      "Translation": "Shamos Goggles ß +"
     },
     "armor-mr-shara-ishvalda-alpha-plus": {
       "Key": "armor-mr-shara-ishvalda-alpha-plus",
@@ -6689,7 +6689,7 @@ export default {
     },
     "armor-mr-shara-ishvalda-beta-plus": {
       "Key": "armor-mr-shara-ishvalda-beta-plus",
-      "Translation": "ß Shara Ishvalda +"
+      "Translation": "Shara Ishvalda ß +"
     },
     "armor-mr-shara-ishvalda-braces-alpha-plus": {
       "Key": "armor-mr-shara-ishvalda-braces-alpha-plus",
@@ -6697,7 +6697,7 @@ export default {
     },
     "armor-mr-shara-ishvalda-braces-beta-plus": {
       "Key": "armor-mr-shara-ishvalda-braces-beta-plus",
-      "Translation": "ß Shara Ishvalda Suspensórios +"
+      "Translation": "Shara Ishvalda Suspensórios ß +"
     },
     "armor-mr-shara-ishvalda-coil-alpha-plus": {
       "Key": "armor-mr-shara-ishvalda-coil-alpha-plus",
@@ -6705,7 +6705,7 @@ export default {
     },
     "armor-mr-shara-ishvalda-coil-beta-plus": {
       "Key": "armor-mr-shara-ishvalda-coil-beta-plus",
-      "Translation": "ß Shara Ishvalda bobina +"
+      "Translation": "Shara Ishvalda Bobina ß +"
     },
     "armor-mr-shara-ishvalda-greaves-alpha-plus": {
       "Key": "armor-mr-shara-ishvalda-greaves-alpha-plus",
@@ -6713,7 +6713,7 @@ export default {
     },
     "armor-mr-shara-ishvalda-greaves-beta-plus": {
       "Key": "armor-mr-shara-ishvalda-greaves-beta-plus",
-      "Translation": "ß Shara Ishvalda Greaves +"
+      "Translation": "Shara Ishvalda Greaves ß +"
     },
     "armor-mr-shara-ishvalda-helm-alpha-plus": {
       "Key": "armor-mr-shara-ishvalda-helm-alpha-plus",
@@ -6721,7 +6721,7 @@ export default {
     },
     "armor-mr-shara-ishvalda-helm-beta-plus": {
       "Key": "armor-mr-shara-ishvalda-helm-beta-plus",
-      "Translation": "ß Shara Ishvalda Helm +"
+      "Translation": "Shara Ishvalda Helm ß +"
     },
     "armor-mr-shara-ishvalda-mail-alpha-plus": {
       "Key": "armor-mr-shara-ishvalda-mail-alpha-plus",
@@ -6733,7 +6733,7 @@ export default {
     },
     "armor-mr-shrieking-legia-beta-plus": {
       "Key": "armor-mr-shrieking-legia-beta-plus",
-      "Translation": "ß gritos Legia +"
+      "Translation": "Shrieking Legia ß +"
     },
     "armor-mr-silver-sol-alpha-plus": {
       "Key": "armor-mr-silver-sol-alpha-plus",
@@ -6741,7 +6741,7 @@ export default {
     },
     "armor-mr-silver-sol-beta-plus": {
       "Key": "armor-mr-silver-sol-beta-plus",
-      "Translation": "ß prata Sol +"
+      "Translation": "Prata Sol ß +"
     },
     "armor-mr-silver-solbraces-alpha-plus": {
       "Key": "armor-mr-silver-solbraces-alpha-plus",
@@ -6749,7 +6749,7 @@ export default {
     },
     "armor-mr-silver-solbraces-beta-plus": {
       "Key": "armor-mr-silver-solbraces-beta-plus",
-      "Translation": "ß prata Solbraces +"
+      "Translation": "Prata Solbraces ß +"
     },
     "armor-mr-silver-solcoil-alpha-plus": {
       "Key": "armor-mr-silver-solcoil-alpha-plus",
@@ -6757,7 +6757,7 @@ export default {
     },
     "armor-mr-silver-solcoil-beta-plus": {
       "Key": "armor-mr-silver-solcoil-beta-plus",
-      "Translation": "ß prata Solcoil +"
+      "Translation": "Prata Solcoil ß +"
     },
     "armor-mr-silver-solgreaves-alpha-plus": {
       "Key": "armor-mr-silver-solgreaves-alpha-plus",
@@ -6765,7 +6765,7 @@ export default {
     },
     "armor-mr-silver-solgreaves-beta-plus": {
       "Key": "armor-mr-silver-solgreaves-beta-plus",
-      "Translation": "ß prata Solgreaves +"
+      "Translation": "Prata Solgreaves ß +"
     },
     "armor-mr-silver-solhelm-alpha-plus": {
       "Key": "armor-mr-silver-solhelm-alpha-plus",
@@ -6773,7 +6773,7 @@ export default {
     },
     "armor-mr-silver-solhelm-beta-plus": {
       "Key": "armor-mr-silver-solhelm-beta-plus",
-      "Translation": "ß prata Solhelm +"
+      "Translation": "Prata Solhelm ß +"
     },
     "armor-mr-silver-solmail-alpha-plus": {
       "Key": "armor-mr-silver-solmail-alpha-plus",
@@ -6781,7 +6781,7 @@ export default {
     },
     "armor-mr-silver-solmail-beta-plus": {
       "Key": "armor-mr-silver-solmail-beta-plus",
-      "Translation": "ß prata Solmail +"
+      "Translation": "Prata Solmail ß +"
     },
     "armor-mr-tentacle-cloak-alpha-plus": {
       "Key": "armor-mr-tentacle-cloak-alpha-plus",
@@ -6789,7 +6789,7 @@ export default {
     },
     "armor-mr-tentacle-cloak-beta-plus": {
       "Key": "armor-mr-tentacle-cloak-beta-plus",
-      "Translation": "ß Tentacle Cloak +"
+      "Translation": "Tentacle Manto ß +"
     },
     "armor-mr-tentacle-coil-alpha-plus": {
       "Key": "armor-mr-tentacle-coil-alpha-plus",
@@ -6797,7 +6797,7 @@ export default {
     },
     "armor-mr-tentacle-coil-beta-plus": {
       "Key": "armor-mr-tentacle-coil-beta-plus",
-      "Translation": "ß Tentacle bobina +"
+      "Translation": "Tentacle Bobina ß +"
     },
     "armor-mr-tentacle-cowl-alpha-plus": {
       "Key": "armor-mr-tentacle-cowl-alpha-plus",
@@ -6805,7 +6805,7 @@ export default {
     },
     "armor-mr-tentacle-cowl-beta-plus": {
       "Key": "armor-mr-tentacle-cowl-beta-plus",
-      "Translation": "ß Tentacle Cowl +"
+      "Translation": "Tentacle Cowl ß +"
     },
     "armor-mr-tentacle-gloves-alpha-plus": {
       "Key": "armor-mr-tentacle-gloves-alpha-plus",
@@ -6821,7 +6821,7 @@ export default {
     },
     "armor-mr-tentacle-greaves-beta-plus": {
       "Key": "armor-mr-tentacle-greaves-beta-plus",
-      "Translation": "ß Tentacle Greaves +"
+      "Translation": "Tentacle Greaves ß +"
     },
     "armor-mr-teostra-alpha-plus": {
       "Key": "armor-mr-teostra-alpha-plus",
@@ -6829,7 +6829,7 @@ export default {
     },
     "armor-mr-teostra-beta-plus": {
       "Key": "armor-mr-teostra-beta-plus",
-      "Translation": "ß Teostra +"
+      "Translation": "Teostra ß +"
     },
     "armor-mr-tigrex-alpha-plus": {
       "Key": "armor-mr-tigrex-alpha-plus",
@@ -6837,7 +6837,7 @@ export default {
     },
     "armor-mr-tigrex-beta-plus": {
       "Key": "armor-mr-tigrex-beta-plus",
-      "Translation": "ß Tigrex +"
+      "Translation": "Tigrex ß +"
     },
     "armor-mr-tigrex-braces-alpha-plus": {
       "Key": "armor-mr-tigrex-braces-alpha-plus",
@@ -6845,7 +6845,7 @@ export default {
     },
     "armor-mr-tigrex-braces-beta-plus": {
       "Key": "armor-mr-tigrex-braces-beta-plus",
-      "Translation": "ß Tigrex Suspensórios +"
+      "Translation": "Tigrex Suspensórios ß +"
     },
     "armor-mr-tigrex-greaves-alpha-plus": {
       "Key": "armor-mr-tigrex-greaves-alpha-plus",
@@ -6853,7 +6853,7 @@ export default {
     },
     "armor-mr-tigrex-greaves-beta-plus": {
       "Key": "armor-mr-tigrex-greaves-beta-plus",
-      "Translation": "ß Tigrex Greaves +"
+      "Translation": "Tigrex Greaves ß +"
     },
     "armor-mr-tigrex-helm-alpha-plus": {
       "Key": "armor-mr-tigrex-helm-alpha-plus",
@@ -6861,7 +6861,7 @@ export default {
     },
     "armor-mr-tigrex-helm-beta-plus": {
       "Key": "armor-mr-tigrex-helm-beta-plus",
-      "Translation": "ß Tigrex Helm +"
+      "Translation": "Tigrex Helm ß +"
     },
     "armor-mr-tigrex-mail-alpha-plus": {
       "Key": "armor-mr-tigrex-mail-alpha-plus",
@@ -6869,7 +6869,7 @@ export default {
     },
     "armor-mr-tigrex-mail-beta-plus": {
       "Key": "armor-mr-tigrex-mail-beta-plus",
-      "Translation": "ß Tigrex e-mail +"
+      "Translation": "Tigrex Correio ß +"
     },
     "armor-mr-tigrex-tassets-alpha-plus": {
       "Key": "armor-mr-tigrex-tassets-alpha-plus",
@@ -6877,7 +6877,7 @@ export default {
     },
     "armor-mr-tigrex-tassets-beta-plus": {
       "Key": "armor-mr-tigrex-tassets-beta-plus",
-      "Translation": "ß Tigrex as coxas +"
+      "Translation": "Tigrex as coxas ß +"
     },
     "armor-mr-tzitzi-alpha-plus": {
       "Key": "armor-mr-tzitzi-alpha-plus",
@@ -6885,7 +6885,7 @@ export default {
     },
     "armor-mr-tzitzi-beta-plus": {
       "Key": "armor-mr-tzitzi-beta-plus",
-      "Translation": "ß Tzitzi +"
+      "Translation": "Tzitzi ß +"
     },
     "armor-mr-tzitzi-coil-alpha-plus": {
       "Key": "armor-mr-tzitzi-coil-alpha-plus",
@@ -6893,7 +6893,7 @@ export default {
     },
     "armor-mr-tzitzi-coil-beta-plus": {
       "Key": "armor-mr-tzitzi-coil-beta-plus",
-      "Translation": "ß Tzitzi bobina +"
+      "Translation": "Tzitzi Bobina ß +"
     },
     "armor-mr-tzitzi-greaves-alpha-plus": {
       "Key": "armor-mr-tzitzi-greaves-alpha-plus",
@@ -6901,7 +6901,7 @@ export default {
     },
     "armor-mr-tzitzi-greaves-beta-plus": {
       "Key": "armor-mr-tzitzi-greaves-beta-plus",
-      "Translation": "ß Tzitzi Greaves +"
+      "Translation": "Tzitzi Greaves ß +"
     },
     "armor-mr-tzitzi-headgear-alpha-plus": {
       "Key": "armor-mr-tzitzi-headgear-alpha-plus",
@@ -6909,7 +6909,7 @@ export default {
     },
     "armor-mr-tzitzi-headgear-beta-plus": {
       "Key": "armor-mr-tzitzi-headgear-beta-plus",
-      "Translation": "ß Tzitzi Cabeça +"
+      "Translation": "Tzitzi Chapelaria ß +"
     },
     "armor-mr-tzitzi-mail-alpha-plus": {
       "Key": "armor-mr-tzitzi-mail-alpha-plus",
@@ -6917,7 +6917,7 @@ export default {
     },
     "armor-mr-tzitzi-mail-beta-plus": {
       "Key": "armor-mr-tzitzi-mail-beta-plus",
-      "Translation": "ß Tzitzi e-mail +"
+      "Translation": "Tzitzi Correio ß +"
     },
     "armor-mr-tzitzi-vambraces-alpha-plus": {
       "Key": "armor-mr-tzitzi-vambraces-alpha-plus",
@@ -6925,7 +6925,7 @@ export default {
     },
     "armor-mr-tzitzi-vambraces-beta-plus": {
       "Key": "armor-mr-tzitzi-vambraces-beta-plus",
-      "Translation": "ß Tzitzi vambraces +"
+      "Translation": "Tzitzi Vambraces ß +"
     },
     "armor-mr-uragaan-alpha-plus": {
       "Key": "armor-mr-uragaan-alpha-plus",
@@ -6941,7 +6941,7 @@ export default {
     },
     "armor-mr-uragaan-coil-beta-plus": {
       "Key": "armor-mr-uragaan-coil-beta-plus",
-      "Translation": "ß Uragaan bobina +"
+      "Translation": "Uragaan Bobina ß +"
     },
     "armor-mr-uragaan-greaves-alpha-plus": {
       "Key": "armor-mr-uragaan-greaves-alpha-plus",
@@ -6949,7 +6949,7 @@ export default {
     },
     "armor-mr-uragaan-greaves-beta-plus": {
       "Key": "armor-mr-uragaan-greaves-beta-plus",
-      "Translation": "ß Uragaan Greaves +"
+      "Translation": "Uragaan Greaves ß +"
     },
     "armor-mr-uragaan-helm-alpha-plus": {
       "Key": "armor-mr-uragaan-helm-alpha-plus",
@@ -6957,7 +6957,7 @@ export default {
     },
     "armor-mr-uragaan-helm-beta-plus": {
       "Key": "armor-mr-uragaan-helm-beta-plus",
-      "Translation": "ß Uragaan Helm +"
+      "Translation": "Uragaan Helm ß +"
     },
     "armor-mr-uragaan-mail-alpha-plus": {
       "Key": "armor-mr-uragaan-mail-alpha-plus",
@@ -6965,7 +6965,7 @@ export default {
     },
     "armor-mr-uragaan-mail-beta-plus": {
       "Key": "armor-mr-uragaan-mail-beta-plus",
-      "Translation": "ß Uragaan e-mail +"
+      "Translation": "Uragaan Correio ß +"
     },
     "armor-mr-uragaan-vambraces-alpha-plus": {
       "Key": "armor-mr-uragaan-vambraces-alpha-plus",
@@ -6973,7 +6973,7 @@ export default {
     },
     "armor-mr-uragaan-vambraces-beta-plus": {
       "Key": "armor-mr-uragaan-vambraces-beta-plus",
-      "Translation": "ß Uragaan vambraces +"
+      "Translation": "Uragaan Vambraces ß +"
     },
     "armor-mr-velkhana-alpha-plus": {
       "Key": "armor-mr-velkhana-alpha-plus",
@@ -6981,7 +6981,7 @@ export default {
     },
     "armor-mr-velkhana-beta-plus": {
       "Key": "armor-mr-velkhana-beta-plus",
-      "Translation": "ß Velkhana +"
+      "Translation": "Velkhana ß +"
     },
     "armor-mr-vespoid-alpha-plus": {
       "Key": "armor-mr-vespoid-alpha-plus",
@@ -6997,7 +6997,7 @@ export default {
     },
     "armor-mr-vespoid-coil-beta-plus": {
       "Key": "armor-mr-vespoid-coil-beta-plus",
-      "Translation": "ß Vespoid bobina +"
+      "Translation": "Vespoid Bobina ß +"
     },
     "armor-mr-vespoid-greaves-alpha-plus": {
       "Key": "armor-mr-vespoid-greaves-alpha-plus",
@@ -7021,7 +7021,7 @@ export default {
     },
     "armor-mr-vespoid-mail-beta-plus": {
       "Key": "armor-mr-vespoid-mail-beta-plus",
-      "Translation": "ß Vespoid e-mail +"
+      "Translation": "Vespoid Correio ß +"
     },
     "armor-mr-vespoid-vambraces-alpha-plus": {
       "Key": "armor-mr-vespoid-vambraces-alpha-plus",
@@ -7037,7 +7037,7 @@ export default {
     },
     "armor-mr-viper-kadachi-beta-plus": {
       "Key": "armor-mr-viper-kadachi-beta-plus",
-      "Translation": "Viper ß Kadachi +"
+      "Translation": "Viper Kadachi ß +"
     },
     "armor-mr-viper-kadachi-braces-alpha-plus": {
       "Key": "armor-mr-viper-kadachi-braces-alpha-plus",
@@ -7045,7 +7045,7 @@ export default {
     },
     "armor-mr-viper-kadachi-braces-beta-plus": {
       "Key": "armor-mr-viper-kadachi-braces-beta-plus",
-      "Translation": "Viper ß Kadachi Suspensórios +"
+      "Translation": "Viper Kadachi Suspensórios ß +"
     },
     "armor-mr-viper-kadachi-coil-alpha-plus": {
       "Key": "armor-mr-viper-kadachi-coil-alpha-plus",
@@ -7053,7 +7053,7 @@ export default {
     },
     "armor-mr-viper-kadachi-coil-beta-plus": {
       "Key": "armor-mr-viper-kadachi-coil-beta-plus",
-      "Translation": "Viper ß Kadachi bobina +"
+      "Translation": "Viper Kadachi Bobina ß +"
     },
     "armor-mr-viper-kadachi-greaves-alpha-plus": {
       "Key": "armor-mr-viper-kadachi-greaves-alpha-plus",
@@ -7061,7 +7061,7 @@ export default {
     },
     "armor-mr-viper-kadachi-greaves-beta-plus": {
       "Key": "armor-mr-viper-kadachi-greaves-beta-plus",
-      "Translation": "Viper ß Kadachi Greaves +"
+      "Translation": "Viper Kadachi Greaves ß +"
     },
     "armor-mr-viper-kadachi-hat-alpha-plus": {
       "Key": "armor-mr-viper-kadachi-hat-alpha-plus",
@@ -7069,7 +7069,7 @@ export default {
     },
     "armor-mr-viper-kadachi-hat-beta-plus": {
       "Key": "armor-mr-viper-kadachi-hat-beta-plus",
-      "Translation": "Viper ß Kadachi Hat +"
+      "Translation": "Viper Kadachi Hat ß +"
     },
     "armor-mr-viper-kadachi-mail-alpha-plus": {
       "Key": "armor-mr-viper-kadachi-mail-alpha-plus",
@@ -7089,7 +7089,7 @@ export default {
     },
     "armor-mr-wulg-scarf-beta-plus": {
       "Key": "armor-mr-wulg-scarf-beta-plus",
-      "Translation": "ß Wulg lenço +"
+      "Translation": "Wulg Scarf ß +"
     },
     "armor-mr-yian-garuga-alpha-plus": {
       "Key": "armor-mr-yian-garuga-alpha-plus",
@@ -7097,7 +7097,7 @@ export default {
     },
     "armor-mr-yian-garuga-beta-plus": {
       "Key": "armor-mr-yian-garuga-beta-plus",
-      "Translation": "ß Yian Garuga +"
+      "Translation": "Yian Garuga ß +"
     },
     "armor-mr-zinogre-alpha-plus": {
       "Key": "armor-mr-zinogre-alpha-plus",
@@ -7105,7 +7105,7 @@ export default {
     },
     "armor-mr-zinogre-beta-plus": {
       "Key": "armor-mr-zinogre-beta-plus",
-      "Translation": "ß Zinogre +"
+      "Translation": "Zinogre ß +"
     },
     "armor-mr-zinogre-braces-alpha-plus": {
       "Key": "armor-mr-zinogre-braces-alpha-plus",
@@ -7113,7 +7113,7 @@ export default {
     },
     "armor-mr-zinogre-braces-beta-plus": {
       "Key": "armor-mr-zinogre-braces-beta-plus",
-      "Translation": "ß Zinogre Suspensórios +"
+      "Translation": "Zinogre Suspensórios ß +"
     },
     "armor-mr-zinogre-coil-alpha-plus": {
       "Key": "armor-mr-zinogre-coil-alpha-plus",
@@ -7121,7 +7121,7 @@ export default {
     },
     "armor-mr-zinogre-coil-beta-plus": {
       "Key": "armor-mr-zinogre-coil-beta-plus",
-      "Translation": "ß Zinogre bobina +"
+      "Translation": "Zinogre Bobina ß +"
     },
     "armor-mr-zinogre-greaves-alpha-plus": {
       "Key": "armor-mr-zinogre-greaves-alpha-plus",
@@ -7129,7 +7129,7 @@ export default {
     },
     "armor-mr-zinogre-greaves-beta-plus": {
       "Key": "armor-mr-zinogre-greaves-beta-plus",
-      "Translation": "ß Zinogre Greaves +"
+      "Translation": "Zinogre Greaves ß +"
     },
     "armor-mr-zinogre-helm-alpha-plus": {
       "Key": "armor-mr-zinogre-helm-alpha-plus",
@@ -7137,7 +7137,7 @@ export default {
     },
     "armor-mr-zinogre-helm-beta-plus": {
       "Key": "armor-mr-zinogre-helm-beta-plus",
-      "Translation": "ß Zinogre Helm +"
+      "Translation": "Zinogre Helm ß +"
     },
     "armor-mr-zinogre-mail-alpha-plus": {
       "Key": "armor-mr-zinogre-mail-alpha-plus",
@@ -7145,7 +7145,7 @@ export default {
     },
     "armor-mr-zinogre-mail-beta-plus": {
       "Key": "armor-mr-zinogre-mail-beta-plus",
-      "Translation": "ß Zingore e-mail +"
+      "Translation": "Zingore Correio ß +"
     },
     "armor-mr-zorah-alpha-plus": {
       "Key": "armor-mr-zorah-alpha-plus",
@@ -7153,7 +7153,7 @@ export default {
     },
     "armor-mr-zorah-beta-plus": {
       "Key": "armor-mr-zorah-beta-plus",
-      "Translation": "ß zorah +"
+      "Translation": "Zorá ß +"
     },
     "armor-nergigante-description": {
       "Key": "armor-nergigante-description",
@@ -7165,7 +7165,7 @@ export default {
     },
     "armor-orion-description": {
       "Key": "armor-orion-description",
-      "Translation": "Requer uma estrela Ticket Inverno de embarcações. Wawrm e armadura confortável para que você possa desfrutar das festas de inverno."
+      "Translation": "Requer um bilhete da estrela do inverno às embarcações. Wawrm e armadura confortável para que você possa desfrutar das festas de inverno."
     },
     "armor-pukei-description": {
       "Key": "armor-pukei-description",
@@ -7173,11 +7173,11 @@ export default {
     },
     "armor-pulverizing-feather-how-to-get": {
       "Key": "armor-pulverizing-feather-how-to-get",
-      "Translation": "Terminar todo baixo-rank Arena Quests."
+      "Translation": "Concluir todos os baixo-rank Arena Quests."
     },
     "armor-rath-heart-description": {
       "Key": "armor-rath-heart-description",
-      "Translation": "Armadura Rathian que exibe uma presença tão real que deixa todos os que vê-lo cativado e reverente."
+      "Translation": "Rathian armadura que exibe uma presença tão real que deixa todos os que vê-lo cativado e reverente."
     },
     "armor-rath-soul-description": {
       "Key": "armor-rath-soul-description",
@@ -7185,11 +7185,11 @@ export default {
     },
     "armor-rathalos-description": {
       "Key": "armor-rathalos-description",
-      "Translation": "Elaborada a partir de peças esculpidas a partir do Rei dos Céus, esta armadura carmesim possui esmagadora defesa."
+      "Translation": "Elaborada a partir de peças esculpidas a partir do Rei dos Céus, esta armadura carmesim orgulha esmagadora defesa."
     },
     "armor-rathian-description": {
       "Key": "armor-rathian-description",
-      "Translation": "Repleto de refinamento de rainha, graça e poder, esta armadura Rathian elegante tem tudo isso."
+      "Translation": "Repleto de queenly refinamento, graça e poder, esta armadura Rathian elegante tem tudo isso."
     },
     "armor-sealed-eyepatch-description": {
       "Key": "armor-sealed-eyepatch-description",
@@ -7225,7 +7225,7 @@ export default {
     },
     "armor-set-bonus-skill-bludgeoner-description": {
       "Key": "armor-set-bonus-skill-bludgeoner-description",
-      "Translation": "Aumenta ataque como sua arma perde nitidez. Também aumenta ataques corpo a corpo arma de longo alcance e probabilidades de atordoamento."
+      "Translation": "Aumentos atacar como sua arma perde nitidez. Também aumenta variou ataques melee armas e chances de atordoamento."
     },
     "armor-set-bonus-skill-bow-charge-plus": {
       "Key": "armor-set-bonus-skill-bow-charge-plus",
@@ -7285,7 +7285,7 @@ export default {
     },
     "armor-set-bonus-skill-elemental-airborne-description": {
       "Key": "armor-set-bonus-skill-elemental-airborne-description",
-      "Translation": "dano elemental aumentou para saltar ataques."
+      "Translation": "dano elemental aumentado para ataques de salto."
     },
     "armor-set-bonus-skill-good-luck": {
       "Key": "armor-set-bonus-skill-good-luck",
@@ -7313,7 +7313,7 @@ export default {
     },
     "armor-set-bonus-skill-guild-guidance": {
       "Key": "armor-set-bonus-skill-guild-guidance",
-      "Translation": "Orientação aliança"
+      "Translation": "aliança Orientação"
     },
     "armor-set-bonus-skill-guts": {
       "Key": "armor-set-bonus-skill-guts",
@@ -7325,7 +7325,7 @@ export default {
     },
     "armor-set-bonus-skill-hasten-recovery": {
       "Key": "armor-set-bonus-skill-hasten-recovery",
-      "Translation": "acelerar a recuperação"
+      "Translation": "Recuperação Hasten"
     },
     "armor-set-bonus-skill-hasten-recovery-description": {
       "Key": "armor-set-bonus-skill-hasten-recovery-description",
@@ -7425,7 +7425,7 @@ export default {
     },
     "armor-set-bonus-skill-punishing-draw": {
       "Key": "armor-set-bonus-skill-punishing-draw",
-      "Translation": "Desenhar punição"
+      "Translation": "punindo Desenhar"
     },
     "armor-set-bonus-skill-punishing-draw-description": {
       "Key": "armor-set-bonus-skill-punishing-draw-description",
@@ -7457,7 +7457,7 @@ export default {
     },
     "armor-set-bonus-skill-stamina-cap-up-description": {
       "Key": "armor-set-bonus-skill-stamina-cap-up-description",
-      "Translation": "Aumenta cap resistência."
+      "Translation": "Aumenta a resistência cap."
     },
     "armor-set-bonus-skill-super-recovery": {
       "Key": "armor-set-bonus-skill-super-recovery",
@@ -7501,7 +7501,7 @@ export default {
     },
     "armor-strategist-description": {
       "Key": "armor-strategist-description",
-      "Translation": "Uma colaboração Aliança-Workshop. Eles ajudá-lo a caçar, fazendo você olhar muito ligeiramente mais inteligente."
+      "Translation": "colaboração A Aliança-Workshop. Eles ajudá-lo a caçar, fazendo você olhar muito ligeiramente mais inteligente."
     },
     "armor-teostra-description": {
       "Key": "armor-teostra-description",
@@ -7509,7 +7509,7 @@ export default {
     },
     "armor-tzitzi-description": {
       "Key": "armor-tzitzi-description",
-      "Translation": "Usando uma porção de cabeça tal como está, esta armadura Tzitzi-Ya-Ku também serve como um troféu fina."
+      "Translation": "Usando uma porção de cabeça tal como está, esta armadura Tzitzi-Ya-Ku também serve como uma fina taça."
     },
     "armor-uragaan-description": {
       "Key": "armor-uragaan-description",
@@ -7525,7 +7525,7 @@ export default {
     },
     "armor-vespoid-description": {
       "Key": "armor-vespoid-description",
-      "Translation": "Armadura feita de carapaça Vespoid duro. Embora fraco para disparar elemento, que oferece defesa sólida."
+      "Translation": "Armadura feita a partir do disco carapaça Vespoid. Embora fraco para elemento fogo, que oferece defesa sólida."
     },
     "armor-wiggler-head-description": {
       "Key": "armor-wiggler-head-description",
@@ -7533,7 +7533,7 @@ export default {
     },
     "armor-xenojiiva-description": {
       "Key": "armor-xenojiiva-description",
-      "Translation": "Esta armadura Xeno'jiiva ferve com energia. Se for devidamente controlado, concede o vasto poder utente."
+      "Translation": "Esta armadura Xeno'jiiva ferve com a energia. Se for devidamente controlado, concede o vasto poder utente."
     },
     "armor-zorah-description": {
       "Key": "armor-zorah-description",
@@ -7569,7 +7569,7 @@ export default {
     },
     "armors-total-ice-defense": {
       "Key": "armors-total-ice-defense",
-      "Translation": "Total de Def Ice:"
+      "Translation": "Total de gelo Def:"
     },
     "armors-total-thunder-defense": {
       "Key": "armors-total-thunder-defense",
@@ -7585,7 +7585,7 @@ export default {
     },
     "critical-bounties-bugtrappers-tips": {
       "Key": "critical-bounties-bugtrappers-tips",
-      "Translation": "No Floresta antiga: Um Bugtrapper solitário pode ser encontrada na área 6 em árvores (Nordeste Camp (11)). Quando você chegar perto, o Bugtrapper fugirá. Siga-o e ele irá levá-lo para a sua aldeia. \\ N \\ Ntake seu tempo, pois não é uma corrida. Ultrapassar ou correr muito perto do Bugtrapper pode causar problemas. Recompensa: Sua Palico podem agora usar a gaiola flashfly e falar com Jagras."
+      "Translation": "No Floresta antiga: Um solitário Bugtrapper pode ser encontrada na área 6 em árvores (Nordeste Camp (11)). Quando você chegar perto, o Bugtrapper fugirá. Siga-o e ele irá levá-lo para a sua aldeia. \\ N \\ Ntake seu tempo, pois não é uma corrida. Ultrapassar ou correr muito perto do Bugtrapper pode causar problemas. Recompensa: Sua Palico podem agora usar a gaiola flashfly e falar com Jagras."
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics",
@@ -7593,7 +7593,7 @@ export default {
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics-tips": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics-tips",
-      "Translation": "Esta recompensa pode ser pego no Pesquisador Lynian em Astera depois de ter concluído os primeiros 4 missões Lynian pesquisa. O pesquisador pede-lhe para descobrir 10 Gajalaka Doodles. \\ N \\ nÉ importante notar que estes só desova durante esta generosidade e apenas em locais alto escalão. Você pode encontrar um rabisco na área 5 e 1 Doodle na área 15 na Floresta Antiga. Você pode encontrar um rabisco na área 3 e 1 Doodle na área 7 no Wildspire Resíduos. \\ N \\ n Você pode encontrar um rabisco na área 12 nas Highlands Coral. Você pode encontrar 2 rabiscos na área 3 e 3 rabiscos na área 15 no Rotten Vale. Quando você retornar ao Astera, o pesquisador quer se preparar para encontrar o acampamento Gajalaka. \\ N \\ nEncontrar o pesquisador na área 8 em Recess do Dragão. A fim de iniciar a recompensa, ele precisa ser a noite. Coloque em seu Ghillie Mantle e falar com o líder no acampamento fogo na parte de trás do acampamento. Recompensa: Sua Palico podem agora usar meowlotov cocktail e conversar com Gastodon."
+      "Translation": "Esta recompensa pode ser pego no Pesquisador Lynian em Astera depois de ter concluído os primeiros 4 missões Lynian pesquisa. O pesquisador pede-lhe para descobrir 10 Gajalaka Doodles. \\ N \\ nEle é importante notar que estes só desovar durante esta recompensa e só no alto escalão locais. Você pode encontrar um rabisco na área 5 e 1 Doodle na área 15 na Floresta Antiga. Você pode encontrar um rabisco na área 3 e 1 Doodle na área 7 no Wildspire Resíduos. \\ N \\ n Você pode encontrar um rabisco na área 12 nas Highlands Coral. Você pode encontrar 2 rabiscos na área 3 e 3 rabiscos na área 15 no Rotten Vale. Quando você retornar ao Astera, o pesquisador quer se preparar para encontrar o acampamento Gajalaka. \\ N \\ nEncontrar o pesquisador na área 8 em Recess do Dragão. A fim de iniciar a recompensa, ele precisa ser a noite. Coloque em seu Ghillie Mantle e falar com o líder no acampamento fogo na parte de trás do acampamento. Recompensa: Sua Palico podem agora usar cocktail meowlotov e falar com Gastodon."
     },
     "critical-bounties-important": {
       "Key": "critical-bounties-important",
@@ -7601,7 +7601,7 @@ export default {
     },
     "critical-bounties-important-notes": {
       "Key": "critical-bounties-important-notes",
-      "Translation": "Há três pesquisadores que você pode encontrar no campo:. O pesquisador endêmicas Vida, o pesquisador Lynian eo pesquisador Piscine \\ n \\ nQuando você partiu em uma expedição, apenas um pesquisador vai desovar na zona. Que gera pesquisador, é exibido no mapa do mundo quando você escolher o seu destino expedição. Cada vez que você completar uma tarefa, expedição ou investigação, muda que gera pesquisador. É por isso que é importante para verificar o mapa do mundo regularmente. \\ N \\ nÉ importante conversar com cada pesquisador em cada zona, a fim de progredir através dos bounties críticos de cada pesquisador. Uma vez que é aleatório que gera Pesquisador (ver nota anterior), é fácil perder essas bênçãos críticos. \\ N \\ nSe um pesquisador tem uma recompensa para oferecer, eles vão aparecer como um ponto de exclamação (!) No mapa . Nem sempre eu ver estas marcas no mapa e é por isso que eu perdi essas generosidades críticos. Uma vez que você está em uma expedição, abra o mapa do mundo e usar os botões L1 / R1 para selecionar o filtro Vida endêmicas para torná-lo mais fácil de detectar. \\ N \\ nSe um pesquisador não tem recompensa para oferecer, eles vão aparecer como um verde brilhante ponto (.) no mapa. \\ n \\ nApós que você completar uma recompensa crítica, você pode conversar com o respectivo Pesquisador para informar ele / ela que você completou a recompensa. No entanto, você sempre tem que falar com o Centro de Investigação em Astera para completar a recompensa e receber as recompensas. \\ N \\ nSe você não falar com o pesquisador depois de completar uma recompensa e você está prestes a falar com eles em uma nova zona para aceitar uma nova recompensa, é possível que você tem que falar com o pesquisador duas vezes. Um tempo para informar a ele / ela que você completou a recompensa anterior. Outra vez para iniciar a recompensa crítica da nova zona \\ n \\ nChoosing o baixo escalão ou Posto de destino alta não importa, exceto para Recess do Dragão, que é apenas alto escalão \\ n \\ nLynian Bounties:.. Sempre que você encontrar doodles, você pode marcá-los com os seus moscas escoteiros e eles vão orientá-lo para a próxima do doodle. Fazendo isso leva você para os locais listados abaixo. Depois de fazer amizade com um clã, você pode conversar com seu Palico no seu quarto ou na Base Research. Seu Palico, então, dizer-lhe os novos truques que aprendeu."
+      "Translation": "Há três pesquisadores que você pode encontrar no campo:. O pesquisador endêmicas Vida, o pesquisador Lynian eo pesquisador Piscine \\ n \\ nQuando partiu em uma expedição, apenas um pesquisador vai desovar na zona. Que gera pesquisador, é exibido no mapa do mundo quando você escolher o seu destino expedição. Cada vez que você completar uma tarefa, expedição ou investigação, muda que gera pesquisador. É por isso que é importante para verificar o mapa do mundo regularmente. \\ N \\ nEle é importante conversar com cada pesquisador em cada zona, a fim de progredir através dos bounties críticos de cada pesquisador. Uma vez que é aleatório que gera Pesquisador (ver nota anterior), é fácil perder essas bênçãos críticos. \\ N \\ nSe um pesquisador tem uma recompensa para oferecer, eles vão aparecer como um ponto de exclamação (!) No mapa . Nem sempre eu ver estas marcas no mapa e é por isso que eu perdi essas generosidades críticos. Uma vez que você está em uma expedição, abra o mapa do mundo e usar os botões L1 / R1 para selecionar o filtro endêmicas vida para torná-lo mais fácil de detectar. \\ N \\ nSe um pesquisador não tem recompensa para oferecer, eles vão aparecer como um verde brilhante ponto (.) no mapa. \\ n \\ nApós que você completar uma recompensa crítica, você pode conversar com o respectivo Pesquisador para informar ele / ela que você completou a recompensa. No entanto, você sempre tem que falar com o Centro de Investigação em Astera para completar a recompensa e receber as recompensas. \\ N \\ nSe você não falar com o pesquisador depois de completar uma recompensa e você está prestes a falar com eles em uma nova zona para aceitar uma nova recompensa, é possível que você tem que falar com o pesquisador duas vezes. Um tempo para informar a ele / ela que você completou a recompensa anterior. Outra vez para iniciar a recompensa crítica da nova zona \\ n \\ nChoosing o destino baixo escalão ou alto escalão não importa, exceto para Recess do Dragão, que é alto escalão única \\ n \\ nLynian Bounties:.. Sempre que você encontrar doodles, você pode marcá-los com os seus moscas escoteiros e eles vão orientá-lo para a próxima do doodle. Fazendo isso leva você para os locais listados abaixo. Depois de fazer amizade com um clã, você pode conversar com seu Palico no seu quarto ou na Base Research. Seu Palico, então, dizer-lhe os novos truques que aprendeu."
     },
     "critical-bounties-notes": {
       "Key": "critical-bounties-notes",
@@ -7613,7 +7613,7 @@ export default {
     },
     "critical-bounties-plunderers-tips": {
       "Key": "critical-bounties-plunderers-tips",
-      "Translation": "No Rotten Vale:. Você deve ter concluído “nas entranhas do Vale” e obter acesso às partes mais baixas da Rotten Vale antes que você possa encontrar as Plunderers \\ n \\ nA Plunderer pode ser encontrado esperando ao lado do pesquisador Lynian na área 13 (Central Camp (11)). Uma vez a cada 5 a 10 minutos Odegaron patrulhas últimos Pesquisador Lynian e cai um cadáver Legiana no chão. Logo após a Plunderer aparece no cadáver Legiana e ele vai fugir se você chegar perto. \\ N \\ nFollow o Plunderer à área 15 e soltar um pedaço de carne crua perto das rochas. Tome alguma distância e esperar até que os Plunderers começar a comer a carne. Fale com os Plunderers para completar a recompensa. Recompensa: Sua Palico pode agora usar o plunderblade e falar com Girros."
+      "Translation": "No Rotten Vale:. Você deve ter concluído “nas entranhas do Vale” e obter acesso às partes mais baixas da Rotten Vale antes que você possa encontrar as Plunderers \\ n \\ nA Plunderer pode ser encontrado esperando ao lado do pesquisador Lynian na área 13 (Central Camp (11)). Uma vez a cada 5 a 10 minutos Odegaron patrulhas últimos Pesquisador Lynian e deixa um cadáver Legiana no chão. Logo após a Plunderer aparece no cadáver Legiana e ele vai fugir se você chegar perto. \\ N \\ nFollow o Plunderer à área 15 e soltar um pedaço de carne crua perto das rochas. Tome alguma distância e esperar até que os Plunderers começar a comer a carne. Fale com os Plunderers para completar a recompensa. Recompensa: Sua Palico pode agora usar o plunderblade e falar com Girros."
     },
     "critical-bounties-protectors": {
       "Key": "critical-bounties-protectors",
@@ -7621,7 +7621,7 @@ export default {
     },
     "critical-bounties-protectors-tips": {
       "Key": "critical-bounties-protectors-tips",
-      "Translation": "No Wildspire Resíduos: Completa recompensa crítica [Intercâmbio Cultural: Wildspire Resíduos] e [Intercâmbio Cultural: Wildspire Resíduos II]. Protetores podem ser encontrados em um buraco na parte norte da área 8 (Central Camp (6)). \\ N \\ nEles pedir-lhe para pegar seus amigos que foram afugentados por um Barroth. Eles são marcados em seu mapa se você usar o filtro adequado. Recompensa: Sua Palico pode agora usar o shieldspire e falar com Kestodon."
+      "Translation": "No Wildspire Resíduos: conclui recompensa crítica [Intercâmbio Cultural: Wildspire Resíduos] e [Intercâmbio Cultural: Wildspire Resíduos II]. Protetores podem ser encontrados em um buraco na parte norte da área 8 (Central Camp (6)). \\ N \\ nEles pedir-lhe para pegar seus amigos que foram afugentados por um Barroth. Eles são marcados em seu mapa se você usar o filtro adequado. Recompensa: Sua Palico pode agora usar o shieldspire e falar com Kestodon."
     },
     "critical-bounties-quests": {
       "Key": "critical-bounties-quests",
@@ -7629,7 +7629,7 @@ export default {
     },
     "critical-bounties-rebuild-the-ancient-forest-camp": {
       "Key": "critical-bounties-rebuild-the-ancient-forest-camp",
-      "Translation": "Reconstruir Camp Floresta antiga"
+      "Translation": "Reconstruir o antigo Forest Camp"
     },
     "critical-bounties-rebuild-the-ancient-forest-camp-tips": {
       "Key": "critical-bounties-rebuild-the-ancient-forest-camp-tips",
@@ -7641,31 +7641,31 @@ export default {
     },
     "critical-bounties-requirements-notes": {
       "Key": "critical-bounties-requirements-notes",
-      "Translation": "- Capture Net \\ n- Rod Pesca \\ n- Ghillie Mantle (desbloqueado após completar o principal atribuição história Hunter Posição 3 - vôo Faíscas:. Tobi-Kadachi)"
+      "Translation": "- Captação Net \\ Pesca n- Rod \\ n- Ghillie Mantle (desbloqueado após completar o principal atribuição história Hunter Posição 3 - vôo Faíscas:. Tobi-Kadachi)"
     },
     "critical-bounties-research-help-bomb-beetle-capture": {
       "Key": "critical-bounties-research-help-bomb-beetle-capture",
-      "Translation": "Research Help: Captura Beetle bomba"
+      "Translation": "Ajuda Pesquisa: Bomba Beetle Captura"
     },
     "critical-bounties-research-help-bomb-beetle-capture-tips": {
       "Key": "critical-bounties-research-help-bomb-beetle-capture-tips",
-      "Translation": "No recesso da pessoa idosa (Southern Camp (1)): A bomba Beetle empurrando uma bola de esterco ao redor pode ser encontrado na área 1 ou 2."
+      "Translation": "Em Elder Recess (Southern Camp (1)): A bomba Beetle empurrando uma bola de cerca de esterco pode ser encontrado na área 1 ou 2."
     },
     "critical-bounties-research-help-capture-the-ancient": {
       "Key": "critical-bounties-research-help-capture-the-ancient",
-      "Translation": "Ajuda Pesquisa: Capture a Antiga"
+      "Translation": "Ajuda Pesquisa: Capture the Antiga"
     },
     "critical-bounties-research-help-capture-the-ancient-tips": {
       "Key": "critical-bounties-research-help-capture-the-ancient-tips",
-      "Translation": "Esta recompensa pode ser pego em qualquer zona se a primeira 5 endêmicas Vida Critical Bounties e os primeiros 5 Piscine Bounties críticos foram concluídos. \\ N \\ nA Petricanths pode ser capturado na água na área 15 da Rotten Vale (Central Camp ( 11)), mas apenas no corpo de água mais próxima do Grimalkyne. \\ n \\ nA Petricanths também pode ser pego na água na área 8 por trás da barraca do acampamento de Elder Recess (Eastern camp (8)). Viajar e para trás entre estas zonas."
+      "Translation": "Esta recompensa pode ser pego em qualquer zona se a primeira 5 endêmicas Vida Critical Bounties ea primeira 5 Piscine Critical Bounties foram concluídos. \\ N \\ nA Petricanths pode ser capturado na água na área 15 da Rotten Vale (Central Camp ( 11)), mas apenas no corpo de água mais próxima do Grimalkyne. \\ n \\ nA Petricanths também pode ser pego na água na área 8 por trás da barraca do acampamento de Elder Recess (Eastern camp (8)). de volta de viagem e para trás entre estas zonas."
     },
     "critical-bounties-research-help-carrier-ant-capture": {
       "Key": "critical-bounties-research-help-carrier-ant-capture",
-      "Translation": "Ajuda Pesquisa: Portador de captura Ant"
+      "Translation": "Ajuda Pesquisa: Transportador Ant captura"
     },
     "critical-bounties-research-help-carrier-ant-capture-tips": {
       "Key": "critical-bounties-research-help-carrier-ant-capture-tips",
-      "Translation": "No Waste Wildspire (sudoeste Camp (1)): Três patrulhas portador Ant pode ser encontrado na área 1. Eles reaparecer muito rapidamente."
+      "Translation": "No Wildspire Resíduos (Sudoeste Camp (1)): patrulhas Três portador Ant pode ser encontrado na área 1. Eles reaparecer muito rapidamente."
     },
     "critical-bounties-research-help-goldenfish-capture": {
       "Key": "critical-bounties-research-help-goldenfish-capture",
@@ -7681,7 +7681,7 @@ export default {
     },
     "critical-bounties-research-help-gunpowderfish-capture-tips": {
       "Key": "critical-bounties-research-help-gunpowderfish-capture-tips",
-      "Translation": "Nas Terras Altas Coral (Southern Camp (1)): O Gunpowderfish pode ser capturado na água na área 7, mas isso não tem sido confiável para mim. Em vez disso eu tinha um tempo muito mais fácil na área 9 do Rotten Vale."
+      "Translation": "No Coral Highlands (Southern Camp (1)): O Gunpowderfish pode ser capturado na água na área 7, mas isso não tem sido confiável para mim. Em vez disso eu tinha um tempo muito mais fácil na área 9 do Rotten Vale."
     },
     "critical-bounties-research-help-phantom-bird": {
       "Key": "critical-bounties-research-help-phantom-bird",
@@ -7689,11 +7689,11 @@ export default {
     },
     "critical-bounties-research-help-phantom-bird-tips": {
       "Key": "critical-bounties-research-help-phantom-bird-tips",
-      "Translation": "Esta recompensa pode ser pego em qualquer zona se a primeira 5 endêmicas Vida Critical Bounties e os primeiros 5 Piscine Bounties críticos foram concluídos. \\ N grupo \\ nA de Downy Crakes pode aparecer na parte de trás de um Apceros ou um Aptonoth. Apceros pode ser encontrada na área 1 da Wildspire Resíduos (Southwest campismo (1)). \\ N \\ nAptonoth pode ser encontrada na área 1 da Floresta antiga (Southwest campismo (1)). Viajar e para trás entre estas zonas. Colocar no seu manto Ghillie antes de deixar o acampamento."
+      "Translation": "Esta recompensa pode ser pego em qualquer zona se a primeira 5 endêmicas Vida Critical Bounties ea primeira 5 Piscine Critical Bounties foram concluídos. \\ N grupo \\ nA de Downy Crakes pode aparecer na parte de trás de um Apceros ou um Aptonoth. Apceros pode ser encontrada na área 1 da Wildspire Resíduos (Southwest campismo (1)). \\ N \\ nAptonoth pode ser encontrada na área 1 da Floresta antiga (Southwest campismo (1)). de volta de viagem e para trás entre estas zonas. Coloque em seu Ghillie Mantle antes de deixar o acampamento."
     },
     "critical-bounties-research-help-pink-parexus-capture": {
       "Key": "critical-bounties-research-help-pink-parexus-capture",
-      "Translation": "Research Help: Captura rosa Parexus"
+      "Translation": "Ajuda Pesquisa: Pink Parexus Captura"
     },
     "critical-bounties-research-help-pink-parexus-capture-tips": {
       "Key": "critical-bounties-research-help-pink-parexus-capture-tips",
@@ -7705,15 +7705,15 @@ export default {
     },
     "critical-bounties-research-help-platinumfish-capture-tips": {
       "Key": "critical-bounties-research-help-platinumfish-capture-tips",
-      "Translation": "em recesso de Elder (Eastern Camp (8)): O Platinumfish pode ser capturado na água na área 8 por trás da barraca do acampamento."
+      "Translation": "em Elder Recess (Eastern Camp (8)): O Platinumfish pode ser capturado na água na área 8 por trás da barraca do acampamento."
     },
     "critical-bounties-research-help-scavantula-capture": {
       "Key": "critical-bounties-research-help-scavantula-capture",
-      "Translation": "Research Help: Captura Scavantula"
+      "Translation": "Ajuda Pesquisa: Captura Scavantula"
     },
     "critical-bounties-research-help-scavantula-capture-tips": {
       "Key": "critical-bounties-research-help-scavantula-capture-tips",
-      "Translation": "No Rotten Vale (Sudeste Camp (1)): três a quatro Scavantula pode ser encontrado perto pilhas de ossos na área 3 e 4. Coloque em seu Ghillie Mantle."
+      "Translation": "No Rotten Vale (Sudeste Camp (1)): três a quatro Scavantula podem ser encontradas pilhas de ossos perto da área 3 e 4. Coloque em seu Ghillie Mantle."
     },
     "critical-bounties-research-help-sushifish-capture": {
       "Key": "critical-bounties-research-help-sushifish-capture",
@@ -7725,15 +7725,15 @@ export default {
     },
     "critical-bounties-research-help-wiggler-capture": {
       "Key": "critical-bounties-research-help-wiggler-capture",
-      "Translation": "Research Help: Captura Wiggler"
+      "Translation": "Ajuda Pesquisa: Captura Wiggler"
     },
     "critical-bounties-research-help-wiggler-capture-tips": {
       "Key": "critical-bounties-research-help-wiggler-capture-tips",
-      "Translation": "Nas Terras Altas Coral (Southern Camp (1)): Três colônias Wiggler pode ser encontrado na área 1. Coloque o seu Ghillie Mantle e andar de colônia a colônia. Eles respawn muito rapidamente, mas esperar até que eles emergem totalmente a partir do solo."
+      "Translation": "No Coral Highlands (Southern Camp (1)): colônias Três Wiggler pode ser encontrado na área 1. Coloque o seu Ghillie Mantle e andar de colônia a colônia. Eles respawn muito rapidamente, mas esperar até que eles emergem totalmente a partir do solo."
     },
     "critical-bounties-research-help-woodland-pteryx-capture": {
       "Key": "critical-bounties-research-help-woodland-pteryx-capture",
-      "Translation": "Research Help: Captura Woodland Pteryx"
+      "Translation": "Ajuda Pesquisa: Woodland Pteryx Captura"
     },
     "critical-bounties-research-help-woodland-pteryx-capture-tips": {
       "Key": "critical-bounties-research-help-woodland-pteryx-capture-tips",
@@ -7749,7 +7749,7 @@ export default {
     },
     "critical-bounties-troupers-tips": {
       "Key": "critical-bounties-troupers-tips",
-      "Translation": "Nos Coral Highlands: Troupers pode ser encontrada na área 11 através do caminho muito estreita que conduz a leste norte (Nordeste Camp (12)). Eles pedir para você matar 2 Tzitzi-Ya-Ku em The Quest “Troupers Troubled” opcionais. Recompensa: Sua Palico podem agora usar a orquestra coral e falar com Shamos."
+      "Translation": "Nos Coral Highlands: Troupers pode ser encontrada na área 11 através do caminho muito estreita que conduz a leste norte (Nordeste Camp (12)). Eles pedir para você matar 2 Tzitzi-Ya-Ku na busca opcional “Incomodado Troupers”. Recompensa: Sua Palico podem agora usar a orquestra coral e falar com Shamos."
     },
     "endemic-life-andangler-description": {
       "Key": "endemic-life-andangler-description",
@@ -7757,7 +7757,7 @@ export default {
     },
     "endemic-life-augurfly-description": {
       "Key": "endemic-life-augurfly-description",
-      "Translation": "Eles só surgem em dias chuvosos, e diz-se que no dia seguinte é garantido para ser ensolarado! Eles são como amuletos de boa tempo!"
+      "Translation": "Eles só surgem em dias chuvosos, e diz-se que no dia seguinte é garantido para ser ensolarado! Eles são como encantos bom tempo!"
     },
     "endemic-life-blissbill-description": {
       "Key": "endemic-life-blissbill-description",
@@ -7773,7 +7773,7 @@ export default {
     },
     "endemic-life-bristly-crake-description": {
       "Key": "endemic-life-bristly-crake-description",
-      "Translation": "Grandes saltos Jagras! A Bristly Crake !? O pássaro veloz da lenda ... bem diante dos meus olhos! Alguém me belisque ..."
+      "Translation": "Grande salto Jagras! A Bristly Crake !? O pássaro veloz da lenda ... bem diante dos meus olhos! Alguém me belisque ..."
     },
     "endemic-life-burst-arowana-description": {
       "Key": "endemic-life-burst-arowana-description",
@@ -7797,23 +7797,23 @@ export default {
     },
     "endemic-life-cobalt-flutterfly-description": {
       "Key": "endemic-life-cobalt-flutterfly-description",
-      "Translation": "É tão bonito que eu tinha confundido com uma flor! As escalas de refletir a luz em um azul tão profundo que só pode ser chamado de milagre!"
+      "Translation": "É tão bonito que eu tinha confundido com uma flor! As escalas de refletir a luz em tal azul profundo que só pode ser chamado de um milagre!"
     },
     "endemic-life-copper-calappa-description": {
       "Key": "endemic-life-copper-calappa-description",
-      "Translation": "Santo Hermitaurs! Um caranguejo brilhante !? Parece que vai cair alguma coisa, se você segui-lo. Espere, não é este um pedaço de ouro !? LEGAIS!\""
+      "Translation": "Santo Hermitaurs! Um caranguejo brilhante !? Parece que vai cair alguma coisa, se você segui-lo. Espere, não é esta peça uma de ouro !? LEGAIS!\""
     },
     "endemic-life-dapper-coralbird-description": {
       "Key": "endemic-life-dapper-coralbird-description",
-      "Translation": "Coralbirds só permitem um macho escolhido em seu rebanho. Em outras palavras, esse cara é o dog- superior ou pássaro .... Você sabe o que quero dizer!"
+      "Translation": "Coralbirds só permitem um macho escolhido em seu rebanho. Em outras palavras, esse cara é o topo dog- ou ave .... Você sabe o que quero dizer!"
     },
     "endemic-life-downy-crake-description": {
       "Key": "endemic-life-downy-crake-description",
-      "Translation": "Você pegou um Downy Crake !? Eles foram vistos nas costas dos monstros antes, mas você é a primeira pessoa a pegar um!"
+      "Translation": "Você pegou um Downy Crake !? Eles foram vistos nas costas dos monstros antes, mas você é a primeira pessoa a uma captura!"
     },
     "endemic-life-dung-beetle-description": {
       "Key": "endemic-life-dung-beetle-description",
-      "Translation": "Esses caras rolo esterco em torno de todo o dia. Precisa de alguma esterco? Então não procure mais! O que você faz com ele é da minha conta!"
+      "Translation": "Esses caras rolar esterco em torno de todo o dia. Precisa de alguma esterco? Então não procure mais! O que você faz com ele é da minha conta!"
     },
     "endemic-life-elegant-coralbird-description": {
       "Key": "endemic-life-elegant-coralbird-description",
@@ -7825,11 +7825,11 @@ export default {
     },
     "endemic-life-emperor-hopper-description": {
       "Key": "endemic-life-emperor-hopper-description",
-      "Translation": "expressão autorizada ... cabeça coroa-like e asas manto-like ... * suspiro * Um imperador real! F-Perdoai as nossas impertinência!"
+      "Translation": "expressão autorizada ... coroa-como a cabeça eo manto-como asas ... * suspiro * Um imperador real! F-Perdoai as nossas impertinência!"
     },
     "endemic-life-flashfly-description": {
       "Key": "endemic-life-flashfly-description",
-      "Translation": "Uau, BRIGHT deste filhote de cachorro! Mesmo um grande monstro ficaria surpreso por ele, tenho certeza. É como um flash bomba viver ... com asas!"
+      "Translation": "Uau, BRIGHT deste filhote de cachorro! Mesmo um grande monstro seria atordoado por ela, tenho certeza. É como um flash bomba viver ... com asas!"
     },
     "endemic-life-flowering-cactuar-cutting-description": {
       "Key": "endemic-life-flowering-cactuar-cutting-description",
@@ -7849,7 +7849,7 @@ export default {
     },
     "endemic-life-gastronome-tuna-description": {
       "Key": "endemic-life-gastronome-tuna-description",
-      "Translation": "Um peixe que come anything-- permitindo-lhe, por vezes, para obter itens de seu estômago. Estes peixes grandes gostam de arrebatar isca! Use a flexibilidade da haste para o seu benefício para trazê-lo, e certifique-se de verificar se há itens!"
+      "Translation": "Um peixe que come anything-- permitindo-lhe, por vezes, para obter itens de seu estômago. Estes peixes grandes como para arrebatar isca! Use a flexibilidade da haste para o seu benefício para trazê-lo, e certifique-se de verificar se há itens!"
     },
     "endemic-life-giant-vigorwasp-description": {
       "Key": "endemic-life-giant-vigorwasp-description",
@@ -7857,15 +7857,15 @@ export default {
     },
     "endemic-life-gloom-gecko-description": {
       "Key": "endemic-life-gloom-gecko-description",
-      "Translation": "O que um berrante cor para um lugar tão escuro! Ele só grita, \"Perigo! Não toque! E não me colocar em qualquer lugar perto de sua boca!\""
+      "Translation": "O que uma cor berrante para tal um lugar escuro! Ele só grita, \"Perigo! Não toque! E não me colocar em qualquer lugar perto de sua boca!\""
     },
     "endemic-life-gold-calappa-description": {
       "Key": "endemic-life-gold-calappa-description",
-      "Translation": "Olhe para o shell nessa coisa! Faz-me só quero pegá-lo e gritar \"grande arrastão ouro passando!\""
+      "Translation": "Olhe para o shell nessa coisa! Faz-me só quero pegá-lo e gritar \"curso de ouro grande que vem através!\""
     },
     "endemic-life-gold-helmcrab-description": {
       "Key": "endemic-life-gold-helmcrab-description",
-      "Translation": "Wowzers, mesmo Helmcrabs ter ido ouro! É segurando ... um Pod dragão !? Acho que quando você tem que comer, você tem que comer!"
+      "Translation": "Wowzers, mesmo Helmcrabs ter ouro ido! É segurando ... um Pod dragão !? Acho que quando você tem que comer, você tem que comer!"
     },
     "endemic-life-gold-hercudrome-description": {
       "Key": "endemic-life-gold-hercudrome-description",
@@ -7921,11 +7921,11 @@ export default {
     },
     "endemic-life-paratoad-description": {
       "Key": "endemic-life-paratoad-description",
-      "Translation": "Ele armazena gás paralisante em seu corpo e libera-lo quando ameaçado! Vejo? Aqui, em sua soma-AGH! Eu ... eu não posso ... Mooove ..."
+      "Translation": "Ele armazena paralisando gás no seu corpo e libera-lo quando ameaçado! Vejo? Aqui, em sua soma-AGH! Eu ... eu não posso ... Mooove ..."
     },
     "endemic-life-petricanths-description": {
       "Key": "endemic-life-petricanths-description",
-      "Translation": "Inacreditável ... Você conseguiu pescar até o lendário, pensou-a-ter-ido extinto Petricanths! Eu tiro meu chapéu para você!"
+      "Translation": "Inacreditável ... Você conseguiu pescar até o lendário, pensou-se ter-ido extinto Petricanths! Eu tiro meu chapéu para você!"
     },
     "endemic-life-phantom-flutterfly": {
       "Key": "endemic-life-phantom-flutterfly",
@@ -7953,7 +7953,7 @@ export default {
     },
     "endemic-life-scalebat-description": {
       "Key": "endemic-life-scalebat-description",
-      "Translation": "Após a inspeção, estes parecem ter escalas. E garras ... e presas! Grandes Gravios! Eles são mini-wyverns! Eu fiz uma grande descoberta!"
+      "Translation": "Após a inspeção, estes parecem ter escalas. E garras ... e presas! Grande Gravios! Eles são mini-wyverns! Eu fiz uma grande descoberta!"
     },
     "endemic-life-scavantula-description": {
       "Key": "endemic-life-scavantula-description",
@@ -7965,11 +7965,11 @@ export default {
     },
     "endemic-life-shiny-gold-helmcrab-description": {
       "Key": "endemic-life-shiny-gold-helmcrab-description",
-      "Translation": "Este pequeno não é muito diferente do seu normal ouro Helmcrab, mas é muito mais brilhante. Acho que acumulado mais grub para si?"
+      "Translation": "Este pequeno não é muito diferente do seu normal ouro Helmcrab, mas é um shinier muito. Acho que acumulado mais grub para si?"
     },
     "endemic-life-sleeptoad-description": {
       "Key": "endemic-life-sleeptoad-description",
-      "Translation": "É desenvolvido órgãos que produzem um gás sono, a fim de sobreviver nas Highlands Coral! Quando provocado ele libera-zzzzzzzzzzz ..."
+      "Translation": "É desenvolvido órgãos que produzem um gás sono, a fim de sobreviver no Coral Highlands! Quando provocado ele libera-zzzzzzzzzzz ..."
     },
     "endemic-life-soldier-helmcrab-description": {
       "Key": "endemic-life-soldier-helmcrab-description",
@@ -8001,7 +8001,7 @@ export default {
     },
     "endemic-life-wiggler-description": {
       "Key": "endemic-life-wiggler-description",
-      "Translation": "Ele mexe com o vento e não é soprada para fora porque está ancorada no chão! Vamos dar uma olhada em seus pés ... Urrgh! Está preso..."
+      "Translation": "Ele mexe com o vento e não é soprada para fora porque está ancorada no chão! Vamos dar uma olhada em sua pés ... Urrgh! Está preso..."
     },
     "endemic-life-wiggler-queen-description": {
       "Key": "endemic-life-wiggler-queen-description",
@@ -8013,7 +8013,7 @@ export default {
     },
     "endemic-life-woodland-pteryx-description": {
       "Key": "endemic-life-woodland-pteryx-description",
-      "Translation": "dentes serrilhados, e aqueles remiges ... Tanta coisa em comum com pássaros pré-históricos que é um fóssil vivo verdadeiro!"
+      "Translation": "dentes serrilhados, e essas remiges ... tanto em comum com pássaros pré-históricos que é um fóssil vivo verdadeiro!"
     },
     "home-about": {
       "Key": "home-about",
@@ -8041,7 +8041,7 @@ export default {
     },
     "home-crafting-list": {
       "Key": "home-crafting-list",
-      "Translation": "Crafting Lista"
+      "Translation": "Lista Crafting"
     },
     "home-critical-bounties": {
       "Key": "home-critical-bounties",
@@ -8057,7 +8057,7 @@ export default {
     },
     "home-endemic-life": {
       "Key": "home-endemic-life",
-      "Translation": "vida endêmica"
+      "Translation": "endémica vida"
     },
     "home-event-calendar": {
       "Key": "home-event-calendar",
@@ -8065,7 +8065,7 @@ export default {
     },
     "home-items": {
       "Key": "home-items",
-      "Translation": "Itens"
+      "Translation": "Unid"
     },
     "home-kinsect-trees": {
       "Key": "home-kinsect-trees",
@@ -8097,7 +8097,7 @@ export default {
     },
     "home-palico-gadgets": {
       "Key": "home-palico-gadgets",
-      "Translation": "Gadgets Palico"
+      "Translation": "Palico Gadgets"
     },
     "home-play-guide": {
       "Key": "home-play-guide",
@@ -8169,7 +8169,7 @@ export default {
     },
     "layered-armor-blossom-layered-arms": {
       "Key": "layered-armor-blossom-layered-arms",
-      "Translation": "Braços Blossom Layered"
+      "Translation": "Flor Layered Braços"
     },
     "layered-armor-blossom-layered-chest": {
       "Key": "layered-armor-blossom-layered-chest",
@@ -8193,11 +8193,11 @@ export default {
     },
     "layered-armor-brigade-how-to-get": {
       "Key": "layered-armor-brigade-how-to-get",
-      "Translation": "Completa Breaking Out a entrega Brigada."
+      "Translation": "Conclua Estoiro a entrega Brigada."
     },
     "layered-armor-brigade-layered-arms": {
       "Key": "layered-armor-brigade-layered-arms",
-      "Translation": "Braços Brigada Layered"
+      "Translation": "Brigada Layered Braços"
     },
     "layered-armor-brigade-layered-chest": {
       "Key": "layered-armor-brigade-layered-chest",
@@ -8277,7 +8277,7 @@ export default {
     },
     "layered-armor-butterfly-how-to-get": {
       "Key": "layered-armor-butterfly-how-to-get",
-      "Translation": "Completa flutuar como entrega borboletas."
+      "Translation": "Float entrega como borboletas completa."
     },
     "layered-armor-ciri": {
       "Key": "layered-armor-ciri",
@@ -8305,7 +8305,7 @@ export default {
     },
     "layered-armor-death-stench": {
       "Key": "layered-armor-death-stench",
-      "Translation": "Stench morte"
+      "Translation": "morte Stench"
     },
     "layered-armor-death-stench-how-to-get": {
       "Key": "layered-armor-death-stench-how-to-get",
@@ -8317,11 +8317,11 @@ export default {
     },
     "layered-armor-diver-how-to-get": {
       "Key": "layered-armor-diver-how-to-get",
-      "Translation": "Completa entrega Deep Dive Down."
+      "Translation": "Concluir a entrega Deep Dive Down."
     },
     "layered-armor-diver-layered-arms": {
       "Key": "layered-armor-diver-layered-arms",
-      "Translation": "Braços Diver Layered"
+      "Translation": "Diver Layered Braços"
     },
     "layered-armor-diver-layered-chest": {
       "Key": "layered-armor-diver-layered-chest",
@@ -8369,23 +8369,23 @@ export default {
     },
     "layered-armor-gala-suit-layered-arms": {
       "Key": "layered-armor-gala-suit-layered-arms",
-      "Translation": "Terno Gala braços mergulhados"
+      "Translation": "Gala Suit Layered Braços"
     },
     "layered-armor-gala-suit-layered-chest": {
       "Key": "layered-armor-gala-suit-layered-chest",
-      "Translation": "Terno Gala Layered Peito"
+      "Translation": "Gala Suit Layered Peito"
     },
     "layered-armor-gala-suit-layered-head": {
       "Key": "layered-armor-gala-suit-layered-head",
-      "Translation": "Terno Gala Layered cabeça"
+      "Translation": "Gala Suit Layered cabeça"
     },
     "layered-armor-gala-suit-layered-legs": {
       "Key": "layered-armor-gala-suit-layered-legs",
-      "Translation": "Terno Gala Pernas Layered"
+      "Translation": "Gala Terno Layered Legs"
     },
     "layered-armor-gala-suit-layered-torso": {
       "Key": "layered-armor-gala-suit-layered-torso",
-      "Translation": "Terno Gala Layered Torso"
+      "Translation": "Gala Suit Layered Torso"
     },
     "layered-armor-geralt-of-rivia": {
       "Key": "layered-armor-geralt-of-rivia",
@@ -8393,7 +8393,7 @@ export default {
     },
     "layered-armor-geralt-of-rivia-how-to-get": {
       "Key": "layered-armor-geralt-of-rivia-how-to-get",
-      "Translation": "Completar a entrega Geralt de Rivia."
+      "Translation": "Complete a Geralt de Rivia entrega."
     },
     "layered-armor-guild-cross": {
       "Key": "layered-armor-guild-cross",
@@ -8401,7 +8401,7 @@ export default {
     },
     "layered-armor-guild-cross-how-to-get": {
       "Key": "layered-armor-guild-cross-how-to-get",
-      "Translation": "Conclua Cross My entrega Coração."
+      "Translation": "Concluir a entrega Cross My Heart."
     },
     "layered-armor-guild-cross-layered-arms": {
       "Key": "layered-armor-guild-cross-layered-arms",
@@ -8433,7 +8433,7 @@ export default {
     },
     "layered-armor-harvest-layered-arms": {
       "Key": "layered-armor-harvest-layered-arms",
-      "Translation": "Braços colheita em camadas"
+      "Translation": "Colheita Layered Braços"
     },
     "layered-armor-harvest-layered-chest": {
       "Key": "layered-armor-harvest-layered-chest",
@@ -8477,7 +8477,7 @@ export default {
     },
     "layered-armor-origin-how-to-get": {
       "Key": "layered-armor-origin-how-to-get",
-      "Translation": "Concluir a entrega de Origem Original."
+      "Translation": "Completa entrega Original Origin."
     },
     "layered-armor-orion": {
       "Key": "layered-armor-orion",
@@ -8489,7 +8489,7 @@ export default {
     },
     "layered-armor-orion-layered-arms": {
       "Key": "layered-armor-orion-layered-arms",
-      "Translation": "Braços Orion Layered"
+      "Translation": "Orion Layered Braços"
     },
     "layered-armor-orion-layered-boots": {
       "Key": "layered-armor-orion-layered-boots",
@@ -8513,7 +8513,7 @@ export default {
     },
     "layered-armor-sakura-how-to-get": {
       "Key": "layered-armor-sakura-how-to-get",
-      "Translation": "Concluir a entrega Blooming Sakura."
+      "Translation": "Completa entrega Blooming Sakura."
     },
     "layered-armor-samurai": {
       "Key": "layered-armor-samurai",
@@ -8525,7 +8525,7 @@ export default {
     },
     "layered-armor-sealed-eyepatch": {
       "Key": "layered-armor-sealed-eyepatch",
-      "Translation": "Eyepatch selado"
+      "Translation": "Eyepatch selada"
     },
     "layered-armor-sealed-eyepatch-how-to-get": {
       "Key": "layered-armor-sealed-eyepatch-how-to-get",
@@ -8537,7 +8537,7 @@ export default {
     },
     "layered-armor-shadow-shades-how-to-get": {
       "Key": "layered-armor-shadow-shades-how-to-get",
-      "Translation": "Conclua À espreita na entrega Sombras."
+      "Translation": "Conclua Lurking na entrega Sombras."
     },
     "layered-armor-shadow-shades-layered-head": {
       "Key": "layered-armor-shadow-shades-layered-head",
@@ -8593,7 +8593,7 @@ export default {
     },
     "monster-aptonoth-useful-information": {
       "Key": "monster-aptonoth-useful-information",
-      "Translation": "herbívoros dóceis que pastam em embalagens. Sua carne é considerada uma iguaria e é rica em nutrientes. Se um membro do rebanho é atacado, o resto vai fugir imediatamente."
+      "Translation": "Dócil herbívoros que pastam em embalagens. Sua carne é considerada uma iguaria e é rica em nutrientes. Se um membro do rebanho é atacado, o resto vai fugir imediatamente."
     },
     "monster-azure-rathalos": {
       "Key": "monster-azure-rathalos",
@@ -8629,7 +8629,7 @@ export default {
     },
     "monster-barroth-characteristics": {
       "Key": "monster-barroth-characteristics",
-      "Translation": "Barroth procurar formigas, seu petisco favorito, e marcar seu território com lama. Eles atacam potenciais rivais com ataque de carregamento devastador."
+      "Translation": "Barroth procurar formigas, seu petisco favorito, e marcar seu território com lama. Eles atacam potenciais rivais com devastador ataque de carga."
     },
     "monster-barroth-useful-information": {
       "Key": "monster-barroth-useful-information",
@@ -8645,7 +8645,7 @@ export default {
     },
     "monster-bazelgeuse-useful-information": {
       "Key": "monster-bazelgeuse-useful-information",
-      "Translation": "As escalas que Bazelgeuse dispersa explodir com uma força tremenda, tornando-os extremamente mortal. Concentre-se em suas pernas para derrubá-lo, e, em seguida, bater para fora seus órgãos de geração de escala."
+      "Translation": "As escalas que espalha Bazelgeuse explodir com uma força tremenda, tornando-os extremamente mortal. Concentre-se em suas pernas para derrubá-lo, e, em seguida, bater para fora seus órgãos de geração de escala."
     },
     "monster-behemoth": {
       "Key": "monster-behemoth",
@@ -8653,7 +8653,7 @@ export default {
     },
     "monster-behemoth-characteristics": {
       "Key": "monster-behemoth-characteristics",
-      "Translation": "Uma besta poderosa de outro mundo. Seus grandes chifres e corpo musculoso desafiar a natureza. estratégias únicas são obrigados a batalhar."
+      "Translation": "Uma besta poderosa de outro mundo. Seus grandes chifres e estrutura muscular nave Defy. estratégias únicas são obrigados a batalhar."
     },
     "monster-behemoth-useful-information": {
       "Key": "monster-behemoth-useful-information",
@@ -8665,11 +8665,11 @@ export default {
     },
     "monster-black-diablos": {
       "Key": "monster-black-diablos",
-      "Translation": "Diablos preto"
+      "Translation": "preto Diablos"
     },
     "monster-black-diablos-characteristics": {
       "Key": "monster-black-diablos-characteristics",
-      "Translation": "Estes Diablos preto-descascados são realmente Diablos fêmea no cio. A cor sinaliza sua agressividade e hostilidade aumentou a outras criaturas em seu habitat."
+      "Translation": "Estes Diablos preto-descascados são realmente Diablos fêmea no cio. A cor sinaliza sua agressividade e hostilidade elevado a outras criaturas em seu habitat."
     },
     "monster-black-diablos-useful-information": {
       "Key": "monster-black-diablos-useful-information",
@@ -8701,7 +8701,7 @@ export default {
     },
     "monster-deviljho-useful-information": {
       "Key": "monster-deviljho-useful-information",
-      "Translation": "Quando enfurecido, músculos inchados de Deviljho brilhar um vermelho infernal. Ele vai começar a vomitar um elemento dragão ataque varrendo, para assistir a sua distância. Deviljho permanece no ataque mesmo quando ferido, mas não desista; continuar lutando e você vai sair por cima."
+      "Translation": "Quando enfurecido, músculos inchados de Deviljho um brilho infernal vermelho. Ele vai começar a vomitar um elemento dragão ataque varrendo, para assistir a sua distância. Deviljho estadias no ataque mesmo quando feridos, mas não desista; continuar lutando e você vai sair por cima."
     },
     "monster-diablos": {
       "Key": "monster-diablos",
@@ -8709,7 +8709,7 @@ export default {
     },
     "monster-diablos-characteristics": {
       "Key": "monster-diablos-characteristics",
-      "Translation": "O monstro ápice do Wildspire Resíduos. Uma fera ameaçadora, territorial que se esconde no subsolo. ruídos altos fará com que ele se lançar para fora da areia em busca de presas."
+      "Translation": "O monstro ápice do Wildspire Resíduos. A ameaçador, besta territorial que se esconde no subsolo. ruídos altos fará com que ele se lançar para fora da areia em busca de presas."
     },
     "monster-diablos-useful-information": {
       "Key": "monster-diablos-useful-information",
@@ -8721,7 +8721,7 @@ export default {
     },
     "monster-dodogama-characteristics": {
       "Key": "monster-dodogama-characteristics",
-      "Translation": "Um monstro que devora rochas como a sua dieta primária. Os cristais que devora misturar com a sua saliva para produzir minerais explosivos que ele pode cuspir em seus inimigos."
+      "Translation": "Um monstro que devora rochas como a sua dieta primária. Os cristais que devora misturam com a sua saliva para produzir minerais explosivos que ele pode cuspir em seus inimigos."
     },
     "monster-dodogama-useful-information": {
       "Key": "monster-dodogama-useful-information",
@@ -8745,7 +8745,7 @@ export default {
     },
     "monster-gajau-useful-information": {
       "Key": "monster-gajau-useful-information",
-      "Translation": "piscine vicioso que formam grupos para defender seu território contra intrusos. Cuidado para não se aventurar muito de perto ao seu habitat!"
+      "Translation": "piscine vicioso que formam grupos para defender seu território contra intrusos. Certifique-se de não se aventurar muito de perto ao seu habitat!"
     },
     "monster-gastodon": {
       "Key": "monster-gastodon",
@@ -8753,7 +8753,7 @@ export default {
     },
     "monster-gastodon-useful-information": {
       "Key": "monster-gastodon-useful-information",
-      "Translation": "Pacote de monstros que habitam Recess da pessoa idosa. Eles são facilmente irritado por intrusos, e irá cobrar de monstros duas vezes o seu tamanho."
+      "Translation": "Pacote de monstros que habitam o recesso da pessoa idosa. Eles são facilmente irritado por intrusos, e irá cobrar de monstros duas vezes o seu tamanho."
     },
     "monster-girros": {
       "Key": "monster-girros",
@@ -8761,7 +8761,7 @@ export default {
     },
     "monster-girros-useful-information": {
       "Key": "monster-girros-useful-information",
-      "Translation": "Monstro que são conhecidos para atacar em embalagens, utilizando o vapor mortal do podre Vale a sua vantagem. Eles são conhecidos para alvos incapacitantes com suas presas paralisantes."
+      "Translation": "Monstro que são conhecidos para atacar em embalagens, utilizando o vapor mortal do podre Vale a sua vantagem. Eles são conhecidos por aleijando alvos com suas presas paralisantes."
     },
     "monster-glavenus": {
       "Key": "monster-glavenus",
@@ -8777,7 +8777,7 @@ export default {
     },
     "monster-great-girros-characteristics": {
       "Key": "monster-great-girros-characteristics",
-      "Translation": "Um monstro que sequestra para refeições caiu do Coral Highlands. Ele age como o líder alfa de um pacote Girros, e ostenta presas gigantes de paralisar sua presa."
+      "Translation": "Um monstro que scavenges para refeições caiu das Highlands Coral. Ele age como o líder alfa de um pacote Girros, e ostenta presas gigantes de paralisar sua presa."
     },
     "monster-great-girros-useful-information": {
       "Key": "monster-great-girros-useful-information",
@@ -8785,11 +8785,11 @@ export default {
     },
     "monster-great-jagras": {
       "Key": "monster-great-jagras",
-      "Translation": "grandes Jagras"
+      "Translation": "grande Jagras"
     },
     "monster-great-jagras-characteristics": {
       "Key": "monster-great-jagras-characteristics",
-      "Translation": "O líder do bloco do Jagras. Quando famintos, Grandes Jagras são conhecidos por atacar monstros ainda mais fortes tham si. É balões para proporções inacreditáveis ​​depois de engolir presas."
+      "Translation": "O líder do bloco dos Jagras. Quando está com fome, Grandes Jagras são conhecidos por monstros ataque ainda mais forte tham si. É balões para proporções inacreditáveis ​​depois de engolir presas."
     },
     "monster-great-jagras-useful-information": {
       "Key": "monster-great-jagras-useful-information",
@@ -8809,7 +8809,7 @@ export default {
     },
     "monster-jagras-useful-information": {
       "Key": "monster-jagras-useful-information",
-      "Translation": "Membros do bando Grande Jagras, esses monstros menores fugirá ao ver um deles perecem. Eles também são conhecidos para emboscar monstros maiores na observação de um momento."
+      "Translation": "Membros do bando Grande Jagras, esses monstros menores fugirá ao ver um de seus próprios perecem. Eles também são conhecidos para emboscar monstros maiores na observação de um momento."
     },
     "monster-jyuratodus": {
       "Key": "monster-jyuratodus",
@@ -8817,11 +8817,11 @@ export default {
     },
     "monster-jyuratodus-characteristics": {
       "Key": "monster-jyuratodus-characteristics",
-      "Translation": "Uma grande wyvern piscine que habita os pântanos do Wildspire Resíduos. Ele usa lama para capturar a presa, e ele é conhecido por lutar Barroth sobre o território."
+      "Translation": "Uma grande piscine wyvern que habita pântanos do Wildspire Resíduos. Ele usa lama para capturar presas, e é conhecida a batalha Barroth sobre o território."
     },
     "monster-jyuratodus-useful-information": {
       "Key": "monster-jyuratodus-useful-information",
-      "Translation": "É quase impossível para lutar contra um Jyuratodus em sua casa pantanosa. Forçá-lo para a terra, e, em seguida, usar armas elemento de água ou o seu lançador de chip lentamente sua armadura lama endurecida."
+      "Translation": "É quase impossível lutar contra um Jyuratodus em sua casa pantanosa. Forçá-lo à terra, e, em seguida, usar armas elemento de água ou o seu lançador lentamente desbastar a sua armadura lama endurecida."
     },
     "monster-kelbi": {
       "Key": "monster-kelbi",
@@ -8849,7 +8849,7 @@ export default {
     },
     "monster-kirin-useful-information": {
       "Key": "monster-kirin-useful-information",
-      "Translation": "O relâmpago a Kirin disfarça-se com foi confirmado para endurecer sua pele. A chave para a caça a Kirin reside nele escalonamento, usando armas Elderseal, e proteger-se de e evitando seus ataques relâmpagos."
+      "Translation": "O relâmpago a Kirin disfarça-se com foi confirmado para endurecer sua pele. A chave para a caça de mentiras Kirin no cambaleando-lo, usando armas Elderseal, e proteger-se de e evitando seus ataques relâmpagos."
     },
     "monster-kulu-ya-ku": {
       "Key": "monster-kulu-ya-ku",
@@ -8857,7 +8857,7 @@ export default {
     },
     "monster-kulu-ya-ku-characteristics": {
       "Key": "monster-kulu-ya-ku-characteristics",
-      "Translation": "Um wyvern pássaro estranho que desenvolveu membros capazes fo porte de armas. Tem sido descoberto roubando ovos de ninhos encontrados na Floresta Antiga e Wildspire Resíduos."
+      "Translation": "Um pássaro estranho wyvern que se desenvolveu membros capazes fo porte de armas. Tem sido descoberto roubando ovos de ninhos encontrados na Floresta Antiga e Wildspire Resíduos."
     },
     "monster-kulu-ya-ku-useful-information": {
       "Key": "monster-kulu-ya-ku-useful-information",
@@ -8873,7 +8873,7 @@ export default {
     },
     "monster-kulve-taroth-useful-information": {
       "Key": "monster-kulve-taroth-useful-information",
-      "Translation": "Uma investigação exaustiva é necessária a fim de quebrar chifres banhados de ouro gigante da Kulve Taroth. Prosseguir o monstro para aprender mais sobre ele. Reunir faixas e recrutar caçadores para ajudá-lo a continuar a sua investigação."
+      "Translation": "Uma investigação exaustiva é necessária a fim de quebrar chifres banhados de ouro gigante da Kulve Taroth. Prosseguir o monstro para aprender mais sobre ele. Reunir faixas e recrutar caçadores para ajudá-lo ainda mais a sua investigação."
     },
     "monster-kushala-daora": {
       "Key": "monster-kushala-daora",
@@ -8881,7 +8881,7 @@ export default {
     },
     "monster-kushala-daora-characteristics": {
       "Key": "monster-kushala-daora-characteristics",
-      "Translation": "Um dragão mais velho que se protege com ventos fortes, impedindo qualquer pessoa de se aproximar dele. Sua pele é composta por escamas duras, metálicas."
+      "Translation": "Um dragão mais velho que a própria escudos com ventos fortes, impedindo qualquer pessoa de se aproximar dele. Sua pele é composta por escamas duras, metálicas."
     },
     "monster-kushala-daora-useful-information": {
       "Key": "monster-kushala-daora-useful-information",
@@ -8905,11 +8905,11 @@ export default {
     },
     "monster-legiana-characteristics": {
       "Key": "monster-legiana-characteristics",
-      "Translation": "O monstro ápice das Highlands Coral, cuja dieta consiste principalmente de Raphinos. Ele emite um vento frio de seu corpo, que embota a capacidade da sua presa escapar."
+      "Translation": "O monstro ápice do Coral Highlands, cuja dieta consiste principalmente de Raphinos. Ele emite um vento frio de seu corpo, que embota a capacidade da sua presa escapar."
     },
     "monster-legiana-useful-information": {
       "Key": "monster-legiana-useful-information",
-      "Translation": "A membrana que cobre todo o corpo permite que Legiana a mover-se com uma velocidade incrível. Danificando desta membrana deve ajudar com diminuir a velocidade. ataques de veneno também foram conhecidos para ser eficaz."
+      "Translation": "A membrana que cobre todo o corpo permite que Legiana para movimento com uma velocidade incrível. Danificando desta membrana deve ajudar com diminuir a velocidade. ataques de veneno também foram conhecidos para ser eficaz."
     },
     "monster-leshen": {
       "Key": "monster-leshen",
@@ -8921,7 +8921,7 @@ export default {
     },
     "monster-leshen-useful-information": {
       "Key": "monster-leshen-useful-information",
-      "Translation": "Revoltures e Jagras controlados por um leshen são difíceis de abordar, mas o sinal Igni é muito útil para cortar raízes de amarração do leshen."
+      "Translation": "Revoltures e Jagras controladas por um leshen são difíceis de abordagem, mas o sinal Igni é muito útil para cortar raízes de amarração do leshen."
     },
     "monster-lunastra": {
       "Key": "monster-lunastra",
@@ -8929,11 +8929,11 @@ export default {
     },
     "monster-lunastra-characteristics": {
       "Key": "monster-lunastra-characteristics",
-      "Translation": "Um Dragão Elder feminina rara que desarruma o ar com pó azul quente. Relatos de que viaja com seu companheiro, Teostra, ainda não confirmado."
+      "Translation": "A Elder feminino raro dragão que ninhadas o ar com pó azul quente. Relatos de que viaja com seu companheiro, Teostra, ainda não confirmado."
     },
     "monster-lunastra-useful-information": {
       "Key": "monster-lunastra-useful-information",
-      "Translation": "alta temperatura do corpo e poeira sucos de Lunastra longe de saúde a menos que você use uma bebida fresca. Sua poeira e chama azul explodir quando ele entra em contato com fogo, então use uma bomba ou Crystalburst."
+      "Translation": "alta temperatura do corpo do Lunastra e poeira sucos de saúde longe menos que você use uma bebida fresca. Sua poeira e chama azul explodir quando ele entra em contato com fogo, então use uma bomba ou Crystalburst."
     },
     "monster-materials-commendation": {
       "Key": "monster-materials-commendation",
@@ -8969,11 +8969,11 @@ export default {
     },
     "monster-nergigante-characteristics": {
       "Key": "monster-nergigante-characteristics",
-      "Translation": "Um dragão mais velho terrível que aparece quando outros anciãos estão nas proximidades. Sua propensão para a destruição é bem documentada."
+      "Translation": "A terrível dragão ancião que aparece quando outros anciãos estão nas proximidades. Sua propensão para a destruição é bem documentada."
     },
     "monster-nergigante-useful-information": {
       "Key": "monster-nergigante-useful-information",
-      "Translation": "Nergigante pode se recuperar de feridas quase instantaneamente. partes do corpo regeneradas crescer mais difícil ao longo do tempo, então atacá-los enquanto eles ainda estão frescos é a estratégia ideal."
+      "Translation": "Nergigante pode se recuperar de feridas quase instantaneamente. partes do corpo regeneradas crescer mais difícil ao longo do tempo, então atacá-los enquanto eles estão ainda fresca é a estratégia ideal."
     },
     "monster-nightshade-paolumu": {
       "Key": "monster-nightshade-paolumu",
@@ -8985,7 +8985,7 @@ export default {
     },
     "monster-noios-useful-information": {
       "Key": "monster-noios-useful-information",
-      "Translation": "Wingdrakes que irá produzir um som semelhante a gritador vagens quando assustado. Use carne para obter a sua atenção, e então caçá-los para materiais, ou usá-los como meio de transporte."
+      "Translation": "Wingdrakes que irá produzir um som semelhante ao vagens gritador quando assustado. Use carne para obter a sua atenção, e então caçá-los para materiais, ou usá-los como meio de transporte."
     },
     "monster-odogaron": {
       "Key": "monster-odogaron",
@@ -8993,11 +8993,11 @@ export default {
     },
     "monster-odogaron-characteristics": {
       "Key": "monster-odogaron-characteristics",
-      "Translation": "Um monstro terrível que vasculha a Rotten Vale de carniça. Sua natureza altamente agressiva significa que qualquer coisa, seja monstro ou homem, é uma refeição potencial."
+      "Translation": "Um monstro terrível que vasculha a Rotten Vale de carniça. Seus meios altamente agressivos da natureza que qualquer coisa, seja monstro ou homem, é uma refeição potencial."
     },
     "monster-odogaron-useful-information": {
       "Key": "monster-odogaron-useful-information",
-      "Translation": "garras desagradáveis ​​do Odogaron causar sangramento intenso e deve ser evitado a todo custo. Use carne para atraí-lo em armadilhas, escalonar-lo, ou coagi-lo em acessos de raiva a cansar-lo e torná-lo mais fácil de lidar."
+      "Translation": "garras desagradáveis ​​do Odogaron causar sangramento intenso e deve ser evitado a todo custo. Use carne para atraí-lo em armadilhas, cambalear-lo, ou coagi-lo em acessos de raiva a cansar-lo e torná-lo mais fácil de lidar."
     },
     "monster-paolumu": {
       "Key": "monster-paolumu",
@@ -9005,7 +9005,7 @@ export default {
     },
     "monster-paolumu-characteristics": {
       "Key": "monster-paolumu-characteristics",
-      "Translation": "festas Paolumu em ovos encontrados nas Highlands de coral. Eles são capazes de flutuar através do ar usando sacos únicos em seus corpos, e atacar com suas caudas extremamente duras."
+      "Translation": "festas Paolumu em ovos encontrados nas Highlands Coral. Eles são capazes de flutuar através do ar usando sacos únicos em seus corpos, e atacar com suas caudas extremamente duras."
     },
     "monster-paolumu-useful-information": {
       "Key": "monster-paolumu-useful-information",
@@ -9017,7 +9017,7 @@ export default {
     },
     "monster-pink-rathian-characteristics": {
       "Key": "monster-pink-rathian-characteristics",
-      "Translation": "Uma subespécie com escalas rosa vibrantes. Rosa Rathians exercer suas caudas tóxicos mais habilmente do que Rathians normal, enfraquecendo presa com veneno antes de se mudar para o matar."
+      "Translation": "Uma subespécie com escalas rosa vibrantes. Rosa Rathians exercer suas caudas tóxicos mais habilmente do que Rathians normais, enfraquecendo presa com veneno antes de se mudar para o matar."
     },
     "monster-pink-rathian-useful-information": {
       "Key": "monster-pink-rathian-useful-information",
@@ -9029,7 +9029,7 @@ export default {
     },
     "monster-pukei-pukei-characteristics": {
       "Key": "monster-pukei-pukei-characteristics",
-      "Translation": "Um wyvern de aves conhecidos por possuir toxinas venenosas no seu corpo. Tem sido armazenar manchado scatternuts em sua boca ou cauda, ​​revesti-los com veneno e cuspindo-los em ameaças."
+      "Translation": "Um wyvern pássaro conhecido por possuir toxinas venenosas no seu corpo. Tem sido scatternuts de armazenagem visto em sua boca ou cauda, ​​revesti-los com veneno e cuspindo-los em ameaças."
     },
     "monster-pukei-pukei-useful-information": {
       "Key": "monster-pukei-pukei-useful-information",
@@ -9069,7 +9069,7 @@ export default {
     },
     "monster-rathalos-useful-information": {
       "Key": "monster-rathalos-useful-information",
-      "Translation": "Rathalos preferem ficar no ar para libertar os seus inumeráveis ​​ataques, mas uma bomba de flash bem colocado ou um tiro do seu lançador pode enviá-los cair para a terra. Ferindo suas asas dá-lhes um momento de vulnerabilidade, sempre que eles tentam tomar o vôo."
+      "Translation": "Rathalos preferem ficar no ar para libertar os seus inumeráveis ​​ataques, mas uma bomba de flash colocado-bem ou um tiro do seu lançador pode enviá-los cair para a terra. Ferindo suas asas dá-lhes um momento de vulnerabilidade, sempre que eles tentam tomar o vôo."
     },
     "monster-rathian": {
       "Key": "monster-rathian",
@@ -9077,11 +9077,11 @@ export default {
     },
     "monster-rathian-characteristics": {
       "Key": "monster-rathian-characteristics",
-      "Translation": "Wyverns conhecido como o \"Queens of the Land.\" predadores terrestres, eles dominar presas com suas caudas venenosas e pernas poderosas."
+      "Translation": "Wyverns conhecido como o \"Queens of the Land.\" predadores terrestres, eles Overpower presa com suas caudas venenosas e pernas poderosas."
     },
     "monster-rathian-useful-information": {
       "Key": "monster-rathian-useful-information",
-      "Translation": "Venha preparado com uma armadura resistente ao fogo, e neutralize seus ataques venenosos, cortando sua cauda. Tenha cuidado ao roubar um ovo do ninho, para um Rathian vai perseguir um ladrão de ovos até os confins do Novo Mundo."
+      "Translation": "Venha preparado com armadura resistente ao fogo, e neutralizar seus ataques venenosos, cortando sua cauda. Tenha cuidado ao roubar um ovo do ninho, para um Rathian vai perseguir um ladrão de ovos até os confins do Novo Mundo."
     },
     "monster-ruiner-nergigante": {
       "Key": "monster-ruiner-nergigante",
@@ -9125,11 +9125,11 @@ export default {
     },
     "monster-teostra-characteristics": {
       "Key": "monster-teostra-characteristics",
-      "Translation": "dragões mais velhos brutais envolto em chamas que cospem fogo ardente. Teostra são de natureza tão feroz e mortal que a Aliança acompanha de perto seus movimentos."
+      "Translation": "Brutais dragões mais velhos envolto em chamas que cospem fogo ardente. Teostra são de tal feroz um e natureza mortal que o Grêmio acompanha de perto seus movimentos."
     },
     "monster-teostra-useful-information": {
       "Key": "monster-teostra-useful-information",
-      "Translation": "Os dispersa Teostra poeira escala preta vai se espalhar sobre uma área ampla, até que finalmente explode. Fique de olho no que, assim como as chamas que ocasionalmente Shields em si, e destinam-se a cambalear-lo com armas que possuem capacidades Elderseal."
+      "Translation": "Os poeira escala preto Teostra dispersa vai se espalhar sobre uma área ampla, até que finalmente explode. Fique de olho no que, assim como as chamas que ocasionalmente Shields em si, e destinam-se a cambalear-lo com armas que possuem capacidades Elderseal."
     },
     "monster-tigrex": {
       "Key": "monster-tigrex",
@@ -9141,7 +9141,7 @@ export default {
     },
     "monster-tobi-kadachi-characteristics": {
       "Key": "monster-tobi-kadachi-characteristics",
-      "Translation": "Um wyvern presas que voa entre as árvores do Forst Antiga. Sua propensão para escovar contra o chão e as árvores que se move em torno acumula eletricidade estática dentro de sua pele."
+      "Translation": "Um presas wyvern que voa entre as árvores do Forst Antiga. Sua propensão para escovar contra o chão e as árvores que se move em torno acumula eletricidade estática dentro de sua pele."
     },
     "monster-tobi-kadachi-useful-information": {
       "Key": "monster-tobi-kadachi-useful-information",
@@ -9153,7 +9153,7 @@ export default {
     },
     "monster-tzitzi-ya-ku-characteristics": {
       "Key": "monster-tzitzi-ya-ku-characteristics",
-      "Translation": "Este ímpares blinds monstro tanto presas e inimigos com um órgão pulsante especial perto de sua cabeça. Em seguida, ele usa suas pernas fortes para desferir golpes de acabamento."
+      "Translation": "Este monstro estranho cega tanto presas e inimigos com um órgão pulsante especial perto de sua cabeça. Em seguida, ele usa suas pernas fortes para desferir golpes de acabamento."
     },
     "monster-tzitzi-ya-ku-useful-information": {
       "Key": "monster-tzitzi-ya-ku-useful-information",
@@ -9165,7 +9165,7 @@ export default {
     },
     "monster-uragaan-characteristics": {
       "Key": "monster-uragaan-characteristics",
-      "Translation": "Grandes wyverns bruta que se alimentam de minério, usando as suas mandíbulas poderosos para apressar rocha sólida de pó. Eles são conhecidos para enfrentar Lavasioths sobre disputas territoriais."
+      "Translation": "Grande bruta Wyverns que se alimentam de minério, usando as suas mandíbulas poderosos para apressar rocha sólida de pó. Eles são conhecidos a disputas confronto Lavasioths sobre o território."
     },
     "monster-uragaan-useful-information": {
       "Key": "monster-uragaan-useful-information",
@@ -9177,11 +9177,11 @@ export default {
     },
     "monster-vaal-hazak-characteristics": {
       "Key": "monster-vaal-hazak-characteristics",
-      "Translation": "Um dragão mais velho grotesco que habita a parte mais profunda do Rotten Vale. Ele usa o vapor fatal do vale no que parece ser uma relação simbiótica."
+      "Translation": "A grotesca mais velho dragão que habita a parte mais profunda do Rotten Vale. Ele usa o vapor fatal do vale no que parece ser uma relação simbiótica."
     },
     "monster-vaal-hazak-useful-information": {
       "Key": "monster-vaal-hazak-useful-information",
-      "Translation": "Uma vez que você se tornar contaminado, inalando o vapor das causas sua própria saúde para drenar. Cabeça para as áreas onde o vapor é fina, e se você ficar contaminado, fazer o seu melhor para se livrar dele."
+      "Translation": "Uma vez que você se tornar contaminado, inalando o vapor do faz com que sua própria saúde para drenar. Cabeça para as áreas onde o vapor é fina, e se você ficar contaminado, fazer o seu melhor para se livrar dele."
     },
     "monster-velkhana": {
       "Key": "monster-velkhana",
@@ -9233,7 +9233,7 @@ export default {
     },
     "play-guide-accepting-guild-cards-description": {
       "Key": "play-guide-accepting-guild-cards-description",
-      "Translation": "Você cn aceitar Aliança Cartões você recebeu seleccionando Aliança Cartão do menu iniciar. Note que você só pode armazenar até vinte unaccepted Aliança Cards."
+      "Translation": "Você CN aceitar Aliança Cartões você recebeu seleccionando Aliança Cartão do menu iniciar. Note que você só pode armazenar até vinte unaccepted Aliança Cards."
     },
     "play-guide-actions-with-weapon-drawn": {
       "Key": "play-guide-actions-with-weapon-drawn",
@@ -9241,7 +9241,7 @@ export default {
     },
     "play-guide-actions-with-weapon-drawn-description": {
       "Key": "play-guide-actions-with-weapon-drawn-description",
-      "Translation": "Se você usar a espada e escudo, você ainda pode usar itens ou o seu lançador, enquanto sua arma é desenhada. Use artigo: segure R2 ou L2 e aperte Quadrado. Slinger: Segure L2 e pressione R2."
+      "Translation": "Se você usar a espada e escudo, você ainda pode usar itens ou o seu lançador, enquanto sua arma é desenhada. Use artigo: segure R2 ou L2 e aperte Quadrado. Slinger: segure L2 e aperte R2."
     },
     "play-guide-advanced-performance-techniques": {
       "Key": "play-guide-advanced-performance-techniques",
@@ -9249,7 +9249,7 @@ export default {
     },
     "play-guide-advanced-performance-techniques-description": {
       "Key": "play-guide-advanced-performance-techniques-description",
-      "Translation": "Você pode executar suas melodias estocados em ordem pressionando R2. Você também pode pressionar R2 + outro botão de ataque ao mesmo tempo para iniciar o seu desempenho a partir do segundo ou terceiro abastecido melodia."
+      "Translation": "Você pode executar suas melodias estocados em ordem pressionando R2. Você pode também outro botão de ataque, ao mesmo tempo pressione R2 + para iniciar o seu desempenho a partir da segunda ou terceira melodia abastecido."
     },
     "play-guide-advancing-slash": {
       "Key": "play-guide-advancing-slash",
@@ -9265,7 +9265,7 @@ export default {
     },
     "play-guide-amped-state-description": {
       "Key": "play-guide-amped-state-description",
-      "Translation": "ataques suficientes pousar em um enquanto monstro em Modo de Espada para entrar num Estado Amped, o que aumenta seu poder de ataque. O número de visitas é preciso para entrar Estado Amped depende do tipo de frasco interruptor de machado."
+      "Translation": "Aterrar ataques suficientes em um monstro quando no Modo de Espada para entrar num Estado Amped, o que aumenta seu poder de ataque. O número de visitas é preciso para entrar Estado Amped depende do tipo de interruptor machado frasco."
     },
     "play-guide-archdemon-mode": {
       "Key": "play-guide-archdemon-mode",
@@ -9273,7 +9273,7 @@ export default {
     },
     "play-guide-archdemon-mode-description": {
       "Key": "play-guide-archdemon-mode-description",
-      "Translation": "Você pode entrar no Modo Archdemon aterrando ataques, enquanto no modo de Demônio e estourar o limite do Medidor de Demônio. Existem alguns ataques especiais disponíveis apenas neste modo."
+      "Translation": "Você pode entrar no Modo Archdemon por ataques de pouso, enquanto no modo Demônio e estourar o limite do Medidor de Demônio. Existem alguns ataques especiais disponíveis apenas neste modo."
     },
     "play-guide-armor-skills": {
       "Key": "play-guide-armor-skills",
@@ -9309,7 +9309,7 @@ export default {
     },
     "play-guide-auto-crafting-description": {
       "Key": "play-guide-auto-crafting-description",
-      "Translation": "Auto-artesanato irá criar automaticamente um item de sua lista de elaboração, assim que você tem os itens necessários para criar-lo. Pressione Triângulo para selecionar os itens que você gostaria de permitir auto-crafting para."
+      "Translation": "Auto-artesanato irá criar automaticamente um item de sua lista de elaborar, logo que você tem os itens necessários para criar-lo. Pressione Triângulo para selecionar os itens que você gostaria de permitir auto-crafting para."
     },
     "play-guide-automatic-material-storage": {
       "Key": "play-guide-automatic-material-storage",
@@ -9337,7 +9337,7 @@ export default {
     },
     "play-guide-bounty-updates-description": {
       "Key": "play-guide-bounty-updates-description",
-      "Translation": "A lista de prémios registráveis ​​é atualizado whenevr você retornar de uma missão ou expedição. Depois de ter registado bounties, pode rever os seus dados a partir do menu Iniciar."
+      "Translation": "A lista de prémios registráveis ​​é atualizado whenevr você retornar de uma missão ou expedição. Depois de ter bounties registrados, você pode rever os seus detalhes a partir do menu Iniciar."
     },
     "play-guide-bow": {
       "Key": "play-guide-bow",
@@ -9357,11 +9357,11 @@ export default {
     },
     "play-guide-bowgun-description": {
       "Key": "play-guide-bowgun-description",
-      "Translation": "O bowgun podem ser usadas para atacar monstro de um longo alcance. Existem dois tipos de bowgun: o bowgun pesado, que pode usar munição poderosa, ea bowgun luz, o que permite uma maior mobilidade e capacidade de evasivas, e mais rápido tiroteio."
+      "Translation": "O bowgun podem ser usadas para atacar monstro de um longo alcance. Existem dois tipos de bowgun: o bowgun pesado, que pode usar munição poderosa, ea bowgun luz, o que permite uma maior mobilidade e capacidade de evasivas, e atirando mais rápido."
     },
     "play-guide-breaking-monster-parts": {
       "Key": "play-guide-breaking-monster-parts",
-      "Translation": "Quebrando monstro Parts"
+      "Translation": "Peças do monstro Quebrando"
     },
     "play-guide-breaking-monster-parts-description": {
       "Key": "play-guide-breaking-monster-parts-description",
@@ -9369,7 +9369,7 @@ export default {
     },
     "play-guide-breaking-parts": {
       "Key": "play-guide-breaking-parts",
-      "Translation": "quebrando Parts"
+      "Translation": "Quebrando Parts"
     },
     "play-guide-breaking-parts-description": {
       "Key": "play-guide-breaking-parts-description",
@@ -9409,7 +9409,7 @@ export default {
     },
     "play-guide-carrier-ants": {
       "Key": "play-guide-carrier-ants",
-      "Translation": "Formigas transportadora"
+      "Translation": "portador Ants"
     },
     "play-guide-carrier-ants-description": {
       "Key": "play-guide-carrier-ants-description",
@@ -9417,7 +9417,7 @@ export default {
     },
     "play-guide-carving-materials": {
       "Key": "play-guide-carving-materials",
-      "Translation": "Materiais de escultura"
+      "Translation": "Materiais carving"
     },
     "play-guide-carving-materials-description": {
       "Key": "play-guide-carving-materials-description",
@@ -9425,7 +9425,7 @@ export default {
     },
     "play-guide-challenge-quest-records": {
       "Key": "play-guide-challenge-quest-records",
-      "Translation": "Desafio da Quest Registros"
+      "Translation": "Desafio busca Registros"
     },
     "play-guide-challenge-quest-records-description": {
       "Key": "play-guide-challenge-quest-records-description",
@@ -9437,7 +9437,7 @@ export default {
     },
     "play-guide-charge-blade-description": {
       "Key": "play-guide-charge-blade-description",
-      "Translation": "Sword modo possui capacidades de mobilidade e alta de guarda, enquanto o modo machado possui ataques mais poderosos. Armazenar a energia durante o modo de espada, e, em seguida, usá-lo para lidar elevados prejuízos no modo machado."
+      "Translation": "Sword modo possui capacidades de mobilidade e alta de guarda, enquanto se orgulha modo machado ataques mais poderosos. Armazenar a energia durante o modo de espada, e, em seguida, usá-lo para lidar elevados prejuízos no modo machado."
     },
     "play-guide-charge-blade-tips": {
       "Key": "play-guide-charge-blade-tips",
@@ -9449,7 +9449,7 @@ export default {
     },
     "play-guide-charged-shots-description": {
       "Key": "play-guide-charged-shots-description",
-      "Translation": "Arcos estão no seu mais poderoso quando você carregar flechas antes de atirar-los. Você pode disparar tiros cobrado pressionando o botão de fogo ou, atirando flechas em rápida sucessão."
+      "Translation": "Arcos estão no seu mais poderoso quando você carregar flechas antes de atirar-los. Você pode disparar tiros carregadas pressionando o botão de fogo ou, atirando flechas em rápida sucessão."
     },
     "play-guide-charged-slash": {
       "Key": "play-guide-charged-slash",
@@ -9481,7 +9481,7 @@ export default {
     },
     "play-guide-charybdis-description": {
       "Key": "play-guide-charybdis-description",
-      "Translation": "Caríbdis convoca um tornado, onde um caçador alvo está de pé, e permanece na área por um período de tempo. Se você está a ser alvo, mover-se para uma área onde não será um obstáculo para a sua caça."
+      "Translation": "Caríbdis convoca um tornado, onde um caçador alvo está de pé, e estadias na área por um período de tempo. Se você está a ser alvo, mover-se para uma área onde não será um obstáculo para a sua caça."
     },
     "play-guide-chat": {
       "Key": "play-guide-chat",
@@ -9497,7 +9497,7 @@ export default {
     },
     "play-guide-collecting-safari-rewards-description": {
       "Key": "play-guide-collecting-safari-rewards-description",
-      "Translation": "Tailraider Safaris ter tempo para completar, então você vai ter que taken on questes ou expedições, enquanto eles estão em andamento. Você também pode coletar recompensas, enquanto um Safari ainda está em curso, ou cancelar uma Safari em curso."
+      "Translation": "Tailraider Safaris tempo demorar para concluir, então você vai ter que taken on questes ou expedições, enquanto eles estão em andamento. Você pode também recompensas cobrar enquanto um Safari ainda está em curso, ou cancelar uma Safari em curso."
     },
     "play-guide-critical-range": {
       "Key": "play-guide-critical-range",
@@ -9505,15 +9505,15 @@ export default {
     },
     "play-guide-critical-range-description": {
       "Key": "play-guide-critical-range-description",
-      "Translation": "ataques com armas de longo alcance têm uma faixa crítica, que é a distância em que o ataque causa o maior dano. É importante experimentar com diferentes tipos de munição e de seta para determinar suas faixas críticas, a fim de lidar tanto dano quanto possível."
+      "Translation": "ataques com armas de longo alcance têm uma faixa crítica, que é a distância em que o ataque causa o maior dano. É importante experimentar com munição diferente e flecha tipos para determinar suas faixas críticas, a fim de lidar tanto dano quanto possível."
     },
     "play-guide-crouching-and-camouflage": {
       "Key": "play-guide-crouching-and-camouflage",
-      "Translation": "Agachado e Camouflage"
+      "Translation": "Agachamento e Camouflage"
     },
     "play-guide-crouching-and-camouflage-description": {
       "Key": "play-guide-crouching-and-camouflage-description",
-      "Translation": "Pressione o botão de esquiva enquanto está parado para agachar. Agachado em doações de pincel camuflar para que você possa esconder de monstros."
+      "Translation": "Pressione o botão esquivar enquanto está parado para agachar. Agachado em escova lhe concede camuflagem para que você possa esconder de monstros."
     },
     "play-guide-cultivating-items": {
       "Key": "play-guide-cultivating-items",
@@ -9521,7 +9521,7 @@ export default {
     },
     "play-guide-cultivating-items-description": {
       "Key": "play-guide-cultivating-items-description",
-      "Translation": "No Centro de Pesquisa Botânico, você pode entregar itens como plantas, fungos, insetos, mel e assim por diante, a cultivar mais do mesmo tipo de item. Cada item tem uma quantidade especificada de tempo para cultivar antes de ser colhida."
+      "Translation": "No Centro de Pesquisa Botânico, você pode entregar itens como plantas, fungos, insetos, mel e assim por diante, a cultivar mais do mesmo tipo de item. Cada item tem uma quantidade específica de tempo para cultivar antes de ser colhida."
     },
     "play-guide-customizing-your-bowgun": {
       "Key": "play-guide-customizing-your-bowgun",
@@ -9529,7 +9529,7 @@ export default {
     },
     "play-guide-customizing-your-bowgun-description": {
       "Key": "play-guide-customizing-your-bowgun-description",
-      "Translation": "Bowguns pode usar mods personalizados para permitir bloqueio automático, reduzir o tempo de recarga, e assim por diante. Você pode até mesmo equipar os mesmos mod várias vezes para melhorar os seus efeitos."
+      "Translation": "Bowguns pode usar mods personalizados para permitir bloqueio automático, tempo de recarga encurtar, e assim por diante. Você pode até mesmo equipar os mesmos mod várias vezes para melhorar os seus efeitos."
     },
     "play-guide-damage-reduction": {
       "Key": "play-guide-damage-reduction",
@@ -9549,7 +9549,7 @@ export default {
     },
     "play-guide-dash-stepping-and-guard-dashing": {
       "Key": "play-guide-dash-stepping-and-guard-dashing",
-      "Translation": "Stepping traço e precipita Guarda"
+      "Translation": "Stepping traço e Guarda precipita"
     },
     "play-guide-dash-stepping-and-guard-dashing-description": {
       "Key": "play-guide-dash-stepping-and-guard-dashing-description",
@@ -9569,7 +9569,7 @@ export default {
     },
     "play-guide-deploying-tailraider-safaris-description": {
       "Key": "play-guide-deploying-tailraider-safaris-description",
-      "Translation": "Você pode implantar Tailraiders e Palicoes de outros jogadores em safaris expedicionária, onde eles vão coletar itens e materiais e desbloquear investigações para você. pesquisa aponta custo Safaris de implantar."
+      "Translation": "Você pode implantar Tailraiders e Palicoes de outros jogadores em safaris expedicionárias, onde eles vão coletar itens e materiais e investigações de desbloqueio para você. Safaris pesquisa aponta custo para implantar."
     },
     "play-guide-deployment-routes": {
       "Key": "play-guide-deployment-routes",
@@ -9577,7 +9577,7 @@ export default {
     },
     "play-guide-deployment-routes-description": {
       "Key": "play-guide-deployment-routes-description",
-      "Translation": "Ao selecionar uma rota para o seu safari Tailraider, você poderá ver algumas rotas marcadas com símbolos adicionais. Estas rotas oferecem uma maior chance de melhores recompensas."
+      "Translation": "Ao selecionar uma rota para o seu Tailraider safari, você pode ver algumas rotas marcadas com símbolos adicionais. Estas rotas oferecem uma maior chance de melhores recompensas."
     },
     "play-guide-dragon-pods": {
       "Key": "play-guide-dragon-pods",
@@ -9601,7 +9601,7 @@ export default {
     },
     "play-guide-dual-blades": {
       "Key": "play-guide-dual-blades",
-      "Translation": "Blades dupla"
+      "Translation": "dupla Blades"
     },
     "play-guide-dual-blades-description": {
       "Key": "play-guide-dual-blades-description",
@@ -9613,7 +9613,7 @@ export default {
     },
     "play-guide-dung-pods-description": {
       "Key": "play-guide-dung-pods-description",
-      "Translation": "Estrume Pods produzir um fedor tão vil que ela provoca monstros para fugir da área. Você pode criar estrume Pods recolhendo esterco monstro que você pode encontrar no campo."
+      "Translation": "Estrume Pods produzir um fedor tão vil que ela provoca monstros para fugir da área. Você pode criar Dung Pods recolhendo esterco monstro que você pode encontrar no campo."
     },
     "play-guide-eating-meals-at-the-canteen": {
       "Key": "play-guide-eating-meals-at-the-canteen",
@@ -9633,7 +9633,7 @@ export default {
     },
     "play-guide-elder-dragons": {
       "Key": "play-guide-elder-dragons",
-      "Translation": "dragões Elder"
+      "Translation": "Elder Dragons"
     },
     "play-guide-elder-dragons-description": {
       "Key": "play-guide-elder-dragons-description",
@@ -9665,7 +9665,7 @@ export default {
     },
     "play-guide-endemic-life-researcher": {
       "Key": "play-guide-endemic-life-researcher",
-      "Translation": "Pesquisador vida endêmica"
+      "Translation": "Pesquisador endêmica Vida"
     },
     "play-guide-endemic-life-researcher-description": {
       "Key": "play-guide-endemic-life-researcher-description",
@@ -9673,7 +9673,7 @@ export default {
     },
     "play-guide-endemic-life-tips": {
       "Key": "play-guide-endemic-life-tips",
-      "Translation": "Dicas Vida endémicas"
+      "Translation": "Dicas Vida endêmica"
     },
     "play-guide-endemic-pets": {
       "Key": "play-guide-endemic-pets",
@@ -9685,7 +9685,7 @@ export default {
     },
     "play-guide-equipment-slots": {
       "Key": "play-guide-equipment-slots",
-      "Translation": "Slots de equipamento"
+      "Translation": "equipamento Slots"
     },
     "play-guide-equipment-slots-description": {
       "Key": "play-guide-equipment-slots-description",
@@ -9709,7 +9709,7 @@ export default {
     },
     "play-guide-fertilizers-description": {
       "Key": "play-guide-fertilizers-description",
-      "Translation": "Você pode gastar pontos de pesquisa de usar fertilizantes no Centro de Pesquisas Botânico. Fertilizantes aumentar a quantidade de itens obtidos de cada colheita ou pode ser usado para encurtar o tempo de cultivo."
+      "Translation": "Você pode passar pesquisa aponta para fertilizantes uso no Centro de Pesquisas Botânico. Fertilizantes aumentar a quantidade de itens obtidos de cada colheita ou pode ser usado para encurtar o tempo de cultivo."
     },
     "play-guide-flashbugs": {
       "Key": "play-guide-flashbugs",
@@ -9741,7 +9741,7 @@ export default {
     },
     "play-guide-gadget-proficiency": {
       "Key": "play-guide-gadget-proficiency",
-      "Translation": "proficiência Gadget"
+      "Translation": "Gadget proficiência"
     },
     "play-guide-gadget-proficiency-description": {
       "Key": "play-guide-gadget-proficiency-description",
@@ -9753,7 +9753,7 @@ export default {
     },
     "play-guide-gathering-points-description": {
       "Key": "play-guide-gathering-points-description",
-      "Translation": "Você pode obter materiais pela escultura de carcaças de monstros, e também por coletá-los a partir de pontos de coleta, tais como afloramentos de mineração e bonepiles."
+      "Translation": "Você pode obter materiais pela escultura de carcaças de monstros, e também pela sua recolha de pontos de encontro como afloramentos de mineração e bonepiles."
     },
     "play-guide-getting-the-behemoths-attention": {
       "Key": "play-guide-getting-the-behemoths-attention",
@@ -9761,7 +9761,7 @@ export default {
     },
     "play-guide-getting-the-behemoths-attention-description": {
       "Key": "play-guide-getting-the-behemoths-attention-description",
-      "Translation": "Um caçador com uma arma projetada para o bloqueio deve atacar a cabeça do Behemoth para obter a sua atenção. Quando o Behemoth vai em um rampage e sua cabeça é difícil de atacar, usar uma arma com propriedades paralisia ou montar a besta para criar uma abertura."
+      "Translation": "Um caçador com uma arma projetada para bloqueio deve atacar a cabeça do Behemoth para obter a sua atenção. Quando o Behemoth vai em um rampage e sua cabeça é difícil de ataque, usar uma arma com propriedades paralisia ou montar a besta para criar uma abertura."
     },
     "play-guide-great-fish": {
       "Key": "play-guide-great-fish",
@@ -9777,7 +9777,7 @@ export default {
     },
     "play-guide-great-sword-description": {
       "Key": "play-guide-great-sword-description",
-      "Translation": "A grande espada tem um longo alcance e ataques poderosos. Devido a sua enorme peso limita a velocidade do seu movimento e ataques, que se presta bem a hit-and-run táticas de combate."
+      "Translation": "A grande espada tem um longo alcance e ataques poderosos. Devido a sua enorme peso limita a velocidade do seu movimento e ataques, que se presta bem a táticas de combate hit-and-run."
     },
     "play-guide-great-sword-tips": {
       "Key": "play-guide-great-sword-tips",
@@ -9785,11 +9785,11 @@ export default {
     },
     "play-guide-guard-reaction-combos": {
       "Key": "play-guide-guard-reaction-combos",
-      "Translation": "Combos Guarda Reação"
+      "Translation": "Combos Reação da Guarda"
     },
     "play-guide-guard-reaction-combos-description": {
       "Key": "play-guide-guard-reaction-combos-description",
-      "Translation": "Quando o bloqueio de um ataque, a reacção de protecção pode ser chainged em uma espada: Morph Slash, um machado: Amped de elemento de descarga, ou vários outros ataques."
+      "Translation": "Quando o bloqueio de um ataque, a reacção de protecção pode ser chainged em uma espada: Barra Morph, um machado: Amped de descarga do elemento, ou vários outros ataques."
     },
     "play-guide-guild-card-restrictions": {
       "Key": "play-guide-guild-card-restrictions",
@@ -9805,7 +9805,7 @@ export default {
     },
     "play-guide-gunlance-description": {
       "Key": "play-guide-gunlance-description",
-      "Translation": "O Gunlance oferece mais poder ofensivo do que a lança graças à adição de ataques descasque, e também tem boas capacidades de guarda. Pode levar algum tempo para dominar."
+      "Translation": "As ofertas Gunlance poder mais ofensivo do que a lança graças à adição de ataques descasque, e também tem boas capacidades de guarda. Pode levar algum tempo para dominar."
     },
     "play-guide-gunlance-tips": {
       "Key": "play-guide-gunlance-tips",
@@ -9821,11 +9821,11 @@ export default {
     },
     "play-guide-hammer-description": {
       "Key": "play-guide-hammer-description",
-      "Translation": "O martelo é uma arma sem corte poderoso com uma quantidade surpreendente de mobilidade. Também é possível para atordoar monstros através da apresentação de um ataque de martelo na cabeça."
+      "Translation": "O martelo é uma arma sem corte poderoso com uma quantidade surpreendente de mobilidade. Também é possível monstros de choque através da apresentação de um ataque de martelo na cabeça."
     },
     "play-guide-hammer-tips": {
       "Key": "play-guide-hammer-tips",
-      "Translation": "Dicas de martelo"
+      "Translation": "Dicas martelo"
     },
     "play-guide-health-drinks": {
       "Key": "play-guide-health-drinks",
@@ -9833,7 +9833,7 @@ export default {
     },
     "play-guide-health-drinks-description": {
       "Key": "play-guide-health-drinks-description",
-      "Translation": "Para aumentar a sua saúde máxima, beber nutrientes ou poções max, que podem ser obtidos por elaborar."
+      "Translation": "Para aumentar suas máximo de saúde, nutrientes bebida ou poções max, que podem ser obtidos por elaborar."
     },
     "play-guide-heavenly-blade-dance": {
       "Key": "play-guide-heavenly-blade-dance",
@@ -9845,7 +9845,7 @@ export default {
     },
     "play-guide-hidden-elements": {
       "Key": "play-guide-hidden-elements",
-      "Translation": "Elementos ocultos"
+      "Translation": "elementos ocultos"
     },
     "play-guide-hidden-elements-description": {
       "Key": "play-guide-hidden-elements-description",
@@ -9869,11 +9869,11 @@ export default {
     },
     "play-guide-hunting-horn-tips": {
       "Key": "play-guide-hunting-horn-tips",
-      "Translation": "Caça Dicas Corno"
+      "Translation": "Dicas trompa de caça"
     },
     "play-guide-hunting-tips": {
       "Key": "play-guide-hunting-tips",
-      "Translation": "Pontas da caça"
+      "Translation": "Dicas de caça"
     },
     "play-guide-info-gathering-in-astera": {
       "Key": "play-guide-info-gathering-in-astera",
@@ -9889,7 +9889,7 @@ export default {
     },
     "play-guide-insect-glaive-description": {
       "Key": "play-guide-insect-glaive-description",
-      "Translation": "A glaive inseto pode ser usado para controlar um Kinsect, um pequeno inseto que colhe extratos de monstros para aumentar suas habilidades. A glaive inseto também permite que você saltar, então yu pode executar ataques de salto em qualquer momento."
+      "Translation": "A glaive inseto pode ser usado para controlar um Kinsect, um pequeno inseto que colhe extratos de monstros para aumentar suas habilidades. O inseto glaive também permite que você cofre, então yu pode executar ataques de salto a qualquer momento."
     },
     "play-guide-insect-glaive-tips": {
       "Key": "play-guide-insect-glaive-tips",
@@ -9897,11 +9897,11 @@ export default {
     },
     "play-guide-investigation-efficacy": {
       "Key": "play-guide-investigation-efficacy",
-      "Translation": "Eficácia investigação"
+      "Translation": "investigação Eficácia"
     },
     "play-guide-investigation-efficacy-description": {
       "Key": "play-guide-investigation-efficacy-description",
-      "Translation": "Quanto maior o nível de pesquisa, o mais fácil será para desbloquear investigações."
+      "Translation": "Quanto maior o nível de pesquisa, mais fácil será para investigações de desbloqueio."
     },
     "play-guide-investigations": {
       "Key": "play-guide-investigations",
@@ -9917,7 +9917,7 @@ export default {
     },
     "play-guide-iron-helmcrabs-description": {
       "Key": "play-guide-iron-helmcrabs-description",
-      "Translation": "Estas criaturas gostam de levar em torno de objetos duros como pedras, e são encontrados frequentemente segurando vagens piercing."
+      "Translation": "Estas criaturas gostam de levar em torno de objetos duros como pedras, e são encontrados frequentemente segurando vagens penetrantes."
     },
     "play-guide-items-and-weapons": {
       "Key": "play-guide-items-and-weapons",
@@ -9925,7 +9925,7 @@ export default {
     },
     "play-guide-items-and-weapons-description": {
       "Key": "play-guide-items-and-weapons-description",
-      "Translation": "Mesmo para um caçador experiente, matando um Behemoth não é tarefa fácil. Chefe de volta para o acampamento para estocar itens, munição ou mesmo mudar a sua arma se você precisa mudar as estratégias."
+      "Translation": "Mesmo para um caçador experiente, matando um Behemoth não é tarefa fácil. Chefe de volta ao acampamento para estocar itens, munição ou mesmo mudar a sua arma se você precisa mudar as estratégias."
     },
     "play-guide-kinsect-stamina": {
       "Key": "play-guide-kinsect-stamina",
@@ -9949,7 +9949,7 @@ export default {
     },
     "play-guide-kulve-taroth-siege-strategies-description": {
       "Key": "play-guide-kulve-taroth-siege-strategies-description",
-      "Translation": "Você pode ajudar a aumentar o nível de perseguição, independentemente do nível de pesquisa, basta recolher pistas deixadas por Kulve Taroth. Aumentar o nível de busca é vital para encurralar este monstro. \\ N caçadores \\ nTodos no Celestial Perseguição receberão os mesmos benefícios quando os níveis de perseguição ou de recompensa são aumentadas. Equipe-se com outros caçadores para rastrear Kulve Taroth. \\ N \\ n Você pode verificar detalhes sobre Kulve Taroth seleccionando Trabalhos Especiais partir do menu Iniciar."
+      "Translation": "Você pode ajudar a aumentar o nível de perseguição, independentemente do nível de pesquisa, basta recolher pistas deixadas por Kulve Taroth. Aumentar o nível de busca é vital para encurralar este monstro. \\ N caçadores \\ nTodos no Celestial Perseguição receberão os mesmos benefícios quando os níveis de perseguição ou de recompensa são aumentadas. Juntar-se com outros caçadores para rastrear Kulve Taroth. \\ N \\ n Você pode verificar detalhes sobre Kulve Taroth seleccionando Especial atribuições a partir do menu Iniciar."
     },
     "play-guide-kulve-taroths-weaknesses": {
       "Key": "play-guide-kulve-taroths-weaknesses",
@@ -9977,7 +9977,7 @@ export default {
     },
     "play-guide-leaping-wide-slash-description": {
       "Key": "play-guide-leaping-wide-slash-description",
-      "Translation": "Porque este ataque causa mais elementar e danos do que outros inflicing status, é mais útil quando combinado com fortes grandes espadas elementais."
+      "Translation": "Porque este ofertas de ataque mais elementares e danos do que outros inflicing status em, é mais útil quando combinado com fortes grandes espadas elementais."
     },
     "play-guide-light-bowgun-tip": {
       "Key": "play-guide-light-bowgun-tip",
@@ -9985,11 +9985,11 @@ export default {
     },
     "play-guide-limited-bounties": {
       "Key": "play-guide-limited-bounties",
-      "Translation": "Bounties limitadas"
+      "Translation": "Bounties limitada"
     },
     "play-guide-limited-bounties-description": {
       "Key": "play-guide-limited-bounties-description",
-      "Translation": "Uma recompensa limitada é uma recompensa especial feita periodicamente disponível para download em todo o mundo, mas apenas por um período limitado de tempo. Certifique-se de completar bounties limitados enquanto ainda estão disponíveis, assim como cada um é substituído pelo que se lhe segue."
+      "Translation": "Uma recompensa limitada é uma recompensa especial periodicamente disponibilizado para download em todo o mundo, mas apenas por um período limitado de tempo. Certifique-se de prémios limitados completas enquanto ainda estão disponíveis, assim como cada um é substituído pelo que se lhe segue."
     },
     "play-guide-long-sword": {
       "Key": "play-guide-long-sword",
@@ -9997,7 +9997,7 @@ export default {
     },
     "play-guide-long-sword-description": {
       "Key": "play-guide-long-sword-description",
-      "Translation": "A espada longa permite, fluido movimento rápido e combos, mas não pode ser usado para guarda."
+      "Translation": "A espada longa permite rápido, movimento fluido e combos, mas não pode ser usado para guardar."
     },
     "play-guide-long-sword-tips": {
       "Key": "play-guide-long-sword-tips",
@@ -10017,7 +10017,7 @@ export default {
     },
     "play-guide-lynian-researcher-description": {
       "Key": "play-guide-lynian-researcher-description",
-      "Translation": "Um especialista enrugado no domínio da investigação Lynian. Embora dedicado à investigação em Grimalkynes, ele é superado pelos rápidos metas, sly de seus estudos. Agora ele está buscando um caçador útil para ajudá-lo em sua pesquisa."
+      "Translation": "Um especialista encarquilhado no domínio da investigação Lynian. Embora dedicado à investigação sobre Grimalkynes, ele é superado pela rápida, sly alvos de seus estudos. Agora ele está buscando um caçador útil para ajudá-lo em sua pesquisa."
     },
     "play-guide-max-potions": {
       "Key": "play-guide-max-potions",
@@ -10033,7 +10033,7 @@ export default {
     },
     "play-guide-meal-effect-duration-description": {
       "Key": "play-guide-meal-effect-duration-description",
-      "Translation": "efeitos de refeição vai sair de moda se você desmaiar durante uma missão ou expedição. Eles também vai se desgastar depois de concluída, falhar, ou retirar-se uma missão ou expedição. Depois de comer uma refeição que você não será capaz de comer novamente por um curto período."
+      "Translation": "efeitos de refeição vai sair de moda se você desmaiar durante uma missão ou expedição. Eles também vai se desgastar uma vez que você completar, falhar, ou retirar-se uma missão ou expedição. Depois de comer uma refeição que você não será capaz de comer novamente por um curto período."
     },
     "play-guide-meal-vouchers": {
       "Key": "play-guide-meal-vouchers",
@@ -10053,7 +10053,7 @@ export default {
     },
     "play-guide-melding-items-description": {
       "Key": "play-guide-melding-items-description",
-      "Translation": "Melding permite criar consumíveis de alto nível, munição bowgun, e muito mais através da conversão de itens de menor valor em pontos melding. Comparado a elaboração, fusão dá-lhe mais possibilidades de escolha quando se trata de pickign quais itens para converter."
+      "Translation": "Melding permite criar consumíveis de alto nível, munição bowgun, e muito mais através da conversão de itens de menor valor em pontos fundindo. Comparado a elaboração, fusão dá-lhe mais possibilidades de escolha quando se trata de pickign quais itens para converter."
     },
     "play-guide-midair-evasion-and-attacks": {
       "Key": "play-guide-midair-evasion-and-attacks",
@@ -10093,7 +10093,7 @@ export default {
     },
     "play-guide-mounting-controls-description": {
       "Key": "play-guide-mounting-controls-description",
-      "Translation": "Uma vez que você montou um monstro, pressione R2 quando o monstro se debate sobre se segurar, ou L para evitar certos ataques. Tenha cuidado: você vai cair automaticamente se a sua resistência se esgote."
+      "Translation": "Uma vez que você montou um monstro, pressione R2 quando os thrashes monstro cerca de segurar, ou L para evitar certos ataques. Tenha cuidado: você vai cair automaticamente se a sua resistência se esgote."
     },
     "play-guide-mounting-monsters": {
       "Key": "play-guide-mounting-monsters",
@@ -10109,7 +10109,7 @@ export default {
     },
     "play-guide-multiplayer-description": {
       "Key": "play-guide-multiplayer-description",
-      "Translation": "Até quatro jogadores podem participar em missões. Se você está tendo problemas para caçar sozinho, tomar alguns amigos junto com você!"
+      "Translation": "Até quatro jogadores podem participar em missões. Se você está tendo problemas de caça sozinho, tome alguns amigos junto com você!"
     },
     "play-guide-nitrotoads": {
       "Key": "play-guide-nitrotoads",
@@ -10117,7 +10117,7 @@ export default {
     },
     "play-guide-nitrotoads-description": {
       "Key": "play-guide-nitrotoads-description",
-      "Translation": "Whens caminhão, nitrotoads lançar um jato de líquido volátil que explode com potência suficiente para cambalear até mesmo grandes monstros."
+      "Translation": "Whens caminhão, nitrotoads lançar um jato de líquido volátil que explode com energia suficiente para cambalear até mesmo grandes monstros."
     },
     "play-guide-objective-of-the-taroth-siege": {
       "Key": "play-guide-objective-of-the-taroth-siege",
@@ -10125,7 +10125,7 @@ export default {
     },
     "play-guide-objective-of-the-taroth-siege-description": {
       "Key": "play-guide-objective-of-the-taroth-siege-description",
-      "Translation": "O objetivo do cerco é para cortar chifres de Kulve Taroth. Mas primeiro você deve romper o revestimento de ouro cobrindo-os. A peneira é considerado um sucesso uma vez uma pessoa Celestial Perseguição consegue cortar completamente chifres de Kulve Taroth."
+      "Translation": "O objetivo do cerco é para cortar chifres de Kulve Taroth. Mas primeiro você deve romper o revestimento de ouro cobrindo-os. A peneira é considerado um sucesso uma vez uma pessoa Celestial Perseguição consegue completamente Sever chifres de Kulve Taroth."
     },
     "play-guide-obtaining-decorations": {
       "Key": "play-guide-obtaining-decorations",
@@ -10141,15 +10141,15 @@ export default {
     },
     "play-guide-omenflies-description": {
       "Key": "play-guide-omenflies-description",
-      "Translation": "Omenflies são insectos que brilham vermelho na presença de grandes monstro. Procure-os e anote sua cor para começar uma sensação rápida para a área ao seu redor."
+      "Translation": "Omenflies são insectos que brilho vermelho na presença de grandes monstro. Procure-os e anote sua cor para começar uma sensação rápida para a área ao seu redor."
     },
     "play-guide-oven-roasting": {
       "Key": "play-guide-oven-roasting",
-      "Translation": "Roasting Oven"
+      "Translation": "forno Roasting"
     },
     "play-guide-oven-roasting-description": {
       "Key": "play-guide-oven-roasting-description",
-      "Translation": "Você pode solicitar o manipulador ao forno assado vários itens para você na cantina. Leva algum tempo para os itens para terminar de assar, mas uma vez que está feito, você pode reivindicá-los a partir da cantina ou diretamente do Handler."
+      "Translation": "Você pode solicitar o manipulador para assado forno vários itens para você na cantina. Leva algum tempo para os itens para acabamento assar, mas uma vez que está feito, você pode reivindicá-los a partir da cantina ou diretamente do Handler."
     },
     "play-guide-palico-equipment": {
       "Key": "play-guide-palico-equipment",
@@ -10161,7 +10161,7 @@ export default {
     },
     "play-guide-palico-gadgets": {
       "Key": "play-guide-palico-gadgets",
-      "Translation": "Gadgets Palico"
+      "Translation": "Palico Gadgets"
     },
     "play-guide-palico-gadgets-description": {
       "Key": "play-guide-palico-gadgets-description",
@@ -10173,7 +10173,7 @@ export default {
     },
     "play-guide-palico-training": {
       "Key": "play-guide-palico-training",
-      "Translation": "Formação Palico"
+      "Translation": "Palico Training"
     },
     "play-guide-palico-training-description": {
       "Key": "play-guide-palico-training-description",
@@ -10205,15 +10205,15 @@ export default {
     },
     "play-guide-piercing-pods": {
       "Key": "play-guide-piercing-pods",
-      "Translation": "Piercing Pods"
+      "Translation": "Penetrante Pods"
     },
     "play-guide-piercing-pods-description": {
       "Key": "play-guide-piercing-pods-description",
-      "Translation": "vagens Piercing pode ser pego e usado como munição lançador. Eles podem perfurar as suas metas para infligir danos."
+      "Translation": "vagens Piercing pode ser pego e usado como munição lançador. Eles podem perfurar os seus alvos a danos infligir."
     },
     "play-guide-piscine-researcher": {
       "Key": "play-guide-piscine-researcher",
-      "Translation": "Pesquisador Piscine"
+      "Translation": "Piscine Pesquisador"
     },
     "play-guide-piscine-researcher-description": {
       "Key": "play-guide-piscine-researcher-description",
@@ -10225,7 +10225,7 @@ export default {
     },
     "play-guide-poisoncups-description": {
       "Key": "play-guide-poisoncups-description",
-      "Translation": "Poisoncups liberar um banho de líquido venenoso quando atingido. Cuidado com o degrau, como o veneno permanece agrupada no chão por um tempo curto."
+      "Translation": "Poisoncups liberar um banho de líquido venenoso quando atingido. Cuidado com o degrau, como os restos de veneno agrupados no chão por um tempo curto."
     },
     "play-guide-power-charge": {
       "Key": "play-guide-power-charge",
@@ -10233,7 +10233,7 @@ export default {
     },
     "play-guide-power-charge-description": {
       "Key": "play-guide-power-charge-description",
-      "Translation": "Você pode executar uma carga de energia para aumentar seu poder de ataque e alguns ataques carregadas. O efeito persiste até você arrumar seu martelo ou tomar dano."
+      "Translation": "Você pode executar uma carga de energia para aumentar seu poder de ataque e alguns ataques carregadas. Os persiste efeito até que você arrumar seu martelo ou tomar dano."
     },
     "play-guide-power-guard": {
       "Key": "play-guide-power-guard",
@@ -10257,15 +10257,15 @@ export default {
     },
     "play-guide-puddle-pod-description": {
       "Key": "play-guide-puddle-pod-description",
-      "Translation": "Watermoss pode ser pego e usado como munição lançador chamado Poça Pods. Tente usá-lo para desencadear plats distantes e bombas de barril, ou para limpar a lama fora de um alvo."
+      "Translation": "Watermoss pode ser pego e usado como munição lançador chamado Puddle Pods. Tente usá-lo para desencadear plats e bombas barril distante, ou a lama limpo fora de um alvo."
     },
     "play-guide-rare-endemic-life": {
       "Key": "play-guide-rare-endemic-life",
-      "Translation": "Vida endêmicas raras"
+      "Translation": "Rare Vida endêmicas"
     },
     "play-guide-rare-endemic-life-description": {
       "Key": "play-guide-rare-endemic-life-description",
-      "Translation": "O Novo Mundo está cheio de criaturas, algumas das quais só aparecem em determinados momentos ou durante determinadas condições meteorológicas. Fale com o pesquisador Vida endêmicas para saber mais!"
+      "Translation": "O Novo Mundo está cheio de criaturas, algumas das quais só aparecem em determinados momentos ou durante determinadas condições meteorológicas. Fale com o pesquisador endêmicas vida para saber mais!"
     },
     "play-guide-redpits": {
       "Key": "play-guide-redpits",
@@ -10277,7 +10277,7 @@ export default {
     },
     "play-guide-reloading-wyrmstake-shot": {
       "Key": "play-guide-reloading-wyrmstake-shot",
-      "Translation": "Recarregar Wyrmstake Tiro"
+      "Translation": "Recarga Wyrmstake Tiro"
     },
     "play-guide-reloading-wyrmstake-shot-description": {
       "Key": "play-guide-reloading-wyrmstake-shot-description",
@@ -10289,7 +10289,7 @@ export default {
     },
     "play-guide-restoring-health-description": {
       "Key": "play-guide-restoring-health-description",
-      "Translation": "Você pode restaurar a saúde perdida usando poções. Se você tem um pouco de mel, você pode combiná-lo com uma poção para fazer uma mega poção, que restaura ainda mais saúde."
+      "Translation": "Você pode restaurar a saúde perdida usando poções. Se você tem um pouco de mel, você pode combiná-lo com uma poção para fazer uma poção de mega, que restaura ainda mais saúde."
     },
     "play-guide-revoltures": {
       "Key": "play-guide-revoltures",
@@ -10297,7 +10297,7 @@ export default {
     },
     "play-guide-revoltures-description": {
       "Key": "play-guide-revoltures-description",
-      "Translation": "Estes pássaros pretos de penas com cristas vermelhas com tampo são muitas vezes vistos pegando carne de carcaças de monstros. Eles também são comumente vistos circulando pelos céus acima grandes monstros, esperando por uma chance das sobras."
+      "Translation": "Estes pássaros pretos-penas com cristas vermelhas com tampo são muitas vezes vistos pegando carne de carcaças de monstros. Eles também são comumente vistos circulando pelos céus acima grandes monstros, esperando por uma chance das sobras."
     },
     "play-guide-scatternuts": {
       "Key": "play-guide-scatternuts",
@@ -10329,7 +10329,7 @@ export default {
     },
     "play-guide-sharpness-description": {
       "Key": "play-guide-sharpness-description",
-      "Translation": "armas de curto alcance gradualmente perdem nitidez com cada ataque. Como nível de nitidez de uma arma cai, seus ataques são mais propensos a ser desviado, mas você pode restaurar sua nitidez com whetstones."
+      "Translation": "armas de curto alcance nitidez gradualmente perdem a cada ataque. Como nível de nitidez de uma arma cai, seus ataques são mais propensos a ser desviado, mas você pode restaurar sua nitidez com whetstones."
     },
     "play-guide-shelling": {
       "Key": "play-guide-shelling",
@@ -10349,7 +10349,7 @@ export default {
     },
     "play-guide-sleeptoads-description": {
       "Key": "play-guide-sleeptoads-description",
-      "Translation": "Quando atingido, sleeptoads lançar um spray de gás forte o suficiente para colocar até mesmo grandes monstros para dormir."
+      "Translation": "Quando atingido, sleeptoads lançar um spray de gás forte o suficiente para colocar ainda grandes monstros para dormir."
     },
     "play-guide-slinger": {
       "Key": "play-guide-slinger",
@@ -10369,7 +10369,7 @@ export default {
     },
     "play-guide-slinger-bombs-description": {
       "Key": "play-guide-slinger-bombs-description",
-      "Translation": "Lançador bombas (bomba Pods) explodem com o impacto e causar sérios danos."
+      "Translation": "bombas Slinger (bomba Pods) explodem com o impacto e causar sérios danos."
     },
     "play-guide-slinger-description": {
       "Key": "play-guide-slinger-description",
@@ -10381,7 +10381,7 @@ export default {
     },
     "play-guide-slinger-thorn-description": {
       "Key": "play-guide-slinger-thorn-description",
-      "Translation": "Lançador Thorn munição (Thorn Pods) adere ao alvo e explode quando atingido com um ataque."
+      "Translation": "Lançador Thorn munição (Thorn casca) adere ao alvo e explode quando atingido com um ataque."
     },
     "play-guide-slinger-tips": {
       "Key": "play-guide-slinger-tips",
@@ -10393,7 +10393,7 @@ export default {
     },
     "play-guide-slinger-torches-description": {
       "Key": "play-guide-slinger-torches-description",
-      "Translation": "Slinger munição tocha (tocha Pods) explode em chamas quando ele cair, repelindo certos monstros, e potencialmente atraindo monstros que são desenhadas para disparar."
+      "Translation": "Slinger tocha munição (maçarico Pods) explode em chamas quando ele cair, repelindo certos monstros, e potencialmente atraindo monstros que são atraídos para o fogo."
     },
     "play-guide-slot-level": {
       "Key": "play-guide-slot-level",
@@ -10473,7 +10473,7 @@ export default {
     },
     "play-guide-stunning-monsters-description": {
       "Key": "play-guide-stunning-monsters-description",
-      "Translation": "Stuns pode ser alcançado mais facilmente por bater a cabeça das Monstros com Aumentos carregada ou Aumentos brutais cobrado."
+      "Translation": "Stuns pode ser alcançado mais facilmente por bater a cabeça das Monstros com Charged Aumentos ou Aumentos brutais cobrado."
     },
     "play-guide-supporting-teammates": {
       "Key": "play-guide-supporting-teammates",
@@ -10481,7 +10481,7 @@ export default {
     },
     "play-guide-supporting-teammates-description": {
       "Key": "play-guide-supporting-teammates-description",
-      "Translation": "Os ataques do Behemoth são tão prejudiciais que é absolutamente necessário para ajudar seus companheiros de equipe. Use Lifepowder, Demon pó ea habilidade Wide-Range para manter sua equipe coroado."
+      "Translation": "Os ataques do Behemoth são tão prejudiciais que é absolutamente necessário para ajudar seus companheiros de equipe. Use Lifepowder, Demon Pó e a habilidade-Vasta Gama para manter sua equipe coroado."
     },
     "play-guide-sushifish": {
       "Key": "play-guide-sushifish",
@@ -10497,11 +10497,11 @@ export default {
     },
     "play-guide-switch-axe-description": {
       "Key": "play-guide-switch-axe-description",
-      "Translation": "O machado interruptor transforma entre os modos de machados e espadas. modo de machado goza de poder e de longo alcance, enquanto o modo espada possui ataques mais rápidos e finalizadores explosivos."
+      "Translation": "Os morphs interruptor machado entre os modos de machado e espada. Machado orgulha modo de energia e de longo alcance, enquanto o modo espada possui ataques mais rápidos e finalizadores explosivos."
     },
     "play-guide-switch-axe-tips": {
       "Key": "play-guide-switch-axe-tips",
-      "Translation": "Mudar Dicas Axe"
+      "Translation": "Mudar Ax Dicas"
     },
     "play-guide-switch-gauge": {
       "Key": "play-guide-switch-gauge",
@@ -10509,7 +10509,7 @@ export default {
     },
     "play-guide-switch-gauge-description": {
       "Key": "play-guide-switch-gauge-description",
-      "Translation": "Atacking no modo de Espada consome o interruptor Gauge. A mudança do modo espada para Modo Ax recargas uma pequena quantidade do calibre. O medidor também vai encher automaticamente ao longo do tempo."
+      "Translation": "Atacking no modo de Espada consome o interruptor Gauge. A mudança do modo espada para Modo Ax recargas uma pequena quantidade do calibre. O medidor também irá recarga automaticamente ao longo do tempo."
     },
     "play-guide-sword-and-shield": {
       "Key": "play-guide-sword-and-shield",
@@ -10517,7 +10517,7 @@ export default {
     },
     "play-guide-sword-and-shield-description": {
       "Key": "play-guide-sword-and-shield-description",
-      "Translation": "Leve e fácil de usar, a espada e escudo também possui a velocidade de ataque em circulação. O escudo pode ser usado para proteger, que ele não pode realizar-se a certos ataques."
+      "Translation": "Leve e fácil de usar, a espada e escudo também possui a velocidade de ataque em circulação. O escudo pode ser usado para guarda, que ele não pode realizar-se a certos ataques."
     },
     "play-guide-sword-and-shield-tips": {
       "Key": "play-guide-sword-and-shield-tips",
@@ -10529,7 +10529,7 @@ export default {
     },
     "play-guide-sword-condensed-element-slash-description": {
       "Key": "play-guide-sword-condensed-element-slash-description",
-      "Translation": "Encadeando uma carga em um elemento Condensed Corte enquanto elemento Boost é ativo, seus ataques em modo de Espada também irá beneficiar temporariamente de efeitos frasco."
+      "Translation": "Encadeando uma carga em uma barra Condensed Elemento enquanto elemento Boost é ativo, seus ataques em modo de Espada também irá beneficiar temporariamente de efeitos frasco."
     },
     "play-guide-sword-mode-attacks": {
       "Key": "play-guide-sword-mode-attacks",
@@ -10537,7 +10537,7 @@ export default {
     },
     "play-guide-sword-mode-attacks-description": {
       "Key": "play-guide-sword-mode-attacks-description",
-      "Translation": "Ataques no modo Espada utilizar os efeitos do frasco do machado switch, tornando-os muito mais difícil para desviar. Isso torna o modo Espada útil para alvejar partes do corpo duras."
+      "Translation": "Ataques no modo Espada utilizar os efeitos do interruptor de machado do frasco, tornando-os muito mais difícil para desviar. Isso torna o modo Espada útil para alvejar partes do corpo duras."
     },
     "play-guide-tackle": {
       "Key": "play-guide-tackle",
@@ -10553,7 +10553,7 @@ export default {
     },
     "play-guide-tailraider-safari-members-description": {
       "Key": "play-guide-tailraider-safari-members-description",
-      "Translation": "Os membros de cada Tailraider Safari podem ser escolhidos entre os Palicoes de caçadores você trocou Aliança Cartões com. Quanto maior os níveis dos Palicoes, melhores as recompensas que você pode esperar após o seu regresso."
+      "Translation": "Os membros de cada Tailraider Safari podem ser escolhidos entre os Palicoes de caçadores você trocou Aliança Cartões com. Quanto maior os níveis os Palicoes', melhores as recompensas que você pode esperar após o seu regresso."
     },
     "play-guide-tailraider-safaris": {
       "Key": "play-guide-tailraider-safaris",
@@ -10569,11 +10569,11 @@ export default {
     },
     "play-guide-tempered-monsters": {
       "Key": "play-guide-tempered-monsters",
-      "Translation": "Monstros temperado"
+      "Translation": "temperados Monstros"
     },
     "play-guide-tempered-monsters-description": {
       "Key": "play-guide-tempered-monsters-description",
-      "Translation": "Você pode encontrar vestígios de monstros especialmente ferozes - chamados Temperados Monstros - enquanto em expedições de alto escalão. Se você coletar o suficiente destes traços, você pode receber novas missões de investigação."
+      "Translation": "Você pode encontrar vestígios de monstros especialmente ferozes - chamado temperado Monstros - enquanto em expedições de alto escalão. Se você coletar o suficiente destes traços, você pode receber novas missões de investigação."
     },
     "play-guide-the-argosy": {
       "Key": "play-guide-the-argosy",
@@ -10609,15 +10609,15 @@ export default {
     },
     "play-guide-the-elder-crossing": {
       "Key": "play-guide-the-elder-crossing",
-      "Translation": "The Crossing Elder"
+      "Translation": "The Elder Travessia"
     },
     "play-guide-the-elder-crossing-description": {
       "Key": "play-guide-the-elder-crossing-description",
-      "Translation": "The Crossing Elder é um fenômeno ecológico em que os dragões mais velhos viajar para o Novo Mundo. Embora usado para ocorrer apenas uma vez a cada cem anos ou mais, as Travessias agora ocorrem uma vez a cada dez anos. Misteriosamente, alguns dragões mais velhos nunca fazê-lo para o Novo Mundo."
+      "Translation": "The Elder Crossing é um fenômeno ecológico em que os dragões mais velhos viajar para o Novo Mundo. Embora usado para ocorrer apenas uma vez a cada cem anos ou mais, as Travessias agora ocorrem uma vez a cada dez anos. Misteriosamente, alguns dragões mais velhos nunca fazê-lo para o Novo Mundo."
     },
     "play-guide-the-field-researchers": {
       "Key": "play-guide-the-field-researchers",
-      "Translation": "Os pesquisadores de campo"
+      "Translation": "Os pesquisadores campo"
     },
     "play-guide-the-field-researchers-description": {
       "Key": "play-guide-the-field-researchers-description",
@@ -10633,7 +10633,7 @@ export default {
     },
     "play-guide-the-intrepid-field-researchers": {
       "Key": "play-guide-the-intrepid-field-researchers",
-      "Translation": "Os pesquisadores Intrepid Campo"
+      "Translation": "O Intrepid Pesquisadores campo"
     },
     "play-guide-the-intrepid-field-researchers-description": {
       "Key": "play-guide-the-intrepid-field-researchers-description",
@@ -10713,7 +10713,7 @@ export default {
     },
     "play-guide-trading-with-the-argosy-description": {
       "Key": "play-guide-trading-with-the-argosy-description",
-      "Translation": "O Argosy é um navio comercial que esporadicamente põe em porta em Astera e oferece conjuntos de itens especiais para a venda. Os conjuntos de itens mudar cada vez que as visitas Argosy, e podem conter itens raros disponíveis em nenhum outro lugar."
+      "Translation": "O Argosy é um navio comercial que esporadicamente põe em porta em Astera e ofertas conjuntos de itens especiais para a venda. Os conjuntos de itens mudar cada vez que as visitas Argosy, e podem conter itens raros disponíveis em nenhum outro lugar."
     },
     "play-guide-traps-and-elder-dragons": {
       "Key": "play-guide-traps-and-elder-dragons",
@@ -10725,7 +10725,7 @@ export default {
     },
     "play-guide-trusty-hunting-pawtners": {
       "Key": "play-guide-trusty-hunting-pawtners",
-      "Translation": "Pawtners caça fiel"
+      "Translation": "Trusty caça Pawtners"
     },
     "play-guide-trusty-hunting-pawtners-description": {
       "Key": "play-guide-trusty-hunting-pawtners-description",
@@ -10737,7 +10737,7 @@ export default {
     },
     "play-guide-types-of-shelling-attacks-description": {
       "Key": "play-guide-types-of-shelling-attacks-description",
-      "Translation": "Gunlances possuem um de três tipos diferentes de descascar ataque. Os ataques diferem no poder, capacidade de munição e alcance. Tenha cuidado na escolha do seu Gunlance, já que cada tipo requer um estilo de jogo um pouco diferente."
+      "Translation": "Gunlances possuem um de três tipos diferentes de descascar ataque. Os ataques diferem no poder, munição capacidade e alcance. Tenha cuidado na escolha do seu Gunlance, já que cada tipo requer um estilo de jogo um pouco diferente."
     },
     "play-guide-upgrading-charms": {
       "Key": "play-guide-upgrading-charms",
@@ -10749,7 +10749,7 @@ export default {
     },
     "play-guide-upgrading-weapons": {
       "Key": "play-guide-upgrading-weapons",
-      "Translation": "Armas atualizando"
+      "Translation": "Armas Atualizando"
     },
     "play-guide-upgrading-weapons-description": {
       "Key": "play-guide-upgrading-weapons-description",
@@ -10765,7 +10765,7 @@ export default {
     },
     "play-guide-using-performances-to-attack-description": {
       "Key": "play-guide-using-performances-to-attack-description",
-      "Translation": "A onda de choque inicial criado pela trompa de caça Performnace tem alto poder de ataque e impressionante, fazendo o movimento completamente viável como um ataque em seu próprio direito. Você também pode encadear um ataque normal em uma Performance, ea cancelar o desempenho com um rolo esquivar."
+      "Translation": "A onda de choque inicial criado pela trompa de caça Performnace tem alto poder de ataque e impressionante, fazendo o movimento completamente viável como um ataque em seu próprio direito. Você também pode encadear um ataque normal em uma Performance, ea cancelar o desempenho com um Dodge rolo."
     },
     "play-guide-using-the-environment": {
       "Key": "play-guide-using-the-environment",
@@ -10773,7 +10773,7 @@ export default {
     },
     "play-guide-using-the-environment-description": {
       "Key": "play-guide-using-the-environment-description",
-      "Translation": "Observar seu entorno com cuidado. O ambiente é preenchido com bordas para saltar, paredes para escalar, e encostas a deslizar para baixo."
+      "Translation": "Observar seu entorno com cuidado. O ambiente é preenchido com bordas para saltar fora, paredes para escalar, e encostas para deslizar para baixo."
     },
     "play-guide-utilizing-comet": {
       "Key": "play-guide-utilizing-comet",
@@ -10789,7 +10789,7 @@ export default {
     },
     "play-guide-utilizing-skills-description": {
       "Key": "play-guide-utilizing-skills-description",
-      "Translation": "Um deslize-up contra um Behemoth pode significar um desastre para você e sua equipe. Use habilidades de armadura, como melhorar a saúde, ou habilidades alimentares, como Felyne Moxie ou Felyne Insurance."
+      "Translation": "Um deslize-up contra um Behemoth pode significar um desastre para você e sua equipe. habilidades de uso de armaduras, como melhorar a saúde, ou habilidades de alimentos como Felyne Moxie ou Felyne Insurance."
     },
     "play-guide-utilizing-the-environment": {
       "Key": "play-guide-utilizing-the-environment",
@@ -10801,7 +10801,7 @@ export default {
     },
     "play-guide-vigorwasps-description": {
       "Key": "play-guide-vigorwasps-description",
-      "Translation": "Vigorwasps colelct néctar vitalidade para fazer o seu mel, e soltá-lo em uma nuvem quando atingido. Isso pode servir como um método útil de cura quando no campo."
+      "Translation": "Vigorwasps néctar vitalidade colelct para fazer seu mel, e soltá-lo em uma nuvem quando atingido. Isso pode servir como um método útil de cura quando no campo."
     },
     "play-guide-vitalilies": {
       "Key": "play-guide-vitalilies",
@@ -10825,7 +10825,7 @@ export default {
     },
     "play-guide-weapon-and-kinsect-combinations-description": {
       "Key": "play-guide-weapon-and-kinsect-combinations-description",
-      "Translation": "Você pode equipar o seu glaive inseto com diferentes tipos de Kinsects. Considere cada tipo Kinsect ao lado dos impulsos tipo glaive para encontrar combinações eficazes."
+      "Translation": "Você pode equipar o seu inseto glaive com diferentes tipos de Kinsects. Considere cada tipo Kinsect ao lado dos impulsos tipo glaive para encontrar combinações eficazes."
     },
     "play-guide-weapon-info": {
       "Key": "play-guide-weapon-info",
@@ -10845,7 +10845,7 @@ export default {
     },
     "play-guide-what-furr-iends-are-for-description": {
       "Key": "play-guide-what-furr-iends-are-for-description",
-      "Translation": "Os Palicoes de caçadores e amigos que você trocados Aliança Cartões com vontade às vezes aparecem no campo. Converse com eles e eles podem ir junto para ajudá-lo em sua caça!"
+      "Translation": "Os Palicoes de caçadores e amigos que você trocados Aliança Cartões com, por vezes, aparecerá no campo. Fale com eles e eles podem ir junto para ajudá-lo em sua caça!"
     },
     "play-guide-wiggly-litchi": {
       "Key": "play-guide-wiggly-litchi",
@@ -10853,7 +10853,7 @@ export default {
     },
     "play-guide-wiggly-litchi-description": {
       "Key": "play-guide-wiggly-litchi-description",
-      "Translation": "Estas larvas rico em nutrientes pode ser consumido para reduzir pela metade o esgotamento resistência para um curto período de tempo."
+      "Translation": "Estas larvas rico em nutrientes pode ser consumido ao esgotamento resistência halve por um tempo curto."
     },
     "play-guide-wyvernblast": {
       "Key": "play-guide-wyvernblast",
@@ -10861,7 +10861,7 @@ export default {
     },
     "play-guide-wyvernblast-description": {
       "Key": "play-guide-wyvernblast-description",
-      "Translation": "As explosões provocadas por Wyvernblast munição variam dependendo do tipo de ataque usadas. ataques mais poderosos irá criar explosões mais poderosas."
+      "Translation": "As explosões provocadas por Wyvernblast munição variar dependendo do tipo de ataque usadas. Mais ataques poderosos irá criar explosões mais poderosas."
     },
     "poogie-about-poogie": {
       "Key": "poogie-about-poogie",
@@ -10921,7 +10921,7 @@ export default {
     },
     "poogie-emperors-new-duds-how-to-get": {
       "Key": "poogie-emperors-new-duds-how-to-get",
-      "Translation": "Todo o caminho até dentro do ponto de observação, precisa passar por área de Smithy e continuar a subir lugar a Poogie no Gazebo. Você precisa derrotar Xeno'jiiva primeiro."
+      "Translation": "Todo o caminho até dentro do ponto de observação, necessidade de ir através da Área de Smithy e continuar a subir lugar a Poogie no Gazebo. Você precisa derrotar Xeno'jiiva primeiro."
     },
     "poogie-hog-in-a-frog": {
       "Key": "poogie-hog-in-a-frog",
@@ -10969,7 +10969,7 @@ export default {
     },
     "poogie-sparkling-party": {
       "Key": "poogie-sparkling-party",
-      "Translation": "sparkling do partido"
+      "Translation": "Partido sparkling"
     },
     "poogie-sparkling-party-how-to-get": {
       "Key": "poogie-sparkling-party-how-to-get",
@@ -10981,15 +10981,15 @@ export default {
     },
     "poogie-using-poogie-text": {
       "Key": "poogie-using-poogie-text",
-      "Translation": "Para usar Poogie, você precisa para chegar ao ponto que Poogie cumprimenta-lo ao retornar de uma missão. Basta escolher Poggie e levá-lo ao redor Astera até seu controlador começa a vibrar ou os meneios Poogie em sua mão, em seguida, colocá-lo para baixo. Uma vez Poogie encontra um item, interagir com ele para recuperar o item. Note que você só pode encontrar um item por tentativa. Se você quiser encontrar outro item, você precisa ir em outra quest e retornar de uma missão para usar Poogie mais uma vez."
+      "Translation": "Para usar Poogie, você precisa para chegar ao ponto que Poogie cumprimenta-lo ao retornar de uma missão. Basta escolher Poggie e levá-lo ao redor Astera até seu controlador começa a vibrar ou o Poogie mexe em sua mão, em seguida, colocá-lo para baixo. Uma vez Poogie encontra um item, interagir com ele para recuperar o item. Note que você só pode encontrar um item por tentativa. Se você quiser encontrar outro item, você precisa ir em outra quest e retornar de uma missão para usar Poogie mais uma vez."
     },
     "poogie-white-jammies": {
       "Key": "poogie-white-jammies",
-      "Translation": "Jammies brancas"
+      "Translation": "branco Jammies"
     },
     "poogie-white-jammies-how-to-get": {
       "Key": "poogie-white-jammies-how-to-get",
-      "Translation": "Ao lado da grande rocha fóssil na extrema esquerda da Área de Pesquisa Ecológica"
+      "Translation": "Ao lado da grande rocha fóssil na extrema esquerda da Área de Pesquisas Ecológicas"
     },
     "query-a-fiery-convergence-description": {
       "Key": "query-a-fiery-convergence-description",
@@ -11005,7 +11005,7 @@ export default {
     },
     "quest-a-blaze-on-the-sand-description": {
       "Key": "quest-a-blaze-on-the-sand-description",
-      "Translation": "Aqui na Segunda Frota, temos vindo a trabalhar para desenvolver novas ferramentas para ajudar seus caças, mas precisamos da sua ajuda recolher os materiais, Nós estamos contando com você para assumir esta missão!"
+      "Translation": "Aqui na Segunda Frota, temos vindo a trabalhar para desenvolver novas ferramentas para ajudar seus caças, mas precisamos da sua ajuda recolher os materiais, estamos contando com você para assumir esta missão!"
     },
     "quest-a-blaze-on-the-sand-notable-rewards": {
       "Key": "quest-a-blaze-on-the-sand-notable-rewards",
@@ -11017,11 +11017,11 @@ export default {
     },
     "quest-a-bone-to-pick-description": {
       "Key": "quest-a-bone-to-pick-description",
-      "Translation": "É quase impossível para qualquer um dos nossos pesquisadores para estudar fósseis no Rotten Vale porque eles continuam ficar preso a essa maldita Radobaan rolando lá em baixo ..."
+      "Translation": "É quase impossível para qualquer um dos nossos investigadores para fósseis de estudo no Rotten Vale porque continuo recebendo preso a esse maldito Radobaan rolando lá em baixo ..."
     },
     "quest-a-bone-to-pick-tips": {
       "Key": "quest-a-bone-to-pick-tips",
-      "Translation": "Iniciar a partir Sudeste Camp (1), o rolo-alvo em todo o primeiro nível, parando em cada área aberta antes escolhendo uma direção e rolando novamente. Ele geralmente gera no setor 1 área aberta e rola para o setor 3 no início da missão. Há estalactites quebráveis ​​no setor 1 e solo mole no setor 2. Ele vai fugir para o setor 4 a renovar os seus ossos quando todos eles são destruídas."
+      "Translation": "Iniciar a partir Sudeste Camp (1), o rolo-alvo em todo o primeiro nível, parando em cada área aberta antes escolhendo uma direção e rolando novamente. Ele geralmente desova no setor 1 área aberta e rolos para o setor 3 no início da missão. Há estalactites quebráveis ​​no setor 1 e solo mole no setor 2. Ele vai fugir para o setor 4 a renovar os seus ossos quando eles todos são destruídas."
     },
     "quest-a-cherry-wind-upon-the-reefs": {
       "Key": "quest-a-cherry-wind-upon-the-reefs",
@@ -11037,15 +11037,15 @@ export default {
     },
     "quest-a-colossal-task": {
       "Key": "quest-a-colossal-task",
-      "Translation": "Uma tarefa colossal"
+      "Translation": "A Colossal Task"
     },
     "quest-a-colossal-task-description": {
       "Key": "quest-a-colossal-task-description",
-      "Translation": "A operação é definida para iniciar no Everstream. Faça tudo que puder para forçar Zorá Magdaros para o mar. Não podemos falhar! Que a Safira Estrela iluminar nosso caminho!"
+      "Translation": "A operação é definir a começar no Everstream. Faça tudo que puder para forçar Zorá Magdaros para o mar. Não podemos falhar! Que a Safira Estrela iluminar nosso caminho!"
     },
     "quest-a-colossal-task-tips": {
       "Key": "quest-a-colossal-task-tips",
-      "Translation": "Comece usando um wingdrake para pousar em volta Zorá Magdaros'. Certifique-se de pegar um pouco de pedra perto de seu local de pouso para mais tarde. Siga em frente e você deve chegar a uma das Magmacore de Zorá. Destruí-lo certificando-se de desviar a lava vomitando a partir dele. O Magmacore cair um material em destruição. Chefe de \"cauda\" de Zorá e desça até encontrar uma caverna com outro Magmacore, destruí-lo. \\ N \\ Nnow fazer o seu caminho todo o caminho até o corpo Zorá Magdaros, subindo pelo flanco esquerdo, você deve se deparar com um grande magma rocha , você pode destruí-lo para 30RP. Uma vez no topo você pode saltar para baixo algum tipo de poço onde a última Magmacore está, você pode destruí-lo agora, mas é possível Nergigante aparecer antes disso e você vai ter que voltar mais tarde. \\ N \\ Ngo cuidar dessa versão fraca da Nergigante, ele irá fugir depois de bastante dano ser feito para isso, então você precisa para destruir qualquer Magmacore restante. Uma vez que todos Magmacore são destruídos, esperar por um Wingdrake para trazê-lo sobre a barreira. Você pode encontrar outra pedra para quebrar no flanco direito de Zorá enquanto espera. \\ N \\ nPor Barreira, canhões de carga e fogo, certificando-se de alinhar o canhão com a posição de Zorá, tente disparar 5 bolas de canhão ao mesmo tempo a esgotar Zorá Magdaros. Quando não há mais munição, mudar para outro canhão. Em algum ponto, o Team Leader campo vai falar sobre a Dragonslayer, não usá-lo, no entanto, manter a disparar os canhões, movendo-se em direção ao barco, pouco a pouco. Quando? NPC? diz Zorá Magdaros está cobrando-se de um grande ataque, use a alavanca no barco para ativar o Dragonslayer e parar o ataque de Zorá. Depois disso, é só uma questão de tempo e de canhão bolas até Zorá Magdaros desiste."
+      "Translation": "Comece usando um wingdrake à terra em volta Zorá Magdaros'. Certifique-se de pegar um pouco de pedra perto de seu local de pouso para mais tarde. Siga em frente e você deve chegar a uma das Magmacore de Zorá. Destruí-lo certificando-se de desviar a lava vomitando a partir dele. O Magmacore cair um material em destruição. Chefe de \"cauda\" de Zorá e desça até encontrar uma caverna com outro Magmacore, destruí-lo. \\ N \\ Nnow fazer o seu caminho todo o caminho até o corpo Zorá Magdaros, escalada pelo flanco esquerdo, você deve se deparar com um grande magma rocha , você pode destruí-lo para 30RP. Uma vez no topo você pode saltar para baixo algum tipo de poço onde a última Magmacore está, você pode destruí-lo agora, mas é possível Nergigante aparecer antes disso e você vai ter que voltar mais tarde. \\ N \\ Ngo cuidar dessa versão fraca da Nergigante, ele irá fugir depois de bastante dano ser feito para isso, então você precisa para destruir qualquer Magmacore restante. Uma vez que todos Magmacore são destruídos, esperar por um Wingdrake para trazê-lo sobre a barreira. Você pode encontrar outra pedra para quebrar no flanco direito de Zorá enquanto espera. \\ N \\ nPor Barreira, canhões de carga e fogo, certificando-se de alinhar o canhão com a posição de Zorá, tente disparar 5 bolas de canhão ao mesmo tempo a esgotar Zorá Magdaros. Quando não há mais munição, mudar para outro canhão. Em algum ponto, o Team Leader campo vai falar sobre a Dragonslayer, não usá-lo, no entanto, manter a disparar os canhões, movendo-se para o pequeno barco a pouco. Quando? NPC? diz Zorá Magdaros está cobrando-se de um grande ataque, use a alavanca no barco para ativar o Dragonslayer e parar o ataque de Zorá. Depois disso, é só uma questão de tempo e de canhão bolas até Zorá Magdaros desiste."
     },
     "quest-a-crown-of-mud-and-anger": {
       "Key": "quest-a-crown-of-mud-and-anger",
@@ -11061,7 +11061,7 @@ export default {
     },
     "quest-a-fiery-convergence": {
       "Key": "quest-a-fiery-convergence",
-      "Translation": "A Convergência Fiery"
+      "Translation": "A Fiery Convergência"
     },
     "quest-a-fiery-convergence-notable-rewards": {
       "Key": "quest-a-fiery-convergence-notable-rewards",
@@ -11069,11 +11069,11 @@ export default {
     },
     "quest-a-fiery-throne-atop-the-forest": {
       "Key": "quest-a-fiery-throne-atop-the-forest",
-      "Translation": "Um Trono impetuoso No topo da Floresta"
+      "Translation": "Um impetuoso Trono No topo da Floresta"
     },
     "quest-a-fiery-throne-atop-the-forest-description": {
       "Key": "quest-a-fiery-throne-atop-the-forest-description",
-      "Translation": "A Primeira Wyverian é não vou derramar o feijão sobre Zorá até ficar no topo da cadeia alimentar. Isso significa que temos que caçar-nos um Rathalos! ... Isso quer dizer que temos que comê-lo também?"
+      "Translation": "A Primeira Wyverian não vai derramar o feijão sobre Zorá até ficar no topo da cadeia alimentar. , Significa que devemos nos interceptou um Rathalos! ... Será que isso significa que temos de comê-lo também?"
     },
     "quest-a-flash-in-the-pan": {
       "Key": "quest-a-flash-in-the-pan",
@@ -11085,7 +11085,7 @@ export default {
     },
     "quest-a-hair-raising-experience": {
       "Key": "quest-a-hair-raising-experience",
-      "Translation": "Uma experiência de arrepiar os cabelos"
+      "Translation": "Experiência A Hair-Raising"
     },
     "quest-a-hair-raising-experience-description": {
       "Key": "quest-a-hair-raising-experience-description",
@@ -11101,7 +11101,7 @@ export default {
     },
     "quest-a-humid-headache-description": {
       "Key": "quest-a-humid-headache-description",
-      "Translation": "Este tempo é tão úmido que você poderia cortar o ar com grande espada! Nosso departamento poderia tão pouco controle de temperatura e eu sei exatamente o monstro que pode fornecer algum alívio!"
+      "Translation": "Este tempo é tão úmido que você poderia cortar o ar com grande espada! Nosso departamento poderia de modo algum controle de temperatura e eu sei exatamente o monstro que pode fornecer algum alívio!"
     },
     "quest-a-kestodon-kerfuffle": {
       "Key": "quest-a-kestodon-kerfuffle",
@@ -11121,7 +11121,7 @@ export default {
     },
     "quest-a-light-upon-the-rivers-gloom-notes": {
       "Key": "quest-a-light-upon-the-rivers-gloom-notes",
-      "Translation": "Esta é uma busca opcional que aparece depois de funished a atribuição Terra de Convergência, e permite que você cultivar materiais Xeno'jiiva. Parece aleatoriamente depois de concluído qualquer busca ou investigação (mais frequentemente o mais elevado sua classificação). Você vai, porém, obter uma nota que a busca está disponível. Ele só fica ativo por um período de tempo de duas missões. Depois ela desaparece novamente."
+      "Translation": "Esta é uma busca opcional que aparece depois de funished Terra atribuição de Convergência, e permite que você materiais Xeno'jiiva fazenda. Parece aleatoriamente depois de concluído qualquer busca ou investigação (mais frequentemente o mais elevado sua classificação). Você vai, porém, obter uma nota que a busca está disponível. Ele só fica ativo por um período de tempo de duas missões. Depois ela desaparece novamente."
     },
     "quest-a-meow-for-help": {
       "Key": "quest-a-meow-for-help",
@@ -11157,15 +11157,15 @@ export default {
     },
     "quest-a-rotten-thing-to-do": {
       "Key": "quest-a-rotten-thing-to-do",
-      "Translation": "Uma coisa podre que fazer"
+      "Translation": "Uma coisa podre para fazer"
     },
     "quest-a-rotten-thing-to-do-description": {
       "Key": "quest-a-rotten-thing-to-do-description",
-      "Translation": "I foi trabalho-k-rei do Rotten V-Vale quando um G-G-Grande Girros me z-z-eletrocutado por trás. Eu g-saí em uma única peça, mas eu ainda sou tudo t-t-tingly ... Termine o j-j-trabalho para mim? P-Por favor!"
+      "Translation": "I foi trabalho-k-rei do Rotten V-Vale quando um G-G-Grande Girros me z-z-eletrocutado por trás. Eu g-saí em uma única peça, mas eu ainda sou tudo t-t-tingly ... Concluir o j-j-trabalho para mim? P-Por favor!"
     },
     "quest-a-rotten-thing-to-do-tips": {
       "Key": "quest-a-rotten-thing-to-do-tips",
-      "Translation": "Essa busca tem você lidar com Effluvium, um dano lidar gás em toda a área permanente. Enquanto isso soa chato, você pode ignorá-la com a habilidade Effluvial Expert, encontrado na armadura da caixa Hornetaur Mail, que é fácil de ofício. (Girros bobina também tem esta habilidade) Alguma resistência paralisia pode vir a calhar também. Iniciar a partir Sudeste Camp (1), oeste de cabeça e procurar um caminho descendente no setor 3. O alvo vagueia em torno de todo o segundo nível do Rotten Vale, muitas vezes com alguns Girros seguinte. Seu ninho é no setor 7, na seção superior."
+      "Translation": "Essa busca tem você lidar com Effluvium, um gás de causar dano permanente em toda a área. Enquanto isso soa chato, você pode ignorá-la com a habilidade Effluvial Expert, encontrado na armadura da caixa Hornetaur Mail, que é fácil de ofício. (Girros bobina também tem esta habilidade) Alguma resistência paralisia pode vir a calhar também. Iniciar a partir Sudeste Camp (1), a oeste cabeça e olhar para um caminho descendente no setor 3. Os Wanders alvo ao redor de todo o segundo nível do Rotten Vale, muitas vezes com alguns Girros seguinte. Seu ninho é no setor 7, na seção superior."
     },
     "quest-a-royal-pain": {
       "Key": "quest-a-royal-pain",
@@ -11173,7 +11173,7 @@ export default {
     },
     "quest-a-royal-pain-description": {
       "Key": "quest-a-royal-pain-description",
-      "Translation": "Eu não me importaria de ir para casa, mas eu odeio todo o burburinho real que vai com ele. Fiver, lembre-me por que eu entrei para a Quinta. (Bilhete especial e aumentou recompensas materiais raros)"
+      "Translation": "Eu não me importaria de ir para casa, mas eu odeio todo o burburinho real que vai com ele. Fiver, lembre-me por que eu entrei para a Quinta. (Bilhete especial e maiores recompensas materiais raros)"
     },
     "quest-a-rush-of-blood": {
       "Key": "quest-a-rush-of-blood",
@@ -11181,11 +11181,11 @@ export default {
     },
     "quest-a-rush-of-blood-description": {
       "Key": "quest-a-rush-of-blood-description",
-      "Translation": "Ah não! Há ths monstro grande ol' que se parece muito com o nosso Rush! Gottal de alguém acalmar o menino grande para baixo! Ajude-nos, e nós vamos dar-lhe algum equipamento especial para o seu Palico!"
+      "Translation": "Ah não! Há ths monstro grande ol' que se parece muito com o nosso Rush! Gottal calma de alguém o menino grande para baixo! Ajude-nos, e nós vamos dar-lhe algum equipamento especial para o seu Palico!"
     },
     "quest-a-scalding-scoop": {
       "Key": "quest-a-scalding-scoop",
-      "Translation": "Uma colher Scalding"
+      "Translation": "A Scalding colher"
     },
     "quest-a-scalding-scoop-description": {
       "Key": "quest-a-scalding-scoop-description",
@@ -11217,15 +11217,15 @@ export default {
     },
     "quest-a-sore-site-notes": {
       "Key": "quest-a-sore-site-notes",
-      "Translation": "Cadeia de busca: A Taste Formigueiro, de Mestre Toast Entrega, presos em suas maneiras, uma fermentação Entrega-vomitando fogo, um site Sore, RRRRRumble no desperdício! -Alto escalão monstros têm mais HP, bater mais forte, mas agir como seu baixo-Rank homólogo."
+      "Translation": "Busca Cadeia: A Formigueiro Taste, de Mestre Toast Entrega, presos em suas maneiras, um fogo-vomitando Brew entrega, um site Sore, RRRRRumble no desperdício! -Alto escalão monstros têm mais HP, bater mais forte, mas agir como seu baixo-Rank homólogo."
     },
     "quest-a-summons-from-below": {
       "Key": "quest-a-summons-from-below",
-      "Translation": "A Summons from Below"
+      "Translation": "Uma intimação from Below"
     },
     "quest-a-summons-from-below-conditions": {
       "Key": "quest-a-summons-from-below-conditions",
-      "Translation": "Hunt (nível de ameaça 3) 3 diferentes temperado dragões mais velhos para desbloquear"
+      "Translation": "Caça 3 diferentes temperado dragões mais velhos (nível de ameaça 3) para desbloquear"
     },
     "quest-a-summons-from-below-description": {
       "Key": "quest-a-summons-from-below-description",
@@ -11241,11 +11241,11 @@ export default {
     },
     "quest-a-thicket-of-thugs-description": {
       "Key": "quest-a-thicket-of-thugs-description",
-      "Translation": "Um dos meus pesquisadores de campo pretende recolher brightmoss para estudar. O único problema é, ele é mais encontrada em cavernas. Adivinha o que mais é encontrada principalmente em cavernas? É isso mesmo ... Jagras!"
+      "Translation": "Um dos meus pesquisadores de campo pretende recolher brightmoss para estudo. O único problema é, ele é mais encontrada em cavernas. Adivinha o que mais é encontrada principalmente em cavernas? É isso mesmo ... Jagras!"
     },
     "quest-a-tingling-taste": {
       "Key": "quest-a-tingling-taste",
-      "Translation": "A Taste Formigueiro"
+      "Translation": "A Formigueiro Taste"
     },
     "quest-a-tingling-taste-description": {
       "Key": "quest-a-tingling-taste-description",
@@ -11253,7 +11253,7 @@ export default {
     },
     "quest-a-tingling-taste-notes": {
       "Key": "quest-a-tingling-taste-notes",
-      "Translation": "Cadeia de busca: A Taste Formigueiro, de Mestre Toast Entrega, presos em suas maneiras, uma fermentação Entrega-vomitando fogo, um site Sore, RRRRRumble no desperdício! -Alto escalão monstros têm mais HP, bater mais forte, mas agir como seu baixo-Rank homólogo. Desbloquear uma cadeia de busca na Base de Pesquisa que leva à RRRRRumble no desperdício! busca opcional mais tarde."
+      "Translation": "Busca Cadeia: A Formigueiro Taste, de Mestre Toast Entrega, presos em suas maneiras, um fogo-vomitando Brew entrega, um site Sore, RRRRRumble no desperdício! -Alto escalão monstros têm mais HP, bater mais forte, mas agir como seu baixo-Rank homólogo. Desbloquear uma cadeia de busca na Base de Pesquisa que leva à RRRRRumble no desperdício! busca opcional mais tarde."
     },
     "quest-a-tzitzi-for-science": {
       "Key": "quest-a-tzitzi-for-science",
@@ -11261,7 +11261,7 @@ export default {
     },
     "quest-a-tzitzi-for-science-description": {
       "Key": "quest-a-tzitzi-for-science-description",
-      "Translation": "Nós ouvimos falar de do Coral Highland Tzitzi-Ya-Ku, como ele emite flashes de luz para cegar seus inimigos. Devemos conhecer as mchanics invovled. equipe de campo, por favor caçar um para os nossos estudos!"
+      "Translation": "Nós ouvimos falar de do Coral Highland Tzitzi-Ya-Ku, como ele emite flashes de luz para cegar seus inimigos. Devemos conhecer as mchanics invovled. equipe de campo, por favor, caça um para os nossos estudos!"
     },
     "quest-a-tzitzi-for-science-tips": {
       "Key": "quest-a-tzitzi-for-science-tips",
@@ -11273,7 +11273,7 @@ export default {
     },
     "quest-a-visitor-from-another-world-description": {
       "Key": "quest-a-visitor-from-another-world-description",
-      "Translation": "Meu parceiro esquisitão não vai calar a boca sobre algum animal não animal que encontrou na Wildspire Resíduos. Você quer tag along? Seja o que for, ele é obrigado a ser algo interessante!"
+      "Translation": "Meu parceiro esquisitão não vai calar a boca sobre algum animal não animal que encontrou na Wildspire Resíduos. Você quer ir junto? Seja o que for, ele é obrigado a ser algo interessante!"
     },
     "quest-a-visitor-from-eorzea": {
       "Key": "quest-a-visitor-from-eorzea",
@@ -11281,7 +11281,7 @@ export default {
     },
     "quest-a-visitor-from-eorzea-description": {
       "Key": "quest-a-visitor-from-eorzea-description",
-      "Translation": "A Behemoth apareceu em Recess da pessoa idosa. Os métodos convencionais não vai funcionar, invocar hunte confiável - aventureiros para ajudar a acalmar a besta!"
+      "Translation": "A Behemoth apareceu em Recess da pessoa idosa. Os métodos convencionais não vai funcionar, invocam confiáveis ​​Hunte - aventureiros para ajudar a acalmar a besta!"
     },
     "quest-a-visitor-from-eorzea-extreme": {
       "Key": "quest-a-visitor-from-eorzea-extreme",
@@ -11289,7 +11289,7 @@ export default {
     },
     "quest-a-visitor-from-eorzea-extreme-description": {
       "Key": "quest-a-visitor-from-eorzea-extreme-description",
-      "Translation": "Outra Behemoth apareceu em Recess da pessoa idosa e é ainda mais perigoso do que o último! Convocar outros aventureiros e reprimir a besta! (Extremamente difícil! Recompensas, armadura Drachen camadas e cartão de guilda título)"
+      "Translation": "Outra Behemoth apareceu em Recess da pessoa idosa e é ainda mais perigoso do que o último! Invocar outros aventureiros e reprimir a besta! (Recompensas! Extremamente difícil, Drachen camadas armadura e título cartão de guilda)"
     },
     "quest-a-whisper-of-white-mane": {
       "Key": "quest-a-whisper-of-white-mane",
@@ -11297,7 +11297,7 @@ export default {
     },
     "quest-a-whisper-of-white-mane-description": {
       "Key": "quest-a-whisper-of-white-mane-description",
-      "Translation": "No começo eu pensei que era uma ilusão, olhando para mim. Essa névoa branca me deu arrepios eu nunca vou esquecer. Preciso de sua ajuda para confirmar as minhas conclusões."
+      "Translation": "No começo eu pensei que era uma ilusão, olhando para mim. Essa névoa branca me deu arrepios Eu nunca vou esquecer. Preciso de sua ajuda para confirmar as minhas conclusões."
     },
     "quest-a-wound-and-a-thirst": {
       "Key": "quest-a-wound-and-a-thirst",
@@ -11305,7 +11305,7 @@ export default {
     },
     "quest-a-wound-and-a-thirst-description": {
       "Key": "quest-a-wound-and-a-thirst-description",
-      "Translation": "O Nergigante de longa olhou-nos do outro lado do cruzamento de Elder, mas agora temos uma pista sobre seu paradeiro. Se nós podemos estudá-lo, ele pode revelar a verdadeira natureza do Crossing."
+      "Translation": "O Nergigante Há muito tempo nós olhou do outro lado do Elder Crossing, mas agora temos uma pista sobre seu paradeiro. Se nós podemos estudá-lo, ele pode revelar a verdadeira natureza do Crossing."
     },
     "quest-arena-quest-01": {
       "Key": "quest-arena-quest-01",
@@ -11313,7 +11313,7 @@ export default {
     },
     "quest-arena-quest-01-description": {
       "Key": "quest-arena-quest-01-description",
-      "Translation": "No canto monstro: Pukei-Pukei, o Toxic Tussler, Máquina do Lickin! Ele não vai ouvir quando você dizer \"não, línguas\"! Quem tem a coragem de lutar com armas set e armaduras?"
+      "Translation": "No canto monstro: Pukei-Pukei, o Toxic Tussler, o Machine Lickin! Ele não vai ouvir quando você dizer \"não, línguas\"! Quem tem a coragem de lutar com armas definidos e armaduras?"
     },
     "quest-arena-quest-02": {
       "Key": "quest-arena-quest-02",
@@ -11321,7 +11321,7 @@ export default {
     },
     "quest-arena-quest-02-description": {
       "Key": "quest-arena-quest-02-description",
-      "Translation": "No canto monstro: Kulu-Ya-Ku, o Pulverizer, o Peckanizer! Se este pássaro é a palavra, em seguida, a palavra é quebra! Quem tem a coragem de lutar com armas set e armaduras?"
+      "Translation": "No canto monstro: Kulu-Ya-Ku, o Pulverizer, o Peckanizer! Se este pássaro é a palavra, em seguida, a palavra é SMASH! Quem tem a coragem de lutar com armas definidos e armaduras?"
     },
     "quest-arena-quest-03": {
       "Key": "quest-arena-quest-03",
@@ -11329,7 +11329,7 @@ export default {
     },
     "quest-arena-quest-03-description": {
       "Key": "quest-arena-quest-03-description",
-      "Translation": "No canto monstro: Rathian, a rainha o' Green, o Skyborne Slasher! Não fique com a senhora com raiva; ela é veneno! Quem tem a coragem de lutar contra ela com armas set e armaduras?"
+      "Translation": "No canto monstro: Rathian, a rainha o' Green, o Skyborne Slasher! Não fique com a senhora com raiva; veneno de ela! Quem tem a coragem de lutar contra ela com armas definidos e armaduras?"
     },
     "quest-arena-quest-04": {
       "Key": "quest-arena-quest-04",
@@ -11337,7 +11337,7 @@ export default {
     },
     "quest-arena-quest-04-description": {
       "Key": "quest-arena-quest-04-description",
-      "Translation": "No canto monstro: Tzitzi-Ya-Ku, o Stunner Saurian, o Flashinator! Deste beastie quente para trotar e multa de brilhar! Quem tem a coragem de lutar com armas set e armaduras?"
+      "Translation": "No canto monstro: Tzitzi-Ya-Ku, o Saurian Stunner, o Flashinator! Este beastie está quente para trotar e multa de brilhar! Quem tem a coragem de lutar com armas definidos e armaduras?"
     },
     "quest-arena-quest-05": {
       "Key": "quest-arena-quest-05",
@@ -11345,7 +11345,7 @@ export default {
     },
     "quest-arena-quest-05-description": {
       "Key": "quest-arena-quest-05-description",
-      "Translation": "No canto monstro: Barroth, o desmedido cabeçada, o Skullcracker! Perder para esse cara, e seu nome é lama! Quem tem a coragem de lutar com armas set e armaduras?"
+      "Translation": "No canto monstro: Barroth, o desmedido cabeçada, o Skullcracker! Perder para esse cara, e seu nome é lama! Quem tem a coragem de lutar com armas definidos e armaduras?"
     },
     "quest-arena-quest-06": {
       "Key": "quest-arena-quest-06",
@@ -11353,7 +11353,7 @@ export default {
     },
     "quest-arena-quest-06-description": {
       "Key": "quest-arena-quest-06-description",
-      "Translation": "No canto monstro: Dodogama, o Behemoth de Boom, o Crucnher! O que explode, deve trazê-lo para baixo! Quem tem a coragem de lutar com armas set e armaduras?"
+      "Translation": "No canto monstro: Dodogama, o Behemoth de Boom, o Crucnher! O que explode, deve trazê-lo para baixo! Quem tem a coragem de lutar com armas definidos e armaduras?"
     },
     "quest-arena-quest-07": {
       "Key": "quest-arena-quest-07",
@@ -11361,7 +11361,7 @@ export default {
     },
     "quest-arena-quest-07-description": {
       "Key": "quest-arena-quest-07-description",
-      "Translation": "No canto monstro: Azure Rathalos, a Sapphire Sultan, o True Blue Terror! Curve-se ao rei de todos os wyverns! Quem tem a coragem de lutar com armas set e armaduras?"
+      "Translation": "No canto monstro: Azure Rathalos, a Sapphire Sultan, o True Blue Terror! Curve-se ao rei de todos os wyverns! Quem tem a coragem de lutar com armas definidos e armaduras?"
     },
     "quest-arena-quest-08": {
       "Key": "quest-arena-quest-08",
@@ -11369,7 +11369,7 @@ export default {
     },
     "quest-arena-quest-08-description": {
       "Key": "quest-arena-quest-08-description",
-      "Translation": "No canto monstro: Uma equipe tag Radobaan-Uragaan! As rodas estão girando, e do seu número up! Quem tem a coragem de lutar 'em com armas set e armaduras?"
+      "Translation": "No canto monstro: Um Radobaan-Uragaan tag team! As rodas estão girando, e seu número está acima! Quem tem a coragem de lutar 'em com armas set e armaduras?"
     },
     "quest-arena-quest-09": {
       "Key": "quest-arena-quest-09",
@@ -11377,7 +11377,7 @@ export default {
     },
     "quest-arena-quest-09-description": {
       "Key": "quest-arena-quest-09-description",
-      "Translation": "No canto monstro: Uma equipe tag Diablos Diablos-pretas! Já tinha suas orelhas perfuradas? Agora tente a versão extrema! Quem tem a coragem de lutar 'em com armas set e armaduras?"
+      "Translation": "No canto monstro: Um Diablos-Black Diablos tag team! Já tinha suas orelhas perfuradas? Agora tente a versão extrema! Quem tem a coragem de lutar 'em com armas set e armaduras?"
     },
     "quest-ballooning-problems": {
       "Key": "quest-ballooning-problems",
@@ -11385,7 +11385,7 @@ export default {
     },
     "quest-ballooning-problems-description": {
       "Key": "quest-ballooning-problems-description",
-      "Translation": "... Sinto muito, eu só vomitou pensar sobre a cara desse monstro. Sério, você estará fazendo um favor ... e nós também. Caçá-lo e o Engenheiro dirigível terá tudo o que ele precisa."
+      "Translation": "... Sinto muito, eu só vomitou pensamento sobre a cara desse monstro. Sério, você estará fazendo um favor ... e nós também. Caça-lo e o Engenheiro dirigível terá tudo o que ele precisa."
     },
     "quest-bazelgeuse-in-the-field-of-fire": {
       "Key": "quest-bazelgeuse-in-the-field-of-fire",
@@ -11409,15 +11409,15 @@ export default {
     },
     "quest-bird-brained-bandit-description": {
       "Key": "quest-bird-brained-bandit-description",
-      "Translation": "O Kulu-Ya-Ku usa seus antebraços hábeis para transportar objetos. Se nada for feito, é susceptível de fugir com suprimentos cruciais. O primeiro passo da reconstrução de um acampamento seguro é a caça que ladrão!"
+      "Translation": "O Kulu-Ya-Ku usa seus antebraços hábeis para transportar objetos. Se nada for feito, é susceptível de fugir com suprimentos cruciais. um passo de reconstruir um acampamento seguro é a caça que ladrão!"
     },
     "quest-blue-prominence": {
       "Key": "quest-blue-prominence",
-      "Translation": "Destaque azul"
+      "Translation": "azul Destaque"
     },
     "quest-blue-prominence-description": {
       "Key": "quest-blue-prominence-description",
-      "Translation": "Eu estava fora estudando as Habis alimentares de algumas fauna locais seriamente fofo quando - Wowzers - um gigantesco velho dragão azul aparece! Cuidar dele para que eu possa voltar a pesquisar o que importa!"
+      "Translation": "Eu estava fora estudando as Habis alimentares de algumas fauna locais seriamente fofo quando - Wowzers - um azul gigantescas aparece mais velhos do dragão! Cuidar dele para que eu possa voltar para a investigação que importa!"
     },
     "quest-brown-desert-green-queen": {
       "Key": "quest-brown-desert-green-queen",
@@ -11437,7 +11437,7 @@ export default {
     },
     "quest-butting-heads-with-nature-description": {
       "Key": "quest-butting-heads-with-nature-description",
-      "Translation": "Kestodon Blasted! Cada vez que sair para coletar amostras, essas criaturas irritantes bater-nos em nossos tushes! Gostaria que eles cair fora da nossa pesquisa!"
+      "Translation": "Blasted Kestodon! Cada vez que sair para amostras de coleta, essas criaturas irritantes bater-nos em nossos tushes! Gostaria que eles cair fora da nossa pesquisa!"
     },
     "quest-butting-heads-with-nature-tips": {
       "Key": "quest-butting-heads-with-nature-tips",
@@ -11449,23 +11449,23 @@ export default {
     },
     "quest-camp-crasher-description": {
       "Key": "quest-camp-crasher-description",
-      "Translation": "A outra manhã um dos meus pesquisadores acordou ao seu acampamento de ter sido roubado por um dos ladrões Kulu-Ya-Ku. Fazer algo sobre isso antes que ele revira outro campo!"
+      "Translation": "A outra manhã dos meus pesquisadores acordou ao seu acampamento de ter sido roubado por um dos ladrões Kulu-Ya-Ku. Fazer algo sobre isso antes que ele revira outro campo!"
     },
     "quest-camp-crasher-tips": {
       "Key": "quest-camp-crasher-tips",
-      "Translation": "Iniciar a partir Nordeste Camp (11), ou fazer o seu caminho para o setor 5 e procurar o alvo pegadas / penas, enquanto em direção ao norte. Seus caminhos devem cruzar em algum ponto."
+      "Translation": "Iniciar a partir Nordeste Camp (11), ou fazer o seu caminho para o setor 5 e olhar para as pegadas alvo / penas, enquanto em direção ao norte. Seus caminhos devem cruzar em algum ponto."
     },
     "quest-chef-quest-a-rotten-request": {
       "Key": "quest-chef-quest-a-rotten-request",
-      "Translation": "Chef quest! Um pedido Rotten"
+      "Translation": "Chef quest! A Rotten Pedido"
     },
     "quest-chef-quest-a-rotten-request-description": {
       "Key": "quest-chef-quest-a-rotten-request-description",
-      "Translation": "Estes pequenos monstros acho que você está jogando com eles! Mostre-lhes o que está feito! Digamos ... 10 repetições? * Destrava um novo ingrediente Canteen on conclusões da primeira vez."
+      "Translation": "Estes pequenos monstros acho que você está jogando com eles! Mostre-lhes o que está feito! Vamos dizer ... 10 repetições? * Destrava um novo ingrediente Canteen on conclusões da primeira vez."
     },
     "quest-chef-quest-a-rotten-request-notable-rewards": {
       "Key": "quest-chef-quest-a-rotten-request-notable-rewards",
-      "Translation": "ingrediente carne preparou"
+      "Translation": "ingrediente steeled Carne"
     },
     "quest-chef-quest-a-rotten-request-tips": {
       "Key": "quest-chef-quest-a-rotten-request-tips",
@@ -11477,11 +11477,11 @@ export default {
     },
     "quest-chef-quest-gajalaka-lockdown-description": {
       "Key": "quest-chef-quest-gajalaka-lockdown-description",
-      "Translation": "Meow my god! São 'caras tentando estes lil para flexionar em você? Mostrar a eles que você é packin '! Digamos ... 10 repetições! * Abre uma nova cantina Ingrediente na conclusão primeira vez."
+      "Translation": "Meow my god! São estes 'caras Tryin' lil para flexionar em você? Mostrar a eles que você é packin '! Vamos dizer ... 10 repetições! * Abre uma nova cantina Ingrediente na conclusão primeira vez."
     },
     "quest-chef-quest-gajalaka-lockdown-notable-rewards": {
       "Key": "quest-chef-quest-gajalaka-lockdown-notable-rewards",
-      "Translation": "ingrediente Savelhas grosseiro, Gajalaka Esboço"
+      "Translation": "Grosseiro Savelhas ingrediente, Gajalaka Esboço"
     },
     "quest-chef-quest-pumped-to-deliver": {
       "Key": "quest-chef-quest-pumped-to-deliver",
@@ -11493,7 +11493,7 @@ export default {
     },
     "quest-chef-quest-pumped-to-deliver-notable-rewards": {
       "Key": "quest-chef-quest-pumped-to-deliver-notable-rewards",
-      "Translation": "ingrediente Tripe picante"
+      "Translation": "ingrediente picante Tripe"
     },
     "quest-chef-quest-pumped-to-deliver-tips": {
       "Key": "quest-chef-quest-pumped-to-deliver-tips",
@@ -11545,7 +11545,7 @@ export default {
     },
     "quest-client-chief-biologist": {
       "Key": "quest-client-chief-biologist",
-      "Translation": "biólogo Chief"
+      "Translation": "chefe biólogo"
     },
     "quest-client-chief-botanist": {
       "Key": "quest-client-chief-botanist",
@@ -11553,7 +11553,7 @@ export default {
     },
     "quest-client-chief-ecologist": {
       "Key": "quest-client-chief-ecologist",
-      "Translation": "Ecologist Chief"
+      "Translation": "chefe Ecologist"
     },
     "quest-client-commander": {
       "Key": "quest-client-commander",
@@ -11561,7 +11561,7 @@ export default {
     },
     "quest-client-cool-fiver": {
       "Key": "quest-client-cool-fiver",
-      "Translation": "legal Fiver"
+      "Translation": "arrefecer Fiver"
     },
     "quest-client-daredevil-editor": {
       "Key": "quest-client-daredevil-editor",
@@ -11577,11 +11577,11 @@ export default {
     },
     "quest-client-elite-defender": {
       "Key": "quest-client-elite-defender",
-      "Translation": "Defender Elite"
+      "Translation": "Elite Defender"
     },
     "quest-client-endemic-life-researcher": {
       "Key": "quest-client-endemic-life-researcher",
-      "Translation": "Pesquisador vida endêmica"
+      "Translation": "Pesquisador endêmica Vida"
     },
     "quest-client-excitable-a-lister": {
       "Key": "quest-client-excitable-a-lister",
@@ -11617,19 +11617,19 @@ export default {
     },
     "quest-client-impatient-biologist": {
       "Key": "quest-client-impatient-biologist",
-      "Translation": "biólogo impaciente"
+      "Translation": "impaciente biólogo"
     },
     "quest-client-laid-back-botanist": {
       "Key": "quest-client-laid-back-botanist",
-      "Translation": "Botânico descontraído"
+      "Translation": "Laid-back Botânico"
     },
     "quest-client-long-black-haired-hunter": {
       "Key": "quest-client-long-black-haired-hunter",
-      "Translation": "Long Black de cabelos Hunter"
+      "Translation": "Longo de cabelos negros Hunter"
     },
     "quest-client-lost-scholar": {
       "Key": "quest-client-lost-scholar",
-      "Translation": "perdeu Scholar"
+      "Translation": "perdido Scholar"
     },
     "quest-client-newly-single-commission-member": {
       "Key": "quest-client-newly-single-commission-member",
@@ -11657,15 +11657,15 @@ export default {
     },
     "quest-client-serious-handler": {
       "Key": "quest-client-serious-handler",
-      "Translation": "Handler sério"
+      "Translation": "Serious Handler"
     },
     "quest-client-shy-scholar": {
       "Key": "quest-client-shy-scholar",
-      "Translation": "Scholar Shy"
+      "Translation": "Shy Scholar"
     },
     "quest-client-smart-biologist": {
       "Key": "quest-client-smart-biologist",
-      "Translation": "biólogo inteligente"
+      "Translation": "inteligente biólogo"
     },
     "quest-client-stunned-researcher": {
       "Key": "quest-client-stunned-researcher",
@@ -11677,7 +11677,7 @@ export default {
     },
     "quest-client-stylish-red-fiver": {
       "Key": "quest-client-stylish-red-fiver",
-      "Translation": "Elegante Fiver Red"
+      "Translation": "À moda vermelho Fiver"
     },
     "quest-client-thats-the-new-world-for-you": {
       "Key": "quest-client-thats-the-new-world-for-you",
@@ -11741,7 +11741,7 @@ export default {
     },
     "quest-code-red-description": {
       "Key": "quest-code-red-description",
-      "Translation": "Legends dizer em uma terra distante, um caçador de demônio em um casaco vermelho offed demônios com um estilo doentiamente doce. Que tal fazer uma lenda fora de você também? Se você estiver interessado, no salto."
+      "Translation": "Legends dizer em uma terra distante, um caçador de demônio em um casaco vermelho offed demônios com um estilo doentiamente doce. Que tal fazer uma lenda fora de você também? Se você estiver interessado, salto em."
     },
     "quest-completed": {
       "Key": "quest-completed",
@@ -11793,7 +11793,7 @@ export default {
     },
     "quest-conditions-capture-hr-anjanath": {
       "Key": "quest-conditions-capture-hr-anjanath",
-      "Translation": "Capturar uma Anjanath HR"
+      "Translation": "Capturar uma HR Anjanath"
     },
     "quest-conditions-capture-hr-azure-rathalos": {
       "Key": "quest-conditions-capture-hr-azure-rathalos",
@@ -11809,7 +11809,7 @@ export default {
     },
     "quest-conditions-capture-hr-diablos": {
       "Key": "quest-conditions-capture-hr-diablos",
-      "Translation": "Capturar um RH Diablos"
+      "Translation": "Capturar uma HR Diablos"
     },
     "quest-conditions-capture-hr-legiana": {
       "Key": "quest-conditions-capture-hr-legiana",
@@ -11841,7 +11841,7 @@ export default {
     },
     "quest-conditions-capture-hr-rathian": {
       "Key": "quest-conditions-capture-hr-rathian",
-      "Translation": "Capturar uma Rathian HR"
+      "Translation": "Capturar uma HR Rathian"
     },
     "quest-conditions-capture-hr-tobi-kadachi": {
       "Key": "quest-conditions-capture-hr-tobi-kadachi",
@@ -11937,7 +11937,7 @@ export default {
     },
     "quest-conditions-max-player-1": {
       "Key": "quest-conditions-max-player-1",
-      "Translation": "Max Jogadores: 1"
+      "Translation": "Jogadores Max: 1"
     },
     "quest-conditions-none": {
       "Key": "quest-conditions-none",
@@ -11949,7 +11949,7 @@ export default {
     },
     "quest-contract-trouble-in-the-ancient-forest-description": {
       "Key": "quest-contract-trouble-in-the-ancient-forest-description",
-      "Translation": "equipe de campo Atenção! Uma anomalia foi descoberto na floresta antiga. Ajuda The Witcher resolver esse problema. Nessa busca, você começa a jogar como Geralt de Rivia."
+      "Translation": "equipe de campo Atenção! Uma anomalia foi descoberto na floresta antiga. Ajuda a determinação Witcher esta questão. Nessa busca, você começa a jogar como Geralt de Rivia."
     },
     "quest-contract-woodland-spirit": {
       "Key": "quest-contract-woodland-spirit",
@@ -11957,7 +11957,7 @@ export default {
     },
     "quest-contract-woodland-spirit-description": {
       "Key": "quest-contract-woodland-spirit-description",
-      "Translation": "Um portal apareceu na floresta antiga, e uma estranha criatura veio através dele. A besta é chamado um espírito da floresta e é extremamente perigoso. nível de busca perto de Death March! A dificuldade em Witcher 3"
+      "Translation": "Um portal apareceu na floresta antiga, e uma estranha criatura veio através dele. A besta é chamado um espírito da floresta e é extremamente perigoso. Busca nível próximo Death March! A dificuldade em Witcher 3"
     },
     "quest-coral-waltz": {
       "Key": "quest-coral-waltz",
@@ -11989,7 +11989,7 @@ export default {
     },
     "quest-dodogama-drama-tips": {
       "Key": "quest-dodogama-drama-tips",
-      "Translation": "Dodogama podem ser encontrados alimentares rochas no setor 7, 8 e 9. Deve ser o primeiro monstro usando Explosão ataca você encontrar no jogo que deve ter cuidado."
+      "Translation": "Dodogama podem ser encontrados alimentares rochas no setor 7, 8 e 9. Deve ser o primeiro monstro usando ataques explosão que você encontrar no jogo que deve ter cuidado."
     },
     "quest-effluvial-opera": {
       "Key": "quest-effluvial-opera",
@@ -12017,7 +12017,7 @@ export default {
     },
     "quest-every-hunters-dream-description": {
       "Key": "quest-every-hunters-dream-description",
-      "Translation": "Um caçador veio com um projeto de uma arma que ele queria. Eu ainda tenho as impressões em torno de mentir, por isso, se você quer uma de sua preferência, me os materiais e vou começar dando certo."
+      "Translation": "Um caçador veio com um projeto de uma arma que ele queria. Eu ainda tenho as impressões em torno de mentir, por isso, se você quer uma de sua preferência, me os materiais e vou começar Workin'."
     },
     "quest-exterminator-of-the-waste": {
       "Key": "quest-exterminator-of-the-waste",
@@ -12029,7 +12029,7 @@ export default {
     },
     "quest-exterminator-of-the-waste-tips": {
       "Key": "quest-exterminator-of-the-waste-tips",
-      "Translation": "Iniciar a partir do sudoeste Camp (1), leste de cabeça durante a sua estada no lado sul até chegar setor 9 e uma pequena área lamacenta. Vespoid estão voando em torno de uma árvore neste sector, use o lançador para matá-los sem destruir seus cadáveres se você precisa de materiais. Você pode esperar aqui para eles reaparecer ou norte de cabeça na caverna, tomar o caminho certo que levam para o ninho Rathian e matar Vespoid nos 2 buracos em torno dele."
+      "Translation": "Iniciar a partir do sudoeste Camp (1), leste de cabeça durante a sua estada no lado sul até chegar setor 9 e uma pequena área lamacenta. Vespoid estão voando em torno de uma árvore neste sector, use o lançador para matá-los sem destruir seus cadáveres se você precisa de materiais. Você pode esperar aqui para eles de respawn ou norte cabeça na caverna, tomar o caminho certo que levam para o ninho Rathian e matar Vespoid nos 2 buracos em torno dele."
     },
     "quest-failure-barroth-is-slain": {
       "Key": "quest-failure-barroth-is-slain",
@@ -12045,11 +12045,11 @@ export default {
     },
     "quest-failure-faint-3-times": {
       "Key": "quest-failure-faint-3-times",
-      "Translation": "Fracas 3 vezes"
+      "Translation": "Desmaiar 3 vezes"
     },
     "quest-failure-faint-9-times": {
       "Key": "quest-failure-faint-9-times",
-      "Translation": "Fracas 9 vezes"
+      "Translation": "Desmaiar 9 vezes"
     },
     "quest-failure-odogaron-is-slain": {
       "Key": "quest-failure-odogaron-is-slain",
@@ -12081,7 +12081,7 @@ export default {
     },
     "quest-fungal-flexin-in-the-ancient-forest": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest",
-      "Translation": "Flexin fúngica na floresta antiga"
+      "Translation": "Fúngica Flexin' na floresta antiga"
     },
     "quest-fungal-flexin-in-the-ancient-forest-description": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-description",
@@ -12089,11 +12089,11 @@ export default {
     },
     "quest-fungal-flexin-in-the-ancient-forest-notable-rewards": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-notable-rewards",
-      "Translation": "Sujas ingrediente Shroomcap"
+      "Translation": "ingrediente suja Shroomcap"
     },
     "quest-fungal-flexin-in-the-ancient-forest-tips": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-tips",
-      "Translation": "Iniciar a partir Nordeste Camp (11) se desbloqueado ou passar por setor 1> 3> 4 para chegar ao setor 5, onde há alguns Único cogumelo Colony. Você pode capturar uma Paratoad, Flashfly, Woodland Pteryx e talvez o raro Floresta Pteryx neste sector. Tenha cuidado com o Anjanath e Pukei-Pukei que gosta de passear neste sector. O enluarada Mushroom pode gerar durante esta missão. Vá para o norte do setor 5 e olhar à esquerda para outra Único cogumelo Colony em um grande ramo que leva você para cima. Siga o ramo e entrar na caverna lado pequeno para o norte por mais cogumelos. Você pode pegar Omenfly nesta caverna."
+      "Translation": "Iniciar a partir Nordeste Camp (11) se desbloqueado ou passar por setor 1> 3> 4 para chegar ao setor 5, onde há alguns Único cogumelo Colony. Você pode capturar uma Paratoad, Flashfly, Woodland Pteryx e talvez o raro Floresta Pteryx neste sector. Tenha cuidado com o Anjanath e Pukei-Pukei que gosta de passear neste sector. O enluarada Mushroom pode gerar durante esta missão. Vá para o norte do setor 5 e olhar à esquerda para outra Único cogumelo Colony em um grande ramo que leva para cima. Siga o ramo e ir para o lado pequeno caverna do norte para mais cogumelos. Você pode pegar Omenfly nesta caverna."
     },
     "quest-gaze-upon-the-dawn": {
       "Key": "quest-gaze-upon-the-dawn",
@@ -12101,7 +12101,7 @@ export default {
     },
     "quest-gaze-upon-the-dawn-description": {
       "Key": "quest-gaze-upon-the-dawn-description",
-      "Translation": "Sempre que vejo Zorá Magdaros, eu não posso ajudar, mas sinto triste, e um pouco nostálgico. Vamos terminar a nossa investigação para que eu possa voltar para o Velho Mundo e conheça meu mestre e antigos colegas de equipa novamente!"
+      "Translation": "Sempre que vejo Zorá Magdaros, eu não posso ajudar, mas sentir-se triste, e uma saudade pouco. Vamos terminar a nossa investigação para que eu possa voltar para o Velho Mundo e conheça meu mestre e antigos colegas de equipa novamente!"
     },
     "quest-gettin-yolked-in-the-forest": {
       "Key": "quest-gettin-yolked-in-the-forest",
@@ -12113,7 +12113,7 @@ export default {
     },
     "quest-gettin-yolked-in-the-forest-tips": {
       "Key": "quest-gettin-yolked-in-the-forest-tips",
-      "Translation": "Iniciar a partir antiga Forest Camp (17) e verifique se você tem o Ghillie Mantle (a habilidade Pro Transporter pode vir a calhar também), de cabeça para o ninho Rathian todo o caminho até no setor 16, seguindo o caminho para o sul. Coloque o Ghillie Mantle on e escolher o Wyvern Egg, você não pode passar sob o ramo com o ovo para que descer a encosta oeste (você pode deslizar para baixo com segurança) e procurar uma saída no lado norte, em seguida, basta voltar para o campo e repetir uma vez. Se você é rápido o suficiente você pode correr mais que o Rathian sem a Ghillie Mantle, o Rathian não pode segui-lo no sector 17."
+      "Translation": "Iniciar de Camp Floresta antiga (17) e verifique se você tem o Ghillie Mantle (a habilidade Pro Transporter pode vir a calhar também), de cabeça para o ninho Rathian todo o caminho até no setor 16, seguindo o caminho para o sul. Coloque o Ghillie Mantle on e escolher o Wyvern Egg, você não pode passar sob o ramo com o ovo para que descer a encosta oeste (você pode deslizar para baixo com segurança) e procurar uma saída no lado norte, em seguida, basta voltar para o campo e repetir uma vez. Se você é rápido o suficiente você pode correr mais que o Rathian sem a Ghillie Mantle, o Rathian não pode segui-lo no sector 17."
     },
     "quest-gettin-yolked-in-the-waste": {
       "Key": "quest-gettin-yolked-in-the-waste",
@@ -12125,7 +12125,7 @@ export default {
     },
     "quest-gettin-yolked-in-the-waste-tips": {
       "Key": "quest-gettin-yolked-in-the-waste-tips",
-      "Translation": "Trazer o Ghillie Mantle (a habilidade Pro Transporter pode vir a calhar também), comece a partir do sudoeste Camp (1) e leste de cabeça para encontrar o ninho herbívoro. Coloque o Ghillie Mantle on e escolher um dos ovos, trazê-lo de volta ao acampamento. O Ghillie Mantle fazer com que os monstros não irão segui-lo e tentar fazer você deixar cair o ovo. Apenas gerenciar sua resistência como bater 0 vai fazer você deixar cair. Você pode rolar, sprint e subir com o objeto, mas não se agachar sob pequena passagem"
+      "Translation": "Trazer o Ghillie Mantle (a habilidade Pro Transporter pode vir a calhar também), comece a partir do sudoeste Camp (1) e leste de cabeça para encontrar o ninho herbívoro. Coloque o Ghillie Mantle on e escolher um dos ovos, trazê-lo de volta ao acampamento. O Ghillie Mantle fazer com que os monstros não irão segui-lo e tentar fazer você deixar cair o ovo. Apenas gerenciar sua resistência como bater 0 vai fazer você deixar cair. Você pode rolar, sprint e subir com o objeto, mas não se agacham em pequena passagem"
     },
     "quest-gone-in-a-flash": {
       "Key": "quest-gone-in-a-flash",
@@ -12181,7 +12181,7 @@ export default {
     },
     "quest-he-taketh-it-with-his-eyes-description": {
       "Key": "quest-he-taketh-it-with-his-eyes-description",
-      "Translation": "Foi um Behemoth, uma besta Eorzean, em Recess da pessoa idosa. Acatam os conselhos do moogle, invocam, em hunte confiável - aventureiros para ajudar a acabar com este terror!"
+      "Translation": "Foi um Behemoth, uma besta Eorzean, no recesso da pessoa idosa. Heed o conselho do moogle, invocam outro hunte confiável - aventureiros para ajudar a acalmar esse terror!"
     },
     "quest-hellfires-stronghold": {
       "Key": "quest-hellfires-stronghold",
@@ -12189,7 +12189,7 @@ export default {
     },
     "quest-hellfires-stronghold-description": {
       "Key": "quest-hellfires-stronghold-description",
-      "Translation": "Teostra. Basta dizer o nome faz meu quiver ponta de pena. Alguns acreditam que é má sorte para cortar a pele deste animal majestoso, mas para o bem do futuro, devemos estudá-la!"
+      "Translation": "Teostra. Basta dizer o nome faz meu quiver pena ponta. Alguns acreditam que é má sorte para cortar a pele deste animal majestoso, mas para o bem do futuro, devemos estudá-la!"
     },
     "quest-hellish-fiend-vaal-hazak": {
       "Key": "quest-hellish-fiend-vaal-hazak",
@@ -12201,11 +12201,11 @@ export default {
     },
     "quest-horned-tyrant-below-the-sands": {
       "Key": "quest-horned-tyrant-below-the-sands",
-      "Translation": "Tyrant Horned Abaixo das Sands"
+      "Translation": "Horned Tyrant Abaixo das Sands"
     },
     "quest-horned-tyrant-below-the-sands-description": {
       "Key": "quest-horned-tyrant-below-the-sands-description",
-      "Translation": "A Primeira Wyverian é não vou derramar o feijão sobre Zorá até ficar no topo da cadeia alimentar. Isso significa que temos que caçar-nos um Diablos! ... Isso quer dizer que temos que comê-lo também?"
+      "Translation": "A Primeira Wyverian não vai derramar o feijão sobre Zorá até ficar no topo da cadeia alimentar. , Significa que devemos nos interceptou um Diablos! ... Será que isso significa que temos de comê-lo também?"
     },
     "quest-infernal-monarchy": {
       "Key": "quest-infernal-monarchy",
@@ -12213,7 +12213,7 @@ export default {
     },
     "quest-infernal-monarchy-description": {
       "Key": "quest-infernal-monarchy-description",
-      "Translation": "Eu não sei como isso aconteceu, mas temos a chance de observar o comportamento Teostra e Lunastra na Wildspire Waste! Isso é algo que não pode perder! Vá ver por si mesmo, mas não se machucar!"
+      "Translation": "Eu não sei como isso aconteceu, mas temos a chance de observar o comportamento Teostra e Lunastra na Wildspire Waste! Isso é algo que não pode perder! Vai ver por si mesmo, mas não se machucar!"
     },
     "quest-into-the-bowels-of-the-vale": {
       "Key": "quest-into-the-bowels-of-the-vale",
@@ -12229,7 +12229,7 @@ export default {
     },
     "quest-invader-in-the-waste-description": {
       "Key": "quest-invader-in-the-waste-description",
-      "Translation": "A Pukei-Pukei na Wildspire Resíduos !? Como se isso não é já estranho o suficiente, este adicional difícil. Temos que chegar ao fundo disto! Tenha cuidado, parceiro!"
+      "Translation": "A Pukei-Pukei na Wildspire Resíduos !? Como se isso já não é suficiente estranho, este adicional difícil. Temos que chegar ao fundo disto! Tenha cuidado, parceiro!"
     },
     "quest-it-cant-see-you-if-you-dont-move": {
       "Key": "quest-it-cant-see-you-if-you-dont-move",
@@ -12249,7 +12249,7 @@ export default {
     },
     "quest-its-a-crying-shamos-description": {
       "Key": "quest-its-a-crying-shamos-description",
-      "Translation": "Eu quase me sinto mal por eles. Esses monstrinhos magras nem sequer uma chance. Ir Flex em cima deles enquanto eu obter os bens!"
+      "Translation": "Eu quase me sinto mal por eles. Esses monstrinhos magras nem sequer uma chance. Go flex em 'em enquanto eu obter os bens!"
     },
     "quest-its-a-crying-shamos-notable-rewards": {
       "Key": "quest-its-a-crying-shamos-notable-rewards",
@@ -12265,7 +12265,7 @@ export default {
     },
     "quest-jagras-of-the-ancient-forest-description": {
       "Key": "quest-jagras-of-the-ancient-forest-description",
-      "Translation": "A aparência de Zorá Magdaros trouxe mudanças no ecossistema local. Dirigir-se para território Jagras para investigar, e tirá-los se necessário."
+      "Translation": "A aparência de Zorá Magdaros trouxe mudanças no ecossistema local. Cabeça em território Jagras para investigar, e tirá-los se necessário."
     },
     "quest-keep-your-hands-to-yourself": {
       "Key": "quest-keep-your-hands-to-yourself",
@@ -12293,7 +12293,7 @@ export default {
     },
     "quest-kings-know-no-fear-description": {
       "Key": "quest-kings-know-no-fear-description",
-      "Translation": "Basta olhar para um Rathalos me lembra de como irrelevante estou em comparação com o Rei dos Céus. E eu odeio isso! Ajuda-me a ser famoso também! (Maior chance de recompensas materiais raros, bilhete especial disponível)"
+      "Translation": "Basta olhar para um Rathalos me lembra de como irrelevante estou em comparação com o Rei dos Céus. E eu odeio isso! Ajuda-me a ser famoso também! (Maior chance de raras recompensas materiais, bilhete especial disponível)"
     },
     "quest-kirin-the-myth": {
       "Key": "quest-kirin-the-myth",
@@ -12317,7 +12317,7 @@ export default {
     },
     "quest-land-of-convergence-description": {
       "Key": "quest-land-of-convergence-description",
-      "Translation": "Uma imensa energia flui através do Novo Mundo, e nós encontramos onde tudo leva a. Vá com o Seeker e descobrir o que está lá. Que a Safira Estrela guiar a todos nós."
+      "Translation": "Uma energia imensa flui através do Novo Mundo, e nós encontramos onde tudo leva a. Vá com o Seeker e descobrir o que está lá. Que a Safira Estrela guiar a todos nós."
     },
     "quest-landing-the-landslide-wyvern": {
       "Key": "quest-landing-the-landslide-wyvern",
@@ -12329,7 +12329,7 @@ export default {
     },
     "quest-landing-the-landslide-wyvern-tips": {
       "Key": "quest-landing-the-landslide-wyvern-tips",
-      "Translation": "Bastante semelhante ao Mired no Spire, mas você precisa para capturar o alvo. Iniciar a partir de Central Camp (6), procurá-lo no setor e lutar até que ele manca e foge para o setor 9. Desde que você não pode colocar Choque Armadilha na água eo Barroth pode destruir lama, colocar a armadilha perto do Cactus Rodada e atraí-lo aqui. Pode ajudar a usar alguns bomba Tranq enquanto o monstro está adormecido. Se é a primeira vez que você capturar uma Barroth, você vai desbloquear a Arena especial: Barroth busca opcional."
+      "Translation": "Bastante semelhante ao Mired no Spire, mas você precisa para capturar o alvo. Iniciar a partir Central Camp (6), olhar para ele no setor e luta até que ele manca e foge para o setor 9. Desde que você não pode colocar Choque Armadilha na água eo Barroth pode destruir lama, colocar a armadilha perto do Cactus Rodada e atraí-lo aqui. Pode ajudar a usar alguns Tranq bomba, enquanto o monstro está adormecido. Se é a primeira vez que você capturar uma Barroth, você vai desbloquear a Arena especial: Barroth busca opcional."
     },
     "quest-lavasioth-monster-of-magma": {
       "Key": "quest-lavasioth-monster-of-magma",
@@ -12345,11 +12345,11 @@ export default {
     },
     "quest-left-quite-the-impression-description": {
       "Key": "quest-left-quite-the-impression-description",
-      "Translation": "não o sinal de Zorá Magdaros fazer seu coração saltar uma batida? Deixe-me assegurar-lhe, vendo suas escalas de perto é tão inspiradora. É imperativo que nós estudá-lo mais."
+      "Translation": "não o sinal de Zorá Magdaros fazer seu coração saltar uma batida? Deixe-me assegurar-lhe, vendo suas escalas perto acima é tão inspiradora. É imperativo que nós estudá-lo mais."
     },
     "quest-left-quite-the-impression-notes": {
       "Key": "quest-left-quite-the-impression-notes",
-      "Translation": "Esta é uma busca opcional que aparece depois de terminar a atribuição A colossal tarefa, e permite que você cultivar para materiais Zorá Magdaros. Parece aleatoriamente depois de concluído qualquer busca ou investigação (mais frequentemente o mais elevado sua classificação). Você vai, porém, obter uma nota que a busca está disponível. Ele só fica ativo por um período de tempo de duas missões. Depois ela desaparece novamente."
+      "Translation": "Esta é uma busca opcional que aparece depois de terminar a atribuição A colossal tarefa, e permite que você fazenda para materiais Zorá Magdaros. Parece aleatoriamente depois de concluído qualquer busca ou investigação (mais frequentemente o mais elevado sua classificação). Você vai, porém, obter uma nota que a busca está disponível. Ele só fica ativo por um período de tempo de duas missões. Depois ela desaparece novamente."
     },
     "quest-legiana-embodiment-of-elegance": {
       "Key": "quest-legiana-embodiment-of-elegance",
@@ -12357,7 +12357,7 @@ export default {
     },
     "quest-legiana-embodiment-of-elegance-description": {
       "Key": "quest-legiana-embodiment-of-elegance-description",
-      "Translation": "Você já sabe como me sinto sobre aquela criatura intolerável. Contanto que controla os céus nas montanhas, nós nunca vamos ser capazes de fazer nossa descida. Não cuidar dela, não vai?"
+      "Translation": "Você já sabe como me sinto sobre aquela criatura intolerável. Contanto que controla os céus nas montanhas, nós nunca vamos ser capazes de fazer nossa descida. Fazer cuidar dela, não vai?"
     },
     "quest-legiana-highlands-royalty": {
       "Key": "quest-legiana-highlands-royalty",
@@ -12417,7 +12417,7 @@ export default {
     },
     "quest-mans-best-fiend-description": {
       "Key": "quest-mans-best-fiend-description",
-      "Translation": "Eu realmente sinto falta do meu velho animal de estimação. Os dias que passamos ir ao parque, jogar o esforço. Anseio por esse companheirismo ... que a lealdade. Por favor, sair e encontrar-me um novo."
+      "Translation": "Eu realmente sinto falta do meu velho animal de estimação. Os dias que passamos indo para o parque, que joga o esforço. I por muito tempo para que a companhia ... que a lealdade. Por favor, sair e encontrar-me um novo."
     },
     "quest-mans-best-fiend-tips": {
       "Key": "quest-mans-best-fiend-tips",
@@ -12429,7 +12429,7 @@ export default {
     },
     "quest-master-of-the-gale-description": {
       "Key": "quest-master-of-the-gale-description",
-      "Translation": "Você sabia que algumas culturas adorar Kushala Daora como um deus do vento? Felizmente, não é um deles! Estou determinado a estudar seu domínio de voo ... apenas acho que os benefícios!"
+      "Translation": "Você sabia que algumas culturas adorar Kushala Daora como um deus do vento? Felizmente, não é um deles! Eu estou determinado a estudar seu domínio de voo ... apenas acho que os benefícios!"
     },
     "quest-midnight-mayhem": {
       "Key": "quest-midnight-mayhem",
@@ -12437,7 +12437,7 @@ export default {
     },
     "quest-midnight-mayhem-description": {
       "Key": "quest-midnight-mayhem-description",
-      "Translation": "Diabos, estou perdido? Eu não reconheço este lugar. Oh bem, eu poderia muito bem ter algum fundo enquanto eu estou aqui! (Tradução pelo pesquisador Lynian) (prêmios bilhete especial)"
+      "Translation": "Diabos, eu estou perdido? Eu não reconheço este lugar. Oh bem, eu poderia muito bem ter algum fundo enquanto eu estou aqui! (Tradução pelo pesquisador Lynian) (prêmios bilhete especial)"
     },
     "quest-minutes": {
       "Key": "quest-minutes",
@@ -12453,7 +12453,7 @@ export default {
     },
     "quest-mired-in-the-spire-tips": {
       "Key": "quest-mired-in-the-spire-tips",
-      "Translation": "Iniciar a partir de Central Camp (6), (Gastronome atum pode ser encontrada no acampamento) siga para o norte e o alvo deve ser em torno do Kestodon. Ele deve fugir para o setor 8, onde você pode tentar usar slides ataque / salto para montá-lo. Ele vai fugir para o setor 7 para renovar a lama em seu corpo. Quando começar a ficar muito fraco, ele vai fugir para o setor 9 e cobrir-se na lama. Não subestime o efeito da água em seus movimentos quando lutando nesta área. Também é impossível colocar Choque Armadilha em águas profundas."
+      "Translation": "Comece de Camp Central (6), (Gastronome atum pode ser encontrada no acampamento) norte cabeça e o alvo deve ser em torno do Kestodon. Ele deve fugir para o setor 8, onde você pode tentar usar o ataque slide / salto para montá-lo. Ele vai fugir para o setor 7 para renovar a lama em seu corpo. Quando começar a ficar muito fraco, ele vai fugir para o setor 9 e cobrir-se na lama. Não subestime o efeito da água em seus movimentos quando lutando nesta área. Também é impossível colocar Choque Armadilha em águas profundas."
     },
     "quest-new-world-sky-new-world-flower": {
       "Key": "quest-new-world-sky-new-world-flower",
@@ -12461,7 +12461,7 @@ export default {
     },
     "quest-new-world-sky-new-world-flower-conditions": {
       "Key": "quest-new-world-sky-new-world-flower-conditions",
-      "Translation": "Hunt (nível de ameaça 2) 7 diferentes temperado monstros para desbloquear"
+      "Translation": "Caça 7 diferentes monstros temperado (nível de ameaça 2) para desbloquear"
     },
     "quest-new-world-sky-new-world-flower-description": {
       "Key": "quest-new-world-sky-new-world-flower-description",
@@ -12485,7 +12485,7 @@ export default {
     },
     "quest-no-tomorrow-for-usurpers-description": {
       "Key": "quest-no-tomorrow-for-usurpers-description",
-      "Translation": "Nossos caras visto que grande, incômodo vôo feia em Recess da pessoa idosa! Obtenha sua engrenagem, precisamos de você aqui fora o mais rápido possível! (Os pontos de RH Bonus recompensado após a conclusão.)"
+      "Translation": "Nossos caras visto que grande, incômodo vôo feia no Elder Recess! Obtenha sua engrenagem, precisamos de você aqui fora o mais rápido possível! (Os pontos de RH Bonus recompensado após a conclusão.)"
     },
     "quest-notable-rewards": {
       "Key": "quest-notable-rewards",
@@ -12529,7 +12529,7 @@ export default {
     },
     "quest-objective-defeat-10-gajalaka": {
       "Key": "quest-objective-defeat-10-gajalaka",
-      "Translation": "Derrotar 10 Gajalaka"
+      "Translation": "Derrota 10 Gajalaka"
     },
     "quest-objective-deliver-10-blue-beryl": {
       "Key": "quest-objective-deliver-10-blue-beryl",
@@ -12617,11 +12617,11 @@ export default {
     },
     "quest-objective-hunt-a-barroth": {
       "Key": "quest-objective-hunt-a-barroth",
-      "Translation": "Caçar um Barroth"
+      "Translation": "Interceptou um Barroth"
     },
     "quest-objective-hunt-a-bazelgeuse": {
       "Key": "quest-objective-hunt-a-bazelgeuse",
-      "Translation": "Caçar um Bazelgeuse"
+      "Translation": "Interceptou um Bazelgeuse"
     },
     "quest-objective-hunt-a-black-diablos": {
       "Key": "quest-objective-hunt-a-black-diablos",
@@ -12629,15 +12629,15 @@ export default {
     },
     "quest-objective-hunt-a-deviljho": {
       "Key": "quest-objective-hunt-a-deviljho",
-      "Translation": "Caçar um Deviljho"
+      "Translation": "Interceptou um Deviljho"
     },
     "quest-objective-hunt-a-diablos": {
       "Key": "quest-objective-hunt-a-diablos",
-      "Translation": "Caçar um Diablos"
+      "Translation": "Interceptou um Diablos"
     },
     "quest-objective-hunt-a-dodogama": {
       "Key": "quest-objective-hunt-a-dodogama",
-      "Translation": "Caçar um Dodogama"
+      "Translation": "Interceptou um Dodogama"
     },
     "quest-objective-hunt-a-great-girros": {
       "Key": "quest-objective-hunt-a-great-girros",
@@ -12665,7 +12665,7 @@ export default {
     },
     "quest-objective-hunt-a-paolumu": {
       "Key": "quest-objective-hunt-a-paolumu",
-      "Translation": "Caçar um Paolumu"
+      "Translation": "Interceptou um Paolumu"
     },
     "quest-objective-hunt-a-pink-rathian": {
       "Key": "quest-objective-hunt-a-pink-rathian",
@@ -12677,7 +12677,7 @@ export default {
     },
     "quest-objective-hunt-a-radobaan": {
       "Key": "quest-objective-hunt-a-radobaan",
-      "Translation": "Caçar um Radobaan"
+      "Translation": "Interceptou um Radobaan"
     },
     "quest-objective-hunt-a-rathalos": {
       "Key": "quest-objective-hunt-a-rathalos",
@@ -12701,19 +12701,19 @@ export default {
     },
     "quest-objective-hunt-an-anjanath": {
       "Key": "quest-objective-hunt-an-anjanath",
-      "Translation": "Caçar um Anjanath"
+      "Translation": "Caça um Anjanath"
     },
     "quest-objective-hunt-an-azure-rathalos": {
       "Key": "quest-objective-hunt-an-azure-rathalos",
-      "Translation": "Caçar uma Azure Rathalos"
+      "Translation": "Caça uma Azure Rathalos"
     },
     "quest-objective-hunt-an-odogaron": {
       "Key": "quest-objective-hunt-an-odogaron",
-      "Translation": "Caçar um Odogaron"
+      "Translation": "Caça um Odogaron"
     },
     "quest-objective-hunt-an-uragaan": {
       "Key": "quest-objective-hunt-an-uragaan",
-      "Translation": "Caçar um Uragaan"
+      "Translation": "Caça um Uragaan"
     },
     "quest-objective-slay-10-gastodon": {
       "Key": "quest-objective-slay-10-gastodon",
@@ -12753,7 +12753,7 @@ export default {
     },
     "quest-objective-slay-5-raphinos": {
       "Key": "quest-objective-slay-5-raphinos",
-      "Translation": "Slay 5 Raphinos"
+      "Translation": "Mate 5 Raphinos"
     },
     "quest-objective-slay-7-gajau": {
       "Key": "quest-objective-slay-7-gajau",
@@ -12769,19 +12769,19 @@ export default {
     },
     "quest-objective-slay-a-barroth": {
       "Key": "quest-objective-slay-a-barroth",
-      "Translation": "Slay um Barroth"
+      "Translation": "Matar um Barroth"
     },
     "quest-objective-slay-a-dodogama": {
       "Key": "quest-objective-slay-a-dodogama",
-      "Translation": "Slay um Dodogama"
+      "Translation": "Matar um Dodogama"
     },
     "quest-objective-slay-a-kirin": {
       "Key": "quest-objective-slay-a-kirin",
-      "Translation": "Slay um Kirin"
+      "Translation": "Matar um Kirin"
     },
     "quest-objective-slay-a-kirin-tempered": {
       "Key": "quest-objective-slay-a-kirin-tempered",
-      "Translation": "Mate um Kirin (temperado)"
+      "Translation": "Matar uma Kirin (temperado)"
     },
     "quest-objective-slay-a-kulu-ya-ku": {
       "Key": "quest-objective-slay-a-kulu-ya-ku",
@@ -12801,7 +12801,7 @@ export default {
     },
     "quest-objective-slay-a-teostra": {
       "Key": "quest-objective-slay-a-teostra",
-      "Translation": "Slay um Teostra"
+      "Translation": "Matar um Teostra"
     },
     "quest-objective-slay-a-tzitzi-ya-ku": {
       "Key": "quest-objective-slay-a-tzitzi-ya-ku",
@@ -12813,7 +12813,7 @@ export default {
     },
     "quest-objective-slay-all-target-monsters": {
       "Key": "quest-objective-slay-all-target-monsters",
-      "Translation": "Mate todos os monstros-alvo"
+      "Translation": "Matar todos os monstros-alvo"
     },
     "quest-objective-slay-an-azure-rathalos": {
       "Key": "quest-objective-slay-an-azure-rathalos",
@@ -12857,7 +12857,7 @@ export default {
     },
     "quest-odogaron-unleashed": {
       "Key": "quest-odogaron-unleashed",
-      "Translation": "Odogaron Solta"
+      "Translation": "Odogaron desencadeada"
     },
     "quest-odogaron-unleashed-description": {
       "Key": "quest-odogaron-unleashed-description",
@@ -12873,7 +12873,7 @@ export default {
     },
     "quest-old-monster-in-the-new-world-description": {
       "Key": "quest-old-monster-in-the-new-world-description",
-      "Translation": "Nós finalmente rastreou a origem dessas faixas misteriosas. Relatar às Highlands Coral e procurá-la! Ele vai estar esperando seu relatório assim que você está feito!"
+      "Translation": "Nós finalmente rastreou a origem dessas faixas misteriosas. Relatório ao Coral Highlands e procurá-la! Ele vai estar esperando seu relatório assim que você está feito!"
     },
     "quest-on-nightmares-wings": {
       "Key": "quest-on-nightmares-wings",
@@ -12885,7 +12885,7 @@ export default {
     },
     "quest-on-nightmares-wings-tips": {
       "Key": "quest-on-nightmares-wings-tips",
-      "Translation": "Essa busca tem você lidar com Effluvium, um dano lidar gás em toda a área permanente. Enquanto isso soa chato, você pode ignorá-la com a habilidade Effluvial Expert, encontrado na armadura da caixa Hornetaur Mail, que é fácil de ofício. (Girros bobina também tem esta habilidade) Os alvos estão voando em torno do segundo nível do sector 6, 7 e 9."
+      "Translation": "Essa busca tem você lidar com Effluvium, um gás de causar dano permanente em toda a área. Enquanto isso soa chato, você pode ignorá-la com a habilidade Effluvial Expert, encontrado na armadura da caixa Hornetaur Mail, que é fácil de ofício. (Girros bobina também tem esta habilidade) Os alvos estão voando em torno do segundo nível do sector 6, 7 e 9."
     },
     "quest-one-for-the-history-books": {
       "Key": "quest-one-for-the-history-books",
@@ -12925,7 +12925,7 @@ export default {
     },
     "quest-pandoras-arena-description": {
       "Key": "quest-pandoras-arena-description",
-      "Translation": "Há um ditado sobre um animal encurralado que me desliza mente - De qualquer maneira, não está ferido Teostra encurralados na Arena especial. Algo se passa com ele. Vá e confira, eh?"
+      "Translation": "Há um ditado sobre um animal encurralado que desliza me importaria - De qualquer maneira, não está ferido Teostra encurralados na Arena especial. Algo se passa com ele. Vá e confira, eh?"
     },
     "quest-persistent-pests": {
       "Key": "quest-persistent-pests",
@@ -12933,11 +12933,11 @@ export default {
     },
     "quest-persistent-pests-description": {
       "Key": "quest-persistent-pests-description",
-      "Translation": "Há um ponto que eu estou certo esconde o segredo para um novo crescimento Árvore antiga mas está infestado de Hornetaurs! * Destrava um slot de pesquisa botânica na conclusão primeira vez."
+      "Translation": "Há um ponto que eu sou determinados couros o segredo para o crescimento da árvore nova antiga mas está infestado de Hornetaurs! * Destrava um slot de pesquisa botânica na conclusão primeira vez."
     },
     "quest-persistent-pests-tips": {
       "Key": "quest-persistent-pests-tips",
-      "Translation": "Iniciar a partir Sudeste Camp (1), oeste de cabeça para encontrar o primeiro grupo no setor 3. Suba a videira e ir para o norte no setor 4 para encontrar um grande número deles, alguns respawning da piscina de sangue. (Você pode capturar Scavantula nesta área, certifique-se de não assustá-los)"
+      "Translation": "Iniciar a partir Sudeste Camp (1), a oeste cabeça para encontrar o primeiro grupo no setor 3. Suba a videira e ir para o norte no setor 4 para encontrar um grande número deles, alguns respawning da piscina de sangue. (Você pode capturar Scavantula nesta área, certifique-se para não assustá-los)"
     },
     "quest-pretty-in-pink": {
       "Key": "quest-pretty-in-pink",
@@ -12953,11 +12953,11 @@ export default {
     },
     "quest-prickly-predicament": {
       "Key": "quest-prickly-predicament",
-      "Translation": "Predicament espinhosa"
+      "Translation": "Prickly Predicament"
     },
     "quest-prickly-predicament-description": {
       "Key": "quest-prickly-predicament-description",
-      "Translation": "Estou confiante as plantas nativas para o lixo vai nos ajudar a crescer os nossos antigos árvores, mas eu preciso de sua ajuda reunindo-os! * Destrava um item de pesquisa botânica na conclusão primeira vez."
+      "Translation": "Estou confiante as plantas nativas para o lixo vai nos ajudar a crescer o nosso árvores antigas, mas eu preciso de sua ajuda reunindo-os! * Destrava um item de pesquisa botânica na conclusão primeira vez."
     },
     "quest-prickly-predicament-notable-rewards": {
       "Key": "quest-prickly-predicament-notable-rewards",
@@ -12965,7 +12965,7 @@ export default {
     },
     "quest-prickly-predicament-tips": {
       "Key": "quest-prickly-predicament-tips",
-      "Translation": "De Central Camp (6) subir a videira diretamente à esquerda fora e ir para o norte para encontrar 3 Rodada Cactus, mais um é apenas a norte da ponte rochosa e outra a leste da plataforma cactos povoada. (A Diablos gostam de passear setor 6) de sudoeste Camp (1), vá para o sul-leste para encontrar um cacto Redonda, em seguida, siga para o sul do setor 9 para obter uma outra. Por último, 3 ou 4 pontos de desova pode ser encontrada no topo das rochas pouco antes do lago no setor 10."
+      "Translation": "De Central Camp (6) subir a vinha diretamente do lado de fora esquerda e ir para o norte para encontrar 3 Rodada Cactus, um é mais a norte da ponte rochosa e outra a leste da plataforma povoada cactos. (A Diablos como para passear setor 6) de sudoeste Camp (1), vá para o sul-leste para encontrar um cacto Redonda, em seguida, siga para o sul do setor 9 para obter uma outra. Por último, 3 ou 4 pontos de desova pode ser encontrada no topo das rochas pouco antes do lago no setor 10."
     },
     "quest-pukei-pukei-ambush": {
       "Key": "quest-pukei-pukei-ambush",
@@ -12973,7 +12973,7 @@ export default {
     },
     "quest-pukei-pukei-ambush-description": {
       "Key": "quest-pukei-pukei-ambush-description",
-      "Translation": "Uma mudança importante no ecossistema está dirigindo monstros de seus habitats naturais. Cabeça para o Wildspire Resíduos e começar a sua investigação do invadindo Pukei-Pukei ASAP!"
+      "Translation": "Uma mudança importante no ecossistema está dirigindo monstros de seus habitats naturais. Dirija-se ao Wildspire Resíduos e começar a sua investigação do invadindo Pukei-Pukei ASAP!"
     },
     "quest-pukei-pukei-ambush-notes": {
       "Key": "quest-pukei-pukei-ambush-notes",
@@ -13009,7 +13009,7 @@ export default {
     },
     "quest-rathalos-rematch-description": {
       "Key": "quest-rathalos-rematch-description",
-      "Translation": "Nós começamos um relatório perturbador de outro Rathian excepcionalmente poderosa na floresta antiga. Deixe que a besta vermelha sei que realmente fica no topo da cadeia alimentar aqui!"
+      "Translation": "Nós começamos um relatório perturbador de outro Rathian excepcionalmente poderosa na floresta antiga. Deixe esse know besta vermelha que realmente fica no topo da cadeia alimentar aqui!"
     },
     "quest-rathalos-rematch-notes": {
       "Key": "quest-rathalos-rematch-notes",
@@ -13017,7 +13017,7 @@ export default {
     },
     "quest-redefining-the-power-couple": {
       "Key": "quest-redefining-the-power-couple",
-      "Translation": "Redefinindo o \"Casal Power\""
+      "Translation": "Redefinindo o \"Power Casal\""
     },
     "quest-redefining-the-power-couple-description": {
       "Key": "quest-redefining-the-power-couple-description",
@@ -13033,7 +13033,7 @@ export default {
     },
     "quest-relish-the-moment-description": {
       "Key": "quest-relish-the-moment-description",
-      "Translation": "Nós descobrimos uma Deviljho insanamente feroz! Parece que a causa de seu mau humor é a dieta Streamstones. Aplacar a besta, e tomar essas Streamstones por si mesmo!"
+      "Translation": "Nós descobrimos uma feroz insanamente Deviljho! Parece que a causa de seu mau humor é a dieta Streamstones. Aplacar a besta, e tomar essas Streamstones por si mesmo!"
     },
     "quest-rock-n-roll-recess": {
       "Key": "quest-rock-n-roll-recess",
@@ -13057,11 +13057,11 @@ export default {
     },
     "quest-royal-relocation-description": {
       "Key": "quest-royal-relocation-description",
-      "Translation": "As amostras que eu preciso para continuar ma pesquisa Árvore antiga estão bem debaixo de um ninho de Rathian. Talvez você pode movê-la para mim?"
+      "Translation": "As amostras que eu preciso ainda ma pesquisa Árvore antiga estão bem debaixo de um ninho de Rathian. Talvez você pode movê-la para mim?"
     },
     "quest-royal-relocation-tips": {
       "Key": "quest-royal-relocation-tips",
-      "Translation": "Não se preocupe com proteção veneno se você não pode impedi-lo completamente, basta trazer Antídoto com você e usar fogo equipamentos resistentes. Iniciar a partir do sudoeste Camp (1), dirigir para o norte para a floresta Setor 2 para encontrar o alvo. Rathian é ainda suscetível a veneno apesar de seus ataques de veneno de modo que o Poisoncup no setor 3 podem ser usados. Seu ninho está no outro lado do mapa no setor 12, rápida viagem a Camp Oriental (11) e subir as videiras depois que a água."
+      "Translation": "Não se preocupe com proteção veneno se você não pode impedi-lo completamente, basta trazer Antídoto com você e usar fogo equipamentos resistentes. Iniciar a partir do sudoeste Camp (1), norte de cabeça para a floresta Setor 2 para encontrar o alvo. Rathian é ainda suscetível a veneno apesar de seus ataques de veneno de modo que o Poisoncup no setor 3 podem ser usados. Seu ninho está no outro lado do mapa no setor 12, rápida viagem a Camp Oriental (11) e subir as videiras depois que a água."
     },
     "quest-rrrrrumble-in-the-waste": {
       "Key": "quest-rrrrrumble-in-the-waste",
@@ -13069,7 +13069,7 @@ export default {
     },
     "quest-rrrrrumble-in-the-waste-conditions": {
       "Key": "quest-rrrrrumble-in-the-waste-conditions",
-      "Translation": "dada pelo Mestre terceira frota após a busca começando com A Taste Formigueiro"
+      "Translation": "dada pela Terceira Frota Mestre, depois da partida busca com A Formigueiro Taste"
     },
     "quest-rrrrrumble-in-the-waste-description": {
       "Key": "quest-rrrrrumble-in-the-waste-description",
@@ -13077,11 +13077,11 @@ export default {
     },
     "quest-rrrrrumble-in-the-waste-notable-rewards": {
       "Key": "quest-rrrrrumble-in-the-waste-notable-rewards",
-      "Translation": "Impulsionador de afinidade, Astera Beer ingrediente"
+      "Translation": "Affinity Booster, ingrediente Astera Beer"
     },
     "quest-rrrrrumble-in-the-waste-notes": {
       "Key": "quest-rrrrrumble-in-the-waste-notes",
-      "Translation": "Cadeia de busca: A Taste Formigueiro, de Mestre Toast Entrega, presos em suas maneiras, uma fermentação Entrega-vomitando fogo, um site Sore, RRRRRumble no desperdício! -Alto escalão monstros têm mais HP, bater mais forte, mas agir como seu baixo-Rank homólogo. Subespécies compartilham a maioria de seus traços de contrapartida, mas são geralmente mais agressivo ou usar táticas diferentes."
+      "Translation": "Busca Cadeia: A Formigueiro Taste, de Mestre Toast Entrega, presos em suas maneiras, um fogo-vomitando Brew entrega, um site Sore, RRRRRumble no desperdício! -Alto escalão monstros têm mais HP, bater mais forte, mas agir como seu baixo-Rank homólogo. Subespécies compartilham a maioria de seus traços de contrapartida, mas são geralmente mais agressivo ou usar táticas diferentes."
     },
     "quest-ruler-of-the-azure-skies": {
       "Key": "quest-ruler-of-the-azure-skies",
@@ -13113,15 +13113,15 @@ export default {
     },
     "quest-scatternut-shortage-description": {
       "Key": "quest-scatternut-shortage-description",
-      "Translation": "A Pukei-Pukei deve ter aparecido porque está ficando mais e mais difícil reunir scatternuts! Não podemos estudar theem se os únicos espécimes que podemos reunir estão cobertos de veneno!"
+      "Translation": "A Pukei-Pukei deve ter aparecido porque está ficando mais e mais difícil reunir scatternuts! Não podemos estudar theem se a única espécimes que podemos reunir estão cobertos de veneno!"
     },
     "quest-scrapping-with-the-shamos": {
       "Key": "quest-scrapping-with-the-shamos",
-      "Translation": "Demolição com o Shamos"
+      "Translation": "Demolição com as Shamos"
     },
     "quest-scrapping-with-the-shamos-description": {
       "Key": "quest-scrapping-with-the-shamos-description",
-      "Translation": "Estou sendo bombardeados com pedidos deixados n' certo para as coisas que eu estou usando, mas eu vou precisar de alguns materiais especiais para atender à demanda. Essa é a sua sugestão, Hunter. Você sabe o que fazer."
+      "Translation": "Estou sendo bombardeados com pedidos deixou n' certo para as coisas que eu estou usando, mas eu vou precisar de alguns materiais especiais para atender à demanda. Essa é a sua sugestão, Hunter. Você sabe o que fazer."
     },
     "quest-scratching-the-itch": {
       "Key": "quest-scratching-the-itch",
@@ -13129,7 +13129,7 @@ export default {
     },
     "quest-scratching-the-itch-description": {
       "Key": "quest-scratching-the-itch-description",
-      "Translation": "Esta manhã eu acordei com uma epifania brilhante! Eu tenho uma idéia para algo cada caçador precisa após um longo dia no campo ... backscratchers Odogaron!"
+      "Translation": "Esta manhã eu acordei com uma epifania brilhante! Eu tenho uma idéia para algo cada necessidades caçadores após um longo dia no campo ... backscratchers Odogaron!"
     },
     "quest-showdown-the-muck-and-the-maul": {
       "Key": "quest-showdown-the-muck-and-the-maul",
@@ -13137,7 +13137,7 @@ export default {
     },
     "quest-showdown-the-muck-and-the-maul-conditions": {
       "Key": "quest-showdown-the-muck-and-the-maul-conditions",
-      "Translation": "Hunt (nível de ameaça 1 para desbloquear) monstros temperado 5 diferentes"
+      "Translation": "Caça 5 monstros diferentes temperado (nível de ameaça 1 para destravar)"
     },
     "quest-showdown-the-muck-and-the-maul-description": {
       "Key": "quest-showdown-the-muck-and-the-maul-description",
@@ -13149,7 +13149,7 @@ export default {
     },
     "quest-sinister-shadows-in-the-swamp": {
       "Key": "quest-sinister-shadows-in-the-swamp",
-      "Translation": "As sombras sinistras no Pântano"
+      "Translation": "Sinistras sombras no Pântano"
     },
     "quest-sinister-shadows-in-the-swamp-description": {
       "Key": "quest-sinister-shadows-in-the-swamp-description",
@@ -13165,7 +13165,7 @@ export default {
     },
     "quest-snatch-the-snatcher-tips": {
       "Key": "quest-snatch-the-snatcher-tips",
-      "Translation": "Iniciar a partir do sudoeste Camp (1), tomar o EZ Tranq bomba e EZ Choque Armadilha na caixa de fonte, em seguida, vá para o leste e norte do sector 4. A meta será vindo do norte, lutar até que comece a coxear ou tem um ícone de caveira piscar no mini-mapa. Vai fugir para seu ninho para comer um ovo, use 2 ou 3 EZ Tranq bomba sobre ele enquanto ele come, em seguida, usar o Choque Armadilha EZ para capturá-lo."
+      "Translation": "Iniciar a partir do sudoeste Camp (1), tomar a armadilha EZ Tranq bomba e EZ Choque na caixa de fonte, em seguida, vá para o leste e norte do sector 4. A meta será vindo do norte, luta até que comece a coxear ou tem um ícone de caveira piscar no mini-mapa. Vai fugir para seu ninho para comer um ovo, use 2 ou 3 EZ Tranq bomba sobre ele enquanto ele come, em seguida, usar o Armadilha EZ Choque para capturá-lo."
     },
     "quest-snow-cherry-blossoms": {
       "Key": "quest-snow-cherry-blossoms",
@@ -13173,7 +13173,7 @@ export default {
     },
     "quest-snow-cherry-blossoms-description": {
       "Key": "quest-snow-cherry-blossoms-description",
-      "Translation": "Ei, me deparei com um par de onsters verdadeiramente terríveis nas Highlands Coral. Pensei que você talvez estaria interessado! (Os pontos de RH Bonus recompensado após a conclusão.)"
+      "Translation": "Ei, me deparei com um par de verdadeiramente aterrador onsters nas Highlands Coral. Pensei que você talvez estaria interessado! (Os pontos de RH Bonus recompensado após a conclusão.)"
     },
     "quest-sorry-youre-not-invited": {
       "Key": "quest-sorry-youre-not-invited",
@@ -13185,7 +13185,7 @@ export default {
     },
     "quest-sorry-youre-not-invited-tips": {
       "Key": "quest-sorry-youre-not-invited-tips",
-      "Translation": "Iniciar a partir de Southern Camp (1), o norte-oeste no setor 3, em seguida, 9 e 5, se você não consegue encontrar o alvo que vai ser no setor 8. A luta pode se mover para o setor 4, em algum momento, onde o azul solo é mole. O Paolumu pode bater no chão e criar uma onda de choque que te faz perder o equilíbrio por alguns segundos, mas impressionante o Paolumu acima essa área vai realmente prendê-lo por um bom período de tempo. Seu ninho é no setor 9, dentro da estrutura gigante, ele vai muitas vezes voar ao redor da área, é só esperar para ele voltar."
+      "Translation": "Comece de Camp Sul (1), o norte-oeste no setor 3, em seguida, 9 e 5, se você não consegue encontrar o alvo que vai ser no setor 8. A luta pode se mover para o setor 4, em algum momento, onde o azul solo é mole. O Paolumu pode bater no chão e criar uma onda de choque que te faz perder o equilíbrio por alguns segundos, mas impressionante o Paolumu acima essa área vai realmente prendê-lo por um bom período de tempo. Seu ninho é no setor 9, dentro da estrutura gigante, ele vai muitas vezes voar ao redor da área, é só esperar para ele voltar."
     },
     "quest-special-arena-anjanath": {
       "Key": "quest-special-arena-anjanath",
@@ -13193,11 +13193,11 @@ export default {
     },
     "quest-special-arena-anjanath-tips": {
       "Key": "quest-special-arena-anjanath-tips",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-barroth": {
       "Key": "quest-special-arena-barroth",
-      "Translation": "Arena especial: Barroth"
+      "Translation": "Especial Arena: Barroth"
     },
     "quest-special-arena-barroth-description": {
       "Key": "quest-special-arena-barroth-description",
@@ -13205,11 +13205,11 @@ export default {
     },
     "quest-special-arena-barroth-tips": {
       "Key": "quest-special-arena-barroth-tips",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-diablos": {
       "Key": "quest-special-arena-diablos",
-      "Translation": "Arena especial: Diablos"
+      "Translation": "Arena Especial: Diablos"
     },
     "quest-special-arena-diablos-description": {
       "Key": "quest-special-arena-diablos-description",
@@ -13217,15 +13217,15 @@ export default {
     },
     "quest-special-arena-diablos-tips": {
       "Key": "quest-special-arena-diablos-tips",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-hr-anjanath": {
       "Key": "quest-special-arena-hr-anjanath",
-      "Translation": "Arena especial: Anjanath HR"
+      "Translation": "Arena Especial: HR Anjanath"
     },
     "quest-special-arena-hr-anjanath-notes": {
       "Key": "quest-special-arena-hr-anjanath-notes",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-hr-azure-rathalos": {
       "Key": "quest-special-arena-hr-azure-rathalos",
@@ -13233,7 +13233,7 @@ export default {
     },
     "quest-special-arena-hr-azure-rathalos-notes": {
       "Key": "quest-special-arena-hr-azure-rathalos-notes",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-hr-barroth": {
       "Key": "quest-special-arena-hr-barroth",
@@ -13241,7 +13241,7 @@ export default {
     },
     "quest-special-arena-hr-barroth-notes": {
       "Key": "quest-special-arena-hr-barroth-notes",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-hr-black-diablos": {
       "Key": "quest-special-arena-hr-black-diablos",
@@ -13249,15 +13249,15 @@ export default {
     },
     "quest-special-arena-hr-black-diablos-notes": {
       "Key": "quest-special-arena-hr-black-diablos-notes",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-hr-diablos": {
       "Key": "quest-special-arena-hr-diablos",
-      "Translation": "Arena especial: Diablos de RH"
+      "Translation": "Arena Especial: HR Diablos"
     },
     "quest-special-arena-hr-diablos-notes": {
       "Key": "quest-special-arena-hr-diablos-notes",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-hr-legiana": {
       "Key": "quest-special-arena-hr-legiana",
@@ -13265,7 +13265,7 @@ export default {
     },
     "quest-special-arena-hr-legiana-notes": {
       "Key": "quest-special-arena-hr-legiana-notes",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-hr-odogaron": {
       "Key": "quest-special-arena-hr-odogaron",
@@ -13273,7 +13273,7 @@ export default {
     },
     "quest-special-arena-hr-odogaron-notes": {
       "Key": "quest-special-arena-hr-odogaron-notes",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-hr-paolumu": {
       "Key": "quest-special-arena-hr-paolumu",
@@ -13281,7 +13281,7 @@ export default {
     },
     "quest-special-arena-hr-paolumu-notes": {
       "Key": "quest-special-arena-hr-paolumu-notes",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-hr-pink-rathian": {
       "Key": "quest-special-arena-hr-pink-rathian",
@@ -13293,7 +13293,7 @@ export default {
     },
     "quest-special-arena-hr-pukei-pukei-notes": {
       "Key": "quest-special-arena-hr-pukei-pukei-notes",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-hr-radobaan": {
       "Key": "quest-special-arena-hr-radobaan",
@@ -13301,7 +13301,7 @@ export default {
     },
     "quest-special-arena-hr-radobaan-notes": {
       "Key": "quest-special-arena-hr-radobaan-notes",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-hr-rathalos": {
       "Key": "quest-special-arena-hr-rathalos",
@@ -13313,15 +13313,15 @@ export default {
     },
     "quest-special-arena-hr-rathalos-notes": {
       "Key": "quest-special-arena-hr-rathalos-notes",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-hr-rathian": {
       "Key": "quest-special-arena-hr-rathian",
-      "Translation": "Arena especial: Rathian HR"
+      "Translation": "Arena Especial: HR Rathian"
     },
     "quest-special-arena-hr-rathian-notes": {
       "Key": "quest-special-arena-hr-rathian-notes",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-hr-tobi-kadachi": {
       "Key": "quest-special-arena-hr-tobi-kadachi",
@@ -13329,7 +13329,7 @@ export default {
     },
     "quest-special-arena-hr-tobi-kadachi-notes": {
       "Key": "quest-special-arena-hr-tobi-kadachi-notes",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-hr-uragaan": {
       "Key": "quest-special-arena-hr-uragaan",
@@ -13337,7 +13337,7 @@ export default {
     },
     "quest-special-arena-hr-uragaan-notes": {
       "Key": "quest-special-arena-hr-uragaan-notes",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-legiana": {
       "Key": "quest-special-arena-legiana",
@@ -13345,15 +13345,15 @@ export default {
     },
     "quest-special-arena-legiana-tips": {
       "Key": "quest-special-arena-legiana-tips",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-odogaron": {
       "Key": "quest-special-arena-odogaron",
-      "Translation": "Arena especial: Odogaron"
+      "Translation": "Especial Arena: Odogaron"
     },
     "quest-special-arena-odogaron-tips": {
       "Key": "quest-special-arena-odogaron-tips",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-paolumu": {
       "Key": "quest-special-arena-paolumu",
@@ -13365,7 +13365,7 @@ export default {
     },
     "quest-special-arena-paolumu-tips": {
       "Key": "quest-special-arena-paolumu-tips",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-pukei-pukei": {
       "Key": "quest-special-arena-pukei-pukei",
@@ -13373,15 +13373,15 @@ export default {
     },
     "quest-special-arena-pukei-pukei-tips": {
       "Key": "quest-special-arena-pukei-pukei-tips",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-radobaan": {
       "Key": "quest-special-arena-radobaan",
-      "Translation": "Arena especial: Radobaan"
+      "Translation": "Especial Arena: Radobaan"
     },
     "quest-special-arena-radobaan-tips": {
       "Key": "quest-special-arena-radobaan-tips",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-rathalos": {
       "Key": "quest-special-arena-rathalos",
@@ -13389,7 +13389,7 @@ export default {
     },
     "quest-special-arena-rathalos-tips": {
       "Key": "quest-special-arena-rathalos-tips",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-rathian": {
       "Key": "quest-special-arena-rathian",
@@ -13397,7 +13397,7 @@ export default {
     },
     "quest-special-arena-rathian-tips": {
       "Key": "quest-special-arena-rathian-tips",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-special-arena-tobi-kadachi": {
       "Key": "quest-special-arena-tobi-kadachi",
@@ -13405,11 +13405,11 @@ export default {
     },
     "quest-special-arena-tobi-kadachi-description": {
       "Key": "quest-special-arena-tobi-kadachi-description",
-      "Translation": "Um novo desafiante: Tobi-Kadachi, o que pula o lagarto, o mestre mordida! Ele vai limpar o seu relógio com choques trovão! Pense que você pode ir de igual para igual - er, de igual para garra com este lançador pesado !?"
+      "Translation": "Um novo desafiante: Tobi-Kadachi, o que pula o lagarto, o mestre mordida! Ele vai limpar o seu relógio com trovão choques! Pense que você pode ir de igual para igual - er, de igual para garra com este lançador pesado !?"
     },
     "quest-special-arena-tobi-kadachi-tips": {
       "Key": "quest-special-arena-tobi-kadachi-tips",
-      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez o jogador capturar seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
+      "Translation": "Arena especial missões pit o jogador contra uma seleção de grandes monstros em um mapa único. O jogador pode usar Cannon, Balistas, uma armadilha pedra caindo e depois de algum ponto da história, o Dragonslayer mortal para ajudá-los a lutar contra seus inimigos. Estas missões aparecer uma vez a captura jogador seu primeiro monstro de uma dada espécie e é de uma alta o suficiente Hunter Rank."
     },
     "quest-stirrings-from-the-grave": {
       "Key": "quest-stirrings-from-the-grave",
@@ -13445,7 +13445,7 @@ export default {
     },
     "quest-stuck-in-their-ways-notes": {
       "Key": "quest-stuck-in-their-ways-notes",
-      "Translation": "Busca Cadeia: A Taste Formigueiro, a entrega do brinde de Mestre, presos em suas maneiras, um fogo-vomitando Brew entrega, um site Sore, RRRRRumble no desperdício! Mesmo como uma experiência de arrepiar os cabelos, mas precisa para capturar o alvo."
+      "Translation": "Busca Cadeia: A Formigueiro Taste, a entrega do brinde de Mestre, presos em suas maneiras, um fogo-vomitando Brew entrega, um site Sore, RRRRRumble no desperdício! Mesmo que um Hair-Raising Experience, mas necessidade de capturar o alvo."
     },
     "quest-talons-of-ire-and-ice": {
       "Key": "quest-talons-of-ire-and-ice",
@@ -13453,7 +13453,7 @@ export default {
     },
     "quest-talons-of-ire-and-ice-description": {
       "Key": "quest-talons-of-ire-and-ice-description",
-      "Translation": "Há um ponto que eu estou certo esconde o segredo para o crescimento de árvores antigas. Infelizmente, dois monstros desagradáveis ​​estão patrulhando a área. * Destrava um slot de pesquisa botânica na conclusão primeira vez."
+      "Translation": "Há um ponto que eu sou determinados couros o segredo para o crescimento de árvores antigas. Infelizmente, dois monstros desagradáveis ​​estão patrulhando a área. * Destrava um slot de pesquisa botânica na conclusão primeira vez."
     },
     "quest-talons-of-ire-and-ice-notes": {
       "Key": "quest-talons-of-ire-and-ice-notes",
@@ -13497,15 +13497,15 @@ export default {
     },
     "quest-the-current-situation-tips": {
       "Key": "quest-the-current-situation-tips",
-      "Translation": "Iniciar a partir Nordeste Camp (11), certifique-se de não ter resistência trovão negativo e começar indo para o sul do setor 5. (Olhe ao redor em caso de uma rara desova Floresta Pteryx) Quando chegar ao Wiggly Litchi vá para o oeste até ver uma alta videira -covered parede, neste ponto que pode cruzar com o alvo. Ele vai fugir para a área aberta próxima ao ser atacada então a luta vai começar. Se você perder a noção do que quando ele vai voltar para o seu ninho, volte para a parede da videira, subir e siga para oeste quando você pode."
+      "Translation": "Iniciar a partir Nordeste Camp (11), certifique-se de não ter resistência trovão negativo e começar indo para o sul do setor 5. (Olhe ao redor em caso de uma rara desova Floresta Pteryx) Quando chegar ao Go West Wiggly Litchi até ver uma alta videira -covered parede, neste ponto que pode cruzar com o alvo. Ele vai fugir para a área aberta próxima ao ser atacada então a luta vai começar. Se você perder a noção do que quando ele vai voltar para o seu ninho, volte para a parede da videira, subir e oeste cabeça quando você pode."
     },
     "quest-the-deathly-quiet-curtain": {
       "Key": "quest-the-deathly-quiet-curtain",
-      "Translation": "A Cortina de Silêncio Deathly"
+      "Translation": "A cortina de silêncio mortal"
     },
     "quest-the-deathly-quiet-curtain-description": {
       "Key": "quest-the-deathly-quiet-curtain-description",
-      "Translation": "As coisas realmente terríveis são aqueles que dormem em silêncio, não? Mas o que poderia ser? A terceira frota exorta-o a pressionar, para levantar a cortina fora deste mistério e alimentar a nossa obsessão."
+      "Translation": "As coisas realmente horríveis são os que dormem em silêncio, não? Mas o que poderia ser? A terceira frota exorta-vos a imprensa sobre, para levantar a cortina fora deste mistério e alimentar a nossa obsessão."
     },
     "quest-the-eater-of-elders": {
       "Key": "quest-the-eater-of-elders",
@@ -13521,7 +13521,7 @@ export default {
     },
     "quest-the-encroaching-anjanath-description": {
       "Key": "quest-the-encroaching-anjanath-description",
-      "Translation": "Como estamos a preparar-se para capturar Zorá Magdaros, precisamos garantir Astera tanto quanto pudermos. É demasiado de um risco de ter que Anjanath de roaming tão perto de base."
+      "Translation": "Como estamos preparando para captura de Zorá Magdaros, precisamos garantir Astera tanto quanto pudermos. É demasiado de um risco de ter que Anjanath de roaming tão perto de base."
     },
     "quest-the-eye-of-the-storm": {
       "Key": "quest-the-eye-of-the-storm",
@@ -13541,7 +13541,7 @@ export default {
     },
     "quest-the-food-chain-dominator": {
       "Key": "quest-the-food-chain-dominator",
-      "Translation": "O Dominator Cadeia Alimentar"
+      "Translation": "A Cadeia Alimentar Dominator"
     },
     "quest-the-food-chain-dominator-description": {
       "Key": "quest-the-food-chain-dominator-description",
@@ -13549,7 +13549,7 @@ export default {
     },
     "quest-the-food-chain-dominator-notes": {
       "Key": "quest-the-food-chain-dominator-notes",
-      "Translation": "Você vai obter essa busca se você tiver concluído até encontrar um Rathian em sua história principal (Quests atribuição). Para acionar a quest, fale com o estudioso de pé pelo Conselho Quest em Tradeyard do Astera. Ele terá um marcador azul especial que envia-lo em sua busca."
+      "Translation": "Você vai obter essa busca se você tiver concluído até encontrar um Rathian em sua principal Story (Atribuição Quests). Para acionar a quest, fale com o estudioso de pé pelo Conselho Quest em Tradeyard do Astera. Ele terá um marcador azul especial que envia-lo em sua busca."
     },
     "quest-the-food-chain-dominator-tips": {
       "Key": "quest-the-food-chain-dominator-tips",
@@ -13561,7 +13561,7 @@ export default {
     },
     "quest-the-great-glutton-description": {
       "Key": "quest-the-great-glutton-description",
-      "Translation": "Tenho certeza que agora você já viu o caminho Grandes Jagras engolir sua presa inteira. Um foi visto novamente na floresta. Tirá-lo antes de um dos meus pesquisadores fica devorado!"
+      "Translation": "Tenho certeza que agora você já viu a maneira Grande Jagras engolir sua presa inteira. Um tem sido visto novamente na floresta. Tirá-lo antes de um dos meus pesquisadores fica devorado!"
     },
     "quest-the-great-glutton-tips": {
       "Key": "quest-the-great-glutton-tips",
@@ -13625,11 +13625,11 @@ export default {
     },
     "quest-the-names-lavasioth": {
       "Key": "quest-the-names-lavasioth",
-      "Translation": "O Lavsioth do nome!"
+      "Translation": "Lavsioth do nome!"
     },
     "quest-the-names-lavasioth-description": {
       "Key": "quest-the-names-lavasioth-description",
-      "Translation": "Yo, nós fomos convidados a pesquisar um monstro que ninguém nunca quer pesquisar! Você sabe o que, aquele grande peixe disquete que gosta de estar em torno da lava! Sim, essa! (recompensas bilhete especial)"
+      "Translation": "Yo, nós fomos convidados a pesquisar um monstro que ninguém nunca quer pesquisa! Você conhece esse, que grande disquete de peixe que gosta de estar em torno da lava! Sim, essa! (recompensas bilhete especial)"
     },
     "quest-the-pain-from-gains": {
       "Key": "quest-the-pain-from-gains",
@@ -13645,7 +13645,7 @@ export default {
     },
     "quest-the-pain-from-gains-tips": {
       "Key": "quest-the-pain-from-gains-tips",
-      "Translation": "Iniciar a partir do sudoeste Camp (1), (Imperador Hopper, portador Ant e Pastor Hare pode ser encontrado fora do acampamento) travessia leste de cabeça pelo setor 4 e 9 para chegar a um pequeno lago no setor 10. Você encontrará o Gajau neste lago, você pode atraí-los em terra firme para torná-los impotentes. Verifique a árvore morta em cima de uma rocha à direita antes do lago para talvez encontrar o raro Prism Hercudrome."
+      "Translation": "Iniciar a partir do sudoeste Camp (1), (Imperador Hopper, portador Ant e Pastor Hare pode ser encontrado fora do acampamento) de cabeça cruzamento east pelo setor 4 e 9 para chegar a um pequeno lago no setor 10. Você encontrará o Gajau neste lago, você pode atraí-los em terra firme para torná-los impotentes. Verifique a árvore morta em cima de uma rocha à direita antes do lago para talvez encontrar o raro Prism Hercudrome."
     },
     "quest-the-piscine-problem": {
       "Key": "quest-the-piscine-problem",
@@ -13657,7 +13657,7 @@ export default {
     },
     "quest-the-piscine-problem-tips": {
       "Key": "quest-the-piscine-problem-tips",
-      "Translation": "Iniciar a partir do sudoeste Camp (1) e vá para o sector 10 para encontrar o alvo no lago. Manter um olho sobre o Gajau na água, enquanto lutam, eles gostam de cobrar de forma aleatória. Ele pode fugir para o setor 4 ou 9 e vai voltar a 10 para dormir."
+      "Translation": "Iniciar a partir do sudoeste Camp (1) e vá para o sector 10 para encontrar o alvo no lago. Manter um olho sobre o Gajau na água enquanto luta, eles gostam de cobrar de forma aleatória. Ele pode fugir para o setor 4 ou 9 e vai voltar para 10 a dormir."
     },
     "quest-the-poison-posse": {
       "Key": "quest-the-poison-posse",
@@ -13697,7 +13697,7 @@ export default {
     },
     "quest-the-sapphire-stars-guidance-description": {
       "Key": "quest-the-sapphire-stars-guidance-description",
-      "Translation": "Para o caçador sem igual, eu ofereço-lhe esta missão final. Voltar para Recess da pessoa idosa e enfrentar ataque dos idosos. Use todos ao seu alcance para provar a si mesmo mestre do Novo Mundo."
+      "Translation": "Para o caçador sem igual, eu ofereço-lhe esta missão final. Voltar à da pessoa idosa Recess e enfrentar os anciãos Onslaught. Use todos ao seu alcance para provar a si mesmo dominar do Novo Mundo."
     },
     "quest-the-sapphire-stars-guidance-notable-rewards": {
       "Key": "quest-the-sapphire-stars-guidance-notable-rewards",
@@ -13705,7 +13705,7 @@ export default {
     },
     "quest-the-sapphire-stars-guidance-notes": {
       "Key": "quest-the-sapphire-stars-guidance-notes",
-      "Translation": "Os alvos gerar um após o outro, deixando o resto jogador entre encontros. Kushala Daora é o primeiro a desova no sector 3, então Teostra no sector 12 e, por último Nergigante no sector 14."
+      "Translation": "um dos alvos de desova após o outro, deixando o resto jogador entre encontros. Kushala Daora é o primeiro a desova no sector 3, então Teostra no sector 12 e, por último Nergigante no sector 14."
     },
     "quest-the-scorn-of-the-sun": {
       "Key": "quest-the-scorn-of-the-sun",
@@ -13713,7 +13713,7 @@ export default {
     },
     "quest-the-scorn-of-the-sun-description": {
       "Key": "quest-the-scorn-of-the-sun-description",
-      "Translation": "Quando eu lutei pela primeira vez um Teostra volta no Velho Mundo, o meu medo tomou conta de mim, mas ele me deu o fogo para lutar. Mas agora eu percebi que é calma, não tenha medo, que você precisa para matar ele."
+      "Translation": "Quando eu lutei pela primeira vez uma volta Teostra no Velho Mundo, o meu medo tomou conta de mim, mas ele me deu o fogo para lutar. Mas agora eu percebi que é calma, não tenha medo, que você precisa para matar ele."
     },
     "quest-the-sleeping-sylvan-queen": {
       "Key": "quest-the-sleeping-sylvan-queen",
@@ -13737,7 +13737,7 @@ export default {
     },
     "quest-the-white-winds-of-the-new-world": {
       "Key": "quest-the-white-winds-of-the-new-world",
-      "Translation": "Os ventos brancos do Novo Mundo"
+      "Translation": "The White Winds do Novo Mundo"
     },
     "quest-the-white-winds-of-the-new-world-conditions": {
       "Key": "quest-the-white-winds-of-the-new-world-conditions",
@@ -13745,15 +13745,15 @@ export default {
     },
     "quest-the-white-winds-of-the-new-world-description": {
       "Key": "quest-the-white-winds-of-the-new-world-description",
-      "Translation": "Para o caçador que conquistou toda investigação, eu ofereço esta, a busca final. Entrar na arena especial e assumir o Novo Mundo. Use tudo o que está diante de você, e reivindicar glória."
+      "Translation": "Para o caçador que conquistou toda investigação, eu ofereço esta, a busca final. Entrar na arena especial e assumir o Novo Mundo. Use tudo o que está diante de vós e reivindicação glória."
     },
     "quest-the-white-winds-of-the-new-world-notable-rewards": {
       "Key": "quest-the-white-winds-of-the-new-world-notable-rewards",
-      "Translation": "Arco-íris pigmento armadura cor, Ticket Comissão de Pesquisa"
+      "Translation": "Arco-íris pigmento armadura cor, Research Ticket Comissão"
     },
     "quest-the-white-winds-of-the-new-world-notes": {
       "Key": "quest-the-white-winds-of-the-new-world-notes",
-      "Translation": "Apenas o Legiana está em no início da arena, o Odogaron vem em segundo, então os Diablos e, finalmente, o Rathalos. temporizador do Spawn / condições ainda de saber. Depois de concluir esta quest, fale com o comandante para desbloquear diálogos com todos no Astera e a base de investigação"
+      "Translation": "Apenas o Legiana está em no início da arena, o Odogaron vem em segundo, então os Diablos e finalmente os Rathalos. temporizador do Spawn / condições ainda de saber. Depois de completar esta missão, falar com o comandante para diálogos de desbloqueio com todos em Astera e a base de investigação"
     },
     "quest-the-winds-of-wrath-bite-deep": {
       "Key": "quest-the-winds-of-wrath-bite-deep",
@@ -13761,7 +13761,7 @@ export default {
     },
     "quest-the-winds-of-wrath-bite-deep-description": {
       "Key": "quest-the-winds-of-wrath-bite-deep-description",
-      "Translation": "Temos um Kushala Daora correndo em volta, tearin 'as coisas. Parece que ele foi expulso de seu território. A pergunta é, o que fez o Kickin'? Tempo para investigar!"
+      "Translation": "Temos um Kushala Daora correndo 'redondas, tearin' as coisas. Parece que ele foi expulso de seu território. A pergunta é, o que fez o Kickin'? Tempo para investigar!"
     },
     "quest-this-is-how-revolts-start": {
       "Key": "quest-this-is-how-revolts-start",
@@ -13777,7 +13777,7 @@ export default {
     },
     "quest-thunderous-rumble-in-the-highlands-description": {
       "Key": "quest-thunderous-rumble-in-the-highlands-description",
-      "Translation": "Essa busca procura apenas aqueles com uma chama inextinguível em seu peito. Para fazer as Highlands Coral e investigar a besta envolta em um raio. Além dela reside verdadeira glória."
+      "Translation": "Essa busca procura apenas aqueles com uma chama inextinguível em seu peito. Faça para a Coral Highlands e investigar a besta envolta em um raio. Além dela reside verdadeira glória."
     },
     "quest-tickled-pink": {
       "Key": "quest-tickled-pink",
@@ -13785,7 +13785,7 @@ export default {
     },
     "quest-tickled-pink-description": {
       "Key": "quest-tickled-pink-description",
-      "Translation": "Um poderoso Anjanath de foi avistado! Seu tipo é o ouro - rosa -? Padrão para monstros do Novo Mundo. Podemos' deixar esta chance de uma amostra ideal escapar. Vá caçar o mais rápido possível!"
+      "Translation": "Um poderoso Anjanath de foi avistado! Seu tipo é o ouro - rosa -? Padrão para monstros do Novo Mundo. Podemos' deixar esta chance de um deslizamento de exemplo ideal de distância. Vai caçá-lo o mais rápido possível!"
     },
     "quest-tickled-pink-notable-rewards": {
       "Key": "quest-tickled-pink-notable-rewards",
@@ -13809,11 +13809,11 @@ export default {
     },
     "quest-todays-special-hunter-flambe": {
       "Key": "quest-todays-special-hunter-flambe",
-      "Translation": "Special de hoje: Hunter Flambé"
+      "Translation": "Especial de hoje: Hunter Flambé"
     },
     "quest-todays-special-hunter-flambe-conditions": {
       "Key": "quest-todays-special-hunter-flambe-conditions",
-      "Translation": "Complete a missão especial The Chain Dominator Food"
+      "Translation": "Complete a missão especial A Cadeia Alimentar Dominator"
     },
     "quest-todays-special-hunter-flambe-description": {
       "Key": "quest-todays-special-hunter-flambe-description",
@@ -13833,11 +13833,11 @@ export default {
     },
     "quest-trespassing-troublemaker": {
       "Key": "quest-trespassing-troublemaker",
-      "Translation": "Troublemaker Trespassing"
+      "Translation": "Trespassing Troublemaker"
     },
     "quest-trespassing-troublemaker-description": {
       "Key": "quest-trespassing-troublemaker-description",
-      "Translation": "Uma mudança importante no ecossistema está dirigindo monstros de seus habitats naturais. Dirija-se ao Wildspire Resíduos e começar a sua investigação sobre a invasão Anjanath ASAP!"
+      "Translation": "Uma mudança importante no ecossistema está dirigindo monstros de seus habitats naturais. Dirija-se ao Wildspire Resíduos e começar a sua investigação do Anjanath invadindo o mais rápido possível!"
     },
     "quest-trespassing-troublemaker-notes": {
       "Key": "quest-trespassing-troublemaker-notes",
@@ -13853,11 +13853,11 @@ export default {
     },
     "quest-troubled-troupers": {
       "Key": "quest-troubled-troupers",
-      "Translation": "Troopers Troubled"
+      "Translation": "Troopers incomodado"
     },
     "quest-troubled-troupers-description": {
       "Key": "quest-troubled-troupers-description",
-      "Translation": "Nós Troupers estão ficando batterfanged por dois Tzitzi-Ya-Ku. Por favor, Har-miau-nhecer com os nossos guerreiros para wallop-los em hightailing-lo! (Tradução pelo Investigador Lynian)"
+      "Translation": "Nós Troupers estão ficando batterfanged por dois Tzitzi-Ya-Ku. Por favor har-miau-nhecer com os nossos guerreiros para wallop-los em hightailing-lo! (Tradução pelo Investigador Lynian)"
     },
     "quest-troubled-troupers-tips": {
       "Key": "quest-troubled-troupers-tips",
@@ -13869,11 +13869,11 @@ export default {
     },
     "quest-twin-spines-upon-the-sands-description": {
       "Key": "quest-twin-spines-upon-the-sands-description",
-      "Translation": "Você sabia que há uma espécie de insecto que survievs por cavando caudas Diablos? Não? Bem nós também não! E nós não vai descobrir a menos que você vá e nos trazer um para ter certeza!"
+      "Translation": "Será que você sabe que há uma espécie de inseto que survievs por cavando caudas Diablos? Não? Bem nós também não! E nós não vai descobrir a menos que você vá e nos trazer um para ter certeza!"
     },
     "quest-two-horned-hostility": {
       "Key": "quest-two-horned-hostility",
-      "Translation": "Hostilidade Two-Horned"
+      "Translation": "Dois Horned-Hostilidade"
     },
     "quest-two-horned-hostility-description": {
       "Key": "quest-two-horned-hostility-description",
@@ -13885,11 +13885,11 @@ export default {
     },
     "quest-type-capture-quest": {
       "Key": "quest-type-capture-quest",
-      "Translation": "capturar quest"
+      "Translation": "captura de busca"
     },
     "quest-type-delivery-quest": {
       "Key": "quest-type-delivery-quest",
-      "Translation": "busca de entrega"
+      "Translation": "entrega quest"
     },
     "quest-type-hunting-quest": {
       "Key": "quest-type-hunting-quest",
@@ -13905,7 +13905,7 @@ export default {
     },
     "quest-undying-alpenglow": {
       "Key": "quest-undying-alpenglow",
-      "Translation": "Alpenglow Imortais"
+      "Translation": "imortal Alpenglow"
     },
     "quest-undying-alpenglow-description": {
       "Key": "quest-undying-alpenglow-description",
@@ -13925,7 +13925,7 @@ export default {
     },
     "quest-up-to-your-waist-in-the-waste-description": {
       "Key": "quest-up-to-your-waist-in-the-waste-description",
-      "Translation": "Nós começamos um relatório perturbador de uma invulgarmente poderoso Jyuratodus aparecendo no Wildspire Resíduos. Comece a sua investigação o mais rápido possível, mas cuidado de ficar preso na lama!"
+      "Translation": "Nós começamos um relatório perturbador de um Jyuratodus invulgarmente poderoso aparecendo no Wildspire Resíduos. Comece a sua investigação o mais rápido possível, mas cuidado de ficar preso na lama!"
     },
     "quest-up-to-your-waist-in-the-waste-notes": {
       "Key": "quest-up-to-your-waist-in-the-waste-notes",
@@ -13949,7 +13949,7 @@ export default {
     },
     "quest-usj-gold-star-treatment": {
       "Key": "quest-usj-gold-star-treatment",
-      "Translation": "USJ: Gold Star Treatment"
+      "Translation": "USJ: Tratamento Star Gold"
     },
     "quest-usj-gold-star-treatment-description": {
       "Key": "quest-usj-gold-star-treatment-description",
@@ -13977,15 +13977,15 @@ export default {
     },
     "quest-what-a-bunch-of-abalone-notable-rewards": {
       "Key": "quest-what-a-bunch-of-abalone-notable-rewards",
-      "Translation": "ingrediente caviar com alma"
+      "Translation": "ingrediente com alma caviar"
     },
     "quest-what-a-bunch-of-abalone-tips": {
       "Key": "quest-what-a-bunch-of-abalone-tips",
-      "Translation": "De Southern Camp (1), o norte-oeste no setor 3, vá sob a ponte rochoso e procurar uma concha no nível do solo. \\ N-Pacífica Route \\ nTurn volta e subir as primeiras videiras à sua direita, outro Shell Conch aguardam apenas no topo. \\ nClimb as vinhas norte e oeste de cabeça para encontrar um outro, vá até o ninho Paolumu para encontrar o último. \\ n-Risky Route \\ nmanter indo para o norte para o setor 5, 4 Conch Shell esperam por aqui, mas a Tzitzi-Ya-Ku gosta de passear."
+      "Translation": "De Southern Camp (1), o norte-oeste no setor 3, vá sob a ponte rochoso e olhar para uma concha no nível do solo. \\ N-Pacífica Route \\ nTurn volta e subir as primeiras videiras à sua direita, outro Shell Conch aguardam apenas no topo. \\ nClimb as videiras norte e oeste de cabeça para encontrar um outro, vá até o ninho Paolumu para encontrar o último. \\ n-Risky Route \\ nmanter indo para o norte para o setor 5, 4 Conch Shell esperam por aqui, mas a Tzitzi-Ya-Ku gosta de passear."
     },
     "quest-when-blue-dust-surpasses-red-lust": {
       "Key": "quest-when-blue-dust-surpasses-red-lust",
-      "Translation": "Quando Azul pó Supera Red Lust"
+      "Translation": "Quando Azul poeira ultrapassa Red Lust"
     },
     "quest-when-blue-dust-surpasses-red-lust-description": {
       "Key": "quest-when-blue-dust-surpasses-red-lust-description",
@@ -14005,7 +14005,7 @@ export default {
     },
     "quest-where-sun-meets-moon-description": {
       "Key": "quest-where-sun-meets-moon-description",
-      "Translation": "Ouvi há um período de tempo quando diurna e noturna emet vida endêmica, então eu queria ver por mim mesmo, mas agora estou em uma jam! (Bilhete especial e aumentou recompensas materiais raros)"
+      "Translation": "Ouvi há um período de tempo quando diurna e noturna emet vida endêmica, então eu queria ver por mim mesmo, mas agora estou em uma jam! (Bilhete especial e maiores recompensas materiais raros)"
     },
     "quest-white-monster-for-a-white-coat": {
       "Key": "quest-white-monster-for-a-white-coat",
@@ -14013,19 +14013,19 @@ export default {
     },
     "quest-white-monster-for-a-white-coat-description": {
       "Key": "quest-white-monster-for-a-white-coat-description",
-      "Translation": "Paolumu habitam no Coral Highlands, mas os detalhes de suas atividades, dieta e hábitos de nidificação permanecem desconhecidos. Pegar um para ajudar a lançar luz sobre essa misteriosa criatura."
+      "Translation": "Paolumu habitam no Coral Highlands, mas os detalhes de suas atividades, dieta e hábitos de nidificação permanecem desconhecidos. Pegar um para ajudar a lançar luz sobre esta criatura misteriosa."
     },
     "quest-white-monster-for-a-white-coat-tips": {
       "Key": "quest-white-monster-for-a-white-coat-tips",
-      "Translation": "Mesmo que Desculpe Você não está convidado, mas precisa para capturar o alvo. Se é a primeira vez que você busca-objectivo a captura-a-paolumu, você vai desbloquear a Arena especial: Paolumu busca opcional."
+      "Translation": "Mesmo que Desculpe Você não está convidado, mas necessidade de capturar o alvo. Se é a primeira vez que você busca-objectivo a captura-a-paolumu, você vai desbloquear a Arena especial: Paolumu busca opcional."
     },
     "quest-wicked-wildspire-warfare": {
       "Key": "quest-wicked-wildspire-warfare",
-      "Translation": "Guerra Wildspire ímpios"
+      "Translation": "Mau Wildspire Guerra"
     },
     "quest-wicked-wildspire-warfare-description": {
       "Key": "quest-wicked-wildspire-warfare-description",
-      "Translation": "Você sabe o que vai acontecer se obter um par de monstros altamente territoriais em um ponto? Não? Nem eu! Vamos descobrir. Sair por cima para ganhar Armour Spheres!"
+      "Translation": "Você sabe o que vai acontecer se obter um par de monstros altamente territoriais em um ponto? Não? Nem eu! Vamos descobrir. Sair por cima para ganhar Armadura Spheres!"
     },
     "quest-wiggle-me-this": {
       "Key": "quest-wiggle-me-this",
@@ -14049,19 +14049,19 @@ export default {
     },
     "quest-ya-ku-with-that-description": {
       "Key": "quest-ya-ku-with-that-description",
-      "Translation": "Hunter, estes dois meownsters são bons su-ronronar em roubar ovos e soltando wingdrakes em um flash. Mas purrhaps eles vão fazer para um bom equipamento também, mew me pegar?"
+      "Translation": "Hunter, estes dois meownsters estão su-ronronar bons em roubar ovos e soltando wingdrakes em um flash. Mas purrhaps eles vão fazer para um bom equipamento também, mew me pegar?"
     },
     "search-arena-quests": {
       "Key": "search-arena-quests",
-      "Translation": "Pesquisa Arena Quests"
+      "Translation": "Pesquisar Arena Quests"
     },
     "search-armor-components": {
       "Key": "search-armor-components",
-      "Translation": "Pesquisar Componentes Armour"
+      "Translation": "Pesquisar Armadura Components"
     },
     "search-armor-sets": {
       "Key": "search-armor-sets",
-      "Translation": "Conjuntos de pesquisa Armour"
+      "Translation": "Pesquisar armaduras"
     },
     "search-armors": {
       "Key": "search-armors",
@@ -14073,7 +14073,7 @@ export default {
     },
     "search-canteen-skills": {
       "Key": "search-canteen-skills",
-      "Translation": "Search Skills Canteen"
+      "Translation": "Pesquisar Cantina Skills"
     },
     "search-charms": {
       "Key": "search-charms",
@@ -14085,11 +14085,11 @@ export default {
     },
     "search-critical-bounties": {
       "Key": "search-critical-bounties",
-      "Translation": "Pesquisar Bounties críticos"
+      "Translation": "Pesquisar Critical Bounties"
     },
     "search-decorations": {
       "Key": "search-decorations",
-      "Translation": "Pesquisa Detalhes"
+      "Translation": "pesquisa Detalhes"
     },
     "search-deliveries": {
       "Key": "search-deliveries",
@@ -14097,7 +14097,7 @@ export default {
     },
     "search-endemic-life": {
       "Key": "search-endemic-life",
-      "Translation": "Busca Vida endêmicas"
+      "Translation": "Pesquisar endêmicas Vida"
     },
     "search-items": {
       "Key": "search-items",
@@ -14105,19 +14105,19 @@ export default {
     },
     "search-kinsect-trees": {
       "Key": "search-kinsect-trees",
-      "Translation": "Pesquisar Árvores Kinsect"
+      "Translation": "Pesquisar Kinsect Trees"
     },
     "search-layered-armors": {
       "Key": "search-layered-armors",
-      "Translation": "Pesquisar Armaduras Layered"
+      "Translation": "Pesquisar Layered Armaduras"
     },
     "search-monster-materials": {
       "Key": "search-monster-materials",
-      "Translation": "Materiais Pesquisa do monstro"
+      "Translation": "Pesquisar Materiais Monstro"
     },
     "search-monsters": {
       "Key": "search-monsters",
-      "Translation": "Pesquisa Monstros"
+      "Translation": "pesquisa Monstros"
     },
     "search-palico-armor-sets": {
       "Key": "search-palico-armor-sets",
@@ -14125,7 +14125,7 @@ export default {
     },
     "search-palico-equipments": {
       "Key": "search-palico-equipments",
-      "Translation": "Pesquisar Equipamentos Palico"
+      "Translation": "Pesquisar Palico Equipamentos"
     },
     "search-palico-gadgets": {
       "Key": "search-palico-gadgets",
@@ -14153,7 +14153,7 @@ export default {
     },
     "search-weapons": {
       "Key": "search-weapons",
-      "Translation": "Armas de busca"
+      "Translation": "Pesquisa Armas"
     },
     "settings-app-store": {
       "Key": "settings-app-store",
@@ -14165,7 +14165,7 @@ export default {
     },
     "settings-buy-me-a-coffee-text": {
       "Key": "settings-buy-me-a-coffee-text",
-      "Translation": "Este aplicativo funciona com energia grão de café! Me apoiar no desenvolvimento deste aplicativo ainda mais :)"
+      "Translation": "Este aplicativo funciona com energia grão de café! Apoio-me em desenvolver ainda mais este app :)"
     },
     "settings-check-for-updates": {
       "Key": "settings-check-for-updates",
@@ -14181,7 +14181,7 @@ export default {
     },
     "settings-join-discord-text": {
       "Key": "settings-join-discord-text",
-      "Translation": "Junte-se a meu servidor Discórdia! Converse com outros jogadores, discutir monstros e estratégias, criar salas de jogos, fazer novos amigos e conversar comigo diretamente :)"
+      "Translation": "Junte-se a meu servidor Discórdia! Conversa com outros jogadores, discutir monstros e estratégias, criar salas de jogos, fazer novos amigos e conversar comigo diretamente :)"
     },
     "settings-language": {
       "Key": "settings-language",
@@ -14237,7 +14237,7 @@ export default {
     },
     "settings-language-volunteer-text": {
       "Key": "settings-language-volunteer-text",
-      "Translation": "Atualmente estou à procura de voluntários para ajudar-me a traduzir o aplicativo para outros idiomas. Se você gostaria de me ajudar, abrir a página Cerca de uma percorrer todo o caminho até o fundo. Você vai precisar usar um computador desktop / laptop para editar os arquivos."
+      "Translation": "Atualmente estou à procura de voluntários para ajudar-me a traduzir o aplicativo para outros idiomas. Se você gostaria de me ajudar, abrir a página Sobre uma percorrer todo o caminho até o fundo. Você vai precisar usar um computador desktop / laptop para editar os arquivos."
     },
     "settings-loadouts-were-updated": {
       "Key": "settings-loadouts-were-updated",
@@ -14253,7 +14253,7 @@ export default {
     },
     "settings-quick-search-text": {
       "Key": "settings-quick-search-text",
-      "Translation": "Em Busca Rápida irá procurar automaticamente enquanto você digita cada personagem, mas isso pode ser muito lenta em alguns dispositivos \\ Noff:.. Busca Rápida só irá procurar quando você pressiona a tecla / Retorno Enter no teclado \\ nO padrão é Off."
+      "Translation": "Em:. Busca Rápida irá procurar automaticamente enquanto você digita cada personagem, mas isso pode ser muito lenta em alguns dispositivos \\ Noff: Pesquisa Rápida só irá procurar quando você pressionar a tecla Enter / Return no seu teclado \\ nO padrão é Off.."
     },
     "settings-rate-app": {
       "Key": "settings-rate-app",
@@ -14269,7 +14269,7 @@ export default {
     },
     "settings-redeem-code-ads": {
       "Key": "settings-redeem-code-ads",
-      "Translation": "anúncios removido com sucesso. Se os anúncios ainda aparecem, matar o aplicativo e relançar o aplicativo. Se este problema persistir, entre em contato comigo por e-mail ^^"
+      "Translation": "anúncios removido com sucesso. Se os anúncios ainda aparecem, matar o aplicativo e relançar o aplicativo. Se este problema persistir, entre em contato comigo através do e-mail ^^"
     },
     "settings-redeem-code-enter-a-value": {
       "Key": "settings-redeem-code-enter-a-value",
@@ -14381,27 +14381,27 @@ export default {
     },
     "skill-agitator-1": {
       "Key": "skill-agitator-1",
-      "Translation": "Embora activo, concede ataque 4 e aumenta a afinidade de 3%."
+      "Translation": "Embora activo, bolsas atacar +4 e aumenta a afinidade de 3%."
     },
     "skill-agitator-2": {
       "Key": "skill-agitator-2",
-      "Translation": "Embora activo, concede ataque 8 e aumenta a afinidade de 6%."
+      "Translation": "Embora activo, bolsas atacar +8 e aumenta a afinidade de 6%."
     },
     "skill-agitator-3": {
       "Key": "skill-agitator-3",
-      "Translation": "Embora activo, concede 12 de ataque e aumenta a afinidade de 9%."
+      "Translation": "Embora activo, bolsas atacar +12 e aumenta a afinidade de 9%."
     },
     "skill-agitator-4": {
       "Key": "skill-agitator-4",
-      "Translation": "Embora activo, concede 16 de ataque e aumenta a afinidade de 12%."
+      "Translation": "Embora activo, bolsas atacar +16 e aumentos de afinidade de 12%."
     },
     "skill-agitator-5": {
       "Key": "skill-agitator-5",
-      "Translation": "Embora activo, concede 20 de ataque e aumenta a afinidade de 15%."
+      "Translation": "Embora activo, bolsas atacar +20 e aumentos de afinidade em 15%."
     },
     "skill-agitator-description": {
       "Key": "skill-agitator-description",
-      "Translation": "Aumenta o poder de ataque e de afinidade quando grandes monstros tornam-se enfurecido."
+      "Translation": "Aumenta o poder de ataque e afinidade quando grandes monstros tornam-se enfurecido."
     },
     "skill-airborne": {
       "Key": "skill-airborne",
@@ -14409,7 +14409,7 @@ export default {
     },
     "skill-airborne-1": {
       "Key": "skill-airborne-1",
-      "Translation": "Salto poder de ataque + 10%."
+      "Translation": "ataque de salto de alimentação + 10%."
     },
     "skill-airborne-description": {
       "Key": "skill-airborne-description",
@@ -14441,19 +14441,19 @@ export default {
     },
     "skill-artillery-1": {
       "Key": "skill-artillery-1",
-      "Translation": "Aumenta a potência de cada ataque de 10% e reduz o tempo de recarga de fogo Wyvern por 15%."
+      "Translation": "Os aumentos de potência de cada ataque de 10% e reduz o tempo de recarga de fogo Wyvern por 15%."
     },
     "skill-artillery-2": {
       "Key": "skill-artillery-2",
-      "Translation": "Aumenta a potência de cada ataque de 20% e reduz o tempo de recarga de fogo Wyvern por 30%."
+      "Translation": "Os aumentos de potência de cada ataque de 20% e reduz o tempo de recarga de fogo Wyvern por 30%."
     },
     "skill-artillery-3": {
       "Key": "skill-artillery-3",
-      "Translation": "Aumenta a potência de cada ataque de 30% e reduz o tempo de recarga de fogo Wyvern por 50%."
+      "Translation": "Os aumentos de potência de cada ataque de 30% e reduz o tempo de recarga de fogo Wyvern por 50%."
     },
     "skill-artillery-description": {
       "Key": "skill-artillery-description",
-      "Translation": "Fortalece ataques explosivos como conchas Gunlance, fogo de Wyvern, ataques phial lâmina carga e munição pegajoso."
+      "Translation": "Fortalece ataques explosivos como conchas Gunlance, fogo de Wyvern, lâmina carga ataques phial, e munição pegajoso."
     },
     "skill-attack-boost": {
       "Key": "skill-attack-boost",
@@ -14461,15 +14461,15 @@ export default {
     },
     "skill-attack-boost-1": {
       "Key": "skill-attack-boost-1",
-      "Translation": "ataque +3"
+      "Translation": "Ataque +3"
     },
     "skill-attack-boost-2": {
       "Key": "skill-attack-boost-2",
-      "Translation": "ataque +6"
+      "Translation": "Ataque +6"
     },
     "skill-attack-boost-3": {
       "Key": "skill-attack-boost-3",
-      "Translation": "ataque +9"
+      "Translation": "Ataque +9"
     },
     "skill-attack-boost-4": {
       "Key": "skill-attack-boost-4",
@@ -14493,7 +14493,7 @@ export default {
     },
     "skill-bbq-master": {
       "Key": "skill-bbq-master",
-      "Translation": "Mestre BBQ"
+      "Translation": "Mestre do BBQ"
     },
     "skill-bbq-master-1": {
       "Key": "skill-bbq-master-1",
@@ -14501,7 +14501,7 @@ export default {
     },
     "skill-bbq-master-description": {
       "Key": "skill-bbq-master-description",
-      "Translation": "Melhora a sua habilidade em carne cozinhar."
+      "Translation": "Melhora a sua habilidade em cozinhar a carne."
     },
     "skill-blast-attack": {
       "Key": "skill-blast-attack",
@@ -14525,7 +14525,7 @@ export default {
     },
     "skill-blast-functionality": {
       "Key": "skill-blast-functionality",
-      "Translation": "Funcionalidade explosão"
+      "Translation": "explosão Funcionalidade"
     },
     "skill-blast-functionality-1": {
       "Key": "skill-blast-functionality-1",
@@ -14545,11 +14545,11 @@ export default {
     },
     "skill-blast-resistance-2": {
       "Key": "skill-blast-resistance-2",
-      "Translation": "Grandemente atrasa blastblight e reduz significativamente os danos explosão."
+      "Translation": "Grandemente atrasos blastblight e reduz significativamente os danos explosão."
     },
     "skill-blast-resistance-3": {
       "Key": "skill-blast-resistance-3",
-      "Translation": "Impede blastblight."
+      "Translation": "Previne blastblight."
     },
     "skill-blast-resistance-description": {
       "Key": "skill-blast-resistance-description",
@@ -14557,7 +14557,7 @@ export default {
     },
     "skill-bleeding-resistance": {
       "Key": "skill-bleeding-resistance",
-      "Translation": "A resistência de sangramento"
+      "Translation": "sangramento Resistência"
     },
     "skill-bleeding-resistance-1": {
       "Key": "skill-bleeding-resistance-1",
@@ -14573,7 +14573,7 @@ export default {
     },
     "skill-bleeding-resistance-description": {
       "Key": "skill-bleeding-resistance-description",
-      "Translation": "Concede proteção contra hemorragia."
+      "Translation": "Concede proteção contra sangramento."
     },
     "skill-blight-resistance": {
       "Key": "skill-blight-resistance",
@@ -14589,7 +14589,7 @@ export default {
     },
     "skill-blight-resistance-3": {
       "Key": "skill-blight-resistance-3",
-      "Translation": "Anula todas as pragas elementares."
+      "Translation": "Anula todas as pragas elementar."
     },
     "skill-blight-resistance-description": {
       "Key": "skill-blight-resistance-description",
@@ -14613,11 +14613,11 @@ export default {
     },
     "skill-bludgeoner-1": {
       "Key": "skill-bludgeoner-1",
-      "Translation": "Aumenta ataque como sua arma perde nitidez. Também aumenta ataques corpo a corpo arma de longo alcance e probabilidades de atordoamento."
+      "Translation": "Aumentos atacar como sua arma perde nitidez. Também aumenta variou ataques melee armas e chances de atordoamento."
     },
     "skill-bludgeoner-description": {
       "Key": "skill-bludgeoner-description",
-      "Translation": "Aumenta ataque como sua arma perde nitidez. Também aumenta ataques corpo a corpo arma de longo alcance e probabilidades de atordoamento."
+      "Translation": "Aumentos atacar como sua arma perde nitidez. Também aumenta variou ataques melee armas e chances de atordoamento."
     },
     "skill-bombardier": {
       "Key": "skill-bombardier",
@@ -14729,15 +14729,15 @@ export default {
     },
     "skill-coalescence-1": {
       "Key": "skill-coalescence-1",
-      "Translation": "Embora activo, concede Ataque + 12, de alimentação Elemento de ataque 30, e Estado acúmulo + 5%"
+      "Translation": "Embora activo, concede Ataque + 12, Elemento de ataque de energia 30, e o acúmulo Estado + 5%"
     },
     "skill-coalescence-2": {
       "Key": "skill-coalescence-2",
-      "Translation": "Embora activo, concede Ataque + 15, de alimentação Elemento de ataque 60, e Estado acúmulo + 10%"
+      "Translation": "Embora activo, concede Ataque + 15, Elemento de ataque de energia 60, e o acúmulo Estado + 10%"
     },
     "skill-coalescence-3": {
       "Key": "skill-coalescence-3",
-      "Translation": "Embora activo, concede Ataque + 18, de alimentação Elemento de ataque 90, e Estado acúmulo + 15%"
+      "Translation": "Embora activo, concede Ataque + 18, Elemento de ataque de energia 90, e o acúmulo Estado + 15%"
     },
     "skill-coalescence-description": {
       "Key": "skill-coalescence-description",
@@ -14753,7 +14753,7 @@ export default {
     },
     "skill-coldproof-description": {
       "Key": "skill-coldproof-description",
-      "Translation": "Anula os efeitos do tempo frio."
+      "Translation": "Anula os efeitos de clima frio."
     },
     "skill-constitution": {
       "Key": "skill-constitution",
@@ -14893,27 +14893,27 @@ export default {
     },
     "skill-defense-boost-2": {
       "Key": "skill-defense-boost-2",
-      "Translation": "+10 defesa"
+      "Translation": "defesa +10"
     },
     "skill-defense-boost-3": {
       "Key": "skill-defense-boost-3",
-      "Translation": "+15 defesa"
+      "Translation": "defesa +15"
     },
     "skill-defense-boost-4": {
       "Key": "skill-defense-boost-4",
-      "Translation": "Defesa +20, Todos os Resistências Elemental +3"
+      "Translation": "Defesa +20, Todos os Elementais Resistências +3"
     },
     "skill-defense-boost-5": {
       "Key": "skill-defense-boost-5",
-      "Translation": "Defesa +25, Todos os Resistências Elemental +3"
+      "Translation": "Defesa +25, Todos os Elementais Resistências +3"
     },
     "skill-defense-boost-6": {
       "Key": "skill-defense-boost-6",
-      "Translation": "Defesa +30, Todos os Resistências Elemental +3"
+      "Translation": "Defesa +30, Todos os Elementais Resistências +3"
     },
     "skill-defense-boost-7": {
       "Key": "skill-defense-boost-7",
-      "Translation": "Defesa +35, Todos os Resistências Elemental +3"
+      "Translation": "Defesa +35, Todos os Elementais Resistências +3"
     },
     "skill-defense-boost-description": {
       "Key": "skill-defense-boost-description",
@@ -14925,7 +14925,7 @@ export default {
     },
     "skill-detector-1": {
       "Key": "skill-detector-1",
-      "Translation": "Marca locais raros no mapa da vida selvagem."
+      "Translation": "Marcas locais raros no mapa da vida selvagem."
     },
     "skill-detector-description": {
       "Key": "skill-detector-description",
@@ -14957,15 +14957,15 @@ export default {
     },
     "skill-dragon-attack-1": {
       "Key": "skill-dragon-attack-1",
-      "Translation": "Dragão 30 ataque"
+      "Translation": "ataque dragão 30"
     },
     "skill-dragon-attack-2": {
       "Key": "skill-dragon-attack-2",
-      "Translation": "Dragão 60 ataque"
+      "Translation": "ataque dragão 60"
     },
     "skill-dragon-attack-3": {
       "Key": "skill-dragon-attack-3",
-      "Translation": "Dragão 100 ataque"
+      "Translation": "ataque dragão 100"
     },
     "skill-dragon-attack-4": {
       "Key": "skill-dragon-attack-4",
@@ -14977,7 +14977,7 @@ export default {
     },
     "skill-dragon-attack-description": {
       "Key": "skill-dragon-attack-description",
-      "Translation": "Aumenta a potência do dragão elemento ataque. (Poder de ataque elementar tem um limite máximo)."
+      "Translation": "Aumenta a potência do dragão elemento ataque. (Elementar poder de ataque tem um limite máximo)."
     },
     "skill-dragon-resistance": {
       "Key": "skill-dragon-resistance",
@@ -15005,11 +15005,11 @@ export default {
     },
     "skill-dungmaster-1": {
       "Key": "skill-dungmaster-1",
-      "Translation": "Faz lançador vagens esterco mais eficaz em fazer monstros fugir."
+      "Translation": "Faz vagens lançador esterco mais eficaz em fazer monstros fugir."
     },
     "skill-dungmaster-description": {
       "Key": "skill-dungmaster-description",
-      "Translation": "Faz monstros bateram com vagens lançador de esterco mais propensos a correr."
+      "Translation": "Faz monstros atingido com vagens lançador esterco mais provável para ser executado."
     },
     "skill-earplugs": {
       "Key": "skill-earplugs",
@@ -15025,7 +15025,7 @@ export default {
     },
     "skill-earplugs-3": {
       "Key": "skill-earplugs-3",
-      "Translation": "Anula monstro ruge fracos,"
+      "Translation": "Anula fracos monstro ruge,"
     },
     "skill-earplugs-4": {
       "Key": "skill-earplugs-4",
@@ -15033,7 +15033,7 @@ export default {
     },
     "skill-earplugs-5": {
       "Key": "skill-earplugs-5",
-      "Translation": "Anula monstro ruge fracos e fortes."
+      "Translation": "Anula fracos e monstro ruge fortes."
     },
     "skill-earplugs-description": {
       "Key": "skill-earplugs-description",
@@ -15065,7 +15065,7 @@ export default {
     },
     "skill-effluvial-expert-1": {
       "Key": "skill-effluvial-expert-1",
-      "Translation": "Anula a danos causados ​​por eflúvios e reduz os danos a partir de ácidos."
+      "Translation": "Anula danificar de eflúvios e reduz os danos a partir de ácidos."
     },
     "skill-effluvial-expert-description": {
       "Key": "skill-effluvial-expert-description",
@@ -15089,11 +15089,11 @@ export default {
     },
     "skill-elemental-airborne-1": {
       "Key": "skill-elemental-airborne-1",
-      "Translation": "dano elemental aumentou para saltar ataques."
+      "Translation": "dano elemental aumentado para ataques de salto."
     },
     "skill-elemental-airborne-description": {
       "Key": "skill-elemental-airborne-description",
-      "Translation": "dano elemental aumentou para saltar ataques."
+      "Translation": "dano elemental aumentado para ataques de salto."
     },
     "skill-entomologist": {
       "Key": "skill-entomologist",
@@ -15169,15 +15169,15 @@ export default {
     },
     "skill-fire-attack-1": {
       "Key": "skill-fire-attack-1",
-      "Translation": "+30 ataque de fogo"
+      "Translation": "ataque de fogo +30"
     },
     "skill-fire-attack-2": {
       "Key": "skill-fire-attack-2",
-      "Translation": "+60 ataque de fogo"
+      "Translation": "ataque de fogo +60"
     },
     "skill-fire-attack-3": {
       "Key": "skill-fire-attack-3",
-      "Translation": "+100 ataque de fogo"
+      "Translation": "ataque de fogo +100"
     },
     "skill-fire-attack-4": {
       "Key": "skill-fire-attack-4",
@@ -15189,7 +15189,7 @@ export default {
     },
     "skill-fire-attack-description": {
       "Key": "skill-fire-attack-description",
-      "Translation": "Aumenta a potência do incêndio elemento ataque. (Poder de ataque elementar tem um limite máximo)."
+      "Translation": "Os aumentos do poder de fogo elemento ataque. (Elementar poder de ataque tem um limite máximo)."
     },
     "skill-fire-resistance": {
       "Key": "skill-fire-resistance",
@@ -15217,7 +15217,7 @@ export default {
     },
     "skill-flinch-free-1": {
       "Key": "skill-flinch-free-1",
-      "Translation": "Impede knockbacks."
+      "Translation": "Evita knockbacks."
     },
     "skill-flinch-free-2": {
       "Key": "skill-flinch-free-2",
@@ -15225,7 +15225,7 @@ export default {
     },
     "skill-flinch-free-3": {
       "Key": "skill-flinch-free-3",
-      "Translation": "Impede knockbacks e tropeçar."
+      "Translation": "Evita knockbacks e tropeçar."
     },
     "skill-flinch-free-description": {
       "Key": "skill-flinch-free-description",
@@ -15257,7 +15257,7 @@ export default {
     },
     "skill-foragers-luck-1": {
       "Key": "skill-foragers-luck-1",
-      "Translation": "Aumenta a probabilidade de rara pontos de encontro respawning."
+      "Translation": "Aumenta a probabilidade de pontos de encontro raros respawning."
     },
     "skill-foragers-luck-description": {
       "Key": "skill-foragers-luck-description",
@@ -15277,7 +15277,7 @@ export default {
     },
     "skill-free-element-ammo-up": {
       "Key": "skill-free-element-ammo-up",
-      "Translation": "Livre Elemento / Ammo Up"
+      "Translation": "Elemento livre / Ammo Up"
     },
     "skill-free-element-ammo-up-1": {
       "Key": "skill-free-element-ammo-up-1",
@@ -15293,7 +15293,7 @@ export default {
     },
     "skill-free-element-ammo-up-description": {
       "Key": "skill-free-element-ammo-up-description",
-      "Translation": "Desbloqueia elemento oculto de sua arma. Também aumenta a capacidade de carregamento bowgun. (Existe um tampão a capacidade de carga)."
+      "Translation": "Desbloqueia elemento escondido de sua arma. Também aumenta a capacidade de carregamento bowgun. (Existe um tampão a capacidade de carga)."
     },
     "skill-free-meal": {
       "Key": "skill-free-meal",
@@ -15305,7 +15305,7 @@ export default {
     },
     "skill-free-meal-description": {
       "Key": "skill-free-meal-description",
-      "Translation": "Dá-lhe uma pré-determinada de consumir um alimento ou bebida item para o livre."
+      "Translation": "Dá-lhe uma pré-determinada de consumir um alimento ou bebida de graça."
     },
     "skill-geologist": {
       "Key": "skill-geologist",
@@ -15409,23 +15409,23 @@ export default {
     },
     "skill-handicraft-1": {
       "Key": "skill-handicraft-1",
-      "Translation": "nitidez arma +10"
+      "Translation": "Arma nitidez +10"
     },
     "skill-handicraft-2": {
       "Key": "skill-handicraft-2",
-      "Translation": "nitidez arma +20"
+      "Translation": "Arma nitidez +20"
     },
     "skill-handicraft-3": {
       "Key": "skill-handicraft-3",
-      "Translation": "nitidez arma +30"
+      "Translation": "Arma nitidez +30"
     },
     "skill-handicraft-4": {
       "Key": "skill-handicraft-4",
-      "Translation": "nitidez arma +40"
+      "Translation": "Arma nitidez +40"
     },
     "skill-handicraft-5": {
       "Key": "skill-handicraft-5",
-      "Translation": "nitidez arma +50"
+      "Translation": "Arma nitidez +50"
     },
     "skill-handicraft-description": {
       "Key": "skill-handicraft-description",
@@ -15433,7 +15433,7 @@ export default {
     },
     "skill-hasten-recovery": {
       "Key": "skill-hasten-recovery",
-      "Translation": "acelerar a recuperação"
+      "Translation": "Recuperação Hasten"
     },
     "skill-hasten-recovery-1": {
       "Key": "skill-hasten-recovery-1",
@@ -15449,15 +15449,15 @@ export default {
     },
     "skill-health-boost-1": {
       "Key": "skill-health-boost-1",
-      "Translation": "+15 saúde"
+      "Translation": "saúde +15"
     },
     "skill-health-boost-2": {
       "Key": "skill-health-boost-2",
-      "Translation": "+30 saúde"
+      "Translation": "saúde +30"
     },
     "skill-health-boost-3": {
       "Key": "skill-health-boost-3",
-      "Translation": "+50 saúde"
+      "Translation": "saúde +50"
     },
     "skill-health-boost-description": {
       "Key": "skill-health-boost-description",
@@ -15473,7 +15473,7 @@ export default {
     },
     "skill-heat-guard-description": {
       "Key": "skill-heat-guard-description",
-      "Translation": "Anula danos do calor."
+      "Translation": "Anula danificar de calor."
     },
     "skill-heavy-artillery": {
       "Key": "skill-heavy-artillery",
@@ -15505,15 +15505,15 @@ export default {
     },
     "skill-heroics-3": {
       "Key": "skill-heroics-3",
-      "Translation": "Embora activo, aumenta o poder de ataque em 15% e aumenta a defesa em 25 pontos."
+      "Translation": "Embora activo, aumenta o poder de ataque de 15% e aumenta a defesa em 25 pontos."
     },
     "skill-heroics-4": {
       "Key": "skill-heroics-4",
-      "Translation": "Embora activo, aumenta o poder de ataque em 20% e aumenta a defesa em 30 pontos."
+      "Translation": "Embora activo, aumenta o poder de ataque de 20% e aumenta a defesa em 30 pontos."
     },
     "skill-heroics-5": {
       "Key": "skill-heroics-5",
-      "Translation": "Embora activo, aumenta o poder de ataque em 30% e aumenta a defesa em 40 pontos."
+      "Translation": "Embora activo, aumenta o poder de ataque de 30% e aumenta a defesa em 40 pontos."
     },
     "skill-heroics-description": {
       "Key": "skill-heroics-description",
@@ -15537,11 +15537,11 @@ export default {
     },
     "skill-horn-maestro-1": {
       "Key": "skill-horn-maestro-1",
-      "Translation": "Se estende a duração do efeito melodia e aumenta a recuperação da saúde."
+      "Translation": "Estende-se a recuperação da saúde duração do efeito melodia e aumenta."
     },
     "skill-horn-maestro-description": {
       "Key": "skill-horn-maestro-description",
-      "Translation": "Aumenta a duração do efeito de caça melodias chifre."
+      "Translation": "Aumenta a duração do efeito de melodias trompa de caça."
     },
     "skill-hunger-resistance": {
       "Key": "skill-hunger-resistance",
@@ -15569,15 +15569,15 @@ export default {
     },
     "skill-ice-attack-1": {
       "Key": "skill-ice-attack-1",
-      "Translation": "+30 ataque Ice"
+      "Translation": "ataque Ice +30"
     },
     "skill-ice-attack-2": {
       "Key": "skill-ice-attack-2",
-      "Translation": "+60 ataque Ice"
+      "Translation": "ataque Ice +60"
     },
     "skill-ice-attack-3": {
       "Key": "skill-ice-attack-3",
-      "Translation": "+100 ataque Ice"
+      "Translation": "ataque Ice +100"
     },
     "skill-ice-attack-4": {
       "Key": "skill-ice-attack-4",
@@ -15589,7 +15589,7 @@ export default {
     },
     "skill-ice-attack-description": {
       "Key": "skill-ice-attack-description",
-      "Translation": "Aumenta a potência do elemento de gelo ataque. (Poder de ataque elementar tem um limite máximo)."
+      "Translation": "Aumenta a potência do elemento de gelo ataque. (Elementar poder de ataque tem um limite máximo)."
     },
     "skill-ice-resistance": {
       "Key": "skill-ice-resistance",
@@ -15617,7 +15617,7 @@ export default {
     },
     "skill-igni-intensity-1": {
       "Key": "skill-igni-intensity-1",
-      "Translation": "Igni Sinal mágica"
+      "Translation": "magic Entrar Igni"
     },
     "skill-igni-intensity-description": {
       "Key": "skill-igni-intensity-description",
@@ -15637,7 +15637,7 @@ export default {
     },
     "skill-intimidator-3": {
       "Key": "skill-intimidator-3",
-      "Translation": "Impede monstros de se envolver você mesmo que você tenha sido manchado."
+      "Translation": "Previne monstros de contratá-lo, mesmo que você tenha sido manchado."
     },
     "skill-intimidator-description": {
       "Key": "skill-intimidator-description",
@@ -15657,7 +15657,7 @@ export default {
     },
     "skill-iron-skin-3": {
       "Key": "skill-iron-skin-3",
-      "Translation": "Impede Defesa Down."
+      "Translation": "Previne Defesa Down."
     },
     "skill-iron-skin-description": {
       "Key": "skill-iron-skin-description",
@@ -15693,11 +15693,11 @@ export default {
     },
     "skill-jump-master-description": {
       "Key": "skill-jump-master-description",
-      "Translation": "Impede ataques de bater de volta durante um salto."
+      "Translation": "Previne ataques de bater de volta durante um salto."
     },
     "skill-latent-power": {
       "Key": "skill-latent-power",
-      "Translation": "Poder latente"
+      "Translation": "latente de energia"
     },
     "skill-latent-power-1": {
       "Key": "skill-latent-power-1",
@@ -15709,11 +15709,11 @@ export default {
     },
     "skill-latent-power-3": {
       "Key": "skill-latent-power-3",
-      "Translation": "Embora activo, aumenta a afinidade de 30% e reduz a depleção resistência até 30%."
+      "Translation": "Embora activo, aumenta a afinidade de 30% e reduz a resistência a depleção de 30%."
     },
     "skill-latent-power-4": {
       "Key": "skill-latent-power-4",
-      "Translation": "Embora activo, aumenta a afinidade de 40% e reduz a depleção resistência até 30%."
+      "Translation": "Embora activo, aumenta a afinidade de 40% e reduz a resistência a depleção de 30%."
     },
     "skill-latent-power-5": {
       "Key": "skill-latent-power-5",
@@ -15753,7 +15753,7 @@ export default {
     },
     "skill-marathon-runner-description": {
       "Key": "skill-marathon-runner-description",
-      "Translation": "Retarda o esgotamento resistência às acções que drenam continuamente resistência (tal como a precipitação)."
+      "Translation": "Retarda resistência depleção para acções que drenam continuamente resistência (tal como a precipitação)."
     },
     "skill-master-fisher": {
       "Key": "skill-master-fisher",
@@ -15773,7 +15773,7 @@ export default {
     },
     "skill-master-gatherer-1": {
       "Key": "skill-master-gatherer-1",
-      "Translation": "Acelera-se a recolha e impede knockbacks enquanto recolha."
+      "Translation": "Acelera recolha e impede knockbacks enquanto recolha."
     },
     "skill-master-gatherer-description": {
       "Key": "skill-master-gatherer-description",
@@ -15785,7 +15785,7 @@ export default {
     },
     "skill-master-mounter-1": {
       "Key": "skill-master-mounter-1",
-      "Translation": "Torna mais fácil para montar monstros e monstros para baixo montados."
+      "Translation": "Torna mais fácil para montar monstros e para baixo montado monstros."
     },
     "skill-master-mounter-description": {
       "Key": "skill-master-mounter-description",
@@ -15921,7 +15921,7 @@ export default {
     },
     "skill-offensive-guard-description": {
       "Key": "skill-offensive-guard-description",
-      "Translation": "Temporariamente aumenta o poder de ataque depois de executar um guarda perfeitamente cronometrado."
+      "Translation": "Temporariamente aumenta o poder de ataque depois de executar um guarda perfeitamente programado."
     },
     "skill-palico-rally": {
       "Key": "skill-palico-rally",
@@ -15997,7 +15997,7 @@ export default {
     },
     "skill-paralysis-resistance-3": {
       "Key": "skill-paralysis-resistance-3",
-      "Translation": "Impede paralisia."
+      "Translation": "Previne paralisia."
     },
     "skill-paralysis-resistance-description": {
       "Key": "skill-paralysis-resistance-description",
@@ -16021,7 +16021,7 @@ export default {
     },
     "skill-partbreaker-description": {
       "Key": "skill-partbreaker-description",
-      "Translation": "Faz com que seja mais fácil de quebrar ou cortar partes de grandes monstros."
+      "Translation": "Faz com que seja mais fácil de quebrar ou partes Sever de grandes monstros."
     },
     "skill-peak-performance": {
       "Key": "skill-peak-performance",
@@ -16049,7 +16049,7 @@ export default {
     },
     "skill-piercing-shots-1": {
       "Key": "skill-piercing-shots-1",
-      "Translation": "Aumentar o poder de perfuração munição e Dragon Piercer."
+      "Translation": "Aumentar o poder de munição piercing e Dragão Piercer."
     },
     "skill-piercing-shots-description": {
       "Key": "skill-piercing-shots-description",
@@ -16061,15 +16061,15 @@ export default {
     },
     "skill-poison-attack-1": {
       "Key": "skill-poison-attack-1",
-      "Translation": "Veneno acumulação de + 5%, 10 Bonus"
+      "Translation": "acúmulo veneno + 5%, 10 Bonus"
     },
     "skill-poison-attack-2": {
       "Key": "skill-poison-attack-2",
-      "Translation": "Veneno acumulação de + 10%, 10 Bonus"
+      "Translation": "acúmulo veneno + 10%, 10 Bonus"
     },
     "skill-poison-attack-3": {
       "Key": "skill-poison-attack-3",
-      "Translation": "Veneno acumulação de + 20%, 10 Bonus"
+      "Translation": "acúmulo veneno + 20%, 10 Bonus"
     },
     "skill-poison-attack-description": {
       "Key": "skill-poison-attack-description",
@@ -16113,7 +16113,7 @@ export default {
     },
     "skill-poison-resistance-3": {
       "Key": "skill-poison-resistance-3",
-      "Translation": "Impede veneno."
+      "Translation": "Previne veneno."
     },
     "skill-poison-resistance-description": {
       "Key": "skill-poison-resistance-description",
@@ -16145,11 +16145,11 @@ export default {
     },
     "skill-pro-transporter-1": {
       "Key": "skill-pro-transporter-1",
-      "Translation": "Aumenta a velocidade do movimento durante o transporte e reduz o tempo de aterragens."
+      "Translation": "Aumenta a velocidade de movimento durante o transporte e reduz o tempo de aterragens."
     },
     "skill-pro-transporter-description": {
       "Key": "skill-pro-transporter-description",
-      "Translation": "Aumenta sua velocidade ao transportar itens e diminui a probabilidade de deixá-los cair."
+      "Translation": "Aumenta sua velocidade enquanto os itens transporte e diminui a probabilidade de deixá-los cair."
     },
     "skill-protective-polish": {
       "Key": "skill-protective-polish",
@@ -16161,11 +16161,11 @@ export default {
     },
     "skill-protective-polish-description": {
       "Key": "skill-protective-polish-description",
-      "Translation": "nitidez arma não diminuir por um tempo definido após afiar."
+      "Translation": "Arma nitidez não diminuir por um tempo definido após nitidez."
     },
     "skill-punishing-draw": {
       "Key": "skill-punishing-draw",
-      "Translation": "Desenhar punição"
+      "Translation": "punindo Desenhar"
     },
     "skill-punishing-draw-1": {
       "Key": "skill-punishing-draw-1",
@@ -16177,23 +16177,23 @@ export default {
     },
     "skill-quick-sheath": {
       "Key": "skill-quick-sheath",
-      "Translation": "Bainha rápida"
+      "Translation": "Breve Bainha"
     },
     "skill-quick-sheath-1": {
       "Key": "skill-quick-sheath-1",
-      "Translation": "Ligeiramente aumenta a velocidade de revestimento."
+      "Translation": "Ligeiramente aumenta embainhar velocidade."
     },
     "skill-quick-sheath-2": {
       "Key": "skill-quick-sheath-2",
-      "Translation": "Moderadamente aumenta a velocidade de revestimento."
+      "Translation": "Aumenta moderadamente embainhar velocidade."
     },
     "skill-quick-sheath-3": {
       "Key": "skill-quick-sheath-3",
-      "Translation": "Grandemente aumenta a velocidade de revestimento."
+      "Translation": "Aumenta consideravelmente embainhar velocidade."
     },
     "skill-quick-sheath-description": {
       "Key": "skill-quick-sheath-description",
-      "Translation": "Acelera arma revestimento."
+      "Translation": "Acelera revestimento arma."
     },
     "skill-razor-sharp-spare-shot": {
       "Key": "skill-razor-sharp-spare-shot",
@@ -16209,7 +16209,7 @@ export default {
     },
     "skill-recovery-speed": {
       "Key": "skill-recovery-speed",
-      "Translation": "velocidade de recuperação"
+      "Translation": "recuperação de velocidade"
     },
     "skill-recovery-speed-1": {
       "Key": "skill-recovery-speed-1",
@@ -16225,7 +16225,7 @@ export default {
     },
     "skill-recovery-speed-description": {
       "Key": "skill-recovery-speed-description",
-      "Translation": "As velocidades de cura dos danos recuperável (a parte vermelha do indicador de saúde)."
+      "Translation": "Acelera a cura dos danos recuperável (a parte vermelha do indicador de saúde)."
     },
     "skill-recovery-up": {
       "Key": "skill-recovery-up",
@@ -16281,7 +16281,7 @@ export default {
     },
     "skill-resuscitate-1": {
       "Key": "skill-resuscitate-1",
-      "Translation": "Embora activo, melhora grandemente a evasão invulnerabilidade e reduz a depleção de resistência."
+      "Translation": "Embora activo, melhora grandemente a evasão invulnerabilidade e reduz a resistência esgotamento."
     },
     "skill-resuscitate-description": {
       "Key": "skill-resuscitate-description",
@@ -16397,7 +16397,7 @@ export default {
     },
     "skill-slugger": {
       "Key": "skill-slugger",
-      "Translation": "Lançador no beisebol"
+      "Translation": "Slugger"
     },
     "skill-slugger-1": {
       "Key": "skill-slugger-1",
@@ -16413,23 +16413,23 @@ export default {
     },
     "skill-slugger-description": {
       "Key": "skill-slugger-description",
-      "Translation": "Torna mais fácil para atordoar monstros."
+      "Translation": "Torna mais fácil para monstros de efeito moral."
     },
     "skill-special-ammo-boost": {
       "Key": "skill-special-ammo-boost",
-      "Translation": "Impulso munição especial"
+      "Translation": "Ammo especial impulso"
     },
     "skill-special-ammo-boost-1": {
       "Key": "skill-special-ammo-boost-1",
-      "Translation": "Aumenta o poder de munição especial bowgun e Dragon Piercer em 10%."
+      "Translation": "Aumenta o poder de bowgun munição especial e Dragão Piercer em 10%."
     },
     "skill-special-ammo-boost-2": {
       "Key": "skill-special-ammo-boost-2",
-      "Translation": "Aumenta o poder de munição especial bowgun e Dragon Piercer em 20%."
+      "Translation": "Aumenta o poder de bowgun munição especial e Dragão Piercer em 20%."
     },
     "skill-special-ammo-boost-description": {
       "Key": "skill-special-ammo-boost-description",
-      "Translation": "Aumenta o poder bowgun munição especial e Dragão Piercer."
+      "Translation": "Aumenta o poder bowgun munição especial e Dragão piercer."
     },
     "skill-speed-crawler": {
       "Key": "skill-speed-crawler",
@@ -16445,7 +16445,7 @@ export default {
     },
     "skill-speed-eating": {
       "Key": "skill-speed-eating",
-      "Translation": "Comer velocidade"
+      "Translation": "velocidade Comer"
     },
     "skill-speed-eating-1": {
       "Key": "skill-speed-eating-1",
@@ -16505,7 +16505,7 @@ export default {
     },
     "skill-spread-power-shots": {
       "Key": "skill-spread-power-shots",
-      "Translation": "Tiros disseminação / potência"
+      "Translation": "Espalhe / Power Shots"
     },
     "skill-spread-power-shots-1": {
       "Key": "skill-spread-power-shots-1",
@@ -16521,11 +16521,11 @@ export default {
     },
     "skill-stamina-cap-up-1": {
       "Key": "skill-stamina-cap-up-1",
-      "Translation": "Aumenta cap resistência."
+      "Translation": "Aumenta a resistência cap."
     },
     "skill-stamina-cap-up-description": {
       "Key": "skill-stamina-cap-up-description",
-      "Translation": "Aumenta cap resistência."
+      "Translation": "Aumenta a resistência cap."
     },
     "skill-stamina-surge": {
       "Key": "skill-stamina-surge",
@@ -16565,7 +16565,7 @@ export default {
     },
     "skill-stamina-thief-description": {
       "Key": "skill-stamina-thief-description",
-      "Translation": "Aumenta a capacidade de certos ataques para esgotar monstros."
+      "Translation": "Aumenta a capacidade de certos ataques para monstros de escape."
     },
     "skill-stealth": {
       "Key": "skill-stealth",
@@ -16573,19 +16573,19 @@ export default {
     },
     "skill-stealth-1": {
       "Key": "skill-stealth-1",
-      "Translation": "Torna um pouco mais fácil para monstros perder de vista que você."
+      "Translation": "Torna um pouco mais fácil para monstros para perder de vista que você."
     },
     "skill-stealth-2": {
       "Key": "skill-stealth-2",
-      "Translation": "Faz com que seja moderadamente mais fácil para monstros perder de vista que você."
+      "Translation": "Faz com que seja moderadamente mais fácil para monstros para perder de vista que você."
     },
     "skill-stealth-3": {
       "Key": "skill-stealth-3",
-      "Translation": "Torna muito mais fácil para monstros perder de vista que você."
+      "Translation": "Torna muito mais fácil para monstros para perder de vista que você."
     },
     "skill-stealth-description": {
       "Key": "skill-stealth-description",
-      "Translation": "Torna mais fácil para monstros perder de vista que você."
+      "Translation": "Torna mais fácil para monstros para perder de vista que você."
     },
     "skill-stun-resistance": {
       "Key": "skill-stun-resistance",
@@ -16601,7 +16601,7 @@ export default {
     },
     "skill-stun-resistance-3": {
       "Key": "skill-stun-resistance-3",
-      "Translation": "Impede de choque."
+      "Translation": "Previne de choque."
     },
     "skill-stun-resistance-description": {
       "Key": "skill-stun-resistance-description",
@@ -16625,27 +16625,27 @@ export default {
     },
     "skill-thunder-attack-1": {
       "Key": "skill-thunder-attack-1",
-      "Translation": "Trovões 30 ataque"
+      "Translation": "Trovões ataque 30"
     },
     "skill-thunder-attack-2": {
       "Key": "skill-thunder-attack-2",
-      "Translation": "Trovões 60 ataque"
+      "Translation": "Trovões ataque 60"
     },
     "skill-thunder-attack-3": {
       "Key": "skill-thunder-attack-3",
-      "Translation": "Trovões 100 ataque"
+      "Translation": "Trovões ataque 100"
     },
     "skill-thunder-attack-4": {
       "Key": "skill-thunder-attack-4",
-      "Translation": "ataque trovões + 5%, 100 Bonus"
+      "Translation": "Trovões ataque + 5%, 100 Bonus"
     },
     "skill-thunder-attack-5": {
       "Key": "skill-thunder-attack-5",
-      "Translation": "ataque trovões + 10%, 100 Bonus"
+      "Translation": "Trovões ataque + 10%, 100 Bonus"
     },
     "skill-thunder-attack-description": {
       "Key": "skill-thunder-attack-description",
-      "Translation": "Aumenta a potência do elemento de trovões ataque. (Poder de ataque elementar tem um limite máximo)."
+      "Translation": "Aumentos trovões poder elemento ataque. (Elementar poder de ataque tem um limite máximo)."
     },
     "skill-thunder-resistance": {
       "Key": "skill-thunder-resistance",
@@ -16661,11 +16661,11 @@ export default {
     },
     "skill-thunder-resistance-3": {
       "Key": "skill-thunder-resistance-3",
-      "Translation": "resistência Trovão +20, Defesa +10"
+      "Translation": "Trovão resistência +20, Defesa +10"
     },
     "skill-thunder-resistance-description": {
       "Key": "skill-thunder-resistance-description",
-      "Translation": "Aumenta a resistência trovão. Também melhora a defesa em níveis mais elevados."
+      "Translation": "Aumenta trovão resistência. Também melhora a defesa em níveis mais elevados."
     },
     "skill-tool-specialist": {
       "Key": "skill-tool-specialist",
@@ -16673,15 +16673,15 @@ export default {
     },
     "skill-tool-specialist-1": {
       "Key": "skill-tool-specialist-1",
-      "Translation": "Reduz o tempo até reutilizar por 5%."
+      "Translation": "tempo encurta até reutilização por 5%."
     },
     "skill-tool-specialist-2": {
       "Key": "skill-tool-specialist-2",
-      "Translation": "Reduz o tempo até reutilizar por 10%."
+      "Translation": "tempo encurta até reutilização por 10%."
     },
     "skill-tool-specialist-3": {
       "Key": "skill-tool-specialist-3",
-      "Translation": "Reduz o tempo até reutilizar por 20%."
+      "Translation": "tempo encurta até reutilização por 20%."
     },
     "skill-tool-specialist-description": {
       "Key": "skill-tool-specialist-description",
@@ -16693,15 +16693,15 @@ export default {
     },
     "skill-tremor-resistance-1": {
       "Key": "skill-tremor-resistance-1",
-      "Translation": "Anula tremores de terra menores."
+      "Translation": "Anula tremores menores terrestres."
     },
     "skill-tremor-resistance-2": {
       "Key": "skill-tremor-resistance-2",
-      "Translation": "Anula tremores de terra menores e reduz e efeitos de grandes tremores de terra."
+      "Translation": "Anula menores tremores de terra e reduz e efeitos de grandes tremores de terra."
     },
     "skill-tremor-resistance-3": {
       "Key": "skill-tremor-resistance-3",
-      "Translation": "Anula tremores de terra menores e maiores."
+      "Translation": "Anula menores e maiores tremores de terra."
     },
     "skill-tremor-resistance-description": {
       "Key": "skill-tremor-resistance-description",
@@ -16713,15 +16713,15 @@ export default {
     },
     "skill-water-attack-1": {
       "Key": "skill-water-attack-1",
-      "Translation": "30 ataque Água"
+      "Translation": "ataque de água 30"
     },
     "skill-water-attack-2": {
       "Key": "skill-water-attack-2",
-      "Translation": "60 ataque Água"
+      "Translation": "ataque de água 60"
     },
     "skill-water-attack-3": {
       "Key": "skill-water-attack-3",
-      "Translation": "100 ataque Água"
+      "Translation": "ataque de água 100"
     },
     "skill-water-attack-4": {
       "Key": "skill-water-attack-4",
@@ -16733,7 +16733,7 @@ export default {
     },
     "skill-water-attack-description": {
       "Key": "skill-water-attack-description",
-      "Translation": "Aumenta a potência do elemento de ataque da água. (Poder de ataque elementar tem um limite máximo)."
+      "Translation": "Aumenta a potência do elemento de ataque da água. (Elementar poder de ataque tem um limite máximo)."
     },
     "skill-water-resistance": {
       "Key": "skill-water-resistance",
@@ -16801,7 +16801,7 @@ export default {
     },
     "skill-wide-range-description": {
       "Key": "skill-wide-range-description",
-      "Translation": "Retarda os efeitos de determinados itens para afetar também os aliados próximos."
+      "Translation": "Retarda efeitos de determinados itens para também afetam os aliados próximos."
     },
     "skill-windproof": {
       "Key": "skill-windproof",
@@ -16809,23 +16809,23 @@ export default {
     },
     "skill-windproof-1": {
       "Key": "skill-windproof-1",
-      "Translation": "Ligeiramente reduz os efeitos da pressão do vento menor."
+      "Translation": "Ligeiramente reduz os efeitos de pressão menor do vento."
     },
     "skill-windproof-2": {
       "Key": "skill-windproof-2",
-      "Translation": "Reduz os efeitos da pressão do vento menor."
+      "Translation": "Reduz os efeitos da pressão menor vento."
     },
     "skill-windproof-3": {
       "Key": "skill-windproof-3",
-      "Translation": "Anula os efeitos da pressão do vento menor."
+      "Translation": "Anula os efeitos de pressão menor vento."
     },
     "skill-windproof-4": {
       "Key": "skill-windproof-4",
-      "Translation": "Nega pressão do vento menores e reduz os efeitos de maior pressão do vento."
+      "Translation": "Nega menor pressão do vento e reduz os efeitos de maior pressão do vento."
     },
     "skill-windproof-5": {
       "Key": "skill-windproof-5",
-      "Translation": "Nega pressão do vento menor e maior."
+      "Translation": "Nega menor e maior pressão do vento."
     },
     "skill-windproof-description": {
       "Key": "skill-windproof-description",
@@ -16833,7 +16833,7 @@ export default {
     },
     "trophy-a-living-fossil": {
       "Key": "trophy-a-living-fossil",
-      "Translation": "Um fóssil vivo"
+      "Translation": "Fossil A Vivo"
     },
     "trophy-a-living-fossil-description": {
       "Key": "trophy-a-living-fossil-description",
@@ -16909,7 +16909,7 @@ export default {
     },
     "trophy-bristles-for-all-description": {
       "Key": "trophy-bristles-for-all-description",
-      "Translation": "Capturar, uma criatura eriçado dura."
+      "Translation": "Capturar uma dura, criatura eriçado."
     },
     "trophy-capture-novice": {
       "Key": "trophy-capture-novice",
@@ -17005,7 +17005,7 @@ export default {
     },
     "trophy-deft-digger-description": {
       "Key": "trophy-deft-digger-description",
-      "Translation": "Capturar uma criatura que ama a cavar buracos no chão."
+      "Translation": "Capturar uma criatura que gosta de cavar buracos no chão."
     },
     "trophy-devastating-offense": {
       "Key": "trophy-devastating-offense",
@@ -17029,7 +17029,7 @@ export default {
     },
     "trophy-elderslayer-description": {
       "Key": "trophy-elderslayer-description",
-      "Translation": "Mate 50 dragões mais velhos."
+      "Translation": "Matar 50 dragões mais velhos."
     },
     "trophy-established-hunter": {
       "Key": "trophy-established-hunter",
@@ -17041,7 +17041,7 @@ export default {
     },
     "trophy-evolving-ecology": {
       "Key": "trophy-evolving-ecology",
-      "Translation": "evoluindo Ecologia"
+      "Translation": "Ecologia Evolutiva"
     },
     "trophy-evolving-ecology-description": {
       "Key": "trophy-evolving-ecology-description",
@@ -17053,7 +17053,7 @@ export default {
     },
     "trophy-experienced-rider-description": {
       "Key": "trophy-experienced-rider-description",
-      "Translation": "Use Raider montar muitas vezes."
+      "Translation": "Use Raider passeio muitas vezes."
     },
     "trophy-fates-conclusion": {
       "Key": "trophy-fates-conclusion",
@@ -17077,7 +17077,7 @@ export default {
     },
     "trophy-first-ride-description": {
       "Key": "trophy-first-ride-description",
-      "Translation": "Use o seu primeiro passeio Raider."
+      "Translation": "Use o seu primeiro Raider Ride."
     },
     "trophy-fledgling-collector": {
       "Key": "trophy-fledgling-collector",
@@ -17181,11 +17181,11 @@ export default {
     },
     "trophy-i-am-the-reinforcements-description": {
       "Key": "trophy-i-am-the-reinforcements-description",
-      "Translation": "Responder a um alargamento SOS, e ajudar a completar 10 missões."
+      "Translation": "Responder a um surto SOS, e ajudar a completar 10 missões."
     },
     "trophy-impregnable-defense": {
       "Key": "trophy-impregnable-defense",
-      "Translation": "Defesa inexpugnável"
+      "Translation": "inexpugnável Defesa"
     },
     "trophy-impregnable-defense-description": {
       "Key": "trophy-impregnable-defense-description",
@@ -17205,7 +17205,7 @@ export default {
     },
     "trophy-indomitable-description": {
       "Key": "trophy-indomitable-description",
-      "Translation": "Caçar 50 monstros temperado."
+      "Translation": "Caça 50 temperado monstros."
     },
     "trophy-indomitable-spirit": {
       "Key": "trophy-indomitable-spirit",
@@ -17217,7 +17217,7 @@ export default {
     },
     "trophy-insatiable-investigator": {
       "Key": "trophy-insatiable-investigator",
-      "Translation": "Investigador Insatiable"
+      "Translation": "Insatiable Investigator"
     },
     "trophy-insatiable-investigator-description": {
       "Key": "trophy-insatiable-investigator-description",
@@ -17269,7 +17269,7 @@ export default {
     },
     "trophy-master-slayer-description": {
       "Key": "trophy-master-slayer-description",
-      "Translation": "Slay 50 dragões mais velhos em Mestre Classificação missões."
+      "Translation": "Matar 50 dragões mais velhos em Mestre Classificação missões."
     },
     "trophy-miniature-crown": {
       "Key": "trophy-miniature-crown",
@@ -17301,7 +17301,7 @@ export default {
     },
     "trophy-mmm-so-tasty-description": {
       "Key": "trophy-mmm-so-tasty-description",
-      "Translation": "Cozinhe o primeiro bife bem-feito."
+      "Translation": "Cozinhar sua primeira bem-feito bife."
     },
     "trophy-monster-hunter": {
       "Key": "trophy-monster-hunter",
@@ -17325,11 +17325,11 @@ export default {
     },
     "trophy-monster-phd-description": {
       "Key": "trophy-monster-phd-description",
-      "Translation": "Pesquisar tudo sobre quase todos os monstro."
+      "Translation": "tudo pesquisa sobre quase todos os monstro."
     },
     "trophy-monster-slayer": {
       "Key": "trophy-monster-slayer",
-      "Translation": "assassino monstro"
+      "Translation": "monstro assassino"
     },
     "trophy-monster-slayer-description": {
       "Key": "trophy-monster-slayer-description",
@@ -17377,11 +17377,11 @@ export default {
     },
     "trophy-outstanding-observer": {
       "Key": "trophy-outstanding-observer",
-      "Translation": "Observer excelente"
+      "Translation": "Outstanding Observer"
     },
     "trophy-outstanding-observer-description": {
       "Key": "trophy-outstanding-observer-description",
-      "Translation": "Conclua muitos pedidos para a Pesquisa Lynian."
+      "Translation": "Completas muitos pedidos para a Pesquisa Lynian."
     },
     "trophy-personal-treasure": {
       "Key": "trophy-personal-treasure",
@@ -17437,7 +17437,7 @@ export default {
     },
     "trophy-snuggles-for-all-description": {
       "Key": "trophy-snuggles-for-all-description",
-      "Translation": "Capturar, uma criatura snuggly fofo."
+      "Translation": "Capturar um fofo, confortavelmente criatura."
     },
     "trophy-source-of-relaxation": {
       "Key": "trophy-source-of-relaxation",
@@ -17457,7 +17457,7 @@ export default {
     },
     "trophy-step-into-the-arena": {
       "Key": "trophy-step-into-the-arena",
-      "Translation": "Etapa na Arena"
+      "Translation": "Passo para a arena"
     },
     "trophy-step-into-the-arena-description": {
       "Key": "trophy-step-into-the-arena-description",
@@ -17485,7 +17485,7 @@ export default {
     },
     "trophy-temper-temper-description": {
       "Key": "trophy-temper-temper-description",
-      "Translation": "Caçar o seu primeiro monstro temperado."
+      "Translation": "Caçar o monstro primeiro temperado."
     },
     "trophy-the-art-of-camouflage": {
       "Key": "trophy-the-art-of-camouflage",
@@ -17513,7 +17513,7 @@ export default {
     },
     "trophy-the-elusive-elder-dragon": {
       "Key": "trophy-the-elusive-elder-dragon",
-      "Translation": "O Dragão Elder Elusive"
+      "Translation": "O Dragão Elusive Elder"
     },
     "trophy-the-elusive-elder-dragon-description": {
       "Key": "trophy-the-elusive-elder-dragon-description",
@@ -17529,7 +17529,7 @@ export default {
     },
     "trophy-the-franchise-hunter": {
       "Key": "trophy-the-franchise-hunter",
-      "Translation": "A Hunter Franchise"
+      "Translation": "A Franchise Hunter"
     },
     "trophy-the-franchise-hunter-description": {
       "Key": "trophy-the-franchise-hunter-description",
@@ -17557,7 +17557,7 @@ export default {
     },
     "trophy-the-sapphire-star-description": {
       "Key": "trophy-the-sapphire-star-description",
-      "Translation": "Resolver o mistério da Travessia Elder."
+      "Translation": "Resolver o mistério da pessoa idosa Crossing."
     },
     "trophy-the-true-hunt-begins": {
       "Key": "trophy-the-true-hunt-begins",
@@ -17617,7 +17617,7 @@ export default {
     },
     "trophy-veteran-collector": {
       "Key": "trophy-veteran-collector",
-      "Translation": "Collector veteran"
+      "Translation": "veterano Collector"
     },
     "trophy-veteran-collector-description": {
       "Key": "trophy-veteran-collector-description",
@@ -17633,7 +17633,7 @@ export default {
     },
     "ui-armor-components": {
       "Key": "ui-armor-components",
-      "Translation": "Componentes Armour"
+      "Translation": "Componentes armadura"
     },
     "ui-attack": {
       "Key": "ui-attack",
@@ -17657,7 +17657,7 @@ export default {
     },
     "ui-elder-dragons": {
       "Key": "ui-elder-dragons",
-      "Translation": "dragões Elder"
+      "Translation": "Elder Dragons"
     },
     "ui-fanged-wyverns": {
       "Key": "ui-fanged-wyverns",
@@ -17669,7 +17669,7 @@ export default {
     },
     "ui-flying-wyverns": {
       "Key": "ui-flying-wyverns",
-      "Translation": "Wyverns voadores"
+      "Translation": "Voar Wyverns"
     },
     "ui-gleaming": {
       "Key": "ui-gleaming",
@@ -17825,7 +17825,7 @@ export default {
     },
     "weapon-dual-blades-decimation-claws": {
       "Key": "weapon-dual-blades-decimation-claws",
-      "Translation": "Garras dizimação"
+      "Translation": "dizimação Claws"
     },
     "weapon-dual-blades-diablos-clubs-i": {
       "Key": "weapon-dual-blades-diablos-clubs-i",
@@ -17901,7 +17901,7 @@ export default {
     },
     "weapon-dual-blades-enduring-schism": {
       "Key": "weapon-dual-blades-enduring-schism",
-      "Translation": "Cisma Enduring"
+      "Translation": "Enduring Schism"
     },
     "weapon-dual-blades-erupter-gold-twinblades": {
       "Key": "weapon-dual-blades-erupter-gold-twinblades",
@@ -17921,7 +17921,7 @@ export default {
     },
     "weapon-dual-blades-freeze-chain-ii": {
       "Key": "weapon-dual-blades-freeze-chain-ii",
-      "Translation": "Congelar Cadeia II"
+      "Translation": "Cadeia II congelamento"
     },
     "weapon-dual-blades-freeze-daggers-i": {
       "Key": "weapon-dual-blades-freeze-daggers-i",
@@ -17949,7 +17949,7 @@ export default {
     },
     "weapon-dual-blades-holy-sabers": {
       "Key": "weapon-dual-blades-holy-sabers",
-      "Translation": "Sabres santos"
+      "Translation": "Santo Sabres"
     },
     "weapon-dual-blades-horn-gold-twinblades": {
       "Key": "weapon-dual-blades-horn-gold-twinblades",
@@ -18033,7 +18033,7 @@ export default {
     },
     "weapon-dual-blades-lurk-gold-twinblades": {
       "Key": "weapon-dual-blades-lurk-gold-twinblades",
-      "Translation": "Espreitam ouro Twinblades"
+      "Translation": "Lurk ouro Twinblades"
     },
     "weapon-dual-blades-madness-pangas-i": {
       "Key": "weapon-dual-blades-madness-pangas-i",
@@ -18213,7 +18213,7 @@ export default {
     },
     "weapon-dual-blades-wild-hatchets-i": {
       "Key": "weapon-dual-blades-wild-hatchets-i",
-      "Translation": "Machados Selvagem I"
+      "Translation": "Selvagem Machados I"
     },
     "weapon-dual-blades-wild-hatchets-ii": {
       "Key": "weapon-dual-blades-wild-hatchets-ii",
@@ -18229,7 +18229,7 @@ export default {
     },
     "weapon-dual-blades-wrathful-predation": {
       "Key": "weapon-dual-blades-wrathful-predation",
-      "Translation": "Predação irado"
+      "Translation": "wrathful Predação"
     },
     "weapon-dual-blades-xeno-raqs": {
       "Key": "weapon-dual-blades-xeno-raqs",
@@ -18605,11 +18605,11 @@ export default {
     },
     "weapon-great-sword-maladys-kiss-ii": {
       "Key": "weapon-great-sword-maladys-kiss-ii",
-      "Translation": "O beijo do Malady II"
+      "Translation": "Beijo II do Malady"
     },
     "weapon-great-sword-maladys-kiss-iii": {
       "Key": "weapon-great-sword-maladys-kiss-iii",
-      "Translation": "Beijo da doença III"
+      "Translation": "do Malady Beijo III"
     },
     "weapon-great-sword-mud-gold-fellsword": {
       "Key": "weapon-great-sword-mud-gold-fellsword",
@@ -18701,7 +18701,7 @@ export default {
     },
     "weapon-great-sword-taroth-blaze-spew": {
       "Key": "weapon-great-sword-taroth-blaze-spew",
-      "Translation": "Taroth chama \"Spew\""
+      "Translation": "Taroth chama \"vomitar\""
     },
     "weapon-great-sword-taroth-blaze-tar": {
       "Key": "weapon-great-sword-taroth-blaze-tar",
@@ -18797,7 +18797,7 @@ export default {
     },
     "weapon-gunlance-eradication-flame": {
       "Key": "weapon-gunlance-eradication-flame",
-      "Translation": "Chama erradicação"
+      "Translation": "erradicação Chama"
     },
     "weapon-gunlance-glacial-gunlance-i": {
       "Key": "weapon-gunlance-glacial-gunlance-i",
@@ -19233,7 +19233,7 @@ export default {
     },
     "weapon-hammer-jail-hammer": {
       "Key": "weapon-hammer-jail-hammer",
-      "Translation": "Martelo Jail"
+      "Translation": "Jail Martelo"
     },
     "weapon-hammer-kjarr-hammer-blast": {
       "Key": "weapon-hammer-kjarr-hammer-blast",
@@ -19305,7 +19305,7 @@ export default {
     },
     "weapon-hammer-mud-gold-bludgeon": {
       "Key": "weapon-hammer-mud-gold-bludgeon",
-      "Translation": "Mud Bludgeon ouro"
+      "Translation": "Mud ouro Bludgeon"
     },
     "weapon-hammer-nergal-crusher": {
       "Key": "weapon-hammer-nergal-crusher",
@@ -19373,7 +19373,7 @@ export default {
     },
     "weapon-hammer-taroth-hammer-spew": {
       "Key": "weapon-hammer-taroth-hammer-spew",
-      "Translation": "Taroth Hammer \"Spew\""
+      "Translation": "Taroth Hammer \"vomitar\""
     },
     "weapon-hammer-taroth-hammer-tar": {
       "Key": "weapon-hammer-taroth-hammer-tar",
@@ -19769,7 +19769,7 @@ export default {
     },
     "weapon-hunting-horn-sectored": {
       "Key": "weapon-hunting-horn-sectored",
-      "Translation": "Sectored"
+      "Translation": "sectored"
     },
     "weapon-hunting-horn-sonic-horn-i": {
       "Key": "weapon-hunting-horn-sonic-horn-i",
@@ -19837,7 +19837,7 @@ export default {
     },
     "weapon-hunting-horn-taroth-pipe-spew": {
       "Key": "weapon-hunting-horn-taroth-pipe-spew",
-      "Translation": "Taroth Pipe \"Spew\""
+      "Translation": "Taroth Pipe \"vomitar\""
     },
     "weapon-hunting-horn-taroth-pipe-stream": {
       "Key": "weapon-hunting-horn-taroth-pipe-stream",
@@ -19961,7 +19961,7 @@ export default {
     },
     "weapon-lance-blue-prominence": {
       "Key": "weapon-lance-blue-prominence",
-      "Translation": "Destaque azul"
+      "Translation": "azul Destaque"
     },
     "weapon-lance-blue-tail": {
       "Key": "weapon-lance-blue-tail",
@@ -20001,7 +20001,7 @@ export default {
     },
     "weapon-lance-crusher-gold-defender": {
       "Key": "weapon-lance-crusher-gold-defender",
-      "Translation": "Defender ouro Crusher"
+      "Translation": "Crusher ouro Defender"
     },
     "weapon-lance-daoras-fang": {
       "Key": "weapon-lance-daoras-fang",
@@ -20145,7 +20145,7 @@ export default {
     },
     "weapon-lance-heavy-bone-lance-i": {
       "Key": "weapon-lance-heavy-bone-lance-i",
-      "Translation": "Osso pesado Lance I"
+      "Translation": "Pesado óssea Lance I"
     },
     "weapon-lance-heavy-bone-lance-ii": {
       "Key": "weapon-lance-heavy-bone-lance-ii",
@@ -20249,7 +20249,7 @@ export default {
     },
     "weapon-lance-lurk-gold-defender": {
       "Key": "weapon-lance-lurk-gold-defender",
-      "Translation": "Espreitam ouro Defender"
+      "Translation": "Lurk ouro Defender"
     },
     "weapon-lance-mud-gold-defender": {
       "Key": "weapon-lance-mud-gold-defender",
@@ -20333,7 +20333,7 @@ export default {
     },
     "weapon-lance-taroth-crest-spew": {
       "Key": "weapon-lance-taroth-crest-spew",
-      "Translation": "Taroth Crest \"Spew\""
+      "Translation": "Taroth Crest \"vomitar\""
     },
     "weapon-lance-taroth-crest-stream": {
       "Key": "weapon-lance-taroth-crest-stream",
@@ -20589,7 +20589,7 @@ export default {
     },
     "weapon-long-sword-gold-poison-katana": {
       "Key": "weapon-long-sword-gold-poison-katana",
-      "Translation": "Katana veneno ouro"
+      "Translation": "Veneno Ouro Katana"
     },
     "weapon-long-sword-gyre-gold-katana": {
       "Key": "weapon-long-sword-gyre-gold-katana",
@@ -21117,7 +21117,7 @@ export default {
     },
     "weapon-sword-and-shield-heat-edge": {
       "Key": "weapon-sword-and-shield-heat-edge",
-      "Translation": "Borda de calor"
+      "Translation": "calor Borda"
     },
     "weapon-sword-and-shield-heavy-bang": {
       "Key": "weapon-sword-and-shield-heavy-bang",
@@ -21369,7 +21369,7 @@ export default {
     },
     "weapon-sword-and-shield-taroth-slicer-spew": {
       "Key": "weapon-sword-and-shield-taroth-slicer-spew",
-      "Translation": "Taroth Slicer \"Spew\""
+      "Translation": "Taroth Slicer \"vomitar\""
     },
     "weapon-sword-and-shield-taroth-slicer-stream": {
       "Key": "weapon-sword-and-shield-taroth-slicer-stream",
@@ -21613,11 +21613,11 @@ export default {
     },
     "weapon-long-sword-blinding-blaze-i": {
       "Key": "weapon-long-sword-blinding-blaze-i",
-      "Translation": "Blinding chama I"
+      "Translation": "Ofuscante chama I"
     },
     "weapon-long-sword-blinding-blaze-ii": {
       "Key": "weapon-long-sword-blinding-blaze-ii",
-      "Translation": "Blinding chama II"
+      "Translation": "Ofuscante chama II"
     },
     "weapon-tree-barioth-tree": {
       "Key": "weapon-tree-barioth-tree",
@@ -21801,7 +21801,7 @@ export default {
     },
     "weapon-long-sword-tigrine-need": {
       "Key": "weapon-long-sword-tigrine-need",
-      "Translation": "Necessidade tigrine"
+      "Translation": "tigrine Necessidade"
     },
     "weapon-tree-yian-garuga-tree": {
       "Key": "weapon-tree-yian-garuga-tree",
@@ -21889,7 +21889,7 @@ export default {
     },
     "weapon-long-sword-hidden-saber": {
       "Key": "weapon-long-sword-hidden-saber",
-      "Translation": "Saber escondido"
+      "Translation": "oculto Saber"
     },
     "weapon-long-sword-hidden-saber-plus": {
       "Key": "weapon-long-sword-hidden-saber-plus",
@@ -21897,7 +21897,7 @@ export default {
     },
     "weapon-long-sword-deepest-night": {
       "Key": "weapon-long-sword-deepest-night",
-      "Translation": "Noite mais profunda"
+      "Translation": "Deepest Noite"
     },
     "weapon-gunlance-chrome-halberd-i": {
       "Key": "weapon-gunlance-chrome-halberd-i",
@@ -21921,7 +21921,7 @@ export default {
     },
     "weapon-gunlance-ruinous-eradication": {
       "Key": "weapon-gunlance-ruinous-eradication",
-      "Translation": "Erradicação ruinosa"
+      "Translation": "ruinosa Erradicação"
     },
     "weapon-gunlance-mythic-kadachi-striker-plus": {
       "Key": "weapon-gunlance-mythic-kadachi-striker-plus",
@@ -21953,7 +21953,7 @@ export default {
     },
     "weapon-gunlance-royal-burst-plus": {
       "Key": "weapon-gunlance-royal-burst-plus",
-      "Translation": "Explosão real +"
+      "Translation": "Real Explosão +"
     },
     "weapon-gunlance-highnesss-fury": {
       "Key": "weapon-gunlance-highnesss-fury",
@@ -21997,7 +21997,7 @@ export default {
     },
     "weapon-gunlance-dragonpike-quake-i": {
       "Key": "weapon-gunlance-dragonpike-quake-i",
-      "Translation": "Dragonpike \"Quake\" Eu"
+      "Translation": "Dragonpike I \"Quake\""
     },
     "weapon-gunlance-dragonpike-quake-ii": {
       "Key": "weapon-gunlance-dragonpike-quake-ii",
@@ -22041,7 +22041,7 @@ export default {
     },
     "weapon-gunlance-accursed-blast": {
       "Key": "weapon-gunlance-accursed-blast",
-      "Translation": "explosão Accursed"
+      "Translation": "maldita explosão"
     },
     "weapon-gunlance-flamebite": {
       "Key": "weapon-gunlance-flamebite",
@@ -22133,7 +22133,7 @@ export default {
     },
     "weapon-gunlance-broken-silence": {
       "Key": "weapon-gunlance-broken-silence",
-      "Translation": "Silêncio quebrado"
+      "Translation": "Broken Silence"
     },
     "weapon-gunlance-magda-lahat-reforged": {
       "Key": "weapon-gunlance-magda-lahat-reforged",
@@ -22209,7 +22209,7 @@ export default {
     },
     "weapon-dual-blades-ruinous-decimation": {
       "Key": "weapon-dual-blades-ruinous-decimation",
-      "Translation": "Decimation ruinosa"
+      "Translation": "ruinosa Decimation"
     },
     "weapon-dual-blades-cross-destroyers-i": {
       "Key": "weapon-dual-blades-cross-destroyers-i",
@@ -22261,7 +22261,7 @@ export default {
     },
     "weapon-dual-blades-accursed-chain": {
       "Key": "weapon-dual-blades-accursed-chain",
-      "Translation": "Cadeia Accursed"
+      "Translation": "Cadeia amaldiçoado"
     },
     "weapon-dual-blades-twin-flames": {
       "Key": "weapon-dual-blades-twin-flames",
@@ -22277,7 +22277,7 @@ export default {
     },
     "weapon-dual-blades-master-sabers": {
       "Key": "weapon-dual-blades-master-sabers",
-      "Translation": "Sabres mestre"
+      "Translation": "mestre Sabres"
     },
     "weapon-dual-blades-holy-guild-knight": {
       "Key": "weapon-dual-blades-holy-guild-knight",
@@ -22301,7 +22301,7 @@ export default {
     },
     "weapon-dual-blades-untouched-hel": {
       "Key": "weapon-dual-blades-untouched-hel",
-      "Translation": "Hel intocado"
+      "Translation": "intocado Hel"
     },
     "weapon-dual-blades-anja-twinrippers-i": {
       "Key": "weapon-dual-blades-anja-twinrippers-i",
@@ -22333,7 +22333,7 @@ export default {
     },
     "weapon-dual-blades-the-stripping-shears": {
       "Key": "weapon-dual-blades-the-stripping-shears",
-      "Translation": "As tesouras de decapagem"
+      "Translation": "O descascamento Shears"
     },
     "weapon-dual-blades-mammoth-direbones-i": {
       "Key": "weapon-dual-blades-mammoth-direbones-i",
@@ -22381,7 +22381,7 @@ export default {
     },
     "weapon-dual-blades-smoldering-cities-plus": {
       "Key": "weapon-dual-blades-smoldering-cities-plus",
-      "Translation": "Latente Cidades +"
+      "Translation": "Fumegantes Cidades +"
     },
     "weapon-dual-blades-smoldering-kingdoms": {
       "Key": "weapon-dual-blades-smoldering-kingdoms",
@@ -22437,11 +22437,11 @@ export default {
     },
     "weapon-dual-blades-enduring-sacrifice": {
       "Key": "weapon-dual-blades-enduring-sacrifice",
-      "Translation": "Sacrifício Enduring"
+      "Translation": "duradoura Sacrifício"
     },
     "weapon-dual-blades-enduring-surrender": {
       "Key": "weapon-dual-blades-enduring-surrender",
-      "Translation": "Rendição Enduring"
+      "Translation": "duradoura rendição"
     },
     "weapon-dual-blades-wunderkirins": {
       "Key": "weapon-dual-blades-wunderkirins",
@@ -22485,7 +22485,7 @@ export default {
     },
     "weapon-great-sword-ruinous-atrocity": {
       "Key": "weapon-great-sword-ruinous-atrocity",
-      "Translation": "Atrocity ruinosa"
+      "Translation": "ruinosa Atrocity"
     },
     "weapon-great-sword-lightning-punisher-iv": {
       "Key": "weapon-great-sword-lightning-punisher-iv",
@@ -22493,7 +22493,7 @@ export default {
     },
     "weapon-great-sword-severing-bolt-i": {
       "Key": "weapon-great-sword-severing-bolt-i",
-      "Translation": "Cortando Parafuso I"
+      "Translation": "Severing Parafuso I"
     },
     "weapon-great-sword-frost-blaze-iii": {
       "Key": "weapon-great-sword-frost-blaze-iii",
@@ -22633,7 +22633,7 @@ export default {
     },
     "weapon-great-sword-monstrous-madness": {
       "Key": "weapon-great-sword-monstrous-madness",
-      "Translation": "Loucura monstruosa"
+      "Translation": "monstruosa loucura"
     },
     "weapon-great-sword-don-monstro": {
       "Key": "weapon-great-sword-don-monstro",
@@ -22765,7 +22765,7 @@ export default {
     },
     "weapon-lance-chrome-drill-i": {
       "Key": "weapon-lance-chrome-drill-i",
-      "Translation": "Chrome Broca I"
+      "Translation": "Chrome Perfurar I"
     },
     "weapon-lance-chrome-drill-ii": {
       "Key": "weapon-lance-chrome-drill-ii",
@@ -22781,7 +22781,7 @@ export default {
     },
     "weapon-lance-ruinous-perdition": {
       "Key": "weapon-lance-ruinous-perdition",
-      "Translation": "Perdição ruinosa"
+      "Translation": "ruinosa Perdição"
     },
     "weapon-lance-legiana-halberd-iii": {
       "Key": "weapon-lance-legiana-halberd-iii",
@@ -22821,7 +22821,7 @@ export default {
     },
     "weapon-lance-gama-drill-ii": {
       "Key": "weapon-lance-gama-drill-ii",
-      "Translation": "Gama Broca II"
+      "Translation": "Gama Perfurar II"
     },
     "weapon-lance-hidden-hastur-i": {
       "Key": "weapon-lance-hidden-hastur-i",
@@ -22865,15 +22865,15 @@ export default {
     },
     "weapon-lance-blue-prominence-plus": {
       "Key": "weapon-lance-blue-prominence-plus",
-      "Translation": "Destaque Azul +"
+      "Translation": "Azul Destaque +"
     },
     "weapon-lance-soul-prominence": {
       "Key": "weapon-lance-soul-prominence",
-      "Translation": "Destaque alma"
+      "Translation": "alma Destaque"
     },
     "weapon-lance-silver-prominence": {
       "Key": "weapon-lance-silver-prominence",
-      "Translation": "Destaque prata"
+      "Translation": "prata Destaque"
     },
     "weapon-lance-grand-halberd-i": {
       "Key": "weapon-lance-grand-halberd-i",
@@ -22993,7 +22993,7 @@ export default {
     },
     "weapon-lance-unblinking-gatekeeper": {
       "Key": "weapon-lance-unblinking-gatekeeper",
-      "Translation": "Gatekeeper unblinking"
+      "Translation": "unblinking Gatekeeper"
     },
     "weapon-lance-blasting-siegespear": {
       "Key": "weapon-lance-blasting-siegespear",
@@ -23013,7 +23013,7 @@ export default {
     },
     "weapon-lance-lost-babel": {
       "Key": "weapon-lance-lost-babel",
-      "Translation": "perdeu Babel"
+      "Translation": "perdido Babel"
     },
     "weapon-lance-fates-spindle": {
       "Key": "weapon-lance-fates-spindle",
@@ -23046,5 +23046,741 @@ export default {
     "weapon-lance-great-demon-lance": {
       "Key": "weapon-lance-great-demon-lance",
       "Translation": "Grande Demônio Lance"
+    },
+    "weapon-sword-and-shield-chrome-knight-sword-i": {
+      "Key": "weapon-sword-and-shield-chrome-knight-sword-i",
+      "Translation": "Chrome Cavaleiro Espada I"
+    },
+    "weapon-sword-and-shield-chrome-knight-sword-ii": {
+      "Key": "weapon-sword-and-shield-chrome-knight-sword-ii",
+      "Translation": "Chrome Cavaleiro Espada II"
+    },
+    "weapon-sword-and-shield-chrome-knight-sword-iii": {
+      "Key": "weapon-sword-and-shield-chrome-knight-sword-iii",
+      "Translation": "Cromo Cavaleiro Espada III"
+    },
+    "weapon-sword-and-shield-ruinous-eradication": {
+      "Key": "weapon-sword-and-shield-ruinous-eradication",
+      "Translation": "ruinosa Erradicação"
+    },
+    "weapon-sword-and-shield-corona-plus": {
+      "Key": "weapon-sword-and-shield-corona-plus",
+      "Translation": "Corona +"
+    },
+    "weapon-sword-and-shield-blue-corona": {
+      "Key": "weapon-sword-and-shield-blue-corona",
+      "Translation": "azul Corona"
+    },
+    "weapon-sword-and-shield-shining-wyvern-blade": {
+      "Key": "weapon-sword-and-shield-shining-wyvern-blade",
+      "Translation": "Brilhando Wyvern Lâmina"
+    },
+    "weapon-sword-and-shield-legacy-bang": {
+      "Key": "weapon-sword-and-shield-legacy-bang",
+      "Translation": "legado bang"
+    },
+    "weapon-sword-and-shield-legendary-bang": {
+      "Key": "weapon-sword-and-shield-legendary-bang",
+      "Translation": "Legendary bang"
+    },
+    "weapon-sword-and-shield-rogue-wave-iv": {
+      "Key": "weapon-sword-and-shield-rogue-wave-iv",
+      "Translation": "Rogue Wave IV"
+    },
+    "weapon-sword-and-shield-laguna-blossom-i": {
+      "Key": "weapon-sword-and-shield-laguna-blossom-i",
+      "Translation": "Laguna Blossom I"
+    },
+    "weapon-sword-and-shield-laguna-blossom-ii": {
+      "Key": "weapon-sword-and-shield-laguna-blossom-ii",
+      "Translation": "Laguna Blossom II"
+    },
+    "weapon-sword-and-shield-icicle-spike": {
+      "Key": "weapon-sword-and-shield-icicle-spike",
+      "Translation": "sincelo de Spike"
+    },
+    "weapon-sword-and-shield-icicle-spike-plus": {
+      "Key": "weapon-sword-and-shield-icicle-spike-plus",
+      "Translation": "Sincelo Pico +"
+    },
+    "weapon-sword-and-shield-nardebosche": {
+      "Key": "weapon-sword-and-shield-nardebosche",
+      "Translation": "Nardebosche"
+    },
+    "weapon-sword-and-shield-legia-rimespire-plus": {
+      "Key": "weapon-sword-and-shield-legia-rimespire-plus",
+      "Translation": "Legia Rimespire +"
+    },
+    "weapon-sword-and-shield-hoarcry-rimespire": {
+      "Key": "weapon-sword-and-shield-hoarcry-rimespire",
+      "Translation": "Hoarcry Rimespire"
+    },
+    "weapon-sword-and-shield-nephilim-glacia": {
+      "Key": "weapon-sword-and-shield-nephilim-glacia",
+      "Translation": "Nephilim Glacia"
+    },
+    "weapon-sword-and-shield-rose-highness": {
+      "Key": "weapon-sword-and-shield-rose-highness",
+      "Translation": "Rose Alteza"
+    },
+    "weapon-sword-and-shield-lunatic-rose": {
+      "Key": "weapon-sword-and-shield-lunatic-rose",
+      "Translation": "Lunatic Rose"
+    },
+    "weapon-sword-and-shield-lumu-nightmare-i": {
+      "Key": "weapon-sword-and-shield-lumu-nightmare-i",
+      "Translation": "Lumu Pesadelo I"
+    },
+    "weapon-sword-and-shield-lumu-nightmare-ii": {
+      "Key": "weapon-sword-and-shield-lumu-nightmare-ii",
+      "Translation": "Lumu pesadelo II"
+    },
+    "weapon-sword-and-shield-nyx-tabar-i": {
+      "Key": "weapon-sword-and-shield-nyx-tabar-i",
+      "Translation": "Nyx Tabar I"
+    },
+    "weapon-sword-and-shield-nyx-tabar-ii": {
+      "Key": "weapon-sword-and-shield-nyx-tabar-ii",
+      "Translation": "Nyx Tabar II"
+    },
+    "weapon-sword-and-shield-datura-florescence-i": {
+      "Key": "weapon-sword-and-shield-datura-florescence-i",
+      "Translation": "Datura Florescence I"
+    },
+    "weapon-sword-and-shield-datura-florescence-ii": {
+      "Key": "weapon-sword-and-shield-datura-florescence-ii",
+      "Translation": "Datura Florescence II"
+    },
+    "weapon-sword-and-shield-dios-edge": {
+      "Key": "weapon-sword-and-shield-dios-edge",
+      "Translation": "Dios Borda"
+    },
+    "weapon-sword-and-shield-booming-barrage": {
+      "Key": "weapon-sword-and-shield-booming-barrage",
+      "Translation": "Booming Barrage"
+    },
+    "weapon-sword-and-shield-naaga-seax-i": {
+      "Key": "weapon-sword-and-shield-naaga-seax-i",
+      "Translation": "Naaga Seax I"
+    },
+    "weapon-sword-and-shield-naaga-seax-ii": {
+      "Key": "weapon-sword-and-shield-naaga-seax-ii",
+      "Translation": "Naaga Seax II"
+    },
+    "weapon-sword-and-shield-hidden-edge": {
+      "Key": "weapon-sword-and-shield-hidden-edge",
+      "Translation": "Borda escondida"
+    },
+    "weapon-sword-and-shield-hidden-edge-plus": {
+      "Key": "weapon-sword-and-shield-hidden-edge-plus",
+      "Translation": "Oculto Borda +"
+    },
+    "weapon-sword-and-shield-flash-in-the-night": {
+      "Key": "weapon-sword-and-shield-flash-in-the-night",
+      "Translation": "Luz na noite"
+    },
+    "weapon-sword-and-shield-radobaan-os-i": {
+      "Key": "weapon-sword-and-shield-radobaan-os-i",
+      "Translation": "Radobaan Os I"
+    },
+    "weapon-sword-and-shield-radobaan-os-ii": {
+      "Key": "weapon-sword-and-shield-radobaan-os-ii",
+      "Translation": "Radobaan Os II"
+    },
+    "weapon-sword-and-shield-radobaan-os-iii": {
+      "Key": "weapon-sword-and-shield-radobaan-os-iii",
+      "Translation": "Os Radobaan III"
+    },
+    "weapon-sword-and-shield-icegale": {
+      "Key": "weapon-sword-and-shield-icegale",
+      "Translation": "Icegale"
+    },
+    "weapon-sword-and-shield-radobaan-osseus-i": {
+      "Key": "weapon-sword-and-shield-radobaan-osseus-i",
+      "Translation": "Radobaan ósseas I"
+    },
+    "weapon-sword-and-shield-radobaan-osseus-ii": {
+      "Key": "weapon-sword-and-shield-radobaan-osseus-ii",
+      "Translation": "Radobaan ósseas II"
+    },
+    "weapon-sword-and-shield-acid-razor-i": {
+      "Key": "weapon-sword-and-shield-acid-razor-i",
+      "Translation": "Ácido Navalha I"
+    },
+    "weapon-sword-and-shield-acid-razor-ii": {
+      "Key": "weapon-sword-and-shield-acid-razor-ii",
+      "Translation": "Ácido lâmina II"
+    },
+    "weapon-sword-and-shield-sabers-gullet-i": {
+      "Key": "weapon-sword-and-shield-sabers-gullet-i",
+      "Translation": "Sabre Gullet I"
+    },
+    "weapon-sword-and-shield-sabers-gullet-ii": {
+      "Key": "weapon-sword-and-shield-sabers-gullet-ii",
+      "Translation": "Sabre Gullet II"
+    },
+    "weapon-sword-and-shield-rex-talon": {
+      "Key": "weapon-sword-and-shield-rex-talon",
+      "Translation": "Rex Talon"
+    },
+    "weapon-sword-and-shield-rex-talon-plus": {
+      "Key": "weapon-sword-and-shield-rex-talon-plus",
+      "Translation": "Rex Talon +"
+    },
+    "weapon-sword-and-shield-tigrex-sword": {
+      "Key": "weapon-sword-and-shield-tigrex-sword",
+      "Translation": "Tigrex Espada"
+    },
+    "weapon-sword-and-shield-accursed-claw": {
+      "Key": "weapon-sword-and-shield-accursed-claw",
+      "Translation": "maldito Garra"
+    },
+    "weapon-sword-and-shield-stonebite": {
+      "Key": "weapon-sword-and-shield-stonebite",
+      "Translation": "Stonebite"
+    },
+    "weapon-sword-and-shield-lightning-nemesis-iv": {
+      "Key": "weapon-sword-and-shield-lightning-nemesis-iv",
+      "Translation": "Relâmpago Nemesis IV"
+    },
+    "weapon-sword-and-shield-usurpers-firebolt": {
+      "Key": "weapon-sword-and-shield-usurpers-firebolt",
+      "Translation": "Firebolt usurpador"
+    },
+    "weapon-sword-and-shield-usurpers-firebolt-plus": {
+      "Key": "weapon-sword-and-shield-usurpers-firebolt-plus",
+      "Translation": "usurpador Firebolt +"
+    },
+    "weapon-sword-and-shield-despots-crookbolt": {
+      "Key": "weapon-sword-and-shield-despots-crookbolt",
+      "Translation": "Crookbolt déspota"
+    },
+    "weapon-sword-and-shield-barroth-slicer-i": {
+      "Key": "weapon-sword-and-shield-barroth-slicer-i",
+      "Translation": "Barroth Slicer I"
+    },
+    "weapon-sword-and-shield-barroth-slicer-ii": {
+      "Key": "weapon-sword-and-shield-barroth-slicer-ii",
+      "Translation": "Barroth Slicer II"
+    },
+    "weapon-sword-and-shield-glavenus-razor-i": {
+      "Key": "weapon-sword-and-shield-glavenus-razor-i",
+      "Translation": "Glavenus Navalha I"
+    },
+    "weapon-sword-and-shield-glavenus-razor-ii": {
+      "Key": "weapon-sword-and-shield-glavenus-razor-ii",
+      "Translation": "Glavenus Navalha II"
+    },
+    "weapon-sword-and-shield-gnashing-flammensucher-plus": {
+      "Key": "weapon-sword-and-shield-gnashing-flammensucher-plus",
+      "Translation": "Ranger Flammensucher +"
+    },
+    "weapon-sword-and-shield-lohensieger": {
+      "Key": "weapon-sword-and-shield-lohensieger",
+      "Translation": "Lohensieger"
+    },
+    "weapon-sword-and-shield-donnersieger": {
+      "Key": "weapon-sword-and-shield-donnersieger",
+      "Translation": "Donnersieger"
+    },
+    "weapon-sword-and-shield-donnersieger-plus": {
+      "Key": "weapon-sword-and-shield-donnersieger-plus",
+      "Translation": "Donnersieger +"
+    },
+    "weapon-sword-and-shield-fulgurations-talon": {
+      "Key": "weapon-sword-and-shield-fulgurations-talon",
+      "Translation": "Talon da fulguração"
+    },
+    "weapon-sword-and-shield-dragonseal-aldsword-i": {
+      "Key": "weapon-sword-and-shield-dragonseal-aldsword-i",
+      "Translation": "Dragonseal Aldsword I"
+    },
+    "weapon-sword-and-shield-dragonseal-aldsword-ii": {
+      "Key": "weapon-sword-and-shield-dragonseal-aldsword-ii",
+      "Translation": "Dragonseal Aldsword II"
+    },
+    "weapon-sword-and-shield-manifested-lotus": {
+      "Key": "weapon-sword-and-shield-manifested-lotus",
+      "Translation": "manifestado Lotus"
+    },
+    "weapon-sword-and-shield-ephemeral-fulminator": {
+      "Key": "weapon-sword-and-shield-ephemeral-fulminator",
+      "Translation": "efêmera Fulminator"
+    },
+    "weapon-sword-and-shield-hydros-discus": {
+      "Key": "weapon-sword-and-shield-hydros-discus",
+      "Translation": "Hydros Discus"
+    },
+    "weapon-sword-and-shield-teostras-medal": {
+      "Key": "weapon-sword-and-shield-teostras-medal",
+      "Translation": "Medalha de Teostra"
+    },
+    "weapon-sword-and-shield-fates-shear": {
+      "Key": "weapon-sword-and-shield-fates-shear",
+      "Translation": "Cisalhamento de destino"
+    },
+    "weapon-sword-and-shield-soulfire-barb-blaze": {
+      "Key": "weapon-sword-and-shield-soulfire-barb-blaze",
+      "Translation": "Soulfire Barb \"chama\""
+    },
+    "weapon-sword-and-shield-soulfire-barb-ruin": {
+      "Key": "weapon-sword-and-shield-soulfire-barb-ruin",
+      "Translation": "Soulfire Barb \"Ruin\""
+    },
+    "weapon-sword-and-shield-rajang-club": {
+      "Key": "weapon-sword-and-shield-rajang-club",
+      "Translation": "Rajang Clube"
+    },
+    "weapon-sword-and-shield-banned-rajang-club": {
+      "Key": "weapon-sword-and-shield-banned-rajang-club",
+      "Translation": "Banido Rajang Clube"
+    },
+    "weapon-bow-dragon-perforator-i": {
+      "Key": "weapon-bow-dragon-perforator-i",
+      "Translation": "Dragão Perfurador I"
+    },
+    "weapon-bow-dragon-perforator-ii": {
+      "Key": "weapon-bow-dragon-perforator-ii",
+      "Translation": "Dragão Perfurador II"
+    },
+    "weapon-bow-dragon-perforator-iii": {
+      "Key": "weapon-bow-dragon-perforator-iii",
+      "Translation": "Dragão Perfurador III"
+    },
+    "weapon-bow-usurpers-rumble": {
+      "Key": "weapon-bow-usurpers-rumble",
+      "Translation": "Rumble usurpador"
+    },
+    "weapon-bow-usurpers-rumble-plus": {
+      "Key": "weapon-bow-usurpers-rumble-plus",
+      "Translation": "usurpador Rumble +"
+    },
+    "weapon-bow-despots-earlybolt": {
+      "Key": "weapon-bow-despots-earlybolt",
+      "Translation": "Earlybolt déspota"
+    },
+    "weapon-bow-alqaws-al-nasr-i": {
+      "Key": "weapon-bow-alqaws-al-nasr-i",
+      "Translation": "Alqaws al-Nasr I"
+    },
+    "weapon-bow-alqaws-al-nasr-ii": {
+      "Key": "weapon-bow-alqaws-al-nasr-ii",
+      "Translation": "Alqaws al-Nasr II"
+    },
+    "weapon-bow-rex-bow-i": {
+      "Key": "weapon-bow-rex-bow-i",
+      "Translation": "Rex Bow I"
+    },
+    "weapon-bow-rex-bow-ii": {
+      "Key": "weapon-bow-rex-bow-ii",
+      "Translation": "Rex Bow II"
+    },
+    "weapon-bow-accursed-arc": {
+      "Key": "weapon-bow-accursed-arc",
+      "Translation": "maldito Arc"
+    },
+    "weapon-bow-dios-flier": {
+      "Key": "weapon-bow-dios-flier",
+      "Translation": "Dios Flier"
+    },
+    "weapon-bow-tsali-flier": {
+      "Key": "weapon-bow-tsali-flier",
+      "Translation": "Tsali Flier"
+    },
+    "weapon-bow-gigacles-plus": {
+      "Key": "weapon-bow-gigacles-plus",
+      "Translation": "Gigacles +"
+    },
+    "weapon-bow-gigantomachy": {
+      "Key": "weapon-bow-gigantomachy",
+      "Translation": "gigantomaquia"
+    },
+    "weapon-bow-princess-arrow-iv": {
+      "Key": "weapon-bow-princess-arrow-iv",
+      "Translation": "Princesa Seta IV"
+    },
+    "weapon-bow-rathslinger-iv": {
+      "Key": "weapon-bow-rathslinger-iv",
+      "Translation": "Rathslinger IV"
+    },
+    "weapon-bow-azure-mightbow": {
+      "Key": "weapon-bow-azure-mightbow",
+      "Translation": "Azure Mightbow"
+    },
+    "weapon-bow-water-shot-iv": {
+      "Key": "weapon-bow-water-shot-iv",
+      "Translation": "Água Tiro IV"
+    },
+    "weapon-bow-laguna-shot-i": {
+      "Key": "weapon-bow-laguna-shot-i",
+      "Translation": "Laguna tiro que eu"
+    },
+    "weapon-bow-laguna-shot-ii": {
+      "Key": "weapon-bow-laguna-shot-ii",
+      "Translation": "Shot II Laguna"
+    },
+    "weapon-bow-icicle-blizzard-i": {
+      "Key": "weapon-bow-icicle-blizzard-i",
+      "Translation": "Sincelo a Blizzard I"
+    },
+    "weapon-bow-icicle-blizzard-ii": {
+      "Key": "weapon-bow-icicle-blizzard-ii",
+      "Translation": "Sincelo a Blizzard II"
+    },
+    "weapon-bow-hidden-bow": {
+      "Key": "weapon-bow-hidden-bow",
+      "Translation": "Bow escondido"
+    },
+    "weapon-bow-hidden-bow-plus": {
+      "Key": "weapon-bow-hidden-bow-plus",
+      "Translation": "Oculto Bow +"
+    },
+    "weapon-bow-night-flight": {
+      "Key": "weapon-bow-night-flight",
+      "Translation": "Voo noturno"
+    },
+    "weapon-bow-legia-snowfletcher-plus": {
+      "Key": "weapon-bow-legia-snowfletcher-plus",
+      "Translation": "Legia Snowfletcher +"
+    },
+    "weapon-bow-hoarcry-snowfletcher": {
+      "Key": "weapon-bow-hoarcry-snowfletcher",
+      "Translation": "Hoarcry Snowfletcher"
+    },
+    "weapon-bow-mist-glacia": {
+      "Key": "weapon-bow-mist-glacia",
+      "Translation": "névoa Glacia"
+    },
+    "weapon-bow-hunters-bravebow-i": {
+      "Key": "weapon-bow-hunters-bravebow-i",
+      "Translation": "Hunter Bravebow I"
+    },
+    "weapon-bow-hunters-bravebow-ii": {
+      "Key": "weapon-bow-hunters-bravebow-ii",
+      "Translation": "Hunter Bravebow II"
+    },
+    "weapon-bow-hunters-bravebow-iii": {
+      "Key": "weapon-bow-hunters-bravebow-iii",
+      "Translation": "Hunter Bravebow III"
+    },
+    "weapon-bow-iceflinger": {
+      "Key": "weapon-bow-iceflinger",
+      "Translation": "Iceflinger"
+    },
+    "weapon-bow-alluring-evelia": {
+      "Key": "weapon-bow-alluring-evelia",
+      "Translation": "sedutor Evelia"
+    },
+    "weapon-bow-mammoth-greatbow-i": {
+      "Key": "weapon-bow-mammoth-greatbow-i",
+      "Translation": "Mammoth Greatbow I"
+    },
+    "weapon-bow-mammoth-greatbow-ii": {
+      "Key": "weapon-bow-mammoth-greatbow-ii",
+      "Translation": "Mammoth Greatbow II"
+    },
+    "weapon-bow-glavenus-arrow-i": {
+      "Key": "weapon-bow-glavenus-arrow-i",
+      "Translation": "Glavenus Seta I"
+    },
+    "weapon-bow-glavenus-arrow-ii": {
+      "Key": "weapon-bow-glavenus-arrow-ii",
+      "Translation": "Glavenus Seta II"
+    },
+    "weapon-bow-acidic-arrow-i": {
+      "Key": "weapon-bow-acidic-arrow-i",
+      "Translation": "Ácida Seta I"
+    },
+    "monster-stygian-zinogre": {
+      "Key": "monster-stygian-zinogre",
+      "Translation": "Stygian Zinogre"
+    },
+    "monster-safijiiva": {
+      "Key": "monster-safijiiva",
+      "Translation": "Safi'jiiva"
+    },
+    "weapon-tree-defender-tree": {
+      "Key": "weapon-tree-defender-tree",
+      "Translation": "Árvore Defender"
+    },
+    "weapon-bow-defender-powerbow-i": {
+      "Key": "weapon-bow-defender-powerbow-i",
+      "Translation": "Defender PowerBow I"
+    },
+    "weapon-bow-defender-powerbow-ii": {
+      "Key": "weapon-bow-defender-powerbow-ii",
+      "Translation": "Defender PowerBow II"
+    },
+    "weapon-bow-defender-powerbow-iii": {
+      "Key": "weapon-bow-defender-powerbow-iii",
+      "Translation": "Defender PowerBow III"
+    },
+    "weapon-bow-defender-powerbow-iv": {
+      "Key": "weapon-bow-defender-powerbow-iv",
+      "Translation": "Defender PowerBow IV"
+    },
+    "weapon-bow-defender-powerbow-v": {
+      "Key": "weapon-bow-defender-powerbow-v",
+      "Translation": "O defesa PowerBow V"
+    },
+    "weapon-bow-defender-shield-i": {
+      "Key": "weapon-bow-defender-shield-i",
+      "Translation": "Defender Escudo I"
+    },
+    "weapon-bow-defender-shield-ii": {
+      "Key": "weapon-bow-defender-shield-ii",
+      "Translation": "Defender Escudo II"
+    },
+    "weapon-bow-defender-shield-iii": {
+      "Key": "weapon-bow-defender-shield-iii",
+      "Translation": "Defender Escudo III"
+    },
+    "weapon-bow-defender-shield-iv": {
+      "Key": "weapon-bow-defender-shield-iv",
+      "Translation": "Defender Escudo IV"
+    },
+    "weapon-bow-defender-shield-v": {
+      "Key": "weapon-bow-defender-shield-v",
+      "Translation": "Defender Escudo V"
+    },
+    "weapon-dual-blades-defender-chainsaws-i": {
+      "Key": "weapon-dual-blades-defender-chainsaws-i",
+      "Translation": "Defender Motosserras I"
+    },
+    "weapon-dual-blades-defender-chainsaws-ii": {
+      "Key": "weapon-dual-blades-defender-chainsaws-ii",
+      "Translation": "Defender Motosserras II"
+    },
+    "weapon-dual-blades-defender-chainsaws-iii": {
+      "Key": "weapon-dual-blades-defender-chainsaws-iii",
+      "Translation": "Defender Motosserras III"
+    },
+    "weapon-dual-blades-defender-chainsaws-iv": {
+      "Key": "weapon-dual-blades-defender-chainsaws-iv",
+      "Translation": "Defender Motosserras IV"
+    },
+    "weapon-dual-blades-defender-chainsaws-v": {
+      "Key": "weapon-dual-blades-defender-chainsaws-v",
+      "Translation": "O defesa Chainsaws V"
+    },
+    "weapon-great-sword-defender-great-sword-i": {
+      "Key": "weapon-great-sword-defender-great-sword-i",
+      "Translation": "Defender Grande espada I"
+    },
+    "weapon-great-sword-defender-great-sword-ii": {
+      "Key": "weapon-great-sword-defender-great-sword-ii",
+      "Translation": "Defender Grande espada II"
+    },
+    "weapon-great-sword-defender-great-sword-iii": {
+      "Key": "weapon-great-sword-defender-great-sword-iii",
+      "Translation": "Defender Grande espada III"
+    },
+    "weapon-great-sword-defender-great-sword-iv": {
+      "Key": "weapon-great-sword-defender-great-sword-iv",
+      "Translation": "Defender Grande espada IV"
+    },
+    "weapon-great-sword-defender-great-sword-v": {
+      "Key": "weapon-great-sword-defender-great-sword-v",
+      "Translation": "Defender Grande espada V"
+    },
+    "weapon-gunlance-defender-gunlance-i": {
+      "Key": "weapon-gunlance-defender-gunlance-i",
+      "Translation": "Defender Gunlance I"
+    },
+    "weapon-gunlance-defender-gunlance-ii": {
+      "Key": "weapon-gunlance-defender-gunlance-ii",
+      "Translation": "Defender Gunlance II"
+    },
+    "weapon-gunlance-defender-gunlance-iii": {
+      "Key": "weapon-gunlance-defender-gunlance-iii",
+      "Translation": "Defender Gunlance III"
+    },
+    "weapon-gunlance-defender-gunlance-iv": {
+      "Key": "weapon-gunlance-defender-gunlance-iv",
+      "Translation": "Defender Gunlance IV"
+    },
+    "weapon-gunlance-defender-gunlance-v": {
+      "Key": "weapon-gunlance-defender-gunlance-v",
+      "Translation": "O defesa Gunlance V"
+    },
+    "weapon-gunlance-defender-warhammer-i": {
+      "Key": "weapon-gunlance-defender-warhammer-i",
+      "Translation": "Defender Warhammer I"
+    },
+    "weapon-gunlance-defender-warhammer-ii": {
+      "Key": "weapon-gunlance-defender-warhammer-ii",
+      "Translation": "Defender Warhammer II"
+    },
+    "weapon-gunlance-defender-warhammer-iii": {
+      "Key": "weapon-gunlance-defender-warhammer-iii",
+      "Translation": "Defender Warhammer III"
+    },
+    "weapon-gunlance-defender-warhammer-iv": {
+      "Key": "weapon-gunlance-defender-warhammer-iv",
+      "Translation": "Defender Warhammer IV"
+    },
+    "weapon-gunlance-defender-warhammer-v": {
+      "Key": "weapon-gunlance-defender-warhammer-v",
+      "Translation": "O defesa Warhammer V"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-i": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-i",
+      "Translation": "Defender pesado Bowgun I"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-ii": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-ii",
+      "Translation": "Defender pesado Bowgun II"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-iii": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-iii",
+      "Translation": "Defender pesado Bowgun III"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-iv": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-iv",
+      "Translation": "Defender pesado Bowgun IV"
+    },
+    "weapon-gunlance-defender-heavy-bowgun-v": {
+      "Key": "weapon-gunlance-defender-heavy-bowgun-v",
+      "Translation": "O defesa pesada Bowgun V"
+    },
+    "weapon-hunting-horn-defender-rally-horn-i": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-i",
+      "Translation": "Defender Rally Chifre I"
+    },
+    "weapon-hunting-horn-defender-rally-horn-ii": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-ii",
+      "Translation": "Defender Rally Chifre II"
+    },
+    "weapon-hunting-horn-defender-rally-horn-iii": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-iii",
+      "Translation": "Defender Rally Chifre III"
+    },
+    "weapon-hunting-horn-defender-rally-horn-iv": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-iv",
+      "Translation": "Defender Rally Chifre IV"
+    },
+    "weapon-hunting-horn-defender-rally-horn-v": {
+      "Key": "weapon-hunting-horn-defender-rally-horn-v",
+      "Translation": "Defender Rally Chifre V"
+    },
+    "weapon-insect-glaive-defender-glaive-i": {
+      "Key": "weapon-insect-glaive-defender-glaive-i",
+      "Translation": "Defender Glaive I"
+    },
+    "weapon-insect-glaive-defender-glaive-ii": {
+      "Key": "weapon-insect-glaive-defender-glaive-ii",
+      "Translation": "Defender Glaive II"
+    },
+    "weapon-insect-glaive-defender-glaive-iii": {
+      "Key": "weapon-insect-glaive-defender-glaive-iii",
+      "Translation": "Defender Glaive III"
+    },
+    "weapon-insect-glaive-defender-glaive-iv": {
+      "Key": "weapon-insect-glaive-defender-glaive-iv",
+      "Translation": "Defender Glaive IV"
+    },
+    "weapon-insect-glaive-defender-glaive-v": {
+      "Key": "weapon-insect-glaive-defender-glaive-v",
+      "Translation": "O defesa Glaive V"
+    },
+    "weapon-lance-defender-lance-i": {
+      "Key": "weapon-lance-defender-lance-i",
+      "Translation": "Defender Lance I"
+    },
+    "weapon-lance-defender-lance-ii": {
+      "Key": "weapon-lance-defender-lance-ii",
+      "Translation": "Defender Lance II"
+    },
+    "weapon-lance-defender-lance-iii": {
+      "Key": "weapon-lance-defender-lance-iii",
+      "Translation": "Defender Lance III"
+    },
+    "weapon-lance-defender-lance-iv": {
+      "Key": "weapon-lance-defender-lance-iv",
+      "Translation": "Defender Lance IV"
+    },
+    "weapon-lance-defender-lance-v": {
+      "Key": "weapon-lance-defender-lance-v",
+      "Translation": "O defesa Lance V"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-i": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-i",
+      "Translation": "Defender Luz Bowgun I"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-ii": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-ii",
+      "Translation": "Defender Luz Bowgun II"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-iii": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-iii",
+      "Translation": "Defender Luz Bowgun III"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-iv": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-iv",
+      "Translation": "Defender Luz Bowgun IV"
+    },
+    "weapon-light-bowgun-defender-light-bowgun-v": {
+      "Key": "weapon-light-bowgun-defender-light-bowgun-v",
+      "Translation": "O defesa Luz Bowgun V"
+    },
+    "weapon-long-sword-defender-katana-i": {
+      "Key": "weapon-long-sword-defender-katana-i",
+      "Translation": "Defender Katana I"
+    },
+    "weapon-long-sword-defender-katana-ii": {
+      "Key": "weapon-long-sword-defender-katana-ii",
+      "Translation": "Defender Katana II"
+    },
+    "weapon-long-sword-defender-katana-iii": {
+      "Key": "weapon-long-sword-defender-katana-iii",
+      "Translation": "Defender Katana III"
+    },
+    "weapon-long-sword-defender-katana-iv": {
+      "Key": "weapon-long-sword-defender-katana-iv",
+      "Translation": "Defender Katana IV"
+    },
+    "weapon-long-sword-defender-katana-v": {
+      "Key": "weapon-long-sword-defender-katana-v",
+      "Translation": "Defender Katana V"
+    },
+    "weapon-switch-axe-defender-switch-axe-i": {
+      "Key": "weapon-switch-axe-defender-switch-axe-i",
+      "Translation": "Defender Mudar Ax I"
+    },
+    "weapon-switch-axe-defender-switch-axe-ii": {
+      "Key": "weapon-switch-axe-defender-switch-axe-ii",
+      "Translation": "Defender Mudar Axe II"
+    },
+    "weapon-switch-axe-defender-switch-axe-iii": {
+      "Key": "weapon-switch-axe-defender-switch-axe-iii",
+      "Translation": "Defender Mudar Axe III"
+    },
+    "weapon-switch-axe-defender-switch-axe-iv": {
+      "Key": "weapon-switch-axe-defender-switch-axe-iv",
+      "Translation": "Defender Mudar Ax IV"
+    },
+    "weapon-switch-axe-defender-switch-axe-v": {
+      "Key": "weapon-switch-axe-defender-switch-axe-v",
+      "Translation": "Defender Mudar Ax V"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-i": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-i",
+      "Translation": "Defender Warhatchet I"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-ii": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-ii",
+      "Translation": "Defender Warhatchet II"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-iii": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-iii",
+      "Translation": "Defender Warhatchet III"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-iv": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-iv",
+      "Translation": "Defender Warhatchet IV"
+    },
+    "weapon-sword-and-shield-defender-warhatchet-v": {
+      "Key": "weapon-sword-and-shield-defender-warhatchet-v",
+      "Translation": "O defesa Warhatchet V"
     }
   }
