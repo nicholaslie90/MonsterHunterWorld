@@ -3649,7 +3649,7 @@ export default {
     },
     "armor-lr-harvest": {
       "Key": "armor-lr-harvest",
-      "Translation": "수확"
+      "Translation": "추수"
     },
     "armor-lr-harvest-flor": {
       "Key": "armor-lr-harvest-flor",
@@ -7897,7 +7897,7 @@ export default {
     },
     "endemic-life-iron-helmcrab-description": {
       "Key": "endemic-life-iron-helmcrab-description",
-      "Translation": "와우! 정말 헬멧처럼 보입니까! 그리고 ... 날카로운 포드를 들고이야? 글쎄, 나는 내가 테이크 아우를 경우 신경 쓰지 확신!"
+      "Translation": "와! 정말 헬멧처럼 보입니까! 그리고 ... 날카로운 포드를 들고이야? 글쎄, 나는 내가 테이크 아우를 경우 신경 쓰지 확신!"
     },
     "endemic-life-king-marlin-description": {
       "Key": "endemic-life-king-marlin-description",
@@ -7921,7 +7921,7 @@ export default {
     },
     "endemic-life-paratoad-description": {
       "Key": "endemic-life-paratoad-description",
-      "Translation": "위협을 때 몸 해제를에 가스를 마비 저장! 만나다? 여기, 그 소마 - AGH에서! 난 ... 할 수 없습니다 ... mooove ..."
+      "Translation": "위협을 때 몸 해제를에 가스를 마비 저장! 보다? 여기, 그 소마 - AGH에서! 난 ... 할 수 없습니다 ... mooove ..."
     },
     "endemic-life-petricanths-description": {
       "Key": "endemic-life-petricanths-description",
@@ -8425,7 +8425,7 @@ export default {
     },
     "layered-armor-harvest": {
       "Key": "layered-armor-harvest",
-      "Translation": "수확"
+      "Translation": "추수"
     },
     "layered-armor-harvest-how-to-get": {
       "Key": "layered-armor-harvest-how-to-get",
@@ -10789,7 +10789,7 @@ export default {
     },
     "play-guide-utilizing-skills-description": {
       "Key": "play-guide-utilizing-skills-description",
-      "Translation": "괴수에 대 한 하나의 슬립까지 당신과 당신의 팀 재앙을 불러올 수 있습니다. 같은 Felyne 경륜 또는 Felyne 보험 등의 건강 부스트, 또는 식품 기술 등을 사용하여 갑옷 기술."
+      "Translation": "괴수에 대 한 하나의 슬립까지 당신과 당신의 팀 재앙을 불러올 수도 있습니다. 같은 Felyne 경륜 또는 Felyne 보험 등의 건강 부스트, 또는 식품 기술 등을 사용하여 갑옷 기술."
     },
     "play-guide-utilizing-the-environment": {
       "Key": "play-guide-utilizing-the-environment",
@@ -11165,7 +11165,7 @@ export default {
     },
     "quest-a-rotten-thing-to-do-tips": {
       "Key": "quest-a-rotten-thing-to-do-tips",
-      "Translation": "이 퀘스트는 발산, 영구적 인 지역 전반의 손상 거래 가스 다루고 있습니다. 이 짜증나는 소리를하는 동안, 당신은 공예에 쉽게입니다 Hornetaur 메일의 가슴 갑옷에있는 Effluvial 전문 기술, 그것을 무시할 수 있습니다. 일부 마비 저항이 너무 편리하게 올 수 있습니다 (Girros 코일은이 기술을 가지고). 몇 다음 Girros 자주, 동남 캠프 (1) 부문 3. 썩은 베일의 전체 두 번째 수준의 주위에 대상 더스의 하강 경로의 머리를 서쪽으로보기에서 시작합니다. 그 둥지는 상위 섹션에서 부문 7입니다."
+      "Translation": "이 퀘스트는 탈모, 영구 영역 전반의 손상 거래 가스 다루고 있습니다. 이 짜증나는 소리를하는 동안, 당신은 공예에 쉽게입니다 Hornetaur 메일의 가슴 갑옷에있는 Effluvial 전문 기술, 그것을 무시할 수 있습니다. 일부 마비 저항이 너무 편리하게 올 수 있습니다 (Girros 코일은이 기술을 가지고). 몇 다음 Girros 자주, 동남 캠프 (1) 부문 3. 썩은 베일의 전체 두 번째 수준의 주위에 대상 더스의 하강 경로의 머리를 서쪽으로보기에서 시작합니다. 그 둥지는 상위 섹션에서 부문 7입니다."
     },
     "quest-a-royal-pain": {
       "Key": "quest-a-royal-pain",
@@ -12497,7 +12497,7 @@ export default {
     },
     "quest-objective": {
       "Key": "quest-objective",
-      "Translation": "목표"
+      "Translation": "객관적인"
     },
     "quest-objective-capture-a-barroth": {
       "Key": "quest-objective-capture-a-barroth",
@@ -12885,7 +12885,7 @@ export default {
     },
     "quest-on-nightmares-wings-tips": {
       "Key": "quest-on-nightmares-wings-tips",
-      "Translation": "이 퀘스트는 발산, 영구적 인 지역 전반의 손상 거래 가스 다루고 있습니다. 이 짜증나는 소리를하는 동안, 당신은 공예에 쉽습니다 Hornetaur 메일의 가슴 갑옷에있는 Effluvial 전문 기술, 그것을 무시할 수 있습니다. 목표가 부문 6, 7의 두 번째 수준의 주위에 비행 (Girros 코일은이 기술을 가지고) 9."
+      "Translation": "이 퀘스트는 탈모, 영구 영역 전반의 손상 거래 가스 다루고 있습니다. 이 짜증나는 소리를하는 동안, 당신은 공예에 쉽습니다 Hornetaur 메일의 가슴 갑옷에있는 Effluvial 전문 기술, 그것을 무시할 수 있습니다. 목표가 부문 6, 7의 두 번째 수준의 주위에 비행 (Girros 코일은이 기술을 가지고) 9."
     },
     "quest-one-for-the-history-books": {
       "Key": "quest-one-for-the-history-books",
@@ -13537,7 +13537,7 @@ export default {
     },
     "quest-the-fires-of-hell-bite-deep-description": {
       "Key": "quest-the-fires-of-hell-bite-deep-description",
-      "Translation": "우리는이 출전에 Teostra을 낸 있어요. 그것의 왕국에서 쫓겨 것처럼 보인다. 질문은 라덴을 '한 일입니까? 시간 조사합니다!"
+      "Translation": "우리는이 출전에 Teostra을 낸 있어요. 그것의 왕국에서 쫓겨 것처럼 보인다. 상담자 라덴을 '한 일입니까? 시간 조사합니다!"
     },
     "quest-the-food-chain-dominator": {
       "Key": "quest-the-food-chain-dominator",
@@ -13597,7 +13597,7 @@ export default {
     },
     "quest-the-heralds-of-destruction-cry-description": {
       "Key": "quest-the-heralds-of-destruction-cry-description",
-      "Translation": "그 일이 나타 났을 때 나는 아직도 기억한다. 나는 내 머리에 나팔이 울려 퍼지는 뿔을 들었다. 그것은 파괴의 노래처럼 들렸다. 그 뿔이 중지 할 수 있도록 나는 나의 연구의 도움이 필요합니다!"
+      "Translation": "그 일이 나타 났을 때 나는 아직도 기억한다. 나는 내 머리에 나팔이 울려 퍼지는 뿔을 들었다. 그것은 파괴의 노래처럼 들렸다. 그 뿔을 중지 할 수 있습니다 나는 내 연구를 도와주세요!"
     },
     "quest-the-legendary-beast": {
       "Key": "quest-the-legendary-beast",
@@ -13761,7 +13761,7 @@ export default {
     },
     "quest-the-winds-of-wrath-bite-deep-description": {
       "Key": "quest-the-winds-of-wrath-bite-deep-description",
-      "Translation": "우리는 '라운드, tearin'일을 실행하는 Kushala Daora 있어요. 그것의 영토에서 쫓겨 것처럼 보인다. 질문은 라덴을 '한 일입니까? 시간 조사합니다!"
+      "Translation": "우리는 '라운드, tearin'일을 실행하는 Kushala Daora 있어요. 그것의 영토에서 쫓겨 것처럼 보인다. 상담자 라덴을 '한 일입니까? 시간 조사합니다!"
     },
     "quest-this-is-how-revolts-start": {
       "Key": "quest-this-is-how-revolts-start",
@@ -14257,7 +14257,7 @@ export default {
     },
     "settings-rate-app": {
       "Key": "settings-rate-app",
-      "Translation": "이 앱을 평가 해주십시오"
+      "Translation": "이 앱을 평가 해주세요"
     },
     "settings-rate-app-text": {
       "Key": "settings-rate-app-text",
@@ -14273,7 +14273,7 @@ export default {
     },
     "settings-redeem-code-enter-a-value": {
       "Key": "settings-redeem-code-enter-a-value",
-      "Translation": "값을 입력하세요."
+      "Translation": "값을 입력하십시오."
     },
     "settings-redeem-code-failed": {
       "Key": "settings-redeem-code-failed",
@@ -14349,7 +14349,7 @@ export default {
     },
     "settings-value-on": {
       "Key": "settings-value-on",
-      "Translation": "에"
+      "Translation": "의 위에"
     },
     "skill-adrenaline": {
       "Key": "skill-adrenaline",
@@ -14377,7 +14377,7 @@ export default {
     },
     "skill-agitator": {
       "Key": "skill-agitator",
-      "Translation": "교반기"
+      "Translation": "선동자"
     },
     "skill-agitator-1": {
       "Key": "skill-agitator-1",
@@ -21037,7 +21037,7 @@ export default {
     },
     "weapon-sword-and-shield-empress-edge-ruin": {
       "Key": "weapon-sword-and-shield-empress-edge-ruin",
-      "Translation": "황후 에지 \"파멸\""
+      "Translation": "황후 에지 '파멸'"
     },
     "weapon-sword-and-shield-empress-edge-styx": {
       "Key": "weapon-sword-and-shield-empress-edge-styx",
@@ -23782,5 +23782,77 @@ export default {
     "weapon-sword-and-shield-defender-warhatchet-v": {
       "Key": "weapon-sword-and-shield-defender-warhatchet-v",
       "Translation": "수비수 Warhatchet V"
+    },
+    "armor-mr-stygian-zin-alpha-plus": {
+      "Key": "armor-mr-stygian-zin-alpha-plus",
+      "Translation": "Stygian 진 ⍺ +"
+    },
+    "armor-mr-stygian-helm-alpha-plus": {
+      "Key": "armor-mr-stygian-helm-alpha-plus",
+      "Translation": "Stygian 투구 ⍺ +"
+    },
+    "armor-mr-stygian-vambraces-alpha-plus": {
+      "Key": "armor-mr-stygian-vambraces-alpha-plus",
+      "Translation": "Stygian 완갑 ⍺ +"
+    },
+    "armor-mr-stygian-mail-alpha-plus": {
+      "Key": "armor-mr-stygian-mail-alpha-plus",
+      "Translation": "Stygian 메일 ⍺ +"
+    },
+    "armor-mr-stygian-coil-alpha-plus": {
+      "Key": "armor-mr-stygian-coil-alpha-plus",
+      "Translation": "Stygian 코일 ⍺ +"
+    },
+    "armor-mr-stygian-greaves-alpha-plus": {
+      "Key": "armor-mr-stygian-greaves-alpha-plus",
+      "Translation": "Stygian 각반 ⍺ +"
+    },
+    "armor-mr-stygian-zin-beta-plus": {
+      "Key": "armor-mr-stygian-zin-beta-plus",
+      "Translation": "Stygian 진 ß +"
+    },
+    "armor-mr-stygian-helm-beta-plus": {
+      "Key": "armor-mr-stygian-helm-beta-plus",
+      "Translation": "Stygian 투구 ß +"
+    },
+    "armor-mr-stygian-vambraces-beta-plus": {
+      "Key": "armor-mr-stygian-vambraces-beta-plus",
+      "Translation": "Stygian 완갑 ß +"
+    },
+    "armor-mr-stygian-mail-beta-plus": {
+      "Key": "armor-mr-stygian-mail-beta-plus",
+      "Translation": "Stygian 메일 ß의 +"
+    },
+    "armor-mr-stygian-coil-beta-plus": {
+      "Key": "armor-mr-stygian-coil-beta-plus",
+      "Translation": "Stygian 코일 ß +"
+    },
+    "armor-mr-stygian-greaves-beta-plus": {
+      "Key": "armor-mr-stygian-greaves-beta-plus",
+      "Translation": "Stygian 각반 ß +"
+    },
+    "armor-mr-oolong-alpha-plus": {
+      "Key": "armor-mr-oolong-alpha-plus",
+      "Translation": "우롱 ⍺ +"
+    },
+    "armor-mr-oolong-hair-alpha-plus": {
+      "Key": "armor-mr-oolong-hair-alpha-plus",
+      "Translation": "우롱 헤어 ⍺ +"
+    },
+    "armor-mr-oolong-vest-alpha-plus": {
+      "Key": "armor-mr-oolong-vest-alpha-plus",
+      "Translation": "우롱 조끼 ⍺ +"
+    },
+    "armor-mr-oolong-sleeves-alpha-plus": {
+      "Key": "armor-mr-oolong-sleeves-alpha-plus",
+      "Translation": "우롱 슬리브 ⍺ +"
+    },
+    "armor-mr-oolong-waist-alpha-plus": {
+      "Key": "armor-mr-oolong-waist-alpha-plus",
+      "Translation": "우롱 허리 ⍺ +"
+    },
+    "armor-mr-oolong-boots-alpha-plus": {
+      "Key": "armor-mr-oolong-boots-alpha-plus",
+      "Translation": "우롱 부츠 ⍺ +"
     }
   }

@@ -7641,7 +7641,7 @@ export default {
     },
     "critical-bounties-requirements-notes": {
       "Key": "critical-bounties-requirements-notes",
-      "Translation": "- Capture-Net \\ n- Angelrute \\ n- Ghillie Mantle (unlocked nach der Haupthandlung Zuordnung Hunter Rang 3 abgeschlossen - Flying Sparks. Tobi-Kadachi)"
+      "Translation": "- Erfassung Net \\ n- Angelrute \\ n- Ghillie Mantle (unlocked nach der Haupthandlung Zuordnung Hunter Rang 3 abgeschlossen - Flying Sparks. Tobi-Kadachi)"
     },
     "critical-bounties-research-help-bomb-beetle-capture": {
       "Key": "critical-bounties-research-help-bomb-beetle-capture",
@@ -7897,7 +7897,7 @@ export default {
     },
     "endemic-life-iron-helmcrab-description": {
       "Key": "endemic-life-iron-helmcrab-description",
-      "Translation": "Wow! Es ist wirklich aussehen wie ein Helm! Und es trägt ... ein Piercing Pod? Nun, ich bin sicher, es wird nichts dagegen, wenn ich take-Ow!"
+      "Translation": "Beeindruckend! Es ist wirklich aussehen wie ein Helm! Und es trägt ... ein Piercing Pod? Nun, ich bin sicher, es wird nichts dagegen, wenn ich take-Ow!"
     },
     "endemic-life-king-marlin-description": {
       "Key": "endemic-life-king-marlin-description",
@@ -8373,7 +8373,7 @@ export default {
     },
     "layered-armor-gala-suit-layered-chest": {
       "Key": "layered-armor-gala-suit-layered-chest",
-      "Translation": "Gala-Anzug Layered Chest"
+      "Translation": "Gala Anzug Layered Chest"
     },
     "layered-armor-gala-suit-layered-head": {
       "Key": "layered-armor-gala-suit-layered-head",
@@ -17417,7 +17417,7 @@ export default {
     },
     "trophy-seen-it-all": {
       "Key": "trophy-seen-it-all",
-      "Translation": "Alles gesehen"
+      "Translation": "Alles gesehen haben"
     },
     "trophy-seen-it-all-description": {
       "Key": "trophy-seen-it-all-description",
@@ -23782,5 +23782,77 @@ export default {
     "weapon-sword-and-shield-defender-warhatchet-v": {
       "Key": "weapon-sword-and-shield-defender-warhatchet-v",
       "Translation": "Defender Warhatchet V"
+    },
+    "armor-mr-stygian-zin-alpha-plus": {
+      "Key": "armor-mr-stygian-zin-alpha-plus",
+      "Translation": "Stygian Zin ⍺ +"
+    },
+    "armor-mr-stygian-helm-alpha-plus": {
+      "Key": "armor-mr-stygian-helm-alpha-plus",
+      "Translation": "Stygian Helm ⍺ +"
+    },
+    "armor-mr-stygian-vambraces-alpha-plus": {
+      "Key": "armor-mr-stygian-vambraces-alpha-plus",
+      "Translation": "Stygian Armschienen ⍺ +"
+    },
+    "armor-mr-stygian-mail-alpha-plus": {
+      "Key": "armor-mr-stygian-mail-alpha-plus",
+      "Translation": "Stygian Mail-⍺ +"
+    },
+    "armor-mr-stygian-coil-alpha-plus": {
+      "Key": "armor-mr-stygian-coil-alpha-plus",
+      "Translation": "Stygian Coil ⍺ +"
+    },
+    "armor-mr-stygian-greaves-alpha-plus": {
+      "Key": "armor-mr-stygian-greaves-alpha-plus",
+      "Translation": "Stygian Greaves ⍺ +"
+    },
+    "armor-mr-stygian-zin-beta-plus": {
+      "Key": "armor-mr-stygian-zin-beta-plus",
+      "Translation": "Stygian Zin ß +"
+    },
+    "armor-mr-stygian-helm-beta-plus": {
+      "Key": "armor-mr-stygian-helm-beta-plus",
+      "Translation": "Stygian Helm ß +"
+    },
+    "armor-mr-stygian-vambraces-beta-plus": {
+      "Key": "armor-mr-stygian-vambraces-beta-plus",
+      "Translation": "Stygian Armschienen ß +"
+    },
+    "armor-mr-stygian-mail-beta-plus": {
+      "Key": "armor-mr-stygian-mail-beta-plus",
+      "Translation": "Stygian Mail-ß +"
+    },
+    "armor-mr-stygian-coil-beta-plus": {
+      "Key": "armor-mr-stygian-coil-beta-plus",
+      "Translation": "Stygian Coil ß +"
+    },
+    "armor-mr-stygian-greaves-beta-plus": {
+      "Key": "armor-mr-stygian-greaves-beta-plus",
+      "Translation": "Stygian Greaves ß +"
+    },
+    "armor-mr-oolong-alpha-plus": {
+      "Key": "armor-mr-oolong-alpha-plus",
+      "Translation": "Oolong ⍺ +"
+    },
+    "armor-mr-oolong-hair-alpha-plus": {
+      "Key": "armor-mr-oolong-hair-alpha-plus",
+      "Translation": "Oolong Haar ⍺ +"
+    },
+    "armor-mr-oolong-vest-alpha-plus": {
+      "Key": "armor-mr-oolong-vest-alpha-plus",
+      "Translation": "Oolong Vest ⍺ +"
+    },
+    "armor-mr-oolong-sleeves-alpha-plus": {
+      "Key": "armor-mr-oolong-sleeves-alpha-plus",
+      "Translation": "Oolong Sleeves ⍺ +"
+    },
+    "armor-mr-oolong-waist-alpha-plus": {
+      "Key": "armor-mr-oolong-waist-alpha-plus",
+      "Translation": "Oolong Taille ⍺ +"
+    },
+    "armor-mr-oolong-boots-alpha-plus": {
+      "Key": "armor-mr-oolong-boots-alpha-plus",
+      "Translation": "Oolong Stiefel ⍺ +"
     }
   }

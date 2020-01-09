@@ -8065,7 +8065,7 @@ export default {
     },
     "home-items": {
       "Key": "home-items",
-      "Translation": "Unid"
+      "Translation": "Itens"
     },
     "home-kinsect-trees": {
       "Key": "home-kinsect-trees",
@@ -10541,7 +10541,7 @@ export default {
     },
     "play-guide-tackle": {
       "Key": "play-guide-tackle",
-      "Translation": "equipamento"
+      "Translation": "Enfrentar"
     },
     "play-guide-tackle-description": {
       "Key": "play-guide-tackle-description",
@@ -14289,7 +14289,7 @@ export default {
     },
     "settings-redeem-code-text": {
       "Key": "settings-redeem-code-text",
-      "Translation": "Insira o seu código aqui."
+      "Translation": "Coloque o seu código aqui."
     },
     "settings-redeem-code-used": {
       "Key": "settings-redeem-code-used",
@@ -16397,7 +16397,7 @@ export default {
     },
     "skill-slugger": {
       "Key": "skill-slugger",
-      "Translation": "Slugger"
+      "Translation": "Lançador no beisebol"
     },
     "skill-slugger-1": {
       "Key": "skill-slugger-1",
@@ -23782,5 +23782,77 @@ export default {
     "weapon-sword-and-shield-defender-warhatchet-v": {
       "Key": "weapon-sword-and-shield-defender-warhatchet-v",
       "Translation": "O defesa Warhatchet V"
+    },
+    "armor-mr-stygian-zin-alpha-plus": {
+      "Key": "armor-mr-stygian-zin-alpha-plus",
+      "Translation": "Stygian Zin ⍺ +"
+    },
+    "armor-mr-stygian-helm-alpha-plus": {
+      "Key": "armor-mr-stygian-helm-alpha-plus",
+      "Translation": "Stygian Helm ⍺ +"
+    },
+    "armor-mr-stygian-vambraces-alpha-plus": {
+      "Key": "armor-mr-stygian-vambraces-alpha-plus",
+      "Translation": "Stygian Vambraces ⍺ +"
+    },
+    "armor-mr-stygian-mail-alpha-plus": {
+      "Key": "armor-mr-stygian-mail-alpha-plus",
+      "Translation": "Correio Stygian ⍺ +"
+    },
+    "armor-mr-stygian-coil-alpha-plus": {
+      "Key": "armor-mr-stygian-coil-alpha-plus",
+      "Translation": "Stygian Bobina ⍺ +"
+    },
+    "armor-mr-stygian-greaves-alpha-plus": {
+      "Key": "armor-mr-stygian-greaves-alpha-plus",
+      "Translation": "Stygian Greaves ⍺ +"
+    },
+    "armor-mr-stygian-zin-beta-plus": {
+      "Key": "armor-mr-stygian-zin-beta-plus",
+      "Translation": "Stygian Zin ß +"
+    },
+    "armor-mr-stygian-helm-beta-plus": {
+      "Key": "armor-mr-stygian-helm-beta-plus",
+      "Translation": "Stygian Helm ß +"
+    },
+    "armor-mr-stygian-vambraces-beta-plus": {
+      "Key": "armor-mr-stygian-vambraces-beta-plus",
+      "Translation": "Stygian Vambraces ß +"
+    },
+    "armor-mr-stygian-mail-beta-plus": {
+      "Key": "armor-mr-stygian-mail-beta-plus",
+      "Translation": "Correio Stygian ß +"
+    },
+    "armor-mr-stygian-coil-beta-plus": {
+      "Key": "armor-mr-stygian-coil-beta-plus",
+      "Translation": "Stygian Bobina ß +"
+    },
+    "armor-mr-stygian-greaves-beta-plus": {
+      "Key": "armor-mr-stygian-greaves-beta-plus",
+      "Translation": "Stygian Greaves ß +"
+    },
+    "armor-mr-oolong-alpha-plus": {
+      "Key": "armor-mr-oolong-alpha-plus",
+      "Translation": "Oolong ⍺ +"
+    },
+    "armor-mr-oolong-hair-alpha-plus": {
+      "Key": "armor-mr-oolong-hair-alpha-plus",
+      "Translation": "Cabelo Oolong ⍺ +"
+    },
+    "armor-mr-oolong-vest-alpha-plus": {
+      "Key": "armor-mr-oolong-vest-alpha-plus",
+      "Translation": "Oolong Vest ⍺ +"
+    },
+    "armor-mr-oolong-sleeves-alpha-plus": {
+      "Key": "armor-mr-oolong-sleeves-alpha-plus",
+      "Translation": "Oolong mangas ⍺ +"
+    },
+    "armor-mr-oolong-waist-alpha-plus": {
+      "Key": "armor-mr-oolong-waist-alpha-plus",
+      "Translation": "Oolong cintura ⍺ +"
+    },
+    "armor-mr-oolong-boots-alpha-plus": {
+      "Key": "armor-mr-oolong-boots-alpha-plus",
+      "Translation": "Oolong Botas ⍺ +"
     }
   }

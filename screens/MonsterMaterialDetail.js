@@ -208,6 +208,7 @@ export default class MonsterMaterialDetailScreen extends React.PureComponent {
         let craftablePalicoEquipments = [];
         this._checkPalicoEquipment(database.lowRankPalicoArmors, params.item.name, craftablePalicoEquipments);
         this._checkPalicoEquipment(database.highRankPalicoArmors, params.item.name, craftablePalicoEquipments);
+        this._checkPalicoEquipment(database.masterRankPalicoArmors, params.item.name, craftablePalicoEquipments);
         let palicoEquipments = null;
         if (craftablePalicoEquipments.length > 0) {
             palicoEquipments = <View><Text style={[globalStyles.heading1, themeText]}>Craftable Palico Equipment</Text>

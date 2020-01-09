@@ -1422,6 +1422,13 @@ let monsterMaterials = [{
     'value': '400',
     'maxCapacity': '99',
 }, {
+    'name': 'Dracophage Bug',
+    'icon': require('./assets/items/bug_grey.png'),
+    'description': 'Very rare Stygian Zinogre material. Can be gathered when it\'s toppled. Grants dragon element properties.',
+    'rarity': '10',
+    'value': '5520',
+    'maxCapacity': '99',
+},{
     'name': 'Dragonbone Artifact',
     'icon': require('./assets/items/bone_purple.png'),
     'description': 'A very rare bone from bonepiles. Evidence of an unknown elder dragon that once ruled the land.',
@@ -4402,6 +4409,13 @@ let monsterMaterials = [{
     'value': '1610',
     'maxCapacity': '99',
 }, {
+    'name': 'Rime Crystal',
+    'icon': require('./assets/items/ore_white.png'),
+    'description': 'Ore obtained in the Guiding Lands\' tundra region. Greater underground energy has yielded larger crystals.',
+    'rarity': '9',
+    'value': '1200',
+    'maxCapacity': '99',
+},{
     'name': 'Rimed Hide',
     'icon': require('./assets/items/hide_white.png'),
     'description': 'Very rare Shrieking Legiana material. Mostly obtained as a reward. Lightweight, used to craft gear.',
@@ -4765,6 +4779,55 @@ let monsterMaterials = [{
     'maxCapacity': '99',
     'howToGet': 'Gather Bonepiles in Coral Highlands and Rotten Vale.'
 }, {
+    'name': 'Stygian Zinogre Cortex',
+    'icon': require('./assets/items/carapace_grey.png'),
+    'description': 'Very rare Stygian Zinogre material. Mostly obtained as a reward. Solid, used to craft gear.',
+    'rarity': '9',
+    'value': '6630',
+    'maxCapacity': '99',
+}, {
+    'name': 'Stygian Zinogre Dragonhold',
+    'icon': require('./assets/items/carapace_grey.png'),
+    'description': 'Very rare Stygian Zinogre material. Mostly obtained by carving. Compatible with dragon element.',
+    'rarity': '9',
+    'value': '9060',
+    'maxCapacity': '99',
+},{
+    'name': 'Stygian Zinogre Dragonlocks',
+    'icon': require('./assets/items/monster_grey.png'),
+    'description': 'Very rare Stygian Zinogre material. Mostly obtained as a reward. Solid, used to craft gear.',
+    'rarity': '9',
+    'value': '4330',
+    'maxCapacity': '99',
+}, {
+    'name': 'Stygian Zinogre Hardclaw',
+    'icon': require('./assets/items/claw_grey.png'),
+    'description': 'Very rare Stygian Zinogre material. Obtained by breaking its forelegs. Sharp, used in many weapons.',
+    'rarity': '9',
+    'value': '8930',
+    'maxCapacity': '99',
+},{
+    'name': 'Stygian Zinogre Hardhorn',
+    'icon': require('./assets/items/claw_grey.png'),
+    'description': 'Very rare Stygian Zinogre material. Obtained by breaking its head. Stout, used in many weapons.',
+    'rarity': '9',
+    'value': '9190',
+    'maxCapacity': '99',
+},{
+    'name': 'Stygian Zinogre Lash',
+    'icon': require('./assets/items/tail_grey.png'),
+    'description': 'Very rare Stygian Zinogre material. Obtained by carving its severed tail. Stiff, used to craft gear.',
+    'rarity': '9',
+    'value': '9450',
+    'maxCapacity': '99',
+}, {
+    'name': 'Stygian Zinogre Skymerald',
+    'icon': require('./assets/items/mantle_grey.png'),
+    'description': 'Very rare Stygian Zinogre material. Used to craft weapons powerful enough to take over the world.',
+    'rarity': '11',
+    'value': '21000',
+    'maxCapacity': '99',
+},{
     'name': 'Sublime First Wyverian Print',
     'icon': require('./assets/items/paper_red.png'),
     'description': 'A ticket with a handprint, used by the First Wyverians. Exchange it for useful items at the Melding Pot.',
@@ -5152,6 +5215,13 @@ let monsterMaterials = [{
     'value': '1600',
     'maxCapacity': '99',
 }, {
+    'name': 'Tundra Icebone',
+    'icon': require('./assets/items/monster_blue.png'),
+    'description': 'Bone obtained in the Guiding Lands\' tundra region. Weathered as it is, its weight attest to its power.',
+    'rarity': '9',
+    'value': '1200',
+    'maxCapacity': '99',
+},{
     'name': 'Twilight Crystal',
     'icon': require('./assets/items/ore_yellow.png'),
     'description': 'Ore obtained in the Guiding Lands\' rotted region. The energy it holds is palpable to the touch.',

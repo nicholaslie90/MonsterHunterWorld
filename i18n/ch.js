@@ -125,7 +125,7 @@ export default {
     },
     "armor-detail-total-cost": {
       "Key": "armor-detail-total-cost",
-      "Translation": "总消耗"
+      "Translation": "总计花费"
     },
     "armor-detail-total-defense": {
       "Key": "armor-detail-total-defense",
@@ -4873,7 +4873,7 @@ export default {
     },
     "armor-mr-damascus-coil-alpha-plus": {
       "Key": "armor-mr-damascus-coil-alpha-plus",
-      "Translation": "大马士革线圈⍺+"
+      "Translation": "大马士革卷板⍺+"
     },
     "armor-mr-damascus-coil-beta-plus": {
       "Key": "armor-mr-damascus-coil-beta-plus",
@@ -8997,7 +8997,7 @@ export default {
     },
     "monster-odogaron-useful-information": {
       "Key": "monster-odogaron-useful-information",
-      "Translation": "Odogaron的讨厌爪子造成大量出血，并应不惜一切代价避免。使用肉给它引诱陷阱，错开它，或者它强制到愤怒的较量轮胎出来，并使其更容易对付。"
+      "Translation": "Odogaron的讨厌爪子造成大量出血，并应不惜一切代价避免。使用肉给它引诱到陷阱，错开它，或者它强制到愤怒的较量轮胎出来，并使其更容易对付。"
     },
     "monster-paolumu": {
       "Key": "monster-paolumu",
@@ -11489,7 +11489,7 @@ export default {
     },
     "quest-chef-quest-pumped-to-deliver-description": {
       "Key": "quest-chef-quest-pumped-to-deliver-description",
-      "Translation": "现在，你已经工作都你全身上下，你准备把它用得好！？好！开始干活！ *解锁上首次完成了新食堂成分。"
+      "Translation": "现在，你已经工作都你全身上下，你准备把它用得好！？好！开干吧！ *解锁上首次完成了新食堂成分。"
     },
     "quest-chef-quest-pumped-to-deliver-notable-rewards": {
       "Key": "quest-chef-quest-pumped-to-deliver-notable-rewards",
@@ -13565,7 +13565,7 @@ export default {
     },
     "quest-the-great-glutton-tips": {
       "Key": "quest-the-great-glutton-tips",
-      "Translation": "开始从西南营（1），北上向扇区2找到目标。你可以等待它的攻击，以避免部门2 Jagras加入战斗之前达到1扇区。它会逃离自己的窝在部门2减弱不够时，你就可以杀死或捕获它。"
+      "Translation": "启动西南营（1），北上向扇区2找到目标。你可以等待它的攻击，以避免部门2 Jagras加入战斗之前达到1扇区。它会逃离自己的窝在部门2减弱不够时，你就可以杀死或捕获它。"
     },
     "quest-the-great-jagras-hunt": {
       "Key": "quest-the-great-jagras-hunt",
@@ -13581,7 +13581,7 @@ export default {
     },
     "quest-the-greatest-jagras-description": {
       "Key": "quest-the-greatest-jagras-description",
-      "Translation": "所以，我听说有一个猎人有一个伟大的Jagras走投无路，但是当他们去完成它，一个黑影出现。你认为那是什么？嘿，走出去，找到自己！"
+      "Translation": "所以，我听说有一个猎人有一个伟大的Jagras走投无路，但是当他们去完成它，一个黑影出现。你觉得它是什么？嘿，走出去，找到自己！"
     },
     "quest-the-heart-of-the-nora": {
       "Key": "quest-the-heart-of-the-nora",
@@ -13605,7 +13605,7 @@ export default {
     },
     "quest-the-legendary-beast-description": {
       "Key": "quest-the-legendary-beast-description",
-      "Translation": "某种野兽已经抵达新大陆由于以太网的不稳定性。我们必须做一些事情，否则在新的世界的活物都处于严重的危险！"
+      "Translation": "某种野兽已经抵达新大陆由于以太网的不稳定性。我们要做的事情，否则在新的世界的活物都处于严重的危险！"
     },
     "quest-the-meat-of-the-matter": {
       "Key": "quest-the-meat-of-the-matter",
@@ -13653,7 +13653,7 @@ export default {
     },
     "quest-the-piscine-problem-description": {
       "Key": "quest-the-piscine-problem-description",
-      "Translation": "铁Helmcrab就是这样一个迷人的人儿。只是踢过来，我们的持久性有机污染物刺耳荚！我们很乐意去研究更多，但不与Jyuratodus潜伏！"
+      "Translation": "铁Helmcrab这样一个迷人的人儿。只是踢过来，我们的持久性有机污染物刺耳荚！我们很乐意去研究更多，但不与Jyuratodus潜伏！"
     },
     "quest-the-piscine-problem-tips": {
       "Key": "quest-the-piscine-problem-tips",
@@ -14313,7 +14313,7 @@ export default {
     },
     "settings-send-me-an-email": {
       "Key": "settings-send-me-an-email",
-      "Translation": "给我发个电邮"
+      "Translation": "传一个电子邮件给我"
     },
     "settings-send-me-an-email-text": {
       "Key": "settings-send-me-an-email-text",
@@ -14533,7 +14533,7 @@ export default {
     },
     "skill-blast-functionality-description": {
       "Key": "skill-blast-functionality-description",
-      "Translation": "允许您应用爆炸涂料。"
+      "Translation": "允许您应用喷砂涂层。"
     },
     "skill-blast-resistance": {
       "Key": "skill-blast-resistance",
@@ -15113,7 +15113,7 @@ export default {
     },
     "skill-entomologist-description": {
       "Key": "skill-entomologist-description",
-      "Translation": "减少破坏的小虫子怪物的尸体，让他们雕刻的机会。"
+      "Translation": "降低摧毁的小虫子怪物的尸体，让他们雕刻的机会。"
     },
     "skill-evade-extender": {
       "Key": "skill-evade-extender",
@@ -15705,7 +15705,7 @@ export default {
     },
     "skill-latent-power-2": {
       "Key": "skill-latent-power-2",
-      "Translation": "虽然活性，增加20％的亲和力和降低10％耐力耗尽。"
+      "Translation": "而激活，增加20％的亲和力和降低10％耐力耗尽。"
     },
     "skill-latent-power-3": {
       "Key": "skill-latent-power-3",
@@ -17225,7 +17225,7 @@ export default {
     },
     "trophy-interior-decorator": {
       "Key": "trophy-interior-decorator",
-      "Translation": "室内装饰"
+      "Translation": "内部装修"
     },
     "trophy-interior-decorator-description": {
       "Key": "trophy-interior-decorator-description",
@@ -23782,5 +23782,77 @@ export default {
     "weapon-sword-and-shield-defender-warhatchet-v": {
       "Key": "weapon-sword-and-shield-defender-warhatchet-v",
       "Translation": "后卫Warhatchet V"
+    },
+    "armor-mr-stygian-zin-alpha-plus": {
+      "Key": "armor-mr-stygian-zin-alpha-plus",
+      "Translation": "冥河寻⍺+"
+    },
+    "armor-mr-stygian-helm-alpha-plus": {
+      "Key": "armor-mr-stygian-helm-alpha-plus",
+      "Translation": "冥河头盔⍺+"
+    },
+    "armor-mr-stygian-vambraces-alpha-plus": {
+      "Key": "armor-mr-stygian-vambraces-alpha-plus",
+      "Translation": "冥河臂甲⍺+"
+    },
+    "armor-mr-stygian-mail-alpha-plus": {
+      "Key": "armor-mr-stygian-mail-alpha-plus",
+      "Translation": "冥河邮件⍺+"
+    },
+    "armor-mr-stygian-coil-alpha-plus": {
+      "Key": "armor-mr-stygian-coil-alpha-plus",
+      "Translation": "冥河线圈⍺+"
+    },
+    "armor-mr-stygian-greaves-alpha-plus": {
+      "Key": "armor-mr-stygian-greaves-alpha-plus",
+      "Translation": "冥河格里夫斯⍺+"
+    },
+    "armor-mr-stygian-zin-beta-plus": {
+      "Key": "armor-mr-stygian-zin-beta-plus",
+      "Translation": "冥河寻SS +"
+    },
+    "armor-mr-stygian-helm-beta-plus": {
+      "Key": "armor-mr-stygian-helm-beta-plus",
+      "Translation": "冥河头盔SS +"
+    },
+    "armor-mr-stygian-vambraces-beta-plus": {
+      "Key": "armor-mr-stygian-vambraces-beta-plus",
+      "Translation": "冥河臂铠SS +"
+    },
+    "armor-mr-stygian-mail-beta-plus": {
+      "Key": "armor-mr-stygian-mail-beta-plus",
+      "Translation": "冥河邮件SS +"
+    },
+    "armor-mr-stygian-coil-beta-plus": {
+      "Key": "armor-mr-stygian-coil-beta-plus",
+      "Translation": "冥河线圈SS +"
+    },
+    "armor-mr-stygian-greaves-beta-plus": {
+      "Key": "armor-mr-stygian-greaves-beta-plus",
+      "Translation": "冥河格里夫斯SS +"
+    },
+    "armor-mr-oolong-alpha-plus": {
+      "Key": "armor-mr-oolong-alpha-plus",
+      "Translation": "乌龙⍺+"
+    },
+    "armor-mr-oolong-hair-alpha-plus": {
+      "Key": "armor-mr-oolong-hair-alpha-plus",
+      "Translation": "乌龙头发⍺+"
+    },
+    "armor-mr-oolong-vest-alpha-plus": {
+      "Key": "armor-mr-oolong-vest-alpha-plus",
+      "Translation": "乌龙背心⍺+"
+    },
+    "armor-mr-oolong-sleeves-alpha-plus": {
+      "Key": "armor-mr-oolong-sleeves-alpha-plus",
+      "Translation": "乌龙套⍺+"
+    },
+    "armor-mr-oolong-waist-alpha-plus": {
+      "Key": "armor-mr-oolong-waist-alpha-plus",
+      "Translation": "乌龙腰⍺+"
+    },
+    "armor-mr-oolong-boots-alpha-plus": {
+      "Key": "armor-mr-oolong-boots-alpha-plus",
+      "Translation": "乌龙靴⍺+"
     }
   }

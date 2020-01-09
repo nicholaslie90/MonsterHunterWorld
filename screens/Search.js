@@ -1049,7 +1049,7 @@ export default class SearchScreen extends React.PureComponent {
     }
 
     _searchPalicoEquipments(text) {
-        let palicoEquipments = _.filter(_.concat(database.lowRankPalicoArmors, database.highRankPalicoArmors), function (palicoEquipment) {
+        let palicoEquipments = _.filter(_.concat(database.lowRankPalicoArmors, database.highRankPalicoArmors, database.masterRankPalicoArmors), function (palicoEquipment) {
             if (text !== undefined) {
                 if (palicoEquipment.name.toLowerCase().match(text.toLowerCase())) {
                     return palicoEquipment;

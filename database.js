@@ -8,7 +8,7 @@ import { smallMonsters, largeMonsters } from './database-monsters';
 import { monsterMaterials } from './database-monster-materials';
 import { mantles, smokers } from './database-specialized-tools';
 import { craftingList } from './database-crafting-list';
-import { lowRankPalicoArmors, highRankPalicoArmors, palicoGadgets, palicoArmorSets } from './database-palico';
+import { lowRankPalicoArmors, highRankPalicoArmors, masterRankPalicoArmors, palicoGadgets, palicoArmorSets } from './database-palico';
 import { skills } from './database-skills';
 import { kinsectTrees } from './database-kinsect-trees';
 import { decorationsJewel1, decorationsJewel2, decorationsJewel3, decorationsJewel4 } from './database-decorations';
@@ -53,6 +53,7 @@ export {
     craftingList,
     lowRankPalicoArmors,
     highRankPalicoArmors,
+    masterRankPalicoArmors,
     palicoArmorSets,
     skills,
     mantles,

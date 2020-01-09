@@ -1676,7 +1676,7 @@ let highRankPalicoArmors = [{
         'name': 'Bone Set ⍺',
         'weapon': {
             'name': 'Felyne Bone Hammer ⍺',
-            'icon': require('./assets/palico/bone_alpha_weapon.png'),
+            'icon': require('./assets/palico/bone_weapon.png'),
             'rarity': '5',
             'attackMelee': '30',
             'attackRanged': '10',
@@ -1692,7 +1692,7 @@ let highRankPalicoArmors = [{
         },
         'head': {
             'name': 'Felyne Bone Helm ⍺',
-            'icon': require('./assets/palico/bone_alpha_helm.png'),
+            'icon': require('./assets/palico/bone_helm.png'),
             'rarity': '5',
             'defense': '30',
             'vsFire': '2',
@@ -1709,7 +1709,7 @@ let highRankPalicoArmors = [{
         },
         'body': {
             'name': 'Felyne Bone Mail ⍺',
-            'icon': require('./assets/palico/bone_alpha_body.png'),
+            'icon': require('./assets/palico/bone_body.png'),
             'rarity': '5',
             'defense': '30',
             'vsFire': '2',
@@ -1734,7 +1734,7 @@ let highRankPalicoArmors = [{
         'name': 'Jagras Set ⍺',
         'weapon': {
             'name': 'Felyne Jag Gunhammer ⍺',
-            'icon': require('./assets/palico/jagras_alpha_weapon.png'),
+            'icon': require('./assets/palico/jagras_weapon.png'),
             'rarity': '5',
             'attackMelee': '32',
             'attackRanged': '12',
@@ -1750,7 +1750,7 @@ let highRankPalicoArmors = [{
         },
         'head': {
             'name': 'Felyne Jagras Helm ⍺',
-            'icon': require('./assets/palico/jagras_alpha_helm.png'),
+            'icon': require('./assets/palico/jagras_helm.png'),
             'rarity': '5',
             'defense': '32',
             'vsFire': '-2',
@@ -1767,7 +1767,7 @@ let highRankPalicoArmors = [{
         },
         'body': {
             'name': 'Felyne Jagras Mail ⍺',
-            'icon': require('./assets/palico/jagras_alpha_body.png'),
+            'icon': require('./assets/palico/jagras_body.png'),
             'rarity': '5',
             'defense': '32',
             'vsFire': '-2',
@@ -1919,7 +1919,7 @@ let highRankPalicoArmors = [{
         'name': 'Alloy Set ⍺',
         'weapon': {
             'name': 'Felyne Iron Sword ⍺',
-            'icon': require('./assets/palico/alloy_alpha_weapon.png'),
+            'icon': require('./assets/palico/alloy_weapon.png'),
             'rarity': '5',
             'attackMelee': '20',
             'attackRanged': '18',
@@ -1935,7 +1935,7 @@ let highRankPalicoArmors = [{
         },
         'head': {
             'name': 'Felyne Alloy Helm ⍺',
-            'icon': require('./assets/palico/alloy_alpha_helm.png'),
+            'icon': require('./assets/palico/alloy_helm.png'),
             'rarity': '5',
             'defense': '30',
             'vsFire': '-2',
@@ -1952,7 +1952,7 @@ let highRankPalicoArmors = [{
         },
         'body': {
             'name': 'Felyne Alloy Mail ⍺',
-            'icon': require('./assets/palico/alloy_alpha_body.png'),
+            'icon': require('./assets/palico/alloy_body.png'),
             'rarity': '5',
             'defense': '30',
             'vsFire': '-2',
@@ -4104,6 +4104,240 @@ let highRankPalicoArmors = [{
     },
 ];
 
+let masterRankPalicoArmors = [{
+    'name': 'Duffel Set ⍺+',
+    'weapon': {
+        'name': 'Felyne Trekker Peckaxe ⍺+',
+        'icon': require('./assets/palico/duffel_set_alpha_weapon.png'),
+        'rarity': '9',
+        'attackMelee': '50',
+        'attackRanged': '20',
+        'attackType': 'Severing',
+        'element': '-',
+        'affinity': '0%',
+        'description': 'An essential weapon for Palicoes venturing into cold regions. Shaped like a Kulu-Ya-Ku.',
+        'materials': [{
+            'name': 'Eltalite Ore',
+            'quantity': '1'
+        }, ],
+        'cost': '400'
+    },
+    'head': {
+        'name': 'Felyne Duffel Hood ⍺+',
+        'icon': require('./assets/palico/duffel_set_alpha_helm.png'),
+        'rarity': '9',
+        'defense': '74',
+        'vsFire': '0',
+        'vsWater': '0',
+        'vsThunder': '2',
+        'vsIce': '2',
+        'vsDragon': '0',
+        'description': 'Headgear that protects your Palico against the cold by covering its ears with a comfy hood.',
+        'materials': [{
+            'name': 'Prized Pelt',
+            'quantity': '1'
+        }, ],
+        'cost': '350'
+    },
+    'body': {
+        'name': 'Felyne Duffel Coat ⍺+',
+        'icon': require('./assets/palico/duffel_set_alpha_body.png'),
+        'rarity': '9',
+        'defense': '74',
+        'vsFire': '0',
+        'vsWater': '0',
+        'vsThunder': '2',
+        'vsIce': '2',
+        'vsDragon': '0',
+        'description': 'Armor that protects your Palico against the cold using light and warm materials.',
+        'materials': [{
+            'name': 'Prized Pelt',
+            'quantity': '1'
+        }, ],
+        'cost': '350'
+    },
+    'totalDefense': '148',
+    'totalFireDefense': '0',
+    'totalWaterDefense': '0',
+    'totalThunderDefense': '4',
+    'totalIceDefense': '4',
+    'totalDragonDefense': '0',
+}, {
+    'name': 'Bone Set ⍺+',
+    'weapon': {
+        'name': 'Felyne Bone Hammer ⍺+',
+        'icon': require('./assets/palico/bone_weapon.png'),
+        'rarity': '9',
+        'attackMelee': '55',
+        'attackRanged': '15',
+        'attackType': 'Blunt',
+        'element': '-',
+        'affinity': '0%',
+        'description': 'Made from easy-to-come-by bone, this hammer is lightweight yet sturdy.',
+        'materials': [{
+            'name': 'Thick Bone',
+            'quantity': '1'
+        }, ],
+        'cost': '400'
+    },
+    'head': {
+        'name': 'Felyne Bone Helm ⍺+',
+        'icon': require('./assets/palico/bone_helm.png'),
+        'rarity': '9',
+        'defense': '76',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '2',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'description': 'Headgear built around a monster skull base. Donning it will awake the primal beast within.',
+        'materials': [{
+            'name': 'Thick Bone',
+            'quantity': '1'
+        }, ],
+        'cost': '350'
+    },
+    'body': {
+        'name': 'Felyne Bone Mail ⍺+',
+        'icon': require('./assets/palico/bone_body.png'),
+        'rarity': '9',
+        'defense': '76',
+        'vsFire': '2',
+        'vsWater': '0',
+        'vsThunder': '2',
+        'vsIce': '0',
+        'vsDragon': '2',
+        'description': 'A certain primal scent clings to this set of body armor. Made form a mix of monster bones.',
+        'materials': [{
+            'name': 'Thick Bone',
+            'quantity': '1'
+        }, ],
+        'cost': '350'
+    },
+    'totalDefense': '152',
+    'totalFireDefense': '4',
+    'totalWaterDefense': '0',
+    'totalThunderDefense': '4',
+    'totalIceDefense': '0',
+    'totalDragonDefense': '4',
+}, {
+    'name': 'Alloy Set ⍺+',
+    'weapon': {
+        'name': 'Felyne Iron Sword ⍺+',
+        'icon': require('./assets/palico/alloy_weapon.png'),
+        'rarity': '9',
+        'attackMelee': '45',
+        'attackRanged': '25',
+        'attackType': 'Severing',
+        'element': '-',
+        'affinity': '0%',
+        'description': 'A large sword made by smelting down fine ore and hammering it for three days straight. Certified lethal.',
+        'materials': [{
+            'name': 'Meldspar Ore',
+            'quantity': '1'
+        }, ],
+        'cost': '400'
+    },
+    'head': {
+        'name': 'Felyne Alloy Helm ⍺+',
+        'icon': require('./assets/palico/alloy_helm.png'),
+        'rarity': '9',
+        'defense': '78',
+        'vsFire': '-2',
+        'vsWater': '0',
+        'vsThunder': '-2',
+        'vsIce': '-2',
+        'vsDragon': '0',
+        'description': 'A helmet made by smelting fine ore, then pounding it for three days straight. Certified strong.',
+        'materials': [{
+            'name': 'Meldspar Ore',
+            'quantity': '1'
+        }, ],
+        'cost': '350'
+    },
+    'body': {
+        'name': 'Felyne Alloy Mail ⍺+',
+        'icon': require('./assets/palico/alloy_body.png'),
+        'rarity': '9',
+        'defense': '156',
+        'vsFire': '-4',
+        'vsWater': '0',
+        'vsThunder': '-4',
+        'vsIce': '-4',
+        'vsDragon': '0',
+        'description': 'Body armor made by smelting fine ore, then pounding it for three days straight. Guaranteed tough.',
+        'materials': [{
+            'name': 'Meldspar Ore',
+            'quantity': '1'
+        }, ],
+        'cost': '350'
+    },
+    'totalDefense': '156',
+    'totalFireDefense': '-4',
+    'totalWaterDefense': '0',
+    'totalThunderDefense': '-4',
+    'totalIceDefense': '-4',
+    'totalDragonDefense': '0',
+}, {
+    'name': 'Jagras Set ⍺+',
+    'weapon': {
+        'name': 'Felyne Jag Gunhammer ⍺+',
+        'icon': require('./assets/palico/jagras_weapon.png'),
+        'rarity': '9',
+        'attackMelee': '60',
+        'attackRanged': '20',
+        'attackType': 'Blunt',
+        'element': '-',
+        'affinity': '0%',
+        'description': 'A Great Jagras weapon. It looks like a gun but can\'t shoot. Made exclusively for bonking.',
+        'materials': [{
+            'name': 'Great Jagras Hardclaw',
+            'quantity': '1'
+        }, ],
+        'cost': '400'
+    },
+    'head': {
+        'name': 'Felyne Jagras Helm ⍺+',
+        'icon': require('./assets/palico/jagras_helm.png'),
+        'rarity': '9',
+        'defense': '80',
+        'vsFire': '-2',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '1',
+        'description': 'Your palico might start pawing at this helm\'s shaggy Great Jagras fur. It\'s a feature, we promise!',
+        'materials': [{
+            'name': 'Great Jagras Thickhide',
+            'quantity': '1'
+        }, ],
+        'cost': '350'
+    },
+    'body': {
+        'name': 'Felyne Jagras Mail ⍺+',
+        'icon': require('./assets/palico/jagras_body.png'),
+        'rarity': '9',
+        'defense': '80',
+        'vsFire': '-2',
+        'vsWater': '2',
+        'vsThunder': '-1',
+        'vsIce': '-1',
+        'vsDragon': '1',
+        'description': 'The strong yet supple fur on this shaggy Great Jagras armor offers solid protection.',
+        'materials': [{
+            'name': 'Great Jagras Shard',
+            'quantity': '1'
+        }, ],
+        'cost': '350'
+    },
+    'totalDefense': '160',
+    'totalFireDefense': '-4',
+    'totalWaterDefense': '4',
+    'totalThunderDefense': '-2',
+    'totalIceDefense': '-2',
+    'totalDragonDefense': '2',
+},];
+
 let palicoArmorSets = [{
     'name': 'Watcher',
     'icon': require('./assets/palico_sets/watcher.png'),
@@ -4306,6 +4540,7 @@ let palicoGadgets = [{
 export {
     lowRankPalicoArmors,
     highRankPalicoArmors,
+    masterRankPalicoArmors,
     palicoGadgets,
     palicoArmorSets
 }

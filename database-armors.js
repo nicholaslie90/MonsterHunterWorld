@@ -46873,6 +46873,151 @@ let masterRankArmors = [{
     'totalIceDefense': '-15',
     'totalDragonDefense': '0',
 }, {
+    'name': 'Oolong ⍺+',
+    'translationKey': 'armor-mr-oolong-alpha-plus',
+    'icon': require('./assets/armors/sets/placeholder.png'),
+    'head': {
+        'name': 'Oolong Hair ⍺+',
+        'translationKey': 'armor-mr-oolong-hair-alpha-plus',
+        'iconMale': require('./assets/armors/components/oolong_hair_alpha_plus_male.png'),
+        'iconFemale': require('./assets/armors/components/placeholder_head_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '120',
+        'slots': '4 - -',
+        'vsFire': '5',
+        'vsWater': '5',
+        'vsThunder': '5',
+        'vsIce': '20',
+        'vsDragon': '5',
+        'skills': [{
+            'name': 'Critical Eye',
+            'level': '1'
+        }, ],
+        'materials': [{
+            'name': 'Joyful Ticket',
+            'quantity': '1'
+        }, {
+            'name': 'Spiritvein Crystal',
+            'quantity': '2'
+        },],
+        'cost': '9000',
+    },
+    'upperBody': {
+        'name': 'Oolong Vest ⍺+',
+        'translationKey': 'armor-mr-oolong-vest-alpha-plus',
+        'iconMale': require('./assets/armors/components/oolong_vest_alpha_plus_male.png'),
+        'iconFemale': require('./assets/armors/components/placeholder_upperBody_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '120',
+        'slots': '4 - -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '1',
+        'vsIce': '4',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Stamina Surge',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Joyful Ticket',
+            'quantity': '1'
+        }, {
+            'name': 'Eltalite Ore',
+            'quantity': '3'
+        },],
+        'cost': '9000',
+    },
+    'hands': {
+        'name': 'Oolong Sleeves ⍺+',
+        'translationKey': 'armor-mr-oolong-sleeves-alpha-plus',
+        'iconMale': require('./assets/armors/components/oolong_sleeves_alpha_plus_male.png'),
+        'iconFemale': require('./assets/armors/components/placeholder_hands_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '120',
+        'slots': '4 - -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '1',
+        'vsIce': '4',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Coalescence',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Joyful Ticket',
+            'quantity': '1'
+        }, {
+            'name': 'Eltalite Ore',
+            'quantity': '3'
+        },],
+        'cost': '9000',
+    },
+    'lowerBody': {
+        'name': 'Oolong Waist ⍺+',
+        'translationKey': 'armor-mr-oolong-waist-alpha-plus',
+        'iconMale': require('./assets/armors/components/oolong_waist_alpha_plus_male.png'),
+        'iconFemale': require('./assets/armors/components/placeholder_lowerBody_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '120',
+        'slots': '1 1 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '1',
+        'vsIce': '4',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Constitution',
+            'level': '3'
+        }, ],
+        'materials': [{
+            'name': 'Joyful Ticket',
+            'quantity': '1'
+        }, {
+            'name': 'Spiritvein Crystal',
+            'quantity': '2'
+        },],
+        'cost': '9000',
+    },
+    'legs': {
+        'name': 'Oolong Boots ⍺+',
+        'translationKey': 'armor-mr-oolong-boots-alpha-plus',
+        'iconMale': require('./assets/armors/components/oolong_boots_alpha_plus_male.png'),
+        'iconFemale': require('./assets/armors/components/placeholder_legs_female.png'),
+        'level': '1',
+        'rarity': '9',
+        'defense': '120',
+        'slots': '4 2 -',
+        'vsFire': '1',
+        'vsWater': '1',
+        'vsThunder': '1',
+        'vsIce': '4',
+        'vsDragon': '1',
+        'skills': [{
+            'name': 'Health Boost',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Joyful Ticket',
+            'quantity': '1'
+        }, {
+            'name': 'Spiritvein Crystal',
+            'quantity': '2'
+        },],
+        'cost': '9000',
+    },
+    'totalDefense': '600',
+    'totalFireDefense': '5',
+    'totalWaterDefense': '5',
+    'totalThunderDefense': '5',
+    'totalIceDefense': '20',
+    'totalDragonDefense': '5',
+},{
     'name': 'Pearlspring ⍺+',
     'translationKey': 'armor-mr-pearlspring-alpha-plus',
     'icon': require('./assets/armors/sets/placeholder.png'),
@@ -47636,6 +47781,383 @@ let masterRankArmors = [{
     'totalThunderDefense': '15',
     'totalIceDefense': '-25',
     'totalDragonDefense': '10',
+}, {
+    'name': 'Stygian Zin ⍺+',
+    'translationKey': 'armor-mr-stygian-zin-alpha-plus',
+    'icon': require('./assets/armors/sets/placeholder.png'),
+    'head': {
+        'name': 'Stygian Helm ⍺+',
+        'translationKey': 'armor-mr-stygian-helm-alpha-plus',
+        'iconMale': require('./assets/armors/components/stygian_helm_alpha_plus_male.png'),
+        'iconFemale': require('./assets/armors/components/placeholder_head_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '160',
+        'slots': '2 1 -',
+        'vsFire': '2',
+        'vsWater': '-4',
+        'vsThunder': '-5',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Latent Power',
+            'level': '3'
+        }, {
+            'name': 'Tremor Resistance',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Stygian Zinogre Dragonlocks',
+            'quantity': '3'
+        }, {
+            'name': 'Stygian Zinogre Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Stygian Zinogre Hardhorn',
+            'quantity': '1'
+        },{
+            'name': 'Dracophage Bug',
+            'quantity': '5'
+        },],
+        'cost': '18000',
+    },
+    'upperBody': {
+        'name': 'Stygian Mail ⍺+',
+        'translationKey': 'armor-mr-stygian-mail-alpha-plus-male',
+        'iconMale': require('./assets/armors/components/stygian_mail_alpha_plus_male.png'),
+        'iconFemale': require('./assets/armors/components/placeholder_upperBody_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '160',
+        'slots': '2 - -',
+        'vsFire': '2',
+        'vsWater': '-4',
+        'vsThunder': '-5',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Windproof',
+            'level': '3'
+        }, {
+            'name': 'Flinch Free',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Stygian Zinogre Dragonlocks',
+            'quantity': '3'
+        }, {
+            'name': 'Stygian Zinogre Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Stygian Zinogre Lash',
+            'quantity': '1'
+        },{
+            'name': 'Tundra Icebone',
+            'quantity': '3'
+        },],
+        'cost': '18000',
+    },
+    'hands': {
+        'name': 'Stygian Vambraces ⍺+',
+        'translationKey': 'armor-mr-stygian-vambraces-alpha-plus',
+        'iconMale': require('./assets/armors/components/stygian_vambraces_alpha_plus_male.png'),
+        'iconFemale': require('./assets/armors/components/placeholder_hands_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '160',
+        'slots': '2 - -',
+        'vsFire': '2',
+        'vsWater': '-4',
+        'vsThunder': '-5',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Partbreaker',
+            'level': '2'
+        }, {
+            'name': 'Dragon Attack',
+            'level': '3'
+        },],
+        'materials': [{
+            'name': 'Stygian Zinogre Dragonlocks',
+            'quantity': '3'
+        }, {
+            'name': 'Stygian Zinogre Hardclaw',
+            'quantity': '2'
+        },{
+            'name': 'Stygian Zinogre Dragonhold',
+            'quantity': '3'
+        },{
+            'name': 'Large Wyvern Gem',
+            'quantity': '1'
+        },],
+        'cost': '18000',
+    },
+    'lowerBody': {
+        'name': 'Stygian Coil ⍺+',
+        'translationKey': 'armor-mr-stygian-coil-alpha-plus',
+        'iconMale': require('./assets/armors/components/stygian_coil_alpha_plus_male.png'),
+        'iconFemale': require('./assets/armors/components/placeholder_lowerBody_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '160',
+        'slots': '1 1 1',
+        'vsFire': '2',
+        'vsWater': '-4',
+        'vsThunder': '-5',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Latent Power',
+            'level': '3'
+        }, {
+            'name': 'Earplugs',
+            'level': '2'
+        },],
+        'materials': [{
+            'name': 'Stygian Zinogre Dragonlocks',
+            'quantity': '3'
+        }, {
+            'name': 'Stygian Zinogre Dragonhold',
+            'quantity': '2'
+        },{
+            'name': 'Stygian Zinogre Hardhorn',
+            'quantity': '2'
+        },{
+            'name': 'Stygian Zinogre Skymerald',
+            'quantity': '1'
+        },],
+        'cost': '18000',
+    },
+    'legs': {
+        'name': 'Stygian Greaves ⍺+',
+        'translationKey': 'armor-mr-stygian-greaves-alpha-plus',
+        'iconMale': require('./assets/armors/components/stygian_greaves_alpha_plus_male.png'),
+        'iconFemale': require('./assets/armors/components/placeholder_legs_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '160',
+        'slots': '1 1 -',
+        'vsFire': '2',
+        'vsWater': '-4',
+        'vsThunder': '-5',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Focus',
+            'level': '2'
+        }, {
+            'name': 'Elderseal Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Stygian Zinogre Dragonlocks',
+            'quantity': '3'
+        }, {
+            'name': 'Stygian Zinogre Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Stygian Zinogre Hardclaw',
+            'quantity': '2'
+        },{
+            'name': 'Rime Crystal',
+            'quantity': '3'
+        },],
+        'cost': '18000',
+    },
+    'totalDefense': '900',
+    'totalFireDefense': '10',
+    'totalWaterDefense': '-20',
+    'totalThunderDefense': '-25',
+    'totalIceDefense': '0',
+    'totalDragonDefense': '20',
+}, {
+    'name': 'Stygian Zin ß+',
+    'translationKey': 'armor-mr-stygian-zin-beta-plus',
+    'icon': require('./assets/armors/sets/placeholder.png'),
+    'head': {
+        'name': 'Stygian Helm ß+',
+        'translationKey': 'armor-mr-stygian-helm-beta-plus',
+        'iconMale': require('./assets/armors/components/stygian_helm_beta_plus_male.png'),
+        'iconFemale': require('./assets/armors/components/placeholder_head_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '160',
+        'slots': '4 1 -',
+        'vsFire': '2',
+        'vsWater': '-4',
+        'vsThunder': '-5',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Latent Power',
+            'level': '3'
+        }, {
+            'name': 'Tremor Resistance',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Stygian Zinogre Dragonlocks',
+            'quantity': '3'
+        }, {
+            'name': 'Stygian Zinogre Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Stygian Zinogre Hardhorn',
+            'quantity': '1'
+        },{
+            'name': 'Dracophage Bug',
+            'quantity': '5'
+        },],
+        'cost': '18000',
+    },
+    'upperBody': {
+        'name': 'Stygian Mail ß+',
+        'translationKey': 'armor-mr-stygian-mail-beta-plus',
+        'iconMale': require('./assets/armors/components/stygian_mail_beta_plus_male.png'),
+        'iconFemale': require('./assets/armors/components/placeholder_upperBody_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '160',
+        'slots': '4 - -',
+        'vsFire': '2',
+        'vsWater': '-4',
+        'vsThunder': '-5',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Windproof',
+            'level': '3'
+        }, {
+            'name': 'Flinch Free',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Stygian Zinogre Dragonlocks',
+            'quantity': '3'
+        }, {
+            'name': 'Stygian Zinogre Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Stygian Zinogre Lash',
+            'quantity': '1'
+        },{
+            'name': 'Tundra Icebone',
+            'quantity': '3'
+        },],
+        'cost': '18000',
+    },
+    'hands': {
+        'name': 'Stygian Vambraces ß+',
+        'translationKey': 'armor-mr-stygian-vambraces-beta-plus',
+        'iconMale': require('./assets/armors/components/stygian_vambraces_beta_plus_male.png'),
+        'iconFemale': require('./assets/armors/components/placeholder_hands_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '160',
+        'slots': '4 3 -',
+        'vsFire': '2',
+        'vsWater': '-4',
+        'vsThunder': '-5',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Partbreaker',
+            'level': '2'
+        }, ],
+        'materials': [{
+            'name': 'Stygian Zinogre Dragonlocks',
+            'quantity': '3'
+        }, {
+            'name': 'Stygian Zinogre Hardclaw',
+            'quantity': '2'
+        },{
+            'name': 'Stygian Zinogre Dragonhold',
+            'quantity': '3'
+        },{
+            'name': 'Large Wyvern Gem',
+            'quantity': '1'
+        },],
+        'cost': '18000',
+    },
+    'lowerBody': {
+        'name': 'Stygian Coil ß+',
+        'translationKey': 'armor-mr-stygian-coil-beta-plus',
+        'iconMale': require('./assets/armors/components/stygian_coil_beta_plus_male.png'),
+        'iconFemale': require('./assets/armors/components/placeholder_lowerBody_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '160',
+        'slots': '4 1 1',
+        'vsFire': '2',
+        'vsWater': '-4',
+        'vsThunder': '-5',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Latent Power',
+            'level': '3'
+        }, {
+            'name': 'Earplugs',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Stygian Zinogre Dragonlocks',
+            'quantity': '3'
+        }, {
+            'name': 'Stygian Zinogre Dragonhold',
+            'quantity': '2'
+        },{
+            'name': 'Stygian Zinogre Hardhorn',
+            'quantity': '2'
+        },{
+            'name': 'Stygian Zinogre Skymerald',
+            'quantity': '1'
+        },],
+        'cost': '18000',
+    },
+    'legs': {
+        'name': 'Stygian Greaves ß+',
+        'translationKey': 'armor-mr-stygian-greaves-beta-plus',
+        'iconMale': require('./assets/armors/components/stygian_greaves_beta_plus_male.png'),
+        'iconFemale': require('./assets/armors/components/placeholder_legs_female.png'),
+        'level': '1',
+        'rarity': '11',
+        'defense': '160',
+        'slots': '4 1 -',
+        'vsFire': '2',
+        'vsWater': '-4',
+        'vsThunder': '-5',
+        'vsIce': '0',
+        'vsDragon': '4',
+        'skills': [{
+            'name': 'Focus',
+            'level': '2'
+        }, {
+            'name': 'Elderseal Boost',
+            'level': '1'
+        },],
+        'materials': [{
+            'name': 'Stygian Zinogre Dragonlocks',
+            'quantity': '1'
+        }, {
+            'name': 'Stygian Zinogre Cortex',
+            'quantity': '2'
+        },{
+            'name': 'Stygian Zinogre Hardclaw',
+            'quantity': '2'
+        },{
+            'name': 'Rime Crystal',
+            'quantity': '3'
+        },],
+        'cost': '18000',
+    },
+    'totalDefense': '900',
+    'totalFireDefense': '10',
+    'totalWaterDefense': '-20',
+    'totalThunderDefense': '-25',
+    'totalIceDefense': '0',
+    'totalDragonDefense': '20',
 },{
     'name': 'Rath Heart ⍺+',
     'translationKey': 'armor-mr-rath-heart-alpha-plus',

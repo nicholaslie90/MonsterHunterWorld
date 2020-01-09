@@ -9545,7 +9545,7 @@ export default {
     },
     "play-guide-dash-attacks-description": {
       "Key": "play-guide-dash-attacks-description",
-      "Translation": "Durante un ataque de tablero, también puede realizar otras acciones como pasos laterales, giros de 180 grados, saltos y guardias."
+      "Translation": "Durante un ataque de guión, también puede realizar otras acciones como pasos laterales, giros de 180 grados, saltos y guardias."
     },
     "play-guide-dash-stepping-and-guard-dashing": {
       "Key": "play-guide-dash-stepping-and-guard-dashing",
@@ -12085,7 +12085,7 @@ export default {
     },
     "quest-fungal-flexin-in-the-ancient-forest-description": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-description",
-      "Translation": "Suplementos? En mi cantimplora? Pff! Estamos todos orgánica, baby! Si necesita vitamina D, hacer algo de Gourmet Shroomcaps!"
+      "Translation": "Suplementos? En mi cantimplora? ¡No! Estamos todos orgánica, baby! Si necesita vitamina D, hacer algo de Gourmet Shroomcaps!"
     },
     "quest-fungal-flexin-in-the-ancient-forest-notable-rewards": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-notable-rewards",
@@ -14205,7 +14205,7 @@ export default {
     },
     "settings-language-german": {
       "Key": "settings-language-german",
-      "Translation": "Deutsch"
+      "Translation": "Alemán"
     },
     "settings-language-italian": {
       "Key": "settings-language-italian",
@@ -14713,7 +14713,7 @@ export default {
     },
     "skill-cliffhanger": {
       "Key": "skill-cliffhanger",
-      "Translation": "Máximo riesgo"
+      "Translation": "Momento culminante"
     },
     "skill-cliffhanger-1": {
       "Key": "skill-cliffhanger-1",
@@ -15257,7 +15257,7 @@ export default {
     },
     "skill-foragers-luck-1": {
       "Key": "skill-foragers-luck-1",
-      "Translation": "Aumenta la probabilidad de recolección raros puntos de reaparición."
+      "Translation": "Aumenta la posibilidad de reunir raros puntos de reaparición."
     },
     "skill-foragers-luck-description": {
       "Key": "skill-foragers-luck-description",
@@ -15993,7 +15993,7 @@ export default {
     },
     "skill-paralysis-resistance-2": {
       "Key": "skill-paralysis-resistance-2",
-      "Translation": "Reduce la duración de la parálisis en un 60%."
+      "Translation": "Disminuye la duración de la parálisis por 60%."
     },
     "skill-paralysis-resistance-3": {
       "Key": "skill-paralysis-resistance-3",
@@ -17449,7 +17449,7 @@ export default {
     },
     "trophy-spreading-the-word": {
       "Key": "trophy-spreading-the-word",
-      "Translation": "Difundiendo la palabra"
+      "Translation": "Pasando la voz"
     },
     "trophy-spreading-the-word-description": {
       "Key": "trophy-spreading-the-word-description",
@@ -17737,7 +17737,7 @@ export default {
     },
     "ui-worn": {
       "Key": "ui-worn",
-      "Translation": "Pasado"
+      "Translation": "Desgastado"
     },
     "weapon-dual-blades-anja-cyclone-i": {
       "Key": "weapon-dual-blades-anja-cyclone-i",
@@ -23782,5 +23782,77 @@ export default {
     "weapon-sword-and-shield-defender-warhatchet-v": {
       "Key": "weapon-sword-and-shield-defender-warhatchet-v",
       "Translation": "Defensor Warhatchet V"
+    },
+    "armor-mr-stygian-zin-alpha-plus": {
+      "Key": "armor-mr-stygian-zin-alpha-plus",
+      "Translation": "Stygian Zin ⍺ +"
+    },
+    "armor-mr-stygian-helm-alpha-plus": {
+      "Key": "armor-mr-stygian-helm-alpha-plus",
+      "Translation": "Stygian timón ⍺ +"
+    },
+    "armor-mr-stygian-vambraces-alpha-plus": {
+      "Key": "armor-mr-stygian-vambraces-alpha-plus",
+      "Translation": "Stygian Protegebrazos ⍺ +"
+    },
+    "armor-mr-stygian-mail-alpha-plus": {
+      "Key": "armor-mr-stygian-mail-alpha-plus",
+      "Translation": "Correo Estigia ⍺ +"
+    },
+    "armor-mr-stygian-coil-alpha-plus": {
+      "Key": "armor-mr-stygian-coil-alpha-plus",
+      "Translation": "Stygian bobina ⍺ +"
+    },
+    "armor-mr-stygian-greaves-alpha-plus": {
+      "Key": "armor-mr-stygian-greaves-alpha-plus",
+      "Translation": "Stygian Greaves, ⍺ +"
+    },
+    "armor-mr-stygian-zin-beta-plus": {
+      "Key": "armor-mr-stygian-zin-beta-plus",
+      "Translation": "Stygian Zin + ß"
+    },
+    "armor-mr-stygian-helm-beta-plus": {
+      "Key": "armor-mr-stygian-helm-beta-plus",
+      "Translation": "Stygian timón SS +"
+    },
+    "armor-mr-stygian-vambraces-beta-plus": {
+      "Key": "armor-mr-stygian-vambraces-beta-plus",
+      "Translation": "Stygian Protegebrazos SS +"
+    },
+    "armor-mr-stygian-mail-beta-plus": {
+      "Key": "armor-mr-stygian-mail-beta-plus",
+      "Translation": "Correo Estigia SS +"
+    },
+    "armor-mr-stygian-coil-beta-plus": {
+      "Key": "armor-mr-stygian-coil-beta-plus",
+      "Translation": "Stygian bobina SS +"
+    },
+    "armor-mr-stygian-greaves-beta-plus": {
+      "Key": "armor-mr-stygian-greaves-beta-plus",
+      "Translation": "Stygian Greaves, SS +"
+    },
+    "armor-mr-oolong-alpha-plus": {
+      "Key": "armor-mr-oolong-alpha-plus",
+      "Translation": "Oolong ⍺ +"
+    },
+    "armor-mr-oolong-hair-alpha-plus": {
+      "Key": "armor-mr-oolong-hair-alpha-plus",
+      "Translation": "Cabello oolong ⍺ +"
+    },
+    "armor-mr-oolong-vest-alpha-plus": {
+      "Key": "armor-mr-oolong-vest-alpha-plus",
+      "Translation": "Oolong chaleco + ⍺"
+    },
+    "armor-mr-oolong-sleeves-alpha-plus": {
+      "Key": "armor-mr-oolong-sleeves-alpha-plus",
+      "Translation": "Oolong mangas ⍺ +"
+    },
+    "armor-mr-oolong-waist-alpha-plus": {
+      "Key": "armor-mr-oolong-waist-alpha-plus",
+      "Translation": "Oolong cintura ⍺ +"
+    },
+    "armor-mr-oolong-boots-alpha-plus": {
+      "Key": "armor-mr-oolong-boots-alpha-plus",
+      "Translation": "Oolong Botas ⍺ +"
     }
   }

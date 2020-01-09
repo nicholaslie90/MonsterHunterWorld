@@ -98,40 +98,8 @@ export default class AboutScreen extends React.PureComponent {
 
                             Special Contributors:
                             {"\n"}
-                            - DerMotze
+                            - Marcel Zaich
                             - Kenny Todd
-
-                            {"\n"}{"\n"}
-
-                            Language Contributors:
-                            {"\n"}
-                            - Chinese (Simplified): LiYe, eArth終極, Eric, Alex, Nathan, Reese, Zhenglei Jiang
-                            {"\n"}
-                            - Chinese (Traditional): Light Wan
-                            {"\n"}
-                            - Español: Pavel G. Medina Gomez, Erik Montero, Adrián GB, Spix, Yerko, Ricardo N.L, Daniel Gonzalez, Edwards O. R, Johan Eduardo, Adam, Bastian Aguirre, Ernesto Sabalza, Nuevos Sentimientos, Jefferson Herrera
-                            {"\n"}
-                            - French: Kimitsu, Ludovic TUTIN, Jules Dorsit, Loris Scalisi, Jeremy (Pinpin), Sidh, Manu, Garlayn Toji, Thomas Ramphort, Eliot Mousset, Gabriel Suhas Guerin
-                            {"\n"}
-                            - German (Deutsch): DerMotze, Alex, Justus, Jan Kowal, Nicolai Culino, Kevin Brandt, Jan
-                            Graf, Pascal Langenbrunner, Domingo Ivaniv, Pasquale Falcone, Hubert Sproski, Tino Langenberg
-                            {"\n"}
-                            - Italian: Luca Zanni, Alessandro Troia, Daniel Pellegrini, Ludovico, Nicolò Migliorati, Angelo Franciamore, Leonardo Catanzaro, Francesco Limonta, Valerio, Jacopo
-                            {"\n"}
-                            - Japanese: Fábio
-                            {"\n"}
-                            - Korean: 박윤재 (Albert)
-                            {"\n"}
-                            - Português BR: Marcio Silveira, Carlos, Renan Moreira, Darwin
-                            {"\n"}
-                            - Português EU: Ulisses
-                            {"\n"}
-                            - Thai: Ratchanon, Kritsana
-
-                            {"\n\n"}
-
-                            I need help in translating the app into various languages. If you're willing to help me,
-                            scroll down to the bottom of this page to find the translation files. =)
 
                             {"\n"}{"\n"}
                             Built with ❤️ using React Native, from Jakarta,
@@ -173,11 +141,11 @@ export default class AboutScreen extends React.PureComponent {
 
                             Monster Hunter: World is trademark of Capcom Co., Ltd, 2018. All rights reserved.
                         </Text>
-                        <View style={{flex: 1, flexDirection: 'column'}}>
-                            <Text style={[themeText, {textAlign: 'center'}]}>==LINK TO TRANSLATION FILES==</Text>
-                            <Text style={[{color: 'lightblue', textAlign: 'center', lineHeight: 30}]}
-                                  onPress={() => Linking.openURL('https://bit.ly/MHWTranslations')}>Link (https://bit.ly/MHWTranslations)</Text>
-                        </View>
+                        {/*<View style={{flex: 1, flexDirection: 'column'}}>*/}
+                            {/*<Text style={[themeText, {textAlign: 'center'}]}>==LINK TO TRANSLATION FILES==</Text>*/}
+                            {/*<Text style={[{color: 'lightblue', textAlign: 'center', lineHeight: 30}]}*/}
+                                  {/*onPress={() => Linking.openURL('https://bit.ly/MHWTranslations')}>Link (https://bit.ly/MHWTranslations)</Text>*/}
+                        {/*</View>*/}
                     </View>
                 </ScrollView>
                 {this._renderAds()}

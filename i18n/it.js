@@ -7605,7 +7605,7 @@ export default {
     },
     "critical-bounties-notes": {
       "Key": "critical-bounties-notes",
-      "Translation": "Gli appunti"
+      "Translation": "Appunti"
     },
     "critical-bounties-plunderers": {
       "Key": "critical-bounties-plunderers",
@@ -8037,7 +8037,7 @@ export default {
     },
     "home-charms": {
       "Key": "home-charms",
-      "Translation": "Charms"
+      "Translation": "Incantesimi"
     },
     "home-crafting-list": {
       "Key": "home-crafting-list",
@@ -8125,7 +8125,7 @@ export default {
     },
     "home-skills": {
       "Key": "home-skills",
-      "Translation": "Abilità"
+      "Translation": "Competenze"
     },
     "home-specialized-tools": {
       "Key": "home-specialized-tools",
@@ -9469,7 +9469,7 @@ export default {
     },
     "play-guide-charms": {
       "Key": "play-guide-charms",
-      "Translation": "Charms"
+      "Translation": "Incantesimi"
     },
     "play-guide-charms-description": {
       "Key": "play-guide-charms-description",
@@ -10133,7 +10133,7 @@ export default {
     },
     "play-guide-obtaining-decorations-description": {
       "Key": "play-guide-obtaining-decorations-description",
-      "Translation": "È possibile acquisire elementi di valutazione da quest alto rango. Dopo aver Valutare questi elementi, si possono usare come decorazioni. Attaccare le decorazioni alle tue slot attrezzature per attivare abilità speciali."
+      "Translation": "È possibile acquisire elementi di valutazione da quest alto rango. Dopo aver Valutare questi elementi, si possono usare come decorazioni. Fissare le decorazioni alle tue slot attrezzature per attivare abilità speciali."
     },
     "play-guide-omenflies": {
       "Key": "play-guide-omenflies",
@@ -12493,7 +12493,7 @@ export default {
     },
     "quest-notes": {
       "Key": "quest-notes",
-      "Translation": "Gli appunti"
+      "Translation": "Appunti"
     },
     "quest-objective": {
       "Key": "quest-objective",
@@ -13061,7 +13061,7 @@ export default {
     },
     "quest-royal-relocation-tips": {
       "Key": "quest-royal-relocation-tips",
-      "Translation": "Non perdete tempo con la protezione del veleno se non si può completamente impedirlo, basta portare Antidoto con te e utilizzare attrezzature antincendio resistente. Inizia da sud-ovest di Camp (1), a nord di testa nella foresta settore 2 per trovare il bersaglio. Rathian è ancora suscettibile di veleno, nonostante i suoi attacchi velenosi in modo che il Poisoncup nel settore 3 possono essere utilizzati. Il suo nido è sul lato opposto della mappa nel settore 12, corsa veloce Camp orientale (11) e salire le viti dopo che l'acqua."
+      "Translation": "Non perdete tempo con la protezione del veleno se non si può completamente impedirlo, basta portare Antidoto con te e utilizzare attrezzature antincendio resistente. Inizia da sud-ovest di Camp (1), a nord di testa nella foresta settore 2 per trovare il bersaglio. Rathian è ancora suscettibile di veleno, nonostante i suoi attacchi velenosi in modo che il Poisoncup nel settore 3 possono essere utilizzati. Il suo nido è sull'altro lato della mappa nel settore 12, corsa veloce Camp orientale (11) e salire le viti dopo l'acqua."
     },
     "quest-rrrrrumble-in-the-waste": {
       "Key": "quest-rrrrrumble-in-the-waste",
@@ -13185,7 +13185,7 @@ export default {
     },
     "quest-sorry-youre-not-invited-tips": {
       "Key": "quest-sorry-youre-not-invited-tips",
-      "Translation": "Inizia da Camp Southern (1), in direzione nord-ovest nel settore 3 poi 9 e 5, se non riesci a trovare il bersaglio sarà nel settore 8. La lotta può muoversi al settore 4 ad un certo punto, dove l'azzurro terra è squishy. Il Paolumu può sbattere a terra e creare un'onda d'urto che ti fa perdere il vostro basamento per alcuni secondi, ma lo stordimento la Paolumu sopra quella zona sarà effettivamente intrappolarlo per una buona quantità di tempo. Il suo nido è nel settore 9, all'interno della struttura gigante, che sarà spesso volare intorno alla zona, basta aspettare che torni."
+      "Translation": "Comincia da Camp Sud (1), dirigetevi a nord-ovest nel settore 3 e poi 9 5, se non riesci a trovare il target sarà nel settore 8. La lotta può muoversi al settore 4 un certo punto, dove l'azzurro terra è squishy. Il Paolumu può sbattere a terra e creare un'onda d'urto che ti fa perdere il vostro basamento per alcuni secondi, ma lo stordimento la Paolumu sopra quella zona sarà effettivamente intrappolarlo per una buona quantità di tempo. Il suo nido è nel settore 9, all'interno della struttura gigante, che sarà spesso volare intorno alla zona, basta aspettare che torni."
     },
     "quest-special-arena-anjanath": {
       "Key": "quest-special-arena-anjanath",
@@ -13529,7 +13529,7 @@ export default {
     },
     "quest-the-eye-of-the-storm-description": {
       "Key": "quest-the-eye-of-the-storm-description",
-      "Translation": "L'esistenza di Kushala ci ricorda quanto è grande e temibile è la natura. Ma ci ricorda anche di coloro che si alzò in piedi contro la bestia. Stand cacciatore di altezza, e restituire il cielo al blu."
+      "Translation": "L'esistenza di Kushala ci ricorda quanto è grande e temibile è la natura. Ma ci ricorda anche di coloro che si alzò contro la bestia. Stand cacciatore di altezza, e restituire il cielo al blu."
     },
     "quest-the-fires-of-hell-bite-deep": {
       "Key": "quest-the-fires-of-hell-bite-deep",
@@ -14273,7 +14273,7 @@ export default {
     },
     "settings-redeem-code-enter-a-value": {
       "Key": "settings-redeem-code-enter-a-value",
-      "Translation": "Per favore inserire un valore."
+      "Translation": "Per favore, inserisca un valore."
     },
     "settings-redeem-code-failed": {
       "Key": "settings-redeem-code-failed",
@@ -15725,7 +15725,7 @@ export default {
     },
     "skill-leap-of-faith": {
       "Key": "skill-leap-of-faith",
-      "Translation": "Leap of Faith"
+      "Translation": "Atto di fede"
     },
     "skill-leap-of-faith-1": {
       "Key": "skill-leap-of-faith-1",
@@ -16757,7 +16757,7 @@ export default {
     },
     "skill-weakness-exploit": {
       "Key": "skill-weakness-exploit",
-      "Translation": "debolezza Exploit"
+      "Translation": "Punto debole"
     },
     "skill-weakness-exploit-1": {
       "Key": "skill-weakness-exploit-1",
@@ -23782,5 +23782,77 @@ export default {
     "weapon-sword-and-shield-defender-warhatchet-v": {
       "Key": "weapon-sword-and-shield-defender-warhatchet-v",
       "Translation": "Defender Warhatchet V"
+    },
+    "armor-mr-stygian-zin-alpha-plus": {
+      "Key": "armor-mr-stygian-zin-alpha-plus",
+      "Translation": "Stygian Zin ⍺ +"
+    },
+    "armor-mr-stygian-helm-alpha-plus": {
+      "Key": "armor-mr-stygian-helm-alpha-plus",
+      "Translation": "Stygian Helm ⍺ +"
+    },
+    "armor-mr-stygian-vambraces-alpha-plus": {
+      "Key": "armor-mr-stygian-vambraces-alpha-plus",
+      "Translation": "Stygian Vambraces ⍺ +"
+    },
+    "armor-mr-stygian-mail-alpha-plus": {
+      "Key": "armor-mr-stygian-mail-alpha-plus",
+      "Translation": "Posta Stygian ⍺ +"
+    },
+    "armor-mr-stygian-coil-alpha-plus": {
+      "Key": "armor-mr-stygian-coil-alpha-plus",
+      "Translation": "Stygian Coil ⍺ +"
+    },
+    "armor-mr-stygian-greaves-alpha-plus": {
+      "Key": "armor-mr-stygian-greaves-alpha-plus",
+      "Translation": "Stygian Greaves ⍺ +"
+    },
+    "armor-mr-stygian-zin-beta-plus": {
+      "Key": "armor-mr-stygian-zin-beta-plus",
+      "Translation": "Stygian Zin ß +"
+    },
+    "armor-mr-stygian-helm-beta-plus": {
+      "Key": "armor-mr-stygian-helm-beta-plus",
+      "Translation": "Stygian Helm ß +"
+    },
+    "armor-mr-stygian-vambraces-beta-plus": {
+      "Key": "armor-mr-stygian-vambraces-beta-plus",
+      "Translation": "Stygian Vambraces ß +"
+    },
+    "armor-mr-stygian-mail-beta-plus": {
+      "Key": "armor-mr-stygian-mail-beta-plus",
+      "Translation": "Stygian posta ß +"
+    },
+    "armor-mr-stygian-coil-beta-plus": {
+      "Key": "armor-mr-stygian-coil-beta-plus",
+      "Translation": "Stygian Coil ß +"
+    },
+    "armor-mr-stygian-greaves-beta-plus": {
+      "Key": "armor-mr-stygian-greaves-beta-plus",
+      "Translation": "Stygian Greaves ß +"
+    },
+    "armor-mr-oolong-alpha-plus": {
+      "Key": "armor-mr-oolong-alpha-plus",
+      "Translation": "Oolong ⍺ +"
+    },
+    "armor-mr-oolong-hair-alpha-plus": {
+      "Key": "armor-mr-oolong-hair-alpha-plus",
+      "Translation": "Oolong Capelli ⍺ +"
+    },
+    "armor-mr-oolong-vest-alpha-plus": {
+      "Key": "armor-mr-oolong-vest-alpha-plus",
+      "Translation": "Oolong Vest ⍺ +"
+    },
+    "armor-mr-oolong-sleeves-alpha-plus": {
+      "Key": "armor-mr-oolong-sleeves-alpha-plus",
+      "Translation": "Oolong Maniche ⍺ +"
+    },
+    "armor-mr-oolong-waist-alpha-plus": {
+      "Key": "armor-mr-oolong-waist-alpha-plus",
+      "Translation": "Oolong Vita ⍺ +"
+    },
+    "armor-mr-oolong-boots-alpha-plus": {
+      "Key": "armor-mr-oolong-boots-alpha-plus",
+      "Translation": "Oolong Boots ⍺ +"
     }
   }

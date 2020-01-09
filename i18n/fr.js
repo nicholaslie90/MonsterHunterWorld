@@ -3449,7 +3449,7 @@ export default {
     },
     "armor-lr-brigade": {
       "Key": "armor-lr-brigade",
-      "Translation": "la brigade"
+      "Translation": "Brigade"
     },
     "armor-lr-brigade-boots": {
       "Key": "armor-lr-brigade-boots",
@@ -5525,7 +5525,7 @@ export default {
     },
     "armor-mr-hoarcry-helm-alpha-plus": {
       "Key": "armor-mr-hoarcry-helm-alpha-plus",
-      "Translation": "Hoarcry Helm ⍺ +"
+      "Translation": "Helm Hoarcry ⍺ +"
     },
     "armor-mr-hoarcry-mail-alpha-plus": {
       "Key": "armor-mr-hoarcry-mail-alpha-plus",
@@ -7169,7 +7169,7 @@ export default {
     },
     "armor-pukei-description": {
       "Key": "armor-pukei-description",
-      "Translation": "armure Pukei-Pukei conçu pour protéger les parties vitales du corps avec une quantité très modeste des matériaux."
+      "Translation": "Pukei armure-Pukei conçu pour protéger les parties vitales du corps avec une quantité très modeste des matériaux."
     },
     "armor-pulverizing-feather-how-to-get": {
       "Key": "armor-pulverizing-feather-how-to-get",
@@ -7513,7 +7513,7 @@ export default {
     },
     "armor-uragaan-description": {
       "Key": "armor-uragaan-description",
-      "Translation": "armure lourde a fait de lourdes pièces Uragaan, et chaque once de celui-ci ajoute à sa défense."
+      "Translation": "armure lourde a fait de lourdes pièces Uragaan, et chaque once de celui-ci ajoute à la défense."
     },
     "armor-vaal-hazak-description": {
       "Key": "armor-vaal-hazak-description",
@@ -7585,7 +7585,7 @@ export default {
     },
     "critical-bounties-bugtrappers-tips": {
       "Key": "critical-bounties-bugtrappers-tips",
-      "Translation": "Dans la forêt ancienne: Un seul Bugtrapper se trouve dans la zone 6 dans les arbres (nord-Camp (11)). Lorsque vous vous approchez, le Bugtrapper fuira. Suivez-le et il vous conduira dans son village. \\ N \\ Ntake votre temps car il n'est pas une course. Ou en cours d'exécution trop Dépassement proche du Bugtrapper peut causer des problèmes. Récompense: Votre Palico peut maintenant utiliser la cage flashfly et parler à Jagras."
+      "Translation": "Dans la forêt ancienne: Un seul Bugtrapper se trouve dans la zone 6 dans les arbres (nord-Camp (11)). Lorsque vous vous approchez, le Bugtrapper fuira. Suivez-le et il vous conduira dans son village. \\ N \\ Ntake temps car il n'est pas une course. Ou en cours d'exécution trop Dépassement proche du Bugtrapper peut causer des problèmes. Récompense: Votre Palico peut maintenant utiliser la cage flashfly et parler à Jagras."
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics",
@@ -7601,7 +7601,7 @@ export default {
     },
     "critical-bounties-important-notes": {
       "Key": "critical-bounties-important-notes",
-      "Translation": "Il y a trois chercheurs que vous pouvez rencontrer sur le terrain. La vie du chercheur Endémique, le chercheur Lynian et le chercheur Piscine \\ n \\ nLorsque vous définissez sur une expédition, un seul chercheur frayer dans la zone. Ce qui fraie chercheur, est affiché sur la carte du monde lorsque vous choisissez votre destination de l'expédition. Chaque fois que vous terminez une mission, l'expédition ou d'une enquête, il change qui fraye de nouveaux chercheurs. Voilà pourquoi il est important de vérifier régulièrement la carte du monde. \\ N \\ nIl est important de parler à chaque chercheur dans chaque zone afin de progresser à travers les primes critiques de chaque chercheur. Comme il est aléatoire qui fraye de nouveaux chercheurs (voir la note précédente), il est facile de manquer ces primes critiques. \\ N \\ n Si un chercheur a une prime à l'offre, ils apparaissent comme un point d'exclamation jaune (!) Sur la carte . Je ne vois pas toujours ces marques sur la carte et c'est la raison pour laquelle j'ai raté ces primes critiques. Une fois que vous êtes sur une expédition, ouvrez votre carte du monde et utilisez les boutons L1 / R1 pour sélectionner le filtre vie Endémique pour le rendre plus facile à repérer. \\ N \\ n Si un chercheur n'a pas bounty à offrir, ils apparaîtront comme un vert lumineux point (.) sur la carte. \\ n \\ nAprès vous compléter une prime critique, vous pouvez parler au chercheur concerné pour l'informer / elle que vous avez terminé la prime. Cependant, il faut toujours parler du Centre de recherche en Astera pour compléter la prime et recevoir les récompenses. \\ N \\ n Si vous n'avez pas parlé au chercheur après avoir terminé une prime et vous êtes sur le point de leur parler dans une nouvelle zone d'accepter une nouvelle prime, il est possible que vous devez parler au chercheur deux fois. Une fois pour l'informer / elle que vous avez terminé la prime précédente. Une autre fois pour initier la générosité critique de la nouvelle zone \\ n \\ nChoosing le bas Rang ou Haute destination Rang n'a pas d'importance, sauf pour Recess Dragon qui est rang élevé que \\ n \\ nLynian Bounties:.. Chaque fois que vous trouvez griffonnages, vous peut les marquer avec vos scouts mouches et ils vous guideront vers le prochain doodle. Cela vous conduit aux endroits indiqués ci-dessous. Après amitié avec un clan, vous pouvez parler à votre Palico dans votre chambre ou à la base de recherche. Votre Palico vous indiquera alors les nouveaux trucs qu'il a appris."
+      "Translation": "Il y a trois chercheurs que vous pouvez rencontrer sur le terrain. La vie du chercheur Endémique, le chercheur Lynian et le chercheur Piscine \\ n \\ nLorsque vous définissez sur une expédition, un seul chercheur frayer dans la zone. Ce qui fraie chercheur, est affiché sur la carte du monde lorsque vous choisissez votre destination de l'expédition. Chaque fois que vous terminez une mission, l'expédition ou d'une enquête, il change qui fraye de nouveaux chercheurs. Voilà pourquoi il est important de vérifier régulièrement la carte du monde. \\ N \\ nIl est important de parler à chaque chercheur dans chaque zone afin de progresser à travers les primes critiques de chaque chercheur. Comme il est aléatoire qui fraye de nouveaux chercheurs (voir la note précédente), il est facile de manquer ces primes critiques. \\ N \\ n Si un chercheur a une prime à l'offre, ils apparaissent comme un point d'exclamation jaune (!) Sur la carte . Je ne vois pas toujours ces marques sur la carte et c'est la raison pour laquelle j'ai raté ces primes critiques. Une fois que vous êtes sur une expédition, ouvrez votre carte du monde et utilisez les boutons L1 / R1 pour sélectionner le filtre vie Endémique pour le rendre plus facile à repérer. \\ N \\ n Si un chercheur n'a pas bounty à offrir, ils apparaîtront comme un vert lumineux point (.) sur la carte. \\ n \\ nAprès vous compléter une prime critique, vous pouvez parler au chercheur concerné pour l'informer / elle que vous avez terminé la prime. Cependant, il faut toujours parler du Centre de recherche en Astera pour compléter la prime et recevoir les récompenses. \\ N \\ n Si vous n'avez pas parlé au chercheur après avoir terminé une prime et vous êtes sur le point de leur parler dans une nouvelle zone d'accepter une nouvelle prime, il est possible que vous devez parler au chercheur deux fois. Une fois pour l'informer / elle que vous avez terminé la prime précédente. Une autre fois pour initier la générosité critique de la nouvelle zone \\ n \\ nChoosing le bas Rang ou Haute destination Rang n'a pas d'importance, sauf pour Recess Dragon qui est rang élevé que \\ n \\ nLynian Bounties:.. Chaque fois que vous trouvez griffonnages, vous peut les marquer avec vos scouts mouches et ils vous guideront vers le prochain doodle. Faire ceci vous amène aux endroits indiqués ci-dessous. Après amitié avec un clan, vous pouvez parler à votre Palico dans votre chambre ou à la base de recherche. Votre Palico vous indiquera alors les nouveaux trucs qu'il a appris."
     },
     "critical-bounties-notes": {
       "Key": "critical-bounties-notes",
@@ -8121,7 +8121,7 @@ export default {
     },
     "home-settings": {
       "Key": "home-settings",
-      "Translation": "Paramètres"
+      "Translation": "Réglages"
     },
     "home-skills": {
       "Key": "home-skills",
@@ -8189,7 +8189,7 @@ export default {
     },
     "layered-armor-brigade": {
       "Key": "layered-armor-brigade",
-      "Translation": "la brigade"
+      "Translation": "Brigade"
     },
     "layered-armor-brigade-how-to-get": {
       "Key": "layered-armor-brigade-how-to-get",
@@ -8673,7 +8673,7 @@ export default {
     },
     "monster-black-diablos-useful-information": {
       "Key": "monster-black-diablos-useful-information",
-      "Translation": "Diablos sont beaucoup plus agressifs contre les intrus lorsque la chaleur, et sont connus pour attaquer les ennemis en retraite. Ne laissez pas votre garde même si vous pensez que vous avez établi une distance de sécurité de ces monstres."
+      "Translation": "Diablos sont beaucoup plus agressifs contre les intrus dans la chaleur quand, et sont connus pour attaquer les ennemis en retraite. Ne laissez pas votre garde même si vous pensez que vous avez établi une distance de sécurité de ces monstres."
     },
     "monster-blackveil-vaal-hazak": {
       "Key": "monster-blackveil-vaal-hazak",
@@ -8709,7 +8709,7 @@ export default {
     },
     "monster-diablos-characteristics": {
       "Key": "monster-diablos-characteristics",
-      "Translation": "Le monstre de sommet du Wildspire des déchets. Une menaçant, bête territoriale qui se cache sous terre. Les bruits forts causeront à un mouvement brusque du sable à la recherche de proies."
+      "Translation": "Le monstre de sommet du Wildspire des déchets. Une menaçant, bête territoriale qui se cache sous terre. Les bruits forts causeront à mouvement brusque du sable à la recherche de proies."
     },
     "monster-diablos-useful-information": {
       "Key": "monster-diablos-useful-information",
@@ -8885,7 +8885,7 @@ export default {
     },
     "monster-kushala-daora-useful-information": {
       "Key": "monster-kushala-daora-useful-information",
-      "Translation": "Lorsqu'ils sont confrontés à des ennemis, le bouclier du vent de façon continue Kushala croît en intensité, éventuellement dévier les attaques d'arc et Bowgun. Son pare-brise peut être affaibli en décalant ce, en particulier avec des armes avec des capacités Elderseal."
+      "Translation": "Lorsqu'ils sont confrontés à des ennemis, le bouclier du vent de façon continue Kushala croît en intensité, éventuellement dévier les attaques arc et Bowgun. Son pare-brise peut être affaibli en décalant ce, en particulier avec des armes avec des capacités Elderseal."
     },
     "monster-lavasioth": {
       "Key": "monster-lavasioth",
@@ -9681,7 +9681,7 @@ export default {
     },
     "play-guide-endemic-pets-description": {
       "Key": "play-guide-endemic-pets-description",
-      "Translation": "créatures que vous capturez endémies peuvent être placés dans différents endroits dans votre chambre. Certains criters ne peuvent être placés dans des zones spécifiques de votre chambre, et le numéro que vous pouvez placer dépend de la tpye de chambre. Parlez-en à votre femme de ménage pour placer vos animaux de compagnie."
+      "Translation": "créatures que vous capturez endémies peuvent être placés dans différents endroits dans votre chambre. Certains criters ne peuvent être placés dans des zones spécifiques de votre chambre, et le numéro que vous pouvez placer dépend de la tpye de chambre. Parlez-en à votre femme de ménage à placer vos animaux."
     },
     "play-guide-equipment-slots": {
       "Key": "play-guide-equipment-slots",
@@ -10713,7 +10713,7 @@ export default {
     },
     "play-guide-trading-with-the-argosy-description": {
       "Key": "play-guide-trading-with-the-argosy-description",
-      "Translation": "Le Argosy est un navire de commerce qui appelle de façon sporadique dans le port de Astera et offre ensembles d'objets spéciaux à vendre. Les ensembles d'objets changent à chaque fois que les visites Argosy, et ils peuvent contenir des objets rares disponibles nulle part ailleurs."
+      "Translation": "Le Argosy est un navire de commerce qui appelle de façon sporadique au port de Astera et offre des ensembles d'objets spéciaux à vendre. Les ensembles d'objets changent à chaque fois que les visites Argosy, et ils peuvent contenir des objets rares disponibles nulle part ailleurs."
     },
     "play-guide-traps-and-elder-dragons": {
       "Key": "play-guide-traps-and-elder-dragons",
@@ -10729,11 +10729,11 @@ export default {
     },
     "play-guide-trusty-hunting-pawtners-description": {
       "Key": "play-guide-trusty-hunting-pawtners-description",
-      "Translation": "Palicoes sont camarades fiables tout en chasse. Ils vous prennent en charge de nombreuses façons pendant les quêtes, d'attaquer des monstres à l'utilisation des gadgets utiles."
+      "Translation": "Palicoes sont camarades fiables tout en chasse. Ils vous prennent en charge de nombreuses façons au cours des quêtes, d'attaquer des monstres à l'utilisation des gadgets utiles."
     },
     "play-guide-types-of-shelling-attacks": {
       "Key": "play-guide-types-of-shelling-attacks",
-      "Translation": "Types d'attaques écosser"
+      "Translation": "Types d'attaques Bombardements"
     },
     "play-guide-types-of-shelling-attacks-description": {
       "Key": "play-guide-types-of-shelling-attacks-description",
@@ -10853,7 +10853,7 @@ export default {
     },
     "play-guide-wiggly-litchi-description": {
       "Key": "play-guide-wiggly-litchi-description",
-      "Translation": "Ces larves riches en éléments nutritifs peut être consommé pour réduire de moitié l'épuisement de l'endurance pour un court laps de temps."
+      "Translation": "Ces larves riches en éléments nutritifs peut être consommé pour réduire de moitié l'appauvrissement de l'endurance pour un court laps de temps."
     },
     "play-guide-wyvernblast": {
       "Key": "play-guide-wyvernblast",
@@ -10993,7 +10993,7 @@ export default {
     },
     "query-a-fiery-convergence-description": {
       "Key": "query-a-fiery-convergence-description",
-      "Translation": "Ici, à la deuxième flotte, nous avons travaillé pour développer de nouveaux outils pour aider vos chasses, mais nous avons besoin de votre aide regroupant les matériaux. Nous comptons sur vous pour prendre cette quête!"
+      "Translation": "Ici, à la deuxième Flotte, nous avons travaillé pour développer de nouveaux outils pour aider vos chasses, mais nous avons besoin d'aide regroupant les matériaux. Nous comptons sur vous pour prendre cette quête!"
     },
     "quest-a-blaze-on-the-sand": {
       "Key": "quest-a-blaze-on-the-sand",
@@ -11153,7 +11153,7 @@ export default {
     },
     "quest-a-portent-of-disaster-description": {
       "Key": "quest-a-portent-of-disaster-description",
-      "Translation": "Ici, à la deuxième flotte, nous avons travaillé pour développer de nouveaux outils pour aider vos chasses, mais nous avons besoin de votre aide regroupant les matériaux. Nous comptons sur vous pour prendre cette quête!"
+      "Translation": "Ici, à la deuxième Flotte, nous avons travaillé pour développer de nouveaux outils pour aider vos chasses, mais nous avons besoin d'aide regroupant les matériaux. Nous comptons sur vous pour prendre cette quête!"
     },
     "quest-a-rotten-thing-to-do": {
       "Key": "quest-a-rotten-thing-to-do",
@@ -11229,7 +11229,7 @@ export default {
     },
     "quest-a-summons-from-below-description": {
       "Key": "quest-a-summons-from-below-description",
-      "Translation": "Ici, à la deuxième flotte, nous avons travaillé pour développer de nouveaux outils pour aider vos chasses, mais nous avons besoin de votre aide regroupant les matériaux. Nous comptons sur vous pour prendre cette quête!"
+      "Translation": "Ici, à la deuxième Flotte, nous avons travaillé pour développer de nouveaux outils pour aider vos chasses, mais nous avons besoin d'aide regroupant les matériaux. Nous comptons sur vous pour prendre cette quête!"
     },
     "quest-a-summons-from-below-notable-rewards": {
       "Key": "quest-a-summons-from-below-notable-rewards",
@@ -11433,7 +11433,7 @@ export default {
     },
     "quest-butting-heads-with-nature": {
       "Key": "quest-butting-heads-with-nature",
-      "Translation": "Têtes aboutement avec la nature"
+      "Translation": "Chefs aboutement avec la nature"
     },
     "quest-butting-heads-with-nature-description": {
       "Key": "quest-butting-heads-with-nature-description",
@@ -12453,7 +12453,7 @@ export default {
     },
     "quest-mired-in-the-spire-tips": {
       "Key": "quest-mired-in-the-spire-tips",
-      "Translation": "À partir de Central Camp (6), (Gastronome thon se trouve dans le camp) au nord de la tête et la cible devrait être autour de la Kestodon. Il faut fuir vers le secteur 8 où vous pouvez essayer d'utiliser une attaque diapositive / saut pour le monter. Il va fuir vers le secteur 7 de renouveler la boue sur son corps. Quand il commencer à obtenir trop faible, il va fuir vers le secteur 9 et se couvrir dans la boue. Ne pas sous-estimer l'effet de l'eau sur vos mouvements lors de combats dans ce domaine. Il est également impossible de mettre Shock Trap en eau profonde."
+      "Translation": "À partir de Central Camp (6), (Gastronome thon se trouve dans le camp) au nord de la tête et la cible devrait être autour de la Kestodon. Il faut fuir vers le secteur 8 où vous pouvez essayer d'utiliser une attaque diapositive / saut pour le monter. Il va fuir vers le secteur 7 de renouveler la boue sur son corps. Quand il commencer à obtenir trop faible, il va fuir vers 9 secteur et se couvrir dans la boue. Ne pas sous-estimer l'effet de l'eau sur vos mouvements lors de combats dans ce domaine. Il est également impossible de mettre Shock Trap en eau profonde."
     },
     "quest-new-world-sky-new-world-flower": {
       "Key": "quest-new-world-sky-new-world-flower",
@@ -12465,7 +12465,7 @@ export default {
     },
     "quest-new-world-sky-new-world-flower-description": {
       "Key": "quest-new-world-sky-new-world-flower-description",
-      "Translation": "Ici, à la deuxième flotte, nous avons travaillé pour développer de nouveaux outils pour aider vos chasses, mais nous avons besoin de votre aide regroupant les matériaux. Nous comptons sur vous pour prendre cette quête!"
+      "Translation": "Ici, à la deuxième Flotte, nous avons travaillé pour développer de nouveaux outils pour aider vos chasses, mais nous avons besoin d'aide regroupant les matériaux. Nous comptons sur vous pour prendre cette quête!"
     },
     "quest-new-world-sky-new-world-flower-notable-rewards": {
       "Key": "quest-new-world-sky-new-world-flower-notable-rewards",
@@ -13025,7 +13025,7 @@ export default {
     },
     "quest-redefining-the-power-couple-notable-rewards": {
       "Key": "quest-redefining-the-power-couple-notable-rewards",
-      "Translation": "Mantle bandit"
+      "Translation": "bandit Mantle"
     },
     "quest-relish-the-moment": {
       "Key": "quest-relish-the-moment",
@@ -13061,7 +13061,7 @@ export default {
     },
     "quest-royal-relocation-tips": {
       "Key": "quest-royal-relocation-tips",
-      "Translation": "Ne vous embêtez pas avec la protection de poison si vous ne pouvez pas empêcher complètement, juste apporter avec vous et Antidote utiliser l'équipement résistant au feu. À partir de Southwest Camp (1), en direction du nord dans le secteur 2 forêt pour trouver la cible. Rathian est encore susceptible d'empoisonner malgré ses attaques empoisonnées de sorte que le Poisoncup dans le secteur 3 peuvent être utilisés. Son nid est de l'autre côté de la carte dans le secteur 12, Voyage rapide à l'Est Camp (11) et monter les vignes après l'eau."
+      "Translation": "Ne vous embêtez pas avec la protection de poison si vous ne pouvez pas empêcher complètement, juste apporter avec vous et Antidote utiliser l'équipement résistant au feu. À partir de Southwest Camp (1), en direction du nord dans le secteur 2 forêt pour trouver la cible. Rathian toujours sensible au poison malgré ses attaques de poison dans de sorte que le secteur Poisoncup 3 peut utiliser. Son nid est de l'autre côté de la carte dans le secteur 12, Voyage rapide à l'Est Camp (11) et monter les vignes après l'eau."
     },
     "quest-rrrrrumble-in-the-waste": {
       "Key": "quest-rrrrrumble-in-the-waste",
@@ -13141,7 +13141,7 @@ export default {
     },
     "quest-showdown-the-muck-and-the-maul-description": {
       "Key": "quest-showdown-the-muck-and-the-maul-description",
-      "Translation": "Ici, à la deuxième flotte, nous avons travaillé pour développer de nouveaux outils pour aider vos chasses, mais nous avons besoin de votre aide regroupant les matériaux. Nous comptons sur vous pour prendre cette quête!"
+      "Translation": "Ici, à la deuxième Flotte, nous avons travaillé pour développer de nouveaux outils pour aider vos chasses, mais nous avons besoin d'aide regroupant les matériaux. Nous comptons sur vous pour prendre cette quête!"
     },
     "quest-showdown-the-muck-and-the-maul-notable-rewards": {
       "Key": "quest-showdown-the-muck-and-the-maul-notable-rewards",
@@ -13173,7 +13173,7 @@ export default {
     },
     "quest-snow-cherry-blossoms-description": {
       "Key": "quest-snow-cherry-blossoms-description",
-      "Translation": "Hey, je suis tombé sur deux onsters vraiment terrifiants dans les Highlands Coral. Nous pensons que vous pourriez être intéréssé! (Bonus points de RH récompensés à la fin)."
+      "Translation": "Hey, Je suis tombé sur quelques onsters vraiment terrifiants dans les Highlands Coral. Nous pensons que vous pourriez être intéréssé! (Bonus points de RH récompensés à la fin)."
     },
     "quest-sorry-youre-not-invited": {
       "Key": "quest-sorry-youre-not-invited",
@@ -13681,7 +13681,7 @@ export default {
     },
     "quest-the-red-and-blue-crew-description": {
       "Key": "quest-the-red-and-blue-crew-description",
-      "Translation": "Ici, à la deuxième flotte, nous avons travaillé pour développer de nouveaux outils pour aider vos chasses, mais nous avons besoin de votre aide regroupant les matériaux. Nous comptons sur vous pour prendre cette quête!"
+      "Translation": "Ici, à la deuxième Flotte, nous avons travaillé pour développer de nouveaux outils pour aider vos chasses, mais nous avons besoin d'aide regroupant les matériaux. Nous comptons sur vous pour prendre cette quête!"
     },
     "quest-the-red-and-blue-crew-notable-rewards": {
       "Key": "quest-the-red-and-blue-crew-notable-rewards",
@@ -13741,7 +13741,7 @@ export default {
     },
     "quest-the-white-winds-of-the-new-world-conditions": {
       "Key": "quest-the-white-winds-of-the-new-world-conditions",
-      "Translation": "Remplir toutes les autres quêtes optionnelles jusqu'à 8 étoiles"
+      "Translation": "Terminez toutes les autres quêtes optionnelles jusqu'à 8 étoiles"
     },
     "quest-the-white-winds-of-the-new-world-description": {
       "Key": "quest-the-white-winds-of-the-new-world-description",
@@ -13953,7 +13953,7 @@ export default {
     },
     "quest-usj-gold-star-treatment-description": {
       "Key": "quest-usj-gold-star-treatment-description",
-      "Translation": "USJ est heureux de vous apporter le plus attraction excitante! Témoin de ce grand monde dans toute sa gloire d'or! Vous vous retrouvez avec un équipement fantastique une fois que vous avez terminé!"
+      "Translation": "USJ est heureux de vous apporter le plus attraction excitante! Témoin de ce grand monde dans toute sa gloire d'or! Vous vous retrouvez avec un équipement fantastique Une fois que vous avez terminé!"
     },
     "quest-well-that-diablos": {
       "Key": "quest-well-that-diablos",
@@ -14185,7 +14185,7 @@ export default {
     },
     "settings-language": {
       "Key": "settings-language",
-      "Translation": "La langue"
+      "Translation": "Langue"
     },
     "settings-language-chinese-simplified": {
       "Key": "settings-language-chinese-simplified",
@@ -14325,7 +14325,7 @@ export default {
     },
     "settings-theme-dark": {
       "Key": "settings-theme-dark",
-      "Translation": "Sombre"
+      "Translation": "Foncé"
     },
     "settings-theme-light": {
       "Key": "settings-theme-light",
@@ -14845,7 +14845,7 @@ export default {
     },
     "skill-critical-eye-2": {
       "Key": "skill-critical-eye-2",
-      "Translation": "Affinity + 6%"
+      "Translation": "Affinité 6%"
     },
     "skill-critical-eye-3": {
       "Key": "skill-critical-eye-3",
@@ -14869,7 +14869,7 @@ export default {
     },
     "skill-critical-eye-description": {
       "Key": "skill-critical-eye-description",
-      "Translation": "Augmente l'affinité."
+      "Translation": "Augmentent l'affinité."
     },
     "skill-critical-status": {
       "Key": "skill-critical-status",
@@ -15069,7 +15069,7 @@ export default {
     },
     "skill-effluvial-expert-description": {
       "Key": "skill-effluvial-expert-description",
-      "Translation": "Ou réduit les dégâts annulait l'environnement dans le Rotten Vale."
+      "Translation": "Ou réduit les dégâts annulait l'environnement dans la Rotten Vale."
     },
     "skill-elderseal-boost": {
       "Key": "skill-elderseal-boost",
@@ -15109,7 +15109,7 @@ export default {
     },
     "skill-entomologist-3": {
       "Key": "skill-entomologist-3",
-      "Translation": "Fait en sorte que les cadavres seront toujours laissés pour compte."
+      "Translation": "Fait en sorte cadavres seront toujours laissés pour compte."
     },
     "skill-entomologist-description": {
       "Key": "skill-entomologist-description",
@@ -15317,7 +15317,7 @@ export default {
     },
     "skill-geologist-2": {
       "Key": "skill-geologist-2",
-      "Translation": "vous permet de recueillir un temps supplémentaire de bonepiles et des points spéciaux de collecte de l'article."
+      "Translation": "vous permet de rassembler un temps supplémentaire de bonepiles et les points de collecte spéciaux de l'article."
     },
     "skill-geologist-3": {
       "Key": "skill-geologist-3",
@@ -15577,7 +15577,7 @@ export default {
     },
     "skill-ice-attack-3": {
       "Key": "skill-ice-attack-3",
-      "Translation": "attaque Ice +100"
+      "Translation": "Ice attaque +100"
     },
     "skill-ice-attack-4": {
       "Key": "skill-ice-attack-4",
@@ -19321,7 +19321,7 @@ export default {
     },
     "weapon-hammer-pandemoniums-root": {
       "Key": "weapon-hammer-pandemoniums-root",
-      "Translation": "Racine de Pandemonium"
+      "Translation": "La racine du Pandemonium"
     },
     "weapon-hammer-rage-gold-bludgeon": {
       "Key": "weapon-hammer-rage-gold-bludgeon",
@@ -20901,7 +20901,7 @@ export default {
     },
     "weapon-sword-and-shield-baan-claw-i": {
       "Key": "weapon-sword-and-shield-baan-claw-i",
-      "Translation": "Baan Griffe I"
+      "Translation": "Baan Claw I"
     },
     "weapon-sword-and-shield-baan-claw-ii": {
       "Key": "weapon-sword-and-shield-baan-claw-ii",
@@ -21489,7 +21489,7 @@ export default {
     },
     "weapon-tree-kulve-taroth-relic-weapons": {
       "Key": "weapon-tree-kulve-taroth-relic-weapons",
-      "Translation": "Kulve Taroth Armes Relic"
+      "Translation": "Kulve Taroth armes Relic"
     },
     "weapon-tree-lavasioth-tree": {
       "Key": "weapon-tree-lavasioth-tree",
@@ -21701,7 +21701,7 @@ export default {
     },
     "weapon-tree-fulgur-anjanath-tree": {
       "Key": "weapon-tree-fulgur-anjanath-tree",
-      "Translation": "Fulgur Anjanath Arbre"
+      "Translation": "Fulgur Anjanath arbre"
     },
     "weapon-long-sword-gnashing-fulgur-i": {
       "Key": "weapon-long-sword-gnashing-fulgur-i",
@@ -23782,5 +23782,77 @@ export default {
     "weapon-sword-and-shield-defender-warhatchet-v": {
       "Key": "weapon-sword-and-shield-defender-warhatchet-v",
       "Translation": "Défenseur Warhatchet V"
+    },
+    "armor-mr-stygian-zin-alpha-plus": {
+      "Key": "armor-mr-stygian-zin-alpha-plus",
+      "Translation": "Stygian Zin ⍺ +"
+    },
+    "armor-mr-stygian-helm-alpha-plus": {
+      "Key": "armor-mr-stygian-helm-alpha-plus",
+      "Translation": "Stygian Helm ⍺ +"
+    },
+    "armor-mr-stygian-vambraces-alpha-plus": {
+      "Key": "armor-mr-stygian-vambraces-alpha-plus",
+      "Translation": "Stygian Brassards ⍺ +"
+    },
+    "armor-mr-stygian-mail-alpha-plus": {
+      "Key": "armor-mr-stygian-mail-alpha-plus",
+      "Translation": "Stygian Courrier ⍺ +"
+    },
+    "armor-mr-stygian-coil-alpha-plus": {
+      "Key": "armor-mr-stygian-coil-alpha-plus",
+      "Translation": "Stygian Coil ⍺ +"
+    },
+    "armor-mr-stygian-greaves-alpha-plus": {
+      "Key": "armor-mr-stygian-greaves-alpha-plus",
+      "Translation": "Stygian Grèves ⍺ +"
+    },
+    "armor-mr-stygian-zin-beta-plus": {
+      "Key": "armor-mr-stygian-zin-beta-plus",
+      "Translation": "+ de Stygian de Zin"
+    },
+    "armor-mr-stygian-helm-beta-plus": {
+      "Key": "armor-mr-stygian-helm-beta-plus",
+      "Translation": "Stygian Helm ß +"
+    },
+    "armor-mr-stygian-vambraces-beta-plus": {
+      "Key": "armor-mr-stygian-vambraces-beta-plus",
+      "Translation": "Stygian ß + Brassards"
+    },
+    "armor-mr-stygian-mail-beta-plus": {
+      "Key": "armor-mr-stygian-mail-beta-plus",
+      "Translation": "Stygian + ß Courrier"
+    },
+    "armor-mr-stygian-coil-beta-plus": {
+      "Key": "armor-mr-stygian-coil-beta-plus",
+      "Translation": "+ de bobine de Stygian"
+    },
+    "armor-mr-stygian-greaves-beta-plus": {
+      "Key": "armor-mr-stygian-greaves-beta-plus",
+      "Translation": "Grèves Stygian ß +"
+    },
+    "armor-mr-oolong-alpha-plus": {
+      "Key": "armor-mr-oolong-alpha-plus",
+      "Translation": "Oolong ⍺ +"
+    },
+    "armor-mr-oolong-hair-alpha-plus": {
+      "Key": "armor-mr-oolong-hair-alpha-plus",
+      "Translation": "Oolong cheveux ⍺ +"
+    },
+    "armor-mr-oolong-vest-alpha-plus": {
+      "Key": "armor-mr-oolong-vest-alpha-plus",
+      "Translation": "Oolong Gilet ⍺ +"
+    },
+    "armor-mr-oolong-sleeves-alpha-plus": {
+      "Key": "armor-mr-oolong-sleeves-alpha-plus",
+      "Translation": "Oolong manches ⍺ +"
+    },
+    "armor-mr-oolong-waist-alpha-plus": {
+      "Key": "armor-mr-oolong-waist-alpha-plus",
+      "Translation": "Oolong taille ⍺ +"
+    },
+    "armor-mr-oolong-boots-alpha-plus": {
+      "Key": "armor-mr-oolong-boots-alpha-plus",
+      "Translation": "Oolong Bottes ⍺ +"
     }
   }

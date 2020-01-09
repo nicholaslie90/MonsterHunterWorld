@@ -2805,7 +2805,7 @@ export default {
     },
     "armor-hr-strategist-spectacles-alpha": {
       "Key": "armor-hr-strategist-spectacles-alpha",
-      "Translation": "ストラテジスト眼鏡⍺"
+      "Translation": "ストラテジストの眼鏡⍺"
     },
     "armor-hr-teostra-alpha": {
       "Key": "armor-hr-teostra-alpha",
@@ -2833,7 +2833,7 @@ export default {
     },
     "armor-hr-tzitzi-coil-beta": {
       "Key": "armor-hr-tzitzi-coil-beta",
-      "Translation": "コイルTzitziß"
+      "Translation": "Tzitziコイルß"
     },
     "armor-hr-tzitzi-greaves-alpha": {
       "Key": "armor-hr-tzitzi-greaves-alpha",
@@ -7289,7 +7289,7 @@ export default {
     },
     "armor-set-bonus-skill-good-luck": {
       "Key": "armor-set-bonus-skill-good-luck",
-      "Translation": "がんばろう"
+      "Translation": "幸運を"
     },
     "armor-set-bonus-skill-good-luck-description": {
       "Key": "armor-set-bonus-skill-good-luck-description",
@@ -7317,7 +7317,7 @@ export default {
     },
     "armor-set-bonus-skill-guts": {
       "Key": "armor-set-bonus-skill-guts",
-      "Translation": "ガッツ"
+      "Translation": "根性"
     },
     "armor-set-bonus-skill-guts-description": {
       "Key": "armor-set-bonus-skill-guts-description",
@@ -7593,7 +7593,7 @@ export default {
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics-tips": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics-tips",
-      "Translation": "あなたが最初の4つのLynian研究クエストを完了した後、この恵みは、アステラでLynian研究でピックアップすることができます。研究員は、NITが、これらは唯一、この恵みの間だけハイランクの場所に出現していることに注意することが重要である\\。10のGajalakaいたずら書きを発見するように要求されます\\ n個。あなたはエリア5で1つのいたずら書きや古代の森のエリア15で1つの落書きを見つけることができます。あなたはWildspire廃棄物のエリア7エリア3と1落書きで1つの落書きを見つけることができます\\ n \\ nあなたはコーラル高地のエリア12に1つの落書きを見つけることができます。あなたはエリア3で2落書きや腐ったヴェイルエリア15で3つの落書きを見つけることができます。あなたはアステラに戻ると、研究員は、あなたがGajalakaキャンプを見つけるために着手したいと考えています。\\ n \\ nFindドラゴンの凹部にエリア8で研究員。恵みを起動するためには、夜の時間にする必要があります。キャンプのバックでキャンプファイヤーでリーダーにあなたのGhillieのマントルと話に置きます。報酬：あなたのPalicoは今Gastodonにmeowlotovカクテルと話を使用することができます。"
+      "Translation": "あなたが最初の4つのLynian研究クエストを完了した後、この恵みは、アステラでLynian研究でピックアップすることができます。研究員は。あなたが10のGajalakaいたずら書きを発見するために頼む\\ nは\\ NITは、これらが唯一、この恵みの間だけハイランクの場所に産卵ことに注意することが重要です。あなたはエリア5で1つのいたずら書きや古代の森のエリア15で1つの落書きを見つけることができます。あなたはWildspire廃棄物のエリア7エリア3と1落書きで1つの落書きを見つけることができます\\ n \\ nあなたはコーラル高地のエリア12に1つの落書きを見つけることができます。あなたはエリア3で2つの落書きや腐ったヴェイルエリア15で3つの落書きを見つけることができます。あなたはアステラに戻ると、研究員は、あなたがGajalakaキャンプを見つけるために着手したいと考えています。\\ n \\ nFindドラゴンの凹部にエリア8で研究員。恵みを開始するためには、夜の時間にする必要があります。キャンプのバックでキャンプファイヤーでリーダーにあなたのGhillieのマントルと話に置きます。報酬：あなたのPalicoは今Gastodonにmeowlotovカクテルと話を使用することができます。"
     },
     "critical-bounties-important": {
       "Key": "critical-bounties-important",
@@ -7985,7 +7985,7 @@ export default {
     },
     "endemic-life-tyrant-hopper-description": {
       "Key": "endemic-life-tyrant-hopper-description",
-      "Translation": "時には、自然は、暴力的な進化を作ります。しかし！完全にそれを理解するために、我々はまだ手を差し伸べるとしなければならない... OUCHを！私は、それは私をビット！"
+      "Translation": "時には、自然は、暴力的な進化を作ります。だが！完全にそれを理解するために、我々はまだ手を差し伸べるとしなければならない... OUCHを！私は、それは私をビット！"
     },
     "endemic-life-vaporonoid-description": {
       "Key": "endemic-life-vaporonoid-description",
@@ -8645,7 +8645,7 @@ export default {
     },
     "monster-bazelgeuse-useful-information": {
       "Key": "monster-bazelgeuse-useful-information",
-      "Translation": "スケールBazelgeuseの飛散は非常に致命的なそれらを作る、途方もない力で爆発していること。それをノックダウンした後、そのスケール生成器官をノックアウトするためにその足に焦点を当てています。"
+      "Translation": "スケールBazelgeuseの飛散が極めてdeadlyそれらを作る、途方もない力で爆発していること。それをノックダウンした後、そのスケール生成器官をノックアウトするためにその足に焦点を当てています。"
     },
     "monster-behemoth": {
       "Key": "monster-behemoth",
@@ -8869,7 +8869,7 @@ export default {
     },
     "monster-kulve-taroth-characteristics": {
       "Key": "monster-kulve-taroth-characteristics",
-      "Translation": "金属の光輝コートでそれ自体を保護する長老ドラゴン。その生態とコートは各出現、徹底的な調査のためにこのように必要と異なります。"
+      "Translation": "金属の光輝コートでそれ自体を保護する長老ドラゴン。その生態とコートは各外観、徹底的な調査のためにこのように必要と異なります。"
     },
     "monster-kulve-taroth-useful-information": {
       "Key": "monster-kulve-taroth-useful-information",
@@ -10453,7 +10453,7 @@ export default {
     },
     "play-guide-stamina": {
       "Key": "play-guide-stamina",
-      "Translation": "スタミナ"
+      "Translation": "元気"
     },
     "play-guide-stamina-description": {
       "Key": "play-guide-stamina-description",
@@ -10537,7 +10537,7 @@ export default {
     },
     "play-guide-sword-mode-attacks-description": {
       "Key": "play-guide-sword-mode-attacks-description",
-      "Translation": "ソードモードの攻撃は、スイッチ斧の薬瓶の効果を利用偏向させるためにはるかに困難にそれらを作ります。これはタフな体の部分を標的とするためのソードモードが便利になります。"
+      "Translation": "ソードモードの攻撃は、スイッチ斧の薬瓶の効果を利用偏向させるためにはるかに困難にそれらを作ります。これは厳しい身体の部分を標的とするためのソードモード有用となります。"
     },
     "play-guide-tackle": {
       "Key": "play-guide-tackle",
@@ -10933,7 +10933,7 @@ export default {
     },
     "poogie-how-to": {
       "Key": "poogie-how-to",
-      "Translation": "の仕方"
+      "Translation": "方法"
     },
     "poogie-memorial-stripes": {
       "Key": "poogie-memorial-stripes",
@@ -11181,7 +11181,7 @@ export default {
     },
     "quest-a-rush-of-blood-description": {
       "Key": "quest-a-rush-of-blood-description",
-      "Translation": "あらいやだ！私たちのラッシュのようにたくさん見えるTHS大きな老いたモンスターがあります！誰かのgottal穏やかビッグボーイダウン！私たちを助け、私たちはあなたのPalicoのためのいくつかの特別なギアをあげます！"
+      "Translation": "大野！私たちのラッシュのようにたくさん見えるTHS大きな老いたモンスターがあります！誰かのgottal穏やかビッグボーイダウン！私たちを助け、私たちはあなたのPalicoのためのいくつかの特別なギアをあげます！"
     },
     "quest-a-scalding-scoop": {
       "Key": "quest-a-scalding-scoop",
@@ -11201,7 +11201,7 @@ export default {
     },
     "quest-a-simple-task-description": {
       "Key": "quest-a-simple-task-description",
-      "Translation": "フィールド内のサンプルを収集しながら、私はレアトラック数に気づきました。私は、これらのトラックを調査し、プラス私の残りのサンプルを収集することができハンターが必要です！"
+      "Translation": "フィールド内のサンプルを収集しながら、私はレアトラック数に気づきました。私は、これらのトラックを調査し、プラス私の残りのサンプルを収集するためにできるハンターが必要です！"
     },
     "quest-a-sore-site": {
       "Key": "quest-a-sore-site",
@@ -11489,7 +11489,7 @@ export default {
     },
     "quest-chef-quest-pumped-to-deliver-description": {
       "Key": "quest-chef-quest-pumped-to-deliver-description",
-      "Translation": "今、あなたはあなたの上半身と下半身の両方を働いてきたことを、あなたはうまく利用して、それを入れて準備ができています！？良い！働きましょう！ *初めての完了時に新しい食堂成分のロックを解除します。"
+      "Translation": "今、あなたはあなたの上半身と下半身の両方を働いてきたことを、あなたはうまく利用して、それを入れて準備ができています！？良い！働こう！ *初めての完了時に新しい食堂成分のロックを解除します。"
     },
     "quest-chef-quest-pumped-to-deliver-notable-rewards": {
       "Key": "quest-chef-quest-pumped-to-deliver-notable-rewards",
@@ -13653,7 +13653,7 @@ export default {
     },
     "quest-the-piscine-problem-description": {
       "Key": "quest-the-piscine-problem-description",
-      "Translation": "アイアンHelmcrabは、このような魅力的な生き物です。ただ、それを上に蹴ると私たちのポップピアスポッド！私たちは、彼らがより多くのではなく、Jyuratodusは約潜んで勉強してみたいです！"
+      "Translation": "アイアンHelmcrabは、このような魅力的な生き物です。ただ、それを上に蹴ると私たちのポップピアスポッド！私たちは、それらをよりしかしないJyuratodusは約潜んで勉強してみたいです！"
     },
     "quest-the-piscine-problem-tips": {
       "Key": "quest-the-piscine-problem-tips",
@@ -13805,7 +13805,7 @@ export default {
     },
     "quest-tips": {
       "Key": "quest-tips",
-      "Translation": "ヒント"
+      "Translation": "チップ"
     },
     "quest-todays-special-hunter-flambe": {
       "Key": "quest-todays-special-hunter-flambe",
@@ -13869,7 +13869,7 @@ export default {
     },
     "quest-twin-spines-upon-the-sands-description": {
       "Key": "quest-twin-spines-upon-the-sands-description",
-      "Translation": "あなたは角竜の尾の中に穴を掘ることでsurvievs昆虫の種があります知っていましたか？ノー？まあどちらも私たちもしません！そして、我々はあなたが行くと確かに私たちに1を持っていない限り出て見つけることができません！"
+      "Translation": "あなたは角竜の尾の中に穴を掘ることでsurvievs昆虫の種があります知っていましたか？番号？まあどちらも私たちもしません！そして、我々はあなたが行くと確かに私たちに1を持っていない限り出て見つけることができません！"
     },
     "quest-two-horned-hostility": {
       "Key": "quest-two-horned-hostility",
@@ -14025,7 +14025,7 @@ export default {
     },
     "quest-wicked-wildspire-warfare-description": {
       "Key": "quest-wicked-wildspire-warfare-description",
-      "Translation": "あなたは私たちが一つの場所で非常に領土モンスターのカップルを取得したらどうだろう何を知っていますか？ノー？私もそうではないです！確認してみましょう。鎧球を稼ぐために上に出てきます！"
+      "Translation": "あなたは私たちが一つの場所で非常に領土モンスターのカップルを取得したらどうだろう何を知っていますか？番号？私もそうではないです！確認してみましょう。鎧球を稼ぐために上に出てきます！"
     },
     "quest-wiggle-me-this": {
       "Key": "quest-wiggle-me-this",
@@ -14169,7 +14169,7 @@ export default {
     },
     "settings-check-for-updates": {
       "Key": "settings-check-for-updates",
-      "Translation": "更新を確認する"
+      "Translation": "アップデートを確認"
     },
     "settings-check-for-updates-text": {
       "Key": "settings-check-for-updates-text",
@@ -14209,7 +14209,7 @@ export default {
     },
     "settings-language-italian": {
       "Key": "settings-language-italian",
-      "Translation": "イタリア語"
+      "Translation": "イタリアの"
     },
     "settings-language-japanese": {
       "Key": "settings-language-japanese",
@@ -14325,7 +14325,7 @@ export default {
     },
     "settings-theme-dark": {
       "Key": "settings-theme-dark",
-      "Translation": "ダーク"
+      "Translation": "闇"
     },
     "settings-theme-light": {
       "Key": "settings-theme-light",
@@ -14349,7 +14349,7 @@ export default {
     },
     "settings-value-on": {
       "Key": "settings-value-on",
-      "Translation": "に"
+      "Translation": "オン"
     },
     "skill-adrenaline": {
       "Key": "skill-adrenaline",
@@ -15297,7 +15297,7 @@ export default {
     },
     "skill-free-meal": {
       "Key": "skill-free-meal",
-      "Translation": "無料の食事"
+      "Translation": "無料の食べ物"
     },
     "skill-free-meal-1": {
       "Key": "skill-free-meal-1",
@@ -15329,7 +15329,7 @@ export default {
     },
     "skill-good-luck": {
       "Key": "skill-good-luck",
-      "Translation": "がんばろう"
+      "Translation": "幸運を"
     },
     "skill-good-luck-1": {
       "Key": "skill-good-luck-1",
@@ -15393,7 +15393,7 @@ export default {
     },
     "skill-guts": {
       "Key": "skill-guts",
-      "Translation": "ガッツ"
+      "Translation": "根性"
     },
     "skill-guts-1": {
       "Key": "skill-guts-1",
@@ -17705,7 +17705,7 @@ export default {
     },
     "ui-platform": {
       "Key": "ui-platform",
-      "Translation": "プラットフォーム"
+      "Translation": "プラットホーム"
     },
     "ui-ps4-xbox": {
       "Key": "ui-ps4-xbox",
@@ -23782,5 +23782,77 @@ export default {
     "weapon-sword-and-shield-defender-warhatchet-v": {
       "Key": "weapon-sword-and-shield-defender-warhatchet-v",
       "Translation": "ディフェンダーWarhatchet V"
+    },
+    "armor-mr-stygian-zin-alpha-plus": {
+      "Key": "armor-mr-stygian-zin-alpha-plus",
+      "Translation": "ステイジアンツィン⍺+"
+    },
+    "armor-mr-stygian-helm-alpha-plus": {
+      "Key": "armor-mr-stygian-helm-alpha-plus",
+      "Translation": "ステイジアンヘルム⍺+"
+    },
+    "armor-mr-stygian-vambraces-alpha-plus": {
+      "Key": "armor-mr-stygian-vambraces-alpha-plus",
+      "Translation": "ステイジアンVambraces⍺+"
+    },
+    "armor-mr-stygian-mail-alpha-plus": {
+      "Key": "armor-mr-stygian-mail-alpha-plus",
+      "Translation": "ステイジアンメール⍺+"
+    },
+    "armor-mr-stygian-coil-alpha-plus": {
+      "Key": "armor-mr-stygian-coil-alpha-plus",
+      "Translation": "ステイジアンコイル⍺+"
+    },
+    "armor-mr-stygian-greaves-alpha-plus": {
+      "Key": "armor-mr-stygian-greaves-alpha-plus",
+      "Translation": "ステイジアングリーブス⍺+"
+    },
+    "armor-mr-stygian-zin-beta-plus": {
+      "Key": "armor-mr-stygian-zin-beta-plus",
+      "Translation": "ステイジアンツィンß+"
+    },
+    "armor-mr-stygian-helm-beta-plus": {
+      "Key": "armor-mr-stygian-helm-beta-plus",
+      "Translation": "ステイジアンヘルムß+"
+    },
+    "armor-mr-stygian-vambraces-beta-plus": {
+      "Key": "armor-mr-stygian-vambraces-beta-plus",
+      "Translation": "ステイジアンVambracesß+"
+    },
+    "armor-mr-stygian-mail-beta-plus": {
+      "Key": "armor-mr-stygian-mail-beta-plus",
+      "Translation": "ステイジアンメールß+"
+    },
+    "armor-mr-stygian-coil-beta-plus": {
+      "Key": "armor-mr-stygian-coil-beta-plus",
+      "Translation": "ステイジアンコイルß+"
+    },
+    "armor-mr-stygian-greaves-beta-plus": {
+      "Key": "armor-mr-stygian-greaves-beta-plus",
+      "Translation": "ステイジアングリーブスß+"
+    },
+    "armor-mr-oolong-alpha-plus": {
+      "Key": "armor-mr-oolong-alpha-plus",
+      "Translation": "ウーロン茶⍺+"
+    },
+    "armor-mr-oolong-hair-alpha-plus": {
+      "Key": "armor-mr-oolong-hair-alpha-plus",
+      "Translation": "ウーロン茶髪⍺+"
+    },
+    "armor-mr-oolong-vest-alpha-plus": {
+      "Key": "armor-mr-oolong-vest-alpha-plus",
+      "Translation": "ウーロン茶ベスト⍺+"
+    },
+    "armor-mr-oolong-sleeves-alpha-plus": {
+      "Key": "armor-mr-oolong-sleeves-alpha-plus",
+      "Translation": "ウーロン茶袖⍺+"
+    },
+    "armor-mr-oolong-waist-alpha-plus": {
+      "Key": "armor-mr-oolong-waist-alpha-plus",
+      "Translation": "ウーロン茶ウエスト⍺+"
+    },
+    "armor-mr-oolong-boots-alpha-plus": {
+      "Key": "armor-mr-oolong-boots-alpha-plus",
+      "Translation": "ウーロン茶ブーツ⍺+"
     }
   }

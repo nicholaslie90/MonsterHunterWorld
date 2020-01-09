@@ -17,7 +17,7 @@ import {
 } from "react-native";
 import globalStyles from '../styles'
 import {IndicatorViewPager, PagerTitleIndicator} from 'rn-viewpager';
-import {lowRankPalicoArmors, highRankPalicoArmors} from '../database'
+import {lowRankPalicoArmors, highRankPalicoArmors, masterRankPalicoArmors} from '../database'
 import {makeAdMob, productIdRemoveAds} from "../utility";
 import I18n from '../i18n/i18n';
 import {MHWTouchable} from "../components/MHWTouchable";
@@ -324,6 +324,7 @@ export default class PalicoArmorsScreen extends React.PureComponent {
 
         let sortedLowRankPalicoArmors = _.orderBy(lowRankPalicoArmors, ['name'], ['asc']);
         let sortedHighRankPalicoArmors = _.orderBy(highRankPalicoArmors, ['name'], ['asc']);
+        let sortedMasterRankPalicoArmors = _.orderBy(masterRankPalicoArmors, ['name'], ['asc']);
 
         return (
             <SafeAreaView style={[{flex: 1}, themeBackground]}>
@@ -342,6 +343,14 @@ export default class PalicoArmorsScreen extends React.PureComponent {
                     <View>
                         <FlatList
                             data={sortedHighRankPalicoArmors}
+                            renderItem={({item}) => <PalicoItem item={item} navigation={this.props.navigation}
+                                                                theme={this.props.navigation.state.params.theme}/>}
+                            keyExtractor={(item, index) => item.name}
+                        />
+                    </View>
+                    <View>
+                        <FlatList
+                            data={sortedMasterRankPalicoArmors}
                             renderItem={({item}) => <PalicoItem item={item} navigation={this.props.navigation}
                                                                 theme={this.props.navigation.state.params.theme}/>}
                             keyExtractor={(item, index) => item.name}
@@ -369,11 +378,11 @@ export default class PalicoArmorsScreen extends React.PureComponent {
                 style={globalStyles.tabIndicatorContainer}
                 trackScroll={true}
                 itemTextStyle={globalStyles.tabIndicatorText}
-                itemStyle={{width: windowWidth / 2}}
-                selectedItemStyle={{width: windowWidth / 2}}
+                itemStyle={{width: windowWidth / 3}}
+                selectedItemStyle={{width: windowWidth / 3}}
                 selectedItemTextStyle={globalStyles.tabIndicatorSelectedText}
                 selectedBorderStyle={globalStyles.tabSelectedBorderStyle}
-                titles={['Low Rank', 'High Rank']}
+                titles={['Low Rank', 'High Rank', 'Master Rank']}
             />
         )
     }

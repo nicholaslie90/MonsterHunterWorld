@@ -3505,7 +3505,7 @@ export default {
     },
     "armor-lr-chainmail-gloves": {
       "Key": "armor-lr-chainmail-gloves",
-      "Translation": "ถุงมือ Chainmail"
+      "Translation": "Chainmail ถุงมือ"
     },
     "armor-lr-chainmail-headgear": {
       "Key": "armor-lr-chainmail-headgear",
@@ -3585,7 +3585,7 @@ export default {
     },
     "armor-lr-divers-mask": {
       "Key": "armor-lr-divers-mask",
-      "Translation": "หน้ากากของนักดำน้ำ"
+      "Translation": "หน้ากาก Diver ของ"
     },
     "armor-lr-divers-suit": {
       "Key": "armor-lr-divers-suit",
@@ -6217,7 +6217,7 @@ export default {
     },
     "armor-mr-nargacuga-greaves-beta-plus": {
       "Key": "armor-mr-nargacuga-greaves-beta-plus",
-      "Translation": "Nargacuga สนับบาท +"
+      "Translation": "Nargacuga สนับ + SS"
     },
     "armor-mr-nargacuga-helm-alpha-plus": {
       "Key": "armor-mr-nargacuga-helm-alpha-plus",
@@ -7597,7 +7597,7 @@ export default {
     },
     "critical-bounties-important": {
       "Key": "critical-bounties-important",
-      "Translation": "สิ่งสำคัญ"
+      "Translation": "สำคัญ"
     },
     "critical-bounties-important-notes": {
       "Key": "critical-bounties-important-notes",
@@ -7841,7 +7841,7 @@ export default {
     },
     "endemic-life-forest-gecko-description": {
       "Key": "endemic-life-forest-gecko-description",
-      "Translation": "ลูกสุนัขเหล่านี้มีความน่ารักเล็ก ๆ น้อย ๆ ตาวาวที่สามารถเลือกออกแม้แต่ที่เล็กที่สุดของเหยื่อกับแพทช์ของ brightmoss เป็นคนแรก!"
+      "Translation": "มีลูกสุนัขเหล่านี้น่ารัก, ตาเล็ก ๆ น้อย ๆ วาวที่สามารถเลือกออกแม้แต่ที่เล็กที่สุดของเหยื่อกับแพทช์ของ brightmoss เป็นคนแรก!"
     },
     "endemic-life-forest-pteryx-description": {
       "Key": "endemic-life-forest-pteryx-description",
@@ -7929,7 +7929,7 @@ export default {
     },
     "endemic-life-phantom-flutterfly": {
       "Key": "endemic-life-phantom-flutterfly",
-      "Translation": "เหล่านี้ปีกที่สวยงาม! เรืองแสงสีรุ้งของพวกเขาคือเพื่อให้มีเสน่ห์ ... ฉัน ... ฉันไม่สามารถฉีกตาของฉันออกไปจากมัน! อะไรชิ้นเอก!"
+      "Translation": "เหล่านี้ปีกที่สวยงาม! เรืองแสงสีรุ้งของพวกเขาคือเพื่อให้มีเสน่ห์ ... ฉัน ... ฉันไม่สามารถฉีกตาของฉันออกไปจากมัน! อะไรชิ้นเอกต่อไป"
     },
     "endemic-life-pilot-hare-description": {
       "Key": "endemic-life-pilot-hare-description",
@@ -7945,7 +7945,7 @@ export default {
     },
     "endemic-life-prism-hercudrome-description": {
       "Key": "endemic-life-prism-hercudrome-description",
-      "Translation": "นี่คือ ... ฉัน ... ว่าในโลกที่คุณไม่จัดการให้ ... Ooh สี ... หนึ่งสอง ... สี่ ... มันทำให้ไม่เห็นฉันกับสีรุ้ง!"
+      "Translation": "นี่คือ ... ฉัน ... ว่าในโลกที่คุณไม่จัดการให้ ... Ooh สี ... หนึ่งสอง ... สี่ ... มันทำให้ไม่เห็นผมที่มีสีรุ้ง!"
     },
     "endemic-life-revolture-description": {
       "Key": "endemic-life-revolture-description",
@@ -7957,7 +7957,7 @@ export default {
     },
     "endemic-life-scavantula-description": {
       "Key": "endemic-life-scavantula-description",
-      "Translation": "เพื่อนเหล่านี้เพียงแค่ความรักเนื้อเน่า! หากคุณกำลังจะวางตายเน่าในหุบเขาคุณก็อาจจะเป็นอาหารมื้อต่อไปของพวกเขา!"
+      "Translation": "เพื่อนเหล่านี้เพียงแค่ความรักเนื้อเน่า! ถ้าคุณจะวางตายเน่าในหุบเขาคุณก็อาจจะเป็นอาหารต่อไปของพวกเขา!"
     },
     "endemic-life-shepherd-hare-description": {
       "Key": "endemic-life-shepherd-hare-description",
@@ -8645,7 +8645,7 @@ export default {
     },
     "monster-bazelgeuse-useful-information": {
       "Key": "monster-bazelgeuse-useful-information",
-      "Translation": "เครื่องชั่งน้ำหนักที่สหภาพแรงงาน Bazelgeuse ระเบิดด้วยพลังอันยิ่งใหญ่ที่ทำให้พวกเขาร้ายแรงมาก มุ่งเน้นไปที่ขาของมันไปเคาะมันลงมาแล้วเคาะออกอวัยวะขนาดของการสร้าง"
+      "Translation": "เครื่องชั่งน้ำหนักที่สหภาพแรงงาน Bazelgeuse ระเบิดด้วยพลังอันยิ่งใหญ่ที่ทำให้พวกเขาร้ายแรงมาก มุ่งเน้นไปที่ขาของตนที่จะเคาะลงแล้วเคาะออกอวัยวะขนาดของการสร้าง"
     },
     "monster-behemoth": {
       "Key": "monster-behemoth",
@@ -8657,7 +8657,7 @@ export default {
     },
     "monster-behemoth-useful-information": {
       "Key": "monster-behemoth-useful-information",
-      "Translation": "ไม่สามารถต่อสู้เพียงอย่างเดียวการรวมกันของหมอโจมตีและยุยงจะต้อง เมื่อสุริยุปราคาดาวตกถูกเรียกใช้ปกหลังลดลงดาวหางหรือเผชิญกับโชคชะตาของคุณ"
+      "Translation": "ไม่สามารถอยู่คนเดียวต่อสู้, การรวมกันของการเป็นหมอโจมตีและจะต้องยุยง เมื่อสุริยุปราคาดาวตกถูกเรียกใช้ปกหลังลดลงดาวหางหรือเผชิญกับโชคชะตาของคุณ"
     },
     "monster-beotodus": {
       "Key": "monster-beotodus",
@@ -8701,7 +8701,7 @@ export default {
     },
     "monster-deviljho-useful-information": {
       "Key": "monster-deviljho-useful-information",
-      "Translation": "เมื่อแค้น Deviljho ของกล้ามเนื้อบวมเรืองแสงสีแดงนรก มันก็จะเริ่มพ่นโจมตีธาตุมังกรกวาดเพื่อให้ดูระยะทางของคุณ การเข้าพัก Deviljho ในการโจมตีแม้ในขณะที่ได้รับบาดเจ็บ แต่ไม่ให้ขึ้น; ให้การต่อสู้และคุณจะออกมาด้านบน"
+      "Translation": "เมื่อแค้น Deviljho ของกล้ามเนื้อบวมเรืองแสงสีแดงนรก มันก็จะเริ่มพ่นโจมตีธาตุมังกรกวาดเพื่อให้ดูระยะทางของคุณ การเข้าพัก Deviljho ในการโจมตีแม้ในขณะที่ได้รับบาดเจ็บ แต่ไม่ให้ขึ้น; เก็บต่อสู้และคุณจะออกมาด้านบน"
     },
     "monster-diablos": {
       "Key": "monster-diablos",
@@ -9709,7 +9709,7 @@ export default {
     },
     "play-guide-fertilizers-description": {
       "Key": "play-guide-fertilizers-description",
-      "Translation": "คุณสามารถใช้คะแนนการวิจัยเพื่อให้ปุ๋ยแบบการใช้งานที่ศูนย์การวิจัยพฤกษศาสตร์ ปุ๋ยเพิ่มปริมาณของรายการที่ได้รับจากการเก็บเกี่ยวแต่ละหรือสามารถนำมาใช้เพื่อลดระยะเวลาการเพาะปลูก"
+      "Translation": "คุณสามารถใช้คะแนนการวิจัยเพื่อการใช้ปุ๋ยที่ศูนย์วิจัยพฤกษศาสตร์ ปุ๋ยเพิ่มปริมาณของรายการที่ได้รับจากการเก็บเกี่ยวแต่ละหรือสามารถนำมาใช้เพื่อลดระยะเวลาการเพาะปลูก"
     },
     "play-guide-flashbugs": {
       "Key": "play-guide-flashbugs",
@@ -9733,7 +9733,7 @@ export default {
     },
     "play-guide-foresight-slash-description": {
       "Key": "play-guide-foresight-slash-description",
-      "Translation": "Slash สุขุมช่วยให้คุณสามารถหลบการโจมตีศัตรูและส่งมอบโต้ทันที นอกจากนี้ยังสามารถถูกล่ามโซ่เป็นใบมีดวิญญาณ"
+      "Translation": "Slash Foresight ช่วยให้คุณสามารถหลบการโจมตีศัตรูและส่งมอบโต้ทันที นอกจากนี้ยังสามารถถูกล่ามโซ่เป็นใบมีดวิญญาณ"
     },
     "play-guide-fundamentals": {
       "Key": "play-guide-fundamentals",
@@ -10457,7 +10457,7 @@ export default {
     },
     "play-guide-stamina-description": {
       "Key": "play-guide-stamina-description",
-      "Translation": "ห้าวสิงและการดำเนินการบางอย่างจะหมดสิ้นลงความแข็งแกร่งของคุณ ความแข็งแกร่งสูงสุดของคุณก็จะค่อยๆลดลงเมื่อเวลาผ่านไป แต่ก็สามารถได้รับการรักษาโดยการรับประทานอาหารสเต็กดีทำหรือการปันส่วน"
+      "Translation": "ห้าวเลี่ยงและการดำเนินการบางอย่างจะหมดสิ้นลงความแข็งแกร่งของคุณ ความแข็งแกร่งสูงสุดของคุณก็จะค่อยๆลดลงเมื่อเวลาผ่านไป แต่ก็สามารถได้รับการรักษาโดยการรับประทานอาหารสเต็กดีทำหรือการปันส่วน"
     },
     "play-guide-stones": {
       "Key": "play-guide-stones",
@@ -10509,7 +10509,7 @@ export default {
     },
     "play-guide-switch-gauge-description": {
       "Key": "play-guide-switch-gauge-description",
-      "Translation": "atacking ในโหมดดาบกิน Gauge สวิทช์ เปลี่ยนจากโหมดดาบไปที่โหมดขวานเติมจำนวนเงินขนาดเล็กของวัด วัดยังจะเติมเงินอัตโนมัติเมื่อเวลาผ่านไป"
+      "Translation": "atacking ในโหมด Gauge ดาบกินสวิทช์ เปลี่ยนจากโหมดดาบไปที่โหมดขวานเติมจำนวนเงินขนาดเล็กของวัด วัดยังจะเติมเงินอัตโนมัติเมื่อเวลาผ่านไป"
     },
     "play-guide-sword-and-shield": {
       "Key": "play-guide-sword-and-shield",
@@ -10573,7 +10573,7 @@ export default {
     },
     "play-guide-tempered-monsters-description": {
       "Key": "play-guide-tempered-monsters-description",
-      "Translation": "คุณอาจจะพบร่องรอยของมอนสเตอร์ที่รุนแรงโดยเฉพาะอย่างยิ่ง - เรียกนิรภัยมอนสเตอร์ - ในขณะที่เดินทางบนตำแหน่งสูง หากคุณเก็บเพียงพอของร่องรอยเหล่านี้คุณอาจได้รับเควสสืบสวนใหม่"
+      "Translation": "คุณอาจจะพบร่องรอยของมอนสเตอร์ที่รุนแรงโดยเฉพาะอย่างยิ่ง - เรียกนิรภัยมอนสเตอร์ - ในขณะที่เดินทางบนตำแหน่งสูง หากคุณเก็บเพียงพอของร่องรอยเหล่าคุณอาจได้รับเควสสืบสวนใหม่"
     },
     "play-guide-the-argosy": {
       "Key": "play-guide-the-argosy",
@@ -10757,7 +10757,7 @@ export default {
     },
     "play-guide-useful-functions": {
       "Key": "play-guide-useful-functions",
-      "Translation": "ฟังก์ชั่นที่มีประโยชน์"
+      "Translation": "ฟังก์ชันที่มีประโยชน์"
     },
     "play-guide-using-performances-to-attack": {
       "Key": "play-guide-using-performances-to-attack",
@@ -10781,7 +10781,7 @@ export default {
     },
     "play-guide-utilizing-comet-description": {
       "Key": "play-guide-utilizing-comet-description",
-      "Translation": "โซนผลกระทบสุริยุปราคาดาวตกเป็นอย่างมากทำให้การหลบหนีจากมันไปไม่ได้ คุณจะรับประกันจะเป็นลมถ้าคุณกำลังติดอยู่ในผลกระทบเพื่อใช้อุกกาบาตดาวหางที่ตกก่อนจันทรุปราคาฝนดาวตกเป็นโล่"
+      "Translation": "ผลกระทบโซนสุริยุปราคาดาวตกเป็นอย่างมากทำให้หลบหนีจากมันเป็นไปไม่ คุณจะรับประกันจะเป็นลมถ้าคุณกำลังติดอยู่ในผลกระทบเพื่อใช้อุกกาบาตดาวหางที่ตกก่อนที่จะเป็นสุริยุปราคาดาวตกโล่"
     },
     "play-guide-utilizing-skills": {
       "Key": "play-guide-utilizing-skills",
@@ -11273,7 +11273,7 @@ export default {
     },
     "quest-a-visitor-from-another-world-description": {
       "Key": "quest-a-visitor-from-another-world-description",
-      "Translation": "พันธมิตรกะเทยของฉันจะไม่ปิดขึ้นเกี่ยวกับบางส่วนของสัตว์ไม่ใช่สัตว์ที่เขาพบใน Wildspire เสีย คุณอยากแท็กพร้อม? สิ่งที่มันเป็นก็ผูกพันจะเป็นสิ่งที่น่าสนใจ!"
+      "Translation": "พันธมิตรกะเทยของฉันจะไม่ปิดขึ้นเกี่ยวกับบางส่วนของสัตว์ไม่ใช่สัตว์ที่เขาพบใน Wildspire เสีย คุณอยากแท็กพร้อม? สิ่งที่มันเป็นก็ผูกพันจะต้องมีสิ่งที่น่าสนใจ!"
     },
     "quest-a-visitor-from-eorzea": {
       "Key": "quest-a-visitor-from-eorzea",
@@ -16693,7 +16693,7 @@ export default {
     },
     "skill-tremor-resistance-1": {
       "Key": "skill-tremor-resistance-1",
-      "Translation": "โมฆะแรงสั่นสะเทือนเล็กน้อยพื้นดิน"
+      "Translation": "โมฆะแรงสั่นสะเทือนเล็กน้อยพื้น"
     },
     "skill-tremor-resistance-2": {
       "Key": "skill-tremor-resistance-2",
@@ -21325,7 +21325,7 @@ export default {
     },
     "weapon-sword-and-shield-tar-gold-scimitar": {
       "Key": "weapon-sword-and-shield-tar-gold-scimitar",
-      "Translation": "กลาสีทองดาบ"
+      "Translation": "กลาสีเรือทองดาบ"
     },
     "weapon-sword-and-shield-taroth-slicer-blast": {
       "Key": "weapon-sword-and-shield-taroth-slicer-blast",
@@ -23782,5 +23782,77 @@ export default {
     "weapon-sword-and-shield-defender-warhatchet-v": {
       "Key": "weapon-sword-and-shield-defender-warhatchet-v",
       "Translation": "Defender Warhatchet V"
+    },
+    "armor-mr-stygian-zin-alpha-plus": {
+      "Key": "armor-mr-stygian-zin-alpha-plus",
+      "Translation": "Stygian ศิ⍺ +"
+    },
+    "armor-mr-stygian-helm-alpha-plus": {
+      "Key": "armor-mr-stygian-helm-alpha-plus",
+      "Translation": "Stygian Helm ⍺ +"
+    },
+    "armor-mr-stygian-vambraces-alpha-plus": {
+      "Key": "armor-mr-stygian-vambraces-alpha-plus",
+      "Translation": "Stygian vambraces ⍺ +"
+    },
+    "armor-mr-stygian-mail-alpha-plus": {
+      "Key": "armor-mr-stygian-mail-alpha-plus",
+      "Translation": "Stygian จดหมาย⍺ +"
+    },
+    "armor-mr-stygian-coil-alpha-plus": {
+      "Key": "armor-mr-stygian-coil-alpha-plus",
+      "Translation": "Stygian คอยล์⍺ +"
+    },
+    "armor-mr-stygian-greaves-alpha-plus": {
+      "Key": "armor-mr-stygian-greaves-alpha-plus",
+      "Translation": "Stygian สนับ⍺ +"
+    },
+    "armor-mr-stygian-zin-beta-plus": {
+      "Key": "armor-mr-stygian-zin-beta-plus",
+      "Translation": "Stygian ศิบาท +"
+    },
+    "armor-mr-stygian-helm-beta-plus": {
+      "Key": "armor-mr-stygian-helm-beta-plus",
+      "Translation": "Stygian Helm บาท +"
+    },
+    "armor-mr-stygian-vambraces-beta-plus": {
+      "Key": "armor-mr-stygian-vambraces-beta-plus",
+      "Translation": "Stygian vambraces บาท +"
+    },
+    "armor-mr-stygian-mail-beta-plus": {
+      "Key": "armor-mr-stygian-mail-beta-plus",
+      "Translation": "Stygian จดหมาย SS +"
+    },
+    "armor-mr-stygian-coil-beta-plus": {
+      "Key": "armor-mr-stygian-coil-beta-plus",
+      "Translation": "Stygian คอยล์บาท +"
+    },
+    "armor-mr-stygian-greaves-beta-plus": {
+      "Key": "armor-mr-stygian-greaves-beta-plus",
+      "Translation": "Stygian สนับบาท +"
+    },
+    "armor-mr-oolong-alpha-plus": {
+      "Key": "armor-mr-oolong-alpha-plus",
+      "Translation": "อูหลง⍺ +"
+    },
+    "armor-mr-oolong-hair-alpha-plus": {
+      "Key": "armor-mr-oolong-hair-alpha-plus",
+      "Translation": "อูหลงผม⍺ +"
+    },
+    "armor-mr-oolong-vest-alpha-plus": {
+      "Key": "armor-mr-oolong-vest-alpha-plus",
+      "Translation": "อูหลง Vest ⍺ +"
+    },
+    "armor-mr-oolong-sleeves-alpha-plus": {
+      "Key": "armor-mr-oolong-sleeves-alpha-plus",
+      "Translation": "อูหลงแขน⍺ +"
+    },
+    "armor-mr-oolong-waist-alpha-plus": {
+      "Key": "armor-mr-oolong-waist-alpha-plus",
+      "Translation": "อูหลงเอว⍺ +"
+    },
+    "armor-mr-oolong-boots-alpha-plus": {
+      "Key": "armor-mr-oolong-boots-alpha-plus",
+      "Translation": "บู๊ทส์อูหลง⍺ +"
     }
   }
