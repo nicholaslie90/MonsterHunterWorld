@@ -3285,7 +3285,7 @@ export default {
     },
     "armor-kushala-description": {
       "Key": "armor-kushala-description",
-      "Translation": "護甲從Kushala Daora零件。它類似於一個古老的神靈栩栩如生的雕像。"
+      "Translation": "護甲從Kushala Daora零件。它就像一個古老的神靈栩栩如生的雕像。"
     },
     "armor-kushala-gamma-description": {
       "Key": "armor-kushala-gamma-description",
@@ -5457,7 +5457,7 @@ export default {
     },
     "armor-mr-guild-palace-mail-beta-plus": {
       "Key": "armor-mr-guild-palace-mail-beta-plus",
-      "Translation": "公會Palace郵件SS +"
+      "Translation": "公會宮郵件SS +"
     },
     "armor-mr-high-metal-alpha-plus": {
       "Key": "armor-mr-high-metal-alpha-plus",
@@ -7601,7 +7601,7 @@ export default {
     },
     "critical-bounties-important-notes": {
       "Key": "critical-bounties-important-notes",
-      "Translation": "有三個研究人員可以在現場遇到了：特有生命研究員的Lynian研究員和魚研究員\\ n \\ n在你著手征戰，只有一個研究員將在該區域產卵。其中研究員產卵，當你選擇你的探險目的地顯示在世界地圖。每當你完成一個任務，探險或考察，它改變其研究員產卵。這就是為什麼定期檢查世界地圖是很重要的。\\ n \\ n它是非常重要的談話在每個區域每個研究員，以便通過每個研究員的關鍵富饒的進展。既然是隨機的，其研究員產卵（見前面注），很容易錯過這些重要的恩澤。\\ n \\ n如果一個研究員有賞金的報價，他們會出現一個黃色的感嘆號（！）在地圖上。我並不總是在地圖上看到這些標誌，這就是為什麼我錯過了這些關鍵的恩澤。一旦你征戰，打開你的世界地圖，並使用L1 / R1鍵選擇地方性生命過濾器，使其更容易被發現。\\ n \\ n如果一個研究者沒有恩惠的報價，他們會出現一個明亮的綠色點（。）地圖。\\ n \\ n在你完成一個關鍵的賞金，你可以跟各自的研究員告訴他/她你完成賞金。但是，你總是要聊到研究中心紫苑完成賞金並獲得獎勵。\\ n \\ n如果沒有完成賞金後交談的研究員，你將要談論到他們在一個新的區域接受新的獎金，這是可能的，你必須跟我們的研究員的兩倍。有一次告訴他/她，你完成了前面的賞金。還有一次啟動新區域的關鍵賞金\\ n \\ nChoosing低等級或高等級目的地無所謂，對龍的休會除外它是高排名只是\\ n \\ nLynian懸賞：。無論何時你發現塗鴉，你可以與你的偵察飛行紀念他們，他們會引導你到下一個塗鴉。這樣做會導致你下面列出的位置。結交一個家族後，你可以跟你的Palico在你的房間或在研究基地。然後，您Palico會告訴你新的技巧還是教訓。"
+      "Translation": "有三個研究人員可以在現場遇到了：特有生命研究員的Lynian研究員和魚研究員\\ n \\ n在你著手征戰，只有一個研究員將在該區域產卵。其中研究員產卵，當你選擇你的探險目的地顯示在世界地圖。每當你完成一個任務，探險或考察，它改變其研究員產卵。這就是為什麼定期檢查世界地圖是很重要的。\\ n \\ n它是非常重要的談話在每個區域每個研究員，以便通過每個研究員的關鍵富饒的進展。既然是隨機的，其研究員產卵（見前面注），很容易錯過這些重要的恩澤。\\ n \\ n如果一個研究員有賞金的報價，他們會出現一個黃色的感嘆號（！）在地圖上。我並不總是在地圖上看到這些標誌，這就是為什麼我錯過了這些關鍵的恩澤。一旦你踏上遠征，打開你的世界地圖，並使用L1 / R1鍵選擇地方性生命過濾器，使其更容易被發現。\\ n \\ n如果一個研究者沒有恩惠的報價，他們會出現一個明亮的綠色點（。）地圖。\\ n \\ n在你完成一個關鍵的賞金，你可以跟各自的研究員告訴他/她你完成賞金。但是，你總是要聊到研究中心紫苑完成賞金並獲得獎勵。\\ n \\ n如果沒有完成賞金後交談的研究員，你將要談論到他們在一個新的區域接受新的獎金，這是可能的，你必須跟我們的研究員的兩倍。有一次告訴他/她，你完成了前面的賞金。還有一次啟動新區域的關鍵賞金\\ n \\ nChoosing低等級或高等級目的地無所謂，對龍的休會除外它是高排名只是\\ n \\ nLynian懸賞：。無論何時你發現塗鴉，你可以與你的偵察飛行紀念他們，他們會引導你到下一個塗鴉。這樣做會導致你下面列出的位置。結交一個家族後，你可以跟你的Palico在你的房間或在研究基地。然後，您Palico會告訴你新的技巧還是教訓。"
     },
     "critical-bounties-notes": {
       "Key": "critical-bounties-notes",
@@ -9093,7 +9093,7 @@ export default {
     },
     "monster-scarred-yian-garuga": {
       "Key": "monster-scarred-yian-garuga",
-      "Translation": "艾安傷痕累累白頭樹"
+      "Translation": "傷痕累累的易安白頭樹"
     },
     "monster-seething-bazelgeuse": {
       "Key": "monster-seething-bazelgeuse",
@@ -11057,7 +11057,7 @@ export default {
     },
     "quest-a-crown-of-mud-and-anger-notes": {
       "Key": "quest-a-crown-of-mud-and-anger-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-a-fiery-convergence": {
       "Key": "quest-a-fiery-convergence",
@@ -11093,7 +11093,7 @@ export default {
     },
     "quest-a-hair-raising-experience-notes": {
       "Key": "quest-a-hair-raising-experience-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-a-humid-headache": {
       "Key": "quest-a-humid-headache",
@@ -11217,7 +11217,7 @@ export default {
     },
     "quest-a-sore-site-notes": {
       "Key": "quest-a-sore-site-notes",
-      "Translation": "任務鏈：刺痛的味道，大師的麵包送貨，停留在他們的方式，一場大火噴湧BREW傳送，瘡網站，RRRRRumble的浪費！高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "任務鏈：刺痛的味道，大師的麵包送貨，停留在他們的方式，一場大火噴湧BREW傳送，瘡網站，RRRRRumble的浪費！高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-a-summons-from-below": {
       "Key": "quest-a-summons-from-below",
@@ -11253,7 +11253,7 @@ export default {
     },
     "quest-a-tingling-taste-notes": {
       "Key": "quest-a-tingling-taste-notes",
-      "Translation": "任務鏈：刺痛的味道，大師的麵包送貨，停留在他們的方式，一場大火噴湧BREW傳送，瘡網站，RRRRRumble的浪費！高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。解鎖任務鏈的研究基地，導致垃圾中的RRRRRumble！可選的任務後。"
+      "Translation": "任務鏈：刺痛的味道，大師的麵包送貨，停留在他們的方式，一場大火噴湧BREW傳送，瘡網站，RRRRRumble的浪費！高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。解鎖任務鏈的研究基地，導致垃圾中的RRRRRumble！可選的任務後。"
     },
     "quest-a-tzitzi-for-science": {
       "Key": "quest-a-tzitzi-for-science",
@@ -11429,7 +11429,7 @@ export default {
     },
     "quest-brown-desert-green-queen-notes": {
       "Key": "quest-brown-desert-green-queen-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-butting-heads-with-nature": {
       "Key": "quest-butting-heads-with-nature",
@@ -12153,7 +12153,7 @@ export default {
     },
     "quest-googly-eyed-green-monster-notes": {
       "Key": "quest-googly-eyed-green-monster-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-greeting-the-gluttons": {
       "Key": "quest-greeting-the-gluttons",
@@ -12181,7 +12181,7 @@ export default {
     },
     "quest-he-taketh-it-with-his-eyes-description": {
       "Key": "quest-he-taketh-it-with-his-eyes-description",
-      "Translation": "這是一個巨獸，一個Eorzean獸，在長輩的凹槽中。聽取莫古利的建議，對其他trustworthy亨特呼籲 - 冒險家幫助平息這種恐怖！"
+      "Translation": "這是一個巨獸，一個Eorzean獸，在長輩的凹槽中。聽取莫古利的建議，對其他值得信賴的亨特呼籲 - 冒險家幫助平息這種恐怖！"
     },
     "quest-hellfires-stronghold": {
       "Key": "quest-hellfires-stronghold",
@@ -12197,7 +12197,7 @@ export default {
     },
     "quest-hellish-fiend-vaal-hazak-description": {
       "Key": "quest-hellish-fiend-vaal-hazak-description",
-      "Translation": "我絕對肯定的是，脫髮是由瓦爾哈薩克族控制。我們證明我的說法一勞永逸。轉至谷和尋求瓦爾哈薩克族！"
+      "Translation": "我絕對肯定的是，脫髮是由瓦爾哈薩克族控制。現在證明我的理論一勞永逸。轉至谷和尋求瓦爾哈薩克族！"
     },
     "quest-horned-tyrant-below-the-sands": {
       "Key": "quest-horned-tyrant-below-the-sands",
@@ -12241,7 +12241,7 @@ export default {
     },
     "quest-it-cant-see-you-if-you-dont-move-notes": {
       "Key": "quest-it-cant-see-you-if-you-dont-move-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-its-a-crying-shamos": {
       "Key": "quest-its-a-crying-shamos",
@@ -12277,7 +12277,7 @@ export default {
     },
     "quest-keep-your-hands-to-yourself-notes": {
       "Key": "quest-keep-your-hands-to-yourself-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-keeper-of-the-otherworld": {
       "Key": "quest-keeper-of-the-otherworld",
@@ -12345,7 +12345,7 @@ export default {
     },
     "quest-left-quite-the-impression-description": {
       "Key": "quest-left-quite-the-impression-description",
-      "Translation": "不瑣拉Magdaros的標誌讓你的心臟停止跳動？我向你保證，靠近看到它的規模起來是一樣威風。這是我們必須進行更多的研究它。"
+      "Translation": "不瑣拉Magdaros的符號讓你的心臟停止跳動？我向你保證，靠近看到它的規模起來是一樣威風。這是我們必須進行更多的研究它。"
     },
     "quest-left-quite-the-impression-notes": {
       "Key": "quest-left-quite-the-impression-notes",
@@ -12369,7 +12369,7 @@ export default {
     },
     "quest-legiana-highlands-royalty-notes": {
       "Key": "quest-legiana-highlands-royalty-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-lessons-of-the-wild": {
       "Key": "quest-lessons-of-the-wild",
@@ -12409,7 +12409,7 @@ export default {
     },
     "quest-loop-the-paolumu-notes": {
       "Key": "quest-loop-the-paolumu-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-mans-best-fiend": {
       "Key": "quest-mans-best-fiend",
@@ -12865,7 +12865,7 @@ export default {
     },
     "quest-odogaron-unleashed-notes": {
       "Key": "quest-odogaron-unleashed-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-old-monster-in-the-new-world": {
       "Key": "quest-old-monster-in-the-new-world",
@@ -12977,7 +12977,7 @@ export default {
     },
     "quest-pukei-pukei-ambush-notes": {
       "Key": "quest-pukei-pukei-ambush-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-radobaan-roadblock": {
       "Key": "quest-radobaan-roadblock",
@@ -13013,7 +13013,7 @@ export default {
     },
     "quest-rathalos-rematch-notes": {
       "Key": "quest-rathalos-rematch-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-redefining-the-power-couple": {
       "Key": "quest-redefining-the-power-couple",
@@ -13081,7 +13081,7 @@ export default {
     },
     "quest-rrrrrumble-in-the-waste-notes": {
       "Key": "quest-rrrrrumble-in-the-waste-notes",
-      "Translation": "任務鏈：刺痛的味道，大師的麵包送貨，停留在他們的方式，一場大火噴湧BREW傳送，瘡網站，RRRRRumble的浪費！高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。亞種分享他們的大部分對手的性狀，但一般都比較激進，或使用不同的戰術。"
+      "Translation": "任務鏈：刺痛的味道，大師的麵包送貨，停留在他們的方式，一場大火噴湧BREW傳送，瘡網站，RRRRRumble的浪費！高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。亞種分享他們的大部分對手的性狀，但一般都比較激進，或使用不同的戰術。"
     },
     "quest-ruler-of-the-azure-skies": {
       "Key": "quest-ruler-of-the-azure-skies",
@@ -13105,7 +13105,7 @@ export default {
     },
     "quest-say-cheese-notes": {
       "Key": "quest-say-cheese-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-scatternut-shortage": {
       "Key": "quest-scatternut-shortage",
@@ -13429,7 +13429,7 @@ export default {
     },
     "quest-stuck-in-a-rut-notes": {
       "Key": "quest-stuck-in-a-rut-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-stuck-in-their-ways": {
       "Key": "quest-stuck-in-their-ways",
@@ -13457,7 +13457,7 @@ export default {
     },
     "quest-talons-of-ire-and-ice-notes": {
       "Key": "quest-talons-of-ire-and-ice-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-target-monsters": {
       "Key": "quest-target-monsters",
@@ -13653,7 +13653,7 @@ export default {
     },
     "quest-the-piscine-problem-description": {
       "Key": "quest-the-piscine-problem-description",
-      "Translation": "鐵Helmcrab是這樣一個迷人的生物。只是踢過來，我們的持久性有機污染物刺耳莢！我們很樂意去研究更多，但不與Jyuratodus潛伏！"
+      "Translation": "鐵Helmcrab就是這樣一個迷人的人兒。只是踢過來，我們的持久性有機污染物刺耳莢！我們很樂意去研究更多，但不與Jyuratodus潛伏！"
     },
     "quest-the-piscine-problem-tips": {
       "Key": "quest-the-piscine-problem-tips",
@@ -13689,7 +13689,7 @@ export default {
     },
     "quest-the-red-and-blue-crew-notes": {
       "Key": "quest-the-red-and-blue-crew-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。亞種分享他們的大部分對手的性狀，但一般都比較激進，或使用不同的戰術。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。亞種分享他們的大部分對手的性狀，但一般都比較激進，或使用不同的戰術。"
     },
     "quest-the-sapphire-stars-guidance": {
       "Key": "quest-the-sapphire-stars-guidance",
@@ -13725,7 +13725,7 @@ export default {
     },
     "quest-the-sleeping-sylvan-queen-notes": {
       "Key": "quest-the-sleeping-sylvan-queen-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-the-thronetaker": {
       "Key": "quest-the-thronetaker",
@@ -13841,7 +13841,7 @@ export default {
     },
     "quest-trespassing-troublemaker-notes": {
       "Key": "quest-trespassing-troublemaker-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-triple-threat-throwdown": {
       "Key": "quest-triple-threat-throwdown",
@@ -13929,7 +13929,7 @@ export default {
     },
     "quest-up-to-your-waist-in-the-waste-notes": {
       "Key": "quest-up-to-your-waist-in-the-waste-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-urgent-pukei-pukei-hunt": {
       "Key": "quest-urgent-pukei-pukei-hunt",
@@ -13965,7 +13965,7 @@ export default {
     },
     "quest-well-that-diablos-notes": {
       "Key": "quest-well-that-diablos-notes",
-      "Translation": "高等級怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
+      "Translation": "高等級的怪物有更多的HP，更難打，但行為就像他們的低等級副本。"
     },
     "quest-what-a-bunch-of-abalone": {
       "Key": "quest-what-a-bunch-of-abalone",
@@ -15301,7 +15301,7 @@ export default {
     },
     "skill-free-meal-1": {
       "Key": "skill-free-meal-1",
-      "Translation": "激活時的25％。"
+      "Translation": "激活的時間的25％。"
     },
     "skill-free-meal-description": {
       "Key": "skill-free-meal-description",
@@ -15713,7 +15713,7 @@ export default {
     },
     "skill-latent-power-4": {
       "Key": "skill-latent-power-4",
-      "Translation": "雖然活性，由40％增加親合力和降低30％耐力耗盡。"
+      "Translation": "雖然活性，由40％增加的親和力和降低30％耐力耗盡。"
     },
     "skill-latent-power-5": {
       "Key": "skill-latent-power-5",
@@ -15737,7 +15737,7 @@ export default {
     },
     "skill-marathon-runner": {
       "Key": "skill-marathon-runner",
-      "Translation": "的馬拉松選手"
+      "Translation": "馬拉松運動員"
     },
     "skill-marathon-runner-1": {
       "Key": "skill-marathon-runner-1",
@@ -20165,7 +20165,7 @@ export default {
     },
     "weapon-lance-iron-lance-iii": {
       "Key": "weapon-lance-iron-lance-iii",
-      "Translation": "Iron III蘭斯"
+      "Translation": "鐵蘭斯III"
     },
     "weapon-lance-king-gold-defender": {
       "Key": "weapon-lance-king-gold-defender",
@@ -20353,7 +20353,7 @@ export default {
     },
     "weapon-lance-taurus-lance-i": {
       "Key": "weapon-lance-taurus-lance-i",
-      "Translation": "金牛座我蘭斯"
+      "Translation": "金牛座蘭斯我"
     },
     "weapon-lance-taurus-lance-ii": {
       "Key": "weapon-lance-taurus-lance-ii",
@@ -23854,5 +23854,109 @@ export default {
     "armor-mr-oolong-boots-alpha-plus": {
       "Key": "armor-mr-oolong-boots-alpha-plus",
       "Translation": "烏龍靴⍺+"
+    },
+    "weapon-long-sword-tigerfang": {
+      "Key": "weapon-long-sword-tigerfang",
+      "Translation": "Tigerfang"
+    },
+    "weapon-long-sword-ravenbite": {
+      "Key": "weapon-long-sword-ravenbite",
+      "Translation": "Ravenbite"
+    },
+    "weapon-long-sword-soulfire-lash-ruin": {
+      "Key": "weapon-long-sword-soulfire-lash-ruin",
+      "Translation": "靈魂之火睫毛“三絕”"
+    },
+    "weapon-long-sword-wyvern-blade-pale": {
+      "Key": "weapon-long-sword-wyvern-blade-pale",
+      "Translation": "翼龍刃“淡”"
+    },
+    "weapon-long-sword-ruinous-extermination": {
+      "Key": "weapon-long-sword-ruinous-extermination",
+      "Translation": "毀滅性的滅絕"
+    },
+    "weapon-long-sword-wyvern-blade-luna": {
+      "Key": "weapon-long-sword-wyvern-blade-luna",
+      "Translation": "翼龍刃“露娜”"
+    },
+    "weapon-long-sword-hellish-slasher": {
+      "Key": "weapon-long-sword-hellish-slasher",
+      "Translation": "地獄般的漿紗"
+    },
+    "weapon-long-sword-daito-wolf": {
+      "Key": "weapon-long-sword-daito-wolf",
+      "Translation": "大東狼"
+    },
+    "weapon-long-sword-soulfire-lash-styx": {
+      "Key": "weapon-long-sword-soulfire-lash-styx",
+      "Translation": "靈魂之火睫毛“冥河”"
+    },
+    "weapon-long-sword-soulfire-lash-blaze": {
+      "Key": "weapon-long-sword-soulfire-lash-blaze",
+      "Translation": "靈魂之火睫毛“大火”"
+    },
+    "weapon-tree-stygian-zinogre-tree": {
+      "Key": "weapon-tree-stygian-zinogre-tree",
+      "Translation": "冥河Zinogre樹"
+    },
+    "weapon-long-sword-brimstren-drakebone": {
+      "Key": "weapon-long-sword-brimstren-drakebone",
+      "Translation": "Brimstren Drakebone"
+    },
+    "weapon-long-sword-stygian-gula": {
+      "Key": "weapon-long-sword-stygian-gula",
+      "Translation": "冥河古拉"
+    },
+    "weapon-long-sword-mad-scavenger-pickaxe": {
+      "Key": "weapon-long-sword-mad-scavenger-pickaxe",
+      "Translation": "瘋狂清道夫鎬"
+    },
+    "weapon-long-sword-demon-scavenger-pickaxe": {
+      "Key": "weapon-long-sword-demon-scavenger-pickaxe",
+      "Translation": "惡魔清道夫鎬"
+    },
+    "weapon-tree-safijiiva-tree": {
+      "Key": "weapon-tree-safijiiva-tree",
+      "Translation": "Safi'jiiva樹"
+    },
+    "weapon-long-sword-safis-hellblade": {
+      "Key": "weapon-long-sword-safis-hellblade",
+      "Translation": "薩菲的Hellblade"
+    },
+    "weapon-long-sword-safis-aquablade": {
+      "Key": "weapon-long-sword-safis-aquablade",
+      "Translation": "薩菲的水刃"
+    },
+    "weapon-long-sword-safis-boltblade": {
+      "Key": "weapon-long-sword-safis-boltblade",
+      "Translation": "薩菲的Boltblade"
+    },
+    "weapon-long-sword-safis-frostblade": {
+      "Key": "weapon-long-sword-safis-frostblade",
+      "Translation": "薩菲的Frostblade"
+    },
+    "weapon-long-sword-safis-bindblade": {
+      "Key": "weapon-long-sword-safis-bindblade",
+      "Translation": "薩菲的Bindblade"
+    },
+    "weapon-long-sword-safis-drakblade": {
+      "Key": "weapon-long-sword-safis-drakblade",
+      "Translation": "薩菲的Drakblade"
+    },
+    "weapon-long-sword-safis-dreamblade": {
+      "Key": "weapon-long-sword-safis-dreamblade",
+      "Translation": "薩菲的Dreamblade"
+    },
+    "weapon-long-sword-safis-shatterblade": {
+      "Key": "weapon-long-sword-safis-shatterblade",
+      "Translation": "薩菲的Shatterblade"
+    },
+    "weapon-long-sword-safis-venomblade": {
+      "Key": "weapon-long-sword-safis-venomblade",
+      "Translation": "薩菲的Venomblade"
+    },
+    "weapon-long-sword-great-demon-halberd": {
+      "Key": "weapon-long-sword-great-demon-halberd",
+      "Translation": "大惡魔戟"
     }
   }

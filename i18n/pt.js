@@ -1469,7 +1469,7 @@ export default {
     },
     "armor-hr-high-metal-mail-beta": {
       "Key": "armor-hr-high-metal-mail-beta",
-      "Translation": "ß alta metal Correio"
+      "Translation": "ß alta Correio do metal"
     },
     "armor-hr-hornetaur-alpha": {
       "Key": "armor-hr-hornetaur-alpha",
@@ -23854,5 +23854,109 @@ export default {
     "armor-mr-oolong-boots-alpha-plus": {
       "Key": "armor-mr-oolong-boots-alpha-plus",
       "Translation": "Oolong Botas ⍺ +"
+    },
+    "weapon-long-sword-tigerfang": {
+      "Key": "weapon-long-sword-tigerfang",
+      "Translation": "Tigerfang"
+    },
+    "weapon-long-sword-ravenbite": {
+      "Key": "weapon-long-sword-ravenbite",
+      "Translation": "Ravenbite"
+    },
+    "weapon-long-sword-soulfire-lash-ruin": {
+      "Key": "weapon-long-sword-soulfire-lash-ruin",
+      "Translation": "Soulfire Lash \"Ruin\""
+    },
+    "weapon-long-sword-wyvern-blade-pale": {
+      "Key": "weapon-long-sword-wyvern-blade-pale",
+      "Translation": "Wyvern Blade \"pálido\""
+    },
+    "weapon-long-sword-ruinous-extermination": {
+      "Key": "weapon-long-sword-ruinous-extermination",
+      "Translation": "ruinosa Extermination"
+    },
+    "weapon-long-sword-wyvern-blade-luna": {
+      "Key": "weapon-long-sword-wyvern-blade-luna",
+      "Translation": "Wyvern Blade \"Luna\""
+    },
+    "weapon-long-sword-hellish-slasher": {
+      "Key": "weapon-long-sword-hellish-slasher",
+      "Translation": "hellish Slasher"
+    },
+    "weapon-long-sword-daito-wolf": {
+      "Key": "weapon-long-sword-daito-wolf",
+      "Translation": "Daito Lobo"
+    },
+    "weapon-long-sword-soulfire-lash-styx": {
+      "Key": "weapon-long-sword-soulfire-lash-styx",
+      "Translation": "Soulfire Lash \"Styx\""
+    },
+    "weapon-long-sword-soulfire-lash-blaze": {
+      "Key": "weapon-long-sword-soulfire-lash-blaze",
+      "Translation": "Soulfire Lash \"chama\""
+    },
+    "weapon-tree-stygian-zinogre-tree": {
+      "Key": "weapon-tree-stygian-zinogre-tree",
+      "Translation": "Stygian Árvore Zinogre"
+    },
+    "weapon-long-sword-brimstren-drakebone": {
+      "Key": "weapon-long-sword-brimstren-drakebone",
+      "Translation": "Brimstren Drakebone"
+    },
+    "weapon-long-sword-stygian-gula": {
+      "Key": "weapon-long-sword-stygian-gula",
+      "Translation": "Stygian Gula"
+    },
+    "weapon-long-sword-mad-scavenger-pickaxe": {
+      "Key": "weapon-long-sword-mad-scavenger-pickaxe",
+      "Translation": "Mad Scavenger Picareta"
+    },
+    "weapon-long-sword-demon-scavenger-pickaxe": {
+      "Key": "weapon-long-sword-demon-scavenger-pickaxe",
+      "Translation": "Demônio Scavenger Picareta"
+    },
+    "weapon-tree-safijiiva-tree": {
+      "Key": "weapon-tree-safijiiva-tree",
+      "Translation": "Árvore Safi'jiiva"
+    },
+    "weapon-long-sword-safis-hellblade": {
+      "Key": "weapon-long-sword-safis-hellblade",
+      "Translation": "Hellblade de Safi"
+    },
+    "weapon-long-sword-safis-aquablade": {
+      "Key": "weapon-long-sword-safis-aquablade",
+      "Translation": "Aquablade de Safi"
+    },
+    "weapon-long-sword-safis-boltblade": {
+      "Key": "weapon-long-sword-safis-boltblade",
+      "Translation": "Boltblade de Safi"
+    },
+    "weapon-long-sword-safis-frostblade": {
+      "Key": "weapon-long-sword-safis-frostblade",
+      "Translation": "Frostblade de Safi"
+    },
+    "weapon-long-sword-safis-bindblade": {
+      "Key": "weapon-long-sword-safis-bindblade",
+      "Translation": "Bindblade de Safi"
+    },
+    "weapon-long-sword-safis-drakblade": {
+      "Key": "weapon-long-sword-safis-drakblade",
+      "Translation": "Drakblade de Safi"
+    },
+    "weapon-long-sword-safis-dreamblade": {
+      "Key": "weapon-long-sword-safis-dreamblade",
+      "Translation": "Dreamblade de Safi"
+    },
+    "weapon-long-sword-safis-shatterblade": {
+      "Key": "weapon-long-sword-safis-shatterblade",
+      "Translation": "Shatterblade de Safi"
+    },
+    "weapon-long-sword-safis-venomblade": {
+      "Key": "weapon-long-sword-safis-venomblade",
+      "Translation": "Venomblade de Safi"
+    },
+    "weapon-long-sword-great-demon-halberd": {
+      "Key": "weapon-long-sword-great-demon-halberd",
+      "Translation": "Grande Demônio Halberd"
     }
   }

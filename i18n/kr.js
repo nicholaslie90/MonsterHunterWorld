@@ -10789,7 +10789,7 @@ export default {
     },
     "play-guide-utilizing-skills-description": {
       "Key": "play-guide-utilizing-skills-description",
-      "Translation": "괴수에 대 한 하나의 슬립까지 당신과 당신의 팀 재앙을 불러올 수도 있습니다. 같은 Felyne 경륜 또는 Felyne 보험 등의 건강 부스트, 또는 식품 기술 등을 사용하여 갑옷 기술."
+      "Translation": "괴수에 대 한 하나의 슬립까지 당신과 당신의 팀 재앙을 불러올 수 있습니다. 같은 Felyne 경륜 또는 Felyne 보험 등의 건강 부스트, 또는 식품 기술 등을 사용하여 갑옷 기술."
     },
     "play-guide-utilizing-the-environment": {
       "Key": "play-guide-utilizing-the-environment",
@@ -11165,7 +11165,7 @@ export default {
     },
     "quest-a-rotten-thing-to-do-tips": {
       "Key": "quest-a-rotten-thing-to-do-tips",
-      "Translation": "이 퀘스트는 탈모, 영구 영역 전반의 손상 거래 가스 다루고 있습니다. 이 짜증나는 소리를하는 동안, 당신은 공예에 쉽게입니다 Hornetaur 메일의 가슴 갑옷에있는 Effluvial 전문 기술, 그것을 무시할 수 있습니다. 일부 마비 저항이 너무 편리하게 올 수 있습니다 (Girros 코일은이 기술을 가지고). 몇 다음 Girros 자주, 동남 캠프 (1) 부문 3. 썩은 베일의 전체 두 번째 수준의 주위에 대상 더스의 하강 경로의 머리를 서쪽으로보기에서 시작합니다. 그 둥지는 상위 섹션에서 부문 7입니다."
+      "Translation": "이 퀘스트는 발산, 영구적 인 지역 전반의 손상 거래 가스 다루고 있습니다. 이 짜증나는 소리를하는 동안, 당신은 공예에 쉽게입니다 Hornetaur 메일의 가슴 갑옷에있는 Effluvial 전문 기술, 그것을 무시할 수 있습니다. 일부 마비 저항이 너무 편리하게 올 수 있습니다 (Girros 코일은이 기술을 가지고). 몇 다음 Girros 자주, 동남 캠프 (1) 부문 3. 썩은 베일의 전체 두 번째 수준의 주위에 대상 더스의 하강 경로의 머리를 서쪽으로보기에서 시작합니다. 그 둥지는 상위 섹션에서 부문 7입니다."
     },
     "quest-a-royal-pain": {
       "Key": "quest-a-royal-pain",
@@ -12885,7 +12885,7 @@ export default {
     },
     "quest-on-nightmares-wings-tips": {
       "Key": "quest-on-nightmares-wings-tips",
-      "Translation": "이 퀘스트는 탈모, 영구 영역 전반의 손상 거래 가스 다루고 있습니다. 이 짜증나는 소리를하는 동안, 당신은 공예에 쉽습니다 Hornetaur 메일의 가슴 갑옷에있는 Effluvial 전문 기술, 그것을 무시할 수 있습니다. 목표가 부문 6, 7의 두 번째 수준의 주위에 비행 (Girros 코일은이 기술을 가지고) 9."
+      "Translation": "이 퀘스트는 발산, 영구적 인 지역 전반의 손상 거래 가스 다루고 있습니다. 이 짜증나는 소리를하는 동안, 당신은 공예에 쉽습니다 Hornetaur 메일의 가슴 갑옷에있는 Effluvial 전문 기술, 그것을 무시할 수 있습니다. 목표가 부문 6, 7의 두 번째 수준의 주위에 비행 (Girros 코일은이 기술을 가지고) 9."
     },
     "quest-one-for-the-history-books": {
       "Key": "quest-one-for-the-history-books",
@@ -13537,7 +13537,7 @@ export default {
     },
     "quest-the-fires-of-hell-bite-deep-description": {
       "Key": "quest-the-fires-of-hell-bite-deep-description",
-      "Translation": "우리는이 출전에 Teostra을 낸 있어요. 그것의 왕국에서 쫓겨 것처럼 보인다. 상담자 라덴을 '한 일입니까? 시간 조사합니다!"
+      "Translation": "우리는이 출전에 Teostra을 낸 있어요. 그것의 왕국에서 쫓겨 것처럼 보인다. 질문은 라덴을 '한 일입니까? 시간 조사합니다!"
     },
     "quest-the-food-chain-dominator": {
       "Key": "quest-the-food-chain-dominator",
@@ -13597,7 +13597,7 @@ export default {
     },
     "quest-the-heralds-of-destruction-cry-description": {
       "Key": "quest-the-heralds-of-destruction-cry-description",
-      "Translation": "그 일이 나타 났을 때 나는 아직도 기억한다. 나는 내 머리에 나팔이 울려 퍼지는 뿔을 들었다. 그것은 파괴의 노래처럼 들렸다. 그 뿔을 중지 할 수 있습니다 나는 내 연구를 도와주세요!"
+      "Translation": "그 일이 나타 났을 때 나는 아직도 기억한다. 나는 내 머리에 나팔이 울려 퍼지는 뿔을 들었다. 그것은 파괴의 노래처럼 들렸다. 그 뿔이 중지 할 수 있도록 나는 나의 연구의 도움이 필요합니다!"
     },
     "quest-the-legendary-beast": {
       "Key": "quest-the-legendary-beast",
@@ -13761,7 +13761,7 @@ export default {
     },
     "quest-the-winds-of-wrath-bite-deep-description": {
       "Key": "quest-the-winds-of-wrath-bite-deep-description",
-      "Translation": "우리는 '라운드, tearin'일을 실행하는 Kushala Daora 있어요. 그것의 영토에서 쫓겨 것처럼 보인다. 상담자 라덴을 '한 일입니까? 시간 조사합니다!"
+      "Translation": "우리는 '라운드, tearin'일을 실행하는 Kushala Daora 있어요. 그것의 영토에서 쫓겨 것처럼 보인다. 질문은 라덴을 '한 일입니까? 시간 조사합니다!"
     },
     "quest-this-is-how-revolts-start": {
       "Key": "quest-this-is-how-revolts-start",
@@ -20417,7 +20417,7 @@ export default {
     },
     "weapon-long-sword-azure-star-blade": {
       "Key": "weapon-long-sword-azure-star-blade",
-      "Translation": "푸른 스타 블레이드"
+      "Translation": "푸른 별 블레이드"
     },
     "weapon-long-sword-azure-star-dragon-dance": {
       "Key": "weapon-long-sword-azure-star-dragon-dance",
@@ -21037,7 +21037,7 @@ export default {
     },
     "weapon-sword-and-shield-empress-edge-ruin": {
       "Key": "weapon-sword-and-shield-empress-edge-ruin",
-      "Translation": "황후 에지 '파멸'"
+      "Translation": "황후 에지 \"파멸\""
     },
     "weapon-sword-and-shield-empress-edge-styx": {
       "Key": "weapon-sword-and-shield-empress-edge-styx",
@@ -23854,5 +23854,109 @@ export default {
     "armor-mr-oolong-boots-alpha-plus": {
       "Key": "armor-mr-oolong-boots-alpha-plus",
       "Translation": "우롱 부츠 ⍺ +"
+    },
+    "weapon-long-sword-tigerfang": {
+      "Key": "weapon-long-sword-tigerfang",
+      "Translation": "Tigerfang"
+    },
+    "weapon-long-sword-ravenbite": {
+      "Key": "weapon-long-sword-ravenbite",
+      "Translation": "Ravenbite"
+    },
+    "weapon-long-sword-soulfire-lash-ruin": {
+      "Key": "weapon-long-sword-soulfire-lash-ruin",
+      "Translation": "Soulfire 래쉬 \"파멸\""
+    },
+    "weapon-long-sword-wyvern-blade-pale": {
+      "Key": "weapon-long-sword-wyvern-blade-pale",
+      "Translation": "와이번 블레이드 \"창백한\""
+    },
+    "weapon-long-sword-ruinous-extermination": {
+      "Key": "weapon-long-sword-ruinous-extermination",
+      "Translation": "파멸을 가져 오는 근절"
+    },
+    "weapon-long-sword-wyvern-blade-luna": {
+      "Key": "weapon-long-sword-wyvern-blade-luna",
+      "Translation": "와이번 블레이드 \"루나\""
+    },
+    "weapon-long-sword-hellish-slasher": {
+      "Key": "weapon-long-sword-hellish-slasher",
+      "Translation": "지옥 슬래셔"
+    },
+    "weapon-long-sword-daito-wolf": {
+      "Key": "weapon-long-sword-daito-wolf",
+      "Translation": "다이토 늑대"
+    },
+    "weapon-long-sword-soulfire-lash-styx": {
+      "Key": "weapon-long-sword-soulfire-lash-styx",
+      "Translation": "Soulfire 래쉬 \"스틱스\""
+    },
+    "weapon-long-sword-soulfire-lash-blaze": {
+      "Key": "weapon-long-sword-soulfire-lash-blaze",
+      "Translation": "Soulfire 래쉬 \"불꽃\""
+    },
+    "weapon-tree-stygian-zinogre-tree": {
+      "Key": "weapon-tree-stygian-zinogre-tree",
+      "Translation": "Stygian Zinogre 트리"
+    },
+    "weapon-long-sword-brimstren-drakebone": {
+      "Key": "weapon-long-sword-brimstren-drakebone",
+      "Translation": "Brimstren Drakebone"
+    },
+    "weapon-long-sword-stygian-gula": {
+      "Key": "weapon-long-sword-stygian-gula",
+      "Translation": "Stygian Gula"
+    },
+    "weapon-long-sword-mad-scavenger-pickaxe": {
+      "Key": "weapon-long-sword-mad-scavenger-pickaxe",
+      "Translation": "미친 폐품 곡괭이"
+    },
+    "weapon-long-sword-demon-scavenger-pickaxe": {
+      "Key": "weapon-long-sword-demon-scavenger-pickaxe",
+      "Translation": "악마 폐품 곡괭이"
+    },
+    "weapon-tree-safijiiva-tree": {
+      "Key": "weapon-tree-safijiiva-tree",
+      "Translation": "Safi'jiiva 트리"
+    },
+    "weapon-long-sword-safis-hellblade": {
+      "Key": "weapon-long-sword-safis-hellblade",
+      "Translation": "사피의 Hellblade"
+    },
+    "weapon-long-sword-safis-aquablade": {
+      "Key": "weapon-long-sword-safis-aquablade",
+      "Translation": "사피의 Aquablade"
+    },
+    "weapon-long-sword-safis-boltblade": {
+      "Key": "weapon-long-sword-safis-boltblade",
+      "Translation": "사피의 Boltblade"
+    },
+    "weapon-long-sword-safis-frostblade": {
+      "Key": "weapon-long-sword-safis-frostblade",
+      "Translation": "사피의 Frostblade"
+    },
+    "weapon-long-sword-safis-bindblade": {
+      "Key": "weapon-long-sword-safis-bindblade",
+      "Translation": "사피의 Bindblade"
+    },
+    "weapon-long-sword-safis-drakblade": {
+      "Key": "weapon-long-sword-safis-drakblade",
+      "Translation": "사피의 Drakblade"
+    },
+    "weapon-long-sword-safis-dreamblade": {
+      "Key": "weapon-long-sword-safis-dreamblade",
+      "Translation": "사피의 Dreamblade"
+    },
+    "weapon-long-sword-safis-shatterblade": {
+      "Key": "weapon-long-sword-safis-shatterblade",
+      "Translation": "사피의 Shatterblade"
+    },
+    "weapon-long-sword-safis-venomblade": {
+      "Key": "weapon-long-sword-safis-venomblade",
+      "Translation": "사피의 Venomblade"
+    },
+    "weapon-long-sword-great-demon-halberd": {
+      "Key": "weapon-long-sword-great-demon-halberd",
+      "Translation": "위대한 악마 미늘창"
     }
   }

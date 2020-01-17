@@ -7501,7 +7501,7 @@ export default {
     },
     "armor-strategist-description": {
       "Key": "armor-strategist-description",
-      "Translation": "Eine Guild-Werkstatt Zusammenarbeit. Sie helfen Ihnen die Jagd, indem man sich sehr leicht klüger."
+      "Translation": "Ein Guild-Werkstatt Zusammenarbeit. Sie helfen Ihnen die Jagd, indem man sich sehr leicht klüger."
     },
     "armor-teostra-description": {
       "Key": "armor-teostra-description",
@@ -7641,7 +7641,7 @@ export default {
     },
     "critical-bounties-requirements-notes": {
       "Key": "critical-bounties-requirements-notes",
-      "Translation": "- Erfassung Net \\ n- Angelrute \\ n- Ghillie Mantle (unlocked nach der Haupthandlung Zuordnung Hunter Rang 3 abgeschlossen - Flying Sparks. Tobi-Kadachi)"
+      "Translation": "- Capture-Net \\ n- Angelrute \\ n- Ghillie Mantle (unlocked nach der Haupthandlung Zuordnung Hunter Rang 3 abgeschlossen - Flying Sparks. Tobi-Kadachi)"
     },
     "critical-bounties-research-help-bomb-beetle-capture": {
       "Key": "critical-bounties-research-help-bomb-beetle-capture",
@@ -8373,7 +8373,7 @@ export default {
     },
     "layered-armor-gala-suit-layered-chest": {
       "Key": "layered-armor-gala-suit-layered-chest",
-      "Translation": "Gala Anzug Layered Chest"
+      "Translation": "Gala-Anzug Layered Chest"
     },
     "layered-armor-gala-suit-layered-head": {
       "Key": "layered-armor-gala-suit-layered-head",
@@ -12329,7 +12329,7 @@ export default {
     },
     "quest-landing-the-landslide-wyvern-tips": {
       "Key": "quest-landing-the-landslide-wyvern-tips",
-      "Translation": "Ziemlich ähnlich wie Mired im Spire, aber Sie müssen das Ziel erfassen. Start ab Zentrallager (6), sucht es in der Branche und Kampf, bis er humpelt und flüchtet in Richtung Sektor 9. Da kann man nicht Shock Trap in das Wasser gesetzt und die Barroth Schlamm zerstören kann, setzen die Falle in der Nähe der Runde Cactus und locken sie hier. Es kann helfen, ein paar Tranq Bombe zu verwenden, während das Monster schläft. Wenn es das erste Mal ist, erfassen Sie eine Barroth, werden entsperren Sie die Sonder Arena: Barroth optionalen Quest."
+      "Translation": "Ziemlich ähnlich wie Mired im Spire, aber Sie müssen das Ziel erfassen. Start ab Zentrallagern (6), sucht es in der Branche und Kampf, bis er humpelt und flüchtet in Richtung Sektor 9. Da kann man nicht Shock Trap in dem Wasser gesetzt und die Barroth Schlamm zerstören kann, setzt die Falle in der Nähe der Runde Cactus und locken sie hier. Es kann helfen, ein paar Tranq Bombe zu verwenden, während das Monster schläft. Wenn es das erste Mal ist, erfassen Sie eine Barroth, werden entsperren Sie die Sonder Arena: Barroth optionalen Quest."
     },
     "quest-lavasioth-monster-of-magma": {
       "Key": "quest-lavasioth-monster-of-magma",
@@ -14553,7 +14553,7 @@ export default {
     },
     "skill-blast-resistance-description": {
       "Key": "skill-blast-resistance-description",
-      "Translation": "Gewährt Schutz gegen blastblight."
+      "Translation": "Gewährt Schutz vor blastblight."
     },
     "skill-bleeding-resistance": {
       "Key": "skill-bleeding-resistance",
@@ -15513,7 +15513,7 @@ export default {
     },
     "skill-heroics-5": {
       "Key": "skill-heroics-5",
-      "Translation": "Bei Aktivierung angreifen erhöht Kraft um 30% und erhöht die Verteidigung um 40 Punkte."
+      "Translation": "Bei Aktivierung angreifen erhöht Kraft um 30% und erhöht die Mitte von 40 Punkten."
     },
     "skill-heroics-description": {
       "Key": "skill-heroics-description",
@@ -23854,5 +23854,109 @@ export default {
     "armor-mr-oolong-boots-alpha-plus": {
       "Key": "armor-mr-oolong-boots-alpha-plus",
       "Translation": "Oolong Stiefel ⍺ +"
+    },
+    "weapon-long-sword-tigerfang": {
+      "Key": "weapon-long-sword-tigerfang",
+      "Translation": "Tigerfang"
+    },
+    "weapon-long-sword-ravenbite": {
+      "Key": "weapon-long-sword-ravenbite",
+      "Translation": "Ravenbite"
+    },
+    "weapon-long-sword-soulfire-lash-ruin": {
+      "Key": "weapon-long-sword-soulfire-lash-ruin",
+      "Translation": "Soulfire Lash \"Ruin\""
+    },
+    "weapon-long-sword-wyvern-blade-pale": {
+      "Key": "weapon-long-sword-wyvern-blade-pale",
+      "Translation": "Wyvern Blade \"Pale\""
+    },
+    "weapon-long-sword-ruinous-extermination": {
+      "Key": "weapon-long-sword-ruinous-extermination",
+      "Translation": "verderblich Extermination"
+    },
+    "weapon-long-sword-wyvern-blade-luna": {
+      "Key": "weapon-long-sword-wyvern-blade-luna",
+      "Translation": "Wyvern Blade \"Luna\""
+    },
+    "weapon-long-sword-hellish-slasher": {
+      "Key": "weapon-long-sword-hellish-slasher",
+      "Translation": "Hellish Slasher"
+    },
+    "weapon-long-sword-daito-wolf": {
+      "Key": "weapon-long-sword-daito-wolf",
+      "Translation": "Daito Wolf"
+    },
+    "weapon-long-sword-soulfire-lash-styx": {
+      "Key": "weapon-long-sword-soulfire-lash-styx",
+      "Translation": "Soulfire Lash \"Styx\""
+    },
+    "weapon-long-sword-soulfire-lash-blaze": {
+      "Key": "weapon-long-sword-soulfire-lash-blaze",
+      "Translation": "Soulfire Lash \"Blaze\""
+    },
+    "weapon-tree-stygian-zinogre-tree": {
+      "Key": "weapon-tree-stygian-zinogre-tree",
+      "Translation": "Stygian Zinogre Baum"
+    },
+    "weapon-long-sword-brimstren-drakebone": {
+      "Key": "weapon-long-sword-brimstren-drakebone",
+      "Translation": "Brimstren Drakebone"
+    },
+    "weapon-long-sword-stygian-gula": {
+      "Key": "weapon-long-sword-stygian-gula",
+      "Translation": "Stygian Gula"
+    },
+    "weapon-long-sword-mad-scavenger-pickaxe": {
+      "Key": "weapon-long-sword-mad-scavenger-pickaxe",
+      "Translation": "Mad Scavenger Pickaxe"
+    },
+    "weapon-long-sword-demon-scavenger-pickaxe": {
+      "Key": "weapon-long-sword-demon-scavenger-pickaxe",
+      "Translation": "Dämon Scavenger Pickaxe"
+    },
+    "weapon-tree-safijiiva-tree": {
+      "Key": "weapon-tree-safijiiva-tree",
+      "Translation": "Safi'jiiva Baum"
+    },
+    "weapon-long-sword-safis-hellblade": {
+      "Key": "weapon-long-sword-safis-hellblade",
+      "Translation": "Safi des Hellblade"
+    },
+    "weapon-long-sword-safis-aquablade": {
+      "Key": "weapon-long-sword-safis-aquablade",
+      "Translation": "Safi des Aquablade"
+    },
+    "weapon-long-sword-safis-boltblade": {
+      "Key": "weapon-long-sword-safis-boltblade",
+      "Translation": "Safi ist Boltblade"
+    },
+    "weapon-long-sword-safis-frostblade": {
+      "Key": "weapon-long-sword-safis-frostblade",
+      "Translation": "Safi des Frostklingen"
+    },
+    "weapon-long-sword-safis-bindblade": {
+      "Key": "weapon-long-sword-safis-bindblade",
+      "Translation": "Safi ist Bindblade"
+    },
+    "weapon-long-sword-safis-drakblade": {
+      "Key": "weapon-long-sword-safis-drakblade",
+      "Translation": "Safi ist Drakblade"
+    },
+    "weapon-long-sword-safis-dreamblade": {
+      "Key": "weapon-long-sword-safis-dreamblade",
+      "Translation": "Safi des Dreamblade"
+    },
+    "weapon-long-sword-safis-shatterblade": {
+      "Key": "weapon-long-sword-safis-shatterblade",
+      "Translation": "Safi ist Shatterblade"
+    },
+    "weapon-long-sword-safis-venomblade": {
+      "Key": "weapon-long-sword-safis-venomblade",
+      "Translation": "Safi ist Venomblade"
+    },
+    "weapon-long-sword-great-demon-halberd": {
+      "Key": "weapon-long-sword-great-demon-halberd",
+      "Translation": "Großer Dämon Halberd"
     }
   }

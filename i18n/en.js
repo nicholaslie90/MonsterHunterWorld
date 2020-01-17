@@ -23854,5 +23854,109 @@ export default {
     "armor-mr-oolong-boots-alpha-plus": {
       "Key": "armor-mr-oolong-boots-alpha-plus",
       "Translation": "Oolong Boots ⍺+"
+    },
+    "weapon-long-sword-tigerfang": {
+      "Key": "weapon-long-sword-tigerfang",
+      "Translation": "Tigerfang"
+    },
+    "weapon-long-sword-ravenbite": {
+      "Key": "weapon-long-sword-ravenbite",
+      "Translation": "Ravenbite"
+    },
+    "weapon-long-sword-soulfire-lash-ruin": {
+      "Key": "weapon-long-sword-soulfire-lash-ruin",
+      "Translation": "Soulfire Lash \"Ruin\""
+    },
+    "weapon-long-sword-wyvern-blade-pale": {
+      "Key": "weapon-long-sword-wyvern-blade-pale",
+      "Translation": "Wyvern Blade \"Pale\""
+    },
+    "weapon-long-sword-ruinous-extermination": {
+      "Key": "weapon-long-sword-ruinous-extermination",
+      "Translation": "Ruinous Extermination"
+    },
+    "weapon-long-sword-wyvern-blade-luna": {
+      "Key": "weapon-long-sword-wyvern-blade-luna",
+      "Translation": "Wyvern Blade \"Luna\""
+    },
+    "weapon-long-sword-hellish-slasher": {
+      "Key": "weapon-long-sword-hellish-slasher",
+      "Translation": "Hellish Slasher"
+    },
+    "weapon-long-sword-daito-wolf": {
+      "Key": "weapon-long-sword-daito-wolf",
+      "Translation": "Daito Wolf"
+    },
+    "weapon-long-sword-soulfire-lash-styx": {
+      "Key": "weapon-long-sword-soulfire-lash-styx",
+      "Translation": "Soulfire Lash \"Styx\""
+    },
+    "weapon-long-sword-soulfire-lash-blaze": {
+      "Key": "weapon-long-sword-soulfire-lash-blaze",
+      "Translation": "Soulfire Lash \"Blaze\""
+    },
+    "weapon-tree-stygian-zinogre-tree": {
+      "Key": "weapon-tree-stygian-zinogre-tree",
+      "Translation": "Stygian Zinogre Tree"
+    },
+    "weapon-long-sword-brimstren-drakebone": {
+      "Key": "weapon-long-sword-brimstren-drakebone",
+      "Translation": "Brimstren Drakebone"
+    },
+    "weapon-long-sword-stygian-gula": {
+      "Key": "weapon-long-sword-stygian-gula",
+      "Translation": "Stygian Gula"
+    },
+    "weapon-long-sword-mad-scavenger-pickaxe": {
+      "Key": "weapon-long-sword-mad-scavenger-pickaxe",
+      "Translation": "Mad Scavenger Pickaxe"
+    },
+    "weapon-long-sword-demon-scavenger-pickaxe": {
+      "Key": "weapon-long-sword-demon-scavenger-pickaxe",
+      "Translation": "Demon Scavenger Pickaxe"
+    },
+    "weapon-tree-safijiiva-tree": {
+      "Key": "weapon-tree-safijiiva-tree",
+      "Translation": "Safi'jiiva Tree"
+    },
+    "weapon-long-sword-safis-hellblade": {
+      "Key": "weapon-long-sword-safis-hellblade",
+      "Translation": "Safi's Hellblade"
+    },
+    "weapon-long-sword-safis-aquablade": {
+      "Key": "weapon-long-sword-safis-aquablade",
+      "Translation": "Safi's Aquablade"
+    },
+    "weapon-long-sword-safis-boltblade": {
+      "Key": "weapon-long-sword-safis-boltblade",
+      "Translation": "Safi's Boltblade"
+    },
+    "weapon-long-sword-safis-frostblade": {
+      "Key": "weapon-long-sword-safis-frostblade",
+      "Translation": "Safi's Frostblade"
+    },
+    "weapon-long-sword-safis-bindblade": {
+      "Key": "weapon-long-sword-safis-bindblade",
+      "Translation": "Safi's Bindblade"
+    },
+    "weapon-long-sword-safis-drakblade": {
+      "Key": "weapon-long-sword-safis-drakblade",
+      "Translation": "Safi's Drakblade"
+    },
+    "weapon-long-sword-safis-dreamblade": {
+      "Key": "weapon-long-sword-safis-dreamblade",
+      "Translation": "Safi's Dreamblade"
+    },
+    "weapon-long-sword-safis-shatterblade": {
+      "Key": "weapon-long-sword-safis-shatterblade",
+      "Translation": "Safi's Shatterblade"
+    },
+    "weapon-long-sword-safis-venomblade": {
+      "Key": "weapon-long-sword-safis-venomblade",
+      "Translation": "Safi's Venomblade"
+    },
+    "weapon-long-sword-great-demon-halberd": {
+      "Key": "weapon-long-sword-great-demon-halberd",
+      "Translation": "Great Demon Halberd"
     }
   }

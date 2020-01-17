@@ -10133,7 +10133,7 @@ export default {
     },
     "play-guide-obtaining-decorations-description": {
       "Key": "play-guide-obtaining-decorations-description",
-      "Translation": "È possibile acquisire elementi di valutazione da quest alto rango. Dopo aver Valutare questi elementi, si possono usare come decorazioni. Fissare le decorazioni alle tue slot attrezzature per attivare abilità speciali."
+      "Translation": "È possibile acquisire elementi di valutazione da quest alto rango. Dopo aver Valutare questi elementi, si possono usare come decorazioni. Attaccare le decorazioni alle tue slot attrezzature per attivare abilità speciali."
     },
     "play-guide-omenflies": {
       "Key": "play-guide-omenflies",
@@ -11069,7 +11069,7 @@ export default {
     },
     "quest-a-fiery-throne-atop-the-forest": {
       "Key": "quest-a-fiery-throne-atop-the-forest",
-      "Translation": "Un Fiery Trono In cima alla foresta"
+      "Translation": "Un Fiery Trono cima della Foresta"
     },
     "quest-a-fiery-throne-atop-the-forest-description": {
       "Key": "quest-a-fiery-throne-atop-the-forest-description",
@@ -11861,7 +11861,7 @@ export default {
     },
     "quest-conditions-hr-100-or-higher": {
       "Key": "quest-conditions-hr-100-or-higher",
-      "Translation": "HR 100 o superiore"
+      "Translation": "HR100 o superiore"
     },
     "quest-conditions-hr-11-or-higher": {
       "Key": "quest-conditions-hr-11-or-higher",
@@ -13049,7 +13049,7 @@ export default {
     },
     "quest-rollin-with-the-uragaan-description": {
       "Key": "quest-rollin-with-the-uragaan-description",
-      "Translation": "Urk, la mia testa è ancora girando da quello che ho appena visto. Abbiamo bisogno di qualcuno che si prenda questi disturbatori prima di chiunque altro ottiene nausea. Completare questa ricerca di un sacco di armatura Spheres!"
+      "Translation": "Urk, la mia testa è ancora girando da quello che ho appena visto. Abbiamo bisogno di qualcuno che si prenda questi disturbatori prima di chiunque altri ottiene nausea. Completare questa ricerca di un sacco di armatura Spheres!"
     },
     "quest-royal-relocation": {
       "Key": "quest-royal-relocation",
@@ -13061,7 +13061,7 @@ export default {
     },
     "quest-royal-relocation-tips": {
       "Key": "quest-royal-relocation-tips",
-      "Translation": "Non perdete tempo con la protezione del veleno se non si può completamente impedirlo, basta portare Antidoto con te e utilizzare attrezzature antincendio resistente. Inizia da sud-ovest di Camp (1), a nord di testa nella foresta settore 2 per trovare il bersaglio. Rathian è ancora suscettibile di veleno, nonostante i suoi attacchi velenosi in modo che il Poisoncup nel settore 3 possono essere utilizzati. Il suo nido è sull'altro lato della mappa nel settore 12, corsa veloce Camp orientale (11) e salire le viti dopo l'acqua."
+      "Translation": "Non perdete tempo con la protezione del veleno se non si può completamente impedirlo, basta portare Antidoto con te e utilizzare attrezzature antincendio resistente. Inizia da sud-ovest di Camp (1), a nord di testa nella foresta settore 2 per trovare il bersaglio. Rathian è ancora suscettibile di veleno, nonostante i suoi attacchi velenosi in modo che il Poisoncup nel settore 3 possono essere utilizzati. Il suo nido è sul lato opposto della mappa nel settore 12, corsa veloce Camp orientale (11) e salire le viti dopo che l'acqua."
     },
     "quest-rrrrrumble-in-the-waste": {
       "Key": "quest-rrrrrumble-in-the-waste",
@@ -13185,7 +13185,7 @@ export default {
     },
     "quest-sorry-youre-not-invited-tips": {
       "Key": "quest-sorry-youre-not-invited-tips",
-      "Translation": "Comincia da Camp Sud (1), dirigetevi a nord-ovest nel settore 3 e poi 9 5, se non riesci a trovare il target sarà nel settore 8. La lotta può muoversi al settore 4 un certo punto, dove l'azzurro terra è squishy. Il Paolumu può sbattere a terra e creare un'onda d'urto che ti fa perdere il vostro basamento per alcuni secondi, ma lo stordimento la Paolumu sopra quella zona sarà effettivamente intrappolarlo per una buona quantità di tempo. Il suo nido è nel settore 9, all'interno della struttura gigante, che sarà spesso volare intorno alla zona, basta aspettare che torni."
+      "Translation": "Inizia da Camp Southern (1), in direzione nord-ovest nel settore 3 poi 9 e 5, se non riesci a trovare il bersaglio sarà nel settore 8. La lotta può muoversi al settore 4 ad un certo punto, dove l'azzurro terra è squishy. Il Paolumu può sbattere a terra e creare un'onda d'urto che ti fa perdere il vostro basamento per alcuni secondi, ma lo stordimento la Paolumu sopra quella zona sarà effettivamente intrappolarlo per una buona quantità di tempo. Il suo nido è nel settore 9, all'interno della struttura gigante, che sarà spesso volare intorno alla zona, basta aspettare che torni."
     },
     "quest-special-arena-anjanath": {
       "Key": "quest-special-arena-anjanath",
@@ -13529,7 +13529,7 @@ export default {
     },
     "quest-the-eye-of-the-storm-description": {
       "Key": "quest-the-eye-of-the-storm-description",
-      "Translation": "L'esistenza di Kushala ci ricorda quanto è grande e temibile è la natura. Ma ci ricorda anche di coloro che si alzò contro la bestia. Stand cacciatore di altezza, e restituire il cielo al blu."
+      "Translation": "L'esistenza di Kushala ci ricorda quanto è grande e temibile è la natura. Ma ci ricorda anche di coloro che si alzò in piedi contro la bestia. Stand cacciatore di altezza, e restituire il cielo al blu."
     },
     "quest-the-fires-of-hell-bite-deep": {
       "Key": "quest-the-fires-of-hell-bite-deep",
@@ -17281,7 +17281,7 @@ export default {
     },
     "trophy-miniature-crown-collector-description": {
       "Key": "trophy-miniature-crown-collector-description",
-      "Translation": "Ottenere una corona in miniatura per 10 o più mostri presenti nel registro di caccia."
+      "Translation": "Ricevere una corona in miniatura per 10 o più mostri presenti nel registro di caccia."
     },
     "trophy-miniature-crown-description": {
       "Key": "trophy-miniature-crown-description",
@@ -23854,5 +23854,109 @@ export default {
     "armor-mr-oolong-boots-alpha-plus": {
       "Key": "armor-mr-oolong-boots-alpha-plus",
       "Translation": "Oolong Boots ⍺ +"
+    },
+    "weapon-long-sword-tigerfang": {
+      "Key": "weapon-long-sword-tigerfang",
+      "Translation": "Tigerfang"
+    },
+    "weapon-long-sword-ravenbite": {
+      "Key": "weapon-long-sword-ravenbite",
+      "Translation": "Ravenbite"
+    },
+    "weapon-long-sword-soulfire-lash-ruin": {
+      "Key": "weapon-long-sword-soulfire-lash-ruin",
+      "Translation": "Soulfire Lash \"Ruin\""
+    },
+    "weapon-long-sword-wyvern-blade-pale": {
+      "Key": "weapon-long-sword-wyvern-blade-pale",
+      "Translation": "Wyvern Blade \"pallido\""
+    },
+    "weapon-long-sword-ruinous-extermination": {
+      "Key": "weapon-long-sword-ruinous-extermination",
+      "Translation": "ruinous sterminio"
+    },
+    "weapon-long-sword-wyvern-blade-luna": {
+      "Key": "weapon-long-sword-wyvern-blade-luna",
+      "Translation": "Wyvern Blade \"Luna\""
+    },
+    "weapon-long-sword-hellish-slasher": {
+      "Key": "weapon-long-sword-hellish-slasher",
+      "Translation": "infernale slasher"
+    },
+    "weapon-long-sword-daito-wolf": {
+      "Key": "weapon-long-sword-daito-wolf",
+      "Translation": "Daito Lupo"
+    },
+    "weapon-long-sword-soulfire-lash-styx": {
+      "Key": "weapon-long-sword-soulfire-lash-styx",
+      "Translation": "Soulfire Lash \"Styx\""
+    },
+    "weapon-long-sword-soulfire-lash-blaze": {
+      "Key": "weapon-long-sword-soulfire-lash-blaze",
+      "Translation": "Soulfire Lash \"Blaze\""
+    },
+    "weapon-tree-stygian-zinogre-tree": {
+      "Key": "weapon-tree-stygian-zinogre-tree",
+      "Translation": "Stygian Zinogre Albero"
+    },
+    "weapon-long-sword-brimstren-drakebone": {
+      "Key": "weapon-long-sword-brimstren-drakebone",
+      "Translation": "Brimstren Drakebone"
+    },
+    "weapon-long-sword-stygian-gula": {
+      "Key": "weapon-long-sword-stygian-gula",
+      "Translation": "Stygian Gula"
+    },
+    "weapon-long-sword-mad-scavenger-pickaxe": {
+      "Key": "weapon-long-sword-mad-scavenger-pickaxe",
+      "Translation": "Mad Scavenger Piccone"
+    },
+    "weapon-long-sword-demon-scavenger-pickaxe": {
+      "Key": "weapon-long-sword-demon-scavenger-pickaxe",
+      "Translation": "Demone Scavenger Piccone"
+    },
+    "weapon-tree-safijiiva-tree": {
+      "Key": "weapon-tree-safijiiva-tree",
+      "Translation": "Safi'jiiva Albero"
+    },
+    "weapon-long-sword-safis-hellblade": {
+      "Key": "weapon-long-sword-safis-hellblade",
+      "Translation": "Hellblade di Safi"
+    },
+    "weapon-long-sword-safis-aquablade": {
+      "Key": "weapon-long-sword-safis-aquablade",
+      "Translation": "Aquablade di Safi"
+    },
+    "weapon-long-sword-safis-boltblade": {
+      "Key": "weapon-long-sword-safis-boltblade",
+      "Translation": "Boltblade di Safi"
+    },
+    "weapon-long-sword-safis-frostblade": {
+      "Key": "weapon-long-sword-safis-frostblade",
+      "Translation": "Frostblade di Safi"
+    },
+    "weapon-long-sword-safis-bindblade": {
+      "Key": "weapon-long-sword-safis-bindblade",
+      "Translation": "Bindblade di Safi"
+    },
+    "weapon-long-sword-safis-drakblade": {
+      "Key": "weapon-long-sword-safis-drakblade",
+      "Translation": "Drakblade di Safi"
+    },
+    "weapon-long-sword-safis-dreamblade": {
+      "Key": "weapon-long-sword-safis-dreamblade",
+      "Translation": "Dreamblade di Safi"
+    },
+    "weapon-long-sword-safis-shatterblade": {
+      "Key": "weapon-long-sword-safis-shatterblade",
+      "Translation": "Shatterblade di Safi"
+    },
+    "weapon-long-sword-safis-venomblade": {
+      "Key": "weapon-long-sword-safis-venomblade",
+      "Translation": "Venomblade di Safi"
+    },
+    "weapon-long-sword-great-demon-halberd": {
+      "Key": "weapon-long-sword-great-demon-halberd",
+      "Translation": "Grande Demone Alabarda"
     }
   }

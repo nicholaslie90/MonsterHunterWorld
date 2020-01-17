@@ -4873,7 +4873,7 @@ export default {
     },
     "armor-mr-damascus-coil-alpha-plus": {
       "Key": "armor-mr-damascus-coil-alpha-plus",
-      "Translation": "大马士革卷板⍺+"
+      "Translation": "大马士革线圈⍺+"
     },
     "armor-mr-damascus-coil-beta-plus": {
       "Key": "armor-mr-damascus-coil-beta-plus",
@@ -8997,7 +8997,7 @@ export default {
     },
     "monster-odogaron-useful-information": {
       "Key": "monster-odogaron-useful-information",
-      "Translation": "Odogaron的讨厌爪子造成大量出血，并应不惜一切代价避免。使用肉给它引诱到陷阱，错开它，或者它强制到愤怒的较量轮胎出来，并使其更容易对付。"
+      "Translation": "Odogaron的讨厌爪子造成大量出血，并应不惜一切代价避免。使用肉给它引诱陷阱，错开它，或者它强制到愤怒的较量轮胎出来，并使其更容易对付。"
     },
     "monster-paolumu": {
       "Key": "monster-paolumu",
@@ -9241,7 +9241,7 @@ export default {
     },
     "play-guide-actions-with-weapon-drawn-description": {
       "Key": "play-guide-actions-with-weapon-drawn-description",
-      "Translation": "如果你使用剑盾和，你仍然可以使用的物品或您的抛甩，而你的武器绘制。使用项目：按住R2和L2并按广场。斯林格：按住L2和R2按。"
+      "Translation": "如果你使用剑盾和，你仍然可以使用的物品或您的抛甩，而你的武器绘制。使用项目：按住R2和L2和按广场。斯林格：按住L2和R2按。"
     },
     "play-guide-advanced-performance-techniques": {
       "Key": "play-guide-advanced-performance-techniques",
@@ -9733,7 +9733,7 @@ export default {
     },
     "play-guide-foresight-slash-description": {
       "Key": "play-guide-foresight-slash-description",
-      "Translation": "前瞻斜线使你的闪避敌人的攻击，并提供即时的反击。它也可以链接到一个精神刀片。"
+      "Translation": "前瞻斜线使你的闪避敌人的攻击，并提供立即反击。它也可以链接到一个精神刀片。"
     },
     "play-guide-fundamentals": {
       "Key": "play-guide-fundamentals",
@@ -10765,7 +10765,7 @@ export default {
     },
     "play-guide-using-performances-to-attack-description": {
       "Key": "play-guide-using-performances-to-attack-description",
-      "Translation": "在狩猎号角Performnace创建的初始冲击波具有较高的攻击力和惊人的力量，使得此举完全可行的是在自己的权利的攻击。你也可以连接普通攻击到性能，并取消绩效与道奇卷。"
+      "Translation": "在狩猎号角Performnace创建的初始冲击波具有较高的攻击力和惊人的力量，使得此举完全可行的在自己的权利的攻击。你也可以连接普通攻击到性能，并取消绩效与道奇卷。"
     },
     "play-guide-using-the-environment": {
       "Key": "play-guide-using-the-environment",
@@ -11513,7 +11513,7 @@ export default {
     },
     "quest-client-airship-engineer": {
       "Key": "quest-client-airship-engineer",
-      "Translation": "飞艇工程师"
+      "Translation": "工程师飞艇"
     },
     "quest-client-am-i-getting-enough-sleep": {
       "Key": "quest-client-am-i-getting-enough-sleep",
@@ -13565,7 +13565,7 @@ export default {
     },
     "quest-the-great-glutton-tips": {
       "Key": "quest-the-great-glutton-tips",
-      "Translation": "启动西南营（1），北上向扇区2找到目标。你可以等待它的攻击，以避免部门2 Jagras加入战斗之前达到1扇区。它会逃离自己的窝在部门2减弱不够时，你就可以杀死或捕获它。"
+      "Translation": "开始从西南营（1），北上向扇区2找到目标。你可以等待它的攻击，以避免部门2 Jagras加入战斗之前达到1扇区。它会逃离自己的窝在部门2减弱不够时，你就可以杀死或捕获它。"
     },
     "quest-the-great-jagras-hunt": {
       "Key": "quest-the-great-jagras-hunt",
@@ -13605,7 +13605,7 @@ export default {
     },
     "quest-the-legendary-beast-description": {
       "Key": "quest-the-legendary-beast-description",
-      "Translation": "某种野兽已经抵达新大陆由于以太网的不稳定性。我们要做的事情，否则在新的世界的活物都处于严重的危险！"
+      "Translation": "某种野兽已经抵达新大陆由于以太网的不稳定性。我们必须做一些事情，否则在新的世界的活物都处于严重的危险！"
     },
     "quest-the-meat-of-the-matter": {
       "Key": "quest-the-meat-of-the-matter",
@@ -13653,7 +13653,7 @@ export default {
     },
     "quest-the-piscine-problem-description": {
       "Key": "quest-the-piscine-problem-description",
-      "Translation": "铁Helmcrab这样一个迷人的人儿。只是踢过来，我们的持久性有机污染物刺耳荚！我们很乐意去研究更多，但不与Jyuratodus潜伏！"
+      "Translation": "铁Helmcrab就是这样一个迷人的人儿。只是踢过来，我们的持久性有机污染物刺耳荚！我们很乐意去研究更多，但不与Jyuratodus潜伏！"
     },
     "quest-the-piscine-problem-tips": {
       "Key": "quest-the-piscine-problem-tips",
@@ -15113,7 +15113,7 @@ export default {
     },
     "skill-entomologist-description": {
       "Key": "skill-entomologist-description",
-      "Translation": "降低摧毁的小虫子怪物的尸体，让他们雕刻的机会。"
+      "Translation": "减少破坏的小虫子怪物的尸体，让他们雕刻的机会。"
     },
     "skill-evade-extender": {
       "Key": "skill-evade-extender",
@@ -15705,7 +15705,7 @@ export default {
     },
     "skill-latent-power-2": {
       "Key": "skill-latent-power-2",
-      "Translation": "而激活，增加20％的亲和力和降低10％耐力耗尽。"
+      "Translation": "虽然活性，增加20％的亲和力和降低10％耐力耗尽。"
     },
     "skill-latent-power-3": {
       "Key": "skill-latent-power-3",
@@ -23854,5 +23854,109 @@ export default {
     "armor-mr-oolong-boots-alpha-plus": {
       "Key": "armor-mr-oolong-boots-alpha-plus",
       "Translation": "乌龙靴⍺+"
+    },
+    "weapon-long-sword-tigerfang": {
+      "Key": "weapon-long-sword-tigerfang",
+      "Translation": "Tigerfang"
+    },
+    "weapon-long-sword-ravenbite": {
+      "Key": "weapon-long-sword-ravenbite",
+      "Translation": "Ravenbite"
+    },
+    "weapon-long-sword-soulfire-lash-ruin": {
+      "Key": "weapon-long-sword-soulfire-lash-ruin",
+      "Translation": "灵魂之火睫毛“三绝”"
+    },
+    "weapon-long-sword-wyvern-blade-pale": {
+      "Key": "weapon-long-sword-wyvern-blade-pale",
+      "Translation": "翼龙刃“淡”"
+    },
+    "weapon-long-sword-ruinous-extermination": {
+      "Key": "weapon-long-sword-ruinous-extermination",
+      "Translation": "毁灭性的灭绝"
+    },
+    "weapon-long-sword-wyvern-blade-luna": {
+      "Key": "weapon-long-sword-wyvern-blade-luna",
+      "Translation": "翼龙刃“露娜”"
+    },
+    "weapon-long-sword-hellish-slasher": {
+      "Key": "weapon-long-sword-hellish-slasher",
+      "Translation": "地狱般的浆纱"
+    },
+    "weapon-long-sword-daito-wolf": {
+      "Key": "weapon-long-sword-daito-wolf",
+      "Translation": "大东狼"
+    },
+    "weapon-long-sword-soulfire-lash-styx": {
+      "Key": "weapon-long-sword-soulfire-lash-styx",
+      "Translation": "灵魂之火睫毛“冥河”"
+    },
+    "weapon-long-sword-soulfire-lash-blaze": {
+      "Key": "weapon-long-sword-soulfire-lash-blaze",
+      "Translation": "灵魂之火睫毛“大火”"
+    },
+    "weapon-tree-stygian-zinogre-tree": {
+      "Key": "weapon-tree-stygian-zinogre-tree",
+      "Translation": "冥河Zinogre树"
+    },
+    "weapon-long-sword-brimstren-drakebone": {
+      "Key": "weapon-long-sword-brimstren-drakebone",
+      "Translation": "Brimstren Drakebone"
+    },
+    "weapon-long-sword-stygian-gula": {
+      "Key": "weapon-long-sword-stygian-gula",
+      "Translation": "冥河古拉"
+    },
+    "weapon-long-sword-mad-scavenger-pickaxe": {
+      "Key": "weapon-long-sword-mad-scavenger-pickaxe",
+      "Translation": "疯狂清道夫镐"
+    },
+    "weapon-long-sword-demon-scavenger-pickaxe": {
+      "Key": "weapon-long-sword-demon-scavenger-pickaxe",
+      "Translation": "恶魔清道夫镐"
+    },
+    "weapon-tree-safijiiva-tree": {
+      "Key": "weapon-tree-safijiiva-tree",
+      "Translation": "Safi'jiiva树"
+    },
+    "weapon-long-sword-safis-hellblade": {
+      "Key": "weapon-long-sword-safis-hellblade",
+      "Translation": "萨菲的Hellblade"
+    },
+    "weapon-long-sword-safis-aquablade": {
+      "Key": "weapon-long-sword-safis-aquablade",
+      "Translation": "萨菲的水刃"
+    },
+    "weapon-long-sword-safis-boltblade": {
+      "Key": "weapon-long-sword-safis-boltblade",
+      "Translation": "萨菲的Boltblade"
+    },
+    "weapon-long-sword-safis-frostblade": {
+      "Key": "weapon-long-sword-safis-frostblade",
+      "Translation": "萨菲的Frostblade"
+    },
+    "weapon-long-sword-safis-bindblade": {
+      "Key": "weapon-long-sword-safis-bindblade",
+      "Translation": "萨菲的Bindblade"
+    },
+    "weapon-long-sword-safis-drakblade": {
+      "Key": "weapon-long-sword-safis-drakblade",
+      "Translation": "萨菲的Drakblade"
+    },
+    "weapon-long-sword-safis-dreamblade": {
+      "Key": "weapon-long-sword-safis-dreamblade",
+      "Translation": "萨菲的Dreamblade"
+    },
+    "weapon-long-sword-safis-shatterblade": {
+      "Key": "weapon-long-sword-safis-shatterblade",
+      "Translation": "萨菲的Shatterblade"
+    },
+    "weapon-long-sword-safis-venomblade": {
+      "Key": "weapon-long-sword-safis-venomblade",
+      "Translation": "萨菲的Venomblade"
+    },
+    "weapon-long-sword-great-demon-halberd": {
+      "Key": "weapon-long-sword-great-demon-halberd",
+      "Translation": "大恶魔戟"
     }
   }

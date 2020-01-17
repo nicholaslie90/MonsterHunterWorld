@@ -109,7 +109,7 @@ export default {
     },
     "armor-death-stench-description": {
       "Key": "armor-death-stench-description",
-      "Translation": "鎧を呪われ、死をもたらすと述べました。着用者は彼らの犠牲者の死の苦しみのエコーを聞きます。"
+      "Translation": "鎧を呪われ、死をもたらすと述べ。着用者は彼らの犠牲者の死の苦しみのエコーを聞きます。"
     },
     "armor-detail-components": {
       "Key": "armor-detail-components",
@@ -8645,7 +8645,7 @@ export default {
     },
     "monster-bazelgeuse-useful-information": {
       "Key": "monster-bazelgeuse-useful-information",
-      "Translation": "スケールBazelgeuseの飛散が極めてdeadlyそれらを作る、途方もない力で爆発していること。それをノックダウンした後、そのスケール生成器官をノックアウトするためにその足に焦点を当てています。"
+      "Translation": "スケールBazelgeuseの飛散は非常に致命的なそれらを作る、途方もない力で爆発していること。それをノックダウンした後、そのスケール生成器官をノックアウトするためにその足に焦点を当てています。"
     },
     "monster-behemoth": {
       "Key": "monster-behemoth",
@@ -8869,7 +8869,7 @@ export default {
     },
     "monster-kulve-taroth-characteristics": {
       "Key": "monster-kulve-taroth-characteristics",
-      "Translation": "金属の光輝コートでそれ自体を保護する長老ドラゴン。その生態とコートは各外観、徹底的な調査のためにこのように必要と異なります。"
+      "Translation": "金属の光輝コートでそれ自体を保護する長老ドラゴン。その生態とコートは各出現、徹底的な調査のためにこのように必要と異なります。"
     },
     "monster-kulve-taroth-useful-information": {
       "Key": "monster-kulve-taroth-useful-information",
@@ -10537,7 +10537,7 @@ export default {
     },
     "play-guide-sword-mode-attacks-description": {
       "Key": "play-guide-sword-mode-attacks-description",
-      "Translation": "ソードモードの攻撃は、スイッチ斧の薬瓶の効果を利用偏向させるためにはるかに困難にそれらを作ります。これは厳しい身体の部分を標的とするためのソードモード有用となります。"
+      "Translation": "ソードモードの攻撃は、スイッチ斧の薬瓶の効果を利用偏向させるためにはるかに困難にそれらを作ります。これはタフな体の部分を標的とするためのソードモードが便利になります。"
     },
     "play-guide-tackle": {
       "Key": "play-guide-tackle",
@@ -11201,7 +11201,7 @@ export default {
     },
     "quest-a-simple-task-description": {
       "Key": "quest-a-simple-task-description",
-      "Translation": "フィールド内のサンプルを収集しながら、私はレアトラック数に気づきました。私は、これらのトラックを調査し、プラス私の残りのサンプルを収集するためにできるハンターが必要です！"
+      "Translation": "フィールド内のサンプルを収集しながら、私はレアトラック数に気づきました。私は、これらのトラックを調査し、プラス私の残りのサンプルを収集することができハンターが必要です！"
     },
     "quest-a-sore-site": {
       "Key": "quest-a-sore-site",
@@ -12169,7 +12169,7 @@ export default {
     },
     "quest-hard-to-swallow-description": {
       "Key": "quest-hard-to-swallow-description",
-      "Translation": "私たちは、古代の森に出現する異常に強力なグレートJagrasの邪魔報告を得ています。できるだけ早くあなたの調査を始めるが、その食いしん坊食欲を注意してください！"
+      "Translation": "Weは、古代の森に出現し、非常に強力なグレートJagrasのdisturbing報告を得ています。できるだけ早くあなたの調査を始めるが、その食いしん坊食欲を注意してください！"
     },
     "quest-hard-to-swallow-notes": {
       "Key": "quest-hard-to-swallow-notes",
@@ -13049,7 +13049,7 @@ export default {
     },
     "quest-rollin-with-the-uragaan-description": {
       "Key": "quest-rollin-with-the-uragaan-description",
-      "Translation": "ユルク、私の頭はまだ私がちょうどのこぎりから回転しています。私たちは、誰がムカムカを取得する前に、これらのトラブルを取るために誰かを必要としています。鎧球の多くは、このクエストを完了！"
+      "Translation": "ユルク、私の頭はまだ私がちょうどのこぎりから回転しています。 Weは誰がムカムカ取得する前に、これらのトラブルを取るために誰かを必要としています。鎧球の多くは、このクエストを完了！"
     },
     "quest-royal-relocation": {
       "Key": "quest-royal-relocation",
@@ -13653,7 +13653,7 @@ export default {
     },
     "quest-the-piscine-problem-description": {
       "Key": "quest-the-piscine-problem-description",
-      "Translation": "アイアンHelmcrabは、このような魅力的な生き物です。ただ、それを上に蹴ると私たちのポップピアスポッド！私たちは、それらをよりしかしないJyuratodusは約潜んで勉強してみたいです！"
+      "Translation": "アイアンHelmcrabは、このような魅力的な生き物です。ただ、それを上に蹴ると私たちのポップピアスポッド！私たちは、彼らがより多くのではなく、Jyuratodusは約潜んで勉強してみたいです！"
     },
     "quest-the-piscine-problem-tips": {
       "Key": "quest-the-piscine-problem-tips",
@@ -15749,7 +15749,7 @@ export default {
     },
     "skill-marathon-runner-3": {
       "Key": "skill-marathon-runner-3",
-      "Translation": "50％の連続スタミナの消耗を軽減します。"
+      "Translation": "50％の連続スタミナの消耗を低減します。"
     },
     "skill-marathon-runner-description": {
       "Key": "skill-marathon-runner-description",
@@ -23854,5 +23854,109 @@ export default {
     "armor-mr-oolong-boots-alpha-plus": {
       "Key": "armor-mr-oolong-boots-alpha-plus",
       "Translation": "ウーロン茶ブーツ⍺+"
+    },
+    "weapon-long-sword-tigerfang": {
+      "Key": "weapon-long-sword-tigerfang",
+      "Translation": "Tigerfang"
+    },
+    "weapon-long-sword-ravenbite": {
+      "Key": "weapon-long-sword-ravenbite",
+      "Translation": "Ravenbite"
+    },
+    "weapon-long-sword-soulfire-lash-ruin": {
+      "Key": "weapon-long-sword-soulfire-lash-ruin",
+      "Translation": "Soulfireラッシュ「遺跡」"
+    },
+    "weapon-long-sword-wyvern-blade-pale": {
+      "Key": "weapon-long-sword-wyvern-blade-pale",
+      "Translation": "ワイバーンブレイド「ペール」"
+    },
+    "weapon-long-sword-ruinous-extermination": {
+      "Key": "weapon-long-sword-ruinous-extermination",
+      "Translation": "破滅的な退治"
+    },
+    "weapon-long-sword-wyvern-blade-luna": {
+      "Key": "weapon-long-sword-wyvern-blade-luna",
+      "Translation": "ワイバーンブレイド「ルナ」"
+    },
+    "weapon-long-sword-hellish-slasher": {
+      "Key": "weapon-long-sword-hellish-slasher",
+      "Translation": "地獄のスラッシャー"
+    },
+    "weapon-long-sword-daito-wolf": {
+      "Key": "weapon-long-sword-daito-wolf",
+      "Translation": "大東ウルフ"
+    },
+    "weapon-long-sword-soulfire-lash-styx": {
+      "Key": "weapon-long-sword-soulfire-lash-styx",
+      "Translation": "Soulfireラッシュ「三途の川」"
+    },
+    "weapon-long-sword-soulfire-lash-blaze": {
+      "Key": "weapon-long-sword-soulfire-lash-blaze",
+      "Translation": "Soulfireラッシュ「ブレイズ」"
+    },
+    "weapon-tree-stygian-zinogre-tree": {
+      "Key": "weapon-tree-stygian-zinogre-tree",
+      "Translation": "ステイジアンZinogreツリー"
+    },
+    "weapon-long-sword-brimstren-drakebone": {
+      "Key": "weapon-long-sword-brimstren-drakebone",
+      "Translation": "Brimstren Drakebone"
+    },
+    "weapon-long-sword-stygian-gula": {
+      "Key": "weapon-long-sword-stygian-gula",
+      "Translation": "ステイジアンGULA"
+    },
+    "weapon-long-sword-mad-scavenger-pickaxe": {
+      "Key": "weapon-long-sword-mad-scavenger-pickaxe",
+      "Translation": "マッドスカベンジャーつるはし"
+    },
+    "weapon-long-sword-demon-scavenger-pickaxe": {
+      "Key": "weapon-long-sword-demon-scavenger-pickaxe",
+      "Translation": "悪魔スカベンジャーつるはし"
+    },
+    "weapon-tree-safijiiva-tree": {
+      "Key": "weapon-tree-safijiiva-tree",
+      "Translation": "Safi'jiivaツリー"
+    },
+    "weapon-long-sword-safis-hellblade": {
+      "Key": "weapon-long-sword-safis-hellblade",
+      "Translation": "サフィのHellblade"
+    },
+    "weapon-long-sword-safis-aquablade": {
+      "Key": "weapon-long-sword-safis-aquablade",
+      "Translation": "サフィのAquablade"
+    },
+    "weapon-long-sword-safis-boltblade": {
+      "Key": "weapon-long-sword-safis-boltblade",
+      "Translation": "サフィのBoltblade"
+    },
+    "weapon-long-sword-safis-frostblade": {
+      "Key": "weapon-long-sword-safis-frostblade",
+      "Translation": "サフィのFrostblade"
+    },
+    "weapon-long-sword-safis-bindblade": {
+      "Key": "weapon-long-sword-safis-bindblade",
+      "Translation": "サフィのBindblade"
+    },
+    "weapon-long-sword-safis-drakblade": {
+      "Key": "weapon-long-sword-safis-drakblade",
+      "Translation": "サフィのDrakblade"
+    },
+    "weapon-long-sword-safis-dreamblade": {
+      "Key": "weapon-long-sword-safis-dreamblade",
+      "Translation": "サフィのDreamblade"
+    },
+    "weapon-long-sword-safis-shatterblade": {
+      "Key": "weapon-long-sword-safis-shatterblade",
+      "Translation": "サフィのShatterblade"
+    },
+    "weapon-long-sword-safis-venomblade": {
+      "Key": "weapon-long-sword-safis-venomblade",
+      "Translation": "サフィのVenomblade"
+    },
+    "weapon-long-sword-great-demon-halberd": {
+      "Key": "weapon-long-sword-great-demon-halberd",
+      "Translation": "大魔王ハルバード"
     }
   }

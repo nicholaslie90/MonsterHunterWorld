@@ -725,6 +725,23 @@ export default class WeaponSubDetailScreen extends React.PureComponent {
             </View>
         }
 
+        let awakenedAbilities = null;
+        if (params.item.awakenedAbilities !== undefined) {
+            awakenedAbilities = <View style={styles.textContainer}>
+                <View style={styles.leftContainer}>
+                    <View style={{flex: 1, flexDirection: 'row', alignItems: 'center'}}>
+                        <Image source={require('../assets/weapons/icon_awakened_abilities.png')}
+                               style={globalStyles.leftImage}/>
+                        <Text style={[{alignItems: 'flex-end', textAlign: 'left'}, themeText]}>Awakened Abilities</Text>
+                    </View>
+                </View>
+
+                <View style={styles.rightContainer}>
+                    <Text style={[{textAlign: 'right'}, themeText]}>{params.item.awakenedAbilities}</Text>
+                </View>
+            </View>
+        }
+
         let materials = null;
         let hasMaterial = false;
         if (params.item.materials !== undefined) {
@@ -959,6 +976,9 @@ export default class WeaponSubDetailScreen extends React.PureComponent {
 
                             {/*Augmentations*/}
                             {augmentations}
+
+                            {/*Awakened Abilities*/}
+                            {awakenedAbilities}
 
                             {/*Description*/}
                             {description}
