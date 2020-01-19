@@ -165,7 +165,7 @@ export default {
     },
     "armor-diablos-description": {
       "Key": "armor-diablos-description",
-      "Translation": "แตรตัวหนาบน Diablos นี้ชุดเกราะที่มีความท้าทายในการใด ๆ ที่สงสัยกฎของคุณมากกว่าหาดทราย"
+      "Translation": "แตรตัวหนาบน Diablos นี้ชุดเกราะที่มีความท้าทายใด ๆ ที่สงสัยกฎกว่าหาดทราย"
     },
     "armor-diablos-nero-description": {
       "Key": "armor-diablos-nero-description",
@@ -1349,7 +1349,7 @@ export default {
     },
     "armor-hr-girros-vambraces-beta": {
       "Key": "armor-hr-girros-vambraces-beta",
-      "Translation": "Girros vambraces บาท"
+      "Translation": "Girros vambraces เอสเอส"
     },
     "armor-hr-guild-cross-alpha": {
       "Key": "armor-hr-guild-cross-alpha",
@@ -1769,7 +1769,7 @@ export default {
     },
     "armor-hr-kaiser-coil-gamma": {
       "Key": "armor-hr-kaiser-coil-gamma",
-      "Translation": "ไกเซอร์คอยล์γ"
+      "Translation": "Kaiser คอยล์γ"
     },
     "armor-hr-kaiser-crown-alpha": {
       "Key": "armor-hr-kaiser-crown-alpha",
@@ -2541,7 +2541,7 @@ export default {
     },
     "armor-hr-pukei-mail-beta": {
       "Key": "armor-hr-pukei-mail-beta",
-      "Translation": "Pukei จดหมายเอสเอส"
+      "Translation": "Pukei เมล์บาท"
     },
     "armor-hr-pukei-vambraces-alpha": {
       "Key": "armor-hr-pukei-vambraces-alpha",
@@ -2605,7 +2605,7 @@ export default {
     },
     "armor-hr-rath-heart-greaves-beta": {
       "Key": "armor-hr-rath-heart-greaves-beta",
-      "Translation": "เคาะหัวใจนับบาท"
+      "Translation": "ไทยรัฐหัวใจนับบาท"
     },
     "armor-hr-rath-heart-helm-alpha": {
       "Key": "armor-hr-rath-heart-helm-alpha",
@@ -2613,7 +2613,7 @@ export default {
     },
     "armor-hr-rath-heart-helm-beta": {
       "Key": "armor-hr-rath-heart-helm-beta",
-      "Translation": "เคาะหัวใจ Helm บาท"
+      "Translation": "ไทยรัฐหัวใจ Helm บาท"
     },
     "armor-hr-rath-heart-mail-alpha": {
       "Key": "armor-hr-rath-heart-mail-alpha",
@@ -2701,7 +2701,7 @@ export default {
     },
     "armor-hr-rathalos-helm-beta": {
       "Key": "armor-hr-rathalos-helm-beta",
-      "Translation": "Rathalos Helm บาท"
+      "Translation": "Rathalos Helm เอสเอส"
     },
     "armor-hr-rathalos-mail-alpha": {
       "Key": "armor-hr-rathalos-mail-alpha",
@@ -3061,7 +3061,7 @@ export default {
     },
     "armor-hr-vespoid-mail-alpha": {
       "Key": "armor-hr-vespoid-mail-alpha",
-      "Translation": "Vespoid จดหมาย⍺"
+      "Translation": "⍺ Vespoid จดหมาย"
     },
     "armor-hr-vespoid-mail-beta": {
       "Key": "armor-hr-vespoid-mail-beta",
@@ -3229,7 +3229,7 @@ export default {
     },
     "armor-hunters-greaves-description": {
       "Key": "armor-hunters-greaves-description",
-      "Translation": "เกราะใช้กันอย่างแพร่หลายในหมู่นักล่า กางเกง Basic สำหรับภายในสภาพแวดล้อมใด ๆ"
+      "Translation": "เกราะใช้กันอย่างแพร่หลายในหมู่นักล่า กางเกง Basic สำหรับ traversing สภาพแวดล้อมใด ๆ"
     },
     "armor-hunters-headgear-description": {
       "Key": "armor-hunters-headgear-description",
@@ -3269,7 +3269,7 @@ export default {
     },
     "armor-kirin-description": {
       "Key": "armor-kirin-description",
-      "Translation": "ดอนนี่เกราะ Kirin งดงามและวิ่งผ่านป่าที่อยู่อาศัยออกจินตนาการของคุณ wildest ม้า"
+      "Translation": "ดอนเกราะนี้ Kirin งดงามและวิ่งผ่านป่าที่อยู่อาศัยออกจินตนาการของคุณ wildest ม้า"
     },
     "armor-kulu-description": {
       "Key": "armor-kulu-description",
@@ -4001,7 +4001,7 @@ export default {
     },
     "armor-lr-odogaron-greaves": {
       "Key": "armor-lr-odogaron-greaves",
-      "Translation": "Odogaron สนับ"
+      "Translation": "Odogaron นับ"
     },
     "armor-lr-odogaron-helm": {
       "Key": "armor-lr-odogaron-helm",
@@ -4469,7 +4469,7 @@ export default {
     },
     "armor-mr-banbaro-mail-beta-plus": {
       "Key": "armor-mr-banbaro-mail-beta-plus",
-      "Translation": "Banbaro จดหมาย SS +"
+      "Translation": "Banbaro เมล์บาท +"
     },
     "armor-mr-banbaro-vambraces-alpha-plus": {
       "Key": "armor-mr-banbaro-vambraces-alpha-plus",
@@ -4621,7 +4621,7 @@ export default {
     },
     "armor-mr-beo-helm-beta-plus": {
       "Key": "armor-mr-beo-helm-beta-plus",
-      "Translation": "Beo Helm บาท +"
+      "Translation": "Beo พวงมาลัย SS +"
     },
     "armor-mr-beo-mail-alpha-plus": {
       "Key": "armor-mr-beo-mail-alpha-plus",
@@ -4869,7 +4869,7 @@ export default {
     },
     "armor-mr-damascus-beta-plus": {
       "Key": "armor-mr-damascus-beta-plus",
-      "Translation": "ดามัสกัสบาท +"
+      "Translation": "เมืองดามัสกัสบาท +"
     },
     "armor-mr-damascus-coil-alpha-plus": {
       "Key": "armor-mr-damascus-coil-alpha-plus",
@@ -6057,7 +6057,7 @@ export default {
     },
     "armor-mr-legiana-helm-beta-plus": {
       "Key": "armor-mr-legiana-helm-beta-plus",
-      "Translation": "Legiana Helm บาท +"
+      "Translation": "Legiana พวงมาลัยบาท +"
     },
     "armor-mr-legiana-mail-alpha-plus": {
       "Key": "armor-mr-legiana-mail-alpha-plus",
@@ -6313,7 +6313,7 @@ export default {
     },
     "armor-mr-pride-mail-beta-plus": {
       "Key": "armor-mr-pride-mail-beta-plus",
-      "Translation": "ความภาคภูมิใจจดหมาย SS +"
+      "Translation": "ความภาคภูมิใจจดหมาย + SS"
     },
     "armor-mr-pride-vambraces-alpha-plus": {
       "Key": "armor-mr-pride-vambraces-alpha-plus",
@@ -7161,7 +7161,7 @@ export default {
     },
     "armor-odogaron-description": {
       "Key": "armor-odogaron-description",
-      "Translation": "ไม่มีคนที่วางตาตามนี้เกราะ Odogaron จะเห็นอีกครั้งในขณะที่มันผุกร่อนสติของผู้สวมใส่"
+      "Translation": "ไม่มีคนที่วางตาบนนี้เกราะ Odogaron จะเห็นอีกครั้งในขณะที่มันผุกร่อนสติของผู้สวมใส่"
     },
     "armor-orion-description": {
       "Key": "armor-orion-description",
@@ -7593,7 +7593,7 @@ export default {
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics-tips": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics-tips",
-      "Translation": "รางวัลนี้สามารถหยิบขึ้นมาที่นักวิจัย Lynian ในแอสเทราหลังจากที่คุณได้เสร็จสิ้นแรก 4 เควส Lynian วิจัย นักวิจัยขอให้คุณค้นพบ 10 Gajalaka Doodles. \\ n \\ n เป็นสิ่งสำคัญที่จะต้องทราบว่าสิ่งเหล่านี้วางไข่เฉพาะในช่วงนี้และรางวัลเฉพาะในสถานที่สูงอันดับ คุณสามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 5 และ 1 เส้นขยุกขยิกในพื้นที่ 15 ในป่าโบราณ คุณสามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 3 และ 1 เส้นขยุกขยิกในพื้นที่ 7 ใน Wildspire เสีย. \\ n \\ n สามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 12 ใน Coral ไฮแลนด์ คุณสามารถค้นหา 2 ภาพดูเดิลในพื้นที่ 3 และ 3 ภาพดูเดิลในพื้นที่ 15 ในเน่าร์ทเวล เมื่อคุณกลับไปแอสเทรานักวิจัยต้องการให้ท่านออกไปหาค่าย Gajalaka. \\ n \\ n การค้นหานักวิจัยในพื้นที่ 8 มังกรพักผ่อน ในการเริ่มต้นเงินรางวัลที่จะต้องมีในเวลากลางคืน วางบน Ghillie เสื้อคลุมและพูดคุยของคุณจะเป็นผู้นำที่แคมป์ไฟในด้านหลังของค่าย รางวัล: ตอนนี้ Palico ของคุณสามารถใช้ค๊อกเทล meowlotov และพูดคุยกับ Gastodon"
+      "Translation": "รางวัลนี้สามารถหยิบขึ้นมาที่นักวิจัย Lynian ในแอสเทราหลังจากที่คุณได้เสร็จสิ้นแรก 4 เควส Lynian วิจัย นักวิจัยขอให้คุณค้นพบ 10 Gajalaka Doodles. \\ n \\ n เป็นสิ่งสำคัญที่จะต้องทราบว่าสิ่งเหล่านี้วางไข่เฉพาะในช่วงนี้และรางวัลเฉพาะในสถานที่สูงอันดับ คุณสามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 5 และ 1 เส้นขยุกขยิกในพื้นที่ 15 ในป่าโบราณ ท่านสามารถค้นหาข้อมูล 1 เส้นขยุกขยิกในพื้นที่ 3 และ 1 เส้นขยุกขยิกในพื้นที่ 7 ใน Wildspire เสีย. \\ n \\ n สามารถค้นหา 1 เส้นขยุกขยิกในพื้นที่ 12 ใน Coral ไฮแลนด์ คุณสามารถค้นหา 2 ภาพดูเดิลในพื้นที่ 3 และ 3 ภาพดูเดิลในพื้นที่ 15 ในเน่าร์ทเวล เมื่อคุณกลับไปแอสเทรานักวิจัยต้องการให้ท่านออกไปหาค่าย Gajalaka. \\ n \\ n การค้นหานักวิจัยในพื้นที่ 8 มังกรพักผ่อน ในการเริ่มต้นเงินรางวัลที่จะต้องมีในเวลากลางคืน วางบน Ghillie เสื้อคลุมและพูดคุยของคุณจะเป็นผู้นำที่แคมป์ไฟในด้านหลังของค่าย รางวัล: ตอนนี้ Palico ของคุณสามารถใช้ค๊อกเทล meowlotov และพูดคุยกับ Gastodon"
     },
     "critical-bounties-important": {
       "Key": "critical-bounties-important",
@@ -7613,7 +7613,7 @@ export default {
     },
     "critical-bounties-plunderers-tips": {
       "Key": "critical-bounties-plunderers-tips",
-      "Translation": "ในเน่า Vale:. คุณจะต้องสำเร็จ“เข้าไปในลำไส้ของหุบเขา” และสามารถเข้าถึงส่วนล่างของเน่าหุบเขาก่อนที่คุณจะสามารถหาหัวขโมย \\ n \\ n Plunderer สามารถพบได้โดยรอต่อไปกับนักวิจัย Lynian ในพื้นที่ 13 (ภาคกลางค่าย (11)) เมื่อทุก 5 ถึง 10 นาทีลาดตระเวน Odegaron ที่ผ่านมานักวิจัย Lynian และหยดศพ Legiana บนพื้นดิน เร็ว ๆ นี้หลังจาก Plunderer ปรากฏที่ศพ Legiana และมันจะหนีไปถ้าคุณได้ใกล้ชิด. \\ n \\ nFollow Plunderer ไปยังพื้นที่ 15 และวางก้อนดิบเนื้อสัตว์ที่อยู่ใกล้หิน ใช้ระยะทางบางและรอจนกว่าปล้นเริ่มกินเนื้อ พูดคุยกับหัวขโมยที่จะเสร็จสมบูรณ์โปรดปราน รางวัล: Palico ของคุณในขณะนี้สามารถใช้ plunderblade และพูดคุยกับ Girros"
+      "Translation": "ในเน่า Vale:. คุณจะต้องสำเร็จ“เข้าไปในลำไส้ของหุบเขา” และสามารถเข้าถึงส่วนล่างของเน่าหุบเขาก่อนที่คุณจะสามารถหาหัวขโมย \\ n \\ n Plunderer สามารถพบได้โดยรอต่อไปกับนักวิจัย Lynian ในพื้นที่ 13 (ภาคกลางค่าย (11)) เมื่อทุก 5 ถึง 10 นาทีลาดตระเวน Odegaron ที่ผ่านมานักวิจัย Lynian และหยดศพ Legiana บนพื้นดิน เร็ว ๆ นี้หลังจาก Plunderer ปรากฏที่ศพ Legiana และมันจะหนีไปถ้าคุณได้ใกล้ชิด. \\ n \\ nFollow Plunderer ไปยังพื้นที่ 15 และวางก้อนดิบเนื้อซึ่งอยู่ใกล้กับโขดหิน ใช้ระยะทางบางและรอจนกว่าปล้นเริ่มกินเนื้อ พูดคุยกับหัวขโมยที่จะเสร็จสมบูรณ์โปรดปราน รางวัล: Palico ของคุณในขณะนี้สามารถใช้ plunderblade และพูดคุยกับ Girros"
     },
     "critical-bounties-protectors": {
       "Key": "critical-bounties-protectors",
@@ -7693,7 +7693,7 @@ export default {
     },
     "critical-bounties-research-help-pink-parexus-capture": {
       "Key": "critical-bounties-research-help-pink-parexus-capture",
-      "Translation": "ช่วยเหลือการวิจัย: สีชมพู Parexus จับภาพ"
+      "Translation": "ช่วยให้การวิจัย: ชมพู Parexus จับภาพ"
     },
     "critical-bounties-research-help-pink-parexus-capture-tips": {
       "Key": "critical-bounties-research-help-pink-parexus-capture-tips",
@@ -7753,7 +7753,7 @@ export default {
     },
     "endemic-life-andangler-description": {
       "Key": "endemic-life-andangler-description",
-      "Translation": "พวกเขาชอบที่จะวาดบิน Meduso ต่อแสงและ ... Chomp ของพวกเขา! แน่นอนมันจะคุ้มค่าเข้าพักเพิ่มขึ้นตลอดทั้งคืนเพื่อดูพวกเขาในการกระทำ!"
+      "Translation": "พวกเขาชอบที่จะวาดบิน Meduso กับแสงและ ... Chomp ของตน! แน่นอนมันจะคุ้มค่าเข้าพักเพิ่มขึ้นตลอดทั้งคืนเพื่อดูพวกเขาในการกระทำ!"
     },
     "endemic-life-augurfly-description": {
       "Key": "endemic-life-augurfly-description",
@@ -8605,7 +8605,7 @@ export default {
     },
     "monster-azure-rathalos-useful-information": {
       "Key": "monster-azure-rathalos-useful-information",
-      "Translation": "ตอบโต้การโจมตีทางอากาศของตนโดยการสังเกตรูปแบบการบินและการหาช่วงเวลาที่เหมาะสมที่จะทำให้มันออกมาจากท้องฟ้า เมื่อลงดินจะสูญเสียความสามารถในการดำเนินการโจมตีต่อเนื่องทำให้การต่อสู้ง่ายมาก"
+      "Translation": "ตอบโต้การโจมตีทางอากาศโดยการสังเกตรูปแบบและการบินการหาช่วงเวลาที่เหมาะสมที่จะทำให้มันออกมาจากท้องฟ้า เมื่อลงดินจะสูญเสียความสามารถในการดำเนินการโจมตีต่อเนื่องทำให้การต่อสู้ง่ายมาก"
     },
     "monster-banbaro": {
       "Key": "monster-banbaro",
@@ -8629,7 +8629,7 @@ export default {
     },
     "monster-barroth-characteristics": {
       "Key": "monster-barroth-characteristics",
-      "Translation": "Barroth หามด, สแน็คที่ชื่นชอบของพวกเขาและทำเครื่องหมายอาณาเขตของตนไปด้วยโคลน พวกเขาโจมตีคู่แข่งที่มีศักยภาพทำลายล้างโจมตีชาร์จ"
+      "Translation": "Barroth หามด, สแน็คพวกเขาชื่นชอบและทำเครื่องหมายอาณาเขตของตนไปด้วยโคลน พวกเขาโจมตีคู่แข่งที่มีศักยภาพทำลายล้างโจมตีชาร์จ"
     },
     "monster-barroth-useful-information": {
       "Key": "monster-barroth-useful-information",
@@ -8701,7 +8701,7 @@ export default {
     },
     "monster-deviljho-useful-information": {
       "Key": "monster-deviljho-useful-information",
-      "Translation": "เมื่อแค้น Deviljho ของกล้ามเนื้อบวมเรืองแสงสีแดงนรก มันก็จะเริ่มพ่นโจมตีธาตุมังกรกวาดเพื่อให้ดูระยะทางของคุณ การเข้าพัก Deviljho ในการโจมตีแม้ในขณะที่ได้รับบาดเจ็บ แต่ไม่ให้ขึ้น; ให้การต่อสู้และคุณจะออกมาด้านบน"
+      "Translation": "เมื่อแค้น Deviljho ของกล้ามเนื้อบวมเรืองแสงสีแดงนรก มันก็จะเริ่มพ่นโจมตีธาตุมังกรกวาดเพื่อให้ดูระยะทางของคุณ การเข้าพัก Deviljho ในการโจมตีแม้ในขณะที่ได้รับบาดเจ็บ แต่ไม่ให้ขึ้น; ให้ต่อสู้และคุณจะออกมาด้านบน"
     },
     "monster-diablos": {
       "Key": "monster-diablos",
@@ -8885,7 +8885,7 @@ export default {
     },
     "monster-kushala-daora-useful-information": {
       "Key": "monster-kushala-daora-useful-information",
-      "Translation": "เมื่อเผชิญหน้ากับศัตรู Kushala โล่ลมอย่างต่อเนื่องเติบโตในความรุนแรงในที่สุดเบนคันธนูและ Bowgun โจมตี โล่ลมที่มีความสามารถลดลงโดยส่ายมันโดยเฉพาะอย่างยิ่งด้วยอาวุธที่มีความสามารถ Elderseal"
+      "Translation": "เมื่อเผชิญหน้ากับศัตรู Kushala โล่ลมอย่างต่อเนื่องเติบโตในความรุนแรงที่สุด deflecting คันธนูและ Bowgun โจมตี โล่ลมมันสามารถอ่อนแอโดยส่ายมันโดยเฉพาะอย่างยิ่งด้วยอาวุธที่มีความสามารถ Elderseal"
     },
     "monster-lavasioth": {
       "Key": "monster-lavasioth",
@@ -8993,7 +8993,7 @@ export default {
     },
     "monster-odogaron-characteristics": {
       "Key": "monster-odogaron-characteristics",
-      "Translation": "มอนสเตอร์ที่น่ากลัวที่ scours เน่า Vale ซากศพ ธรรมชาติวิธีก้าวร้าวสูงว่าอะไรไม่ว่าจะเป็นสัตว์ประหลาดหรือมนุษย์เป็นอาหารที่มีศักยภาพ"
+      "Translation": "มอนสเตอร์ที่น่ากลัวที่ scours เน่าหุบเขาซากศพ ธรรมชาติวิธีก้าวร้าวสูงว่าอะไรไม่ว่าจะเป็นสัตว์ประหลาดหรือมนุษย์เป็นอาหารที่มีศักยภาพ"
     },
     "monster-odogaron-useful-information": {
       "Key": "monster-odogaron-useful-information",
@@ -9165,7 +9165,7 @@ export default {
     },
     "monster-uragaan-characteristics": {
       "Key": "monster-uragaan-characteristics",
-      "Translation": "เดรัจฉานขนาดใหญ่ Wyverns ฟีดแร่ที่ใช้ขากรรไกรอันยิ่งใหญ่ของพวกเขาที่จะวิ่งหินแข็งผง พวกเขาได้รับทราบเพื่อ Lavasioths เผชิญหน้ากับข้อพิพาทดินแดน"
+      "Translation": "เดรัจฉานขนาดใหญ่ Wyverns กินแร่ที่ใช้ขากรรไกรอันยิ่งใหญ่ของพวกเขาที่จะวิ่งหินแข็งผง พวกเขาได้รับทราบเพื่อ Lavasioths เผชิญหน้ากับข้อพิพาทดินแดน"
     },
     "monster-uragaan-useful-information": {
       "Key": "monster-uragaan-useful-information",
@@ -9269,7 +9269,7 @@ export default {
     },
     "play-guide-archdemon-mode": {
       "Key": "play-guide-archdemon-mode",
-      "Translation": "โหมด archdemon"
+      "Translation": "โหมดการ archdemon"
     },
     "play-guide-archdemon-mode-description": {
       "Key": "play-guide-archdemon-mode-description",
@@ -9277,7 +9277,7 @@ export default {
     },
     "play-guide-armor-skills": {
       "Key": "play-guide-armor-skills",
-      "Translation": "ทักษะเกราะ"
+      "Translation": "เกราะทักษะ"
     },
     "play-guide-armor-skills-description": {
       "Key": "play-guide-armor-skills-description",
@@ -9365,7 +9365,7 @@ export default {
     },
     "play-guide-breaking-monster-parts-description": {
       "Key": "play-guide-breaking-monster-parts-description",
-      "Translation": "มุ่งเน้นไปที่การโจมตีของคุณในส่วนของร่างกายโดยเฉพาะอาจทำลายพวกเขาลดลงมอนสเตอร์และบางครั้งการ จำกัด การเคลื่อนไหวหรือการโจมตีของมัน นอกจากนี้ยังมีวัสดุที่สามารถนำมาได้เพียงบางส่วนจากการทำลาย"
+      "Translation": "มุ่งเน้นไปที่การโจมตีของคุณในส่วนของร่างกายโดยเฉพาะอาจทำลายพวกเขาลดลงมอนสเตอร์และบางครั้งการ จำกัด การเคลื่อนไหวหรือการโจมตีของมัน นอกจากนั้นยังมีวัสดุที่สามารถนำมาได้เพียงบางส่วนจากการทำลาย"
     },
     "play-guide-breaking-parts": {
       "Key": "play-guide-breaking-parts",
@@ -9465,7 +9465,7 @@ export default {
     },
     "play-guide-charged-slide-description": {
       "Key": "play-guide-charged-slide-description",
-      "Translation": "ที่วางจำหน่าย R2 ในระหว่างการสไลด์ที่เรียกเก็บในการดำเนินการทางอากาศสปินหรือห่วงโซ่สไลด์พุ่งเข้ามาในการเคลื่อนไหวอื่น ๆ โดยการกดปุ่มโจมตี"
+      "Translation": "ที่วางจำหน่ายในช่วง R2 สไลด์ที่เรียกเก็บในการดำเนินการทางอากาศสปินหรือห่วงโซ่สไลด์พุ่งเข้ามาในการเคลื่อนไหวอื่น ๆ โดยการกดปุ่มโจมตี"
     },
     "play-guide-charms": {
       "Key": "play-guide-charms",
@@ -9513,7 +9513,7 @@ export default {
     },
     "play-guide-crouching-and-camouflage-description": {
       "Key": "play-guide-crouching-and-camouflage-description",
-      "Translation": "กดปุ่มหลบในขณะที่ยืนยังคงหมอบ Crouching ในแปรงให้สิทธิ์แก่คุณอำพรางเพื่อให้คุณสามารถซ่อนตัวจากมอนสเตอร์"
+      "Translation": "กดปุ่มหลบในขณะที่ยืนยังคงหมอบ Crouching ในแปรงอนุญาตให้คุณอำพรางเพื่อให้คุณสามารถซ่อนจากมอนสเตอร์"
     },
     "play-guide-cultivating-items": {
       "Key": "play-guide-cultivating-items",
@@ -9529,7 +9529,7 @@ export default {
     },
     "play-guide-customizing-your-bowgun-description": {
       "Key": "play-guide-customizing-your-bowgun-description",
-      "Translation": "Bowguns สามารถใช้ mods ที่กำหนดเองเพื่อเปิดใช้งานการปิดกั้นอัตโนมัติเวลาโหลดสั้นลงและอื่น ๆ คุณยังสามารถจัดให้เหมือนกันพอควรหลายครั้งในการปรับปรุงผลกระทบของมัน"
+      "Translation": "Bowguns สามารถใช้ mods ที่กำหนดเองเพื่อเปิดใช้งานการปิดกั้นอัตโนมัติเวลาโหลดสั้นลงและอื่น ๆ คุณยังสามารถติดตั้ง mod เดียวกันหลายครั้งในการปรับปรุงผลกระทบของมัน"
     },
     "play-guide-damage-reduction": {
       "Key": "play-guide-damage-reduction",
@@ -9545,7 +9545,7 @@ export default {
     },
     "play-guide-dash-attacks-description": {
       "Key": "play-guide-dash-attacks-description",
-      "Translation": "ระหว่างการโจมตีประคุณยังสามารถดำเนินการอื่น ๆ เช่น sidesteps ผลัด 180 องศากระโดดและยาม"
+      "Translation": "ระหว่างการโจมตีประคุณยังสามารถดำเนินการอย่างอื่นเช่น sidesteps ผลัด 180 องศากระโดดและยาม"
     },
     "play-guide-dash-stepping-and-guard-dashing": {
       "Key": "play-guide-dash-stepping-and-guard-dashing",
@@ -9977,7 +9977,7 @@ export default {
     },
     "play-guide-leaping-wide-slash-description": {
       "Key": "play-guide-leaping-wide-slash-description",
-      "Translation": "เพราะข้อเสนอที่การโจมตีครั้งนี้ธาตุมากขึ้นและสถานะ inflicing ความเสียหายกว่าคนอื่น ๆ ก็มีประโยชน์มากที่สุดเมื่อจับคู่กับดาบที่ดีแข็งแรงธาตุ"
+      "Translation": "เพราะข้อเสนอที่การโจมตีนี้ธาตุมากขึ้นและสถานะ inflicing ความเสียหายกว่าคนอื่น ๆ ก็มีประโยชน์มากที่สุดเมื่อจับคู่กับดาบที่ดีแข็งแรงธาตุ"
     },
     "play-guide-light-bowgun-tip": {
       "Key": "play-guide-light-bowgun-tip",
@@ -10321,11 +10321,11 @@ export default {
     },
     "play-guide-setting-decorations-description": {
       "Key": "play-guide-setting-decorations-description",
-      "Translation": "คุณสามารถ ATACH หรือลบการตกแต่งที่โรงตีเหล็กหรือกล่องรายการ"
+      "Translation": "ท่านสามารถ ATACH หรือลบการตกแต่งที่โรงตีเหล็กหรือกล่องรายการ"
     },
     "play-guide-sharpness": {
       "Key": "play-guide-sharpness",
-      "Translation": "ความคม"
+      "Translation": "Sharpness"
     },
     "play-guide-sharpness-description": {
       "Key": "play-guide-sharpness-description",
@@ -10653,7 +10653,7 @@ export default {
     },
     "play-guide-the-research-base-description": {
       "Key": "play-guide-the-research-base-description",
-      "Translation": "นักวิจัยประกอบด้วย 90% ของกองเรือที่สามซึ่งมีฐาน currnetly พักผ่อนในมหาราช Ravine เรือเดินสมุทรที่สามถูกขังอยู่หลังบอลลูนเรือเหาะของพวกเขาถูกทำลายโดยมอนสเตอร์ พวกเขากำลังดำเนินการวิจัยเกี่ยวกับเน่าร์ทเวล"
+      "Translation": "นักวิจัยประกอบด้วย 90% ของกองเรือที่สามซึ่งมีฐาน currnetly พักผ่อนในมหาราช Ravine เรือเดินสมุทรที่สามถูกขังอยู่หลังบอลลูนเรือเหาะพวกเขาถูกทำลายโดยมอนสเตอร์ พวกเขากำลังดำเนินการวิจัยเกี่ยวกับเน่าร์ทเวล"
     },
     "play-guide-the-research-commission": {
       "Key": "play-guide-the-research-commission",
@@ -10861,7 +10861,7 @@ export default {
     },
     "play-guide-wyvernblast-description": {
       "Key": "play-guide-wyvernblast-description",
-      "Translation": "ระเบิดที่เกิดจาก Wyvernblast กระสุนแตกต่างกันไปขึ้นอยู่กับประเภทของการโจมตีที่ใช้ การโจมตีที่มีประสิทธิภาพมากขึ้นจะสร้างระเบิดมีประสิทธิภาพมากขึ้น"
+      "Translation": "ระเบิดที่เกิดจาก Wyvernblast กระสุนแตกต่างกันไปขึ้นอยู่กับประเภทของการโจมตีที่ใช้ การโจมตีที่มีประสิทธิภาพมากขึ้นจะสร้างการระเบิดมีพลังมากขึ้น"
     },
     "poogie-about-poogie": {
       "Key": "poogie-about-poogie",
@@ -10949,7 +10949,7 @@ export default {
     },
     "poogie-petting-poogie-text": {
       "Key": "poogie-petting-poogie-text",
-      "Translation": "สัตว์เลี้ยง Poogie แนวทางและกดปุ่มสำหรับสัตว์เลี้ยง รอจนกว่าเครื่องหมายอัศเจรีย์ปรากฏขึ้นเหนือศีรษะและกดวงกลมในการควบคุมของคุณ ทำเช่นนี้ครั้งพอ Poogie จะเริ่มชอบคุณ"
+      "Translation": "สัตว์เลี้ยง Poogie แนวทางและกดปุ่มสำหรับสัตว์เลี้ยง รอจนกว่าเครื่องหมายอัศเจรีย์ปรากฏขึ้นเหนือศีรษะและกดวงกลมในการควบคุมของคุณ การทำเช่นนี้ครั้งพอ Poogie จะเริ่มชอบคุณ"
     },
     "poogie-pumpkins-revenge": {
       "Key": "poogie-pumpkins-revenge",
@@ -10981,7 +10981,7 @@ export default {
     },
     "poogie-using-poogie-text": {
       "Key": "poogie-using-poogie-text",
-      "Translation": "หากต้องการใช้ Poogie คุณจำเป็นต้องได้รับไปยังจุดที่ Poogie ทักทายคุณเมื่อกลับมาจากการสืบเสาะ เพียงเลือก Poggie ขึ้นและดำเนินไปรอบ ๆ แอสเทราจนการควบคุมของคุณเริ่มสั่นหรือสั่น Poogie ในมือของคุณแล้วใส่เขาลง เมื่อ Poogie พบรายการโต้ตอบกับมันเพื่อดึงรายการ โปรดทราบว่าคุณสามารถหาหนึ่งรายการต่อลอง หากคุณต้องการที่จะหารายการอื่นคุณจะต้องไปในภารกิจอื่นและผลตอบแทนจากการสืบเสาะเพื่อใช้ Poogie อีกครั้ง"
+      "Translation": "หากต้องการใช้ Poogie คุณจำเป็นต้องได้รับไปยังจุดที่ Poogie ทักทายคุณเมื่อกลับมาจากการสืบเสาะ เพียงเลือก Poggie ขึ้นและดำเนินไปรอบ ๆ แอสเทราจนการควบคุมของคุณเริ่มสั่นหรือสั่น Poogie ในมือของคุณแล้วใส่เขาลง เมื่อ Poogie พบรายการโต้ตอบกับมันเพื่อดึงไอเท็ม โปรดทราบว่าคุณสามารถหาหนึ่งรายการต่อลอง หากคุณต้องการที่จะหารายการอื่นคุณจะต้องไปในภารกิจอื่นและผลตอบแทนจากการสืบเสาะเพื่อใช้ Poogie อีกครั้ง"
     },
     "poogie-white-jammies": {
       "Key": "poogie-white-jammies",
@@ -11045,7 +11045,7 @@ export default {
     },
     "quest-a-colossal-task-tips": {
       "Key": "quest-a-colossal-task-tips",
-      "Translation": "เริ่มต้นโดยใช้ wingdrake ไปยังดินแดนบนโศราห์ Magdaros' กลับ ให้แน่ใจว่าจะคว้าหินบางส่วนที่อยู่ใกล้กับจุดที่เชื่อมโยงไปถึงของคุณในภายหลัง ตรงไปและคุณควรจะถึงหนึ่งโศราห์ของ Magmacore ทำลายมันเพื่อให้แน่ใจว่าหลบพ่นลาวาจากมัน Magmacore วางวัสดุที่เกี่ยวกับการทำลาย หัวหน้าสำหรับ \"หาง\" โศราห์และลงไปจนกว่าคุณจะพบถ้ำกับ Magmacore อื่นทำลายมัน. \\ n \\ nNow ทำวิธีของคุณทุกทางร่างกายโศราห์ Magdaros ที่ปีนเขาจากปีกซ้ายที่คุณควรเจอแมกหินขนาดใหญ่ คุณสามารถทำลายมันสำหรับ 30RP เมื่อที่ด้านบนคุณสามารถกระโดดลงชนิดของดีที่สุดท้าย Magmacore ยืนบางอย่างคุณสามารถทำลายมัน แต่ตอนนี้มันเป็นไปได้ Nergigante แสดงขึ้นก่อนหน้านั้นและคุณจะต้องกลับมาในภายหลัง \\ n \\ Ngôดูแลว่ารุ่นที่อ่อนแอของ Nergigante มันจะหนีไปหลังจากที่เกิดความเสียหายมากพอที่จะทำกับมันแล้วคุณต้องการที่จะทำลายเหลือ Magmacore ใด ๆ เมื่อ Magmacore ทั้งหมดจะถูกทำลายรอ Wingdrake ที่จะนำคุณใน Barrier คุณสามารถค้นหาเพลงร็อคที่จะทำลายบนปีกขวาโศราห์ของผู้อื่นในขณะที่รอ \\ n \\ N อุปสรรคปืนโหลดและไฟเพื่อให้แน่ใจว่าแถวปืนใหญ่กับตำแหน่งของโศราห์พยายามที่จะลูกยิงปืนใหญ่ 5 ในครั้งเดียวหมดโศราห์ Magdaros เมื่อไม่มีกระสุนมากขึ้นสลับไปปืนใหญ่อีก ในบางจุดที่ผู้นำทีมงานภาคสนามจะพูดคุยเกี่ยวกับ Dragonslayer ไม่ได้ใช้มันยังให้ยิงปืนใหญ่ที่ย้ายไปเล็ก ๆ น้อย ๆ โดยเรือเล็ก ๆ น้อย ๆ เมื่อไหร่? NPC? กล่าวว่าโศราห์ Magdaros ชาร์จขึ้นสำหรับการโจมตีขนาดใหญ่ใช้คันโยกบนเรือเพื่อเปิดใช้งาน Dragonslayer และหยุดการโจมตีของโศราห์ หลังจากนี้เป็นเพียงเรื่องของเวลาและปืนใหญ่ลูกจนโศราห์ Magdaros ให้ขึ้น"
+      "Translation": "เริ่มต้นโดยใช้ wingdrake ไปยังดินแดนบนโศราห์ Magdaros' กลับ ให้แน่ใจว่าจะคว้าหินบางส่วนที่อยู่ใกล้กับจุดที่เชื่อมโยงไปถึงของคุณในภายหลัง ตรงไปและคุณควรจะถึงหนึ่งโศราห์ของ Magmacore ทำลายมันเพื่อให้แน่ใจว่าหลบลาวา spewing จากมัน Magmacore วางวัสดุที่เกี่ยวกับการทำลาย หัวหน้าสำหรับ \"หาง\" โศราห์และลงไปจนกว่าคุณจะพบถ้ำ Magmacore อื่นทำลายมัน. \\ n \\ nNow ทำวิธีของคุณทุกทางร่างกายโศราห์ Magdaros ที่ปีนเขาจากปีกซ้ายที่คุณควรเจอแมกหินขนาดใหญ่ คุณสามารถทำลายมันสำหรับ 30RP เมื่อที่ด้านบนคุณสามารถกระโดดลงชนิดของดีที่สุดท้าย Magmacore ยืนบางอย่างคุณสามารถทำลายมัน แต่ตอนนี้มันเป็นไปได้ Nergigante แสดงขึ้นก่อนหน้านั้นและคุณจะต้องกลับมาในภายหลัง \\ n \\ Ngôดูแลว่ารุ่นที่อ่อนแอของ Nergigante มันจะหนีไปหลังจากที่เกิดความเสียหายมากพอที่จะทำกับมันแล้วคุณต้องการที่จะทำลายเหลือ Magmacore ใด ๆ เมื่อ Magmacore ทั้งหมดจะถูกทำลายรอ Wingdrake ที่จะนำคุณใน Barrier คุณสามารถค้นหาเพลงร็อคที่จะทำลายบนปีกขวาโศราห์ของผู้อื่นในขณะที่รอ \\ n \\ N อุปสรรคปืนโหลดและไฟเพื่อให้แน่ใจว่าแถวปืนใหญ่กับตำแหน่งของโศราห์พยายามที่จะลูกยิงปืนใหญ่ 5 ในครั้งเดียวหมดโศราห์ Magdaros เมื่อไม่มีกระสุนมากขึ้นสลับไปปืนใหญ่อีก ในบางจุดที่ผู้นำทีมงานภาคสนามจะพูดคุยเกี่ยวกับ Dragonslayer ไม่ได้ใช้มันยังให้ยิงปืนใหญ่ที่ย้ายไปเล็ก ๆ น้อย ๆ โดยเรือเล็ก ๆ น้อย ๆ เมื่อไหร่? NPC? กล่าวว่าโศราห์ Magdaros ชาร์จขึ้นสำหรับการโจมตีขนาดใหญ่ใช้คันโยกบนเรือเพื่อเปิดใช้งาน Dragonslayer และหยุดการโจมตีของโศราห์ หลังจากนี้เป็นเพียงเรื่องของเวลาและปืนใหญ่ลูกจนโศราห์ Magdaros ให้ขึ้น"
     },
     "quest-a-crown-of-mud-and-anger": {
       "Key": "quest-a-crown-of-mud-and-anger",
@@ -11073,7 +11073,7 @@ export default {
     },
     "quest-a-fiery-throne-atop-the-forest-description": {
       "Key": "quest-a-fiery-throne-atop-the-forest-description",
-      "Translation": "The First Wyverian ไม่ได้จะปูดเกี่ยวกับโศราห์จนกว่าเราจะยืนอยู่ด้านบนของห่วงโซ่อาหาร นั่นหมายความว่าเราต้องตามล่าเรา Rathalos! ... นั่นหมายความว่าเราจะต้องกินมันเกินไป?"
+      "Translation": "The First Wyverian ไม่ได้จะปูดเกี่ยวกับโศราห์จนกว่าเราจะยืนอยู่ด้านบนของห่วงโซ่อาหาร นั่นหมายความว่าเราต้องตามล่าเรา Rathalos! ... หมายความว่าเราจะต้องกินมันเกินไป?"
     },
     "quest-a-flash-in-the-pan": {
       "Key": "quest-a-flash-in-the-pan",
@@ -11165,7 +11165,7 @@ export default {
     },
     "quest-a-rotten-thing-to-do-tips": {
       "Key": "quest-a-rotten-thing-to-do-tips",
-      "Translation": "เควสนี้ได้คุณจัดการกับ effluvium พื้นที่กว้างก๊าซความเสียหายซื้อขายถาวร ขณะที่เสียงที่น่ารำคาญคุณสามารถละเว้นมันด้วยทักษะที่มีกลิ่นเหม็นผู้เชี่ยวชาญพบได้บนเกราะหน้าอก Hornetaur จดหมายซึ่งเป็นเรื่องง่ายที่จะฝีมือ. (Girros คอยล์ยังมีสกิลนี้) บางต้านทานอัมพาตสามารถมามีประโยชน์มากเกินไป เริ่มต้นจากค่ายตะวันออกเฉียงใต้ (1) ทิศตะวันตกศีรษะและมองหาเส้นทางเสด็จลงมาในภาคที่ 3 เดินไปรอบ ๆ เป้าหมายระดับที่สองทั้งหมดของเน่า Vale มักจะมี Girros ต่อไปนี้ไม่กี่ รังของมันอยู่ในภาค 7 ในส่วนบน"
+      "Translation": "เควสนี้ได้คุณจัดการกับ effluvium พื้นที่กว้างก๊าซความเสียหายซื้อขายถาวร ขณะที่เสียงที่น่ารำคาญคุณสามารถละเว้นมันด้วยทักษะที่มีกลิ่นเหม็นผู้เชี่ยวชาญพบได้บนเกราะหน้าอก Hornetaur จดหมายซึ่งเป็นเรื่องง่ายที่จะฝีมือ. (Girros คอยล์ยังมีสกิลนี้) บางต้านทานอัมพาตสามารถมามีประโยชน์มากเกินไป เริ่มต้นจากค่ายตะวันออกเฉียงใต้ (1) ทิศตะวันตกศีรษะและมองหาเส้นทางเสด็จลงมาในภาค 3. เดินไปรอบ ๆ เป้าหมายระดับที่สองทั้งหมดของเน่า Vale มักจะมี Girros ต่อไปนี้ไม่กี่ รังของมันอยู่ในภาค 7 ในส่วนบน"
     },
     "quest-a-royal-pain": {
       "Key": "quest-a-royal-pain",
@@ -11173,7 +11173,7 @@ export default {
     },
     "quest-a-royal-pain-description": {
       "Key": "quest-a-royal-pain-description",
-      "Translation": "ฉันจะไม่คิดจะกลับบ้าน แต่ฉันเกลียดทุกเสียงขรมราชที่จะไปด้วย หลอดเตือนฉันว่าทำไมผมได้เข้าร่วมห้า (ตั๋วพิเศษและเพิ่มผลตอบแทนวัสดุหายาก)"
+      "Translation": "ฉันจะไม่คิดจะกลับบ้าน แต่ฉันเกลียดทุกเสียงขรมราชที่จะไปด้วย Fiver เตือนฉันว่าทำไมผมได้เข้าร่วมห้า (ตั๋วพิเศษและเพิ่มผลตอบแทนวัสดุหายาก)"
     },
     "quest-a-rush-of-blood": {
       "Key": "quest-a-rush-of-blood",
@@ -11281,7 +11281,7 @@ export default {
     },
     "quest-a-visitor-from-eorzea-description": {
       "Key": "quest-a-visitor-from-eorzea-description",
-      "Translation": "มหึมาปรากฏตัวขึ้นในผู้สูงอายุของ Recess วิธีการแบบเดิมจะไม่ทำงานเมื่อโทรที่น่าเชื่อถือ Hunte - ผจญภัยเพื่อช่วยเหลือปราบสัตว์ร้าย!"
+      "Translation": "มหึมาปรากฏในผู้สูงอายุของ Recess วิธีการแบบเดิมจะไม่ทำงานเมื่อโทรที่น่าเชื่อถือ Hunte - ผจญภัยเพื่อช่วยเหลือปราบสัตว์ร้าย!"
     },
     "quest-a-visitor-from-eorzea-extreme": {
       "Key": "quest-a-visitor-from-eorzea-extreme",
@@ -11297,7 +11297,7 @@ export default {
     },
     "quest-a-whisper-of-white-mane-description": {
       "Key": "quest-a-whisper-of-white-mane-description",
-      "Translation": "ตอนแรกผมคิดว่ามันเป็น Ilusion, จ้องมองลงมาที่ฉัน ที่หมอกสีขาวให้ฉันหนาวฉันจะไม่ลืม ฉันต้องการให้คุณช่วยยืนยันผลของฉัน"
+      "Translation": "ตอนแรกผมคิดว่ามันเป็น Ilusion, จ้องมองลงมาที่ฉัน นั่นขาวหมอกให้ฉันหนาวฉันจะไม่ลืม ฉันต้องการให้คุณช่วยยืนยันผลของฉัน"
     },
     "quest-a-wound-and-a-thirst": {
       "Key": "quest-a-wound-and-a-thirst",
@@ -11845,7 +11845,7 @@ export default {
     },
     "quest-conditions-capture-hr-tobi-kadachi": {
       "Key": "quest-conditions-capture-hr-tobi-kadachi",
-      "Translation": "จับ HR Tobi-Kadachi"
+      "Translation": "จับทรัพยากรบุคคล Tobi-Kadachi"
     },
     "quest-conditions-capture-hr-uragaan": {
       "Key": "quest-conditions-capture-hr-uragaan",
@@ -12057,7 +12057,7 @@ export default {
     },
     "quest-failure-time-expires": {
       "Key": "quest-failure-time-expires",
-      "Translation": "เวลาหมดอายุ"
+      "Translation": "เวลา expires"
     },
     "quest-flesh-cleaved-to-bone": {
       "Key": "quest-flesh-cleaved-to-bone",
@@ -12145,7 +12145,7 @@ export default {
     },
     "quest-googly-eyed-green-monster": {
       "Key": "quest-googly-eyed-green-monster",
-      "Translation": "Googly ตาปีศาจสีเขียว"
+      "Translation": "Googly ตาสีเขียวมอนสเตอร์"
     },
     "quest-googly-eyed-green-monster-description": {
       "Key": "quest-googly-eyed-green-monster-description",
@@ -12181,7 +12181,7 @@ export default {
     },
     "quest-he-taketh-it-with-his-eyes-description": {
       "Key": "quest-he-taketh-it-with-his-eyes-description",
-      "Translation": "มันเป็นมหึมาสัตว์ Eorzean ในผู้สูงอายุของ Recess ฟังคำแนะนำของ Moogle โทรเมื่อ Hunte ที่น่าเชื่อถืออื่น ๆ - การผจญภัยเพื่อช่วยเหลือระงับความหวาดกลัวนี้!"
+      "Translation": "มันเป็นมหึมาสัตว์ Eorzean, ในผู้สูงอายุของ Recess ฟังคำแนะนำของ Moogle โทรเมื่อ Hunte ที่น่าเชื่อถืออื่น ๆ - การผจญภัยเพื่อช่วยเหลือระงับความหวาดกลัวนี้!"
     },
     "quest-hellfires-stronghold": {
       "Key": "quest-hellfires-stronghold",
@@ -12205,7 +12205,7 @@ export default {
     },
     "quest-horned-tyrant-below-the-sands-description": {
       "Key": "quest-horned-tyrant-below-the-sands-description",
-      "Translation": "The First Wyverian ไม่ได้จะปูดเกี่ยวกับโศราห์จนกว่าเราจะยืนอยู่ด้านบนของห่วงโซ่อาหาร นั่นหมายความว่าเราต้องตามล่าเรา Diablos! ... นั่นหมายความว่าเราจะต้องกินมันเกินไป?"
+      "Translation": "The First Wyverian ไม่ได้จะปูดเกี่ยวกับโศราห์จนกว่าเราจะยืนอยู่ด้านบนของห่วงโซ่อาหาร นั่นหมายความว่าเราต้องตามล่าเรา Diablos! ... หมายความว่าเราจะต้องกินมันเกินไป?"
     },
     "quest-infernal-monarchy": {
       "Key": "quest-infernal-monarchy",
@@ -12933,7 +12933,7 @@ export default {
     },
     "quest-persistent-pests-description": {
       "Key": "quest-persistent-pests-description",
-      "Translation": "มีจุดที่ฉันซ่อนความลับบางอย่างเพื่อการเจริญเติบโตใหม่ต้นไม้โบราณ แต่ก็เต็มไปด้วย Hornetaurs! * ปลดล็อคช่องวิจัยพฤกษศาสตร์เมื่อเสร็จสิ้นเป็นครั้งแรก"
+      "Translation": "มีจุดที่ฉันซ่อนความลับบางอย่างที่จะเจริญเติบโตของต้นไม้ใหม่โบราณ แต่ก็เต็มไปด้วย Hornetaurs! * ปลดล็อคช่องวิจัยพฤกษศาสตร์เมื่อเสร็จสิ้นเป็นครั้งแรก"
     },
     "quest-persistent-pests-tips": {
       "Key": "quest-persistent-pests-tips",
@@ -12965,7 +12965,7 @@ export default {
     },
     "quest-prickly-predicament-tips": {
       "Key": "quest-prickly-predicament-tips",
-      "Translation": "จากเซ็นทรัลค่าย (6) ปีนเถาโดยตรงด้านนอกซ้ายและไปทางทิศเหนือเพื่อหา 3 รอบกระบองเพชรอีกหนึ่งทางเหนือของสะพานหินและอีกคนหนึ่งทางตะวันออกของ cacti ประชากรแพลตฟอร์ม (ก Diablos ต้องการที่จะเดินไปรอบ ๆ ภาค 6) จากค่ายตะวันตกเฉียงใต้ (1) ไปทางตะวันออกเฉียงใต้ที่จะหารอบกระบองเพชรแล้วหัวสำหรับส่วนทางตอนใต้ของภาค 9 ที่จะได้รับอีกคนหนึ่ง สุดท้าย, 3 หรือ 4 จุดวางไข่สามารถพบได้บนโขดหินก่อนทะเลสาบในภาค 10"
+      "Translation": "จากเซ็นทรัลค่าย (6) ปีนเถาโดยตรงด้านนอกซ้ายและไปทางทิศเหนือเพื่อหา 3 รอบกระบองเพชรอีกหนึ่งทางเหนือของสะพานหินและอีกคนหนึ่งทางตะวันออกของ cacti ประชากรแพลตฟอร์ม (ก Diablos เหมือนเดินไปรอบ ๆ ภาค 6) จากค่ายตะวันตกเฉียงใต้ (1) ไปทางตะวันออกเฉียงใต้ที่จะหารอบกระบองเพชรแล้วหัวสำหรับส่วนทางตอนใต้ของภาค 9 ที่จะได้รับอีกคนหนึ่ง สุดท้าย, 3 หรือ 4 จุดวางไข่สามารถพบอยู่บนโขดหินก่อนทะเลสาบในภาค 10"
     },
     "quest-pukei-pukei-ambush": {
       "Key": "quest-pukei-pukei-ambush",
@@ -13085,7 +13085,7 @@ export default {
     },
     "quest-ruler-of-the-azure-skies": {
       "Key": "quest-ruler-of-the-azure-skies",
-      "Translation": "ผู้ปกครองของ Azure ท้องฟ้า"
+      "Translation": "ผู้ปกครองของท้องฟ้าสีฟ้า"
     },
     "quest-ruler-of-the-azure-skies-description": {
       "Key": "quest-ruler-of-the-azure-skies-description",
@@ -13137,7 +13137,7 @@ export default {
     },
     "quest-showdown-the-muck-and-the-maul-conditions": {
       "Key": "quest-showdown-the-muck-and-the-maul-conditions",
-      "Translation": "ล่า 5 ที่แตกต่างกันมอนสเตอร์อารมณ์ (ระดับการคุกคามที่ 1 เพื่อปลดล็อค)"
+      "Translation": "ล่า 5 ที่แตกต่างกันมอนสเตอร์อารมณ์ (ระดับการคุกคามที่ 1 ถึงปลดล็อค)"
     },
     "quest-showdown-the-muck-and-the-maul-description": {
       "Key": "quest-showdown-the-muck-and-the-maul-description",
@@ -13193,7 +13193,7 @@ export default {
     },
     "quest-special-arena-anjanath-tips": {
       "Key": "quest-special-arena-anjanath-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-barroth": {
       "Key": "quest-special-arena-barroth",
@@ -13205,7 +13205,7 @@ export default {
     },
     "quest-special-arena-barroth-tips": {
       "Key": "quest-special-arena-barroth-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-diablos": {
       "Key": "quest-special-arena-diablos",
@@ -13217,7 +13217,7 @@ export default {
     },
     "quest-special-arena-diablos-tips": {
       "Key": "quest-special-arena-diablos-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-anjanath": {
       "Key": "quest-special-arena-hr-anjanath",
@@ -13225,15 +13225,15 @@ export default {
     },
     "quest-special-arena-hr-anjanath-notes": {
       "Key": "quest-special-arena-hr-anjanath-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-azure-rathalos": {
       "Key": "quest-special-arena-hr-azure-rathalos",
-      "Translation": "สนามกีฬาพิเศษ: HR Azure Rathalos"
+      "Translation": "สังเวียนพิเศษ: HR Azure Rathalos"
     },
     "quest-special-arena-hr-azure-rathalos-notes": {
       "Key": "quest-special-arena-hr-azure-rathalos-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-barroth": {
       "Key": "quest-special-arena-hr-barroth",
@@ -13241,7 +13241,7 @@ export default {
     },
     "quest-special-arena-hr-barroth-notes": {
       "Key": "quest-special-arena-hr-barroth-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-black-diablos": {
       "Key": "quest-special-arena-hr-black-diablos",
@@ -13249,7 +13249,7 @@ export default {
     },
     "quest-special-arena-hr-black-diablos-notes": {
       "Key": "quest-special-arena-hr-black-diablos-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-diablos": {
       "Key": "quest-special-arena-hr-diablos",
@@ -13257,7 +13257,7 @@ export default {
     },
     "quest-special-arena-hr-diablos-notes": {
       "Key": "quest-special-arena-hr-diablos-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-legiana": {
       "Key": "quest-special-arena-hr-legiana",
@@ -13265,7 +13265,7 @@ export default {
     },
     "quest-special-arena-hr-legiana-notes": {
       "Key": "quest-special-arena-hr-legiana-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-odogaron": {
       "Key": "quest-special-arena-hr-odogaron",
@@ -13273,7 +13273,7 @@ export default {
     },
     "quest-special-arena-hr-odogaron-notes": {
       "Key": "quest-special-arena-hr-odogaron-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-paolumu": {
       "Key": "quest-special-arena-hr-paolumu",
@@ -13281,7 +13281,7 @@ export default {
     },
     "quest-special-arena-hr-paolumu-notes": {
       "Key": "quest-special-arena-hr-paolumu-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-pink-rathian": {
       "Key": "quest-special-arena-hr-pink-rathian",
@@ -13293,7 +13293,7 @@ export default {
     },
     "quest-special-arena-hr-pukei-pukei-notes": {
       "Key": "quest-special-arena-hr-pukei-pukei-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-radobaan": {
       "Key": "quest-special-arena-hr-radobaan",
@@ -13301,7 +13301,7 @@ export default {
     },
     "quest-special-arena-hr-radobaan-notes": {
       "Key": "quest-special-arena-hr-radobaan-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-rathalos": {
       "Key": "quest-special-arena-hr-rathalos",
@@ -13313,7 +13313,7 @@ export default {
     },
     "quest-special-arena-hr-rathalos-notes": {
       "Key": "quest-special-arena-hr-rathalos-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-rathian": {
       "Key": "quest-special-arena-hr-rathian",
@@ -13321,7 +13321,7 @@ export default {
     },
     "quest-special-arena-hr-rathian-notes": {
       "Key": "quest-special-arena-hr-rathian-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-tobi-kadachi": {
       "Key": "quest-special-arena-hr-tobi-kadachi",
@@ -13329,7 +13329,7 @@ export default {
     },
     "quest-special-arena-hr-tobi-kadachi-notes": {
       "Key": "quest-special-arena-hr-tobi-kadachi-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-hr-uragaan": {
       "Key": "quest-special-arena-hr-uragaan",
@@ -13337,7 +13337,7 @@ export default {
     },
     "quest-special-arena-hr-uragaan-notes": {
       "Key": "quest-special-arena-hr-uragaan-notes",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-legiana": {
       "Key": "quest-special-arena-legiana",
@@ -13345,7 +13345,7 @@ export default {
     },
     "quest-special-arena-legiana-tips": {
       "Key": "quest-special-arena-legiana-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-odogaron": {
       "Key": "quest-special-arena-odogaron",
@@ -13353,7 +13353,7 @@ export default {
     },
     "quest-special-arena-odogaron-tips": {
       "Key": "quest-special-arena-odogaron-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-paolumu": {
       "Key": "quest-special-arena-paolumu",
@@ -13365,7 +13365,7 @@ export default {
     },
     "quest-special-arena-paolumu-tips": {
       "Key": "quest-special-arena-paolumu-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-pukei-pukei": {
       "Key": "quest-special-arena-pukei-pukei",
@@ -13373,7 +13373,7 @@ export default {
     },
     "quest-special-arena-pukei-pukei-tips": {
       "Key": "quest-special-arena-pukei-pukei-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-radobaan": {
       "Key": "quest-special-arena-radobaan",
@@ -13381,7 +13381,7 @@ export default {
     },
     "quest-special-arena-radobaan-tips": {
       "Key": "quest-special-arena-radobaan-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-rathalos": {
       "Key": "quest-special-arena-rathalos",
@@ -13389,7 +13389,7 @@ export default {
     },
     "quest-special-arena-rathalos-tips": {
       "Key": "quest-special-arena-rathalos-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-rathian": {
       "Key": "quest-special-arena-rathian",
@@ -13397,7 +13397,7 @@ export default {
     },
     "quest-special-arena-rathian-tips": {
       "Key": "quest-special-arena-rathian-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-special-arena-tobi-kadachi": {
       "Key": "quest-special-arena-tobi-kadachi",
@@ -13409,7 +13409,7 @@ export default {
     },
     "quest-special-arena-tobi-kadachi-tips": {
       "Key": "quest-special-arena-tobi-kadachi-tips",
-      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ที่ไม่ซ้ำกัน ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
+      "Translation": "สนามกีฬาพิเศษเควสหลุมเล่นกับตัวเลือกของมอนสเตอร์ขนาดใหญ่ที่อยู่บนแผนที่ unique ผู้เล่นสามารถใช้ปืน ballistae, ดักก้อนหินล้มและหลังจากจุดในเรื่องบางอย่างร้ายแรง Dragonslayer ที่จะช่วยให้พวกเขาต่อสู้กับศัตรูของพวกเขา เควสเหล่านี้ปรากฏเมื่อจับผู้เล่นมอนสเตอร์เป็นครั้งแรกของสายพันธุ์ที่กำหนดและเป็นของสูง Hunter อันดับเพียงพอ"
     },
     "quest-stirrings-from-the-grave": {
       "Key": "quest-stirrings-from-the-grave",
@@ -13561,7 +13561,7 @@ export default {
     },
     "quest-the-great-glutton-description": {
       "Key": "quest-the-great-glutton-description",
-      "Translation": "ฉันแน่ใจว่าตอนนี้คุณได้มองเห็นช่องทางที่ยิ่งใหญ่ Jagras กลืนเหยื่อของมันทั้งหมด หนึ่งได้เห็นอีกครั้งในป่า เอามันออกก่อนที่หนึ่งของนักวิจัยของฉันได้รับการ gobbled ขึ้น!"
+      "Translation": "ฉันแน่ใจว่าตอนนี้คุณได้มองเห็นช่องทางที่ยิ่งใหญ่ Jagras กลืนเหยื่อของมันทั้งหมด หนึ่งได้เห็นอีกครั้งในป่า เอามันออกก่อนที่จะเป็นหนึ่งในนักวิจัยของฉันได้รับการ gobbled ขึ้น!"
     },
     "quest-the-great-glutton-tips": {
       "Key": "quest-the-great-glutton-tips",
@@ -13749,15 +13749,15 @@ export default {
     },
     "quest-the-white-winds-of-the-new-world-notable-rewards": {
       "Key": "quest-the-white-winds-of-the-new-world-notable-rewards",
-      "Translation": "เรนโบว์เกราะสีเม็ดสีวิจัยสำนักงานคณะกรรมการกำกับตั๋ว"
+      "Translation": "สายรุ้งเกราะสีเม็ดสีวิจัยสำนักงานคณะกรรมการกำกับตั๋ว"
     },
     "quest-the-white-winds-of-the-new-world-notes": {
       "Key": "quest-the-white-winds-of-the-new-world-notes",
-      "Translation": "เฉพาะ Legiana อยู่ในที่เกิดเหตุในช่วงเริ่มต้นที่ Odogaron มาในครั้งที่สองแล้ว Diablos และในที่สุดก็ Rathalos ไข่จับเวลา / เงื่อนไขยังไม่ทราบ หลังจากเสร็จสิ้นการแสวงหานี้พูดคุยกับผู้บัญชาการเพื่อหารือปลดล็อคกับทุกคนในแอสเทราและฐานการวิจัย"
+      "Translation": "เฉพาะ Legiana อยู่ในที่เกิดเหตุในช่วงเริ่มต้นที่ Odogaron มาในครั้งที่สองแล้ว Diablos และในที่สุดก็ Rathalos ไข่จับเวลา / เงื่อนไขยังไม่ทราบ หลังจากเสร็จสิ้นการแสวงหานี้พูดคุยกับผู้บัญชาการที่จะหารือปลดล็อคกับทุกคนในแอสเทราและฐานการวิจัย"
     },
     "quest-the-winds-of-wrath-bite-deep": {
       "Key": "quest-the-winds-of-wrath-bite-deep",
-      "Translation": "สายลมแห่งความโกรธเกรี้ยวกัดลึก"
+      "Translation": "สายลมแห่งการลงโทษกัดลึก"
     },
     "quest-the-winds-of-wrath-bite-deep-description": {
       "Key": "quest-the-winds-of-wrath-bite-deep-description",
@@ -14053,7 +14053,7 @@ export default {
     },
     "search-arena-quests": {
       "Key": "search-arena-quests",
-      "Translation": "ค้นหาสังเวียนเควส"
+      "Translation": "ค้นหาเควสอารีน่า"
     },
     "search-armor-components": {
       "Key": "search-armor-components",
@@ -14521,7 +14521,7 @@ export default {
     },
     "skill-blast-attack-description": {
       "Key": "skill-blast-attack-description",
-      "Translation": "เพิ่มอัตราการระเบิดสะสม (ธาตุสะสมมีขีด จำกัด สูงสุด.)"
+      "Translation": "เพิ่มอัตราการระเบิดสะสม (ธาตุสะสมมีขีด จำกัด ไม่เกิน.)"
     },
     "skill-blast-functionality": {
       "Key": "skill-blast-functionality",
@@ -14585,7 +14585,7 @@ export default {
     },
     "skill-blight-resistance-2": {
       "Key": "skill-blight-resistance-2",
-      "Translation": "ช่วยลดระยะเวลาในการ blights ธาตุทั้งหมดโดย 60%"
+      "Translation": "ช่วยลดระยะเวลาในการ blights ธาตุทั้งหมด 60%"
     },
     "skill-blight-resistance-3": {
       "Key": "skill-blight-resistance-3",
@@ -14657,7 +14657,7 @@ export default {
     },
     "skill-botanist-4": {
       "Key": "skill-botanist-4",
-      "Translation": "หนึ่งสมุนไพรผลไม้ถั่วเมล็ดแมลงหรือรายการพิเศษเห็ดบริโภคต่อการรวบรวม"
+      "Translation": "หนึ่งสมุนไพรผลไม้ถั่วเมล็ดแมลงหรือรายการพิเศษเห็ดบริโภคต่อ gather"
     },
     "skill-botanist-description": {
       "Key": "skill-botanist-description",
@@ -14929,7 +14929,7 @@ export default {
     },
     "skill-detector-description": {
       "Key": "skill-detector-description",
-      "Translation": "แสดงให้เห็นถึงจุดชุมนุมที่หายากในสัตว์ป่าแผนที่"
+      "Translation": "จุดที่แสดงให้เห็นว่าการชุมนุมที่หายากในสัตว์ป่าแผนที่"
     },
     "skill-divine-blessing": {
       "Key": "skill-divine-blessing",
@@ -14993,7 +14993,7 @@ export default {
     },
     "skill-dragon-resistance-3": {
       "Key": "skill-dragon-resistance-3",
-      "Translation": "ต้านทานมังกร 20 กลาโหม 10"
+      "Translation": "ต้านทานมังกร 20, กลาโหม 10"
     },
     "skill-dragon-resistance-description": {
       "Key": "skill-dragon-resistance-description",
@@ -15241,7 +15241,7 @@ export default {
     },
     "skill-focus-2": {
       "Key": "skill-focus-2",
-      "Translation": "เพิ่มอัตราการเติมวัดโดย 10% และช่วยลดค่าใช้จ่ายครั้งโดย 10%"
+      "Translation": "เพิ่มอัตราการเติมวัดโดย 10% และช่วยลดเวลาค่าใช้จ่าย 10%"
     },
     "skill-focus-3": {
       "Key": "skill-focus-3",
@@ -15257,7 +15257,7 @@ export default {
     },
     "skill-foragers-luck-1": {
       "Key": "skill-foragers-luck-1",
-      "Translation": "เพิ่มโอกาสในการจุดชุมนุมที่หายากเกิดใหม่"
+      "Translation": "เพิ่มโอกาสในการชุมนุมจุดที่หายากเกิดใหม่"
     },
     "skill-foragers-luck-description": {
       "Key": "skill-foragers-luck-description",
@@ -15325,7 +15325,7 @@ export default {
     },
     "skill-geologist-description": {
       "Key": "skill-geologist-description",
-      "Translation": "เพิ่มจำนวนครั้งที่คุณสามารถใช้จุดชุมนุม"
+      "Translation": "เพิ่มขึ้นจำนวนครั้งที่คุณสามารถใช้จุดชุมนุม"
     },
     "skill-good-luck": {
       "Key": "skill-good-luck",
@@ -16073,7 +16073,7 @@ export default {
     },
     "skill-poison-attack-description": {
       "Key": "skill-poison-attack-description",
-      "Translation": "เพิ่มอัตราการสะสมสารพิษ (ธาตุสะสมมีขีด จำกัด สูงสุด.)"
+      "Translation": "เพิ่มอัตราการสะสมสารพิษ (ธาตุสะสมมีขีด จำกัด ไม่เกิน.)"
     },
     "skill-poison-duration-up": {
       "Key": "skill-poison-duration-up",
@@ -16149,7 +16149,7 @@ export default {
     },
     "skill-pro-transporter-description": {
       "Key": "skill-pro-transporter-description",
-      "Translation": "เพิ่มความเร็วของคุณในขณะที่รายการการขนส่งและลดโอกาสของการวางพวกเขา"
+      "Translation": "เพิ่มความเร็วของคุณขณะที่รายการการขนส่งและลดโอกาสของการวางพวกเขา"
     },
     "skill-protective-polish": {
       "Key": "skill-protective-polish",
@@ -16261,7 +16261,7 @@ export default {
     },
     "skill-resentment-3": {
       "Key": "skill-resentment-3",
-      "Translation": "ในขณะที่การใช้งานทุนโจมตี +15"
+      "Translation": "ในขณะที่งานทุนการโจมตี 15"
     },
     "skill-resentment-4": {
       "Key": "skill-resentment-4",
@@ -16341,7 +16341,7 @@ export default {
     },
     "skill-sleep-attack-description": {
       "Key": "skill-sleep-attack-description",
-      "Translation": "เพิ่มอัตราการสะสมการนอนหลับ (ธาตุสะสมมีขีด จำกัด สูงสุด.)"
+      "Translation": "เพิ่มอัตราการสะสมการนอนหลับ (ธาตุสะสมมีขีด จำกัด ไม่เกิน.)"
     },
     "skill-sleep-functionality": {
       "Key": "skill-sleep-functionality",
@@ -16353,7 +16353,7 @@ export default {
     },
     "skill-sleep-functionality-description": {
       "Key": "skill-sleep-functionality-description",
-      "Translation": "ช่วยให้คุณสามารถใช้เคลือบนอนหลับ"
+      "Translation": "ช่วยให้คุณสามารถที่จะใช้เคลือบนอนหลับ"
     },
     "skill-sleep-resistance": {
       "Key": "skill-sleep-resistance",
@@ -16469,7 +16469,7 @@ export default {
     },
     "skill-speed-sharpening-1": {
       "Key": "skill-speed-sharpening-1",
-      "Translation": "ลบหนึ่งรอบจากกระบวนการปรับความคมที่"
+      "Translation": "ขจัดหนึ่งรอบจากกระบวนการปรับความคมที่"
     },
     "skill-speed-sharpening-2": {
       "Key": "skill-speed-sharpening-2",
@@ -16513,7 +16513,7 @@ export default {
     },
     "skill-spread-power-shots-description": {
       "Key": "skill-spread-power-shots-description",
-      "Translation": "เพิ่มพลังโจมตีของกระสุนและลูกศรแพร่กระจายอำนาจการยิง"
+      "Translation": "เพิ่มพลังโจมตีของกระสุนการแพร่กระจายและลูกศรอำนาจการยิง"
     },
     "skill-stamina-cap-up": {
       "Key": "skill-stamina-cap-up",
@@ -17061,7 +17061,7 @@ export default {
     },
     "trophy-fates-conclusion-description": {
       "Key": "trophy-fates-conclusion-description",
-      "Translation": "ฆ่า Ruiner Nergigante ในที่ดินแนวทางถอดฝาปิดในอันดับต้นแบบสูงสุด"
+      "Translation": "ฆ่า Ruiner Nergigante ในที่ดินแนวทางถอดฝาปิดในอันดับ master สูงสุด"
     },
     "trophy-first-friends": {
       "Key": "trophy-first-friends",
@@ -17149,7 +17149,7 @@ export default {
     },
     "trophy-helpful-hunter-description": {
       "Key": "trophy-helpful-hunter-description",
-      "Translation": "ช่วยอันดับต่ำหรือนักล่าอันดับที่สูงเมื่อวันที่ 10 เควสเป็นนักล่าอันดับต้นแบบ"
+      "Translation": "ช่วยอันดับต่ำหรือนักล่าตำแหน่งระดับสูงในวันที่ 10 เควสเป็นนักล่าอันดับต้นแบบ"
     },
     "trophy-hunter-prodigy": {
       "Key": "trophy-hunter-prodigy",
@@ -17205,7 +17205,7 @@ export default {
     },
     "trophy-indomitable-description": {
       "Key": "trophy-indomitable-description",
-      "Translation": "ล่า 50 อารมณ์มอนสเตอร์"
+      "Translation": "ล่า 50 อารมณ์ monsters"
     },
     "trophy-indomitable-spirit": {
       "Key": "trophy-indomitable-spirit",
@@ -17265,7 +17265,7 @@ export default {
     },
     "trophy-master-slayer": {
       "Key": "trophy-master-slayer",
-      "Translation": "โท Slayer"
+      "Translation": "Master Slayer"
     },
     "trophy-master-slayer-description": {
       "Key": "trophy-master-slayer-description",
@@ -17517,7 +17517,7 @@ export default {
     },
     "trophy-the-elusive-elder-dragon-description": {
       "Key": "trophy-the-elusive-elder-dragon-description",
-      "Translation": "ได้รับสิทธิที่จะใช้ในระดับสามดาวที่ได้รับมอบหมายตำแหน่งหลัก"
+      "Translation": "ได้รับสิทธิที่จะใช้ในระดับสามดาวที่ได้รับมอบหมายตำแหน่ง master"
     },
     "trophy-the-empress-of-the-highlands": {
       "Key": "trophy-the-empress-of-the-highlands",
@@ -18769,7 +18769,7 @@ export default {
     },
     "weapon-gunlance-bone-cannon-ii": {
       "Key": "weapon-gunlance-bone-cannon-ii",
-      "Translation": "กระดูกปืนใหญ่ครั้งที่สอง"
+      "Translation": "ปืนใหญ่กระดูก II"
     },
     "weapon-gunlance-bone-cannon-iii": {
       "Key": "weapon-gunlance-bone-cannon-iii",
@@ -18817,7 +18817,7 @@ export default {
     },
     "weapon-gunlance-iron-gunlance-i": {
       "Key": "weapon-gunlance-iron-gunlance-i",
-      "Translation": "เหล็ก Gunlance ฉัน"
+      "Translation": "เตารีด Gunlance ฉัน"
     },
     "weapon-gunlance-iron-gunlance-ii": {
       "Key": "weapon-gunlance-iron-gunlance-ii",
@@ -19065,7 +19065,7 @@ export default {
     },
     "weapon-hammer-crushing-beak-i": {
       "Key": "weapon-hammer-crushing-beak-i",
-      "Translation": "โม่จะงอยปากผม"
+      "Translation": "โม่จะงอยปากฉัน"
     },
     "weapon-hammer-crushing-beak-ii": {
       "Key": "weapon-hammer-crushing-beak-ii",
@@ -19429,7 +19429,7 @@ export default {
     },
     "weapon-hunting-horn-anja-barone-iii": {
       "Key": "weapon-hunting-horn-anja-barone-iii",
-      "Translation": "Anja บารอน III"
+      "Translation": "Anja Barone III"
     },
     "weapon-hunting-horn-aqua-bagpipe-i": {
       "Key": "weapon-hunting-horn-aqua-bagpipe-i",
@@ -20305,7 +20305,7 @@ export default {
     },
     "weapon-lance-taroth-crest-crusher": {
       "Key": "weapon-lance-taroth-crest-crusher",
-      "Translation": "Taroth Crest \"บด\""
+      "Translation": "Taroth Crest \"Crusher\""
     },
     "weapon-lance-taroth-crest-decay": {
       "Key": "weapon-lance-taroth-crest-decay",
@@ -20661,7 +20661,7 @@ export default {
     },
     "weapon-long-sword-iron-katana-iii": {
       "Key": "weapon-long-sword-iron-katana-iii",
-      "Translation": "เหล็ก Katana III"
+      "Translation": "เหล็ก Katana ที่สาม"
     },
     "weapon-long-sword-jyura-shotel-i": {
       "Key": "weapon-long-sword-jyura-shotel-i",
@@ -21125,7 +21125,7 @@ export default {
     },
     "weapon-sword-and-shield-heavy-bang-plus": {
       "Key": "weapon-sword-and-shield-heavy-bang-plus",
-      "Translation": "หนักบาง +"
+      "Translation": "Heavy Bang +"
     },
     "weapon-sword-and-shield-hunters-knife-i": {
       "Key": "weapon-sword-and-shield-hunters-knife-i",
@@ -21309,7 +21309,7 @@ export default {
     },
     "weapon-sword-and-shield-steel-knife-i": {
       "Key": "weapon-sword-and-shield-steel-knife-i",
-      "Translation": "เหล็กมีดฉัน"
+      "Translation": "เหล็กดฉัน"
     },
     "weapon-sword-and-shield-steel-knife-ii": {
       "Key": "weapon-sword-and-shield-steel-knife-ii",
@@ -21825,7 +21825,7 @@ export default {
     },
     "weapon-long-sword-wyvern-blade-empyrean": {
       "Key": "weapon-long-sword-wyvern-blade-empyrean",
-      "Translation": "Wyvern Blade \"สวรรค์\""
+      "Translation": "Wyvern ใบมีด \"สวรรค์\""
     },
     "weapon-tree-shara-ishvalda-tree": {
       "Key": "weapon-tree-shara-ishvalda-tree",
@@ -22093,7 +22093,7 @@ export default {
     },
     "weapon-gunlance-mammoth-gunlance-i": {
       "Key": "weapon-gunlance-mammoth-gunlance-i",
-      "Translation": "แมมมอ ธ Gunlance ครั้งที่สอง"
+      "Translation": "Gunlance แมมมอ ธ ที่สอง"
     },
     "weapon-gunlance-usurpers-roar": {
       "Key": "weapon-gunlance-usurpers-roar",
@@ -22189,7 +22189,7 @@ export default {
     },
     "weapon-dual-blades-chrome-cross-ii": {
       "Key": "weapon-dual-blades-chrome-cross-ii",
-      "Translation": "โครเมี่ยมครอสครั้งที่สอง"
+      "Translation": "Chrome ครอสครั้งที่สอง"
     },
     "weapon-dual-blades-chrome-cross-iii": {
       "Key": "weapon-dual-blades-chrome-cross-iii",
@@ -22709,7 +22709,7 @@ export default {
     },
     "weapon-great-sword-dragonseal-sword-i": {
       "Key": "weapon-great-sword-dragonseal-sword-i",
-      "Translation": "Dragonseal ดาบฉัน"
+      "Translation": "Dragonseal ดาบผม"
     },
     "weapon-great-sword-dragonseal-sword-ii": {
       "Key": "weapon-great-sword-dragonseal-sword-ii",
@@ -22937,7 +22937,7 @@ export default {
     },
     "weapon-lance-dios-halberd-ii": {
       "Key": "weapon-lance-dios-halberd-ii",
-      "Translation": "Dios ง้าวครั้งที่สอง"
+      "Translation": "Dios ง้าว II"
     },
     "weapon-lance-odogarons-misery-i": {
       "Key": "weapon-lance-odogarons-misery-i",
@@ -23533,7 +23533,7 @@ export default {
     },
     "weapon-bow-defender-shield-iii": {
       "Key": "weapon-bow-defender-shield-iii",
-      "Translation": "พิทักษ์โล่ III"
+      "Translation": "พิทักษ์โล่สาม"
     },
     "weapon-bow-defender-shield-iv": {
       "Key": "weapon-bow-defender-shield-iv",
@@ -23958,5 +23958,369 @@ export default {
     "weapon-long-sword-great-demon-halberd": {
       "Key": "weapon-long-sword-great-demon-halberd",
       "Translation": "ที่ดีปีศาจง้าว"
+    },
+    "weapon-bow-acidic-arrow-ii": {
+      "Key": "weapon-bow-acidic-arrow-ii",
+      "Translation": "เป็นกรดลูกที่สอง"
+    },
+    "weapon-bow-deathbow-vaal-velos": {
+      "Key": "weapon-bow-deathbow-vaal-velos",
+      "Translation": "Deathbow Vaal Velos"
+    },
+    "weapon-bow-hydra-planula": {
+      "Key": "weapon-bow-hydra-planula",
+      "Translation": "Hydra Planula"
+    },
+    "weapon-bow-black-planula": {
+      "Key": "weapon-bow-black-planula",
+      "Translation": "ดำ Planula"
+    },
+    "weapon-bow-cera-coilbender-plus": {
+      "Key": "weapon-bow-cera-coilbender-plus",
+      "Translation": "Cera Coilbender +"
+    },
+    "weapon-bow-cera-cyclord": {
+      "Key": "weapon-bow-cera-cyclord",
+      "Translation": "Cera Cyclord"
+    },
+    "weapon-bow-datura-squall-i": {
+      "Key": "weapon-bow-datura-squall-i",
+      "Translation": "ลำโพง Squall ฉัน"
+    },
+    "weapon-bow-datura-squall-ii": {
+      "Key": "weapon-bow-datura-squall-ii",
+      "Translation": "ลำโพงโกลาหลครั้งที่สอง"
+    },
+    "weapon-bow-nightmare-string-i": {
+      "Key": "weapon-bow-nightmare-string-i",
+      "Translation": "ฝันร้าย String ฉัน"
+    },
+    "weapon-bow-nightmare-string-ii": {
+      "Key": "weapon-bow-nightmare-string-ii",
+      "Translation": "ฝันร้าย String ครั้งที่สอง"
+    },
+    "weapon-bow-anjanath-flamebow-i": {
+      "Key": "weapon-bow-anjanath-flamebow-i",
+      "Translation": "Anjanath Flamebow ฉัน"
+    },
+    "weapon-bow-anjanath-flamebow-ii": {
+      "Key": "weapon-bow-anjanath-flamebow-ii",
+      "Translation": "Anjanath Flamebow ครั้งที่สอง"
+    },
+    "weapon-bow-fulguring-bow-i": {
+      "Key": "weapon-bow-fulguring-bow-i",
+      "Translation": "Fulguring โบว์ผม"
+    },
+    "weapon-bow-fulguring-bow-ii": {
+      "Key": "weapon-bow-fulguring-bow-ii",
+      "Translation": "Fulguring โบว์ครั้งที่สอง"
+    },
+    "weapon-bow-flying-kadachi-strikebow-plus": {
+      "Key": "weapon-bow-flying-kadachi-strikebow-plus",
+      "Translation": "บิน Kadachi Strikebow +"
+    },
+    "weapon-bow-thundering-strikebow": {
+      "Key": "weapon-bow-thundering-strikebow",
+      "Translation": "ฟ้าร้อง Strikebow"
+    },
+    "weapon-bow-fellbow-crimson-hail": {
+      "Key": "weapon-bow-fellbow-crimson-hail",
+      "Translation": "Fellbow สีแดงเข้มลูกเห็บ"
+    },
+    "weapon-bow-fellbow-crimson-hail-plus": {
+      "Key": "weapon-bow-fellbow-crimson-hail-plus",
+      "Translation": "Fellbow สีแดงเข้มลูกเห็บ +"
+    },
+    "weapon-bow-fellbow-crimson-storm": {
+      "Key": "weapon-bow-fellbow-crimson-storm",
+      "Translation": "Fellbow พายุสีแดงเข้ม"
+    },
+    "weapon-bow-dragonseal-aldbow-i": {
+      "Key": "weapon-bow-dragonseal-aldbow-i",
+      "Translation": "Dragonseal Aldbow ฉัน"
+    },
+    "weapon-bow-dragonseal-aldbow-ii": {
+      "Key": "weapon-bow-dragonseal-aldbow-ii",
+      "Translation": "Dragonseal Aldbow ครั้งที่สอง"
+    },
+    "weapon-bow-dawning-insight": {
+      "Key": "weapon-bow-dawning-insight",
+      "Translation": "Dawning Insight"
+    },
+    "weapon-bow-daoras-toxotes": {
+      "Key": "weapon-bow-daoras-toxotes",
+      "Translation": "Daora ของ Toxotes"
+    },
+    "weapon-bow-fates-thread": {
+      "Key": "weapon-bow-fates-thread",
+      "Translation": "กระทู้ชะตากรรมของ"
+    },
+    "weapon-bow-beast-thunderbow": {
+      "Key": "weapon-bow-beast-thunderbow",
+      "Translation": "สัตว์ Thunderbow"
+    },
+    "weapon-bow-beastking-thunderbow": {
+      "Key": "weapon-bow-beastking-thunderbow",
+      "Translation": "Beastking Thunderbow"
+    },
+    "weapon-hunting-horn-sforzando-i": {
+      "Key": "weapon-hunting-horn-sforzando-i",
+      "Translation": "Sforzando ฉัน"
+    },
+    "weapon-hunting-horn-sforzando-ii": {
+      "Key": "weapon-hunting-horn-sforzando-ii",
+      "Translation": "Sforzando III"
+    },
+    "weapon-hunting-horn-raven-shamisen": {
+      "Key": "weapon-hunting-horn-raven-shamisen",
+      "Translation": "กาซามีซัน"
+    },
+    "weapon-hunting-horn-ruinous-desolation": {
+      "Key": "weapon-hunting-horn-ruinous-desolation",
+      "Translation": "ย่อยยับ Desolation"
+    },
+    "weapon-hunting-horn-usurpers-growl": {
+      "Key": "weapon-hunting-horn-usurpers-growl",
+      "Translation": "ทรราชของคำราม"
+    },
+    "weapon-hunting-horn-usurpers-growl-plus": {
+      "Key": "weapon-hunting-horn-usurpers-growl-plus",
+      "Translation": "ทรราชของคำราม +"
+    },
+    "weapon-hunting-horn-despots-thunderclap": {
+      "Key": "weapon-hunting-horn-despots-thunderclap",
+      "Translation": "เผด็จการของฟ้าผ่า"
+    },
+    "weapon-hunting-horn-taghrid-al-nasr-i": {
+      "Key": "weapon-hunting-horn-taghrid-al-nasr-i",
+      "Translation": "Taghrid Al-Nasr ฉัน"
+    },
+    "weapon-hunting-horn-taghrid-al-nasr-ii": {
+      "Key": "weapon-hunting-horn-taghrid-al-nasr-ii",
+      "Translation": "Taghrid อัลนาสร์ไอ"
+    },
+    "weapon-hunting-horn-striped-dragonga": {
+      "Key": "weapon-hunting-horn-striped-dragonga",
+      "Translation": "ลาย Dragonga"
+    },
+    "weapon-hunting-horn-striped-dragonga-plus": {
+      "Key": "weapon-hunting-horn-striped-dragonga-plus",
+      "Translation": "Dragonga ลาย +"
+    },
+    "weapon-hunting-horn-tigrex-horn": {
+      "Key": "weapon-hunting-horn-tigrex-horn",
+      "Translation": "Tigrex ฮอร์น"
+    },
+    "weapon-hunting-horn-accursed-wail": {
+      "Key": "weapon-hunting-horn-accursed-wail",
+      "Translation": "อัปรีย์ร่ำไห้"
+    },
+    "weapon-hunting-horn-royal-chordmaker-plus": {
+      "Key": "weapon-hunting-horn-royal-chordmaker-plus",
+      "Translation": "รอยัล Chordmaker +"
+    },
+    "weapon-hunting-horn-regal-flute": {
+      "Key": "weapon-hunting-horn-regal-flute",
+      "Translation": "Regal ขลุ่ย"
+    },
+    "weapon-hunting-horn-gold-chordmaker": {
+      "Key": "weapon-hunting-horn-gold-chordmaker",
+      "Translation": "ทอง Chordmaker"
+    },
+    "weapon-hunting-horn-water-tamtam-iv": {
+      "Key": "weapon-hunting-horn-water-tamtam-iv",
+      "Translation": "น้ำ TamTam IV"
+    },
+    "weapon-hunting-horn-laguna-drum-i": {
+      "Key": "weapon-hunting-horn-laguna-drum-i",
+      "Translation": "ลากูน่ากลองฉัน"
+    },
+    "weapon-hunting-horn-laguna-drum-ii": {
+      "Key": "weapon-hunting-horn-laguna-drum-ii",
+      "Translation": "ลากูน่ากลองครั้งที่สอง"
+    },
+    "weapon-hunting-horn-hidden-harmonic": {
+      "Key": "weapon-hunting-horn-hidden-harmonic",
+      "Translation": "ซ่อนฮาร์มอนิ"
+    },
+    "weapon-hunting-horn-hidden-harmonic-plus": {
+      "Key": "weapon-hunting-horn-hidden-harmonic-plus",
+      "Translation": "ซ่อนฮาร์มอนิ +"
+    },
+    "weapon-hunting-horn-cry-in-the-night": {
+      "Key": "weapon-hunting-horn-cry-in-the-night",
+      "Translation": "ร้องไห้ในตอนกลางคืน"
+    },
+    "weapon-hunting-horn-legia-sectored-plus": {
+      "Key": "weapon-hunting-horn-legia-sectored-plus",
+      "Translation": "Legia Sectored +"
+    },
+    "weapon-hunting-horn-hoarcry-sectored": {
+      "Key": "weapon-hunting-horn-hoarcry-sectored",
+      "Translation": "Hoarcry Sectored"
+    },
+    "weapon-hunting-horn-lilim-glacia": {
+      "Key": "weapon-hunting-horn-lilim-glacia",
+      "Translation": "Lilim Glacia"
+    },
+    "weapon-hunting-horn-mad-bone-horn-i": {
+      "Key": "weapon-hunting-horn-mad-bone-horn-i",
+      "Translation": "บ้ากระดูกฮอร์นผม"
+    },
+    "weapon-hunting-horn-mad-bone-horn-ii": {
+      "Key": "weapon-hunting-horn-mad-bone-horn-ii",
+      "Translation": "บ้ากระดูกฮอร์นที่สอง"
+    },
+    "weapon-hunting-horn-mad-bone-horn-iii": {
+      "Key": "weapon-hunting-horn-mad-bone-horn-iii",
+      "Translation": "บ้ากระดูกฮอร์นที่สาม"
+    },
+    "weapon-hunting-horn-icespiel": {
+      "Key": "weapon-hunting-horn-icespiel",
+      "Translation": "Icespiel"
+    },
+    "weapon-hunting-horn-sonorous-eisfyl": {
+      "Key": "weapon-hunting-horn-sonorous-eisfyl",
+      "Translation": "ดังสนั่น Eisfyl"
+    },
+    "weapon-hunting-horn-gama-chorus-i": {
+      "Key": "weapon-hunting-horn-gama-chorus-i",
+      "Translation": "กามาขับร้องฉัน"
+    },
+    "weapon-hunting-horn-gama-chorus-ii": {
+      "Key": "weapon-hunting-horn-gama-chorus-ii",
+      "Translation": "กามาขับร้องครั้งที่สอง"
+    },
+    "weapon-hunting-horn-hell-horn": {
+      "Key": "weapon-hunting-horn-hell-horn",
+      "Translation": "นรกฮอร์น"
+    },
+    "weapon-hunting-horn-hell-horn-plus": {
+      "Key": "weapon-hunting-horn-hell-horn-plus",
+      "Translation": "นรกฮอร์น +"
+    },
+    "weapon-hunting-horn-glavenus-horn": {
+      "Key": "weapon-hunting-horn-glavenus-horn",
+      "Translation": "Glavenus ฮอร์น"
+    },
+    "weapon-hunting-horn-anjanath-hum-i": {
+      "Key": "weapon-hunting-horn-anjanath-hum-i",
+      "Translation": "Anjanath Hum ฉัน"
+    },
+    "weapon-hunting-horn-anjanath-hum-ii": {
+      "Key": "weapon-hunting-horn-anjanath-hum-ii",
+      "Translation": "Anjanath Hum ครั้งที่สอง"
+    },
+    "weapon-hunting-horn-fulguring-horn-i": {
+      "Key": "weapon-hunting-horn-fulguring-horn-i",
+      "Translation": "Fulguring ฮอร์นผม"
+    },
+    "weapon-hunting-horn-fulguring-horn-ii": {
+      "Key": "weapon-hunting-horn-fulguring-horn-ii",
+      "Translation": "Fulguring ฮอร์นที่สอง"
+    },
+    "weapon-hunting-horn-sulfurteinn-svild": {
+      "Key": "weapon-hunting-horn-sulfurteinn-svild",
+      "Translation": "Sulfurteinn Svild"
+    },
+    "weapon-hunting-horn-the-rasping-ballad": {
+      "Key": "weapon-hunting-horn-the-rasping-ballad",
+      "Translation": "ที่ทำให้ระคายเคืองบทกวี"
+    },
+    "weapon-hunting-horn-datura-maestro-i": {
+      "Key": "weapon-hunting-horn-datura-maestro-i",
+      "Translation": "ลำโพง Maestro ฉัน"
+    },
+    "weapon-hunting-horn-datura-maestro-ii": {
+      "Key": "weapon-hunting-horn-datura-maestro-ii",
+      "Translation": "ลำโพงเกจิครั้งที่สอง"
+    },
+    "weapon-hunting-horn-icicle-horn-i": {
+      "Key": "weapon-hunting-horn-icicle-horn-i",
+      "Translation": "น้ำแข็งฮอร์นผม"
+    },
+    "weapon-hunting-horn-icicle-horn-ii": {
+      "Key": "weapon-hunting-horn-icicle-horn-ii",
+      "Translation": "น้ำแข็งฮอร์นที่สอง"
+    },
+    "weapon-hunting-horn-lumu-drone-i": {
+      "Key": "weapon-hunting-horn-lumu-drone-i",
+      "Translation": "Lumu Drone ฉัน"
+    },
+    "weapon-hunting-horn-lumu-drone-ii": {
+      "Key": "weapon-hunting-horn-lumu-drone-ii",
+      "Translation": "Lumu Drone ครั้งที่สอง"
+    },
+    "weapon-hunting-horn-nyx-barone-i": {
+      "Key": "weapon-hunting-horn-nyx-barone-i",
+      "Translation": "Nyx บารอนฉัน"
+    },
+    "weapon-hunting-horn-nyx-barone-ii": {
+      "Key": "weapon-hunting-horn-nyx-barone-ii",
+      "Translation": "Nyx บารอนครั้งที่สอง"
+    },
+    "weapon-hunting-horn-rooksearer-drum": {
+      "Key": "weapon-hunting-horn-rooksearer-drum",
+      "Translation": "Rooksearer กลอง"
+    },
+    "weapon-hunting-horn-bazel-valdi-rooksearer": {
+      "Key": "weapon-hunting-horn-bazel-valdi-rooksearer",
+      "Translation": "Bazel Valdi Rooksearer"
+    },
+    "weapon-hunting-horn-queen-vespoid-horn-plus": {
+      "Key": "weapon-hunting-horn-queen-vespoid-horn-plus",
+      "Translation": "สมเด็จพระราชินี Vespoid ฮอร์น +"
+    },
+    "weapon-hunting-horn-queens-flute-ii": {
+      "Key": "weapon-hunting-horn-queens-flute-ii",
+      "Translation": "สมเด็จพระราชินีฯ ขลุ่ยครั้งที่สอง"
+    },
+    "weapon-hunting-horn-baan-rattle-i": {
+      "Key": "weapon-hunting-horn-baan-rattle-i",
+      "Translation": "บ้านฉันสั่นสะเทือน"
+    },
+    "weapon-hunting-horn-brachydios-horn-i": {
+      "Key": "weapon-hunting-horn-brachydios-horn-i",
+      "Translation": "Brachydios ฮอร์นผม"
+    },
+    "weapon-hunting-horn-brachydios-horn-ii": {
+      "Key": "weapon-hunting-horn-brachydios-horn-ii",
+      "Translation": "Brachydios ฮอร์นที่สอง"
+    },
+    "weapon-hunting-horn-dragonseal-aldhorn-i": {
+      "Key": "weapon-hunting-horn-dragonseal-aldhorn-i",
+      "Translation": "Dragonseal Aldhorn ฉัน"
+    },
+    "weapon-hunting-horn-dragonseal-aldhorn-ii": {
+      "Key": "weapon-hunting-horn-dragonseal-aldhorn-ii",
+      "Translation": "Dragonseal Aldhorn ครั้งที่สอง"
+    },
+    "weapon-hunting-horn-thunderwail-feyhorn": {
+      "Key": "weapon-hunting-horn-thunderwail-feyhorn",
+      "Translation": "Thunderwail Feyhorn"
+    },
+    "weapon-hunting-horn-hydros-horn": {
+      "Key": "weapon-hunting-horn-hydros-horn",
+      "Translation": "Hydros ฮอร์น"
+    },
+    "weapon-hunting-horn-teostras-musica": {
+      "Key": "weapon-hunting-horn-teostras-musica",
+      "Translation": "Teostra ของ Musica"
+    },
+    "weapon-hunting-horn-fates-dirge": {
+      "Key": "weapon-hunting-horn-fates-dirge",
+      "Translation": "ชะตากรรมของไว้อาลัย"
+    },
+    "weapon-hunting-horn-denden-daiko": {
+      "Key": "weapon-hunting-horn-denden-daiko",
+      "Translation": "Denden Daiko"
+    },
+    "weapon-hunting-horn-soulfire-chorus-blaze": {
+      "Key": "weapon-hunting-horn-soulfire-chorus-blaze",
+      "Translation": "Soulfire นักร้อง \"Blaze\""
+    },
+    "weapon-hunting-horn-soulfire-chorus-ruin": {
+      "Key": "weapon-hunting-horn-soulfire-chorus-ruin",
+      "Translation": "Soulfire นักร้อง \"ทำลาย\""
     }
   }

@@ -93,7 +93,7 @@ export default {
     },
     "armor-dantes-coat-description": {
       "Key": "armor-dantes-coat-description",
-      "Translation": "하나의 단테 착용 후 복제 코트는 유행. 세련된 액션은 세련된 패션을 요구하기 때문에."
+      "Translation": "하나의 단테 착용 후 복제 코트는 유행. 세련된 액션은 세련된 패션 요구 때문입니다."
     },
     "armor-dantes-gloves-description": {
       "Key": "armor-dantes-gloves-description",
@@ -1353,7 +1353,7 @@ export default {
     },
     "armor-hr-guild-cross-alpha": {
       "Key": "armor-hr-guild-cross-alpha",
-      "Translation": "길드 크로스 ⍺"
+      "Translation": "Guild 크로스 ⍺"
     },
     "armor-hr-guild-cross-beta": {
       "Key": "armor-hr-guild-cross-beta",
@@ -3257,7 +3257,7 @@ export default {
     },
     "armor-kadachi-description": {
       "Key": "armor-kadachi-description",
-      "Translation": "정교 빛이 부드러운 토비 - Kadachi 갑옷 그래서 당신은 간신히 그것을 느낄 수 있습니다 편안합니다."
+      "Translation": "정교 빛, 한 부드러운 토비 - Kadachi 갑옷 그래서 당신은 간신히 그것을 느낄 수 있습니다 편안합니다."
     },
     "armor-kestodon-description": {
       "Key": "armor-kestodon-description",
@@ -3269,7 +3269,7 @@ export default {
     },
     "armor-kirin-description": {
       "Key": "armor-kirin-description",
-      "Translation": "돈 당신의 거칠은 말의 환상을 살고 광야를 통해이 화려한 기린 갑옷과 구보."
+      "Translation": "돈 당신의 거칠은 말의 환상을 사는 광야를 통해이 화려한 기린 갑옷과 구보."
     },
     "armor-kulu-description": {
       "Key": "armor-kulu-description",
@@ -3705,7 +3705,7 @@ export default {
     },
     "armor-lr-hornetaur-greaves": {
       "Key": "armor-lr-hornetaur-greaves",
-      "Translation": "Hornetaur 각반"
+      "Translation": "Hornetaur 다리 갑옷"
     },
     "armor-lr-hornetaur-helm": {
       "Key": "armor-lr-hornetaur-helm",
@@ -4245,7 +4245,7 @@ export default {
     },
     "armor-mr-acidic-glavenus-mail-alpha-plus": {
       "Key": "armor-mr-acidic-glavenus-mail-alpha-plus",
-      "Translation": "산성 Glavenus 메일 ⍺ +"
+      "Translation": "산성 Glavenus 우편 ⍺ +"
     },
     "armor-mr-acidic-glavenus-mail-beta-plus": {
       "Key": "armor-mr-acidic-glavenus-mail-beta-plus",
@@ -4881,7 +4881,7 @@ export default {
     },
     "armor-mr-damascus-greaves-alpha-plus": {
       "Key": "armor-mr-damascus-greaves-alpha-plus",
-      "Translation": "다마스커스 각반 ⍺ +"
+      "Translation": "다마스커스 다리 갑옷 ⍺ +"
     },
     "armor-mr-damascus-greaves-beta-plus": {
       "Key": "armor-mr-damascus-greaves-beta-plus",
@@ -5085,7 +5085,7 @@ export default {
     },
     "armor-mr-esurient-greaves-beta-plus": {
       "Key": "armor-mr-esurient-greaves-beta-plus",
-      "Translation": "게걸스러운 갑옷 ß +"
+      "Translation": "게걸스러운 다리 갑옷 ß +"
     },
     "armor-mr-esurient-helm-alpha-plus": {
       "Key": "armor-mr-esurient-helm-alpha-plus",
@@ -6377,7 +6377,7 @@ export default {
     },
     "armor-mr-pukei-lagoon-hat-alpha-plus": {
       "Key": "armor-mr-pukei-lagoon-hat-alpha-plus",
-      "Translation": "Pukei 라군 모자 ⍺ +"
+      "Translation": "Pukei 라군 햇 ⍺ +"
     },
     "armor-mr-pukei-lagoon-hat-beta-plus": {
       "Key": "armor-mr-pukei-lagoon-hat-beta-plus",
@@ -6693,7 +6693,7 @@ export default {
     },
     "armor-mr-shara-ishvalda-braces-alpha-plus": {
       "Key": "armor-mr-shara-ishvalda-braces-alpha-plus",
-      "Translation": "샤 Ishvalda 교정기 ⍺ +"
+      "Translation": "샤 Ishvalda 중괄호 ⍺ +"
     },
     "armor-mr-shara-ishvalda-braces-beta-plus": {
       "Key": "armor-mr-shara-ishvalda-braces-beta-plus",
@@ -6741,7 +6741,7 @@ export default {
     },
     "armor-mr-silver-sol-beta-plus": {
       "Key": "armor-mr-silver-sol-beta-plus",
-      "Translation": "실버 솔 ß +"
+      "Translation": "Silver 솔 ß +"
     },
     "armor-mr-silver-solbraces-alpha-plus": {
       "Key": "armor-mr-silver-solbraces-alpha-plus",
@@ -7161,7 +7161,7 @@ export default {
     },
     "armor-odogaron-description": {
       "Key": "armor-odogaron-description",
-      "Translation": "이 Odogaron 갑옷에 눈을 누워 없음 착용자의 정신을 침식으로 다시 볼 수 없습니다."
+      "Translation": "이 Odogaron 갑옷에 눈을 누워 없음 착용자의 제정신 침식으로 다시 볼 수 없습니다."
     },
     "armor-orion-description": {
       "Key": "armor-orion-description",
@@ -7261,7 +7261,7 @@ export default {
     },
     "armor-set-bonus-skill-critical-element-description": {
       "Key": "armor-set-bonus-skill-critical-element-description",
-      "Translation": "치명타를 방문 할 때 원소의 손상 (불, 물, 번개, 얼음, 용)을 증가시킵니다."
+      "Translation": "중요한 안타를 방문 할 때 원소의 손상 (불, 물, 번개, 얼음, 용)을 증가시킵니다."
     },
     "armor-set-bonus-skill-critical-status": {
       "Key": "armor-set-bonus-skill-critical-status",
@@ -7537,7 +7537,7 @@ export default {
     },
     "armor-zorah-description": {
       "Key": "armor-zorah-description",
-      "Translation": "강인한 산악,이 소라 Magdaros 아머 모든 어려움으로 동요 착용자를 렌더링한다."
+      "Translation": "강인한 산악,이 소라 Magdaros 아머 모든 어려움으로 동요는 착용자를 렌더링한다."
     },
     "armors-arena-items": {
       "Key": "armors-arena-items",
@@ -7585,7 +7585,7 @@ export default {
     },
     "critical-bounties-bugtrappers-tips": {
       "Key": "critical-bounties-bugtrappers-tips",
-      "Translation": "고대의 숲에서 : 고독한 Bugtrapper가 나무에 영역 (6)에서 찾을 수있다 (동북 캠프 (11)). 당신이 가까이하면, Bugtrapper 도망 것입니다. 그를 따라가 경주 아니므로 그는 \\ nTake에게 당신의 시간을. 자신의 마을로 당신을 이끌 \\ n 것이다. 추월 또는 문제가 발생할 수 있습니다 너무 가까이 Bugtrapper에 실행. 보상 : 귀하의 Palico 이제 flashfly 케이지를 사용하고 Jagras에 말할 수 있습니다."
+      "Translation": "고대의 숲에서 : 고독한 Bugtrapper가 나무에 영역 (6)에서 찾을 수있다 (동북 캠프 (11)). 당신이 가까이하면, Bugtrapper 도망 것입니다. 그를 따라가 경주 아니므로 그는 \\ nTake에게 당신의 시간을. 자신의 마을로 당신을 이끌 \\ n 것이다. 추월 또는 문제가 발생할 수 있습니다 너무 가까이 Bugtrapper에 실행. 보상 : 귀하의 Palico 지금 flashfly 케이지를 사용하고 Jagras에 말할 수 있습니다."
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics",
@@ -7613,7 +7613,7 @@ export default {
     },
     "critical-bounties-plunderers-tips": {
       "Key": "critical-bounties-plunderers-tips",
-      "Translation": "썩은 베일에 :. 당신은 당신이 약탈자을 찾을 수 있습니다 전에 썩은 베일의 하부에 이득 액세스 \"베일의 창자 속으로\"완료해야합니다 \\ n \\ n 약탈자는 Lynian 연구원 옆에 기다리고 찾을 수 있습니다 영역 (13) (중앙 캠프 (11)). Lynian 연구원 과거 순찰 Odegaron 매 5 ~ 10 분 후에와 지상에 Legiana 시체 삭제합니다. 약탈자는 Legiana 시체에 나타납니다 그리고 당신이 가까이합니다. 도망 \\ n \\ nFollow 약탈자 영역 (15)과 바위 근처 원시 고기 덩어리를 떨어집니다 직후. 약간의 거리를 타고 약탈자가 고기를 먹는 시작할 때까지 기다립니다. 약탈자에 토크는 현상금을 완료합니다. 보상 : 귀하의 Palico 지금 Girros에 plunderblade를 사용하여 말할 수 있습니다."
+      "Translation": "썩은 베일에 :. 당신은 당신이 약탈자을 찾을 수 있습니다 전에 썩은 베일의 하부에 이득 액세스 \"베일의 창자 속으로\"완료해야합니다 \\ n \\ n 약탈자는 Lynian 연구원 옆에 기다리고 찾을 수 있습니다 영역 (13) (중앙 캠프 (11)). Lynian 연구원 과거 patrols Odegaron 매 5 ~ 10 분 후에와 지상에 Legiana 시체 삭제합니다. 약탈자는 Legiana 시체에 나타납니다 그리고 당신이 가까이합니다. 도망 \\ n \\ nFollow 약탈자 영역 (15)과 바위 근처 원시 고기 덩어리를 떨어집니다 직후. 약간 거리를 타고 약탈자가 고기를 먹는 시작할 때까지 기다립니다. 약탈자에 토크는 현상금을 완료합니다. 보상 : 귀하의 Palico 지금 Girros에 plunderblade를 사용하여 말할 수 있습니다."
     },
     "critical-bounties-protectors": {
       "Key": "critical-bounties-protectors",
@@ -7657,15 +7657,15 @@ export default {
     },
     "critical-bounties-research-help-capture-the-ancient-tips": {
       "Key": "critical-bounties-research-help-capture-the-ancient-tips",
-      "Translation": "썩은 베일 (중앙 캠프 (의 영역 (15)에서 물에 처음 5 명 풍토 생명 중요한 수배 및 제 5 명 어류의 중요한 수배가 완료 될 경우 현상금은. 모든 영역에서 포착 할 수있다 \\ n \\ n Petricanths을 잡을 수 11)), 그러나 단지 Grimalkyne 있습니다. \\ n \\ n Petricanths에 가장 가까운 물 몸도 장로 쉬는 시간 (동부 캠프 (8))의 캠프 텐트 뒤에 영역 (8)의 물에서 잡은 될 수있다. 이러한 영역 사이 등 여행왔다."
+      "Translation": "썩은 베일 (중앙 캠프 (의 영역 (15)에서 물에 처음 5 명 풍토 생명 중요한 수배 및 제 5 명 어류의 중요한 수배가 완료 될 경우 현상금은. 모든 영역에서 포착 할 수있다 \\ n \\ n Petricanths을 잡을 수 11)), 그러나 단지 Grimalkyne 있습니다. \\ n \\ n Petricanths에 가장 가까운 물을 몸에 또한 장로 쉬는 시간 (동부 캠프 (8))의 캠프 텐트 뒤에 영역 (8)의 물에서 잡은 될 수있다. 이러한 영역 사이 등 여행왔다."
     },
     "critical-bounties-research-help-carrier-ant-capture": {
       "Key": "critical-bounties-research-help-carrier-ant-capture",
-      "Translation": "연구 도움말 : 캐리어 개미 캡처"
+      "Translation": "연구 도움말 : 운반 개미 캡쳐"
     },
     "critical-bounties-research-help-carrier-ant-capture-tips": {
       "Key": "critical-bounties-research-help-carrier-ant-capture-tips",
-      "Translation": "Wildspire 폐기물에서 (사우스 웨스트 캠프 (1)) : 세 캐리어 개미 순찰은 지역 1에서 찾을 수 있습니다 그들은 매우 빠르게 리스폰."
+      "Translation": "Wildspire 폐기물에서 (사우스 웨스트 캠프 (1)) : 세 개의 캐리어 개미 순찰은 지역 1에서 찾을 수 있습니다 그들은 매우 빠르게 리스폰."
     },
     "critical-bounties-research-help-goldenfish-capture": {
       "Key": "critical-bounties-research-help-goldenfish-capture",
@@ -7689,7 +7689,7 @@ export default {
     },
     "critical-bounties-research-help-phantom-bird-tips": {
       "Key": "critical-bounties-research-help-phantom-bird-tips",
-      "Translation": "이 현상금은 제 5 명 지방 병 라이프 중요한 수배 및 제 5 명 어류의 중요한 수배가 완료된 경우. 모든 영역에서 포착 할 수있다 \\ n 솜털 Crakes의 \\ n 그룹은 Apceros 또는 Aptonoth의 뒷면에 표시 될 수 있습니다. Apceros가 Wildspire 폐기물의 영역 1 (사우스 캠프 (1)). \\ 찾을 수 n \\ nAptonoth 고대 숲의 영역 1에서 찾을 수있다 (사우스 캠프 (1)). 이러한 영역 사이 등 여행왔다. 캠프를 떠나기 전에 당신의 Ghillie 보호대를 착용 할 것."
+      "Translation": "이 현상금은 제 5 명 지방 병 라이프 중요한 수배 및 제 5 명 어류 중요한 수배가 완료된 경우. 어떤 영역에 포착 할 수 있습니다 \\ n 솜털 Crakes의 \\ n 그룹은 Apceros 또는 Aptonoth의 뒷면에 표시 될 수 있습니다. Apceros가 Wildspire 폐기물의 영역 1 (사우스 캠프 (1)). \\ 찾을 수 n \\ nAptonoth 고대 숲의 영역 1에서 찾을 수있다 (사우스 캠프 (1)). 이러한 영역 사이 등 여행왔다. 캠프를 떠나기 전에 당신의 Ghillie 보호대를 착용 할 것."
     },
     "critical-bounties-research-help-pink-parexus-capture": {
       "Key": "critical-bounties-research-help-pink-parexus-capture",
@@ -7721,7 +7721,7 @@ export default {
     },
     "critical-bounties-research-help-sushifish-capture-tips": {
       "Key": "critical-bounties-research-help-sushifish-capture-tips",
-      "Translation": "Wildspire 폐기물 (사우스 캠프 (1)) 다음 Sushifish은 어류 연구원 옆 1 영역 또는 영역 (10)에서 물에 잡힐 수있다."
+      "Translation": "Wildspire 폐기물 (사우스 캠프 (1)) 다음은 어류 Sushifish 연구원 옆 1 영역 또는 영역 (10) 내의 물에 잡힐 수있다."
     },
     "critical-bounties-research-help-wiggler-capture": {
       "Key": "critical-bounties-research-help-wiggler-capture",
@@ -7925,7 +7925,7 @@ export default {
     },
     "endemic-life-petricanths-description": {
       "Key": "endemic-life-petricanths-description",
-      "Translation": "이럴수가 ... 당신은 전설을 물고기 관리 한 생각 -에 -이 - 사라 멸종 Petricanths! 나는 당신에게 떨어져 내 모자를 받아!"
+      "Translation": "이럴수가 ... 당신은 전설을 물고기 관리 한 생각 -에 -이 - 사라 멸종 Petricanths! 나는 당신에 떨어져 내 모자를 받아!"
     },
     "endemic-life-phantom-flutterfly": {
       "Key": "endemic-life-phantom-flutterfly",
@@ -8837,7 +8837,7 @@ export default {
     },
     "monster-kestodon-useful-information": {
       "Key": "monster-kestodon-useful-information",
-      "Translation": "수컷은 격렬하게 위협-것 충전 반면 여성 Kestodon는 위험의 팩을 알려줍니다. 그들의 돌진 요금은 공격에 오픈 떠나 그러나 차단 될 수 있습니다."
+      "Translation": "수컷은 격렬하게 위협-것이다 충전 반면 여성 Kestodon는 위험의 팩을 알려줍니다. 그들의 돌진 요금은 공격에 오픈 떠나 그러나 차단 될 수 있습니다."
     },
     "monster-kirin": {
       "Key": "monster-kirin",
@@ -8873,7 +8873,7 @@ export default {
     },
     "monster-kulve-taroth-useful-information": {
       "Key": "monster-kulve-taroth-useful-information",
-      "Translation": "철저한 조사가 Kulve Taroth의 거대한 금 도금 뿔을 파괴하기 위해 필요합니다. 그것에 대해 자세히 알아 보려면 괴물을 추구. 트랙을 수집하고 추가 수사를 당신을 도울 사냥꾼을 모집."
+      "Translation": "철저한 연구가 Kulve Taroth의 거대한 금 도금 뿔을 파괴하기 위해 필요합니다. 그것에 대해 자세히 알아 보려면 괴물을 추구. 트랙을 수집하고 추가 수사를 당신을 도울 사냥꾼을 모집."
     },
     "monster-kushala-daora": {
       "Key": "monster-kushala-daora",
@@ -9081,7 +9081,7 @@ export default {
     },
     "monster-rathian-useful-information": {
       "Key": "monster-rathian-useful-information",
-      "Translation": "내화 갑옷 준비 자, 그리고 꼬리를 절단하여 독 공격을 거세. Rathian 새로운 세계의 끝 부분에 달걀 도둑을 쫓아 것이기, 그것의 둥지에서 알을 훔쳐 때는주의해야합니다."
+      "Translation": "내화 갑옷 준비 자, 그리고 꼬리를 절단하여 독 공격을 거세. Rathian 새로운 세계의 끝에 달걀 도둑을 쫓아 것이기, 그것의 둥지에서 알을 훔쳐 때는주의해야합니다."
     },
     "monster-ruiner-nergigante": {
       "Key": "monster-ruiner-nergigante",
@@ -9129,7 +9129,7 @@ export default {
     },
     "monster-teostra-useful-information": {
       "Key": "monster-teostra-useful-information",
-      "Translation": "블랙 규모의 먼지 Teostra를 없앤다는 마침내 폭발까지 넓은 지역에 걸쳐 있습니다. 그에 눈뿐만 아니라이 이따금 자체를 보호한다 불길을 유지하고 Elderseal 능력을 가진 무기를 비틀하는 것을 목표로하고 있습니다."
+      "Translation": "블랙 규모의 먼지 Teostra를 없앤다는 마침내 폭발까지 넓은 지역에 걸쳐 있습니다. 그에 눈뿐만 아니라이 이따금 자체 보호막 불길을 유지하고 Elderseal 능력을 가진 무기를 비틀하는 것을 목표로하고 있습니다."
     },
     "monster-tigrex": {
       "Key": "monster-tigrex",
@@ -9925,7 +9925,7 @@ export default {
     },
     "play-guide-items-and-weapons-description": {
       "Key": "play-guide-items-and-weapons-description",
-      "Translation": "심지어 숙련 된 사냥꾼를 들어, 베 헤못을 살해하는 것은 쉬운 일이 아니다. 캠프 헤드 뒷면 항목, 탄약을 비축하거나 전략을 변경해야하는 경우도 무기를 변경할 수 있습니다."
+      "Translation": "심지어 숙련 된 사냥꾼를 들어, 베 헤못을 살해하는 것은 쉬운 일이 아니다. 캠프 헤드 뒷면 항목, 탄약을 비축하거나 전략을 변경해야 할 경우에도 무기를 변경할 수 있습니다."
     },
     "play-guide-kinsect-stamina": {
       "Key": "play-guide-kinsect-stamina",
@@ -10053,7 +10053,7 @@ export default {
     },
     "play-guide-melding-items-description": {
       "Key": "play-guide-melding-items-description",
-      "Translation": "융합은 접목하여 점으로 덜 중요한 항목을 변환하여 높은 계층 소모품, bowgun 탄약 등을 만들 수 있습니다. 이 변환되는 항목 pickign에 관해서 공예에 비해 융합는 당신에게 더 많은 선택을 제공합니다."
+      "Translation": "융합은 당신이 접목하여 점으로 덜 중요한 항목을 변환하여 높은 계층 소모품, bowgun 탄약 등을 만들 수 있습니다. 이 변환되는 항목 pickign에 관해서 공예에 비해 융합는 당신에게 더 많은 선택을 제공합니다."
     },
     "play-guide-midair-evasion-and-attacks": {
       "Key": "play-guide-midair-evasion-and-attacks",
@@ -10085,7 +10085,7 @@ export default {
     },
     "play-guide-monster-research-description": {
       "Key": "play-guide-monster-research-description",
-      "Translation": "괴물의 흔적을 수집하고 연구 수준을 증가하여 같은 약점 같은 몬스터에 대한 자세한 생태 정보를 배울 수 있습니다. 귀하의 scoutflies 또한 더 나은 당신이 철저하게 연구 한 것을 몬스터를 감지 할 수있을 것입니다."
+      "Translation": "괴물의 흔적을 수집하고 연구 수준을 증가하여 같은 약점 같은 괴물에 대한 자세한 생태 정보를 배울 수 있습니다. 귀하의 scoutflies 또한 더 나은 당신이 철저하게 연구 한 것을 몬스터를 감지 할 수있을 것입니다."
     },
     "play-guide-mounting-controls": {
       "Key": "play-guide-mounting-controls",
@@ -10109,7 +10109,7 @@ export default {
     },
     "play-guide-multiplayer-description": {
       "Key": "play-guide-multiplayer-description",
-      "Translation": "네 선수까지 퀘스트에 참여할 수 있습니다. 당신은 혼자가 문제가 사냥하는 데 문제가있는 경우, 당신과 함께 친구들을!"
+      "Translation": "네 선수까지 퀘스트에 참가할 수 있습니다. 당신은 혼자가 문제가 사냥하는 데 문제가있는 경우, 당신과 함께 친구들을!"
     },
     "play-guide-nitrotoads": {
       "Key": "play-guide-nitrotoads",
@@ -10473,7 +10473,7 @@ export default {
     },
     "play-guide-stunning-monsters-description": {
       "Key": "play-guide-stunning-monsters-description",
-      "Translation": "기절은 충전 경기 상승 또는 충전 잔인한 경기 상승과 괴물의 머리를 쳐서 더 쉽게 달성 될 수있다."
+      "Translation": "기절은 충전 경기 상승 또는 충전 잔인한 경기 상승과 괴물의 머리를 타격하여보다 쉽게 ​​달성 될 수있다."
     },
     "play-guide-supporting-teammates": {
       "Key": "play-guide-supporting-teammates",
@@ -10913,7 +10913,7 @@ export default {
     },
     "poogie-dig-sites-text": {
       "Key": "poogie-dig-sites-text",
-      "Translation": "위의지도에서 발견 당신은 또한 다른 항목을 찾을 수 있습니다. 이미지를 확대 핀치."
+      "Translation": "위의지도에서 발견 당신은 또한 다른 항목을 찾을 수 있습니다. 영상을 손가락으로 확대."
     },
     "poogie-emperors-new-duds": {
       "Key": "poogie-emperors-new-duds",
@@ -10957,7 +10957,7 @@ export default {
     },
     "poogie-pumpkins-revenge-how-to-get": {
       "Key": "poogie-pumpkins-revenge-how-to-get",
-      "Translation": "다음이 의상을 얻을 수 있도록 Poogie 이야기, 가을 축제 이벤트 동안 수집 허브로 이동합니다."
+      "Translation": "그 다음이 의상을 얻으려면 Poogie 얘기, 가을 축제 이벤트 동안 수집 허브로 이동합니다."
     },
     "poogie-seaside-sausage": {
       "Key": "poogie-seaside-sausage",
@@ -11113,7 +11113,7 @@ export default {
     },
     "quest-a-light-upon-the-rivers-gloom": {
       "Key": "quest-a-light-upon-the-rivers-gloom",
-      "Translation": "강의 어둠시 빛"
+      "Translation": "강의의 어둠시 빛"
     },
     "quest-a-light-upon-the-rivers-gloom-description": {
       "Key": "quest-a-light-upon-the-rivers-gloom-description",
@@ -11125,7 +11125,7 @@ export default {
     },
     "quest-a-meow-for-help": {
       "Key": "quest-a-meow-for-help",
-      "Translation": "도움말에 대한 야옹"
+      "Translation": "도움을 야옹"
     },
     "quest-a-meow-for-help-description": {
       "Key": "quest-a-meow-for-help-description",
@@ -11189,7 +11189,7 @@ export default {
     },
     "quest-a-scalding-scoop-description": {
       "Key": "quest-a-scalding-scoop-description",
-      "Translation": "Barnos이 나에게 뭔가를 이렇게 되신 때 나는 임무에 나가 있었다. 무엇이든 그것은 고통스럽게 뜨거운 HOT이었다! 뿐만 아니라 인기 상품 - 많은 - - 사본의 종류 고온의를! 내 이야기를 도와주세요!"
+      "Translation": "Barnos이 나에게 뭔가를 이렇게 되신 때 나는 임무에 나가 있었다. 무엇이든 그것은 고통스럽게 뜨거운 뜨거웠다이었다! 뿐만 아니라 인기 상품 - 많은 - - 사본의 종류의 뜨거운를! 내 이야기를 도와주세요!"
     },
     "quest-a-scalidng-scoop-tips": {
       "Key": "quest-a-scalidng-scoop-tips",
@@ -11469,7 +11469,7 @@ export default {
     },
     "quest-chef-quest-a-rotten-request-tips": {
       "Key": "quest-chef-quest-a-rotten-request-tips",
-      "Translation": "Girros 번째 레벨에서 섹터 6, 7 및 9에서 발견 될 수있다."
+      "Translation": "Girros 번째 수준 섹터 6, 7 및 9에서 발견 될 수있다."
     },
     "quest-chef-quest-gajalaka-lockdown": {
       "Key": "quest-chef-quest-gajalaka-lockdown",
@@ -11645,7 +11645,7 @@ export default {
     },
     "quest-client-provisions-manager": {
       "Key": "quest-client-provisions-manager",
-      "Translation": "규정 관리자"
+      "Translation": "규정 관리"
     },
     "quest-client-scholar-on-the-scene": {
       "Key": "quest-client-scholar-on-the-scene",
@@ -11965,7 +11965,7 @@ export default {
     },
     "quest-coral-waltz-description": {
       "Key": "quest-coral-waltz-description",
-      "Translation": "산호 고원 로밍 괴물은 서로 대적에 대한 의도를 보인다. 이것은 우리의 연구에 큰 보탬이 될 수 있습니다. 사냥꾼,이 기회에 의해 우리를 통과하지 않습니다!"
+      "Translation": "산호 고원 로밍 괴물은 서로 대적에 대한 의도를 보인다. 이것은 우리의 연구에 큰 보탬이 될 수있다. 사냥꾼,이 기회에 의해 우리를 통과하지 않습니다!"
     },
     "quest-deep-green-blues": {
       "Key": "quest-deep-green-blues",
@@ -11973,7 +11973,7 @@ export default {
     },
     "quest-deep-green-blues-description": {
       "Key": "quest-deep-green-blues-description",
-      "Translation": "고대의 숲에 깊이 숨어 괴물은 서로 대적에 대한 의도를 보인다. 이것은 우리의 연구에 큰 보탬이 될 수 있습니다. 사냥꾼,이 기회에 의해 우리를 통과하지 않습니다!"
+      "Translation": "고대의 숲에 깊이 숨어 괴물은 서로 대적에 대한 의도를 보인다. 이것은 우리의 연구에 큰 보탬이 될 수있다. 사냥꾼,이 기회에 의해 우리를 통과하지 않습니다!"
     },
     "quest-description": {
       "Key": "quest-description",
@@ -11985,7 +11985,7 @@ export default {
     },
     "quest-dodogama-drama-description": {
       "Key": "quest-dodogama-drama-description",
-      "Translation": "이봐, 우리는 주위에 로밍 비정상적으로 미세 괴물 시편의 보고서를 입수했습니다. 우리는 최대한 빨리 조사 할 필요가있다, 그래서 우리는이 기회를 포착해야합니다!"
+      "Translation": "이봐, 우리는 주위에 로밍 비정상적으로 미세 괴물 시편의 보고서를 입수했습니다. 우리는 최대한 빨리 조사 할 필요가있다, 그래서 우리는이 기회를 잡을 필요가있다!"
     },
     "quest-dodogama-drama-tips": {
       "Key": "quest-dodogama-drama-tips",
@@ -12053,7 +12053,7 @@ export default {
     },
     "quest-failure-odogaron-is-slain": {
       "Key": "quest-failure-odogaron-is-slain",
-      "Translation": "Odogaron은 죽임"
+      "Translation": "Odogaron가 죽임"
     },
     "quest-failure-time-expires": {
       "Key": "quest-failure-time-expires",
@@ -12329,7 +12329,7 @@ export default {
     },
     "quest-landing-the-landslide-wyvern-tips": {
       "Key": "quest-landing-the-landslide-wyvern-tips",
-      "Translation": "꽤 첨탑 미 레드와 유사하지만 당신은 목표를 캡처해야합니다. 중앙 캠프에서 시작 (6)는 부문과의 싸움에 대한 모습이 limps까지 부문 9. 대한 적혀 있던데 당신은 물에 충격 트랩을 넣을 수 없기 때문에 그리고 Barroth이 진흙을 파괴 라운드 선인장 근처에 함정을 넣을 수 있습니다 여기를 유혹. 그것은 괴물이 잠 들어있는 동안 몇 진정제 폭탄을 사용하는 데 도움이 될 수 있습니다. 당신이 Barroth을 캡처 처음이라면, 당신은 특별 아레나 잠금을 해제 할 수 있습니다 : Barroth 선택 퀘스트."
+      "Translation": "꽤 첨탑 미 레드와 유사하지만 당신은 목표를 캡처해야합니다. 중앙 캠프에서 시작 (6)는 부문과의 싸움에 대한 모습이 limps까지 부문 9. 대한 적혀 있던데 당신은 물에 충격 트랩을 넣을 수 없기 때문에 그리고 Barroth이 진흙을 파괴 라운드 선인장 근처에 함정을 넣을 수 있습니다 여기를 유혹. 그것은 괴물이 잠 들어있는 동안 몇 진정제 폭탄을 사용하는 데 도움이 될 수 있습니다. 당신이 Barroth을 캡처 처음이라면, 당신은 특별 아레나를 잠금을 해제합니다 : Barroth 옵션 퀘스트."
     },
     "quest-lavasioth-monster-of-magma": {
       "Key": "quest-lavasioth-monster-of-magma",
@@ -12337,7 +12337,7 @@ export default {
     },
     "quest-lavasioth-monster-of-magma-description": {
       "Key": "quest-lavasioth-monster-of-magma-description",
-      "Translation": "이봐, 우리는 주위에 로밍 비정상적으로 미세 괴물 시편의 보고서를 입수했습니다. 우리는 최대한 빨리 조사 할 필요가있다, 그래서 우리는이 기회를 포착해야합니다!"
+      "Translation": "이봐, 우리는 주위에 로밍 비정상적으로 미세 괴물 시편의 보고서를 입수했습니다. 우리는 최대한 빨리 조사 할 필요가있다, 그래서 우리는이 기회를 잡을 필요가있다!"
     },
     "quest-left-quite-the-impression": {
       "Key": "quest-left-quite-the-impression",
@@ -12561,7 +12561,7 @@ export default {
     },
     "quest-objective-deliver-20-bauble-cactuses": {
       "Key": "quest-objective-deliver-20-bauble-cactuses",
-      "Translation": "20 지팡이 선인장을 제공"
+      "Translation": "20 지팡이 Cactuses을 제공"
     },
     "quest-objective-deliver-20-gourmet-shroomcaps": {
       "Key": "quest-objective-deliver-20-gourmet-shroomcaps",
@@ -12845,7 +12845,7 @@ export default {
     },
     "quest-objective-slay-the-behemoth": {
       "Key": "quest-objective-slay-the-behemoth",
-      "Translation": "베히모스의 사냥"
+      "Translation": "베히모스 사냥"
     },
     "quest-objective-slay-vaal-hazak": {
       "Key": "quest-objective-slay-vaal-hazak",
@@ -12913,7 +12913,7 @@ export default {
     },
     "quest-ore-eating-occupier-description": {
       "Key": "quest-ore-eating-occupier-description",
-      "Translation": "우리는 약 로밍 비정상적으로 미세 괴물 시편의 보고서를 입수했습니다. 우리는 최대한 빨리 조사 할 필요가있다, 그래서 우리는이 기회를 포착해야합니다!"
+      "Translation": "우리는 약 로밍 비정상적으로 미세 괴물 시편의 보고서를 입수했습니다. 우리는 최대한 빨리 조사 할 필요가있다, 그래서 우리는이 기회를 잡을 필요가있다!"
     },
     "quest-other-monsters": {
       "Key": "quest-other-monsters",
@@ -13025,7 +13025,7 @@ export default {
     },
     "quest-redefining-the-power-couple-notable-rewards": {
       "Key": "quest-redefining-the-power-couple-notable-rewards",
-      "Translation": "도적 맨틀"
+      "Translation": "산적 맨틀"
     },
     "quest-relish-the-moment": {
       "Key": "quest-relish-the-moment",
@@ -13161,7 +13161,7 @@ export default {
     },
     "quest-snatch-the-snatcher-description": {
       "Key": "quest-snatch-the-snatcher-description",
-      "Translation": "쿨 루발 - 아 - 구가 돌과 계란을 픽업하기 위해 민첩 팔을 사용합니다. 도구를 사용하여 몬스터는 매우 드물다. 난 당신이 가까이 연구를 잡을 싶습니다."
+      "Translation": "쿨 루발 - 아 - 구가 돌과 계란을 픽업하기 위해 민첩 팔을 사용합니다. 도구를 사용하여 몬스터는 매우 드물다. 난 당신이 가까이 연구를 위해 하나를 잡을 싶습니다."
     },
     "quest-snatch-the-snatcher-tips": {
       "Key": "quest-snatch-the-snatcher-tips",
@@ -13309,7 +13309,7 @@ export default {
     },
     "quest-special-arena-hr-rathalos-description": {
       "Key": "quest-special-arena-hr-rathalos-description",
-      "Translation": "새로운 도전자 : Rathalos, 레드 핫 레이더의 방화범! 불 덩어리를 용서; 그는 자신의 식사를 요리 좋아! 장갑은 꺼져 - 우리가 큰 그 장갑이없는 것을 ..."
+      "Translation": "새로운 도전자 : Rathalos, 레드 핫 레이더의 방화범! 불 덩어리를 용서; 그는 자신의 식사를 요리 좋아! 장갑이 꺼져 있습니다 - 우리가 큰 그 장갑을 가지고하지 않는 것이 ..."
     },
     "quest-special-arena-hr-rathalos-notes": {
       "Key": "quest-special-arena-hr-rathalos-notes",
@@ -13377,7 +13377,7 @@ export default {
     },
     "quest-special-arena-radobaan": {
       "Key": "quest-special-arena-radobaan",
-      "Translation": "특별 아레나 : Radobaan"
+      "Translation": "특별 경기장 : Radobaan"
     },
     "quest-special-arena-radobaan-tips": {
       "Key": "quest-special-arena-radobaan-tips",
@@ -13485,7 +13485,7 @@ export default {
     },
     "quest-the-blazing-sun-description": {
       "Key": "quest-the-blazing-sun-description",
-      "Translation": "팀은 Wildspire 폐기물에 Teostra을 발견했다. 난 당신이 언급하지 않았다, 그것은 지옥의 황제로 가서 청중을 할 수있는 좋은 기회의 시간이다라고?"
+      "Translation": "팀은 Wildspire 쓰레기에 Teostra을 발견했다. 난 당신이 언급하지 않았다, 그것은 지옥의 황제로 가서 청중을 할 수있는 좋은 기회의 시간이다라고?"
     },
     "quest-the-current-situation": {
       "Key": "quest-the-current-situation",
@@ -13561,7 +13561,7 @@ export default {
     },
     "quest-the-great-glutton-description": {
       "Key": "quest-the-great-glutton-description",
-      "Translation": "지금 당신은 본 적이에 의해 확인 위대한 Jagras은 먹이가 전체 삼키는 방법입니다. 되어 하나 개의 숲에서 다시 발견했다. 내 연구의 한 전에 꺼내는 탐욕스럽게 먹게됩니다!"
+      "Translation": "지금 당신은 본 적이에 의해 확인 위대한 Jagras은 먹이가 전체 삼키는 방법입니다. 되어 하나 개의 숲에서 다시 발견했다. 내 연구 중 하나 전에 그것을 가지고는 탐욕스럽게 먹게됩니다!"
     },
     "quest-the-great-glutton-tips": {
       "Key": "quest-the-great-glutton-tips",
@@ -13877,7 +13877,7 @@ export default {
     },
     "quest-two-horned-hostility-description": {
       "Key": "quest-two-horned-hostility-description",
-      "Translation": "이봐, 우리는 주위에 로밍 비정상적으로 미세 괴물 시편의 보고서를 입수했습니다. 우리는 최대한 빨리 조사 할 필요가있다, 그래서 우리는이 기회를 포착해야합니다!"
+      "Translation": "이봐, 우리는 주위에 로밍 비정상적으로 미세 괴물 시편의 보고서를 입수했습니다. 우리는 최대한 빨리 조사 할 필요가있다, 그래서 우리는이 기회를 잡을 필요가있다!"
     },
     "quest-two-horned-hostility-notes": {
       "Key": "quest-two-horned-hostility-notes",
@@ -14829,11 +14829,11 @@ export default {
     },
     "skill-critical-element-1": {
       "Key": "skill-critical-element-1",
-      "Translation": "치명타를 방문 할 때 원소의 손상 (불, 물, 번개, 얼음, 용)을 증가시킵니다."
+      "Translation": "중요한 안타를 방문 할 때 원소의 손상 (불, 물, 번개, 얼음, 용)을 증가시킵니다."
     },
     "skill-critical-element-description": {
       "Key": "skill-critical-element-description",
-      "Translation": "치명타를 방문 할 때 원소의 손상 (불, 물, 번개, 얼음, 용)을 증가시킵니다."
+      "Translation": "중요한 안타를 방문 할 때 원소의 손상 (불, 물, 번개, 얼음, 용)을 증가시킵니다."
     },
     "skill-critical-eye": {
       "Key": "skill-critical-eye",
@@ -14941,7 +14941,7 @@ export default {
     },
     "skill-divine-blessing-2": {
       "Key": "skill-divine-blessing-2",
-      "Translation": "활동하는 동안 30 %만큼 피해를 줄일 수 있습니다."
+      "Translation": "활성화 된 반면, 30 %받는 피해를 줄일 수 있습니다."
     },
     "skill-divine-blessing-3": {
       "Key": "skill-divine-blessing-3",
@@ -15069,7 +15069,7 @@ export default {
     },
     "skill-effluvial-expert-description": {
       "Key": "skill-effluvial-expert-description",
-      "Translation": "무효화 또는 썩은 베일에 환경 피해를 줄일 수 있습니다."
+      "Translation": "무효 또는 썩은 베일에 환경 피해를 줄일 수 있습니다."
     },
     "skill-elderseal-boost": {
       "Key": "skill-elderseal-boost",
@@ -15117,7 +15117,7 @@ export default {
     },
     "skill-evade-extender": {
       "Key": "skill-evade-extender",
-      "Translation": "피하다 익스텐더"
+      "Translation": "피하다 Extender"
     },
     "skill-evade-extender-1": {
       "Key": "skill-evade-extender-1",
@@ -15273,7 +15273,7 @@ export default {
     },
     "skill-fortify-description": {
       "Key": "skill-fortify-description",
-      "Translation": "공격과 방어 당신이 전투에서 떨어질 때마다 증가합니다. (이 효과는 회 적층 할 수있다.)"
+      "Translation": "공격과 방어 당신이 전투에서 떨어질 때마다 증가합니다. (이 효과 회 적층 할 수있다.)"
     },
     "skill-free-element-ammo-up": {
       "Key": "skill-free-element-ammo-up",
@@ -15637,7 +15637,7 @@ export default {
     },
     "skill-intimidator-3": {
       "Key": "skill-intimidator-3",
-      "Translation": "당신이 발견 된 한 경우에도 사용자에게 참여의 방지 괴물."
+      "Translation": "당신이 발견 된 한 경우에도이 참여에서을 방지 괴물."
     },
     "skill-intimidator-description": {
       "Key": "skill-intimidator-description",
@@ -15913,7 +15913,7 @@ export default {
     },
     "skill-offensive-guard-2": {
       "Key": "skill-offensive-guard-2",
-      "Translation": "활성 증가는 10 % 전투력 동안"
+      "Translation": "활성 증가 10 % 전투력 동안"
     },
     "skill-offensive-guard-3": {
       "Key": "skill-offensive-guard-3",
@@ -15981,7 +15981,7 @@ export default {
     },
     "skill-paralysis-attack-description": {
       "Key": "skill-paralysis-attack-description",
-      "Translation": "마비 축적의 속도를 증가시킵니다. (원소의 형성은 최대 제한이 있습니다)."
+      "Translation": "마비 축적의 속도를 높입니다. (원소의 형성은 최대 제한이 있습니다)."
     },
     "skill-paralysis-resistance": {
       "Key": "skill-paralysis-resistance",
@@ -15997,7 +15997,7 @@ export default {
     },
     "skill-paralysis-resistance-3": {
       "Key": "skill-paralysis-resistance-3",
-      "Translation": "을 방지 마비."
+      "Translation": "방지합니다 마비."
     },
     "skill-paralysis-resistance-description": {
       "Key": "skill-paralysis-resistance-description",
@@ -16069,7 +16069,7 @@ export default {
     },
     "skill-poison-attack-3": {
       "Key": "skill-poison-attack-3",
-      "Translation": "독 축적 + 20 % 보너스 +10"
+      "Translation": "독 증강 + 20 % 보너스 +10"
     },
     "skill-poison-attack-description": {
       "Key": "skill-poison-attack-description",
@@ -16169,11 +16169,11 @@ export default {
     },
     "skill-punishing-draw-1": {
       "Key": "skill-punishing-draw-1",
-      "Translation": "스턴 효과가 원시 공격을하고 약간의 공격력을 증가 추가합니다."
+      "Translation": "기절 효과가 원시 공격을하고 약간의 공격력을 증가 추가합니다."
     },
     "skill-punishing-draw-description": {
       "Key": "skill-punishing-draw-description",
-      "Translation": "스턴 효과가 원시 공격을하고 약간의 공격력을 증가 추가합니다."
+      "Translation": "기절 효과가 원시 공격을하고 약간의 공격력을 증가 추가합니다."
     },
     "skill-quick-sheath": {
       "Key": "skill-quick-sheath",
@@ -16269,7 +16269,7 @@ export default {
     },
     "skill-resentment-5": {
       "Key": "skill-resentment-5",
-      "Translation": "활동하는 동안, 보조금은 25을 공격한다."
+      "Translation": "활성 동안, 보조금은 25을 공격한다."
     },
     "skill-resentment-description": {
       "Key": "skill-resentment-description",
@@ -16593,7 +16593,7 @@ export default {
     },
     "skill-stun-resistance-1": {
       "Key": "skill-stun-resistance-1",
-      "Translation": "30 % 스턴의 지속 시간을 감소시킵니다."
+      "Translation": "30 % 스턴 지속 시간을 감소시킵니다."
     },
     "skill-stun-resistance-2": {
       "Key": "skill-stun-resistance-2",
@@ -16821,7 +16821,7 @@ export default {
     },
     "skill-windproof-4": {
       "Key": "skill-windproof-4",
-      "Translation": "부정의 작은 바람 압력과 주요 풍압의 영향을 줄일 수 있습니다."
+      "Translation": "부정의 작은 바람 압력과 주요 풍압의 영향을 줄일 수있다."
     },
     "skill-windproof-5": {
       "Key": "skill-windproof-5",
@@ -16925,7 +16925,7 @@ export default {
     },
     "trophy-capture-pro-description": {
       "Key": "trophy-capture-pro-description",
-      "Translation": "50 괴물을 캡처합니다."
+      "Translation": "50 괴물을 캡처."
     },
     "trophy-celestial-illusion": {
       "Key": "trophy-celestial-illusion",
@@ -17021,7 +17021,7 @@ export default {
     },
     "trophy-eager-engineer-description": {
       "Key": "trophy-eager-engineer-description",
-      "Translation": "Steamworks 20 번 도와주세요."
+      "Translation": "Steamworks 20 회를 도와주세요."
     },
     "trophy-elderslayer": {
       "Key": "trophy-elderslayer",
@@ -17157,7 +17157,7 @@ export default {
     },
     "trophy-hunter-prodigy-description": {
       "Key": "trophy-hunter-prodigy-description",
-      "Translation": "마스터 순위 퀘스트 100 대형 몬스터를 사냥."
+      "Translation": "마스터 순위 퀘스트 100 개 대형 몬스터를 사냥."
     },
     "trophy-hunters-united": {
       "Key": "trophy-hunters-united",
@@ -17245,7 +17245,7 @@ export default {
     },
     "trophy-master-capturer-description": {
       "Key": "trophy-master-capturer-description",
-      "Translation": "마스터 순위 퀘스트 50 큰 괴물을 캡처합니다."
+      "Translation": "마스터 순위 퀘스트 50 개 큰 괴물을 캡처합니다."
     },
     "trophy-master-explorer": {
       "Key": "trophy-master-explorer",
@@ -17429,7 +17429,7 @@ export default {
     },
     "trophy-skilled-steamworker-description": {
       "Key": "trophy-skilled-steamworker-description",
-      "Translation": "오버 드라이브에 Steamworks를 보냅니다."
+      "Translation": "오버 드라이브로 Steamworks를 보냅니다."
     },
     "trophy-snuggles-for-all": {
       "Key": "trophy-snuggles-for-all",
@@ -18373,7 +18373,7 @@ export default {
     },
     "weapon-great-sword-datura-blaze-ii": {
       "Key": "weapon-great-sword-datura-blaze-ii",
-      "Translation": "흰 독말풀 블레이즈 II"
+      "Translation": "흰 독말풀 불꽃 II"
     },
     "weapon-great-sword-datura-blaze-iii": {
       "Key": "weapon-great-sword-datura-blaze-iii",
@@ -18713,7 +18713,7 @@ export default {
     },
     "weapon-great-sword-taroth-blaze-water": {
       "Key": "weapon-great-sword-taroth-blaze-water",
-      "Translation": "Taroth 블레이즈 \"물\""
+      "Translation": "Taroth 불꽃 \"물\""
     },
     "weapon-great-sword-thunder-blade-i": {
       "Key": "weapon-great-sword-thunder-blade-i",
@@ -19025,7 +19025,7 @@ export default {
     },
     "weapon-hammer-brazenbreak-i": {
       "Key": "weapon-hammer-brazenbreak-i",
-      "Translation": "Brazenbreak I"
+      "Translation": "Brazenbreak 나는"
     },
     "weapon-hammer-brazenbreak-ii": {
       "Key": "weapon-hammer-brazenbreak-ii",
@@ -19521,7 +19521,7 @@ export default {
     },
     "weapon-hunting-horn-datura-horn-i": {
       "Key": "weapon-hunting-horn-datura-horn-i",
-      "Translation": "흰 독말풀 혼 I"
+      "Translation": "Datura 혼 I"
     },
     "weapon-hunting-horn-datura-horn-ii": {
       "Key": "weapon-hunting-horn-datura-horn-ii",
@@ -20417,7 +20417,7 @@ export default {
     },
     "weapon-long-sword-azure-star-blade": {
       "Key": "weapon-long-sword-azure-star-blade",
-      "Translation": "푸른 별 블레이드"
+      "Translation": "푸른 스타 블레이드"
     },
     "weapon-long-sword-azure-star-dragon-dance": {
       "Key": "weapon-long-sword-azure-star-dragon-dance",
@@ -20801,7 +20801,7 @@ export default {
     },
     "weapon-long-sword-taroth-sword-fire": {
       "Key": "weapon-long-sword-taroth-sword-fire",
-      "Translation": "Taroth 검 \"불\""
+      "Translation": "Taroth 소드 \"불\""
     },
     "weapon-long-sword-taroth-sword-flash": {
       "Key": "weapon-long-sword-taroth-sword-flash",
@@ -21345,7 +21345,7 @@ export default {
     },
     "weapon-sword-and-shield-taroth-slicer-glutton": {
       "Key": "weapon-sword-and-shield-taroth-slicer-glutton",
-      "Translation": "Taroth 슬라이서 \"열성\""
+      "Translation": "Taroth Slicer \"열성\""
     },
     "weapon-sword-and-shield-taroth-slicer-king": {
       "Key": "weapon-sword-and-shield-taroth-slicer-king",
@@ -22109,7 +22109,7 @@ export default {
     },
     "weapon-gunlance-anjanath-flamelance-i": {
       "Key": "weapon-gunlance-anjanath-flamelance-i",
-      "Translation": "Anjanath Flamelance I"
+      "Translation": "Anjanath Flamelance 나는"
     },
     "weapon-gunlance-anjanath-flamelance-ii": {
       "Key": "weapon-gunlance-anjanath-flamelance-ii",
@@ -22905,7 +22905,7 @@ export default {
     },
     "weapon-lance-abyss-aggressor-i": {
       "Key": "weapon-lance-abyss-aggressor-i",
-      "Translation": "심연 침략자 I"
+      "Translation": "심연의 침략자 나"
     },
     "weapon-lance-abyss-aggressor-ii": {
       "Key": "weapon-lance-abyss-aggressor-ii",
@@ -23958,5 +23958,369 @@ export default {
     "weapon-long-sword-great-demon-halberd": {
       "Key": "weapon-long-sword-great-demon-halberd",
       "Translation": "위대한 악마 미늘창"
+    },
+    "weapon-bow-acidic-arrow-ii": {
+      "Key": "weapon-bow-acidic-arrow-ii",
+      "Translation": "산성 화살표 II"
+    },
+    "weapon-bow-deathbow-vaal-velos": {
+      "Key": "weapon-bow-deathbow-vaal-velos",
+      "Translation": "Deathbow Vaal Velos"
+    },
+    "weapon-bow-hydra-planula": {
+      "Key": "weapon-bow-hydra-planula",
+      "Translation": "히드라 플랜 울라"
+    },
+    "weapon-bow-black-planula": {
+      "Key": "weapon-bow-black-planula",
+      "Translation": "블랙 플랜 울라"
+    },
+    "weapon-bow-cera-coilbender-plus": {
+      "Key": "weapon-bow-cera-coilbender-plus",
+      "Translation": "세라 Coilbender +"
+    },
+    "weapon-bow-cera-cyclord": {
+      "Key": "weapon-bow-cera-cyclord",
+      "Translation": "세라 Cyclord"
+    },
+    "weapon-bow-datura-squall-i": {
+      "Key": "weapon-bow-datura-squall-i",
+      "Translation": "흰 독말풀 스콜 I"
+    },
+    "weapon-bow-datura-squall-ii": {
+      "Key": "weapon-bow-datura-squall-ii",
+      "Translation": "흰 독말풀 스콜 II"
+    },
+    "weapon-bow-nightmare-string-i": {
+      "Key": "weapon-bow-nightmare-string-i",
+      "Translation": "악몽 문자열 I"
+    },
+    "weapon-bow-nightmare-string-ii": {
+      "Key": "weapon-bow-nightmare-string-ii",
+      "Translation": "악몽 문자열 II"
+    },
+    "weapon-bow-anjanath-flamebow-i": {
+      "Key": "weapon-bow-anjanath-flamebow-i",
+      "Translation": "Anjanath Flamebow I"
+    },
+    "weapon-bow-anjanath-flamebow-ii": {
+      "Key": "weapon-bow-anjanath-flamebow-ii",
+      "Translation": "Anjanath Flamebow II"
+    },
+    "weapon-bow-fulguring-bow-i": {
+      "Key": "weapon-bow-fulguring-bow-i",
+      "Translation": "Fulguring 활 I"
+    },
+    "weapon-bow-fulguring-bow-ii": {
+      "Key": "weapon-bow-fulguring-bow-ii",
+      "Translation": "Fulguring 활 II"
+    },
+    "weapon-bow-flying-kadachi-strikebow-plus": {
+      "Key": "weapon-bow-flying-kadachi-strikebow-plus",
+      "Translation": "플라잉 Kadachi Strikebow +"
+    },
+    "weapon-bow-thundering-strikebow": {
+      "Key": "weapon-bow-thundering-strikebow",
+      "Translation": "천둥 Strikebow"
+    },
+    "weapon-bow-fellbow-crimson-hail": {
+      "Key": "weapon-bow-fellbow-crimson-hail",
+      "Translation": "Fellbow 크림슨 우박"
+    },
+    "weapon-bow-fellbow-crimson-hail-plus": {
+      "Key": "weapon-bow-fellbow-crimson-hail-plus",
+      "Translation": "Fellbow 크림슨 우박 +"
+    },
+    "weapon-bow-fellbow-crimson-storm": {
+      "Key": "weapon-bow-fellbow-crimson-storm",
+      "Translation": "Fellbow 크림슨 스톰"
+    },
+    "weapon-bow-dragonseal-aldbow-i": {
+      "Key": "weapon-bow-dragonseal-aldbow-i",
+      "Translation": "Dragonseal Aldbow I"
+    },
+    "weapon-bow-dragonseal-aldbow-ii": {
+      "Key": "weapon-bow-dragonseal-aldbow-ii",
+      "Translation": "Dragonseal Aldbow II"
+    },
+    "weapon-bow-dawning-insight": {
+      "Key": "weapon-bow-dawning-insight",
+      "Translation": "뜨거운 경쟁 인사이트"
+    },
+    "weapon-bow-daoras-toxotes": {
+      "Key": "weapon-bow-daoras-toxotes",
+      "Translation": "Daora의 Toxotes"
+    },
+    "weapon-bow-fates-thread": {
+      "Key": "weapon-bow-fates-thread",
+      "Translation": "운명의 스레드"
+    },
+    "weapon-bow-beast-thunderbow": {
+      "Key": "weapon-bow-beast-thunderbow",
+      "Translation": "야수 Thunderbow"
+    },
+    "weapon-bow-beastking-thunderbow": {
+      "Key": "weapon-bow-beastking-thunderbow",
+      "Translation": "Beastking Thunderbow"
+    },
+    "weapon-hunting-horn-sforzando-i": {
+      "Key": "weapon-hunting-horn-sforzando-i",
+      "Translation": "Sforzando 이거든 I"
+    },
+    "weapon-hunting-horn-sforzando-ii": {
+      "Key": "weapon-hunting-horn-sforzando-ii",
+      "Translation": "Sforzando 이거든 III"
+    },
+    "weapon-hunting-horn-raven-shamisen": {
+      "Key": "weapon-hunting-horn-raven-shamisen",
+      "Translation": "까마귀 샤미센"
+    },
+    "weapon-hunting-horn-ruinous-desolation": {
+      "Key": "weapon-hunting-horn-ruinous-desolation",
+      "Translation": "파멸을 가져 오는 황폐"
+    },
+    "weapon-hunting-horn-usurpers-growl": {
+      "Key": "weapon-hunting-horn-usurpers-growl",
+      "Translation": "횡령의 포효"
+    },
+    "weapon-hunting-horn-usurpers-growl-plus": {
+      "Key": "weapon-hunting-horn-usurpers-growl-plus",
+      "Translation": "횡령의 으르렁 +"
+    },
+    "weapon-hunting-horn-despots-thunderclap": {
+      "Key": "weapon-hunting-horn-despots-thunderclap",
+      "Translation": "군주의 천둥 벼락"
+    },
+    "weapon-hunting-horn-taghrid-al-nasr-i": {
+      "Key": "weapon-hunting-horn-taghrid-al-nasr-i",
+      "Translation": "Taghrid 알 - 나스 르 I"
+    },
+    "weapon-hunting-horn-taghrid-al-nasr-ii": {
+      "Key": "weapon-hunting-horn-taghrid-al-nasr-ii",
+      "Translation": "Taghrid 알 - 나스 르 II"
+    },
+    "weapon-hunting-horn-striped-dragonga": {
+      "Key": "weapon-hunting-horn-striped-dragonga",
+      "Translation": "스트라이프 Dragonga"
+    },
+    "weapon-hunting-horn-striped-dragonga-plus": {
+      "Key": "weapon-hunting-horn-striped-dragonga-plus",
+      "Translation": "스트라이프 Dragonga +"
+    },
+    "weapon-hunting-horn-tigrex-horn": {
+      "Key": "weapon-hunting-horn-tigrex-horn",
+      "Translation": "Tigrex 혼"
+    },
+    "weapon-hunting-horn-accursed-wail": {
+      "Key": "weapon-hunting-horn-accursed-wail",
+      "Translation": "저주 통곡"
+    },
+    "weapon-hunting-horn-royal-chordmaker-plus": {
+      "Key": "weapon-hunting-horn-royal-chordmaker-plus",
+      "Translation": "로얄 Chordmaker +"
+    },
+    "weapon-hunting-horn-regal-flute": {
+      "Key": "weapon-hunting-horn-regal-flute",
+      "Translation": "리갈 플루트"
+    },
+    "weapon-hunting-horn-gold-chordmaker": {
+      "Key": "weapon-hunting-horn-gold-chordmaker",
+      "Translation": "골드 Chordmaker"
+    },
+    "weapon-hunting-horn-water-tamtam-iv": {
+      "Key": "weapon-hunting-horn-water-tamtam-iv",
+      "Translation": "물 Tamtam IV"
+    },
+    "weapon-hunting-horn-laguna-drum-i": {
+      "Key": "weapon-hunting-horn-laguna-drum-i",
+      "Translation": "라구나 드럼 I"
+    },
+    "weapon-hunting-horn-laguna-drum-ii": {
+      "Key": "weapon-hunting-horn-laguna-drum-ii",
+      "Translation": "라구나 드럼 II"
+    },
+    "weapon-hunting-horn-hidden-harmonic": {
+      "Key": "weapon-hunting-horn-hidden-harmonic",
+      "Translation": "숨겨진 고조파"
+    },
+    "weapon-hunting-horn-hidden-harmonic-plus": {
+      "Key": "weapon-hunting-horn-hidden-harmonic-plus",
+      "Translation": "숨겨진 고조파 +"
+    },
+    "weapon-hunting-horn-cry-in-the-night": {
+      "Key": "weapon-hunting-horn-cry-in-the-night",
+      "Translation": "밤에 울어"
+    },
+    "weapon-hunting-horn-legia-sectored-plus": {
+      "Key": "weapon-hunting-horn-legia-sectored-plus",
+      "Translation": "레 기아 섹터 +"
+    },
+    "weapon-hunting-horn-hoarcry-sectored": {
+      "Key": "weapon-hunting-horn-hoarcry-sectored",
+      "Translation": "Hoarcry 섹터"
+    },
+    "weapon-hunting-horn-lilim-glacia": {
+      "Key": "weapon-hunting-horn-lilim-glacia",
+      "Translation": "Lilim Glacia"
+    },
+    "weapon-hunting-horn-mad-bone-horn-i": {
+      "Key": "weapon-hunting-horn-mad-bone-horn-i",
+      "Translation": "미친 뼈 뿔 I"
+    },
+    "weapon-hunting-horn-mad-bone-horn-ii": {
+      "Key": "weapon-hunting-horn-mad-bone-horn-ii",
+      "Translation": "미친 뼈 뿔 II"
+    },
+    "weapon-hunting-horn-mad-bone-horn-iii": {
+      "Key": "weapon-hunting-horn-mad-bone-horn-iii",
+      "Translation": "미친 뼈 뿔 III"
+    },
+    "weapon-hunting-horn-icespiel": {
+      "Key": "weapon-hunting-horn-icespiel",
+      "Translation": "Icespiel"
+    },
+    "weapon-hunting-horn-sonorous-eisfyl": {
+      "Key": "weapon-hunting-horn-sonorous-eisfyl",
+      "Translation": "울려 퍼지는 Eisfyl"
+    },
+    "weapon-hunting-horn-gama-chorus-i": {
+      "Key": "weapon-hunting-horn-gama-chorus-i",
+      "Translation": "마 코러스 I"
+    },
+    "weapon-hunting-horn-gama-chorus-ii": {
+      "Key": "weapon-hunting-horn-gama-chorus-ii",
+      "Translation": "마 코러스 II"
+    },
+    "weapon-hunting-horn-hell-horn": {
+      "Key": "weapon-hunting-horn-hell-horn",
+      "Translation": "지옥 혼"
+    },
+    "weapon-hunting-horn-hell-horn-plus": {
+      "Key": "weapon-hunting-horn-hell-horn-plus",
+      "Translation": "지옥 혼 +"
+    },
+    "weapon-hunting-horn-glavenus-horn": {
+      "Key": "weapon-hunting-horn-glavenus-horn",
+      "Translation": "Glavenus 혼"
+    },
+    "weapon-hunting-horn-anjanath-hum-i": {
+      "Key": "weapon-hunting-horn-anjanath-hum-i",
+      "Translation": "Anjanath 흠 I"
+    },
+    "weapon-hunting-horn-anjanath-hum-ii": {
+      "Key": "weapon-hunting-horn-anjanath-hum-ii",
+      "Translation": "Anjanath 흠 II"
+    },
+    "weapon-hunting-horn-fulguring-horn-i": {
+      "Key": "weapon-hunting-horn-fulguring-horn-i",
+      "Translation": "Fulguring 혼 I"
+    },
+    "weapon-hunting-horn-fulguring-horn-ii": {
+      "Key": "weapon-hunting-horn-fulguring-horn-ii",
+      "Translation": "Fulguring 혼 II"
+    },
+    "weapon-hunting-horn-sulfurteinn-svild": {
+      "Key": "weapon-hunting-horn-sulfurteinn-svild",
+      "Translation": "Sulfurteinn Svild"
+    },
+    "weapon-hunting-horn-the-rasping-ballad": {
+      "Key": "weapon-hunting-horn-the-rasping-ballad",
+      "Translation": "초조 발라드"
+    },
+    "weapon-hunting-horn-datura-maestro-i": {
+      "Key": "weapon-hunting-horn-datura-maestro-i",
+      "Translation": "흰 독말풀 마에스트로 I"
+    },
+    "weapon-hunting-horn-datura-maestro-ii": {
+      "Key": "weapon-hunting-horn-datura-maestro-ii",
+      "Translation": "흰 독말풀 마에스트로 II"
+    },
+    "weapon-hunting-horn-icicle-horn-i": {
+      "Key": "weapon-hunting-horn-icicle-horn-i",
+      "Translation": "고드름 혼 I"
+    },
+    "weapon-hunting-horn-icicle-horn-ii": {
+      "Key": "weapon-hunting-horn-icicle-horn-ii",
+      "Translation": "고드름 혼 II"
+    },
+    "weapon-hunting-horn-lumu-drone-i": {
+      "Key": "weapon-hunting-horn-lumu-drone-i",
+      "Translation": "Lumu 드론 I"
+    },
+    "weapon-hunting-horn-lumu-drone-ii": {
+      "Key": "weapon-hunting-horn-lumu-drone-ii",
+      "Translation": "Lumu 드론 II"
+    },
+    "weapon-hunting-horn-nyx-barone-i": {
+      "Key": "weapon-hunting-horn-nyx-barone-i",
+      "Translation": "NYX 바론 I"
+    },
+    "weapon-hunting-horn-nyx-barone-ii": {
+      "Key": "weapon-hunting-horn-nyx-barone-ii",
+      "Translation": "NYX 바론 II"
+    },
+    "weapon-hunting-horn-rooksearer-drum": {
+      "Key": "weapon-hunting-horn-rooksearer-drum",
+      "Translation": "Rooksearer 드럼"
+    },
+    "weapon-hunting-horn-bazel-valdi-rooksearer": {
+      "Key": "weapon-hunting-horn-bazel-valdi-rooksearer",
+      "Translation": "Bazel Valdi Rooksearer"
+    },
+    "weapon-hunting-horn-queen-vespoid-horn-plus": {
+      "Key": "weapon-hunting-horn-queen-vespoid-horn-plus",
+      "Translation": "여왕 Vespoid 혼 +"
+    },
+    "weapon-hunting-horn-queens-flute-ii": {
+      "Key": "weapon-hunting-horn-queens-flute-ii",
+      "Translation": "여왕의 플루트 II"
+    },
+    "weapon-hunting-horn-baan-rattle-i": {
+      "Key": "weapon-hunting-horn-baan-rattle-i",
+      "Translation": "반 래틀 I"
+    },
+    "weapon-hunting-horn-brachydios-horn-i": {
+      "Key": "weapon-hunting-horn-brachydios-horn-i",
+      "Translation": "Brachydios 혼 I"
+    },
+    "weapon-hunting-horn-brachydios-horn-ii": {
+      "Key": "weapon-hunting-horn-brachydios-horn-ii",
+      "Translation": "Brachydios 혼 II"
+    },
+    "weapon-hunting-horn-dragonseal-aldhorn-i": {
+      "Key": "weapon-hunting-horn-dragonseal-aldhorn-i",
+      "Translation": "Dragonseal Aldhorn I"
+    },
+    "weapon-hunting-horn-dragonseal-aldhorn-ii": {
+      "Key": "weapon-hunting-horn-dragonseal-aldhorn-ii",
+      "Translation": "Dragonseal Aldhorn II"
+    },
+    "weapon-hunting-horn-thunderwail-feyhorn": {
+      "Key": "weapon-hunting-horn-thunderwail-feyhorn",
+      "Translation": "Thunderwail Feyhorn"
+    },
+    "weapon-hunting-horn-hydros-horn": {
+      "Key": "weapon-hunting-horn-hydros-horn",
+      "Translation": "하이드 로스 혼"
+    },
+    "weapon-hunting-horn-teostras-musica": {
+      "Key": "weapon-hunting-horn-teostras-musica",
+      "Translation": "Teostra의 무지카"
+    },
+    "weapon-hunting-horn-fates-dirge": {
+      "Key": "weapon-hunting-horn-fates-dirge",
+      "Translation": "운명의 만가"
+    },
+    "weapon-hunting-horn-denden-daiko": {
+      "Key": "weapon-hunting-horn-denden-daiko",
+      "Translation": "덴덴 다이 코"
+    },
+    "weapon-hunting-horn-soulfire-chorus-blaze": {
+      "Key": "weapon-hunting-horn-soulfire-chorus-blaze",
+      "Translation": "Soulfire 코러스 \"불꽃\""
+    },
+    "weapon-hunting-horn-soulfire-chorus-ruin": {
+      "Key": "weapon-hunting-horn-soulfire-chorus-ruin",
+      "Translation": "Soulfire 코러스 \"파멸\""
     }
   }

@@ -257,7 +257,7 @@ export default {
     },
     "armor-hornetaur-description": {
       "Key": "armor-hornetaur-description",
-      "Translation": "Armure plaqué dans les disques parties Hornetaur si lustrée vous le jurez est en métal poli."
+      "Translation": "Armure à panneau dans les disques parties Hornetaur si lustrée vous le jurez est en métal poli."
     },
     "armor-hr-alloy-alpha": {
       "Key": "armor-hr-alloy-alpha",
@@ -929,7 +929,7 @@ export default {
     },
     "armor-hr-deviljho-beta": {
       "Key": "armor-hr-deviljho-beta",
-      "Translation": "Deviljho ß"
+      "Translation": "ß Deviljho"
     },
     "armor-hr-diablos-alpha": {
       "Key": "armor-hr-diablos-alpha",
@@ -2801,7 +2801,7 @@ export default {
     },
     "armor-hr-strategist-alpha": {
       "Key": "armor-hr-strategist-alpha",
-      "Translation": "stratégiste ⍺"
+      "Translation": "stratège ⍺"
     },
     "armor-hr-strategist-spectacles-alpha": {
       "Key": "armor-hr-strategist-spectacles-alpha",
@@ -3245,7 +3245,7 @@ export default {
     },
     "armor-ingot-description": {
       "Key": "armor-ingot-description",
-      "Translation": "Armure conçu à partir de minerai d'or brillant. Sa couleur et le design sont à la fois très agréable."
+      "Translation": "Armure conçu à partir de minerai d'or brillant. Sa couleur et du design sont très agréables."
     },
     "armor-jagras-description": {
       "Key": "armor-jagras-description",
@@ -3293,7 +3293,7 @@ export default {
     },
     "armor-lavasioth-description": {
       "Key": "armor-lavasioth-description",
-      "Translation": "coquille épaisse Lavasioth a subi un procédé de traitement minutieux pour obtenir cette armure. En vérité, une œuvre d'art."
+      "Translation": "coquille épaisse Lavasioth subi un procédé de traitement minutieux pour obtenir cette armure. En vérité, une œuvre d'art."
     },
     "armor-leather-description": {
       "Key": "armor-leather-description",
@@ -4429,7 +4429,7 @@ export default {
     },
     "armor-mr-baan-vambraces-beta-plus": {
       "Key": "armor-mr-baan-vambraces-beta-plus",
-      "Translation": "Baan Brassards ß +"
+      "Translation": "Baan ß Brassards +"
     },
     "armor-mr-banbaro-alpha-plus": {
       "Key": "armor-mr-banbaro-alpha-plus",
@@ -4661,7 +4661,7 @@ export default {
     },
     "armor-mr-black-belt-greaves-beta-plus": {
       "Key": "armor-mr-black-belt-greaves-beta-plus",
-      "Translation": "+ de la ceinture noire Grèves"
+      "Translation": "+ de ceinture noire de Greaves"
     },
     "armor-mr-black-belt-helm-alpha-plus": {
       "Key": "armor-mr-black-belt-helm-alpha-plus",
@@ -4709,7 +4709,7 @@ export default {
     },
     "armor-mr-bone-coil-beta-plus": {
       "Key": "armor-mr-bone-coil-beta-plus",
-      "Translation": "+ de Coil os"
+      "Translation": "+ de Coil Bone"
     },
     "armor-mr-bone-greaves-alpha-plus": {
       "Key": "armor-mr-bone-greaves-alpha-plus",
@@ -5157,7 +5157,7 @@ export default {
     },
     "armor-mr-fulgur-anja-beta-plus": {
       "Key": "armor-mr-fulgur-anja-beta-plus",
-      "Translation": "Fulgur Anja ß +"
+      "Translation": "Fulgur Anja + ß"
     },
     "armor-mr-fulgur-coil-alpha-plus": {
       "Key": "armor-mr-fulgur-coil-alpha-plus",
@@ -5189,7 +5189,7 @@ export default {
     },
     "armor-mr-fulgur-mail-beta-plus": {
       "Key": "armor-mr-fulgur-mail-beta-plus",
-      "Translation": "Fulgur Mail + de"
+      "Translation": "Fulgur Mail de +"
     },
     "armor-mr-fulgur-vambraces-alpha-plus": {
       "Key": "armor-mr-fulgur-vambraces-alpha-plus",
@@ -6313,7 +6313,7 @@ export default {
     },
     "armor-mr-pride-mail-beta-plus": {
       "Key": "armor-mr-pride-mail-beta-plus",
-      "Translation": "+ de Pride Courrier"
+      "Translation": "+ de fierté de courrier"
     },
     "armor-mr-pride-vambraces-alpha-plus": {
       "Key": "armor-mr-pride-vambraces-alpha-plus",
@@ -6941,7 +6941,7 @@ export default {
     },
     "armor-mr-uragaan-coil-beta-plus": {
       "Key": "armor-mr-uragaan-coil-beta-plus",
-      "Translation": "+ de bobine de Uragaan"
+      "Translation": "Le + de Uragaan bobine"
     },
     "armor-mr-uragaan-greaves-alpha-plus": {
       "Key": "armor-mr-uragaan-greaves-alpha-plus",
@@ -7061,7 +7061,7 @@ export default {
     },
     "armor-mr-viper-kadachi-greaves-beta-plus": {
       "Key": "armor-mr-viper-kadachi-greaves-beta-plus",
-      "Translation": "Viper Kadachi Grèves de +"
+      "Translation": "Viper Kadachi Greaves la +"
     },
     "armor-mr-viper-kadachi-hat-alpha-plus": {
       "Key": "armor-mr-viper-kadachi-hat-alpha-plus",
@@ -7145,7 +7145,7 @@ export default {
     },
     "armor-mr-zinogre-mail-beta-plus": {
       "Key": "armor-mr-zinogre-mail-beta-plus",
-      "Translation": "Zingore Mail + de"
+      "Translation": "Zingore Mail de +"
     },
     "armor-mr-zorah-alpha-plus": {
       "Key": "armor-mr-zorah-alpha-plus",
@@ -7325,7 +7325,7 @@ export default {
     },
     "armor-set-bonus-skill-hasten-recovery": {
       "Key": "armor-set-bonus-skill-hasten-recovery",
-      "Translation": "Récupération Hâtez"
+      "Translation": "Hâtez Recovery"
     },
     "armor-set-bonus-skill-hasten-recovery-description": {
       "Key": "armor-set-bonus-skill-hasten-recovery-description",
@@ -7601,7 +7601,7 @@ export default {
     },
     "critical-bounties-important-notes": {
       "Key": "critical-bounties-important-notes",
-      "Translation": "Il y a trois chercheurs que vous pouvez rencontrer sur le terrain. La vie du chercheur Endémique, le chercheur Lynian et le chercheur Piscine \\ n \\ nLorsque vous définissez sur une expédition, un seul chercheur frayer dans la zone. Ce qui fraie chercheur, est affiché sur la carte du monde lorsque vous choisissez votre destination de l'expédition. Chaque fois que vous terminez une mission, l'expédition ou d'une enquête, il change qui fraye de nouveaux chercheurs. Voilà pourquoi il est important de vérifier régulièrement la carte du monde. \\ N \\ nIl est important de parler à chaque chercheur dans chaque zone afin de progresser à travers les primes critiques de chaque chercheur. Comme il est aléatoire qui fraye de nouveaux chercheurs (voir la note précédente), il est facile de manquer ces primes critiques. \\ N \\ n Si un chercheur a une prime à l'offre, ils apparaissent comme un point d'exclamation jaune (!) Sur la carte . Je ne vois pas toujours ces marques sur la carte et c'est la raison pour laquelle j'ai raté ces primes critiques. Une fois que vous êtes sur une expédition, ouvrez votre carte du monde et utilisez les boutons L1 / R1 pour sélectionner le filtre vie Endémique pour le rendre plus facile à repérer. \\ N \\ n Si un chercheur n'a pas bounty à offrir, ils apparaîtront comme un vert lumineux point (.) sur la carte. \\ n \\ nAprès vous compléter une prime critique, vous pouvez parler au chercheur concerné pour l'informer / elle que vous avez terminé la prime. Cependant, il faut toujours parler du Centre de recherche en Astera pour compléter la prime et recevoir les récompenses. \\ N \\ n Si vous n'avez pas parlé au chercheur après avoir terminé une prime et vous êtes sur le point de leur parler dans une nouvelle zone d'accepter une nouvelle prime, il est possible que vous devez parler au chercheur deux fois. Une fois pour l'informer / elle que vous avez terminé la prime précédente. Une autre fois pour initier la générosité critique de la nouvelle zone \\ n \\ nChoosing le bas Rang ou Haute destination Rang n'a pas d'importance, sauf pour Recess Dragon qui est rang élevé que \\ n \\ nLynian Bounties:.. Chaque fois que vous trouvez griffonnages, vous peut les marquer avec vos scouts mouches et ils vous guideront vers le prochain doodle. Cela vous conduit aux endroits indiqués ci-dessous. Après amitié avec un clan, vous pouvez parler à votre Palico dans votre chambre ou à la base de recherche. Votre Palico vous indiquera alors les nouveaux trucs qu'il a appris."
+      "Translation": "Il y a trois chercheurs que vous pouvez rencontrer sur le terrain. La vie du chercheur Endémique, le chercheur Lynian et le chercheur Piscine \\ n \\ nLorsque vous définissez sur une expédition, un seul chercheur frayer dans la zone. Ce qui chercheur fraie, est affiché sur la carte du monde lorsque vous choisissez votre destination de l'expédition. Chaque fois que vous terminez une mission, l'expédition ou d'une enquête, il change qui fraye de nouveaux chercheurs. Voilà pourquoi il est important de vérifier régulièrement la carte du monde. \\ N \\ nIl est important de parler à chaque chercheur dans chaque zone afin de progresser à travers les primes critiques de chaque chercheur. Comme il est aléatoire qui fraye de nouveaux chercheurs (voir la note précédente), il est facile de manquer ces primes critiques. \\ N \\ n Si un chercheur a une prime à l'offre, ils apparaissent comme un point d'exclamation jaune (!) Sur la carte . Je ne vois pas toujours ces marques sur la carte et c'est la raison pour laquelle j'ai raté ces primes critiques. Une fois que vous êtes sur une expédition, ouvrez votre carte du monde et utilisez les boutons L1 / R1 pour sélectionner le filtre vie Endémique pour le rendre plus facile à repérer. \\ N \\ n Si un chercheur n'a pas bounty à offrir, ils apparaîtront comme un vert lumineux point (.) sur la carte. \\ n \\ nAprès vous compléter une prime critique, vous pouvez parler au chercheur concerné pour l'informer / elle que vous avez terminé la prime. Cependant, il faut toujours parler du Centre de recherche en Astera pour compléter la prime et recevoir les récompenses. \\ N \\ n Si vous n'avez pas parlé au chercheur après avoir terminé une prime et vous êtes sur le point de leur parler dans une nouvelle zone d'accepter une nouvelle prime, il est possible que vous devez parler au chercheur deux fois. Une fois pour l'informer / elle que vous avez terminé la prime précédente. Une autre fois pour initier la générosité critique de la nouvelle zone \\ n \\ nChoosing le bas Rang ou Haute destination Rang n'a pas d'importance, sauf pour Recess Dragon qui est rang élevé que \\ n \\ nLynian Bounties:.. Chaque fois que vous trouvez griffonnages, vous peut les marquer avec vos scouts mouches et ils vous guideront vers le prochain doodle. Cela vous conduit aux endroits indiqués ci-dessous. Après amitié avec un clan, vous pouvez parler à votre Palico dans votre chambre ou à la base de recherche. Votre Palico vous indiquera alors les nouveaux trucs qu'il a appris."
     },
     "critical-bounties-notes": {
       "Key": "critical-bounties-notes",
@@ -7689,7 +7689,7 @@ export default {
     },
     "critical-bounties-research-help-phantom-bird-tips": {
       "Key": "critical-bounties-research-help-phantom-bird-tips",
-      "Translation": "Cette prime peut être ramassé dans une zone si le premier 5 Endémique Vie critique bontés et le premier 5 Piscine critique Bounties ont été réalisées. \\ N \\ groupe nA de Downy Crakes peut apparaître sur le dos d'un Apceros ou un Aptonoth. Apceros se trouvent dans la zone 1 des déchets Wildspire (Sud-Ouest Camp (1)). \\ N \\ nAptonoth se trouvent dans la zone 1 de la forêt ancienne (sud-ouest Camp (1)). retour Voyage et-vient entre ces zones. Mettez votre Ghillie Mantle avant de quitter le camp."
+      "Translation": "Cette générosité peut être ramassé dans une zone si le premier 5 Endémique Vie critique bontés et le premier 5 Piscine critique Bounties ont été complétées. \\ N \\ groupe nA de Downy peut Crakes apparaître sur le dos d'un Apceros ou un Aptonoth. Apceros se trouvent dans la zone 1 des déchets Wildspire (Sud-Ouest Camp (1)). \\ N \\ nAptonoth se trouvent dans la zone 1 de la forêt ancienne (sud-ouest Camp (1)). retour Voyage et-vient entre ces zones. Mettez votre Ghillie Mantle avant de quitter le camp."
     },
     "critical-bounties-research-help-pink-parexus-capture": {
       "Key": "critical-bounties-research-help-pink-parexus-capture",
@@ -7837,7 +7837,7 @@ export default {
     },
     "endemic-life-flying-meduso-description": {
       "Key": "endemic-life-flying-meduso-description",
-      "Translation": "Voyant vol Meduso est un give-away morts qu'il ya un courant de vent à proximité! Trouvez, et vous pouvez aussi voler comme le vent!"
+      "Translation": "Voyant vol Meduso un give-away morts qu'il ya un courant de vent à proximité! Trouvez, et vous pouvez aussi voler comme le vent!"
     },
     "endemic-life-forest-gecko-description": {
       "Key": "endemic-life-forest-gecko-description",
@@ -7869,7 +7869,7 @@ export default {
     },
     "endemic-life-gold-hercudrome-description": {
       "Key": "endemic-life-gold-hercudrome-description",
-      "Translation": "Le Bringer de la Lumière? Le Bug de l'or brillant? Je ... Je suis sans voix! Mon ... mon cœur se sent comme il a été plongé dans le bonheur d'or!"
+      "Translation": "Le Bringer de la Lumière? Le Bug d'Or brillant? Je ... Je suis sans voix! Ma ... mon cœur se sent comme il a été plongé dans le bonheur d'or!"
     },
     "endemic-life-goldenfish-description": {
       "Key": "endemic-life-goldenfish-description",
@@ -7897,7 +7897,7 @@ export default {
     },
     "endemic-life-iron-helmcrab-description": {
       "Key": "endemic-life-iron-helmcrab-description",
-      "Translation": "Hou la la! Il a vraiment ne ressemble un casque! Et il transporte ... un Pod Piercing? Eh bien, je suis sûr que ce ne sera pas l'esprit si je prends-Ow!"
+      "Translation": "Hou la la! Il a vraiment ne ressemble un casque! Et il transporte ... un Pod Piercing? Et bien, je suis sûr que ce ne sera pas l'esprit si je prends-Ow!"
     },
     "endemic-life-king-marlin-description": {
       "Key": "endemic-life-king-marlin-description",
@@ -7937,7 +7937,7 @@ export default {
     },
     "endemic-life-pink-parexus-description": {
       "Key": "endemic-life-pink-parexus-description",
-      "Translation": "Ces poissons se trouvent partout dans le Nouveau Monde, montrent de la biologie primitive une étonnante, et ils sont la pêche facile, même pour les débutants!"
+      "Translation": "Ces poissons se trouvent partout dans le Nouveau Monde, montrent de la biologie une primitive étonnante, et ils sont la pêche facile, même pour les débutants!"
     },
     "endemic-life-platinumfish-description": {
       "Key": "endemic-life-platinumfish-description",
@@ -7965,7 +7965,7 @@ export default {
     },
     "endemic-life-shiny-gold-helmcrab-description": {
       "Key": "endemic-life-shiny-gold-helmcrab-description",
-      "Translation": "Ce petit est pas trop différent de votre or régulière Helmcrab, mais il est beaucoup plus brillante. Je suppose qu'il amassait plus grub pour lui-même?"
+      "Translation": "Ce petit est pas trop différent de votre or régulière Helmcrab, mais il est beaucoup plus brillante. Je suppose qu'il palissadé de plus grub pour lui-même?"
     },
     "endemic-life-sleeptoad-description": {
       "Key": "endemic-life-sleeptoad-description",
@@ -8605,7 +8605,7 @@ export default {
     },
     "monster-azure-rathalos-useful-information": {
       "Key": "monster-azure-rathalos-useful-information",
-      "Translation": "Contre son attaque aéroportée en observant ses modèles de vol et de trouver le bon moment pour frapper du ciel. Une fois mis à la terre, il perd sa capacité d'effectuer des attaques consécutives, ce qui rend la lutte beaucoup plus facile."
+      "Translation": "Contre son attaque aéroportée en observant ses modèles de vol et de trouver le bon moment pour frapper du ciel. Une fois mis à la terre, elle perd sa capacité d'effectuer des attaques consécutives, ce qui rend la lutte beaucoup plus facile."
     },
     "monster-banbaro": {
       "Key": "monster-banbaro",
@@ -8885,7 +8885,7 @@ export default {
     },
     "monster-kushala-daora-useful-information": {
       "Key": "monster-kushala-daora-useful-information",
-      "Translation": "Lorsqu'ils sont confrontés à des ennemis, le bouclier du vent de façon continue Kushala croît en intensité, éventuellement dévier les attaques d'arc et Bowgun. Son pare-brise peut être affaibli en décalant ce, en particulier avec des armes avec des capacités Elderseal."
+      "Translation": "Lorsqu'ils sont confrontés à des ennemis, le bouclier du vent de façon continue Kushala croît en intensité, éventuellement dévier les attaques d'arc et Bowgun. Son pare-brise peut être affaibli en décalant ce, en particulier avec des armes avec les capacités Elderseal."
     },
     "monster-lavasioth": {
       "Key": "monster-lavasioth",
@@ -9029,7 +9029,7 @@ export default {
     },
     "monster-pukei-pukei-characteristics": {
       "Key": "monster-pukei-pukei-characteristics",
-      "Translation": "Un Wyvern oiseau connu pour posséder des toxines toxiques dans son corps. Il a été repéré scatternuts de stockage dans la bouche ou la queue, les enrobant avec du poison et crachant sur eux à des menaces."
+      "Translation": "Un Wyvern oiseau connu pour posséder des toxines toxiques dans son corps. Il a été repéré scatternuts de stockage dans la bouche ou la queue, les enduisant de poison et crachant sur eux à des menaces."
     },
     "monster-pukei-pukei-useful-information": {
       "Key": "monster-pukei-pukei-useful-information",
@@ -9077,7 +9077,7 @@ export default {
     },
     "monster-rathian-characteristics": {
       "Key": "monster-rathian-characteristics",
-      "Translation": "Wyverns connu sous le nom \"Queens of the Land.\" prédateurs terrestres, ils surpuissance proie avec leurs queues venimeuses et jambes puissantes."
+      "Translation": "Wyverns connu sous le nom \"Queens of the Land.\" prédateurs terrestres, ils Fulgurance proie avec leurs queues venimeuses et jambes puissantes."
     },
     "monster-rathian-useful-information": {
       "Key": "monster-rathian-useful-information",
@@ -9129,7 +9129,7 @@ export default {
     },
     "monster-teostra-useful-information": {
       "Key": "monster-teostra-useful-information",
-      "Translation": "La poussière d'échelle noire Teostra scatter se répandront sur une grande surface jusqu'à ce qu'il soit finalement explose. Gardez un oeil là-dessus, ainsi que les flammes il se protège en occassionally et visent à échelonner avec des armes qui possèdent des capacités Elderseal."
+      "Translation": "La poussière d'échelle noire Teostra scatter se répandront sur une large zone jusqu'à ce qu'il soit finalement explose. Gardez un oeil là-dessus, ainsi que les flammes il se protège en occassionally et visent à échelonner avec des armes qui possèdent des capacités Elderseal."
     },
     "monster-tigrex": {
       "Key": "monster-tigrex",
@@ -9193,7 +9193,7 @@ export default {
     },
     "monster-vespoid-useful-information": {
       "Key": "monster-vespoid-useful-information",
-      "Translation": "Les insectes qui paralysent leurs cibles avec leurs longues dards. Ils se cassent facilement, afin de les attaquer avec des munitions de poison ou Slinger si vous voulez les tailler."
+      "Translation": "Les insectes qui paralysent leurs cibles avec leurs longues dards. Ils se cassent facilement, donc les attaquer avec des munitions de poison ou Slinger si vous voulez les tailler."
     },
     "monster-viper-tobi-kadachi": {
       "Key": "monster-viper-tobi-kadachi",
@@ -9357,7 +9357,7 @@ export default {
     },
     "play-guide-bowgun-description": {
       "Key": "play-guide-bowgun-description",
-      "Translation": "Le Bowgun peut être utilisé pour attaquer des monstres à partir d'une longue portée. Il existe deux types de Bowgun: le Bowgun lourd, qui peut utiliser des munitions puissantes, et la Bowgun lumière, ce qui permet une plus grande mobilité et des capacités évasives, et le tir rapide."
+      "Translation": "Le Bowgun peut être utilisé pour attaquer des monstres d'une longue série. Il existe deux types de Bowgun: le Bowgun lourd, qui peut utiliser des munitions puissantes, et la Bowgun lumière, ce qui permet une plus grande mobilité et des capacités évasives, et le tir rapide."
     },
     "play-guide-breaking-monster-parts": {
       "Key": "play-guide-breaking-monster-parts",
@@ -9561,7 +9561,7 @@ export default {
     },
     "play-guide-demon-dodge-description": {
       "Key": "play-guide-demon-dodge-description",
-      "Translation": "Vous pouvez effectuer une Suspens Spinning Lame de danse après avoir sauté une corniche avec un démon Dodge."
+      "Translation": "Vous pouvez effectuer une Suspens Spinning danse des lames après avoir sauté une corniche avec un démon Dodge."
     },
     "play-guide-deploying-tailraider-safaris": {
       "Key": "play-guide-deploying-tailraider-safaris",
@@ -9613,7 +9613,7 @@ export default {
     },
     "play-guide-dung-pods-description": {
       "Key": "play-guide-dung-pods-description",
-      "Translation": "Dung pods produire une odeur si vile qu'il provoque des monstres à fuir la région. Vous pouvez fabriquer Dung pods en rassemblant la bouse de monstre que vous pouvez trouver sur le terrain."
+      "Translation": "Dung pods produisent une odeur si vile qu'il provoque des monstres à fuir la région. Vous pouvez fabriquer Dung pods en rassemblant la bouse de monstre que vous pouvez trouver sur le terrain."
     },
     "play-guide-eating-meals-at-the-canteen": {
       "Key": "play-guide-eating-meals-at-the-canteen",
@@ -9629,7 +9629,7 @@ export default {
     },
     "play-guide-ecological-research-description": {
       "Key": "play-guide-ecological-research-description",
-      "Translation": "Après avoir obtenu une certaine quantité de points de recherche, vous pouvez visiter le Centre de recherche écologique pour augmenter votre niveau de recherche. Vous pouvez également obtenir des informations précieuses sur les monstres, qui est ajouté à votre guide sur le terrain."
+      "Translation": "Après avoir obtenu une certaine quantité de points de recherche, vous pouvez visiter le Centre de recherche écologique pour augmenter votre niveau de recherche. Vous pouvez également obtenir des informations précieuses sur les monstres, qui est ajouté à votre guide de terrain."
     },
     "play-guide-elder-dragons": {
       "Key": "play-guide-elder-dragons",
@@ -9965,7 +9965,7 @@ export default {
     },
     "play-guide-lance-description": {
       "Key": "play-guide-lance-description",
-      "Translation": "La lance est mieux garder que toute autre arme. En plus de sa longue portée, ses attaques de poussée peuvent être exécutées avec peu d'exposition aux attaques ennemies. Grand pour le combat axé sur la défense."
+      "Translation": "La lance est mieux garder que toute autre arme. En plus de sa longue portée, ses attaques de poussée peuvent être exécutées avec peu d'exposition aux attaques ennemies. Grand pour le combat axée sur la défense."
     },
     "play-guide-lance-tips": {
       "Key": "play-guide-lance-tips",
@@ -10085,7 +10085,7 @@ export default {
     },
     "play-guide-monster-research-description": {
       "Key": "play-guide-monster-research-description",
-      "Translation": "En recueillant des traces de monstres et d'augmenter votre niveau de recherche, vous apprendrez des informations écologiques plus détaillées sur les monstres, comme leurs faiblesses. Vos scoutflies seront également en mesure de mieux détecter les monstres que vous avez étudié à fond."
+      "Translation": "En recueillant des traces de monstre et d'augmenter votre niveau de recherche, vous apprendrez des informations écologiques plus détaillées sur les monstres, comme leurs faiblesses. Vos scoutflies seront également en mesure de mieux détecter les monstres que vous avez étudié à fond."
     },
     "play-guide-mounting-controls": {
       "Key": "play-guide-mounting-controls",
@@ -10125,7 +10125,7 @@ export default {
     },
     "play-guide-objective-of-the-taroth-siege-description": {
       "Key": "play-guide-objective-of-the-taroth-siege-description",
-      "Translation": "L'objectif du siège est de couper les cornes de Kulve Taroth. Mais d'abord vous devez rompre le placage d'or qui les recouvre. Le tamis est considéré comme un succès une fois une personne la poursuite céleste parvient à complètement rompre les cornes de Kulve Taroth."
+      "Translation": "L'objectif du siège est de couper les cornes de Kulve Taroth. Mais d'abord vous devez rompre le placage d'or qui les recouvre. Le tamis est considéré comme un succès une fois une personne la poursuite céleste arrive à tout rompre les cornes de Kulve Taroth."
     },
     "play-guide-obtaining-decorations": {
       "Key": "play-guide-obtaining-decorations",
@@ -10297,7 +10297,7 @@ export default {
     },
     "play-guide-revoltures-description": {
       "Key": "play-guide-revoltures-description",
-      "Translation": "Ces oiseaux noirs-plumes avec des crêtes rouges au sommet sont souvent vus ramasser la viande provenant de carcasses de monstre. Ils sont aussi souvent vu encerclant le ciel au-dessus de grands monstres, en attendant une chance aux restes."
+      "Translation": "Ces oiseaux noir à plumes avec des crêtes rouges au sommet sont souvent vus ramasser la viande provenant de carcasses de monstre. Ils sont aussi souvent vu encerclant le ciel au-dessus de grands monstres, en attendant une chance aux restes."
     },
     "play-guide-scatternuts": {
       "Key": "play-guide-scatternuts",
@@ -10381,7 +10381,7 @@ export default {
     },
     "play-guide-slinger-thorn-description": {
       "Key": "play-guide-slinger-thorn-description",
-      "Translation": "bâtons munitions Slinger Thorn (Thorn écossés) à la cible et explose lors de l'impact avec une attaque."
+      "Translation": "bâtons munitions Slinger Thorn (Thorn écossés) sur la cible et explose lors de l'impact avec une attaque."
     },
     "play-guide-slinger-tips": {
       "Key": "play-guide-slinger-tips",
@@ -10837,7 +10837,7 @@ export default {
     },
     "play-guide-wedge-beetles-description": {
       "Key": "play-guide-wedge-beetles-description",
-      "Translation": "scarabées Wedge se trouvent dans de nombreux endroits différents. Fixez votre réticule de visée sur l'une et appuyez sur O pour accrocher sur et balancer à travers."
+      "Translation": "scarabées Wedge se retrouvent dans de nombreux endroits différents. Fixez votre réticule de visée sur l'une et appuyez sur O pour accrocher sur et balancer à travers."
     },
     "play-guide-what-furr-iends-are-for": {
       "Key": "play-guide-what-furr-iends-are-for",
@@ -10957,7 +10957,7 @@ export default {
     },
     "poogie-pumpkins-revenge-how-to-get": {
       "Key": "poogie-pumpkins-revenge-how-to-get",
-      "Translation": "Accédez au Hub rassemblement lors de l'événement du Festival d'automne, puis parlez à votre Poogie pour obtenir ce costume."
+      "Translation": "Accédez au Hub rassemblement pendant l'événement du Festival d'automne, puis parlez à votre Poogie pour obtenir ce costume."
     },
     "poogie-seaside-sausage": {
       "Key": "poogie-seaside-sausage",
@@ -11021,7 +11021,7 @@ export default {
     },
     "quest-a-bone-to-pick-tips": {
       "Key": "quest-a-bone-to-pick-tips",
-      "Translation": "À partir du Sud-Camp (1), le rouleau de cible autour du premier niveau, l'arrêt dans tous les domaines ouverts avant de choisir une direction de laminage et à nouveau. Il généralement fraie dans le secteur 1 espace ouvert et des rouleaux au secteur 3 au début de la quête. Il y a stalactites cassables dans le secteur 1 et la masse spongieuse dans le secteur 2. Il va fuir vers le secteur 4 de renouveler ses os quand ils sont détruits tous."
+      "Translation": "Camp à partir du Sud-Est (1), le rouleau de cible autour du premier niveau, l'arrêt dans tous les domaines ouverts avant de choisir une direction de laminage et à nouveau. Il généralement fraie dans le secteur 1 espace ouvert et des rouleaux au secteur 3 au début de la quête. Il y a stalactites cassables dans le secteur 1 et la masse spongieuse dans le secteur 2. Il va fuir vers le secteur 4 de renouveler ses os quand ils sont détruits tous."
     },
     "quest-a-cherry-wind-upon-the-reefs": {
       "Key": "quest-a-cherry-wind-upon-the-reefs",
@@ -11121,7 +11121,7 @@ export default {
     },
     "quest-a-light-upon-the-rivers-gloom-notes": {
       "Key": "quest-a-light-upon-the-rivers-gloom-notes",
-      "Translation": "Ceci est une quête optionnelle qui apparaît une fois que vous funished l'affectation des terres de convergence, et permet aux matériaux de Xeno'jiiva agricole. Il apparaît au hasard après avoir terminé une quête ou d'une enquête (plus souvent votre rang plus élevé). Vous cependant obtenir une note que la quête est disponible. Il est actif que pendant une période de temps de deux quêtes. Par la suite, il disparaît à nouveau."
+      "Translation": "Ceci est une quête optionnelle qui apparaît une fois que vous funished l'affectation des terres de convergence, et permet aux matériaux de Xeno'jiiva agricole. Il apparaît au hasard après avoir terminé une quête ou d'une enquête (plus souvent votre rang plus élevé). Vous cependant obtenir une note que la quête est disponible. Ce n'est actif pendant une période de temps de deux quêtes. Par la suite, il disparaît à nouveau."
     },
     "quest-a-meow-for-help": {
       "Key": "quest-a-meow-for-help",
@@ -11217,7 +11217,7 @@ export default {
     },
     "quest-a-sore-site-notes": {
       "Key": "quest-a-sore-site-notes",
-      "Translation": "Quête chaîne: A Taste Picotements, Toast Livraison d'un Maître, Coincé dans leurs voies, un cracheur de feu Brew Livraison, un site de Sore, RRRRRumble dans les déchets! monstres de haut rang ont plus de HP, a frappé plus dur, mais elles agissent comme leurs homologues de bas rang."
+      "Translation": "Série de quêtes: A Taste Picotements, Toast Livraison d'un Maître, Coincé dans leurs voies, un cracheur de feu Brew Livraison, un site de Sore, RRRRRumble dans les déchets! monstres de haut rang ont plus de HP, a frappé plus dur, mais elles agissent comme leurs homologues de bas rang."
     },
     "quest-a-summons-from-below": {
       "Key": "quest-a-summons-from-below",
@@ -11289,7 +11289,7 @@ export default {
     },
     "quest-a-visitor-from-eorzea-extreme-description": {
       "Key": "quest-a-visitor-from-eorzea-extreme-description",
-      "Translation": "Un autre Behemoth est apparu dans Recess de l'Ancien et est encore plus dangereux que le dernier! Summon autres aventuriers et quell la bête! (Rewards! Extrêmement difficile, une armure en couches Drachen et le titre de la carte guilde)"
+      "Translation": "Un autre Behemoth est apparu dans Recess de l'Ancien et est encore plus dangereux que le dernier! Summon autres aventuriers et quell la bête! (Rewards! Extrêmement difficile, une armure en couches Drachen et titre de la carte guilde)"
     },
     "quest-a-whisper-of-white-mane": {
       "Key": "quest-a-whisper-of-white-mane",
@@ -12349,7 +12349,7 @@ export default {
     },
     "quest-left-quite-the-impression-notes": {
       "Key": "quest-left-quite-the-impression-notes",
-      "Translation": "Ceci est une quête optionnelle qui apparaît après avoir terminé l'affectation A Colossal tâche, et vous permet de la ferme pour les matériaux Zorah Magdaros. Il apparaît au hasard après avoir terminé une quête ou d'une enquête (plus souvent votre rang plus élevé). Vous cependant obtenir une note que la quête est disponible. Il est actif que pendant une période de temps de deux quêtes. Par la suite, il disparaît à nouveau."
+      "Translation": "Ceci est une quête optionnelle qui apparaît après avoir terminé l'affectation A Colossal tâche, et vous permet de la ferme pour les matériaux Zorah Magdaros. Il apparaît au hasard après avoir terminé une quête ou d'une enquête (plus souvent votre rang plus élevé). Vous cependant obtenir une note que la quête est disponible. Ce n'est actif pendant une période de temps de deux quêtes. Par la suite, il disparaît à nouveau."
     },
     "quest-legiana-embodiment-of-elegance": {
       "Key": "quest-legiana-embodiment-of-elegance",
@@ -12453,7 +12453,7 @@ export default {
     },
     "quest-mired-in-the-spire-tips": {
       "Key": "quest-mired-in-the-spire-tips",
-      "Translation": "À partir de Central Camp (6), (Gastronome thon se trouve dans le camp) au nord de la tête et la cible devrait être autour de la Kestodon. Il faut fuir vers le secteur 8 où vous pouvez essayer d'utiliser une attaque diapositive / saut pour le monter. Il va fuir vers le secteur 7 de renouveler la boue sur son corps. Quand il commencer à obtenir trop faible, il va fuir vers le secteur 9 et se couvrir dans la boue. Ne pas sous-estimer l'effet de l'eau sur vos mouvements lors de combats dans ce domaine. Il est également impossible de mettre Shock Trap en eau profonde."
+      "Translation": "À partir de Central Camp (6), (Gastronome thon se trouve dans le camp) au nord de la tête et la cible devrait être autour de la Kestodon. Il faut fuir vers le secteur 8 où vous pouvez essayer d'utiliser une attaque diapositive / saut pour le monter. Il va fuir vers le secteur 7 de renouveler la boue sur son corps. Quand il commencer à obtenir trop faible, il va fuir vers le secteur 9 et se couvrir dans la boue. Ne pas sous-estimer l'effet de l'eau sur vos mouvements lors de combats dans ce domaine. Il est impossible de mettre aussi Shock Trap dans l'eau profonde."
     },
     "quest-new-world-sky-new-world-flower": {
       "Key": "quest-new-world-sky-new-world-flower",
@@ -12973,7 +12973,7 @@ export default {
     },
     "quest-pukei-pukei-ambush-description": {
       "Key": "quest-pukei-pukei-ambush-description",
-      "Translation": "Un changement majeur dans l'écosystème conduit des monstres dans leur habitat naturel. Chef aux déchets Wildspire et commencez votre enquête sur l'invasion Pukei-Pukei dès que possible!"
+      "Translation": "Un changement majeur dans l'écosystème conduit des monstres dans leur habitat naturel. Tête aux déchets et commencer Wildspire votre enquête sur l'invasion Pukei-Pukei dès que possible!"
     },
     "quest-pukei-pukei-ambush-notes": {
       "Key": "quest-pukei-pukei-ambush-notes",
@@ -13081,7 +13081,7 @@ export default {
     },
     "quest-rrrrrumble-in-the-waste-notes": {
       "Key": "quest-rrrrrumble-in-the-waste-notes",
-      "Translation": "Quête chaîne: A Taste Picotements, Toast Livraison d'un Maître, Coincé dans leurs voies, un cracheur de feu Brew Livraison, un site de Sore, RRRRRumble dans les déchets! monstres de haut rang ont plus de HP, a frappé plus dur, mais elles agissent comme leurs homologues de bas rang. Sous-espèces partagent la plupart de leurs traits de contrepartie, mais sont généralement plus agressifs ou utilisent des tactiques différentes."
+      "Translation": "Série de quêtes: A Taste Picotements, Toast Livraison d'un Maître, Coincé dans leurs voies, un cracheur de feu Brew Livraison, un site de Sore, RRRRRumble dans les déchets! monstres de haut rang ont plus de HP, a frappé plus dur, mais elles agissent comme leurs homologues de bas rang. Sous-espèces partagent la plupart de leurs traits de contrepartie, mais sont généralement plus agressifs ou utilisent des tactiques différentes."
     },
     "quest-ruler-of-the-azure-skies": {
       "Key": "quest-ruler-of-the-azure-skies",
@@ -13137,7 +13137,7 @@ export default {
     },
     "quest-showdown-the-muck-and-the-maul-conditions": {
       "Key": "quest-showdown-the-muck-and-the-maul-conditions",
-      "Translation": "Hunt 5 différents monstres trempé (niveau de menace 1 pour déverrouiller)"
+      "Translation": "Hunt différents monstres 5 trempé (niveau de menace 1 pour déverrouiller)"
     },
     "quest-showdown-the-muck-and-the-maul-description": {
       "Key": "quest-showdown-the-muck-and-the-maul-description",
@@ -13545,7 +13545,7 @@ export default {
     },
     "quest-the-food-chain-dominator-description": {
       "Key": "quest-the-food-chain-dominator-description",
-      "Translation": "Le Deviljho est une présence effrayante qui prend l'idée de la chaîne alimentaire et écrase entre ses mâchoires massives! Maintenant, il est ici dans le Nouveau Monde. Il est temps de l'enquête!"
+      "Translation": "Le Deviljho est une présence effrayante qui prend l'idée de la chaîne alimentaire et écrase entre ses mâchoires massives! Maintenant, il est ici dans le Nouveau Monde. Il est temps de faire l'enquête!"
     },
     "quest-the-food-chain-dominator-notes": {
       "Key": "quest-the-food-chain-dominator-notes",
@@ -13769,7 +13769,7 @@ export default {
     },
     "quest-this-is-how-revolts-start-description": {
       "Key": "quest-this-is-how-revolts-start-description",
-      "Translation": "C'est absurde! Pourquoi ne puis-je recueillir Royauté Cactus dans la paix !? Cela dépasse ennuyeux, c'est un soulèvement je vous le dis! Allez là-bas et voir par vous-même"
+      "Translation": "C'est absurde! Pourquoi ne puis-je recueillir Royauté Cactus dans la paix !? Cela dépasse gênant, c'est un soulèvement je vous le dis! Allez là-bas et voir par vous-même"
     },
     "quest-thunderous-rumble-in-the-highlands": {
       "Key": "quest-thunderous-rumble-in-the-highlands",
@@ -13821,7 +13821,7 @@ export default {
     },
     "quest-todays-special-hunter-flambe-notes": {
       "Key": "quest-todays-special-hunter-flambe-notes",
-      "Translation": "Vous déverrouiller cette quête après avoir rempli les conditions pour la détection d'une rose Rathian. Vous devrez également compléter la première affectation spéciale: La chaîne alimentaire Dominator. Un grand Jagras, un Tobi-Kadachi et un Bazelgeuse sont également présents, les deux premiers sont utilisés comme arme par le Deviljho, le dernier peut commencer une guerre de gazon impressionnante."
+      "Translation": "Vous déverrouiller cette quête après avoir rempli les conditions pour détecter une rose Rathian. Vous devrez également compléter la première affectation spéciale: La chaîne alimentaire Dominator. Un grand Jagras, un Tobi-Kadachi et un Bazelgeuse sont également présents, les deux premiers sont utilisés comme arme par le Deviljho, le dernier peut commencer une guerre de gazon impressionnante."
     },
     "quest-tracking-the-delivery": {
       "Key": "quest-tracking-the-delivery",
@@ -14121,7 +14121,7 @@ export default {
     },
     "search-palico-armor-sets": {
       "Key": "search-palico-armor-sets",
-      "Translation": "Rechercher Sets Palico Armure"
+      "Translation": "Ensembles Recherche Palico Armure"
     },
     "search-palico-equipments": {
       "Key": "search-palico-equipments",
@@ -14393,7 +14393,7 @@ export default {
     },
     "skill-agitator-4": {
       "Key": "skill-agitator-4",
-      "Translation": "Lorsqu'il est activé, les subventions attaque +16 et augmente l'affinité de 12%."
+      "Translation": "Même si actif, les subventions attaque +16 et augmente l'affinité de 12%."
     },
     "skill-agitator-5": {
       "Key": "skill-agitator-5",
@@ -14585,7 +14585,7 @@ export default {
     },
     "skill-blight-resistance-2": {
       "Key": "skill-blight-resistance-2",
-      "Translation": "Réduit de 60% la durée de tous les rouilles élémentaires."
+      "Translation": "Réduit de 60% la durée des rouilles élémentaires."
     },
     "skill-blight-resistance-3": {
       "Key": "skill-blight-resistance-3",
@@ -14717,7 +14717,7 @@ export default {
     },
     "skill-cliffhanger-1": {
       "Key": "skill-cliffhanger-1",
-      "Translation": "Réduit l'épuisement de l'endurance tout en grimpant de 25%."
+      "Translation": "Reduces l'épuisement de l'endurance tout en grimpant de 25%."
     },
     "skill-cliffhanger-description": {
       "Key": "skill-cliffhanger-description",
@@ -14781,7 +14781,7 @@ export default {
     },
     "skill-constitution-description": {
       "Key": "skill-constitution-description",
-      "Translation": "Réduit l'épuisement de l'endurance lors de l'exécution se déplace drainant d'endurance comme éludant, etc."
+      "Translation": "Reduces l'épuisement de l'endurance lors de l'exécution se déplace drainant d'endurance comme éludant, etc."
     },
     "skill-critical-boost": {
       "Key": "skill-critical-boost",
@@ -14933,7 +14933,7 @@ export default {
     },
     "skill-divine-blessing": {
       "Key": "skill-divine-blessing",
-      "Translation": "Bénédiction divine"
+      "Translation": "la bénédiction divine"
     },
     "skill-divine-blessing-1": {
       "Key": "skill-divine-blessing-1",
@@ -15261,7 +15261,7 @@ export default {
     },
     "skill-foragers-luck-description": {
       "Key": "skill-foragers-luck-description",
-      "Translation": "Augmente le changement de trouver des points de collecte rares."
+      "Translation": "Augmente le changement de trouver des points de collecte de rares."
     },
     "skill-fortify": {
       "Key": "skill-fortify",
@@ -15285,7 +15285,7 @@ export default {
     },
     "skill-free-element-ammo-up-2": {
       "Key": "skill-free-element-ammo-up-2",
-      "Translation": "Dessine à 66% de l'élément caché et Étend la taille du clip pour beaucoup de munitions."
+      "Translation": "66% tire de l'élément caché et Étend la taille du clip pour beaucoup de munitions."
     },
     "skill-free-element-ammo-up-3": {
       "Key": "skill-free-element-ammo-up-3",
@@ -15429,11 +15429,11 @@ export default {
     },
     "skill-handicraft-description": {
       "Key": "skill-handicraft-description",
-      "Translation": "Prolonge la jauge de netteté de l'arme. Cependant, il ne sera pas augmenter la jauge passé son maximum."
+      "Translation": "Prolonge la jauge de netteté d'arme. Cependant, il ne sera pas augmenter la jauge passé son maximum."
     },
     "skill-hasten-recovery": {
       "Key": "skill-hasten-recovery",
-      "Translation": "Récupération Hâtez"
+      "Translation": "Hâtez Recovery"
     },
     "skill-hasten-recovery-1": {
       "Key": "skill-hasten-recovery-1",
@@ -15629,7 +15629,7 @@ export default {
     },
     "skill-intimidator-1": {
       "Key": "skill-intimidator-1",
-      "Translation": "monstres dissuadent de vous engager même si vous avez été repéré."
+      "Translation": "monstres vous dissuade de s'engager même si vous avez été repéré."
     },
     "skill-intimidator-2": {
       "Key": "skill-intimidator-2",
@@ -16297,7 +16297,7 @@ export default {
     },
     "skill-scenthound-description": {
       "Key": "skill-scenthound-description",
-      "Translation": "Augmente votre jauge de scoutflies taux de remplissage lorsque vous trouvez des pistes et d'autres traces laissées par les monstres."
+      "Translation": "Augmente votre jauge de scoutflies le taux de remplissage lorsque vous trouvez des pistes et d'autres traces laissées par les monstres."
     },
     "skill-scholar": {
       "Key": "skill-scholar",
@@ -17365,7 +17365,7 @@ export default {
     },
     "trophy-nowhere-to-go-but-up-description": {
       "Key": "trophy-nowhere-to-go-but-up-description",
-      "Translation": "Terminez 50 quêtes d'arène."
+      "Translation": "Complétez 50 quêtes d'arène."
     },
     "trophy-one-shall-stand-one-shall-fall": {
       "Key": "trophy-one-shall-stand-one-shall-fall",
@@ -17413,7 +17413,7 @@ export default {
     },
     "trophy-remodeler-description": {
       "Key": "trophy-remodeler-description",
-      "Translation": "Changer l'intérieur de votre chambre pour la première fois."
+      "Translation": "Changer l'intérieur de votre pièce la première fois."
     },
     "trophy-seen-it-all": {
       "Key": "trophy-seen-it-all",
@@ -17589,7 +17589,7 @@ export default {
     },
     "trophy-true-large-crown-collector-description": {
       "Key": "trophy-true-large-crown-collector-description",
-      "Translation": "Obtenir une couronne d'or pour presque tous les monstres dans votre journal de chasse."
+      "Translation": "Obtenir une couronne d'or pour presque tous les monstres dans le journal de chasse."
     },
     "trophy-true-miniature-crown-collector": {
       "Key": "trophy-true-miniature-crown-collector",
@@ -17625,7 +17625,7 @@ export default {
     },
     "trophy-welcome-to-the-new-world": {
       "Key": "trophy-welcome-to-the-new-world",
-      "Translation": "Bienvenue dans le Nouveau Monde"
+      "Translation": "Bienvenue dans le nouveau monde"
     },
     "trophy-welcome-to-the-new-world-description": {
       "Key": "trophy-welcome-to-the-new-world-description",
@@ -18305,7 +18305,7 @@ export default {
     },
     "weapon-great-sword-bone-blade-iii": {
       "Key": "weapon-great-sword-bone-blade-iii",
-      "Translation": "Lame osseuse III"
+      "Translation": "Omoplate III"
     },
     "weapon-great-sword-bone-slasher-i": {
       "Key": "weapon-great-sword-bone-slasher-i",
@@ -18733,7 +18733,7 @@ export default {
     },
     "weapon-great-sword-water-golem-ii": {
       "Key": "weapon-great-sword-water-golem-ii",
-      "Translation": "Eau Golem II"
+      "Translation": "L'eau Golem II"
     },
     "weapon-great-sword-water-golem-iii": {
       "Key": "weapon-great-sword-water-golem-iii",
@@ -18769,7 +18769,7 @@ export default {
     },
     "weapon-gunlance-bone-cannon-ii": {
       "Key": "weapon-gunlance-bone-cannon-ii",
-      "Translation": "Cannon II os"
+      "Translation": "Cannon II Bone"
     },
     "weapon-gunlance-bone-cannon-iii": {
       "Key": "weapon-gunlance-bone-cannon-iii",
@@ -18953,7 +18953,7 @@ export default {
     },
     "weapon-hammer-baan-strike-ii": {
       "Key": "weapon-hammer-baan-strike-ii",
-      "Translation": "Baan II grève"
+      "Translation": "Baan II Grève"
     },
     "weapon-hammer-baan-strike-iii": {
       "Key": "weapon-hammer-baan-strike-iii",
@@ -20445,7 +20445,7 @@ export default {
     },
     "weapon-long-sword-bone-shotel-i": {
       "Key": "weapon-long-sword-bone-shotel-i",
-      "Translation": "Os Shotel I"
+      "Translation": "Bone Shotel I"
     },
     "weapon-long-sword-bone-shotel-ii": {
       "Key": "weapon-long-sword-bone-shotel-ii",
@@ -20769,7 +20769,7 @@ export default {
     },
     "weapon-long-sword-reaver-calamity": {
       "Key": "weapon-long-sword-reaver-calamity",
-      "Translation": "Reaver « Calamité »"
+      "Translation": "Reaver \"Calamity\""
     },
     "weapon-long-sword-reaver-cruelty": {
       "Key": "weapon-long-sword-reaver-cruelty",
@@ -21265,7 +21265,7 @@ export default {
     },
     "weapon-sword-and-shield-queen-rapier": {
       "Key": "weapon-sword-and-shield-queen-rapier",
-      "Translation": "Reine Rapière"
+      "Translation": "Reine Rapier"
     },
     "weapon-sword-and-shield-queen-rose": {
       "Key": "weapon-sword-and-shield-queen-rose",
@@ -21589,7 +21589,7 @@ export default {
     },
     "wishlist-empty": {
       "Key": "wishlist-empty",
-      "Translation": "Votre liste de voeux est vide. Utilisez le bouton dans le coin supérieur droit d'ajouter votre première arme / armure à la liste. La liste peut contenir jusqu'à quantité infinie d'articles :)"
+      "Translation": "Votre liste de voeux est vide. Utilisez le bouton dans l'angle supérieur droit d'ajouter votre première arme / armure à la liste. La liste peut contenir jusqu'à quantité infinie d'articles :)"
     },
     "weapon-long-sword-abyss-piercer-i": {
       "Key": "weapon-long-sword-abyss-piercer-i",
@@ -22157,7 +22157,7 @@ export default {
     },
     "weapon-gunlance-soulfire-talon-blaze": {
       "Key": "weapon-gunlance-soulfire-talon-blaze",
-      "Translation": "Soulfire Talon \"Blaze\""
+      "Translation": "Soulfire Talon \"blaze\""
     },
     "weapon-gunlance-soulfire-talon-ruin": {
       "Key": "weapon-gunlance-soulfire-talon-ruin",
@@ -22877,7 +22877,7 @@ export default {
     },
     "weapon-lance-grand-halberd-i": {
       "Key": "weapon-lance-grand-halberd-i",
-      "Translation": "Grand Hallebarde I"
+      "Translation": "Grand Hallebarde Je"
     },
     "weapon-lance-grand-halberd-ii": {
       "Key": "weapon-lance-grand-halberd-ii",
@@ -23029,7 +23029,7 @@ export default {
     },
     "weapon-lance-soulfire-spike-styx": {
       "Key": "weapon-lance-soulfire-spike-styx",
-      "Translation": "Soulfire de Spike \"Styx\""
+      "Translation": "Feu de l'âme de Spike \"Styx\""
     },
     "weapon-lance-shining-star-lance": {
       "Key": "weapon-lance-shining-star-lance",
@@ -23589,7 +23589,7 @@ export default {
     },
     "weapon-gunlance-defender-gunlance-ii": {
       "Key": "weapon-gunlance-defender-gunlance-ii",
-      "Translation": "Defender II Gunlance"
+      "Translation": "Défenseur Gunlance II"
     },
     "weapon-gunlance-defender-gunlance-iii": {
       "Key": "weapon-gunlance-defender-gunlance-iii",
@@ -23958,5 +23958,369 @@ export default {
     "weapon-long-sword-great-demon-halberd": {
       "Key": "weapon-long-sword-great-demon-halberd",
       "Translation": "Shinmakoku Hallebarde"
+    },
+    "weapon-bow-acidic-arrow-ii": {
+      "Key": "weapon-bow-acidic-arrow-ii",
+      "Translation": "II Flèche Acidic"
+    },
+    "weapon-bow-deathbow-vaal-velos": {
+      "Key": "weapon-bow-deathbow-vaal-velos",
+      "Translation": "Deathbow Vaal Velos"
+    },
+    "weapon-bow-hydra-planula": {
+      "Key": "weapon-bow-hydra-planula",
+      "Translation": "Hydra Planula"
+    },
+    "weapon-bow-black-planula": {
+      "Key": "weapon-bow-black-planula",
+      "Translation": "noir Planula"
+    },
+    "weapon-bow-cera-coilbender-plus": {
+      "Key": "weapon-bow-cera-coilbender-plus",
+      "Translation": "Cera Coilbender +"
+    },
+    "weapon-bow-cera-cyclord": {
+      "Key": "weapon-bow-cera-cyclord",
+      "Translation": "Cera Cyclord"
+    },
+    "weapon-bow-datura-squall-i": {
+      "Key": "weapon-bow-datura-squall-i",
+      "Translation": "Datura Squall I"
+    },
+    "weapon-bow-datura-squall-ii": {
+      "Key": "weapon-bow-datura-squall-ii",
+      "Translation": "Datura Squall II"
+    },
+    "weapon-bow-nightmare-string-i": {
+      "Key": "weapon-bow-nightmare-string-i",
+      "Translation": "Nightmare Chaîne I"
+    },
+    "weapon-bow-nightmare-string-ii": {
+      "Key": "weapon-bow-nightmare-string-ii",
+      "Translation": "Nightmare Chaîne II"
+    },
+    "weapon-bow-anjanath-flamebow-i": {
+      "Key": "weapon-bow-anjanath-flamebow-i",
+      "Translation": "Anjanath Flamebow I"
+    },
+    "weapon-bow-anjanath-flamebow-ii": {
+      "Key": "weapon-bow-anjanath-flamebow-ii",
+      "Translation": "Anjanath Flamebow II"
+    },
+    "weapon-bow-fulguring-bow-i": {
+      "Key": "weapon-bow-fulguring-bow-i",
+      "Translation": "Fulguring Bow I"
+    },
+    "weapon-bow-fulguring-bow-ii": {
+      "Key": "weapon-bow-fulguring-bow-ii",
+      "Translation": "Fulguring Bow II"
+    },
+    "weapon-bow-flying-kadachi-strikebow-plus": {
+      "Key": "weapon-bow-flying-kadachi-strikebow-plus",
+      "Translation": "+ Vol Kadachi Strikebow"
+    },
+    "weapon-bow-thundering-strikebow": {
+      "Key": "weapon-bow-thundering-strikebow",
+      "Translation": "Thundering Strikebow"
+    },
+    "weapon-bow-fellbow-crimson-hail": {
+      "Key": "weapon-bow-fellbow-crimson-hail",
+      "Translation": "Fellbow Crimson Hail"
+    },
+    "weapon-bow-fellbow-crimson-hail-plus": {
+      "Key": "weapon-bow-fellbow-crimson-hail-plus",
+      "Translation": "Fellbow Crimson Hail +"
+    },
+    "weapon-bow-fellbow-crimson-storm": {
+      "Key": "weapon-bow-fellbow-crimson-storm",
+      "Translation": "Fellbow Crimson tempête"
+    },
+    "weapon-bow-dragonseal-aldbow-i": {
+      "Key": "weapon-bow-dragonseal-aldbow-i",
+      "Translation": "Dragonseal Aldbow I"
+    },
+    "weapon-bow-dragonseal-aldbow-ii": {
+      "Key": "weapon-bow-dragonseal-aldbow-ii",
+      "Translation": "Dragonseal Aldbow II"
+    },
+    "weapon-bow-dawning-insight": {
+      "Key": "weapon-bow-dawning-insight",
+      "Translation": "Dawning Aperçu"
+    },
+    "weapon-bow-daoras-toxotes": {
+      "Key": "weapon-bow-daoras-toxotes",
+      "Translation": "Toxotes de Daora"
+    },
+    "weapon-bow-fates-thread": {
+      "Key": "weapon-bow-fates-thread",
+      "Translation": "Le fil du destin"
+    },
+    "weapon-bow-beast-thunderbow": {
+      "Key": "weapon-bow-beast-thunderbow",
+      "Translation": "Beast Thunderbow"
+    },
+    "weapon-bow-beastking-thunderbow": {
+      "Key": "weapon-bow-beastking-thunderbow",
+      "Translation": "Beastking Thunderbow"
+    },
+    "weapon-hunting-horn-sforzando-i": {
+      "Key": "weapon-hunting-horn-sforzando-i",
+      "Translation": "sforzando I"
+    },
+    "weapon-hunting-horn-sforzando-ii": {
+      "Key": "weapon-hunting-horn-sforzando-ii",
+      "Translation": "sforzando III"
+    },
+    "weapon-hunting-horn-raven-shamisen": {
+      "Key": "weapon-hunting-horn-raven-shamisen",
+      "Translation": "Raven Shamisen"
+    },
+    "weapon-hunting-horn-ruinous-desolation": {
+      "Key": "weapon-hunting-horn-ruinous-desolation",
+      "Translation": "ruineux Désolation"
+    },
+    "weapon-hunting-horn-usurpers-growl": {
+      "Key": "weapon-hunting-horn-usurpers-growl",
+      "Translation": "Growl Usurpateur"
+    },
+    "weapon-hunting-horn-usurpers-growl-plus": {
+      "Key": "weapon-hunting-horn-usurpers-growl-plus",
+      "Translation": "Growl Usurpateur +"
+    },
+    "weapon-hunting-horn-despots-thunderclap": {
+      "Key": "weapon-hunting-horn-despots-thunderclap",
+      "Translation": "Coup de tonnerre de Despot"
+    },
+    "weapon-hunting-horn-taghrid-al-nasr-i": {
+      "Key": "weapon-hunting-horn-taghrid-al-nasr-i",
+      "Translation": "Taghrid al-Nasr I"
+    },
+    "weapon-hunting-horn-taghrid-al-nasr-ii": {
+      "Key": "weapon-hunting-horn-taghrid-al-nasr-ii",
+      "Translation": "Taghrid al-Nasr II"
+    },
+    "weapon-hunting-horn-striped-dragonga": {
+      "Key": "weapon-hunting-horn-striped-dragonga",
+      "Translation": "rayures Dragonga"
+    },
+    "weapon-hunting-horn-striped-dragonga-plus": {
+      "Key": "weapon-hunting-horn-striped-dragonga-plus",
+      "Translation": "Rayé Dragonga +"
+    },
+    "weapon-hunting-horn-tigrex-horn": {
+      "Key": "weapon-hunting-horn-tigrex-horn",
+      "Translation": "Tigrex Corne"
+    },
+    "weapon-hunting-horn-accursed-wail": {
+      "Key": "weapon-hunting-horn-accursed-wail",
+      "Translation": "maudite Wail"
+    },
+    "weapon-hunting-horn-royal-chordmaker-plus": {
+      "Key": "weapon-hunting-horn-royal-chordmaker-plus",
+      "Translation": "Royal Chordmaker +"
+    },
+    "weapon-hunting-horn-regal-flute": {
+      "Key": "weapon-hunting-horn-regal-flute",
+      "Translation": "Flute Regal"
+    },
+    "weapon-hunting-horn-gold-chordmaker": {
+      "Key": "weapon-hunting-horn-gold-chordmaker",
+      "Translation": "or Chordmaker"
+    },
+    "weapon-hunting-horn-water-tamtam-iv": {
+      "Key": "weapon-hunting-horn-water-tamtam-iv",
+      "Translation": "Eau Tamtam IV"
+    },
+    "weapon-hunting-horn-laguna-drum-i": {
+      "Key": "weapon-hunting-horn-laguna-drum-i",
+      "Translation": "Laguna I Tambour"
+    },
+    "weapon-hunting-horn-laguna-drum-ii": {
+      "Key": "weapon-hunting-horn-laguna-drum-ii",
+      "Translation": "Laguna II Tambour"
+    },
+    "weapon-hunting-horn-hidden-harmonic": {
+      "Key": "weapon-hunting-horn-hidden-harmonic",
+      "Translation": "Invisible harmonique"
+    },
+    "weapon-hunting-horn-hidden-harmonic-plus": {
+      "Key": "weapon-hunting-horn-hidden-harmonic-plus",
+      "Translation": "Invisible harmonique +"
+    },
+    "weapon-hunting-horn-cry-in-the-night": {
+      "Key": "weapon-hunting-horn-cry-in-the-night",
+      "Translation": "Cri dans la nuit"
+    },
+    "weapon-hunting-horn-legia-sectored-plus": {
+      "Key": "weapon-hunting-horn-legia-sectored-plus",
+      "Translation": "Legia + Avec secteur"
+    },
+    "weapon-hunting-horn-hoarcry-sectored": {
+      "Key": "weapon-hunting-horn-hoarcry-sectored",
+      "Translation": "Hoarcry Avec secteur"
+    },
+    "weapon-hunting-horn-lilim-glacia": {
+      "Key": "weapon-hunting-horn-lilim-glacia",
+      "Translation": "lilim Glacia"
+    },
+    "weapon-hunting-horn-mad-bone-horn-i": {
+      "Key": "weapon-hunting-horn-mad-bone-horn-i",
+      "Translation": "Mad Os Corne I"
+    },
+    "weapon-hunting-horn-mad-bone-horn-ii": {
+      "Key": "weapon-hunting-horn-mad-bone-horn-ii",
+      "Translation": "Mad os Corne II"
+    },
+    "weapon-hunting-horn-mad-bone-horn-iii": {
+      "Key": "weapon-hunting-horn-mad-bone-horn-iii",
+      "Translation": "Mad os Corne III"
+    },
+    "weapon-hunting-horn-icespiel": {
+      "Key": "weapon-hunting-horn-icespiel",
+      "Translation": "Icespiel"
+    },
+    "weapon-hunting-horn-sonorous-eisfyl": {
+      "Key": "weapon-hunting-horn-sonorous-eisfyl",
+      "Translation": "sonore Eisfyl"
+    },
+    "weapon-hunting-horn-gama-chorus-i": {
+      "Key": "weapon-hunting-horn-gama-chorus-i",
+      "Translation": "Gama Choeur I"
+    },
+    "weapon-hunting-horn-gama-chorus-ii": {
+      "Key": "weapon-hunting-horn-gama-chorus-ii",
+      "Translation": "Gama Chorus II"
+    },
+    "weapon-hunting-horn-hell-horn": {
+      "Key": "weapon-hunting-horn-hell-horn",
+      "Translation": "enfer Corne"
+    },
+    "weapon-hunting-horn-hell-horn-plus": {
+      "Key": "weapon-hunting-horn-hell-horn-plus",
+      "Translation": "Enfer Horn +"
+    },
+    "weapon-hunting-horn-glavenus-horn": {
+      "Key": "weapon-hunting-horn-glavenus-horn",
+      "Translation": "Glavenus Corne"
+    },
+    "weapon-hunting-horn-anjanath-hum-i": {
+      "Key": "weapon-hunting-horn-anjanath-hum-i",
+      "Translation": "Anjanath Hum I"
+    },
+    "weapon-hunting-horn-anjanath-hum-ii": {
+      "Key": "weapon-hunting-horn-anjanath-hum-ii",
+      "Translation": "Anjanath Hum II"
+    },
+    "weapon-hunting-horn-fulguring-horn-i": {
+      "Key": "weapon-hunting-horn-fulguring-horn-i",
+      "Translation": "Fulguring Corne I"
+    },
+    "weapon-hunting-horn-fulguring-horn-ii": {
+      "Key": "weapon-hunting-horn-fulguring-horn-ii",
+      "Translation": "Fulguring Corne II"
+    },
+    "weapon-hunting-horn-sulfurteinn-svild": {
+      "Key": "weapon-hunting-horn-sulfurteinn-svild",
+      "Translation": "Sulfurteinn Svild"
+    },
+    "weapon-hunting-horn-the-rasping-ballad": {
+      "Key": "weapon-hunting-horn-the-rasping-ballad",
+      "Translation": "Le Râper Ballad"
+    },
+    "weapon-hunting-horn-datura-maestro-i": {
+      "Key": "weapon-hunting-horn-datura-maestro-i",
+      "Translation": "Datura Maestro I"
+    },
+    "weapon-hunting-horn-datura-maestro-ii": {
+      "Key": "weapon-hunting-horn-datura-maestro-ii",
+      "Translation": "Datura Maestro II"
+    },
+    "weapon-hunting-horn-icicle-horn-i": {
+      "Key": "weapon-hunting-horn-icicle-horn-i",
+      "Translation": "Icicle Corne I"
+    },
+    "weapon-hunting-horn-icicle-horn-ii": {
+      "Key": "weapon-hunting-horn-icicle-horn-ii",
+      "Translation": "Icicle Corne II"
+    },
+    "weapon-hunting-horn-lumu-drone-i": {
+      "Key": "weapon-hunting-horn-lumu-drone-i",
+      "Translation": "Lumu Drone I"
+    },
+    "weapon-hunting-horn-lumu-drone-ii": {
+      "Key": "weapon-hunting-horn-lumu-drone-ii",
+      "Translation": "Lumu Drone II"
+    },
+    "weapon-hunting-horn-nyx-barone-i": {
+      "Key": "weapon-hunting-horn-nyx-barone-i",
+      "Translation": "Nyx Barone I"
+    },
+    "weapon-hunting-horn-nyx-barone-ii": {
+      "Key": "weapon-hunting-horn-nyx-barone-ii",
+      "Translation": "Nyx Barone II"
+    },
+    "weapon-hunting-horn-rooksearer-drum": {
+      "Key": "weapon-hunting-horn-rooksearer-drum",
+      "Translation": "Rooksearer tambour"
+    },
+    "weapon-hunting-horn-bazel-valdi-rooksearer": {
+      "Key": "weapon-hunting-horn-bazel-valdi-rooksearer",
+      "Translation": "Bazel Valdi Rooksearer"
+    },
+    "weapon-hunting-horn-queen-vespoid-horn-plus": {
+      "Key": "weapon-hunting-horn-queen-vespoid-horn-plus",
+      "Translation": "Reine Vespoid Horn +"
+    },
+    "weapon-hunting-horn-queens-flute-ii": {
+      "Key": "weapon-hunting-horn-queens-flute-ii",
+      "Translation": "Flûte traversière II Queen"
+    },
+    "weapon-hunting-horn-baan-rattle-i": {
+      "Key": "weapon-hunting-horn-baan-rattle-i",
+      "Translation": "Baan Rattle I"
+    },
+    "weapon-hunting-horn-brachydios-horn-i": {
+      "Key": "weapon-hunting-horn-brachydios-horn-i",
+      "Translation": "Brachydios Corne I"
+    },
+    "weapon-hunting-horn-brachydios-horn-ii": {
+      "Key": "weapon-hunting-horn-brachydios-horn-ii",
+      "Translation": "Brachydios Corne II"
+    },
+    "weapon-hunting-horn-dragonseal-aldhorn-i": {
+      "Key": "weapon-hunting-horn-dragonseal-aldhorn-i",
+      "Translation": "Dragonseal Aldhorn I"
+    },
+    "weapon-hunting-horn-dragonseal-aldhorn-ii": {
+      "Key": "weapon-hunting-horn-dragonseal-aldhorn-ii",
+      "Translation": "Dragonseal Aldhorn II"
+    },
+    "weapon-hunting-horn-thunderwail-feyhorn": {
+      "Key": "weapon-hunting-horn-thunderwail-feyhorn",
+      "Translation": "Thunderwail Feyhorn"
+    },
+    "weapon-hunting-horn-hydros-horn": {
+      "Key": "weapon-hunting-horn-hydros-horn",
+      "Translation": "Hydros Corne"
+    },
+    "weapon-hunting-horn-teostras-musica": {
+      "Key": "weapon-hunting-horn-teostras-musica",
+      "Translation": "Musica Teostra"
+    },
+    "weapon-hunting-horn-fates-dirge": {
+      "Key": "weapon-hunting-horn-fates-dirge",
+      "Translation": "Dirge Fate"
+    },
+    "weapon-hunting-horn-denden-daiko": {
+      "Key": "weapon-hunting-horn-denden-daiko",
+      "Translation": "denden Daiko"
+    },
+    "weapon-hunting-horn-soulfire-chorus-blaze": {
+      "Key": "weapon-hunting-horn-soulfire-chorus-blaze",
+      "Translation": "Soulfire Chorus \"Blaze\""
+    },
+    "weapon-hunting-horn-soulfire-chorus-ruin": {
+      "Key": "weapon-hunting-horn-soulfire-chorus-ruin",
+      "Translation": "Soulfire Chorus \"Ruin\""
     }
   }

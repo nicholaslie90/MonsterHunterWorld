@@ -1,11 +1,11 @@
-export default {
+export default  {
     "armor-alloy-description": {
       "Key": "armor-alloy-description",
       "Translation": "アーマーは細かいmachalite鉱石で作られました。それは魅力に欠ける何それ以上の防衛のためにアップします。"
     },
     "armor-anja-description": {
       "Key": "armor-anja-description",
-      "Translation": "未知の部族の狩猟の服装をモデルにした、アニャの鎧のデザインは勇気の象徴です。"
+      "Translation": "、未知の部族の狩猟の服装をモデル、アニャの鎧のデザインは勇気の象徴です。"
     },
     "armor-baan-description": {
       "Key": "armor-baan-description",
@@ -85,7 +85,7 @@ export default {
     },
     "armor-damascus-description": {
       "Key": "armor-damascus-description",
-      "Translation": "この伝説的な鉄鋼の鎧は、征服者のパスダウンその着用者を導くといわれています。"
+      "Translation": "この伝説的な鉄鋼の鎧は、征服のパスダウンその着用者を導くといわれています。"
     },
     "armor-dantes-belt-description": {
       "Key": "armor-dantes-belt-description",
@@ -105,11 +105,11 @@ export default {
     },
     "armor-dantes-leather-boots-description": {
       "Key": "armor-dantes-leather-boots-description",
-      "Translation": "レプリカブーツはダンテが身に着けているの後に作ら。これらbeautsでbloodredダンスフロアをペイント。"
+      "Translation": "1ダンテが摩耗した後のレプリカブーツが作ら。これらbeautsでbloodredダンスフロアをペイント。"
     },
     "armor-death-stench-description": {
       "Key": "armor-death-stench-description",
-      "Translation": "鎧を呪われ、死をもたらすと述べ。着用者は彼らの犠牲者の死の苦しみのエコーを聞きます。"
+      "Translation": "鎧を呪われ、死をもたらすと述べました。着用者は彼らの犠牲者の死の苦しみのエコーを聞きます。"
     },
     "armor-detail-components": {
       "Key": "armor-detail-components",
@@ -217,7 +217,7 @@ export default {
     },
     "armor-empress-crown-description": {
       "Key": "armor-empress-crown-description",
-      "Translation": "それだけでLunastraの魂はこの特別に細工されたヘッドピース内に収容されていることをフィッティングされます。"
+      "Translation": "それだけでLunastraの魂は、この特別な細工をしたヘッドピース内に収容されていることをフィッティングされます。"
     },
     "armor-empress-greaves-description": {
       "Key": "armor-empress-greaves-description",
@@ -237,7 +237,7 @@ export default {
     },
     "armor-gajau-description": {
       "Key": "armor-gajau-description",
-      "Translation": "Gajauの皮での作業のしやすさは、ちょうどハンター以上に人気がこれらのブーツになります。"
+      "Translation": "Gajauの皮での作業のしやすさは、ちょうどハンター以上に人気がこれらのブーツを作ります。"
     },
     "armor-gala-suit-description": {
       "Key": "armor-gala-suit-description",
@@ -637,7 +637,7 @@ export default {
     },
     "armor-hr-brigade-lobos-alpha": {
       "Key": "armor-hr-brigade-lobos-alpha",
-      "Translation": "旅団ロボス⍺"
+      "Translation": "ブリゲードロボス⍺"
     },
     "armor-hr-brigade-lobos-beta": {
       "Key": "armor-hr-brigade-lobos-beta",
@@ -825,7 +825,7 @@ export default {
     },
     "armor-hr-damascus-greaves-beta": {
       "Key": "armor-hr-damascus-greaves-beta",
-      "Translation": "ダマスカスグリーブスß"
+      "Translation": "ダマスカスフォールドß"
     },
     "armor-hr-damascus-helm-alpha": {
       "Key": "armor-hr-damascus-helm-alpha",
@@ -2865,7 +2865,7 @@ export default {
     },
     "armor-hr-tzitzi-vambraces-beta": {
       "Key": "armor-hr-tzitzi-vambraces-beta",
-      "Translation": "Tzitzi Vambracesß"
+      "Translation": "Tzitzi Vambracesのß"
     },
     "armor-hr-uragaan-alpha": {
       "Key": "armor-hr-uragaan-alpha",
@@ -3013,7 +3013,7 @@ export default {
     },
     "armor-hr-vangis-mail-alpha": {
       "Key": "armor-hr-vangis-mail-alpha",
-      "Translation": "Vangisメール⍺"
+      "Translation": "Vangisのメール⍺"
     },
     "armor-hr-vangis-mail-beta": {
       "Key": "armor-hr-vangis-mail-beta",
@@ -3157,7 +3157,7 @@ export default {
     },
     "armor-hr-zorah-beta": {
       "Key": "armor-hr-zorah-beta",
-      "Translation": "ゾラß"
+      "Translation": "ゾラのß"
     },
     "armor-hr-zorah-claws-alpha": {
       "Key": "armor-hr-zorah-claws-alpha",
@@ -3285,7 +3285,7 @@ export default {
     },
     "armor-kushala-description": {
       "Key": "armor-kushala-description",
-      "Translation": "アーマーはKushala Daora部品から作られました。それは生命に来る古代の神の像に似ています。"
+      "Translation": "アーマーKushala Daora部品から作られました。それは生命に来る古代の神の像に似ています。"
     },
     "armor-kushala-gamma-description": {
       "Key": "armor-kushala-gamma-description",
@@ -3521,7 +3521,7 @@ export default {
     },
     "armor-lr-death-stench": {
       "Key": "armor-lr-death-stench",
-      "Translation": "死の悪臭"
+      "Translation": "死悪臭"
     },
     "armor-lr-death-stench-bowels": {
       "Key": "armor-lr-death-stench-bowels",
@@ -4553,7 +4553,7 @@ export default {
     },
     "armor-mr-barroth-coil-alpha-plus": {
       "Key": "armor-mr-barroth-coil-alpha-plus",
-      "Translation": "Barrothコイル⍺+"
+      "Translation": "コイルBarroth⍺+"
     },
     "armor-mr-barroth-coil-beta-plus": {
       "Key": "armor-mr-barroth-coil-beta-plus",
@@ -4729,7 +4729,7 @@ export default {
     },
     "armor-mr-bone-mail-alpha-plus": {
       "Key": "armor-mr-bone-mail-alpha-plus",
-      "Translation": "ボーンメール⍺+"
+      "Translation": "メールボーン⍺+"
     },
     "armor-mr-bone-mail-beta-plus": {
       "Key": "armor-mr-bone-mail-beta-plus",
@@ -4737,7 +4737,7 @@ export default {
     },
     "armor-mr-bone-vambraces-alpha-plus": {
       "Key": "armor-mr-bone-vambraces-alpha-plus",
-      "Translation": "骨Vambraces⍺+"
+      "Translation": "Vambracesボーン⍺+"
     },
     "armor-mr-bone-vambraces-beta-plus": {
       "Key": "armor-mr-bone-vambraces-beta-plus",
@@ -4797,7 +4797,7 @@ export default {
     },
     "armor-mr-clockwork-beta-plus": {
       "Key": "armor-mr-clockwork-beta-plus",
-      "Translation": "時計仕掛けのß+"
+      "Translation": "仕掛けのß+"
     },
     "armor-mr-clockwork-braces-alpha-plus": {
       "Key": "armor-mr-clockwork-braces-alpha-plus",
@@ -6149,7 +6149,7 @@ export default {
     },
     "armor-mr-lumu-phantasm-hood-alpha-plus": {
       "Key": "armor-mr-lumu-phantasm-hood-alpha-plus",
-      "Translation": "Lumuファンタズムフード⍺+"
+      "Translation": "Lumuファンタズムフッド⍺+"
     },
     "armor-mr-lumu-phantasm-hood-beta-plus": {
       "Key": "armor-mr-lumu-phantasm-hood-beta-plus",
@@ -6665,7 +6665,7 @@ export default {
     },
     "armor-mr-seething-bazel-beta-plus": {
       "Key": "armor-mr-seething-bazel-beta-plus",
-      "Translation": "煮えくり返るBazelß+"
+      "Translation": "煮えくり返る+ßBazel"
     },
     "armor-mr-shamos-alpha-plus": {
       "Key": "armor-mr-shamos-alpha-plus",
@@ -7181,7 +7181,7 @@ export default {
     },
     "armor-rath-soul-description": {
       "Key": "armor-rath-soul-description",
-      "Translation": "Azureの鎧はアブソ力を吹き込ま。それを着用する人は歴史を作るために運命づけられています。"
+      "Translation": "Azureの鎧はアブソ力を吹き込ま。それを着る人は、メイクの歴史に運命づけられています。"
     },
     "armor-rathalos-description": {
       "Key": "armor-rathalos-description",
@@ -7189,7 +7189,7 @@ export default {
     },
     "armor-rathian-description": {
       "Key": "armor-rathian-description",
-      "Translation": "queenly洗練、優雅さ、そしてかもしれないに満ち、この洗練さRathian鎧はそれをすべて持っています。"
+      "Translation": "queenly洗練、優雅さ、そして威力を十分に備えて、この洗練さRathian鎧はそのすべてを持っています。"
     },
     "armor-sealed-eyepatch-description": {
       "Key": "armor-sealed-eyepatch-description",
@@ -7269,7 +7269,7 @@ export default {
     },
     "armor-set-bonus-skill-critical-status-description": {
       "Key": "armor-set-bonus-skill-critical-status-description",
-      "Translation": "クリティカルヒットを着陸時に異常状態効果の損傷（麻痺、毒、睡眠、爆風）を増加させます。"
+      "Translation": "クリティカルヒットを着陸時に異常状態効果の損傷（麻痺、毒、睡眠爆風を）上げます。"
     },
     "armor-set-bonus-skill-diablos-mastery": {
       "Key": "armor-set-bonus-skill-diablos-mastery",
@@ -7369,7 +7369,7 @@ export default {
     },
     "armor-set-bonus-skill-masters-touch-description": {
       "Key": "armor-set-bonus-skill-masters-touch-description",
-      "Translation": "クリティカルヒット時の鋭さを失うことから、あなたの武器を防ぎます。"
+      "Translation": "あなたの武器はクリティカルヒット時の鋭さを失うことから防ぎます。"
     },
     "armor-set-bonus-skill-minds-eye-ballistics": {
       "Key": "armor-set-bonus-skill-minds-eye-ballistics",
@@ -7585,7 +7585,7 @@ export default {
     },
     "critical-bounties-bugtrappers-tips": {
       "Key": "critical-bounties-bugtrappers-tips",
-      "Translation": "古代の森の中で：A単独Bugtrapper木（北東キャンプ（11））の領域6に見出すことができます。あなたが近づくとき、Bugtrapperは逃げるでしょう。彼をフォローして、彼は彼の村にあなたを導くでしょう。\\ nは\\ nTakeあなたの時間を、それがレースではないとして。追い越しや問題を引き起こす可能性が近すぎるBugtrapperに実行されています。報酬：あなたのPalicoは今flashflyケージを使用してJagrasに話すことができます。"
+      "Translation": "古代の森の中で：A単独Bugtrapperを木領域6に見出すことができる（北東キャンプ（11））。あなたが近づくとき、Bugtrapperは逃げるでしょう。彼をフォローし、それがレースではないとして、彼は\\ nTakeあなたの時間を。彼の村にあなたを導く\\ n個ます。追い越しや問題を引き起こす可能性が近すぎるBugtrapperに実行されています。報酬：あなたのPalicoは今flashflyケージを使用してJagrasに話すことができます。"
     },
     "critical-bounties-cultural-exchange-gajalaka-linguistics": {
       "Key": "critical-bounties-cultural-exchange-gajalaka-linguistics",
@@ -7601,7 +7601,7 @@ export default {
     },
     "critical-bounties-important-notes": {
       "Key": "critical-bounties-important-notes",
-      "Translation": "3件のあなたがフィールドに出て遭遇できるという研究があります。風土病ライフ研究員、Lynian研究及び魚類研究員は、\\ nは\\ nWhenはあなたが遠征に出た、唯一の研究員がゾーンに出現します。あなたは遠征先を選択すると、どの研究スポーン、世界地図上に表示されます。あなたは割り当て、遠征や調査を完了するたびに、それは研究スポーンを変更します。定期的に世界地図を確認することが重要である理由。です\\ nは\\ NITは、各研究者の重要な恵みを経て進行するために、各ゾーン内の各研究員に話をすることが重要です。それがランダムであるので、研究スポーンは、（以前の注を参照）、。これらの重要な恵みをお見逃しやすいです\\ nは\\ NIFの研究者が提供する懸賞金を持っている、彼らは、マップ上の黄色の感嘆符（！）として表示されます。私はいつも地図上のこれらのマークを見ていないと私は、これらの重要な恵みを逃した理由です。研究員が提供して何の恵みを持っていないあなたは遠征したら、あなたの世界地図を開いて、それが簡単に見つけるために作るために風土病ライフフィルタを選択するために、L1 / R1ボタンを使用しています。\\ n \\ NIF、彼らは明るい緑色で表示されますマップ上のドット（。）。\\ nは\\ nAfterあなたは重要な恵みを完了し、あなたは恵みを完了したことを/​​彼女に彼を知らせるために、それぞれの研究員に話をすることができます。しかし、あなたは常に。恵みを完了し、報酬を受け取るためにアステラにおける研究センターに話を持っている\\ nは\\ NIFあなたは恵みを完了した後に研究員に話をしなかった、あなたは新しいゾーンで彼らと話をする程度です新しい恵みを受け入れるために、あなたが二回研究員に話を持っていることも可能です。前の恵みを完了したことを/​​彼女が彼を知らせるための一つの時間。新しいゾーンの重要な恵みを開始する別の時間\\ nは\\ nChoosing低ランクやハイランク先が問題で、唯一のハイランクであるドラゴンの休憩を除いていません\\ nは\\ nLynian手配書：。。あなたは、落書きを見つけるたびに、あなたのスカウトハエでそれらをマークすることができ、彼らは次の落書きにご案内します。あなたは下に記載されている場所に、このリードを行います。一族をbefriendingした後、あなたはあなたの部屋や研究基地であなたのPalicoに話すことができます。あなたのPalicoは、あなたにそれを学んだ新しいトリックを教えてくれます。"
+      "Translation": "3件のあなたがフィールドに出て遭遇できるという研究があります。風土病ライフ研究員、Lynian研究及び魚類研究員は、\\ nは\\ nWhenはあなたが遠征に出た、唯一の研究がゾーンに出現します。どの研究スポーン、あなたは遠征先を選択すると世界地図上に表示されます。あなたは割り当て、遠征や調査を完了するたびに、それは研究スポーンを変更します。定期的に世界地図を確認することが重要である理由。です\\ nは\\ NITは、各研究者の重要な恵みを進行するために、各ゾーン内の各研究員に話をすることが重要です。それがランダムであるので、研究スポーンは、（以前の注を参照）、。これらの重要な恵みをお見逃しやすいです\\ nは\\ NIFの研究者が提供する懸賞金を持っている、彼らは、マップ上の黄色の感嘆符（！）として表示されます。私はいつも地図上のこれらのマークを見ていないと私は、これらの重要な恵みを逃した理由です。あなたが遠征にしたら、あなたの世界地図を開いて、それが簡単に見つけるために作るために風土病ライフフィルタを選択するために、L1 / R1ボタンを使用します\\ n \\ NIFは、研究員が提供への懸賞金を持っていない、彼らは明るい緑色で表示されますマップ上のドット（。）。\\ nは\\ nAfterあなたは重要な恵みを完了し、あなたは恵みを完了したことを/​​彼女に彼を知らせるために、それぞれの研究員に話をすることができます。しかし、あなたは常に。報酬を恵みを完了し、受信するアステラにおける研究センターに話を持っている\\ nは\\ NIFあなたは恵みを完了した後に研究員に話をしなかった、あなたは新しいゾーンに彼らに話しようとしています新しい恵みを受け入れるために、あなたが二回研究員に話を持っていることも可能です。前の恵みを完了したことを/​​彼女が彼を知らせるための一つの時間。新しいゾーンの重要な恵みを開始する別の時間\\ nは\\ nChoosing低ランクやハイランク先が問題で、唯一のハイランクであるドラゴンの休憩を除いていません\\ nは\\ nLynian手配書：。。あなたは、落書きを見つけるたびに、あなたのスカウトハエでそれらをマークすることができ、彼らは次の落書きにご案内します。あなたは下に記載されている場所に、このリードを行います。一族をbefriendingした後、あなたはあなたの部屋や研究基地であなたのPalicoに話すことができます。あなたのPalicoは、あなたにそれを学んだ新しいトリックを教えてくれます。"
     },
     "critical-bounties-notes": {
       "Key": "critical-bounties-notes",
@@ -7613,7 +7613,7 @@ export default {
     },
     "critical-bounties-plunderers-tips": {
       "Key": "critical-bounties-plunderers-tips",
-      "Translation": "腐ったヴェイルでは：あなたは、あなたが略奪を見つけることができる前に腐っヴェールの下の部分にゲインのアクセス「ヴァーレの腸中に、」完了している必要があります\\ nは\\ nAのPlundererはLynian研究員の隣に待つことによって見つけることができます領域13内（中央キャンプ（11））。 Lynian研究員過去パトロールOdegaronごとに5〜10分に一度と地面にLegianaの死体を削除します。 PlundererはLegianaの死体で表示され、あなたが近づく場合には逃げるれます。\\ n \\ nFollow Plundererエリア15に岩の近くに生肉の塊を落とした後すぐ。いくつかの距離を取り、略奪は肉を食べ始めるまで待ちます。恵みを完了するために略奪に話します。報酬：あなたのPalicoは今Girrosにplunderbladeを使用して話すことができます。"
+      "Translation": "腐ったヴェイルでは：あなたは、あなたが略奪を見つけることができる前に腐っヴェールの下の部分にゲインのアクセス「ヴァーレの腸中に、」完了している必要があります\\ nは\\ nAのPlundererはLynian研究員の隣に待つことによって見つけることができます領域13内（中央キャンプ（11））。 Lynian研究員過去パトロールOdegaronごとに5〜10分に一度と地面にLegianaの死体を削除します。 PlundererはLegianaの死体で表示され、あなたが近づく場合には逃げるれます。\\ n \\ nFollow Plundererエリア15に岩の近くに生肉の塊を落とした後すぐ。いくつかの距離を取り、略奪が肉を食べる起動するまで待ちます。恵みを完了するために略奪に話します。報酬：あなたのPalicoは今Girrosにplunderbladeを使用して話すことができます。"
     },
     "critical-bounties-protectors": {
       "Key": "critical-bounties-protectors",
@@ -7649,7 +7649,7 @@ export default {
     },
     "critical-bounties-research-help-bomb-beetle-capture-tips": {
       "Key": "critical-bounties-research-help-bomb-beetle-capture-tips",
-      "Translation": "エルダー凹部（南キャンプ（1））では：糞の周りのボールを押してA爆弾ビートルは、エリア1または2に記載されています。"
+      "Translation": "エルダー凹部（南キャンプ（1））では：A爆弾ビートル糞の周りのボールをプッシュすることは面積1または2に記載されています。"
     },
     "critical-bounties-research-help-capture-the-ancient": {
       "Key": "critical-bounties-research-help-capture-the-ancient",
@@ -7657,15 +7657,15 @@ export default {
     },
     "critical-bounties-research-help-capture-the-ancient-tips": {
       "Key": "critical-bounties-research-help-capture-the-ancient-tips",
-      "Translation": "最初の5枚の風土病ライフクリティカル手配書と最初の5枚の魚類クリティカル手配書が完了している場合は、この恵みは。どのゾーンでピックアップすることができます\\ N \\ nAのPetricanthsはロットンヴェイル（中央キャンプ（のエリア15に水でキャッチすることができます11））が、唯一のGrimalkyneます\\ n \\ nAのPetricanthsに最も近い水域でもエルダー凹部（東キャンプ（8））のキャンプテントの後ろのエリア8に水でキャッチすることができます。これらのゾーン間の旅行の前後に。"
+      "Translation": "ロットンヴェイル（中央キャンプ（のエリア15に水の中に最初の5枚の風土病ライフクリティカル手配書と最初の5枚の魚類クリティカル手配書が完了している場合は、この恵みは。どのゾーンでピックアップすることができます\\ N \\ nAのPetricanthsをキャッチすることができます11））が、唯一のGrimalkyneます\\ n \\ nAのPetricanthsに最も近い水域でもエルダー凹部（東キャンプ（8））のキャンプテントの後ろのエリア8に水でキャッチすることができます。これらのゾーン間の旅行の前後に。"
     },
     "critical-bounties-research-help-carrier-ant-capture": {
       "Key": "critical-bounties-research-help-carrier-ant-capture",
-      "Translation": "研究のヘルプ：キャリアAntのキャプチャ"
+      "Translation": "研究のヘルプ：キャリアアリキャプチャ"
     },
     "critical-bounties-research-help-carrier-ant-capture-tips": {
       "Key": "critical-bounties-research-help-carrier-ant-capture-tips",
-      "Translation": "Wildspire廃棄物（サウスウェストキャンプ（1））では：スリーキャリアAntのパトロールは、彼らは非常に迅速に再出現エリア1に記載されています。"
+      "Translation": "Wildspire廃棄物（サウスウェストキャンプ（1））：スリーキャリアAntのパトロールは、エリア1で見つけることができます彼らは非常に迅速に再出現。"
     },
     "critical-bounties-research-help-goldenfish-capture": {
       "Key": "critical-bounties-research-help-goldenfish-capture",
@@ -7749,11 +7749,11 @@ export default {
     },
     "critical-bounties-troupers-tips": {
       "Key": "critical-bounties-troupers-tips",
-      "Translation": "コーラル高地：Troupers北東をリード非常に狭い通路を通って領域11に見出すことができる（北東キャンプ（12））。彼らは、オプションのクエスト「トラブルTroupers」で2 Tzitzi-YA-区を殺すためにお願いします。報酬：あなたのPalicoは今Shamosにサンゴオーケストラを使用して話すことができます。"
+      "Translation": "コーラル高地：Troupers北東をリード非常に狭い通路を通って領域11に見出すことができる（北東キャンプ（12））。彼らは、「Troupers Troubled」オプションのクエストで2 Tzitzi-YA-区を殺すためにお願いします。報酬。あなたPalicoは今Shamosにサンゴオーケストラを使用して話すことができます。"
     },
     "endemic-life-andangler-description": {
       "Key": "endemic-life-andangler-description",
-      "Translation": "彼らは光と... CHOMPにフライングMedusoを描くのが好き！間違いなく、アクションでそれらを見て徹夜滞在の価値があると思います！"
+      "Translation": "彼らは光と... CHOMPにフライングMedusoを描くのが好き！間違いなくアクションでそれを見て徹夜滞在の価値があると思います！"
     },
     "endemic-life-augurfly-description": {
       "Key": "endemic-life-augurfly-description",
@@ -7765,7 +7765,7 @@ export default {
     },
     "endemic-life-bomb-arowana-description": {
       "Key": "endemic-life-bomb-arowana-description",
-      "Translation": "あなたはそれを信じることができるなら、彼らは、通常のアロワナよりも、バースト的です！彼らは、動きに敏感なので、その餌を揺すらないでくださいね！"
+      "Translation": "あなたはそれを信じることができるなら、彼らは、通常のアロワナよりも、バースト的です！彼らは動きに敏感なので、その餌を揺すらないでくださいね！"
     },
     "endemic-life-bomb-beetle-description": {
       "Key": "endemic-life-bomb-beetle-description",
@@ -7845,11 +7845,11 @@ export default {
     },
     "endemic-life-forest-pteryx-description": {
       "Key": "endemic-life-forest-pteryx-description",
-      "Translation": "私はので、私の手が震えている...その赤い王冠...とその青い羽を興奮しています！それはすべてに沿って古代の森にあったと思うには！"
+      "Translation": "私はので、私の手が震えている...その赤い王冠...とその青い羽を興奮しています！それはすべてに沿って古代の森にあったと思うために！"
     },
     "endemic-life-gastronome-tuna-description": {
       "Key": "endemic-life-gastronome-tuna-description",
-      "Translation": "食べるanything--あなたは時々その胃からアイテムを取得することができていること魚。餌を奪うしたいとこれらの大きな魚！で、それを持って来るためにあなたの利益のために、ロッドの柔軟性を使用し、アイテムのためにそれをチェックしてください！"
+      "Translation": "食べるanything--あなたは時々その胃からアイテムを取得することができていること魚。餌を奪うしたいとこれらの大きな魚！で、それを持参し、あなたの利益のために、ロッドの柔軟性を使用し、アイテムのためにそれをチェックしてください！"
     },
     "endemic-life-giant-vigorwasp-description": {
       "Key": "endemic-life-giant-vigorwasp-description",
@@ -7881,7 +7881,7 @@ export default {
     },
     "endemic-life-grandfather-mantagrell-description": {
       "Key": "endemic-life-grandfather-mantagrell-description",
-      "Translation": "このやつで穏やかになります。 GENTLE！あなたがスリンガからでも一発でそれをヒットした場合、それが地面に降り流線形カバー来ます。"
+      "Translation": "このやつで穏やかになります。 GENTLE！あなたのスリンガからでも一発でそれをヒットした場合、それが地面に降り流線形カバー来ます。"
     },
     "endemic-life-gunpowderfish-description": {
       "Key": "endemic-life-gunpowderfish-description",
@@ -7921,11 +7921,11 @@ export default {
     },
     "endemic-life-paratoad-description": {
       "Key": "endemic-life-paratoad-description",
-      "Translation": "それは脅されたときに、その本体とリリース、それにガスを麻痺させる保存します！見る？ここでは、その相馬-AGH中！私は...私はできません... mooove ..."
+      "Translation": "脅されたときには、その本体とリリース、それを内のガスを麻痺店！見る？ここではその相馬-AGH中！私は...私はできません... mooove ..."
     },
     "endemic-life-petricanths-description": {
       "Key": "endemic-life-petricanths-description",
-      "Translation": "信じられない...あなたは伝説的に釣り上げることができた、と思ったツー-行っている、絶滅Petricanths！私はあなたに私の帽子を脱ぎます！"
+      "Translation": "信じられない...あなたは、伝説的に釣り上げることができたと思っツー持っ-なくなって、絶滅Petricanths！私はあなたに私の帽子を脱ぎます！"
     },
     "endemic-life-phantom-flutterfly": {
       "Key": "endemic-life-phantom-flutterfly",
@@ -7949,7 +7949,7 @@ export default {
     },
     "endemic-life-revolture-description": {
       "Key": "endemic-life-revolture-description",
-      "Translation": "これらの鳥は、大規模なモンスターの残り物の後は常にあります。あなたがものを見つけた場合、モンスターは、おそらく近くに潜んでいます！"
+      "Translation": "これらの鳥は、大規模なモンスターの残り物後に常にあります。あなたがものを見つけた場合、モンスターは、おそらく近くに潜んでいます！"
     },
     "endemic-life-scalebat-description": {
       "Key": "endemic-life-scalebat-description",
@@ -8013,7 +8013,7 @@ export default {
     },
     "endemic-life-woodland-pteryx-description": {
       "Key": "endemic-life-woodland-pteryx-description",
-      "Translation": "それは真の生きた化石だと先史時代の鳥と共通であまりにも多くの鋸歯状の歯、およびそれらのremiges ...！"
+      "Translation": "歯を鋸歯状、そして、それは真の生きた化石だとそれらのremiges ...あまりにも多くの共通点を持つ先史時代の鳥！"
     },
     "home-about": {
       "Key": "home-about",
@@ -8193,7 +8193,7 @@ export default {
     },
     "layered-armor-brigade-how-to-get": {
       "Key": "layered-armor-brigade-how-to-get",
-      "Translation": "ブレーキングアウトに旅団の配信を完了します。"
+      "Translation": "ブレイキング・アウトに旅団の配信を完了します。"
     },
     "layered-armor-brigade-layered-arms": {
       "Key": "layered-armor-brigade-layered-arms",
@@ -8201,7 +8201,7 @@ export default {
     },
     "layered-armor-brigade-layered-chest": {
       "Key": "layered-armor-brigade-layered-chest",
-      "Translation": "旅団レイヤード・チェスト"
+      "Translation": "旅団レイヤード胸"
     },
     "layered-armor-brigade-layered-head": {
       "Key": "layered-armor-brigade-layered-head",
@@ -8261,11 +8261,11 @@ export default {
     },
     "layered-armor-bushi-sabi-how-to-get": {
       "Key": "layered-armor-bushi-sabi-how-to-get",
-      "Translation": "以下の配達を完了：サビ、サビの精神、サビの強さ、サビやサビのフライトの財団の知恵をフルセットを取得します。"
+      "Translation": "、以下の配達を完了：サビ、サビの精神、サビの強さ、サビやサビのフライトの財団の知恵をフルセットを取得します。"
     },
     "layered-armor-bushi-suneate-homare": {
       "Key": "layered-armor-bushi-suneate-homare",
-      "Translation": "武士Suneate「誉」"
+      "Translation": "武士Suneate「誉、」"
     },
     "layered-armor-bushi-suneate-sabi": {
       "Key": "layered-armor-bushi-suneate-sabi",
@@ -8305,7 +8305,7 @@ export default {
     },
     "layered-armor-death-stench": {
       "Key": "layered-armor-death-stench",
-      "Translation": "死の悪臭"
+      "Translation": "死悪臭"
     },
     "layered-armor-death-stench-how-to-get": {
       "Key": "layered-armor-death-stench-how-to-get",
@@ -8321,7 +8321,7 @@ export default {
     },
     "layered-armor-diver-layered-arms": {
       "Key": "layered-armor-diver-layered-arms",
-      "Translation": "ダイバーレイヤード腕"
+      "Translation": "ダイバーレイヤード武器"
     },
     "layered-armor-diver-layered-chest": {
       "Key": "layered-armor-diver-layered-chest",
@@ -8381,7 +8381,7 @@ export default {
     },
     "layered-armor-gala-suit-layered-legs": {
       "Key": "layered-armor-gala-suit-layered-legs",
-      "Translation": "ガラスーツレイヤー美脚"
+      "Translation": "ガラ・スーツレイヤー脚"
     },
     "layered-armor-gala-suit-layered-torso": {
       "Key": "layered-armor-gala-suit-layered-torso",
@@ -8417,7 +8417,7 @@ export default {
     },
     "layered-armor-guild-cross-layered-legs": {
       "Key": "layered-armor-guild-cross-layered-legs",
-      "Translation": "ギルドクロスレイヤー美脚"
+      "Translation": "ギルド・クロスレイヤー美脚"
     },
     "layered-armor-guild-cross-layered-torso": {
       "Key": "layered-armor-guild-cross-layered-torso",
@@ -8753,7 +8753,7 @@ export default {
     },
     "monster-gastodon-useful-information": {
       "Key": "monster-gastodon-useful-information",
-      "Translation": "エルダー凹部に生息するモンスターを梱包してください。彼らは簡単に侵入者によって怒っている、とモンスター2倍の大きさで充電されます。"
+      "Translation": "エルダー凹部に生息するモンスターを梱包してください。彼らは簡単に侵入者によって怒られ、そしてモンスターに2倍のサイズをお支払いいただきます。"
     },
     "monster-girros": {
       "Key": "monster-girros",
@@ -8849,7 +8849,7 @@ export default {
     },
     "monster-kirin-useful-information": {
       "Key": "monster-kirin-useful-information",
-      "Translation": "キリンがで自身をマント雷は、その皮膚を強くすることが確認されました。 、それをずらすにキリンの嘘を狩猟Elderseal武器を使用して、そしてからあなた自身を保護し、その雷の攻撃を回避するための鍵。"
+      "Translation": "キリンがで自身をマント雷は、その皮膚を強くすることが確認されました。 、それをずらすElderseal武器を使用して、そしてからあなた自身を保護し、その雷の攻撃を避けることでキリンの嘘を狩猟するための鍵。"
     },
     "monster-kulu-ya-ku": {
       "Key": "monster-kulu-ya-ku",
@@ -8985,7 +8985,7 @@ export default {
     },
     "monster-noios-useful-information": {
       "Key": "monster-noios-useful-information",
-      "Translation": "びっくりしたときにスクリーマーポッドに似た音になりますWingdrakes。使用した肉は、彼らの注意を取得し、その後、材料のためにそれらを狩り、または輸送としてそれらを使用します。"
+      "Translation": "びっくりしたときにスクリーマーポッドに似た音になりますWingdrakes。使用の肉彼らの注意を取得し、その後、材料のためにそれらを狩り、または輸送としてそれらを使用します。"
     },
     "monster-odogaron": {
       "Key": "monster-odogaron",
@@ -9077,7 +9077,7 @@ export default {
     },
     "monster-rathian-characteristics": {
       "Key": "monster-rathian-characteristics",
-      "Translation": "知られているワイバーンズ「土地の女王」。地上捕食者、彼らは毒尾と強力な足で獲物過電力。"
+      "Translation": "知られているワイバーンズ「土地の女王」。地上捕食者、彼ら彼らの毒尾と強力な足と過電力獲物。"
     },
     "monster-rathian-useful-information": {
       "Key": "monster-rathian-useful-information",
@@ -9129,7 +9129,7 @@ export default {
     },
     "monster-teostra-useful-information": {
       "Key": "monster-teostra-useful-information",
-      "Translation": "黒皮ダストTeostraの飛散は、最終的には爆発するまで、広範囲に広がっていきます。その目を離さない、だけでなく、それが時折自体にシールド炎、およびElderseal能力を持つ武器でそれをずらすことを目指しています。"
+      "Translation": "それは最終的には爆発するまで、黒皮ダストTeostraの飛散は、広範囲に広がっていきます。その目を離さない、だけでなく、それが時折自体にシールド炎、およびElderseal能力を持つ武器でそれをずらすことを目指しています。"
     },
     "monster-tigrex": {
       "Key": "monster-tigrex",
@@ -9241,7 +9241,7 @@ export default {
     },
     "play-guide-actions-with-weapon-drawn-description": {
       "Key": "play-guide-actions-with-weapon-drawn-description",
-      "Translation": "あなたは剣＆盾を使用している場合は、あなたの武器が描かれている間、あなたはまだアイテムや、あなたのスリンガを使用することができます。使用アイテム：R2またはL2を押し広場を持ちます。スリンガー：ホールドL2を押しR2。"
+      "Translation": "あなたは剣＆盾を使用している場合は、あなたの武器が描かれている間、あなたはまだアイテムや、あなたのスリンガを使用することができます。使用アイテム：ホールドR2またはL2を押し広場。スリンガー：ホールドL2を押しR2。"
     },
     "play-guide-advanced-performance-techniques": {
       "Key": "play-guide-advanced-performance-techniques",
@@ -9301,7 +9301,7 @@ export default {
     },
     "play-guide-augmentations-description": {
       "Key": "play-guide-augmentations-description",
-      "Translation": "武器が強化されていたら、もはやそのアップグレードを元に戻すことはできません。"
+      "Translation": "武器が強化された後には、そのアップグレードをもはやを元に戻すことはできません。"
     },
     "play-guide-auto-crafting": {
       "Key": "play-guide-auto-crafting",
@@ -9313,7 +9313,7 @@ export default {
     },
     "play-guide-automatic-material-storage": {
       "Key": "play-guide-automatic-material-storage",
-      "Translation": "材料自動ストレージ"
+      "Translation": "自動マテリアルStorage"
     },
     "play-guide-automatic-material-storage-description": {
       "Key": "play-guide-automatic-material-storage-description",
@@ -9405,7 +9405,7 @@ export default {
     },
     "play-guide-camera-types-description": {
       "Key": "play-guide-camera-types-description",
-      "Translation": "あなたはオプションでカメラの種類を選択することができます。フォーカス：常にターゲットに固定されています。ターゲット：ボタンを押すターゲットに修正。"
+      "Translation": "あなたはオプションでカメラの種類を選択することができます。フォーカスは：常にターゲットに固定されています。ターゲット：ボタンを押すターゲットに修正。"
     },
     "play-guide-carrier-ants": {
       "Key": "play-guide-carrier-ants",
@@ -9497,7 +9497,7 @@ export default {
     },
     "play-guide-collecting-safari-rewards-description": {
       "Key": "play-guide-collecting-safari-rewards-description",
-      "Translation": "あなたは、彼らしている進行しながら、questesや遠征で撮影する必要がありますので、Tailraiderサファリは、完全に時間がかかります。 Safariはまだ進行中である、または進行中のサファリをキャンセルしながら、あなたはまた、収集報酬ことができます。"
+      "Translation": "あなたは、彼らしている進行しながら、questesや遠征で撮影していますのでTailraiderサファリは、完全に時間がかかります。 Safariはまだ進行中である、または進行中のサファリをキャンセルしながら、あなたはまた、収集報酬ことができます。"
     },
     "play-guide-critical-range": {
       "Key": "play-guide-critical-range",
@@ -9637,7 +9637,7 @@ export default {
     },
     "play-guide-elder-dragons-description": {
       "Key": "play-guide-elder-dragons-description",
-      "Translation": "エルダードラゴンは、はるかに人生の既知のツリーから削除されているモンスターです。長老竜の非常に外観は、自然現象や災害を引き起こすのに十分です。それらについて不明な多くの遺跡。"
+      "Translation": "エルダードラゴンは、はるかに人生の既知のツリーから削除されているモンスターです。長老竜の非常に外観は、自然現象や災害を引き起こすのに十分です。それらについて不明な多くの遺骨。"
     },
     "play-guide-elemental-resistances": {
       "Key": "play-guide-elemental-resistances",
@@ -9733,7 +9733,7 @@ export default {
     },
     "play-guide-foresight-slash-description": {
       "Key": "play-guide-foresight-slash-description",
-      "Translation": "フォーサイトスラッシュを使用すると、敵の攻撃をかわすと、すぐに反撃を提供することができます。また、精神ブレードに連鎖させることができます。"
+      "Translation": "フォーサイトスラッシュを使用すると、敵の攻撃をかわすと、すぐに反撃を提供することができます。それはまた、精神ブレードに連鎖させることができます。"
     },
     "play-guide-fundamentals": {
       "Key": "play-guide-fundamentals",
@@ -9797,7 +9797,7 @@ export default {
     },
     "play-guide-guild-card-restrictions-description": {
       "Key": "play-guide-guild-card-restrictions-description",
-      "Translation": "あなたはチェックしたり、編集し、あなたのギルドカードを探求や遠征中に、あなたはまだ他の人にそれを送ることができますすることはできません。"
+      "Translation": "あなたはチェックしたり、クエストや遠征中に、あなたのギルドカードを編集し、あなたはまだ他の人にそれを送ることができますすることはできません。"
     },
     "play-guide-gunlance": {
       "Key": "play-guide-gunlance",
@@ -9821,7 +9821,7 @@ export default {
     },
     "play-guide-hammer-description": {
       "Key": "play-guide-hammer-description",
-      "Translation": "ハンマーは、モビリティの驚くべき量を持つ強力な鈍器です。それは頭にハンマー攻撃を提供することで、モンスターを気絶させることも可能です。"
+      "Translation": "ハンマーは、モビリティの驚くべき量を持つ強力な鈍器です。それは頭にハンマー攻撃を提供することにより、また、スタンモンスターに可能です。"
     },
     "play-guide-hammer-tips": {
       "Key": "play-guide-hammer-tips",
@@ -9941,7 +9941,7 @@ export default {
     },
     "play-guide-know-your-environment-description": {
       "Key": "play-guide-know-your-environment-description",
-      "Translation": "無数の流行生き物と狩りにあなたを助ける環境への関心のポイントがあります。あなたはどこで、どのような彼らはあなたのマップをチェックしている見ることができます。"
+      "Translation": "無数の流行生き物と狩りにあなたを助ける環境への関心のポイントがあります。あなたはどこで、どのような彼らはあなたのマップをチェックしているを見ることができます。"
     },
     "play-guide-kulve-taroth-siege-strategies": {
       "Key": "play-guide-kulve-taroth-siege-strategies",
@@ -10037,7 +10037,7 @@ export default {
     },
     "play-guide-meal-vouchers": {
       "Key": "play-guide-meal-vouchers",
-      "Translation": "食事バウチャー"
+      "Translation": "食事Vouchers"
     },
     "play-guide-meal-vouchers-description": {
       "Key": "play-guide-meal-vouchers-description",
@@ -10117,7 +10117,7 @@ export default {
     },
     "play-guide-nitrotoads-description": {
       "Key": "play-guide-nitrotoads-description",
-      "Translation": "Whensトラック、nitrotoadsは十分なパワーを持つ爆発でも大きなモンスターをずらすことを揮発性の液体のスプレーを解放します。"
+      "Translation": "Whensトラック、nitrotoadsは十分なパワーを持つ爆発でも大きなモンスターをずらすこと揮発性液体のスプレーを解放します。"
     },
     "play-guide-objective-of-the-taroth-siege": {
       "Key": "play-guide-objective-of-the-taroth-siege",
@@ -10157,7 +10157,7 @@ export default {
     },
     "play-guide-palico-equipment-description": {
       "Key": "play-guide-palico-equipment-description",
-      "Translation": "あなたは鍛治場でPalico機器を偽造することができます。材料は、単にハンターの鎧のように、それを偽造するために必要とされています。"
+      "Translation": "あなたは鍛治場にPalico機器を偽造することができます。材料は、単にハンターの鎧のように、それを偽造するために必要とされています。"
     },
     "play-guide-palico-gadgets": {
       "Key": "play-guide-palico-gadgets",
@@ -10393,7 +10393,7 @@ export default {
     },
     "play-guide-slinger-torches-description": {
       "Key": "play-guide-slinger-torches-description",
-      "Translation": "スリンガトーチ弾薬（トーチポッド）炎にバーストがランド、特定のモンスターを反発し、潜在的に火災に描かれているモンスターを集め。"
+      "Translation": "スリンガトーチアミノ（トーチポッド）炎にバーストがランド、特定のモンスターを反発し、潜在的に火災に描かれているモンスターを集め。"
     },
     "play-guide-slot-level": {
       "Key": "play-guide-slot-level",
@@ -10529,7 +10529,7 @@ export default {
     },
     "play-guide-sword-condensed-element-slash-description": {
       "Key": "play-guide-sword-condensed-element-slash-description",
-      "Translation": "エレメントブーストがアクティブである間に凝縮要素スラッシュへの電荷を連鎖することで、ソードモードであなたの攻撃も、一時的に薬瓶効果の恩恵を受ける。"
+      "Translation": "エレメントブーストがアクティブな状態で凝縮要素スラッシュへの電荷を連鎖することで、ソードモードであなたの攻撃も、一時的に薬瓶効果の恩恵を受ける。"
     },
     "play-guide-sword-mode-attacks": {
       "Key": "play-guide-sword-mode-attacks",
@@ -10585,7 +10585,7 @@ export default {
     },
     "play-guide-the-argosy-is-in-port-description": {
       "Key": "play-guide-the-argosy-is-in-port-description",
-      "Translation": "Argostはアステラのポートに現在あります。あなたがどこにも得ることができないというアーゴシーキャプテンから数々のアイテムや材料を得ることができ、そして彼の株価は、彼が口に呼び出すたびに変化します。"
+      "Translation": "Argostはアステラのポートに現在あります。あなたが他のどこを取得できないというアーゴシーキャプテンから数々のアイテムや材料を得ることができ、そして彼の株価は、彼が口に呼び出すたびに変化します。"
     },
     "play-guide-the-argosy-sets-sail": {
       "Key": "play-guide-the-argosy-sets-sail",
@@ -10601,7 +10601,7 @@ export default {
     },
     "play-guide-the-botanical-research-center-description": {
       "Key": "play-guide-the-botanical-research-center-description",
-      "Translation": "植物研究センターでは、様々なアイテムを育成することができます。また、あなたは肥料を適用することによって、栽培品目の量を増やすことができます。"
+      "Translation": "研究センター植物は、さまざまなアイテムを育成することができます。また、あなたは肥料を適用することによって、栽培品目の量を増やすことができます。"
     },
     "play-guide-the-canteen": {
       "Key": "play-guide-the-canteen",
@@ -10613,7 +10613,7 @@ export default {
     },
     "play-guide-the-elder-crossing-description": {
       "Key": "play-guide-the-elder-crossing-description",
-      "Translation": "エルダークロッシングは長老ドラゴンが新世界に旅行した生態系の現象です。それだけで一度百年かそこらを発生するために使用されますが、クロッシングは現在、十年ごとに一回程度起こります。不思議なことに、いくつかの長老ドラゴンでも新世界にそれを作ることはありません。"
+      "Translation": "エルダークロッシングは長老ドラゴンが新世界に旅行した生態系の現象です。それが発生するために使用もののごとにしか百年かそこら後、クロッシングは現在、十年ごとに一回程度起こります。 Mysteriously、一部の長老ドラゴンでも新世界にそれを作ることはありません。"
     },
     "play-guide-the-field-researchers": {
       "Key": "play-guide-the-field-researchers",
@@ -10629,7 +10629,7 @@ export default {
     },
     "play-guide-the-golden-tribe-description": {
       "Key": "play-guide-the-golden-tribe-description",
-      "Translation": "奇妙な黄金の部族は、エル・ドラドの洞窟の中に住んでいる、といくつかの便利なアイテムを運ぶことができます。あなたは彼らの黄金の結晶鎧を攻撃した場合、彼らはあなたから離れて実行することができます。"
+      "Translation": "奇妙な黄金の部族は、エル・ドラドの洞窟の中に生きて、そして、いくつかの便利なアイテムを運ぶことができます。あなたは彼らの黄金の結晶鎧を攻撃した場合、彼らはあなたから離れて実行することができます。"
     },
     "play-guide-the-intrepid-field-researchers": {
       "Key": "play-guide-the-intrepid-field-researchers",
@@ -10721,7 +10721,7 @@ export default {
     },
     "play-guide-traps-and-elder-dragons-description": {
       "Key": "play-guide-traps-and-elder-dragons-description",
-      "Translation": "トラップは、落とし穴トラップとショックトラップのように、年上の龍には影響しません。これらの獣を捕獲することはできません。"
+      "Translation": "トラップは、落とし穴トラップとショックトラップのように、年上の龍には影響を与えません。これらの獣を捕獲することはできません。"
     },
     "play-guide-trusty-hunting-pawtners": {
       "Key": "play-guide-trusty-hunting-pawtners",
@@ -10853,7 +10853,7 @@ export default {
     },
     "play-guide-wiggly-litchi-description": {
       "Key": "play-guide-wiggly-litchi-description",
-      "Translation": "これらの栄養豊富な幼虫は短時間半体スタミナの消耗に消費することができます。"
+      "Translation": "これらの栄養豊富な幼虫は短時間半体スタミナ枯渇に消費することができます。"
     },
     "play-guide-wyvernblast": {
       "Key": "play-guide-wyvernblast",
@@ -10981,7 +10981,7 @@ export default {
     },
     "poogie-using-poogie-text": {
       "Key": "poogie-using-poogie-text",
-      "Translation": "Poogieを使用するには、クエストからの復帰時Poogieがあなたを迎えていることをポイントに取得する必要があります。単にPoggieをピックアップし、あなたのコントローラが振動を開始するかPoogieがあなたの手の中に小刻みに動かすまでアステラの周りにそれを運ぶ、そして彼を置きます。 Poogieがアイテムを見つけると、それとの相互作用は、アイテムを取得します。あなたが唯一のtryごとに一つの項目を見つけることができることに注意してください。あなたが別の項目を検索したい場合は、別のクエストに行くともう一度Poogieを使用するための探求から復帰する必要があります。"
+      "Translation": "Poogieを使用するには、クエストからの復帰時Poogieがあなたを迎えていることをポイントに取得する必要があります。単にPoggieをピックアップし、あなたのコントローラが振動を開始するかPoogieがあなたの手の中に小刻みに動かすまでアステラの周りにそれを運ぶ、そして彼を置きます。 Poogieがアイテムを見つけると、それとの相互作用は、アイテムを取得します。あなたが唯一のtryごとに一つの項目を見つけることができることに注意してください。あなたが別のアイテムを検索したい場合は、別のクエストに行くともう一度Poogieを使用するためにクエストから戻る必要があります。"
     },
     "poogie-white-jammies": {
       "Key": "poogie-white-jammies",
@@ -11005,7 +11005,7 @@ export default {
     },
     "quest-a-blaze-on-the-sand-description": {
       "Key": "quest-a-blaze-on-the-sand-description",
-      "Translation": "ここでは第二艦隊で、私たちはあなたの狩りを支援する新しいツールの開発に取り組んできたが、我々は、このクエストを取るために、あなたに私たちがしているカウント、材料を集めるあなたの助けが必要！"
+      "Translation": "ここでは第二艦隊で、私たちはあなたの狩りを支援する新しいツールの開発に取り組んできたが、我々はあなたがこのクエストを取るためにあなたの助け材料を集め、私たちがしているカウントを必要とします！"
     },
     "quest-a-blaze-on-the-sand-notable-rewards": {
       "Key": "quest-a-blaze-on-the-sand-notable-rewards",
@@ -11101,7 +11101,7 @@ export default {
     },
     "quest-a-humid-headache-description": {
       "Key": "quest-a-humid-headache-description",
-      "Translation": "この天気はとてもあなたは素晴らしい剣と空気を切ることができる湿度が高いです！私たちの部門は、いくつかの気候制御ので、私はいくつかの救済を提供することができますだけでモンスターを知っている可能性が！"
+      "Translation": "これ天気はとてもあなたは素晴らしい剣と空気を切る可能性が湿っています！私たちの部門は、いくつかの気候制御ので、私はいくつかの救済を提供することができますだけでモンスターを知っている可能性が！"
     },
     "quest-a-kestodon-kerfuffle": {
       "Key": "quest-a-kestodon-kerfuffle",
@@ -11121,7 +11121,7 @@ export default {
     },
     "quest-a-light-upon-the-rivers-gloom-notes": {
       "Key": "quest-a-light-upon-the-rivers-gloom-notes",
-      "Translation": "これは、コンバージェンスの割り当て土地をfunished後に表示され、あなたがファームXeno'jiiva材料にできるオプションのクエストです。あなたが任意のクエストまたは調査（より頻繁に高いあなたのランクを）完了した後、それがランダムに表示されます。ただしクエストが利用可能であることに注意してくださいを取得します。これは、2つのクエストの期間のためにのみ有効です。その後、再び消えます。"
+      "Translation": "これは、コンバージェンスの割り当て土地をfunished後に表示され、あなたがファームXeno'jiiva材料にできるオプションのクエストです。あなたが任意のクエストまたは調査（より頻繁に高いあなたのランクを）完了した後、それがランダムに表示されます。ただしクエストが利用可能であることに注意を取得します。これは、2つのクエストの期間のためにのみ有効です。その後、再び消えます。"
     },
     "quest-a-meow-for-help": {
       "Key": "quest-a-meow-for-help",
@@ -11161,7 +11161,7 @@ export default {
     },
     "quest-a-rotten-thing-to-do-description": {
       "Key": "quest-a-rotten-thing-to-do-description",
-      "Translation": "私は、G-G-グレートGirrosが後ろから私をのZ-Z-ザップ時に作業-K-王腐ったV-ヴェイルました。 I G-だ一枚で出てますが、私はすべてのT-T-tinglyまだだ...完了J-J-仕事私のために？ P-してください！"
+      "Translation": "私は、G-G-グレートGirrosが後ろから私をのZ-Z-ザップ時に作業-K-王腐ったV-ヴェイルました。 I G-だ一枚で出てますが、私はすべてのT-T-tinglyまだだ...完了J-Jジョブ私のために？ P-してください！"
     },
     "quest-a-rotten-thing-to-do-tips": {
       "Key": "quest-a-rotten-thing-to-do-tips",
@@ -11265,7 +11265,7 @@ export default {
     },
     "quest-a-tzitzi-for-science-tips": {
       "Key": "quest-a-tzitzi-for-science-tips",
-      "Translation": "南キャンプ（1）からスタート、スタン抵抗が役に立つが、すべてでは必須ではありませんすることができます。ヘッドの東側、あなたがターゲットに遭遇するまで、下の道を歩む、Shamosは気晴らしとして使用することができますが、おそらく担保被害に死んでしまいます。その巣は、セクター2でブドウの木を登って到達可能な、業界7です。"
+      "Translation": "南キャンプ（1）からスタート、スタン抵抗が役に立つが、すべてでは必須ではありませんすることができます。ヘッドの東側、あなたが目標に遭遇するまで、下の道を歩む、Shamosは気晴らしとして使用することができますが、おそらく担保被害に死んでしまいます。その巣は、セクター2でブドウの木を登って到達可能な、業界7です。"
     },
     "quest-a-visitor-from-another-world": {
       "Key": "quest-a-visitor-from-another-world",
@@ -11281,7 +11281,7 @@ export default {
     },
     "quest-a-visitor-from-eorzea-description": {
       "Key": "quest-a-visitor-from-eorzea-description",
-      "Translation": "Aベヒーモスはエルダーの凹部に登場しています。従来の方法は仕事、信頼できるhunte時にコールすることはありません - ヘルプへの冒険者は、獣を鎮めます！"
+      "Translation": "Aベヒーモスはエルダーの凹部に登場しています。従来の方法は、信頼できるのhunte時にコールされますない作品 - ヘルプへの冒険者は、獣を鎮めます！"
     },
     "quest-a-visitor-from-eorzea-extreme": {
       "Key": "quest-a-visitor-from-eorzea-extreme",
@@ -11313,7 +11313,7 @@ export default {
     },
     "quest-arena-quest-01-description": {
       "Key": "quest-arena-quest-01-description",
-      "Translation": "Pukei-Pukei、有毒Tussler、リッキンマシン：モンスターのコーナーで！あなたは「何の舌」と言っていないとき、彼は聞いてません！誰が設定する武器や防具でそれを戦うために勇気を持っていますか？"
+      "Translation": "Pukei-Pukei、有毒Tussler、リッキンマシン：モンスターのコーナーで！あなたは「何の舌」と言っていないとき、彼は聞いてません！誰が設定され、武器や防具でそれを戦うために勇気を持っていますか？"
     },
     "quest-arena-quest-02": {
       "Key": "quest-arena-quest-02",
@@ -11321,7 +11321,7 @@ export default {
     },
     "quest-arena-quest-02-description": {
       "Key": "quest-arena-quest-02-description",
-      "Translation": "クル - 雅区、粉砕機、Peckanizer：モンスターのコーナーで！この鳥は言葉であれば、その単語はSMASHです！誰が設定する武器や防具でそれを戦うために勇気を持っていますか？"
+      "Translation": "クル - 雅区、粉砕機、Peckanizer：モンスターのコーナーで！この鳥は言葉であれば、その単語はSMASHです！誰が設定され、武器や防具でそれを戦うために勇気を持っていますか？"
     },
     "quest-arena-quest-03": {
       "Key": "quest-arena-quest-03",
@@ -11337,7 +11337,7 @@ export default {
     },
     "quest-arena-quest-04-description": {
       "Key": "quest-arena-quest-04-description",
-      "Translation": "Tzitzi-YA-区、Saurian衝撃を与える、Flashinator：モンスターのコーナーで！このビースティの輝きに小走りし、罰金に熱いです！誰が設定する武器や防具でそれを戦うために勇気を持っていますか？"
+      "Translation": "Tzitzi-YA-区、Saurian衝撃を与える、Flashinator：モンスターのコーナーで！このビースティの輝きに小走りし、罰金に熱いです！誰が設定され、武器や防具でそれを戦うために勇気を持っていますか？"
     },
     "quest-arena-quest-05": {
       "Key": "quest-arena-quest-05",
@@ -11345,7 +11345,7 @@ export default {
     },
     "quest-arena-quest-05-description": {
       "Key": "quest-arena-quest-05-description",
-      "Translation": "モンスターのコーナーで：Barroth、図体の大きいずつき、Skullcracker！この男に負け、そしてあなたの名前は泥です！誰が設定する武器や防具でそれを戦うために勇気を持っていますか？"
+      "Translation": "モンスターのコーナーで：Barroth、図体の大きいずつき、Skullcracker！この男に負け、そしてあなたの名前は泥です！誰が設定され、武器や防具でそれを戦うために勇気を持っていますか？"
     },
     "quest-arena-quest-06": {
       "Key": "quest-arena-quest-06",
@@ -11353,7 +11353,7 @@ export default {
     },
     "quest-arena-quest-06-description": {
       "Key": "quest-arena-quest-06-description",
-      "Translation": "モンスターのコーナーで：Dodogama、ブームのビヒモス、Crucnher！アップ吹く何、あなたをダウンさせる必要があります！誰が設定する武器や防具でそれを戦うために勇気を持っていますか？"
+      "Translation": "モンスターのコーナーで：Dodogama、ブームのビヒモス、Crucnher！アップ吹く何、あなたをダウンさせる必要があります！誰が設定され、武器や防具でそれを戦うために勇気を持っていますか？"
     },
     "quest-arena-quest-07": {
       "Key": "quest-arena-quest-07",
@@ -11361,7 +11361,7 @@ export default {
     },
     "quest-arena-quest-07-description": {
       "Key": "quest-arena-quest-07-description",
-      "Translation": "Azureの火竜、サファイアスルタン、トゥルーブルーテラー：モンスターのコーナーで！すべてワイバーンズの王におじぎ！誰が設定する武器や防具でそれを戦うために勇気を持っていますか？"
+      "Translation": "Azureの火竜、サファイアスルタン、トゥルーブルーテラー：モンスターのコーナーで！すべてワイバーンズの王におじぎ！誰が設定され、武器や防具でそれを戦うために勇気を持っていますか？"
     },
     "quest-arena-quest-08": {
       "Key": "quest-arena-quest-08",
@@ -11437,7 +11437,7 @@ export default {
     },
     "quest-butting-heads-with-nature-description": {
       "Key": "quest-butting-heads-with-nature-description",
-      "Translation": "ブラストKestodon！当社が収集サンプルに出かけるひとつひとつの時間は、それらの迷惑な生き物は、私たちのtushes上で私たちをノック！私は、彼らが我々の研究のうち突き思いたいです！"
+      "Translation": "ブラストKestodon！当社が収集サンプルに出かけるひとつひとつの時間は、それらの迷惑な生き物は、当社のtushes上で私たちをノック！私は、彼らが我々の研究のうち突き思いたいです！"
     },
     "quest-butting-heads-with-nature-tips": {
       "Key": "quest-butting-heads-with-nature-tips",
@@ -11913,7 +11913,7 @@ export default {
     },
     "quest-conditions-hr-5-or-higher": {
       "Key": "quest-conditions-hr-5-or-higher",
-      "Translation": "HR 5以上"
+      "Translation": "5 HR以上"
     },
     "quest-conditions-hr-50-or-higher": {
       "Key": "quest-conditions-hr-50-or-higher",
@@ -11957,7 +11957,7 @@ export default {
     },
     "quest-contract-woodland-spirit-description": {
       "Key": "quest-contract-woodland-spirit-description",
-      "Translation": "ポータルは、古代の森に現れ、奇妙な生き物は、それを介して来ました。獣は森の精神と呼ばれ、それは非常に危険ですされています。死の行進にクエストレベルの近いです！ウィッチャー3の難しさ"
+      "Translation": "ポータルは、古代の森に現れ、奇妙な生き物は、それを介して来ました。 beastは森林の精神と呼ばれ、それは非常に危険ですされています。死の行進にクエストレベルの近いです！ウィッチャー3の難しさ"
     },
     "quest-coral-waltz": {
       "Key": "quest-coral-waltz",
@@ -11985,7 +11985,7 @@ export default {
     },
     "quest-dodogama-drama-description": {
       "Key": "quest-dodogama-drama-description",
-      "Translation": "ねえ、私たちは周りのローミング非常に細かいモンスター標本の報告を得ています。私たちは、この機会につかむ必要があるので、我々はできるだけ早く調査するあなたが必要です！"
+      "Translation": "ねえ、私たちは周りのローミング非常に細かいモンスター標本の報告を得ました。私たちは、この機会につかむ必要があるので、我々はできるだけ早く調査するあなたが必要です！"
     },
     "quest-dodogama-drama-tips": {
       "Key": "quest-dodogama-drama-tips",
@@ -12061,7 +12061,7 @@ export default {
     },
     "quest-flesh-cleaved-to-bone": {
       "Key": "quest-flesh-cleaved-to-bone",
-      "Translation": "骨に肉の切断されました"
+      "Translation": "骨にFlesh切断されました"
     },
     "quest-flesh-cleaved-to-bone-description": {
       "Key": "quest-flesh-cleaved-to-bone-description",
@@ -12073,7 +12073,7 @@ export default {
     },
     "quest-flying-sparks-tobi-kadachi-description": {
       "Key": "quest-flying-sparks-tobi-kadachi-description",
-      "Translation": "私、ああ！トビ-Kadachi確認は、進行の邪魔になっていることを！私はその夕食になる場合ハンターは私が作っているこれらの特殊なツールを手に入れることはありません！"
+      "Translation": "私、ああ！トビ-Kadachiは必ず進行の邪魔になっています！私はその夕食になる場合ハンターは私が作っているこれらの特殊なツールを手に入れることはありません！"
     },
     "quest-flying-sparks-tobi-kadachi-notable-rewards": {
       "Key": "quest-flying-sparks-tobi-kadachi-notable-rewards",
@@ -12093,7 +12093,7 @@ export default {
     },
     "quest-fungal-flexin-in-the-ancient-forest-tips": {
       "Key": "quest-fungal-flexin-in-the-ancient-forest-tips",
-      "Translation": "ロック解除場合は東北キャンプ（11）から開始するか、いくつかのユニークなキノコのコロニーがある場合のセクター5に到達するためにセクタ1> 3> 4を通過します。あなたはこの分野でParatoad、Flashfly、ウッドランドPteryx多分珍しい森Pteryxをキャプチャすることができます。この分野でさまようのが好きというAnjanathとPukei-Pukeiに注意してください。月明かりキノコはこのクエスト中に出現することができます。囲碁部門5から北と大きな枝上の別のユニークなキノココロニーのために左に見て、リード君アップという。ブランチをフォローし、より多くのキノコのために小さな洞窟の北側に入ります。あなたはこの洞窟でOmenflyをキャッチすることができます。"
+      "Translation": "ロック解除場合は東北キャンプ（11）から開始するか、いくつかのユニークなキノコのコロニーがある場合のセクター5に到達するためにセクタ1> 3> 4を通過します。あなたはこの分野でParatoad、Flashfly、ウッドランドPteryx多分珍しい森Pteryxをキャプチャすることができます。この分野でさまようのが好きというAnjanathとPukei-Pukeiに注意してください。月明かりキノコはこのクエスト中に出現することができます。囲碁部門5から北と大きな枝上の別のユニークなキノココロニーのために左に見て、リード君アップという。ブランチをフォローして、よりキノコのために小さな洞窟の北側に入ります。あなたはこの洞窟でOmenflyをキャッチすることができます。"
     },
     "quest-gaze-upon-the-dawn": {
       "Key": "quest-gaze-upon-the-dawn",
@@ -12169,7 +12169,7 @@ export default {
     },
     "quest-hard-to-swallow-description": {
       "Key": "quest-hard-to-swallow-description",
-      "Translation": "Weは、古代の森に出現し、非常に強力なグレートJagrasのdisturbing報告を得ています。できるだけ早くあなたの調査を始めるが、その食いしん坊食欲を注意してください！"
+      "Translation": "私たちは、古代の森に出現する異常に強力なグレートJagrasの邪魔報告を得ています。できるだけ早くあなたの調査を始めるが、その食いしん坊食欲を注意してください！"
     },
     "quest-hard-to-swallow-notes": {
       "Key": "quest-hard-to-swallow-notes",
@@ -12229,7 +12229,7 @@ export default {
     },
     "quest-invader-in-the-waste-description": {
       "Key": "quest-invader-in-the-waste-description",
-      "Translation": "Wildspire廃棄物におけるA Pukei-Pukei！それは、まだ変な十分ではありませんこの1の余分なタフかのように。私たちは、このの底にもらわなくてきました！パートナー注意してください！"
+      "Translation": "Wildspire廃棄物にA Pukei-Pukei！それは、まだ変な十分ではありませんこの1の余分なタフかのように。私たちは、このの底にもらわなくてきました！パートナー注意してください！"
     },
     "quest-it-cant-see-you-if-you-dont-move": {
       "Key": "quest-it-cant-see-you-if-you-dont-move",
@@ -12325,7 +12325,7 @@ export default {
     },
     "quest-landing-the-landslide-wyvern-description": {
       "Key": "quest-landing-the-landslide-wyvern-description",
-      "Translation": "BarrothはWildspire廃棄物の沼地に住むが、その活動の詳細、ダイエット、そしてネスティング習慣は不明のまま。ヘルプへのキャッチ1は問題に光当てます。"
+      "Translation": "BarrothはWildspire廃棄物の沼地に住むが、彼らの活動、食事療法、およびネスティング習慣の詳細は不明のまま。ヘルプへのキャッチ1は問題に光当てます。"
     },
     "quest-landing-the-landslide-wyvern-tips": {
       "Key": "quest-landing-the-landslide-wyvern-tips",
@@ -12337,7 +12337,7 @@ export default {
     },
     "quest-lavasioth-monster-of-magma-description": {
       "Key": "quest-lavasioth-monster-of-magma-description",
-      "Translation": "ねえ、私たちは周りのローミング非常に細かいモンスター標本の報告を得ています。私たちは、この機会につかむ必要があるので、我々はできるだけ早く調査するあなたが必要です！"
+      "Translation": "ねえ、私たちは周りのローミング非常に細かいモンスター標本の報告を得ました。私たちは、この機会につかむ必要があるので、我々はできるだけ早く調査するあなたが必要です！"
     },
     "quest-left-quite-the-impression": {
       "Key": "quest-left-quite-the-impression",
@@ -12349,7 +12349,7 @@ export default {
     },
     "quest-left-quite-the-impression-notes": {
       "Key": "quest-left-quite-the-impression-notes",
-      "Translation": "これは、あなたが割り当てA巨大タスクを終えた後に表示されるオプションのクエストで、ゾラMagdaros材料のファームにことができます。あなたが任意のクエストまたは調査（より頻繁に高いあなたのランクを）完了した後、それがランダムに表示されます。ただしクエストが利用可能であることに注意してくださいを取得します。これは、2つのクエストの期間のためにのみ有効です。その後、再び消えます。"
+      "Translation": "これは、あなたが割り当てA巨大タスクを終えた後に表示されるオプションのクエストで、ゾラMagdaros材料のファームにことができます。あなたが任意のクエストまたは調査（より頻繁に高いあなたのランクを）完了した後、それがランダムに表示されます。ただしクエストが利用可能であることに注意を取得します。これは、2つのクエストの期間のためにのみ有効です。その後、再び消えます。"
     },
     "quest-legiana-embodiment-of-elegance": {
       "Key": "quest-legiana-embodiment-of-elegance",
@@ -12477,7 +12477,7 @@ export default {
     },
     "quest-no-remorse-no-surrender-description": {
       "Key": "quest-no-remorse-no-surrender-description",
-      "Translation": "私は、天皇と一つの場所で彼の皇后の両方を見て生きたいと思ったことはありません。あなたが彼らの治世を終了するの名誉を持っていることをフィッティングです。"
+      "Translation": "私は天皇と一つの場所で彼の皇后の両方を見て生きたいと思ったことはありません。あなたが彼らの治世を終了するの名誉を持っていることをフィッティングです。"
     },
     "quest-no-tomorrow-for-usurpers": {
       "Key": "quest-no-tomorrow-for-usurpers",
@@ -12561,7 +12561,7 @@ export default {
     },
     "quest-objective-deliver-20-bauble-cactuses": {
       "Key": "quest-objective-deliver-20-bauble-cactuses",
-      "Translation": "20の安物の宝石サボテンをお届け"
+      "Translation": "20安物の宝石Cactusesをお届け"
     },
     "quest-objective-deliver-20-gourmet-shroomcaps": {
       "Key": "quest-objective-deliver-20-gourmet-shroomcaps",
@@ -12769,7 +12769,7 @@ export default {
     },
     "quest-objective-slay-a-barroth": {
       "Key": "quest-objective-slay-a-barroth",
-      "Translation": "Barrothを殺します"
+      "Translation": "BarrothをSlay"
     },
     "quest-objective-slay-a-dodogama": {
       "Key": "quest-objective-slay-a-dodogama",
@@ -12881,7 +12881,7 @@ export default {
     },
     "quest-on-nightmares-wings-description": {
       "Key": "quest-on-nightmares-wings-description",
-      "Translation": "ここでは第二艦隊で、我々はあなたがrhunts支援する新しいツールの開発に取り組んできたが、我々は、材料を集めるあなたの助けを必要としています。私たちは、あなたがこのクエストを取る上でカウントしています！"
+      "Translation": "ここでは第二艦隊で、私たちはあなたがrhunts助けるための新しいツールを開発するために取り組んできたが、我々は、材料を集めるあなたの助けを必要としています。私たちは、あなたがこのクエストを取る上でカウントしています！"
     },
     "quest-on-nightmares-wings-tips": {
       "Key": "quest-on-nightmares-wings-tips",
@@ -12893,7 +12893,7 @@ export default {
     },
     "quest-one-for-the-history-books-description": {
       "Key": "quest-one-for-the-history-books-description",
-      "Translation": "夜明けに、私たちは歴史の中で誰もあえてしていないものをしようとします：長老ドラゴンをキャプチャ！あなたの準備を作成し、サイトに進みます。サファイアスターは、私たちのすべてを案内することができます。"
+      "Translation": "夜明けに私たちは、歴史の中で誰もあえてしていないものをしようとします：長老ドラゴンをキャプチャ！あなたの準備を作成し、サイトに進みます。サファイアスターは、私たちのすべてを案内することができます。"
     },
     "quest-one-helluva-sinus-infection": {
       "Key": "quest-one-helluva-sinus-infection",
@@ -12965,7 +12965,7 @@ export default {
     },
     "quest-prickly-predicament-tips": {
       "Key": "quest-prickly-predicament-tips",
-      "Translation": "中央キャンプ（6）から3ラウンドサボテンを見つけるために、左の外側に直接つるを登ると北に行く、人はより多くのすぐ北に岩の橋とサボテン人口プラットフォームの別の東のです。サウスウェストキャンプ（1）から（のような角竜のセクタ6をさまようする）、別のものを得るためのセクター9の南地区のためのヘッド、その後のラウンドサボテンを見つけるために、南東行きます。最後に、3つのまたは4スポーンポイントがちょうど部門10で湖の前の岩の上に見つけることができます。"
+      "Translation": "中央キャンプ（6）から3ラウンドサボテンを見つけるために、左の外側に直接つるを登ると北に行く、人はより多くのすぐ北に岩の橋とサボテン人口プラットフォームの別の東のです。サウスウェストキャンプ（1）から（のような角竜のセクタ6をさまようする）、別のものを得るためのセクター9の南地区のためのヘッド、その後のラウンドサボテンを見つけるために、南東行きます。最後に、3つのまたは4のスポーンポイントはただのセクター10にある湖の前の岩の上に見つけることができます。"
     },
     "quest-pukei-pukei-ambush": {
       "Key": "quest-pukei-pukei-ambush",
@@ -13049,7 +13049,7 @@ export default {
     },
     "quest-rollin-with-the-uragaan-description": {
       "Key": "quest-rollin-with-the-uragaan-description",
-      "Translation": "ユルク、私の頭はまだ私がちょうどのこぎりから回転しています。 Weは誰がムカムカ取得する前に、これらのトラブルを取るために誰かを必要としています。鎧球の多くは、このクエストを完了！"
+      "Translation": "ユルク、私の頭はまだ私がちょうどのこぎりから回転しています。私たちは、誰がムカムカを取得する前に、これらのトラブルを取るために誰かを必要としています。鎧球の多くは、このクエストを完了！"
     },
     "quest-royal-relocation": {
       "Key": "quest-royal-relocation",
@@ -13149,7 +13149,7 @@ export default {
     },
     "quest-sinister-shadows-in-the-swamp": {
       "Key": "quest-sinister-shadows-in-the-swamp",
-      "Translation": "沼で不吉な影"
+      "Translation": "沼で不吉の影"
     },
     "quest-sinister-shadows-in-the-swamp-description": {
       "Key": "quest-sinister-shadows-in-the-swamp-description",
@@ -13185,7 +13185,7 @@ export default {
     },
     "quest-sorry-youre-not-invited-tips": {
       "Key": "quest-sorry-youre-not-invited-tips",
-      "Translation": "南キャンプ（1）、セクター3で頭北西からスタート、その後9と5、あなたがターゲットを見つけることができない場合、それは部門のだろう8.戦いは青、いくつかの点で業界4に移動することができます地面がフワフワです。 Paolumuは地面に激突し、数秒のためのあなたの足場を失う可能衝撃波を作成するが、その領域の上Paolumuを見事な時間の良い量のためになり、実際のトラップに彼をすることができます。その巣がセクタ9であり、巨大な構造物の内部で、それは多くの場合、それが戻ってくるのを待つだけ、エリアの周りに飛びます。"
+      "Translation": "南キャンプ（1）、セクター3で頭北西からスタート、その後9と5、あなたがターゲットを見つけることができない場合、それは部門のだろう8.戦いは青、いくつかの点で業界4に移動することができます地面がフワフワです。 Paolumuは地面に激突し、あなたが数秒のためのあなたの足場を失う可能衝撃波を作成するが、時間の良い量のために実際にその領域の上に彼をトラップをPaolumuをします見事なことができます。その巣がセクタ9であり、巨大な構造物の内部で、それは多くの場合、それが戻ってくるのを待つだけ、エリアの周りに飛びます。"
     },
     "quest-special-arena-anjanath": {
       "Key": "quest-special-arena-anjanath",
@@ -13497,7 +13497,7 @@ export default {
     },
     "quest-the-current-situation-tips": {
       "Key": "quest-the-current-situation-tips",
-      "Translation": "東北キャンプ（11）からのスタートは、確かに負の雷耐性を持っており、南のセクター5の見出し起動しないことが（まれ森Pteryxスポーンの場合は周りを見て）あなたが高いつるが表示されるまで、波状ライチは西に行く達すると-covered壁は、この時点で、あなたは、ターゲットとのパスを交差していてもよいです。それは戦いが開始されますその後、攻撃されているときに最も近いオープンエリアに逃げるます。それはその巣に戻ったとき、あなたはそれのトラックを紛失した場合、つるの壁に戻ったときにすることができます登るとヘッド西。"
+      "Translation": "東北キャンプからスタート（11）が、ないあなたが波状ライチ行く西に到達すると、あなたが高いつるが表示されるまで（まれ森Pteryxスポーンの場合には辺りを見回す）負の雷耐性を持っているとセクタ5の南に向かってスタートしてくださいになります-covered壁は、この時点で、あなたは、ターゲットとのパスを交差していてもよいです。それは戦いが開始されますその後、攻撃されているときに最も近いオープンエリアに逃げるます。それはその巣に戻ったとき、あなたはそれのトラックを紛失した場合、つるの壁に戻ったときにすることができます登るとヘッド西。"
     },
     "quest-the-deathly-quiet-curtain": {
       "Key": "quest-the-deathly-quiet-curtain",
@@ -13521,7 +13521,7 @@ export default {
     },
     "quest-the-encroaching-anjanath-description": {
       "Key": "quest-the-encroaching-anjanath-description",
-      "Translation": "我々はゾラMagdarosをキャプチャするために準備を進めているように、我々は、我々はできる限りアステラを確保する必要があります。それはAnjanathがとても近いベースにローミングすることを持っているリスクのあまりです。"
+      "Translation": "私たちは、キャプチャゾラMagdarosに準備を進めているように、我々は、我々はできるな限りアステラを確保する必要があります。それはAnjanathがとても近いベースにローミングすることを持っているリスクのあまりです。"
     },
     "quest-the-eye-of-the-storm": {
       "Key": "quest-the-eye-of-the-storm",
@@ -13549,7 +13549,7 @@ export default {
     },
     "quest-the-food-chain-dominator-notes": {
       "Key": "quest-the-food-chain-dominator-notes",
-      "Translation": "あなたは自分のメインストーリー（譲渡クエスト）にRathianを見つけるまでに完了している場合は、このクエストを取得します。クエストをトリガするには、アステラのTradeyardにクエストボードに立っ学者に話します。彼はあなたの探求であなたを送る特別な青色のマーカーを持っています。"
+      "Translation": "あなたは自分のメインストーリー（譲渡クエスト）にRathianを見つけるまでに完了している場合は、このクエストを取得します。クエストをトリガするには、アステラのTradeyardにクエストボードに立っ学者に話します。彼はあなたの探求であなたを送る特別な青いマーカーを持っています。"
     },
     "quest-the-food-chain-dominator-tips": {
       "Key": "quest-the-food-chain-dominator-tips",
@@ -13629,7 +13629,7 @@ export default {
     },
     "quest-the-names-lavasioth-description": {
       "Key": "quest-the-names-lavasioth-description",
-      "Translation": "ヨ、私たちは誰も研究に望んでいないという怪物を検索するに尋ねました！あなたは大きなフロッピー魚が溶岩で周りのラウンジに好きということを、次のいずれかを知っています！うん、THAT 1！ （特別チケット報酬）"
+      "Translation": "ヨ、私たちは、誰も研究に望んでいないという怪物を検索するに尋ねました！あなたは大きなフロッピー魚が溶岩で周りのラウンジに好きということを、次のいずれかを知っています！うん、THAT 1！ （特別チケット報酬）"
     },
     "quest-the-pain-from-gains": {
       "Key": "quest-the-pain-from-gains",
@@ -13637,7 +13637,7 @@ export default {
     },
     "quest-the-pain-from-gains-description": {
       "Key": "quest-the-pain-from-gains-description",
-      "Translation": "私の足-thritisは再び機能しています。 Palico-INGの年はあなたにそれを行います。最善策？古き良きGajau肝油！"
+      "Translation": "マイ足-thritisには再び機能しています。 Palico-INGの年はあなたにそれを行います。最善策？古き良きGajau肝油！"
     },
     "quest-the-pain-from-gains-notable-rewards": {
       "Key": "quest-the-pain-from-gains-notable-rewards",
@@ -13645,7 +13645,7 @@ export default {
     },
     "quest-the-pain-from-gains-tips": {
       "Key": "quest-the-pain-from-gains-tips",
-      "Translation": "サウスウェストキャンプからスタート（1）、あなたがこの中でGajauを見つける部門10の小さな湖に到達するために（天皇ホッパー、運送Antとシェパードノウサギはすぐ外にキャンプ見つけることができます）部門4と9の東交差点を頭湖は、あなたはそれら無力をレンダリングするために、固体地面にそれらを誘惑することができます。多分珍しいプリズムHercudromeを見つけるために、右の池の前の岩の上に枯れ木を確認してください。"
+      "Translation": "サウスウェストキャンプからスタート（1）、あなたがこの中でGajauを見つける部門10の小さな湖に達するために（天皇ホッパー、運送Antとシェパードノウサギはすぐ外にキャンプ見つけることができます）部門4と9の東交差点を頭湖は、あなたはそれら無力をレンダリングするために、固体地面にそれらを誘惑することができます。多分珍しいプリズムHercudromeを見つけるために、右の池の前の岩の上に枯れ木を確認してください。"
     },
     "quest-the-piscine-problem": {
       "Key": "quest-the-piscine-problem",
@@ -13733,7 +13733,7 @@ export default {
     },
     "quest-the-thronetaker-description": {
       "Key": "quest-the-thronetaker-description",
-      "Translation": "私は最終的にフィールドに出て行くために植物の研究から許可を得ました。私のパートナーと私はTeostra、LunastraとNergiganteにつまずきました！私の運のfreakinのを吸います！昼寝したい..."
+      "Translation": "私は最終的にフィールドに出て行くための植物研究の許可を得ました。私のパートナーと私はTeostra、LunastraとNergiganteにつまずきました！私の運のfreakinのを吸います！昼寝したい..."
     },
     "quest-the-white-winds-of-the-new-world": {
       "Key": "quest-the-white-winds-of-the-new-world",
@@ -13745,7 +13745,7 @@ export default {
     },
     "quest-the-white-winds-of-the-new-world-description": {
       "Key": "quest-the-white-winds-of-the-new-world-description",
-      "Translation": "すべての調査を征服したハンターに、私はこの、究極のクエストを提供します。特別アリーナを入力して、新しい世界を取ります。すべてがあなたの前に位置し、請求の栄光を使用してください。"
+      "Translation": "すべての調査を征服したハンターに、私はこの、究極のクエストを提供します。特別アリーナを入力して、新しい世界を取ります。すべてがあなたの前に位置し、請求の栄光を使用します。"
     },
     "quest-the-white-winds-of-the-new-world-notable-rewards": {
       "Key": "quest-the-white-winds-of-the-new-world-notable-rewards",
@@ -13753,7 +13753,7 @@ export default {
     },
     "quest-the-white-winds-of-the-new-world-notes": {
       "Key": "quest-the-white-winds-of-the-new-world-notes",
-      "Translation": "唯一のLegianaは、開始時にアリーナであり、Odogaronは、第二、その後、角竜、最後に火竜に入っています。スポーンタイマー/条件はまだ知っています。このクエストを完了した後、アステラと研究基地でみんなと一緒にロック解除の対話にザ・司令官の話"
+      "Translation": "唯一のLegianaは、開始時にアリーナであり、Odogaronは、第二、その後、角竜、最後に火竜に入っています。スポーンタイマー/条件はまだ知っています。アステラ・研究Baseのみんなとロック解除の対話にザ・司令官にこのクエスト、話を完了した後"
     },
     "quest-the-winds-of-wrath-bite-deep": {
       "Key": "quest-the-winds-of-wrath-bite-deep",
@@ -13817,7 +13817,7 @@ export default {
     },
     "quest-todays-special-hunter-flambe-description": {
       "Key": "quest-todays-special-hunter-flambe-description",
-      "Translation": "パートナー、あまりにもあなたが考えてみれば、私たちの食物連鎖のだ一部。 Deviljhoはハンターバーガーのために憧れを取得する場合、それは私たちにとって悪いニュースです！そこで、我々している昼食前の狩り、それを失望させます！"
+      "Translation": "パートナー、あまりにもあなたが考えてみれば、私たちの食物連鎖のだ一部。 Deviljhoはハンターバーガーのために憧れを取得する場合、それは私たちにとって悪いニュースです！そこで、我々だ昼食前の狩り、それを失望させます！"
     },
     "quest-todays-special-hunter-flambe-notes": {
       "Key": "quest-todays-special-hunter-flambe-notes",
@@ -13829,7 +13829,7 @@ export default {
     },
     "quest-tracking-the-delivery-description": {
       "Key": "quest-tracking-the-delivery-description",
-      "Translation": "フィールド内のサンプルを収集しながら、私はレアトラック数に気づきました。私は私のサンプルの残りの部分を取得することができハンターを必要とする、プラスこれらのトラックを集めますよ！"
+      "Translation": "フィールド内のサンプルを収集しながら、私はレアトラック数に気づきました。私のサンプルの残りを得るためにできるハンターを必要とする、プラスこれらのトラックを集めますよ！"
     },
     "quest-trespassing-troublemaker": {
       "Key": "quest-trespassing-troublemaker",
@@ -13877,7 +13877,7 @@ export default {
     },
     "quest-two-horned-hostility-description": {
       "Key": "quest-two-horned-hostility-description",
-      "Translation": "ねえ、私たちは周りのローミング非常に細かいモンスター標本の報告を得ています。私たちは、この機会につかむ必要があるので、我々はできるだけ早く調査するあなたが必要です！"
+      "Translation": "ねえ、私たちは周りのローミング非常に細かいモンスター標本の報告を得ました。私たちは、この機会につかむ必要があるので、我々はできるだけ早く調査するあなたが必要です！"
     },
     "quest-two-horned-hostility-notes": {
       "Key": "quest-two-horned-hostility-notes",
@@ -13889,7 +13889,7 @@ export default {
     },
     "quest-type-delivery-quest": {
       "Key": "quest-type-delivery-quest",
-      "Translation": "配達クエスト"
+      "Translation": "配信クエスト"
     },
     "quest-type-hunting-quest": {
       "Key": "quest-type-hunting-quest",
@@ -14237,7 +14237,7 @@ export default {
     },
     "settings-language-volunteer-text": {
       "Key": "settings-language-volunteer-text",
-      "Translation": "私は現在、私は他の言語への翻訳アプリをするうえでのボランティアを探しています。あなたは私を助けてくださるのであれば、スクロールにページについて下にすべての道を開きます。あなたは、編集にファイルをデスクトップ/ラップトップコンピュータを使用する必要があります。"
+      "Translation": "私は現在、私は他の言語への翻訳アプリをするうえでのボランティアを探しています。あなたは私を助けてくださるのであれば、スクロールにページについて下にすべての道を開きます。あなたは、編集にファイルをデスクトップ/ラップトップ・コンピュータを使用する必要があります。"
     },
     "settings-loadouts-were-updated": {
       "Key": "settings-loadouts-were-updated",
@@ -14253,7 +14253,7 @@ export default {
     },
     "settings-quick-search-text": {
       "Key": "settings-quick-search-text",
-      "Translation": "オン：あなたは、各文字を入力すると、クイック検索が自動的に検索しますが、これは一部のデバイス上で非常に遅くなることができます\\ NOFF：あなたは、キーボードのEnter / Returnキーを押すと、クイック検索にのみ検索します\\ nのデフォルトはオフです。"
+      "Translation": "上：あなたは、各文字を入力すると、クイック検索が自動的に検索しますが、これは一部のデバイス上で非常に遅くなることができます\\ NOFF：あなたはあなたのキーボードのEnter / Returnキーを押すと、クイック検索にのみ検索します\\ nのデフォルトはオフです。"
     },
     "settings-rate-app": {
       "Key": "settings-rate-app",
@@ -14261,7 +14261,7 @@ export default {
     },
     "settings-rate-app-text": {
       "Key": "settings-rate-app-text",
-      "Translation": "App Storeでこのアプリを評価=）"
+      "Translation": "）= App Storeでこのアプリを評価"
     },
     "settings-redeem-code": {
       "Key": "settings-redeem-code",
@@ -14301,7 +14301,7 @@ export default {
     },
     "settings-remove-ads-text": {
       "Key": "settings-remove-ads-text",
-      "Translation": "広告を削除し、余分な画面の不動産をお楽しみください！あなたが購入していると広告が引き続き表示されている場合は、広告を削除するには、もう一度このボタンをクリックしてみてください。あなたはどんな問題がある場合は、電子メールを介してできるだけ早く私に連絡し、私はできるだけ早くあなたをお手伝いします！"
+      "Translation": "広告を削除し、余分な画面の不動産をお楽しみください！あなたが購入していると広告が引き続き表示されている場合は、広告を削除するには、もう一度このボタンをクリックしてみてください。あなたはどんな問題がある場合は、電子メールを介してできるだけ早く私に連絡し、私はあなたをできるだけ早くお手伝いします！"
     },
     "settings-restore-purchase": {
       "Key": "settings-restore-purchase",
@@ -14381,19 +14381,19 @@ export default {
     },
     "skill-agitator-1": {
       "Key": "skill-agitator-1",
-      "Translation": "アクティブながら、許可は+4を攻撃し、3％の親和性を増加させます。"
+      "Translation": "アクティブながら、許可は3％+4と増加親和性を攻撃します。"
     },
     "skill-agitator-2": {
       "Key": "skill-agitator-2",
-      "Translation": "アクティブながら、許可は+8を攻撃し、6％の親和性を増加させます。"
+      "Translation": "アクティブながら、許可は+8を攻撃し、6％の親和性を増大させます。"
     },
     "skill-agitator-3": {
       "Key": "skill-agitator-3",
-      "Translation": "アクティブながら、許可は+12を攻撃し、9％の親和性を増加させます。"
+      "Translation": "アクティブながら、許可は9％+12と増加親和性を攻撃します。"
     },
     "skill-agitator-4": {
       "Key": "skill-agitator-4",
-      "Translation": "アクティブながら、許可は+16を攻撃し、12％の親和性を増加させます。"
+      "Translation": "アクティブながら、補助金は12％+16と増加親和性を攻撃します。"
     },
     "skill-agitator-5": {
       "Key": "skill-agitator-5",
@@ -14401,7 +14401,7 @@ export default {
     },
     "skill-agitator-description": {
       "Key": "skill-agitator-description",
-      "Translation": "大型モンスターが激怒になったときに増加し、電源との親和性を攻撃します。"
+      "Translation": "大型モンスターの激怒になったときに増加し、電源との親和性を攻撃します。"
     },
     "skill-airborne": {
       "Key": "skill-airborne",
@@ -14449,11 +14449,11 @@ export default {
     },
     "skill-artillery-3": {
       "Key": "skill-artillery-3",
-      "Translation": "30％各攻撃の増加パワーと50％ワイバーンの火のクールダウンを減らします。"
+      "Translation": "増加の30％、それぞれの攻撃のパワーとは、50％ワイバーンの火のクールダウンを減らします。"
     },
     "skill-artillery-description": {
       "Key": "skill-artillery-description",
-      "Translation": "gunlanceシェル、ワイバーンの火、充電ブレード小瓶攻撃、粘着性の弾薬のような爆発的な攻撃を強化。"
+      "Translation": "gunlanceシェル、ワイバーンファイアー、充電ブレード小瓶攻撃、粘着性の弾薬ような爆発的な攻撃を強化。"
     },
     "skill-attack-boost": {
       "Key": "skill-attack-boost",
@@ -14657,7 +14657,7 @@ export default {
     },
     "skill-botanist-4": {
       "Key": "skill-botanist-4",
-      "Translation": "集まるごとに1つの余分消耗品ハーブ、フルーツ、ナッツ、種子、昆虫、またはキノコアイテム。"
+      "Translation": "1つの余分消耗品ハーブ、フルーツ、ナッツ、種子、昆虫、または集まるごとにキノコアイテム。"
     },
     "skill-botanist-description": {
       "Key": "skill-botanist-description",
@@ -14685,7 +14685,7 @@ export default {
     },
     "skill-capacity-boost-description": {
       "Key": "skill-capacity-boost-description",
-      "Translation": "gunlanceのシェル容量と充電ブレードの小瓶容量を増やします。"
+      "Translation": "gunlanceのシェル容量と充電ブレードの小瓶容量が増加します。"
     },
     "skill-capture-master": {
       "Key": "skill-capture-master",
@@ -14741,7 +14741,7 @@ export default {
     },
     "skill-coalescence-description": {
       "Key": "skill-coalescence-description",
-      "Translation": "一時的にblightsまたは異常な状態から回復した後の攻撃を強化します。"
+      "Translation": "一時的にblightsまたは異常状態から回復した後の攻撃を強化します。"
     },
     "skill-coldproof": {
       "Key": "skill-coldproof",
@@ -14877,11 +14877,11 @@ export default {
     },
     "skill-critical-status-1": {
       "Key": "skill-critical-status-1",
-      "Translation": "クリティカルヒットを着陸時に異常状態効果の損傷（麻痺、毒、睡眠、爆風）を増加させます。"
+      "Translation": "クリティカルヒットを着陸時に異常状態効果の損傷（麻痺、毒、睡眠爆風を）上げます。"
     },
     "skill-critical-status-description": {
       "Key": "skill-critical-status-description",
-      "Translation": "クリティカルヒットを着陸時に異常状態効果の損傷（麻痺、毒、睡眠、爆風）を増加させます。"
+      "Translation": "クリティカルヒットを着陸時に異常状態効果の損傷（麻痺、毒、睡眠爆風を）上げます。"
     },
     "skill-defense-boost": {
       "Key": "skill-defense-boost",
@@ -14929,7 +14929,7 @@ export default {
     },
     "skill-detector-description": {
       "Key": "skill-detector-description",
-      "Translation": "野生生物地図上の珍しい収集ポイントを表示します。"
+      "Translation": "野生生物地図上のレア収集ポイントを表示します。"
     },
     "skill-divine-blessing": {
       "Key": "skill-divine-blessing",
@@ -14997,7 +14997,7 @@ export default {
     },
     "skill-dragon-resistance-description": {
       "Key": "skill-dragon-resistance-description",
-      "Translation": "龍耐性が向上します。また、より高いレベルでの防御を向上させます。"
+      "Translation": "龍耐性を向上します。また、より高いレベルでの防御を向上させます。"
     },
     "skill-dungmaster": {
       "Key": "skill-dungmaster",
@@ -15189,7 +15189,7 @@ export default {
     },
     "skill-fire-attack-description": {
       "Key": "skill-fire-attack-description",
-      "Translation": "火の要素攻撃力を増加させます。 （元素攻撃力が最大限界を有します。）"
+      "Translation": "増加は、要素の攻撃力を発射します。 （元素攻撃力が最大限界を有します。）"
     },
     "skill-fire-resistance": {
       "Key": "skill-fire-resistance",
@@ -15305,7 +15305,7 @@ export default {
     },
     "skill-free-meal-description": {
       "Key": "skill-free-meal-description",
-      "Translation": "あなたは自由のための食べ物や飲み物のアイテムを消費する所定与えます。"
+      "Translation": "あなたは無料で食べ物や飲み物のアイテムを消費する所定与えます。"
     },
     "skill-geologist": {
       "Key": "skill-geologist",
@@ -15505,7 +15505,7 @@ export default {
     },
     "skill-heroics-3": {
       "Key": "skill-heroics-3",
-      "Translation": "アクティブながら、増加は15％の電力を攻撃し、25ポイントの防御を増加させます。"
+      "Translation": "活性ながら、増加は15％の電力を攻撃し、25ポイント防衛を増加させます。"
     },
     "skill-heroics-4": {
       "Key": "skill-heroics-4",
@@ -15513,7 +15513,7 @@ export default {
     },
     "skill-heroics-5": {
       "Key": "skill-heroics-5",
-      "Translation": "アクティブながら、増加は30％の電力を攻撃し、40ポイント防御を増加させます。"
+      "Translation": "アクティブながら、増加は30％の電力を攻撃と40ポイント防御を増加させます。"
     },
     "skill-heroics-description": {
       "Key": "skill-heroics-description",
@@ -15637,7 +15637,7 @@ export default {
     },
     "skill-intimidator-3": {
       "Key": "skill-intimidator-3",
-      "Translation": "あなたが目撃されてきた場合でも、あなたの魅力から防ぎモンスター。"
+      "Translation": "あなたが目撃されてきた場合でも、あなたの魅力から防ぎモンスターを。"
     },
     "skill-intimidator-description": {
       "Key": "skill-intimidator-description",
@@ -15693,7 +15693,7 @@ export default {
     },
     "skill-jump-master-description": {
       "Key": "skill-jump-master-description",
-      "Translation": "ジャンプ中あなたをノックバックから防ぎ攻撃。"
+      "Translation": "ジャンプ中のバックあなたをノックから防ぎ攻撃。"
     },
     "skill-latent-power": {
       "Key": "skill-latent-power",
@@ -15717,7 +15717,7 @@ export default {
     },
     "skill-latent-power-5": {
       "Key": "skill-latent-power-5",
-      "Translation": "アクティブながら、50％の親和性を増加させ、50％スタミナ消耗を減少させます。"
+      "Translation": "活性が、50％の親和性を増加させ、50％stamina枯渇を低減します。"
     },
     "skill-latent-power-description": {
       "Key": "skill-latent-power-description",
@@ -15749,11 +15749,11 @@ export default {
     },
     "skill-marathon-runner-3": {
       "Key": "skill-marathon-runner-3",
-      "Translation": "50％の連続スタミナの消耗を低減します。"
+      "Translation": "50％の連続スタミナの消耗を軽減します。"
     },
     "skill-marathon-runner-description": {
       "Key": "skill-marathon-runner-description",
-      "Translation": "継続的に（例えば颯爽として）スタミナドレインアクションのスタミナの消耗が遅くなります。"
+      "Translation": "遅くなるdownスタミナ枯渇（例えばダッシュなど）を連続的スタミナを排出アクションの。"
     },
     "skill-master-fisher": {
       "Key": "skill-master-fisher",
@@ -15797,11 +15797,11 @@ export default {
     },
     "skill-masters-touch-1": {
       "Key": "skill-masters-touch-1",
-      "Translation": "クリティカルヒット時の鋭さを失うことから、あなたの武器を防ぎます。"
+      "Translation": "あなたの武器はクリティカルヒット時の鋭さを失うことから防ぎます。"
     },
     "skill-masters-touch-description": {
       "Key": "skill-masters-touch-description",
-      "Translation": "クリティカルヒット時の鋭さを失うことから、あなたの武器を防ぎます。"
+      "Translation": "あなたの武器はクリティカルヒット時の鋭さを失うことから防ぎます。"
     },
     "skill-maximum-might": {
       "Key": "skill-maximum-might",
@@ -15861,7 +15861,7 @@ export default {
     },
     "skill-mushroomancer-3": {
       "Key": "skill-mushroomancer-3",
-      "Translation": "また、あなたがmandragoras、悪魔の枯れとexciteshroomsを消化することができます。"
+      "Translation": "また、あなたがmandragoras悪魔の枯れとexciteshroomsをすることができますダイジェスト。"
     },
     "skill-mushroomancer-description": {
       "Key": "skill-mushroomancer-description",
@@ -15961,7 +15961,7 @@ export default {
     },
     "skill-para-functionality-description": {
       "Key": "skill-para-functionality-description",
-      "Translation": "あなたが麻痺コーティングを適用することができます。"
+      "Translation": "あなたは麻痺コーティングを適用することができます。"
     },
     "skill-paralysis-attack": {
       "Key": "skill-paralysis-attack",
@@ -16125,7 +16125,7 @@ export default {
     },
     "skill-power-prolonger-1": {
       "Key": "skill-power-prolonger-1",
-      "Translation": "ボーナス時間+ 10％"
+      "Translation": "ボーナス持続時間+ 10％"
     },
     "skill-power-prolonger-2": {
       "Key": "skill-power-prolonger-2",
@@ -16141,11 +16141,11 @@ export default {
     },
     "skill-pro-transporter": {
       "Key": "skill-pro-transporter",
-      "Translation": "プロトランスポーター"
+      "Translation": "Proのトランスポーター"
     },
     "skill-pro-transporter-1": {
       "Key": "skill-pro-transporter-1",
-      "Translation": "増加移動速度を輸送し、着陸にダウンタイムを低減しながら。"
+      "Translation": "増加移動速度を輸送して着陸にダウンタイムを低減しながら。"
     },
     "skill-pro-transporter-description": {
       "Key": "skill-pro-transporter-description",
@@ -16177,7 +16177,7 @@ export default {
     },
     "skill-quick-sheath": {
       "Key": "skill-quick-sheath",
-      "Translation": "クイックシース"
+      "Translation": "Quickシース"
     },
     "skill-quick-sheath-1": {
       "Key": "skill-quick-sheath-1",
@@ -16365,7 +16365,7 @@ export default {
     },
     "skill-sleep-resistance-2": {
       "Key": "skill-sleep-resistance-2",
-      "Translation": "60％で、睡眠の時間を削減します。"
+      "Translation": "60％睡眠の時間を削減します。"
     },
     "skill-sleep-resistance-3": {
       "Key": "skill-sleep-resistance-3",
@@ -16457,7 +16457,7 @@ export default {
     },
     "skill-speed-eating-3": {
       "Key": "skill-speed-eating-3",
-      "Translation": "大幅アイテム使用速度をincresases。"
+      "Translation": "大幅アイテム使用の速度をincresases。"
     },
     "skill-speed-eating-description": {
       "Key": "skill-speed-eating-description",
@@ -16493,7 +16493,7 @@ export default {
     },
     "skill-sporepuff-expert-2": {
       "Key": "skill-sporepuff-expert-2",
-      "Translation": "Sporepuffsは35健康を回復します。"
+      "Translation": "Sporepuffs 35健康を回復します。"
     },
     "skill-sporepuff-expert-3": {
       "Key": "skill-sporepuff-expert-3",
@@ -16577,7 +16577,7 @@ export default {
     },
     "skill-stealth-2": {
       "Key": "skill-stealth-2",
-      "Translation": "あなたの失う光景にモンスターのために、それは適度に容易になります。"
+      "Translation": "あなたの失う光景にモンスターのために、それは適度に簡単になります。"
     },
     "skill-stealth-3": {
       "Key": "skill-stealth-3",
@@ -16725,7 +16725,7 @@ export default {
     },
     "skill-water-attack-4": {
       "Key": "skill-water-attack-4",
-      "Translation": "水の攻撃+ 5％、ボーナス100"
+      "Translation": "水上攻撃+ 5％、ボーナス100"
     },
     "skill-water-attack-5": {
       "Key": "skill-water-attack-5",
@@ -16769,7 +16769,7 @@ export default {
     },
     "skill-weakness-exploit-3": {
       "Key": "skill-weakness-exploit-3",
-      "Translation": "弱点を襲った攻撃は50％が親和性を高めています。"
+      "Translation": "弱点を襲った攻撃は50％が増加した親和性を持っています。"
     },
     "skill-weakness-exploit-description": {
       "Key": "skill-weakness-exploit-description",
@@ -16793,7 +16793,7 @@ export default {
     },
     "skill-wide-range-4": {
       "Key": "skill-wide-range-4",
-      "Translation": "アイテムは、その有効性の66％とはるかに広い半径で近くの同盟国に影響を与えます。"
+      "Translation": "アイテムは、それらの有効性の66％とはるかに広い半径で近くの同盟国に影響を与えます。"
     },
     "skill-wide-range-5": {
       "Key": "skill-wide-range-5",
@@ -16877,7 +16877,7 @@ export default {
     },
     "trophy-another-miniature-crown-description": {
       "Key": "trophy-another-miniature-crown-description",
-      "Translation": "マスターランクで流行の生活をキャプチャするためにあなたの最初のミニチュアの王冠を取得します。"
+      "Translation": "マスターランクで流行の生活を捕捉するために、あなたの最初のミニチュアの王冠を取得します。"
     },
     "trophy-architectural-artist": {
       "Key": "trophy-architectural-artist",
@@ -17037,7 +17037,7 @@ export default {
     },
     "trophy-established-hunter-description": {
       "Key": "trophy-established-hunter-description",
-      "Translation": "ハンターランク100に達します。"
+      "Translation": "リーチハンターランク100。"
     },
     "trophy-evolving-ecology": {
       "Key": "trophy-evolving-ecology",
@@ -17073,7 +17073,7 @@ export default {
     },
     "trophy-first-ride": {
       "Key": "trophy-first-ride",
-      "Translation": "ファーストライド"
+      "Translation": "まずライド"
     },
     "trophy-first-ride-description": {
       "Key": "trophy-first-ride-description",
@@ -17413,7 +17413,7 @@ export default {
     },
     "trophy-remodeler-description": {
       "Key": "trophy-remodeler-description",
-      "Translation": "初めてお部屋のインテリアを変更します。"
+      "Translation": "初めてのお部屋のインテリアを変更します。"
     },
     "trophy-seen-it-all": {
       "Key": "trophy-seen-it-all",
@@ -17585,7 +17585,7 @@ export default {
     },
     "trophy-true-large-crown-collector": {
       "Key": "trophy-true-large-crown-collector",
-      "Translation": "真の大型クラウンコレクター"
+      "Translation": "真の大王冠コレクター"
     },
     "trophy-true-large-crown-collector-description": {
       "Key": "trophy-true-large-crown-collector-description",
@@ -17905,7 +17905,7 @@ export default {
     },
     "weapon-dual-blades-erupter-gold-twinblades": {
       "Key": "weapon-dual-blades-erupter-gold-twinblades",
-      "Translation": "ErupterゴールドTwinblades"
+      "Translation": "Erupter Gold Twinblades"
     },
     "weapon-dual-blades-fire-and-ice": {
       "Key": "weapon-dual-blades-fire-and-ice",
@@ -18625,7 +18625,7 @@ export default {
     },
     "weapon-great-sword-purgations-atrocity": {
       "Key": "weapon-great-sword-purgations-atrocity",
-      "Translation": "下しの残虐行為"
+      "Translation": "下し者の残虐行為"
     },
     "weapon-great-sword-radobaan-slab-i": {
       "Key": "weapon-great-sword-radobaan-slab-i",
@@ -19337,7 +19337,7 @@ export default {
     },
     "weapon-hammer-tar-gold-bludgeon": {
       "Key": "weapon-hammer-tar-gold-bludgeon",
-      "Translation": "タールゴールド棍棒"
+      "Translation": "タールGold棍棒"
     },
     "weapon-hammer-taroth-hammer-decay": {
       "Key": "weapon-hammer-taroth-hammer-decay",
@@ -19409,7 +19409,7 @@ export default {
     },
     "weapon-hammer-water-basher-ii": {
       "Key": "weapon-hammer-water-basher-ii",
-      "Translation": "水バッシャーII"
+      "Translation": "ウォーターバッシャーII"
     },
     "weapon-hammer-water-basher-iii": {
       "Key": "weapon-hammer-water-basher-iii",
@@ -19489,7 +19489,7 @@ export default {
     },
     "weapon-hunting-horn-bone-horn-i": {
       "Key": "weapon-hunting-horn-bone-horn-i",
-      "Translation": "ボーンホーンII"
+      "Translation": "ボーンHorn II"
     },
     "weapon-hunting-horn-bone-horn-iii": {
       "Key": "weapon-hunting-horn-bone-horn-iii",
@@ -19917,7 +19917,7 @@ export default {
     },
     "weapon-lance-aqua-horn-iii": {
       "Key": "weapon-lance-aqua-horn-iii",
-      "Translation": "アクアホーンIII"
+      "Translation": "アクアHorn III"
     },
     "weapon-lance-babel-spear": {
       "Key": "weapon-lance-babel-spear",
@@ -19957,7 +19957,7 @@ export default {
     },
     "weapon-lance-blooming-lance-iii": {
       "Key": "weapon-lance-blooming-lance-iii",
-      "Translation": "ブルーミングランスIII"
+      "Translation": "ランスIIIブルーミング"
     },
     "weapon-lance-blue-prominence": {
       "Key": "weapon-lance-blue-prominence",
@@ -21021,7 +21021,7 @@ export default {
     },
     "weapon-sword-and-shield-dragonbone-sword-iii": {
       "Key": "weapon-sword-and-shield-dragonbone-sword-iii",
-      "Translation": "DragonboneソードIII"
+      "Translation": "Dragonbone剣III"
     },
     "weapon-sword-and-shield-drifter-gold-scimitar": {
       "Key": "weapon-sword-and-shield-drifter-gold-scimitar",
@@ -21149,7 +21149,7 @@ export default {
     },
     "weapon-sword-and-shield-jagras-edge-iii": {
       "Key": "weapon-sword-and-shield-jagras-edge-iii",
-      "Translation": "JagrasエッジIII"
+      "Translation": "JagrasのエッジIII"
     },
     "weapon-sword-and-shield-jagras-garotte-i": {
       "Key": "weapon-sword-and-shield-jagras-garotte-i",
@@ -21233,7 +21233,7 @@ export default {
     },
     "weapon-sword-and-shield-maladys-tabar-i": {
       "Key": "weapon-sword-and-shield-maladys-tabar-i",
-      "Translation": "病気のTabar I"
+      "Translation": "疾病のTabar I"
     },
     "weapon-sword-and-shield-maladys-tabar-ii": {
       "Key": "weapon-sword-and-shield-maladys-tabar-ii",
@@ -21329,7 +21329,7 @@ export default {
     },
     "weapon-sword-and-shield-taroth-slicer-blast": {
       "Key": "weapon-sword-and-shield-taroth-slicer-blast",
-      "Translation": "Tarothスライサー「ブラスト」"
+      "Translation": "Tarothスライサー、「ブラスト」"
     },
     "weapon-sword-and-shield-taroth-slicer-dragon": {
       "Key": "weapon-sword-and-shield-taroth-slicer-dragon",
@@ -21849,7 +21849,7 @@ export default {
     },
     "weapon-long-sword-hoarcry-stealer": {
       "Key": "weapon-long-sword-hoarcry-stealer",
-      "Translation": "Hoarcry盗みます"
+      "Translation": "Hoarcryスティーラー"
     },
     "weapon-long-sword-despots-boltbreaker": {
       "Key": "weapon-long-sword-despots-boltbreaker",
@@ -21889,7 +21889,7 @@ export default {
     },
     "weapon-long-sword-hidden-saber": {
       "Key": "weapon-long-sword-hidden-saber",
-      "Translation": "隠しサーベル"
+      "Translation": "Hiddenサーベル"
     },
     "weapon-long-sword-hidden-saber-plus": {
       "Key": "weapon-long-sword-hidden-saber-plus",
@@ -23341,7 +23341,7 @@ export default {
     },
     "weapon-bow-dragon-perforator-ii": {
       "Key": "weapon-bow-dragon-perforator-ii",
-      "Translation": "ドラゴン穿孔II"
+      "Translation": "竜穿孔II"
     },
     "weapon-bow-dragon-perforator-iii": {
       "Key": "weapon-bow-dragon-perforator-iii",
@@ -23958,5 +23958,369 @@ export default {
     "weapon-long-sword-great-demon-halberd": {
       "Key": "weapon-long-sword-great-demon-halberd",
       "Translation": "大魔王ハルバード"
+    },
+    "weapon-bow-acidic-arrow-ii": {
+      "Key": "weapon-bow-acidic-arrow-ii",
+      "Translation": "酸性アローII"
+    },
+    "weapon-bow-deathbow-vaal-velos": {
+      "Key": "weapon-bow-deathbow-vaal-velos",
+      "Translation": "DeathbowヴァールVelos"
+    },
+    "weapon-bow-hydra-planula": {
+      "Key": "weapon-bow-hydra-planula",
+      "Translation": "ハイドラプラヌラ"
+    },
+    "weapon-bow-black-planula": {
+      "Key": "weapon-bow-black-planula",
+      "Translation": "ブラックプラヌラ"
+    },
+    "weapon-bow-cera-coilbender-plus": {
+      "Key": "weapon-bow-cera-coilbender-plus",
+      "Translation": "セラCoilbender +"
+    },
+    "weapon-bow-cera-cyclord": {
+      "Key": "weapon-bow-cera-cyclord",
+      "Translation": "セラCyclord"
+    },
+    "weapon-bow-datura-squall-i": {
+      "Key": "weapon-bow-datura-squall-i",
+      "Translation": "チョウセンアサガオスコールI"
+    },
+    "weapon-bow-datura-squall-ii": {
+      "Key": "weapon-bow-datura-squall-ii",
+      "Translation": "チョウセンアサガオスコールII"
+    },
+    "weapon-bow-nightmare-string-i": {
+      "Key": "weapon-bow-nightmare-string-i",
+      "Translation": "ナイトメア文字列I"
+    },
+    "weapon-bow-nightmare-string-ii": {
+      "Key": "weapon-bow-nightmare-string-ii",
+      "Translation": "ナイトメア文字列II"
+    },
+    "weapon-bow-anjanath-flamebow-i": {
+      "Key": "weapon-bow-anjanath-flamebow-i",
+      "Translation": "Anjanath Flamebow I"
+    },
+    "weapon-bow-anjanath-flamebow-ii": {
+      "Key": "weapon-bow-anjanath-flamebow-ii",
+      "Translation": "Anjanath Flamebow II"
+    },
+    "weapon-bow-fulguring-bow-i": {
+      "Key": "weapon-bow-fulguring-bow-i",
+      "Translation": "FulguringボウI"
+    },
+    "weapon-bow-fulguring-bow-ii": {
+      "Key": "weapon-bow-fulguring-bow-ii",
+      "Translation": "FulguringボウII"
+    },
+    "weapon-bow-flying-kadachi-strikebow-plus": {
+      "Key": "weapon-bow-flying-kadachi-strikebow-plus",
+      "Translation": "フライングKadachi Strikebow +"
+    },
+    "weapon-bow-thundering-strikebow": {
+      "Key": "weapon-bow-thundering-strikebow",
+      "Translation": "サンダStrikebow"
+    },
+    "weapon-bow-fellbow-crimson-hail": {
+      "Key": "weapon-bow-fellbow-crimson-hail",
+      "Translation": "Fellbowクリムゾン雹"
+    },
+    "weapon-bow-fellbow-crimson-hail-plus": {
+      "Key": "weapon-bow-fellbow-crimson-hail-plus",
+      "Translation": "Fellbowクリムゾン雹+"
+    },
+    "weapon-bow-fellbow-crimson-storm": {
+      "Key": "weapon-bow-fellbow-crimson-storm",
+      "Translation": "Fellbowクリムゾンストーム"
+    },
+    "weapon-bow-dragonseal-aldbow-i": {
+      "Key": "weapon-bow-dragonseal-aldbow-i",
+      "Translation": "Dragonseal Aldbow I"
+    },
+    "weapon-bow-dragonseal-aldbow-ii": {
+      "Key": "weapon-bow-dragonseal-aldbow-ii",
+      "Translation": "Dragonseal Aldbow II"
+    },
+    "weapon-bow-dawning-insight": {
+      "Key": "weapon-bow-dawning-insight",
+      "Translation": "曙光インサイト"
+    },
+    "weapon-bow-daoras-toxotes": {
+      "Key": "weapon-bow-daoras-toxotes",
+      "Translation": "DaoraのToxotes"
+    },
+    "weapon-bow-fates-thread": {
+      "Key": "weapon-bow-fates-thread",
+      "Translation": "運命の糸"
+    },
+    "weapon-bow-beast-thunderbow": {
+      "Key": "weapon-bow-beast-thunderbow",
+      "Translation": "ビーストThunderbow"
+    },
+    "weapon-bow-beastking-thunderbow": {
+      "Key": "weapon-bow-beastking-thunderbow",
+      "Translation": "Beastking Thunderbow"
+    },
+    "weapon-hunting-horn-sforzando-i": {
+      "Key": "weapon-hunting-horn-sforzando-i",
+      "Translation": "Sforzando I"
+    },
+    "weapon-hunting-horn-sforzando-ii": {
+      "Key": "weapon-hunting-horn-sforzando-ii",
+      "Translation": "Sforzando III"
+    },
+    "weapon-hunting-horn-raven-shamisen": {
+      "Key": "weapon-hunting-horn-raven-shamisen",
+      "Translation": "レイヴン三味線"
+    },
+    "weapon-hunting-horn-ruinous-desolation": {
+      "Key": "weapon-hunting-horn-ruinous-desolation",
+      "Translation": "破滅的な荒廃"
+    },
+    "weapon-hunting-horn-usurpers-growl": {
+      "Key": "weapon-hunting-horn-usurpers-growl",
+      "Translation": "強奪者のうなり声"
+    },
+    "weapon-hunting-horn-usurpers-growl-plus": {
+      "Key": "weapon-hunting-horn-usurpers-growl-plus",
+      "Translation": "強奪者のうなり声+"
+    },
+    "weapon-hunting-horn-despots-thunderclap": {
+      "Key": "weapon-hunting-horn-despots-thunderclap",
+      "Translation": "専制君主の雷鳴"
+    },
+    "weapon-hunting-horn-taghrid-al-nasr-i": {
+      "Key": "weapon-hunting-horn-taghrid-al-nasr-i",
+      "Translation": "Taghridアル・ナスルI"
+    },
+    "weapon-hunting-horn-taghrid-al-nasr-ii": {
+      "Key": "weapon-hunting-horn-taghrid-al-nasr-ii",
+      "Translation": "Taghridアル・ナスルII"
+    },
+    "weapon-hunting-horn-striped-dragonga": {
+      "Key": "weapon-hunting-horn-striped-dragonga",
+      "Translation": "ストライプDragonga"
+    },
+    "weapon-hunting-horn-striped-dragonga-plus": {
+      "Key": "weapon-hunting-horn-striped-dragonga-plus",
+      "Translation": "ストライプDragonga +"
+    },
+    "weapon-hunting-horn-tigrex-horn": {
+      "Key": "weapon-hunting-horn-tigrex-horn",
+      "Translation": "轟竜ホーン"
+    },
+    "weapon-hunting-horn-accursed-wail": {
+      "Key": "weapon-hunting-horn-accursed-wail",
+      "Translation": "呪われ泣き叫びます"
+    },
+    "weapon-hunting-horn-royal-chordmaker-plus": {
+      "Key": "weapon-hunting-horn-royal-chordmaker-plus",
+      "Translation": "ロイヤルChordmaker +"
+    },
+    "weapon-hunting-horn-regal-flute": {
+      "Key": "weapon-hunting-horn-regal-flute",
+      "Translation": "リーガルフルート"
+    },
+    "weapon-hunting-horn-gold-chordmaker": {
+      "Key": "weapon-hunting-horn-gold-chordmaker",
+      "Translation": "ゴールドChordmaker"
+    },
+    "weapon-hunting-horn-water-tamtam-iv": {
+      "Key": "weapon-hunting-horn-water-tamtam-iv",
+      "Translation": "水TAMTAM IV"
+    },
+    "weapon-hunting-horn-laguna-drum-i": {
+      "Key": "weapon-hunting-horn-laguna-drum-i",
+      "Translation": "ラグナドラムI"
+    },
+    "weapon-hunting-horn-laguna-drum-ii": {
+      "Key": "weapon-hunting-horn-laguna-drum-ii",
+      "Translation": "ラグナドラムII"
+    },
+    "weapon-hunting-horn-hidden-harmonic": {
+      "Key": "weapon-hunting-horn-hidden-harmonic",
+      "Translation": "隠された高調波"
+    },
+    "weapon-hunting-horn-hidden-harmonic-plus": {
+      "Key": "weapon-hunting-horn-hidden-harmonic-plus",
+      "Translation": "隠された高調波+"
+    },
+    "weapon-hunting-horn-cry-in-the-night": {
+      "Key": "weapon-hunting-horn-cry-in-the-night",
+      "Translation": "夜に泣きます"
+    },
+    "weapon-hunting-horn-legia-sectored-plus": {
+      "Key": "weapon-hunting-horn-legia-sectored-plus",
+      "Translation": "レギアセクタ+"
+    },
+    "weapon-hunting-horn-hoarcry-sectored": {
+      "Key": "weapon-hunting-horn-hoarcry-sectored",
+      "Translation": "Hoarcryセクタ"
+    },
+    "weapon-hunting-horn-lilim-glacia": {
+      "Key": "weapon-hunting-horn-lilim-glacia",
+      "Translation": "Lilim Glacia"
+    },
+    "weapon-hunting-horn-mad-bone-horn-i": {
+      "Key": "weapon-hunting-horn-mad-bone-horn-i",
+      "Translation": "マッドボーンホーンI"
+    },
+    "weapon-hunting-horn-mad-bone-horn-ii": {
+      "Key": "weapon-hunting-horn-mad-bone-horn-ii",
+      "Translation": "マッドボーンホーンII"
+    },
+    "weapon-hunting-horn-mad-bone-horn-iii": {
+      "Key": "weapon-hunting-horn-mad-bone-horn-iii",
+      "Translation": "マッドボーンホーンIII"
+    },
+    "weapon-hunting-horn-icespiel": {
+      "Key": "weapon-hunting-horn-icespiel",
+      "Translation": "Icespiel"
+    },
+    "weapon-hunting-horn-sonorous-eisfyl": {
+      "Key": "weapon-hunting-horn-sonorous-eisfyl",
+      "Translation": "朗々Eisfyl"
+    },
+    "weapon-hunting-horn-gama-chorus-i": {
+      "Key": "weapon-hunting-horn-gama-chorus-i",
+      "Translation": "ガマのコーラスI"
+    },
+    "weapon-hunting-horn-gama-chorus-ii": {
+      "Key": "weapon-hunting-horn-gama-chorus-ii",
+      "Translation": "ガマコーラスII"
+    },
+    "weapon-hunting-horn-hell-horn": {
+      "Key": "weapon-hunting-horn-hell-horn",
+      "Translation": "地獄ホーン"
+    },
+    "weapon-hunting-horn-hell-horn-plus": {
+      "Key": "weapon-hunting-horn-hell-horn-plus",
+      "Translation": "地獄ホーン+"
+    },
+    "weapon-hunting-horn-glavenus-horn": {
+      "Key": "weapon-hunting-horn-glavenus-horn",
+      "Translation": "Glavenusホーン"
+    },
+    "weapon-hunting-horn-anjanath-hum-i": {
+      "Key": "weapon-hunting-horn-anjanath-hum-i",
+      "Translation": "AnjanathハムI"
+    },
+    "weapon-hunting-horn-anjanath-hum-ii": {
+      "Key": "weapon-hunting-horn-anjanath-hum-ii",
+      "Translation": "AnjanathハムII"
+    },
+    "weapon-hunting-horn-fulguring-horn-i": {
+      "Key": "weapon-hunting-horn-fulguring-horn-i",
+      "Translation": "FulguringホーンI"
+    },
+    "weapon-hunting-horn-fulguring-horn-ii": {
+      "Key": "weapon-hunting-horn-fulguring-horn-ii",
+      "Translation": "FulguringホーンII"
+    },
+    "weapon-hunting-horn-sulfurteinn-svild": {
+      "Key": "weapon-hunting-horn-sulfurteinn-svild",
+      "Translation": "Sulfurteinn Svild"
+    },
+    "weapon-hunting-horn-the-rasping-ballad": {
+      "Key": "weapon-hunting-horn-the-rasping-ballad",
+      "Translation": "ガリガリバラード"
+    },
+    "weapon-hunting-horn-datura-maestro-i": {
+      "Key": "weapon-hunting-horn-datura-maestro-i",
+      "Translation": "チョウセンアサガオマエストロI"
+    },
+    "weapon-hunting-horn-datura-maestro-ii": {
+      "Key": "weapon-hunting-horn-datura-maestro-ii",
+      "Translation": "チョウセンアサガオマエストロII"
+    },
+    "weapon-hunting-horn-icicle-horn-i": {
+      "Key": "weapon-hunting-horn-icicle-horn-i",
+      "Translation": "つららホーンI"
+    },
+    "weapon-hunting-horn-icicle-horn-ii": {
+      "Key": "weapon-hunting-horn-icicle-horn-ii",
+      "Translation": "つららホーンII"
+    },
+    "weapon-hunting-horn-lumu-drone-i": {
+      "Key": "weapon-hunting-horn-lumu-drone-i",
+      "Translation": "LumuドローンI"
+    },
+    "weapon-hunting-horn-lumu-drone-ii": {
+      "Key": "weapon-hunting-horn-lumu-drone-ii",
+      "Translation": "LumuドローンII"
+    },
+    "weapon-hunting-horn-nyx-barone-i": {
+      "Key": "weapon-hunting-horn-nyx-barone-i",
+      "Translation": "ニュクスバローネI"
+    },
+    "weapon-hunting-horn-nyx-barone-ii": {
+      "Key": "weapon-hunting-horn-nyx-barone-ii",
+      "Translation": "ニュクスバローネII"
+    },
+    "weapon-hunting-horn-rooksearer-drum": {
+      "Key": "weapon-hunting-horn-rooksearer-drum",
+      "Translation": "Rooksearerドラム"
+    },
+    "weapon-hunting-horn-bazel-valdi-rooksearer": {
+      "Key": "weapon-hunting-horn-bazel-valdi-rooksearer",
+      "Translation": "Bazel Valdi Rooksearer"
+    },
+    "weapon-hunting-horn-queen-vespoid-horn-plus": {
+      "Key": "weapon-hunting-horn-queen-vespoid-horn-plus",
+      "Translation": "女王Vespoidホーン+"
+    },
+    "weapon-hunting-horn-queens-flute-ii": {
+      "Key": "weapon-hunting-horn-queens-flute-ii",
+      "Translation": "女王のフルートII"
+    },
+    "weapon-hunting-horn-baan-rattle-i": {
+      "Key": "weapon-hunting-horn-baan-rattle-i",
+      "Translation": "バーン・ラトルI"
+    },
+    "weapon-hunting-horn-brachydios-horn-i": {
+      "Key": "weapon-hunting-horn-brachydios-horn-i",
+      "Translation": "BrachydiosホーンI"
+    },
+    "weapon-hunting-horn-brachydios-horn-ii": {
+      "Key": "weapon-hunting-horn-brachydios-horn-ii",
+      "Translation": "BrachydiosホーンII"
+    },
+    "weapon-hunting-horn-dragonseal-aldhorn-i": {
+      "Key": "weapon-hunting-horn-dragonseal-aldhorn-i",
+      "Translation": "Dragonseal Aldhorn I"
+    },
+    "weapon-hunting-horn-dragonseal-aldhorn-ii": {
+      "Key": "weapon-hunting-horn-dragonseal-aldhorn-ii",
+      "Translation": "Dragonseal Aldhorn II"
+    },
+    "weapon-hunting-horn-thunderwail-feyhorn": {
+      "Key": "weapon-hunting-horn-thunderwail-feyhorn",
+      "Translation": "Thunderwail Feyhorn"
+    },
+    "weapon-hunting-horn-hydros-horn": {
+      "Key": "weapon-hunting-horn-hydros-horn",
+      "Translation": "ハイドロスホーン"
+    },
+    "weapon-hunting-horn-teostras-musica": {
+      "Key": "weapon-hunting-horn-teostras-musica",
+      "Translation": "Teostraのムジカ"
+    },
+    "weapon-hunting-horn-fates-dirge": {
+      "Key": "weapon-hunting-horn-fates-dirge",
+      "Translation": "運命のダージ"
+    },
+    "weapon-hunting-horn-denden-daiko": {
+      "Key": "weapon-hunting-horn-denden-daiko",
+      "Translation": "でんでん太鼓"
+    },
+    "weapon-hunting-horn-soulfire-chorus-blaze": {
+      "Key": "weapon-hunting-horn-soulfire-chorus-blaze",
+      "Translation": "Soulfireコーラス「ブレイズ」"
+    },
+    "weapon-hunting-horn-soulfire-chorus-ruin": {
+      "Key": "weapon-hunting-horn-soulfire-chorus-ruin",
+      "Translation": "Soulfireコーラス「遺跡」"
     }
   }

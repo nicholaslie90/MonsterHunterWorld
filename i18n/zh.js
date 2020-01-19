@@ -33,7 +33,7 @@ export default {
     },
     "armor-brigade-boots-description": {
       "Key": "armor-brigade-boots-description",
-      "Translation": "公會專屬裝甲競技場冠軍。需要很長的時間來鍛造。令人難以置信的耐用性。"
+      "Translation": "公會專屬裝甲競技場冠軍。需要很長的時間去鍛造。令人難以置信的耐用性。"
     },
     "armor-brigade-coil-description": {
       "Key": "armor-brigade-coil-description",
@@ -101,7 +101,7 @@ export default {
     },
     "armor-dantes-hair-description": {
       "Key": "armor-dantes-hair-description",
-      "Translation": "但丁，惡魔獵手後塑造。讓大家知道你在這裡不是。"
+      "Translation": "丹特，惡魔獵手後塑造。讓大家知道你在這裡不是。"
     },
     "armor-dantes-leather-boots-description": {
       "Key": "armor-dantes-leather-boots-description",
@@ -109,7 +109,7 @@ export default {
     },
     "armor-death-stench-description": {
       "Key": "armor-death-stench-description",
-      "Translation": "被詛咒的防具，帶來死亡說。佩戴者聽到他們的受害者的垂死掙扎的迴聲。"
+      "Translation": "Accursed裝甲，帶來死亡對我說。佩戴者聽到他們的受害者的垂死掙扎的迴聲。"
     },
     "armor-detail-components": {
       "Key": "armor-detail-components",
@@ -205,7 +205,7 @@ export default {
     },
     "armor-dragonseal-earrings-alpha-description": {
       "Key": "armor-dragonseal-earrings-alpha-description",
-      "Translation": "頒發給競技場戰鬥端莊耳環。意志的象徵超越紛爭。"
+      "Translation": "頒發給競技場戰鬥端莊耳環。意志的象徵超越的鬥爭。"
     },
     "armor-dragonseal-earrings-alpha-how-to-get": {
       "Key": "armor-dragonseal-earrings-alpha-how-to-get",
@@ -2277,7 +2277,7 @@ export default {
     },
     "armor-hr-legiana-helm-beta": {
       "Key": "armor-hr-legiana-helm-beta",
-      "Translation": "Legiana頭盔ß"
+      "Translation": "Legiana盔ß"
     },
     "armor-hr-legiana-mail-alpha": {
       "Key": "armor-hr-legiana-mail-alpha",
@@ -4829,7 +4829,7 @@ export default {
     },
     "armor-mr-clockwork-helm-beta-plus": {
       "Key": "armor-mr-clockwork-helm-beta-plus",
-      "Translation": "發條頭盔SS +"
+      "Translation": "發條頭盔+ SS"
     },
     "armor-mr-clockwork-mail-alpha-plus": {
       "Key": "armor-mr-clockwork-mail-alpha-plus",
@@ -4945,7 +4945,7 @@ export default {
     },
     "armor-mr-diablos-helm-alpha-plus": {
       "Key": "armor-mr-diablos-helm-alpha-plus",
-      "Translation": "Diablo的頭盔⍺+"
+      "Translation": "Diablo的頭盔+⍺"
     },
     "armor-mr-diablos-helm-beta-plus": {
       "Key": "armor-mr-diablos-helm-beta-plus",
@@ -5021,7 +5021,7 @@ export default {
     },
     "armor-mr-dober-vambraces-beta-plus": {
       "Key": "armor-mr-dober-vambraces-beta-plus",
-      "Translation": "多貝爾臂鎧SS +"
+      "Translation": "臂甲多貝爾SS +"
     },
     "armor-mr-dodogama-alpha-plus": {
       "Key": "armor-mr-dodogama-alpha-plus",
@@ -5181,7 +5181,7 @@ export default {
     },
     "armor-mr-fulgur-helm-beta-plus": {
       "Key": "armor-mr-fulgur-helm-beta-plus",
-      "Translation": "Fulgur頭盔SS +"
+      "Translation": "Fulgur頭盔+ SS"
     },
     "armor-mr-fulgur-mail-alpha-plus": {
       "Key": "armor-mr-fulgur-mail-alpha-plus",
@@ -5349,7 +5349,7 @@ export default {
     },
     "armor-mr-golden-kote-alpha-plus": {
       "Key": "armor-mr-golden-kote-alpha-plus",
-      "Translation": "黃金甲手⍺+"
+      "Translation": "金甲手⍺+"
     },
     "armor-mr-golden-kote-beta-plus": {
       "Key": "armor-mr-golden-kote-beta-plus",
@@ -7181,7 +7181,7 @@ export default {
     },
     "armor-rath-soul-description": {
       "Key": "armor-rath-soul-description",
-      "Translation": "Azure的鎧甲充滿了白金電源。這些誰穿上它注定要創造歷史。"
+      "Translation": "Azure的裝甲充滿了白金電源。這些誰穿上它注定要創造歷史。"
     },
     "armor-rathalos-description": {
       "Key": "armor-rathalos-description",
@@ -7601,7 +7601,7 @@ export default {
     },
     "critical-bounties-important-notes": {
       "Key": "critical-bounties-important-notes",
-      "Translation": "有三個研究人員可以在現場遇到了：特有生命研究員的Lynian研究員和魚研究員\\ n \\ n在你著手征戰，只有一個研究員將在該區域產卵。其中研究員產卵，當你選擇你的探險目的地顯示在世界地圖。每當你完成一個任務，探險或考察，它改變其研究員產卵。這就是為什麼定期檢查世界地圖是很重要的。\\ n \\ n它是非常重要的談話在每個區域每個研究員，以便通過每個研究員的關鍵富饒的進展。既然是隨機的，其研究員產卵（見前面注），很容易錯過這些重要的恩澤。\\ n \\ n如果一個研究員有賞金的報價，他們會出現一個黃色的感嘆號（！）在地圖上。我並不總是在地圖上看到這些標誌，這就是為什麼我錯過了這些關鍵的恩澤。一旦你踏上遠征，打開你的世界地圖，並使用L1 / R1鍵選擇地方性生命過濾器，使其更容易被發現。\\ n \\ n如果一個研究者沒有恩惠的報價，他們會出現一個明亮的綠色點（。）地圖。\\ n \\ n在你完成一個關鍵的賞金，你可以跟各自的研究員告訴他/她你完成賞金。但是，你總是要聊到研究中心紫苑完成賞金並獲得獎勵。\\ n \\ n如果沒有完成賞金後交談的研究員，你將要談論到他們在一個新的區域接受新的獎金，這是可能的，你必須跟我們的研究員的兩倍。有一次告訴他/她，你完成了前面的賞金。還有一次啟動新區域的關鍵賞金\\ n \\ nChoosing低等級或高等級目的地無所謂，對龍的休會除外它是高排名只是\\ n \\ nLynian懸賞：。無論何時你發現塗鴉，你可以與你的偵察飛行紀念他們，他們會引導你到下一個塗鴉。這樣做會導致你下面列出的位置。結交一個家族後，你可以跟你的Palico在你的房間或在研究基地。然後，您Palico會告訴你新的技巧還是教訓。"
+      "Translation": "有三個研究人員可以在現場遇到了：特有生命研究員的Lynian研究員和魚研究員\\ n \\ n在你著手征戰，只有一個研究員將在該區域產卵。其中研究員產卵，當你選擇你的探險目的地顯示在世界地圖。每當你完成一個任務，探險或考察，它改變其研究員產卵。這就是為什麼定期檢查世界地圖是很重要的。\\ n \\ n它是非常重要的談話在每個區域每個研究員，以便通過每個研究員的關鍵富饒的進展。既然是隨機的，其研究員產卵（見前面注），很容易錯過這些重要的恩澤。\\ n \\ n如果一個研究員有賞金的報價，他們會出現一個黃色的感嘆號（！）在地圖上。我並不總是在地圖上看到這些標誌，這就是為什麼我錯過了這些關鍵的恩澤。一旦你踏上遠征，打開你的世界地圖，並使用L1 / R1鍵選擇地方性生命過濾器，使其更容易被發現。\\ n \\ n如果一個研究者沒有恩惠的報價，他們會出現一個明亮的綠色點（。）地圖。\\ n \\ n在你完成一個關鍵的賞金，你可以跟各自的研究員告訴他/她你完成賞金。但是，你總是要聊到研究中心紫苑完成賞金並獲得獎勵。\\ n \\ n如果沒有完成賞金後交談的研究員，你將要談論到他們在一個新的區域接受新的獎金，這是可能的，你必須跟我們的研究員的兩倍。有一次告訴他/她，你完成了前面的賞金。還有一次啟動新區域的關鍵賞金\\ n \\ nChoosing低等級或高等級目的地無所謂，對龍的休會除外它是高排名只是\\ n \\ nLynian懸賞：。無論何時你發現塗鴉，你可以與你的偵察飛行紀念他們，他們會引導你到下一個塗鴉。這樣做會導致你在下面列出的位置。結交一個家族後，你可以跟你的Palico在你的房間或在研究基地。然後，您Palico會告訴你新的技巧還是教訓。"
     },
     "critical-bounties-notes": {
       "Key": "critical-bounties-notes",
@@ -7829,7 +7829,7 @@ export default {
     },
     "endemic-life-flashfly-description": {
       "Key": "endemic-life-flashfly-description",
-      "Translation": "哇，這小狗的光明！即使是一個大怪物都會發生驚呆了，我敢肯定。這就像一個活生生的閃光彈......有翅膀！"
+      "Translation": "哇，這個小狗的光明！即使是一個大怪物都會發生驚呆了，我敢肯定。這就像一個活生生的閃光彈......有翅膀！"
     },
     "endemic-life-flowering-cactuar-cutting-description": {
       "Key": "endemic-life-flowering-cactuar-cutting-description",
@@ -7857,7 +7857,7 @@ export default {
     },
     "endemic-life-gloom-gecko-description": {
       "Key": "endemic-life-gloom-gecko-description",
-      "Translation": "什麼花哨的顏色，這樣一個黑暗的地方！它只是尖叫，“危險！請勿觸摸！不要把我在任何地方你的嘴靠近！”"
+      "Translation": "什麼花哨的顏色，這樣黑暗的地方！它只是尖叫，“危險！請勿觸摸！不要把我在任何地方你的嘴靠近！”"
     },
     "endemic-life-gold-calappa-description": {
       "Key": "endemic-life-gold-calappa-description",
@@ -7865,7 +7865,7 @@ export default {
     },
     "endemic-life-gold-helmcrab-description": {
       "Key": "endemic-life-gold-helmcrab-description",
-      "Translation": "Wowzers，甚至Helmcrabs去了金！難道拿著......龍戰布丁！？想，當你總得吃，你得吃！"
+      "Translation": "Wowzers甚至Helmcrabs去了金！難道拿著......龍戰布丁！？想，當你總得吃，你得吃！"
     },
     "endemic-life-gold-hercudrome-description": {
       "Key": "endemic-life-gold-hercudrome-description",
@@ -8149,7 +8149,7 @@ export default {
     },
     "layered-armor-aloy-how-to-get": {
       "Key": "layered-armor-aloy-how-to-get",
-      "Translation": "完成超越地平線交付。"
+      "Translation": "完成超越地平線交貨。"
     },
     "layered-armor-bayek": {
       "Key": "layered-armor-bayek",
@@ -8725,7 +8725,7 @@ export default {
     },
     "monster-dodogama-useful-information": {
       "Key": "monster-dodogama-useful-information",
-      "Translation": "Dodogama收集在它的嘴易燃易爆礦產，但這樣做會削弱其龐大的下顎。造成礦產引爆，而他們仍然在Dodogama的嘴將創造一個攻擊一個大開放。"
+      "Translation": "Dodogama收集含在嘴裡爆炸的礦物質，但這樣做會削弱其龐大的下顎。造成礦產引爆，而他們仍然在Dodogama的嘴將創造一個攻擊一個大開放。"
     },
     "monster-ebony-odogaron": {
       "Key": "monster-ebony-odogaron",
@@ -8905,7 +8905,7 @@ export default {
     },
     "monster-legiana-characteristics": {
       "Key": "monster-legiana-characteristics",
-      "Translation": "珊瑚高地，他們的飲食主要包括Raphinos的頂點怪物。它能發出寒風從它身上，它變鈍獵物的逃生能力。"
+      "Translation": "珊瑚高地，他們的飲食主要包括Raphinos的頂點怪物。它發出一個寒風從它身上，它變鈍獵物的逃生能力。"
     },
     "monster-legiana-useful-information": {
       "Key": "monster-legiana-useful-information",
@@ -8973,7 +8973,7 @@ export default {
     },
     "monster-nergigante-useful-information": {
       "Key": "monster-nergigante-useful-information",
-      "Translation": "Nergigante可以從傷口幾乎瞬間恢復。再生的身體部位長出很難隨著時間的推移，這樣攻擊他們，而他們仍然新鮮的是理想的策略。"
+      "Translation": "Nergigante從傷口幾乎瞬間恢復。再生的身體部位長出很難隨著時間的推移，這樣攻擊他們，而他們仍然新鮮的是理想的策略。"
     },
     "monster-nightshade-paolumu": {
       "Key": "monster-nightshade-paolumu",
@@ -9333,7 +9333,7 @@ export default {
     },
     "play-guide-bounty-updates": {
       "Key": "play-guide-bounty-updates",
-      "Translation": "賞金更新"
+      "Translation": "賞金Updates"
     },
     "play-guide-bounty-updates-description": {
       "Key": "play-guide-bounty-updates-description",
@@ -9365,7 +9365,7 @@ export default {
     },
     "play-guide-breaking-monster-parts-description": {
       "Key": "play-guide-breaking-monster-parts-description",
-      "Translation": "專注你的攻擊特定的身體部位可能會打破他們，削弱怪物，有時限制了它的移動性或者它的攻擊。也有只能從打破某些部分獲得的材料。"
+      "Translation": "專注你的攻擊特定的身體部位可能會打破他們，削弱怪物，有時甚至限制其流動性或它的攻擊。也有只能從打破某些部分獲得的材料。"
     },
     "play-guide-breaking-parts": {
       "Key": "play-guide-breaking-parts",
@@ -9389,7 +9389,7 @@ export default {
     },
     "play-guide-building-new-camps-description": {
       "Key": "play-guide-building-new-camps-description",
-      "Translation": "如果你發現可以做成一個營地的區域，您可以訪問資源中心來進行設置。"
+      "Translation": "如果你發現可以做成一個營地的區域，你可以訪問資源中心來進行設置。"
     },
     "play-guide-camera-settings": {
       "Key": "play-guide-camera-settings",
@@ -9465,7 +9465,7 @@ export default {
     },
     "play-guide-charged-slide-description": {
       "Key": "play-guide-charged-slide-description",
-      "Translation": "帶電幻燈片期間釋放R2來執行空中自旋，或通過按下按鈕攻擊鏈中的帶電滑動到其他移動。"
+      "Translation": "帶電幻燈片期間釋放R2來執行空中自旋，或按攻擊按鈕鏈中的帶電滑動到其他移動。"
     },
     "play-guide-charms": {
       "Key": "play-guide-charms",
@@ -9505,7 +9505,7 @@ export default {
     },
     "play-guide-critical-range-description": {
       "Key": "play-guide-critical-range-description",
-      "Translation": "遠程武器攻擊有一個臨界範圍，這是它的攻擊造成的最嚴重的損害的距離。重要的是要嘗試不同的彈藥和箭頭類型來確定，以處理太大的傷害盡可能他們的重要範圍是很重要的。"
+      "Translation": "遠程武器攻擊有一個臨界範圍，這是它的攻擊造成的最嚴重的損害的距離。重要的是要嘗試不同的彈藥和箭頭類型來決定，以應付太大的傷害盡可能他們的重要範圍是很重要的。"
     },
     "play-guide-crouching-and-camouflage": {
       "Key": "play-guide-crouching-and-camouflage",
@@ -9761,7 +9761,7 @@ export default {
     },
     "play-guide-getting-the-behemoths-attention-description": {
       "Key": "play-guide-getting-the-behemoths-attention-description",
-      "Translation": "設計用於攔截武器的獵人應該攻擊巨獸的頭以獲取其注意力。當巨獸繼續橫衝直撞，他的頭是難攻，使用具有麻痺性武器或安裝野獸創建一個開口。"
+      "Translation": "設計用於阻止武器獵人應該攻擊巨獸的頭以獲取其注意力。當巨獸繼續橫衝直撞，他的頭是難攻，使用具有麻痺性武器或安裝野獸創建一個開口。"
     },
     "play-guide-great-fish": {
       "Key": "play-guide-great-fish",
@@ -9833,7 +9833,7 @@ export default {
     },
     "play-guide-health-drinks-description": {
       "Key": "play-guide-health-drinks-description",
-      "Translation": "為了增加你的生命值上限，飲料的營養或最大藥水​​，可以通過制定獲得。"
+      "Translation": "為了增加你的生命值上限，飲料或營養成分最大藥水，可以通過制定獲得。"
     },
     "play-guide-heavenly-blade-dance": {
       "Key": "play-guide-heavenly-blade-dance",
@@ -10029,7 +10029,7 @@ export default {
     },
     "play-guide-meal-effect-duration": {
       "Key": "play-guide-meal-effect-duration",
-      "Translation": "膳食效果的持續時間"
+      "Translation": "用餐影響持續時間"
     },
     "play-guide-meal-effect-duration-description": {
       "Key": "play-guide-meal-effect-duration-description",
@@ -10201,7 +10201,7 @@ export default {
     },
     "play-guide-phial-effects-description": {
       "Key": "play-guide-phial-effects-description",
-      "Translation": "有電荷葉片攻擊更難當其藥瓶效果是有效的，堅韌的靶向的身體部位時，這是有用的偏轉。"
+      "Translation": "有電荷葉片攻擊是很難當其藥瓶效果是有效的，堅韌的靶向的身體部位時，這是有用的偏轉。"
     },
     "play-guide-piercing-pods": {
       "Key": "play-guide-piercing-pods",
@@ -10545,11 +10545,11 @@ export default {
     },
     "play-guide-tackle-description": {
       "Key": "play-guide-tackle-description",
-      "Translation": "有彈性的攻擊，防止任何擊退。時間是根據怪物的攻擊，你可以繼續你的連擊中斷。"
+      "Translation": "有彈性的攻擊，防止任何擊退。時間是根據怪物的攻擊和您可以繼續連擊中斷。"
     },
     "play-guide-tailraider-safari-members": {
       "Key": "play-guide-tailraider-safari-members",
-      "Translation": "Tailraider Safari的成員"
+      "Translation": "Tailraider成員的Safari"
     },
     "play-guide-tailraider-safari-members-description": {
       "Key": "play-guide-tailraider-safari-members-description",
@@ -10745,7 +10745,7 @@ export default {
     },
     "play-guide-upgrading-charms-description": {
       "Key": "play-guide-upgrading-charms-description",
-      "Translation": "有些魅力可以在鐵匠鋪材料進行升級。升級魅力電時它們所包含的技能。"
+      "Translation": "有些魅力可以在鐵匠鋪材料進行升級。升級魅力的力量了它們所包含的技能。"
     },
     "play-guide-upgrading-weapons": {
       "Key": "play-guide-upgrading-weapons",
@@ -10753,7 +10753,7 @@ export default {
     },
     "play-guide-upgrading-weapons-description": {
       "Key": "play-guide-upgrading-weapons-description",
-      "Translation": "您可以使用您的狩獵採集材料在鐵匠鋪升級他們改善你的武器。"
+      "Translation": "您可以通過使用你的狩獵採集材料在鐵匠鋪升級他們改善你的武器。"
     },
     "play-guide-useful-functions": {
       "Key": "play-guide-useful-functions",
@@ -11181,7 +11181,7 @@ export default {
     },
     "quest-a-rush-of-blood-description": {
       "Key": "quest-a-rush-of-blood-description",
-      "Translation": "不好了！還有那個看起來很像我們拉什的部份大醇'的怪物！有人的gottal平靜的大男孩了！幫助我們，我們會給你一些特殊的齒輪為您Palico！"
+      "Translation": "不好了！還有，看上去很像我們的拉什的部份大醇'的怪物！有人的gottal平靜的大男孩了！幫助我們，我們會給你一些特殊的齒輪為您Palico！"
     },
     "quest-a-scalding-scoop": {
       "Key": "quest-a-scalding-scoop",
@@ -12329,7 +12329,7 @@ export default {
     },
     "quest-landing-the-landslide-wyvern-tips": {
       "Key": "quest-landing-the-landslide-wyvern-tips",
-      "Translation": "非常相似沿用了石塔，但你需要捕捉目標。開始從中央營（6），尋找它的部門和鬥爭，直到它一瘸一拐朝區段9出逃既然你不能把衝擊陷阱在水和Barroth可以摧毀泥，放陷阱附近的圓形仙人掌這裡吸引了。它可以幫助使用幾個Tr​​anq炸彈，而怪物睡著了。如果這是你第一次捕捉Barroth，你會解鎖特殊競技場：Barroth可選任務。"
+      "Translation": "非常相似沿用了石塔，但你需要捕捉目標。開始從中央營（6），尋找它的部門和鬥爭，直到它一瘸一拐朝區段9出逃既然你不能把衝擊陷阱在水和Barroth可以摧毀泥，放陷阱附近的圓形仙人掌這裡吸引了。它可以幫助使用幾個Tr​​anq炸彈，而怪物睡著了。如果這是你第一次捕捉Barroth你會解鎖特殊競技場：Barroth可選任務。"
     },
     "quest-lavasioth-monster-of-magma": {
       "Key": "quest-lavasioth-monster-of-magma",
@@ -12421,7 +12421,7 @@ export default {
     },
     "quest-mans-best-fiend-tips": {
       "Key": "quest-mans-best-fiend-tips",
-      "Translation": "同抓癢癢的，但你需要捕捉目標。如果這是你第一次拍攝Odogaron，你會解鎖特殊競技場：Odogaron可選任務。"
+      "Translation": "同抓癢癢的，但你需要捕捉目標。如果這是你第一次拍攝Odogaron，你會解鎖特別競技場：Odogaron可選任務。"
     },
     "quest-master-of-the-gale": {
       "Key": "quest-master-of-the-gale",
@@ -12557,7 +12557,7 @@ export default {
     },
     "quest-objective-deliver-2-wyvern-eggs": {
       "Key": "quest-objective-deliver-2-wyvern-eggs",
-      "Translation": "提供2飛龍蛋"
+      "Translation": "提供第二飛龍蛋"
     },
     "quest-objective-deliver-20-bauble-cactuses": {
       "Key": "quest-objective-deliver-20-bauble-cactuses",
@@ -13073,7 +13073,7 @@ export default {
     },
     "quest-rrrrrumble-in-the-waste-description": {
       "Key": "quest-rrrrrumble-in-the-waste-description",
-      "Translation": "嘆我已經告訴你我要你做。現在運行沿，如果你希望你的新玩具完成這個任務。 *解鎖上首次完成了新的專用工具。"
+      "Translation": "我嘆了口氣已經告訴你我要你做。現在運行沿，如果你希望你的新玩具完成這個任務。 *解鎖上首次完成了新的專用工具。"
     },
     "quest-rrrrrumble-in-the-waste-notable-rewards": {
       "Key": "quest-rrrrrumble-in-the-waste-notable-rewards",
@@ -13189,7 +13189,7 @@ export default {
     },
     "quest-special-arena-anjanath": {
       "Key": "quest-special-arena-anjanath",
-      "Translation": "特別競技場：Anjanath"
+      "Translation": "特別館：Anjanath"
     },
     "quest-special-arena-anjanath-tips": {
       "Key": "quest-special-arena-anjanath-tips",
@@ -13309,7 +13309,7 @@ export default {
     },
     "quest-special-arena-hr-rathalos-description": {
       "Key": "quest-special-arena-hr-rathalos-description",
-      "Translation": "一個新的挑戰者：Rathalos，熾熱的入侵者時，縱火！原諒火球;他喜歡他的飯菜熟！手套是關 - 不是因為我們的手套那麼大..."
+      "Translation": "一個新的挑戰者：Rathalos，熾熱的入侵者，縱火的！原諒火球;他喜歡他的飯菜熟！手套是關 - 不是因為我們的手套那麼大..."
     },
     "quest-special-arena-hr-rathalos-notes": {
       "Key": "quest-special-arena-hr-rathalos-notes",
@@ -13501,7 +13501,7 @@ export default {
     },
     "quest-the-deathly-quiet-curtain": {
       "Key": "quest-the-deathly-quiet-curtain",
-      "Translation": "死神的安靜的窗簾"
+      "Translation": "死神的安靜窗簾"
     },
     "quest-the-deathly-quiet-curtain-description": {
       "Key": "quest-the-deathly-quiet-curtain-description",
@@ -13565,7 +13565,7 @@ export default {
     },
     "quest-the-great-glutton-tips": {
       "Key": "quest-the-great-glutton-tips",
-      "Translation": "開始從西南營（1），北上向扇區2找到目標。你可以等待它的攻擊，以避免部門2 Jagras加入戰鬥之前達到1扇區。它會逃離自己的窩在部門2減弱不夠時，你就可以殺死或捕獲它。"
+      "Translation": "開始從西南營（1），進入北部往扇區2找到目標。你可以等待它的攻擊，以避免部門2 Jagras加入戰鬥之前達到1扇區。它會逃離自己的窩在部門2減弱不夠時，你就可以殺死或捕獲它。"
     },
     "quest-the-great-jagras-hunt": {
       "Key": "quest-the-great-jagras-hunt",
@@ -13609,7 +13609,7 @@ export default {
     },
     "quest-the-meat-of-the-matter": {
       "Key": "quest-the-meat-of-the-matter",
-      "Translation": "該物質的肉"
+      "Translation": "此事肉"
     },
     "quest-the-meat-of-the-matter-description": {
       "Key": "quest-the-meat-of-the-matter-description",
@@ -13937,7 +13937,7 @@ export default {
     },
     "quest-urgent-pukei-pukei-hunt-description": {
       "Key": "quest-urgent-pukei-pukei-hunt-description",
-      "Translation": "這Pukei-Pukei是沒有太高興在其領土渣。它會如果我們在派學者研究它甚至不太高興。像我們看起來都愛不釋手。"
+      "Translation": "這Pukei-Pukei是沒有太高興在其領土渣。它會如果我們在學者派研究它甚至不太高興。像我們看起來都愛不釋手。"
     },
     "quest-usj-blazing-azure-stars": {
       "Key": "quest-usj-blazing-azure-stars",
@@ -13969,7 +13969,7 @@ export default {
     },
     "quest-what-a-bunch-of-abalone": {
       "Key": "quest-what-a-bunch-of-abalone",
-      "Translation": "什麼鮑魚的捆綁"
+      "Translation": "鮑魚什麼的一堆"
     },
     "quest-what-a-bunch-of-abalone-description": {
       "Key": "quest-what-a-bunch-of-abalone-description",
@@ -14149,7 +14149,7 @@ export default {
     },
     "search-trophies": {
       "Key": "search-trophies",
-      "Translation": "搜索獎杯"
+      "Translation": "獎杯搜索"
     },
     "search-weapons": {
       "Key": "search-weapons",
@@ -14237,7 +14237,7 @@ export default {
     },
     "settings-language-volunteer-text": {
       "Key": "settings-language-volunteer-text",
-      "Translation": "目前我正在尋找在幫助我翻譯應用到其他語言的志願者。如果你想幫助我，打開關於頁面的滾動一路底部。你需要使用台式機/筆記本電腦來編輯文件。"
+      "Translation": "目前我正在尋找在幫助我翻譯應用到其他語言的志願者。如果您想幫助我，打開關於頁面的滾動一路底部。你需要使用台式機/筆記本電腦來編輯文件。"
     },
     "settings-loadouts-were-updated": {
       "Key": "settings-loadouts-were-updated",
@@ -14389,7 +14389,7 @@ export default {
     },
     "skill-agitator-3": {
       "Key": "skill-agitator-3",
-      "Translation": "雖然活性，撥款9％攻擊12和增加的親和力。"
+      "Translation": "同時活躍，撥款9％攻擊12和增加的親和力。"
     },
     "skill-agitator-4": {
       "Key": "skill-agitator-4",
@@ -14445,7 +14445,7 @@ export default {
     },
     "skill-artillery-2": {
       "Key": "skill-artillery-2",
-      "Translation": "20％的每次進攻增加了功率和減少30％翼龍之火的冷卻時間。"
+      "Translation": "20％的每次進攻增加功率並降低30％翼龍之火的冷卻時間。"
     },
     "skill-artillery-3": {
       "Key": "skill-artillery-3",
@@ -14453,7 +14453,7 @@ export default {
     },
     "skill-artillery-description": {
       "Key": "skill-artillery-description",
-      "Translation": "加強像gunlance砲彈，翼龍之火，充電刮小藥瓶的攻擊，而粘彈藥爆炸襲擊。"
+      "Translation": "Strengthens像gunlance砲彈，翼龍的火，充電刮小藥瓶的攻擊，而粘彈藥爆炸襲擊。"
     },
     "skill-attack-boost": {
       "Key": "skill-attack-boost",
@@ -14741,7 +14741,7 @@ export default {
     },
     "skill-coalescence-description": {
       "Key": "skill-coalescence-description",
-      "Translation": "從天災或異常狀態恢復後暫時提高攻擊。"
+      "Translation": "從天災或不正常狀態恢復後暫時提高攻擊。"
     },
     "skill-coldproof": {
       "Key": "skill-coldproof",
@@ -15005,7 +15005,7 @@ export default {
     },
     "skill-dungmaster-1": {
       "Key": "skill-dungmaster-1",
-      "Translation": "使得在使怪物逃跑拋擲糞便豆莢更有效。"
+      "Translation": "使得在使怪物逃跑slinger糞豆莢更有效。"
     },
     "skill-dungmaster-description": {
       "Key": "skill-dungmaster-description",
@@ -15733,7 +15733,7 @@ export default {
     },
     "skill-leap-of-faith-description": {
       "Key": "skill-leap-of-faith-description",
-      "Translation": "讓您對大怪物時面臨做俯衝閃避，並擴展了俯衝閃避距離。"
+      "Translation": "讓您對大怪物面對時做俯衝閃避，並擴展了俯衝閃避距離。"
     },
     "skill-marathon-runner": {
       "Key": "skill-marathon-runner",
@@ -15865,7 +15865,7 @@ export default {
     },
     "skill-mushroomancer-description": {
       "Key": "skill-mushroomancer-description",
-      "Translation": "讓你消化蘑菇，否則是不能食用的，並得到他們的效果。"
+      "Translation": "讓你消化蘑菇，否則是不能食用的，並獲得了有利的效果。"
     },
     "skill-non-elemental-boost": {
       "Key": "skill-non-elemental-boost",
@@ -16029,7 +16029,7 @@ export default {
     },
     "skill-peak-performance-1": {
       "Key": "skill-peak-performance-1",
-      "Translation": "雖然活躍，贈款攻擊+5。"
+      "Translation": "雖然活躍，資助攻擊+5。"
     },
     "skill-peak-performance-2": {
       "Key": "skill-peak-performance-2",
@@ -16037,7 +16037,7 @@ export default {
     },
     "skill-peak-performance-3": {
       "Key": "skill-peak-performance-3",
-      "Translation": "雖然活躍，贈款攻擊+20。"
+      "Translation": "雖然活躍，補助+20攻擊。"
     },
     "skill-peak-performance-description": {
       "Key": "skill-peak-performance-description",
@@ -16185,7 +16185,7 @@ export default {
     },
     "skill-quick-sheath-2": {
       "Key": "skill-quick-sheath-2",
-      "Translation": "適度增加護套速度。"
+      "Translation": "中度增加護套速度。"
     },
     "skill-quick-sheath-3": {
       "Key": "skill-quick-sheath-3",
@@ -16253,7 +16253,7 @@ export default {
     },
     "skill-resentment-1": {
       "Key": "skill-resentment-1",
-      "Translation": "雖然活躍，贈款攻擊+5。"
+      "Translation": "雖然活躍，資助攻擊+5。"
     },
     "skill-resentment-2": {
       "Key": "skill-resentment-2",
@@ -16265,7 +16265,7 @@ export default {
     },
     "skill-resentment-4": {
       "Key": "skill-resentment-4",
-      "Translation": "雖然活躍，贈款攻擊+20。"
+      "Translation": "雖然活躍，補助+20攻擊。"
     },
     "skill-resentment-5": {
       "Key": "skill-resentment-5",
@@ -16437,15 +16437,15 @@ export default {
     },
     "skill-speed-crawler-1": {
       "Key": "skill-speed-crawler-1",
-      "Translation": "提升移動速度，同時蹲下。"
+      "Translation": "增加運動速度，同時蹲下。"
     },
     "skill-speed-crawler-description": {
       "Key": "skill-speed-crawler-description",
-      "Translation": "提升移動速度，同時蹲下。"
+      "Translation": "增加運動速度，同時蹲下。"
     },
     "skill-speed-eating": {
       "Key": "skill-speed-eating",
-      "Translation": "速度飲食"
+      "Translation": "速飲食"
     },
     "skill-speed-eating-1": {
       "Key": "skill-speed-eating-1",
@@ -17093,7 +17093,7 @@ export default {
     },
     "trophy-fledgling-observer-description": {
       "Key": "trophy-fledgling-observer-description",
-      "Translation": "完成對Lynian研究員的第一個請求。"
+      "Translation": "完成對Lynian研究人員你的第一個要求。"
     },
     "trophy-friendly-pointer": {
       "Key": "trophy-friendly-pointer",
@@ -17301,7 +17301,7 @@ export default {
     },
     "trophy-mmm-so-tasty-description": {
       "Key": "trophy-mmm-so-tasty-description",
-      "Translation": "庫克你的第一個做得好的牛排。"
+      "Translation": "庫克第一個做得好的牛排。"
     },
     "trophy-monster-hunter": {
       "Key": "trophy-monster-hunter",
@@ -17369,7 +17369,7 @@ export default {
     },
     "trophy-one-shall-stand-one-shall-fall": {
       "Key": "trophy-one-shall-stand-one-shall-fall",
-      "Translation": "一個站起來，一個倒下了"
+      "Translation": "一站起來，一個人跌倒"
     },
     "trophy-one-shall-stand-one-shall-fall-description": {
       "Key": "trophy-one-shall-stand-one-shall-fall-description",
@@ -19593,7 +19593,7 @@ export default {
     },
     "weapon-hunting-horn-glacial-bagpipe-i": {
       "Key": "weapon-hunting-horn-glacial-bagpipe-i",
-      "Translation": "冰川風笛我"
+      "Translation": "冰風笛我"
     },
     "weapon-hunting-horn-glacial-bagpipe-ii": {
       "Key": "weapon-hunting-horn-glacial-bagpipe-ii",
@@ -21925,7 +21925,7 @@ export default {
     },
     "weapon-gunlance-mythic-kadachi-striker-plus": {
       "Key": "weapon-gunlance-mythic-kadachi-striker-plus",
-      "Translation": "神話Kadachi前鋒+"
+      "Translation": "神話Kadachi Striker +"
     },
     "weapon-gunlance-crimson-ember": {
       "Key": "weapon-gunlance-crimson-ember",
@@ -22489,7 +22489,7 @@ export default {
     },
     "weapon-great-sword-lightning-punisher-iv": {
       "Key": "weapon-great-sword-lightning-punisher-iv",
-      "Translation": "閃電懲罰者IV"
+      "Translation": "雷電IV處罰者"
     },
     "weapon-great-sword-severing-bolt-i": {
       "Key": "weapon-great-sword-severing-bolt-i",
@@ -22577,7 +22577,7 @@ export default {
     },
     "weapon-great-sword-nyx-razor-ii": {
       "Key": "weapon-great-sword-nyx-razor-ii",
-      "Translation": "NYX剃刀II"
+      "Translation": "Nyx剃刀II"
     },
     "weapon-great-sword-rathalos-glinsword-plus": {
       "Key": "weapon-great-sword-rathalos-glinsword-plus",
@@ -22601,7 +22601,7 @@ export default {
     },
     "weapon-great-sword-ogres-jaw-iii": {
       "Key": "weapon-great-sword-ogres-jaw-iii",
-      "Translation": "食人魔的下巴III"
+      "Translation": "食人魔的顎III"
     },
     "weapon-great-sword-icewing": {
       "Key": "weapon-great-sword-icewing",
@@ -22793,7 +22793,7 @@ export default {
     },
     "weapon-lance-nyx-halberd-i": {
       "Key": "weapon-lance-nyx-halberd-i",
-      "Translation": "NYX戟我"
+      "Translation": "Nyx戟我"
     },
     "weapon-lance-nyx-halberd-ii": {
       "Key": "weapon-lance-nyx-halberd-ii",
@@ -23657,7 +23657,7 @@ export default {
     },
     "weapon-hunting-horn-defender-rally-horn-iv": {
       "Key": "weapon-hunting-horn-defender-rally-horn-iv",
-      "Translation": "後衛拉力喇叭IV"
+      "Translation": "後衛拉力賽號角IV"
     },
     "weapon-hunting-horn-defender-rally-horn-v": {
       "Key": "weapon-hunting-horn-defender-rally-horn-v",
@@ -23958,5 +23958,369 @@ export default {
     "weapon-long-sword-great-demon-halberd": {
       "Key": "weapon-long-sword-great-demon-halberd",
       "Translation": "大惡魔戟"
+    },
+    "weapon-bow-acidic-arrow-ii": {
+      "Key": "weapon-bow-acidic-arrow-ii",
+      "Translation": "酸性箭II"
+    },
+    "weapon-bow-deathbow-vaal-velos": {
+      "Key": "weapon-bow-deathbow-vaal-velos",
+      "Translation": "Deathbow瓦爾Velos的"
+    },
+    "weapon-bow-hydra-planula": {
+      "Key": "weapon-bow-hydra-planula",
+      "Translation": "水潤浮浪幼蟲"
+    },
+    "weapon-bow-black-planula": {
+      "Key": "weapon-bow-black-planula",
+      "Translation": "黑浮浪幼蟲"
+    },
+    "weapon-bow-cera-coilbender-plus": {
+      "Key": "weapon-bow-cera-coilbender-plus",
+      "Translation": "劍橋能源研究協會Coilbender +"
+    },
+    "weapon-bow-cera-cyclord": {
+      "Key": "weapon-bow-cera-cyclord",
+      "Translation": "劍橋能源研究協會Cyclord"
+    },
+    "weapon-bow-datura-squall-i": {
+      "Key": "weapon-bow-datura-squall-i",
+      "Translation": "曼陀羅我颮"
+    },
+    "weapon-bow-datura-squall-ii": {
+      "Key": "weapon-bow-datura-squall-ii",
+      "Translation": "曼陀羅颮II"
+    },
+    "weapon-bow-nightmare-string-i": {
+      "Key": "weapon-bow-nightmare-string-i",
+      "Translation": "噩夢字符串我"
+    },
+    "weapon-bow-nightmare-string-ii": {
+      "Key": "weapon-bow-nightmare-string-ii",
+      "Translation": "噩夢字符串II"
+    },
+    "weapon-bow-anjanath-flamebow-i": {
+      "Key": "weapon-bow-anjanath-flamebow-i",
+      "Translation": "Anjanath Flamebow我"
+    },
+    "weapon-bow-anjanath-flamebow-ii": {
+      "Key": "weapon-bow-anjanath-flamebow-ii",
+      "Translation": "Anjanath Flamebow II"
+    },
+    "weapon-bow-fulguring-bow-i": {
+      "Key": "weapon-bow-fulguring-bow-i",
+      "Translation": "Fulguring弓I"
+    },
+    "weapon-bow-fulguring-bow-ii": {
+      "Key": "weapon-bow-fulguring-bow-ii",
+      "Translation": "Fulguring弓II"
+    },
+    "weapon-bow-flying-kadachi-strikebow-plus": {
+      "Key": "weapon-bow-flying-kadachi-strikebow-plus",
+      "Translation": "飛Kadachi Strikebow +"
+    },
+    "weapon-bow-thundering-strikebow": {
+      "Key": "weapon-bow-thundering-strikebow",
+      "Translation": "雷鳴Strikebow"
+    },
+    "weapon-bow-fellbow-crimson-hail": {
+      "Key": "weapon-bow-fellbow-crimson-hail",
+      "Translation": "Fellbow深紅冰雹"
+    },
+    "weapon-bow-fellbow-crimson-hail-plus": {
+      "Key": "weapon-bow-fellbow-crimson-hail-plus",
+      "Translation": "Fellbow深紅冰雹+"
+    },
+    "weapon-bow-fellbow-crimson-storm": {
+      "Key": "weapon-bow-fellbow-crimson-storm",
+      "Translation": "Fellbow深紅風暴"
+    },
+    "weapon-bow-dragonseal-aldbow-i": {
+      "Key": "weapon-bow-dragonseal-aldbow-i",
+      "Translation": "Dragonseal Aldbow我"
+    },
+    "weapon-bow-dragonseal-aldbow-ii": {
+      "Key": "weapon-bow-dragonseal-aldbow-ii",
+      "Translation": "Dragonseal Aldbow II"
+    },
+    "weapon-bow-dawning-insight": {
+      "Key": "weapon-bow-dawning-insight",
+      "Translation": "曙光洞察"
+    },
+    "weapon-bow-daoras-toxotes": {
+      "Key": "weapon-bow-daoras-toxotes",
+      "Translation": "Daora的Toxotes"
+    },
+    "weapon-bow-fates-thread": {
+      "Key": "weapon-bow-fates-thread",
+      "Translation": "命運的主題"
+    },
+    "weapon-bow-beast-thunderbow": {
+      "Key": "weapon-bow-beast-thunderbow",
+      "Translation": "野獸Thunderbow"
+    },
+    "weapon-bow-beastking-thunderbow": {
+      "Key": "weapon-bow-beastking-thunderbow",
+      "Translation": "Beastking Thunderbow"
+    },
+    "weapon-hunting-horn-sforzando-i": {
+      "Key": "weapon-hunting-horn-sforzando-i",
+      "Translation": "突強我"
+    },
+    "weapon-hunting-horn-sforzando-ii": {
+      "Key": "weapon-hunting-horn-sforzando-ii",
+      "Translation": "突強III"
+    },
+    "weapon-hunting-horn-raven-shamisen": {
+      "Key": "weapon-hunting-horn-raven-shamisen",
+      "Translation": "烏鴉三味"
+    },
+    "weapon-hunting-horn-ruinous-desolation": {
+      "Key": "weapon-hunting-horn-ruinous-desolation",
+      "Translation": "毀滅性的蒼涼"
+    },
+    "weapon-hunting-horn-usurpers-growl": {
+      "Key": "weapon-hunting-horn-usurpers-growl",
+      "Translation": "篡位的低吼"
+    },
+    "weapon-hunting-horn-usurpers-growl-plus": {
+      "Key": "weapon-hunting-horn-usurpers-growl-plus",
+      "Translation": "篡位者的咆哮+"
+    },
+    "weapon-hunting-horn-despots-thunderclap": {
+      "Key": "weapon-hunting-horn-despots-thunderclap",
+      "Translation": "暴君的雷霆一擊"
+    },
+    "weapon-hunting-horn-taghrid-al-nasr-i": {
+      "Key": "weapon-hunting-horn-taghrid-al-nasr-i",
+      "Translation": "Taghrid人，我納斯爾"
+    },
+    "weapon-hunting-horn-taghrid-al-nasr-ii": {
+      "Key": "weapon-hunting-horn-taghrid-al-nasr-ii",
+      "Translation": "Taghrid AL-II納斯爾"
+    },
+    "weapon-hunting-horn-striped-dragonga": {
+      "Key": "weapon-hunting-horn-striped-dragonga",
+      "Translation": "條紋Dragonga"
+    },
+    "weapon-hunting-horn-striped-dragonga-plus": {
+      "Key": "weapon-hunting-horn-striped-dragonga-plus",
+      "Translation": "條紋Dragonga +"
+    },
+    "weapon-hunting-horn-tigrex-horn": {
+      "Key": "weapon-hunting-horn-tigrex-horn",
+      "Translation": "Tigrex號角"
+    },
+    "weapon-hunting-horn-accursed-wail": {
+      "Key": "weapon-hunting-horn-accursed-wail",
+      "Translation": "詛咒嚎"
+    },
+    "weapon-hunting-horn-royal-chordmaker-plus": {
+      "Key": "weapon-hunting-horn-royal-chordmaker-plus",
+      "Translation": "皇家Chordmaker +"
+    },
+    "weapon-hunting-horn-regal-flute": {
+      "Key": "weapon-hunting-horn-regal-flute",
+      "Translation": "富豪長笛"
+    },
+    "weapon-hunting-horn-gold-chordmaker": {
+      "Key": "weapon-hunting-horn-gold-chordmaker",
+      "Translation": "黃金Chordmaker"
+    },
+    "weapon-hunting-horn-water-tamtam-iv": {
+      "Key": "weapon-hunting-horn-water-tamtam-iv",
+      "Translation": "水TamTam監控系統IV"
+    },
+    "weapon-hunting-horn-laguna-drum-i": {
+      "Key": "weapon-hunting-horn-laguna-drum-i",
+      "Translation": "拉古納我鼓"
+    },
+    "weapon-hunting-horn-laguna-drum-ii": {
+      "Key": "weapon-hunting-horn-laguna-drum-ii",
+      "Translation": "拉古那II鼓"
+    },
+    "weapon-hunting-horn-hidden-harmonic": {
+      "Key": "weapon-hunting-horn-hidden-harmonic",
+      "Translation": "隱藏諧波"
+    },
+    "weapon-hunting-horn-hidden-harmonic-plus": {
+      "Key": "weapon-hunting-horn-hidden-harmonic-plus",
+      "Translation": "隱藏諧波+"
+    },
+    "weapon-hunting-horn-cry-in-the-night": {
+      "Key": "weapon-hunting-horn-cry-in-the-night",
+      "Translation": "在驚魂夜"
+    },
+    "weapon-hunting-horn-legia-sectored-plus": {
+      "Key": "weapon-hunting-horn-legia-sectored-plus",
+      "Translation": "萊吉亞扇形+"
+    },
+    "weapon-hunting-horn-hoarcry-sectored": {
+      "Key": "weapon-hunting-horn-hoarcry-sectored",
+      "Translation": "Hoarcry扇形"
+    },
+    "weapon-hunting-horn-lilim-glacia": {
+      "Key": "weapon-hunting-horn-lilim-glacia",
+      "Translation": "莉莉姆Glacia"
+    },
+    "weapon-hunting-horn-mad-bone-horn-i": {
+      "Key": "weapon-hunting-horn-mad-bone-horn-i",
+      "Translation": "瘋狂骨角我"
+    },
+    "weapon-hunting-horn-mad-bone-horn-ii": {
+      "Key": "weapon-hunting-horn-mad-bone-horn-ii",
+      "Translation": "瘋狂骨角II"
+    },
+    "weapon-hunting-horn-mad-bone-horn-iii": {
+      "Key": "weapon-hunting-horn-mad-bone-horn-iii",
+      "Translation": "瘋狂骨角III"
+    },
+    "weapon-hunting-horn-icespiel": {
+      "Key": "weapon-hunting-horn-icespiel",
+      "Translation": "Icespiel"
+    },
+    "weapon-hunting-horn-sonorous-eisfyl": {
+      "Key": "weapon-hunting-horn-sonorous-eisfyl",
+      "Translation": "鏗鏘Eisfyl"
+    },
+    "weapon-hunting-horn-gama-chorus-i": {
+      "Key": "weapon-hunting-horn-gama-chorus-i",
+      "Translation": "伽馬合唱我"
+    },
+    "weapon-hunting-horn-gama-chorus-ii": {
+      "Key": "weapon-hunting-horn-gama-chorus-ii",
+      "Translation": "伽馬合唱II"
+    },
+    "weapon-hunting-horn-hell-horn": {
+      "Key": "weapon-hunting-horn-hell-horn",
+      "Translation": "地獄號角"
+    },
+    "weapon-hunting-horn-hell-horn-plus": {
+      "Key": "weapon-hunting-horn-hell-horn-plus",
+      "Translation": "地獄喇叭+"
+    },
+    "weapon-hunting-horn-glavenus-horn": {
+      "Key": "weapon-hunting-horn-glavenus-horn",
+      "Translation": "Glavenus號角"
+    },
+    "weapon-hunting-horn-anjanath-hum-i": {
+      "Key": "weapon-hunting-horn-anjanath-hum-i",
+      "Translation": "Anjanath嗚嗚我"
+    },
+    "weapon-hunting-horn-anjanath-hum-ii": {
+      "Key": "weapon-hunting-horn-anjanath-hum-ii",
+      "Translation": "Anjanath坎II"
+    },
+    "weapon-hunting-horn-fulguring-horn-i": {
+      "Key": "weapon-hunting-horn-fulguring-horn-i",
+      "Translation": "Fulguring霍恩我"
+    },
+    "weapon-hunting-horn-fulguring-horn-ii": {
+      "Key": "weapon-hunting-horn-fulguring-horn-ii",
+      "Translation": "Fulguring喇叭II"
+    },
+    "weapon-hunting-horn-sulfurteinn-svild": {
+      "Key": "weapon-hunting-horn-sulfurteinn-svild",
+      "Translation": "Sulfurteinn Svild"
+    },
+    "weapon-hunting-horn-the-rasping-ballad": {
+      "Key": "weapon-hunting-horn-the-rasping-ballad",
+      "Translation": "銼磨民謠"
+    },
+    "weapon-hunting-horn-datura-maestro-i": {
+      "Key": "weapon-hunting-horn-datura-maestro-i",
+      "Translation": "曼陀羅我大師"
+    },
+    "weapon-hunting-horn-datura-maestro-ii": {
+      "Key": "weapon-hunting-horn-datura-maestro-ii",
+      "Translation": "曼陀羅大師II"
+    },
+    "weapon-hunting-horn-icicle-horn-i": {
+      "Key": "weapon-hunting-horn-icicle-horn-i",
+      "Translation": "冰柱霍恩我"
+    },
+    "weapon-hunting-horn-icicle-horn-ii": {
+      "Key": "weapon-hunting-horn-icicle-horn-ii",
+      "Translation": "冰柱喇叭II"
+    },
+    "weapon-hunting-horn-lumu-drone-i": {
+      "Key": "weapon-hunting-horn-lumu-drone-i",
+      "Translation": "陸慕無人機我"
+    },
+    "weapon-hunting-horn-lumu-drone-ii": {
+      "Key": "weapon-hunting-horn-lumu-drone-ii",
+      "Translation": "陸慕無人機II"
+    },
+    "weapon-hunting-horn-nyx-barone-i": {
+      "Key": "weapon-hunting-horn-nyx-barone-i",
+      "Translation": "NYX巴羅我"
+    },
+    "weapon-hunting-horn-nyx-barone-ii": {
+      "Key": "weapon-hunting-horn-nyx-barone-ii",
+      "Translation": "NYX巴羅II"
+    },
+    "weapon-hunting-horn-rooksearer-drum": {
+      "Key": "weapon-hunting-horn-rooksearer-drum",
+      "Translation": "Rooksearer鼓"
+    },
+    "weapon-hunting-horn-bazel-valdi-rooksearer": {
+      "Key": "weapon-hunting-horn-bazel-valdi-rooksearer",
+      "Translation": "巴澤爾VALDI Rooksearer"
+    },
+    "weapon-hunting-horn-queen-vespoid-horn-plus": {
+      "Key": "weapon-hunting-horn-queen-vespoid-horn-plus",
+      "Translation": "女王Vespoid喇叭+"
+    },
+    "weapon-hunting-horn-queens-flute-ii": {
+      "Key": "weapon-hunting-horn-queens-flute-ii",
+      "Translation": "女王之笛II"
+    },
+    "weapon-hunting-horn-baan-rattle-i": {
+      "Key": "weapon-hunting-horn-baan-rattle-i",
+      "Translation": "班拉特爾我"
+    },
+    "weapon-hunting-horn-brachydios-horn-i": {
+      "Key": "weapon-hunting-horn-brachydios-horn-i",
+      "Translation": "Brachydios霍恩我"
+    },
+    "weapon-hunting-horn-brachydios-horn-ii": {
+      "Key": "weapon-hunting-horn-brachydios-horn-ii",
+      "Translation": "Brachydios喇叭II"
+    },
+    "weapon-hunting-horn-dragonseal-aldhorn-i": {
+      "Key": "weapon-hunting-horn-dragonseal-aldhorn-i",
+      "Translation": "Dragonseal Aldhorn我"
+    },
+    "weapon-hunting-horn-dragonseal-aldhorn-ii": {
+      "Key": "weapon-hunting-horn-dragonseal-aldhorn-ii",
+      "Translation": "Dragonseal Aldhorn II"
+    },
+    "weapon-hunting-horn-thunderwail-feyhorn": {
+      "Key": "weapon-hunting-horn-thunderwail-feyhorn",
+      "Translation": "Thunderwail Feyhorn"
+    },
+    "weapon-hunting-horn-hydros-horn": {
+      "Key": "weapon-hunting-horn-hydros-horn",
+      "Translation": "HYDROS號角"
+    },
+    "weapon-hunting-horn-teostras-musica": {
+      "Key": "weapon-hunting-horn-teostras-musica",
+      "Translation": "Teostra的Musica的"
+    },
+    "weapon-hunting-horn-fates-dirge": {
+      "Key": "weapon-hunting-horn-fates-dirge",
+      "Translation": "命運的輓歌"
+    },
+    "weapon-hunting-horn-denden-daiko": {
+      "Key": "weapon-hunting-horn-denden-daiko",
+      "Translation": "登登大哥"
+    },
+    "weapon-hunting-horn-soulfire-chorus-blaze": {
+      "Key": "weapon-hunting-horn-soulfire-chorus-blaze",
+      "Translation": "靈魂之火合唱團“火焰”"
+    },
+    "weapon-hunting-horn-soulfire-chorus-ruin": {
+      "Key": "weapon-hunting-horn-soulfire-chorus-ruin",
+      "Translation": "靈魂之火合唱“三絕”"
     }
   }
