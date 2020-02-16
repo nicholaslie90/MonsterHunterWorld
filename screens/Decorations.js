@@ -9,7 +9,7 @@ import {
 } from "react-native";
 import globalStyles from '../styles'
 import { IndicatorViewPager, PagerTitleIndicator } from 'rn-viewpager';
-import { skills, decorationsJewel1, decorationsJewel2, decorationsJewel3 } from '../database'
+import { skills, decorationsJewel1, decorationsJewel2, decorationsJewel3, decorationsJewel4 } from '../database'
 import { makeAdMob, productIdRemoveAds, returnRarityColor } from "../utility";
 import I18n from '../i18n/i18n'
 import { SkillItem } from "./Skills";
@@ -287,6 +287,7 @@ export default class DecorationsScreen extends React.PureComponent {
         let sortedJewel1 = _.orderBy(decorationsJewel1, ['name'], ['asc']);
         let sortedJewel2 = _.orderBy(decorationsJewel2, ['name'], ['asc']);
         let sortedJewel3 = _.orderBy(decorationsJewel3, ['name'], ['asc']);
+        let sortedJewel4 = _.orderBy(decorationsJewel4, ['name'], ['asc']);
 
         return (
             <SafeAreaView style={[{ flex: 1 }, themeBackground]}>
@@ -315,6 +316,13 @@ export default class DecorationsScreen extends React.PureComponent {
                             keyExtractor={(item, index) => item.name}
                         />
                     </View>
+                    <View>
+                        <FlatList
+                            data={sortedJewel4}
+                            renderItem={({ item }) => <DecorationItem item={item} navigation={this.props.navigation} theme={this.props.navigation.state.params.theme} />}
+                            keyExtractor={(item, index) => item.name}
+                        />
+                    </View>
                 </IndicatorViewPager>
                 {this._renderAds()}
             </SafeAreaView>
@@ -337,11 +345,11 @@ export default class DecorationsScreen extends React.PureComponent {
                 style={globalStyles.tabIndicatorContainer}
                 trackScroll={true}
                 itemTextStyle={globalStyles.tabIndicatorText}
-                itemStyle={{ width: windowWidth / 3 }}
-                selectedItemStyle={{ width: windowWidth / 3 }}
+                itemStyle={{ width: windowWidth / 4 }}
+                selectedItemStyle={{ width: windowWidth / 4 }}
                 selectedItemTextStyle={globalStyles.tabIndicatorSelectedText}
                 selectedBorderStyle={globalStyles.tabSelectedBorderStyle}
-                titles={['Jewel 1', 'Jewel 2', 'Jewel 3']}
+                titles={['Jewel 1', 'Jewel 2', 'Jewel 3', 'Jewel 4']}
             />
         )
     }

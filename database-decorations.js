@@ -3,10 +3,9 @@ let decorationsJewel1 = [{
         'icon': require('./assets/decorations/orange-1.png'),
         'skill': 'Blast Resistance',
         'level': '1',
-        'mysteriousDropRate': '3.23',
-        'gleamingDropRate': '1.52',
-        'wornDropRate': '1.15',
-        'warpedDropRate': '1.07',
+        'mysteriousDropRate': '2.74',
+        'gleamingDropRate': '2.10',
+        'wornDropRate': '0.32',
         'rarity': '5',
     },
     {
@@ -14,10 +13,9 @@ let decorationsJewel1 = [{
         'icon': require('./assets/decorations/purple-1.png'),
         'skill': 'Poison Resistance',
         'level': '1',
-        'mysteriousDropRate': '5.38',
-        'gleamingDropRate': '2.53',
-        'wornDropRate': '1.92',
-        'warpedDropRate': '1.79',
+        'mysteriousDropRate': '4.57',
+        'gleamingDropRate': '3.49',
+        'wornDropRate': '0.54',
         'rarity': '5',
     },
     {
@@ -25,10 +23,9 @@ let decorationsJewel1 = [{
         'icon': require('./assets/decorations/yellow-1.png'),
         'skill': 'Paralysis Resistance',
         'level': '1',
-        'mysteriousDropRate': '5.38',
-        'gleamingDropRate': '2.53',
-        'wornDropRate': '1.92',
-        'warpedDropRate': '1.79',
+        'mysteriousDropRate': '4.57',
+        'gleamingDropRate': '3.49',
+        'wornDropRate': '0.54',
         'rarity': '5',
     },
     {
@@ -47,10 +44,11 @@ let decorationsJewel1 = [{
         'icon': require('./assets/decorations/red-1.png'),
         'skill': 'Attack Boost',
         'level': '1',
-        'mysteriousDropRate': '0.00',
-        'gleamingDropRate': '0.00',
-        'wornDropRate': '0.38',
-        'warpedDropRate': '0.36',
+        'gleamingDropRate': '0.02',
+        'wornDropRate': '0.10',
+        'warpedDropRate': '0.30',
+        'carvedDropRate': '0.60',
+        'sealedDropRate': '0.39',
         'rarity': '7',
     },
     {
@@ -124,10 +122,9 @@ let decorationsJewel1 = [{
         'icon': require('./assets/decorations/gold-1.png'),
         'skill': 'Iron Skin',
         'level': '1',
-        'mysteriousDropRate': '5.38',
-        'gleamingDropRate': '2.53',
-        'wornDropRate': '1.92',
-        'warpedDropRate': '1.79',
+        'mysteriousDropRate': '4.57',
+        'gleamingDropRate': '3.49',
+        'wornDropRate': '0.54',
         'rarity': '5',
     },
     {
@@ -135,10 +132,11 @@ let decorationsJewel1 = [{
         'icon': require('./assets/decorations/gold-1.png'),
         'skill': 'Defense Boost',
         'level': '1',
-        'mysteriousDropRate': '0.00',
-        'gleamingDropRate': '1.52',
-        'wornDropRate': '1.15',
-        'warpedDropRate': '1.07',
+        'mysteriousDropRate': '0.43',
+        'gleamingDropRate': '0.97',
+        'wornDropRate': '2.34',
+        'warpedDropRate': '2.20',
+        'ancientDropRate': '1.51',
         'rarity': '6',
     },
     {
@@ -201,10 +199,9 @@ let decorationsJewel1 = [{
         'icon': require('./assets/decorations/red-1.png'),
         'skill': 'Fire Resistance',
         'level': '1',
-        'mysteriousDropRate': '3.23',
-        'gleamingDropRate': '1.52',
-        'wornDropRate': '1.15',
-        'warpedDropRate': '1.07',
+        'mysteriousDropRate': '2.74',
+        'gleamingDropRate': '2.10',
+        'wornDropRate': '0.32',
         'rarity': '5',
     },
     {
@@ -410,10 +407,9 @@ let decorationsJewel1 = [{
         'icon': require('./assets/decorations/light-blue-1.png'),
         'skill': 'Sleep Resistance',
         'level': '1',
-        'mysteriousDropRate': '5.38',
-        'gleamingDropRate': '2.53',
-        'wornDropRate': '1.92',
-        'warpedDropRate': '1.79',
+        'mysteriousDropRate': '4.57',
+        'gleamingDropRate': '3.49',
+        'wornDropRate': '0.54',
         'rarity': '5',
     },
     {
@@ -432,10 +428,11 @@ let decorationsJewel1 = [{
         'icon': require('./assets/decorations/green-1.png'),
         'skill': 'Recovery Speed',
         'level': '1',
-        'mysteriousDropRate': '0.00',
-        'gleamingDropRate': '0.51',
-        'wornDropRate': '0.38',
-        'warpedDropRate': '0.36',
+        'mysteriousDropRate': '0.14',
+        'gleamingDropRate': '0.32',
+        'wornDropRate': '0.78',
+        'warpedDropRate': '0.73',
+        'ancientDropRate': '0.50',
         'rarity': '6',
     },
     {
@@ -531,10 +528,13 @@ let decorationsJewel1 = [{
         'icon': require('./assets/decorations/gold-1.png'),
         'skill': 'Stun Resistance',
         'level': '1',
-        'mysteriousDropRate': '0.00',
-        'gleamingDropRate': '2.53',
-        'wornDropRate': '1.92',
-        'warpedDropRate': '1.79',
+        'mysteriousDropRate': '0.71',
+        'gleamingDropRate': '1.62',
+        'wornDropRate': '3.90',
+        'warpedDropRate': '3.67',
+        'ancientDropRate': '2.52',
+        'carvedDropRate': '0.60',
+        'sealedDropRate': '0.39',
         'rarity': '6',
     },
     {
@@ -564,10 +564,9 @@ let decorationsJewel1 = [{
         'icon': require('./assets/decorations/gold-1.png'),
         'skill': 'Bleeding Resistance',
         'level': '1',
-        'mysteriousDropRate': '3.23',
-        'gleamingDropRate': '1.52',
-        'wornDropRate': '1.15',
-        'warpedDropRate': '1.07',
+        'mysteriousDropRate': '2.74',
+        'gleamingDropRate': '2.10',
+        'wornDropRate': '0.32',
         'rarity': '5',
     },
     {
@@ -619,10 +618,11 @@ let decorationsJewel1 = [{
         'icon': require('./assets/decorations/green-1.png'),
         'skill': 'Health Boost',
         'level': '1',
-        'mysteriousDropRate': '0.00',
-        'gleamingDropRate': '2.53',
-        'wornDropRate': '1.92',
-        'warpedDropRate': '1.79',
+        'mysteriousDropRate': '0.71',
+        'gleamingDropRate': '1.62',
+        'wornDropRate': '3.90',
+        'warpedDropRate': '3.67',
+        'ancientDropRate': '2.52',
         'rarity': '6',
     },
     {
@@ -630,10 +630,9 @@ let decorationsJewel1 = [{
         'icon': require('./assets/decorations/blue-1.png'),
         'skill': 'Water Resistance',
         'level': '1',
-        'mysteriousDropRate': '3.23',
-        'gleamingDropRate': '1.52',
-        'wornDropRate': '1.15',
-        'warpedDropRate': '1.07',
+        'mysteriousDropRate': '2.74',
+        'gleamingDropRate': '2.10',
+        'wornDropRate': '0.32',
         'rarity': '5',
     },
 ]
@@ -666,7 +665,7 @@ let decorationsJewel2 = [{
         'skill': 'Heat Guard',
         'level': '1',
         'rarity': '6',
-    }, 
+    },
     {
         'name': 'Critical Jewel 2',
         'icon': require('./assets/decorations/purple-2.png'),
@@ -760,10 +759,13 @@ let decorationsJewel2 = [{
         'icon': require('./assets/decorations/grey-2.png'),
         'skill': 'Tremor Resistance',
         'level': '1',
-        'mysteriousDropRate': '0.00',
-        'gleamingDropRate': '2.53',
-        'wornDropRate': '1.92',
-        'warpedDropRate': '1.79',
+        'mysteriousDropRate': '0.71',
+        'gleamingDropRate': '1.62',
+        'wornDropRate': '3.90',
+        'warpedDropRate': '3.67',
+        'ancientDropRate': '2.52',
+        'carvedDropRate': '0.60',
+        'sealedDropRate': '0.39',
         'rarity': '6',
     },
     {
@@ -783,7 +785,7 @@ let decorationsJewel2 = [{
         'skill': 'Heat Guard',
         'level': '1',
         'rarity': '6',
-    }, 
+    },
     {
         'name': 'Jumping Jewel 2',
         'icon': require('./assets/decorations/light-blue-2.png'),
@@ -955,16 +957,19 @@ let decorationsJewel2 = [{
         'skill': 'Coldproof',
         'level': '1',
         'rarity': '6',
-    }, 
+    },
     {
         'name': 'Wind Resist Jewel 2',
         'icon': require('./assets/decorations/white-2.png'),
         'skill': 'Windproof',
         'level': '1',
-        'mysteriousDropRate': '0.00',
-        'gleamingDropRate': '1.52',
-        'wornDropRate': '1.15',
-        'warpedDropRate': '1.07',
+        'mysteriousDropRate': '0.43',
+        'gleamingDropRate': '0.97',
+        'wornDropRate': '2.34',
+        'warpedDropRate': '2.20',
+        'ancientDropRate': '1.51',
+        'carvedDropRate': '0.60',
+        'sealedDropRate': '0.39',
         'rarity': '6',
     },
 ];
@@ -1007,10 +1012,13 @@ let decorationsJewel3 = [{
         'icon': require('./assets/decorations/white-3.png'),
         'skill': 'Earplugs',
         'level': '1',
-        'mysteriousDropRate': '0.00',
-        'gleamingDropRate': '1.52',
-        'wornDropRate': '1.15',
-        'warpedDropRate': '1.07',
+        'mysteriousDropRate': '0.43',
+        'gleamingDropRate': '0.97',
+        'wornDropRate': '2.34',
+        'warpedDropRate': '2.20',
+        'ancientDropRate': '1.51',
+        'carvedDropRate': '0.60',
+        'sealedDropRate': '0.39',
         'rarity': '6',
     },
     {
@@ -1052,7 +1060,7 @@ let decorationsJewel3 = [{
         'skill': 'Coalescence',
         'level': '1',
         'rarity': '7',
-    }, 
+    },
     {
         'name': 'Pierce Jewel 3',
         'icon': require('./assets/decorations/blue-3.png'),
@@ -1146,7 +1154,7 @@ let decorationsJewel4 = [{
     'skill': 'Blast Attack',
     'level': '2',
     'rarity': '6',
-},  {
+}, {
     'name': 'Blaze Jewel +4',
     'icon': require('./assets/decorations/red-4.png'),
     'skill': 'Fire Attack',
@@ -1158,7 +1166,7 @@ let decorationsJewel4 = [{
     'skill': 'Thunder Attack',
     'level': '2',
     'rarity': '6',
-},  {
+}, {
     'name': 'Bomber/Attack Jewel 4',
     'icon': require('./assets/decorations/orange-4.png'),
     'skill': 'Bombardier~Attack Boost',
@@ -1188,7 +1196,7 @@ let decorationsJewel4 = [{
     'skill': 'Bombardier~Constitution',
     'level': '1',
     'rarity': '6',
-},{
+}, {
     'name': 'Bomber/Release Jewel 4',
     'icon': require('./assets/decorations/orange-4.png'),
     'skill': 'Bombardier~Free Element/Ammo Up',
@@ -1272,7 +1280,7 @@ let decorationsJewel4 = [{
     'skill': 'Agitator~Divine Blessing',
     'level': '1',
     'rarity': '6',
-},  {
+}, {
     'name': 'Challenger/Vitality Jewel 4',
     'icon': require('./assets/decorations/red-4.png'),
     'skill': 'Agitator~Health Boost',
@@ -1338,7 +1346,7 @@ let decorationsJewel4 = [{
     'skill': 'Resuscitate~Handicraft',
     'level': '1',
     'rarity': '6',
-},  {
+}, {
     'name': 'Crisis/Physique Jewel 4',
     'icon': require('./assets/decorations/light-blue-4.png'),
     'skill': 'Resuscitate~Constitution',
@@ -1638,7 +1646,7 @@ let decorationsJewel4 = [{
     'skill': 'Peak Performance~Constitution',
     'level': '1',
     'rarity': '6',
-},  {
+}, {
     'name': 'Flawless/Protection Jewel 4',
     'icon': require('./assets/decorations/red-4.png'),
     'skill': 'Peak Performance~Divine Blessing',
@@ -1686,13 +1694,13 @@ let decorationsJewel4 = [{
     'skill': 'Airborne~Free Element/Ammo Up',
     'level': '1',
     'rarity': '6',
-},{
+}, {
     'name': 'Footing/Evasion Jewel 4',
     'icon': require('./assets/decorations/grey-4.png'),
     'skill': 'Tremor Resistance~Evade Window',
     'level': '1',
     'rarity': '6',
-},  {
+}, {
     'name': 'Footing/Maintenance Jewel 4',
     'icon': require('./assets/decorations/grey-4.png'),
     'skill': 'Tremor Resistance~Tool Specialist',
@@ -1824,7 +1832,7 @@ let decorationsJewel4 = [{
     'skill': 'Mushroomancer~Handicraft',
     'level': '1',
     'rarity': '6',
-},  {
+}, {
     'name': 'Fungiform/Physique Jewel 4',
     'icon': require('./assets/decorations/purple-4.png'),
     'skill': 'Mushroomancer~Constitution',
@@ -1902,13 +1910,13 @@ let decorationsJewel4 = [{
     'skill': 'Speed Eating~Critical Eye',
     'level': '1',
     'rarity': '6',
-},{
+}, {
     'name': 'Gobbler/Handicraft Jewel 4',
     'icon': require('./assets/decorations/gold-4.png'),
     'skill': 'Speed Eating~Handicraft',
     'level': '1',
     'rarity': '6',
-},  {
+}, {
     'name': 'Gobbler/Physique Jewel 4',
     'icon': require('./assets/decorations/gold-4.png'),
     'skill': 'Speed Eating~Constitution',
@@ -1932,7 +1940,7 @@ let decorationsJewel4 = [{
     'skill': 'Speed Sharpening~Critical Eye',
     'level': '1',
     'rarity': '6',
-},  {
+}, {
     'name': 'Grinder/Evasion Jewel 4',
     'icon': require('./assets/decorations/yellow-4.png'),
     'skill': 'Speed Sharpening~Evade Window',
@@ -2046,7 +2054,7 @@ let decorationsJewel4 = [{
     'skill': 'Defense Boost',
     'level': '3',
     'rarity': '6',
-},  {
+}, {
     'name': 'Hard Dragon Res Jewel 4',
     'icon': require('./assets/decorations/crimson-4.png'),
     'skill': 'Dragon Resistance',
@@ -2058,7 +2066,7 @@ let decorationsJewel4 = [{
     'skill': 'Item Prolonger',
     'level': '3',
     'rarity': '6',
-},  {
+}, {
     'name': 'Hard Fire Res Jewel 4',
     'icon': require('./assets/decorations/red-4.png'),
     'skill': 'Fire Resistance',
@@ -2070,7 +2078,7 @@ let decorationsJewel4 = [{
     'skill': 'Geologist',
     'level': '3',
     'rarity': '6',
-},  {
+}, {
     'name': 'Hard Ice Res Jewel 4',
     'icon': require('./assets/decorations/white-4.png'),
     'skill': 'Ice Resistance',
@@ -2094,13 +2102,13 @@ let decorationsJewel4 = [{
     'skill': 'Entomologist',
     'level': '3',
     'rarity': '6',
-},  {
+}, {
     'name': 'Hard Survival Jewel 4',
     'icon': require('./assets/decorations/white-4.png'),
     'skill': 'Survival Expert',
     'level': '3',
     'rarity': '6',
-},  {
+}, {
     'name': 'Hard Thunder Res Jewel 4',
     'icon': require('./assets/decorations/yellow-4.png'),
     'skill': 'Thunder Resistance',
@@ -2310,7 +2318,7 @@ let decorationsJewel4 = [{
     'skill': 'Paralysis Attack',
     'level': '2',
     'rarity': '6',
-},  {
+}, {
     'name': 'Pep Jewel+ 4',
     'icon': require('./assets/decorations/light-blue-4.png'),
     'skill': 'Sleep Resistance',
@@ -2370,7 +2378,7 @@ let decorationsJewel4 = [{
     'skill': 'Heroics~Evade Window',
     'level': '1',
     'rarity': '6',
-},  {
+}, {
     'name': 'Potential/Maintenance Jewel 4',
     'icon': require('./assets/decorations/red-4.png'),
     'skill': 'Heroics~Tool Specialist',
@@ -2388,7 +2396,7 @@ let decorationsJewel4 = [{
     'skill': 'Heroics~Constitution',
     'level': '1',
     'rarity': '6',
-},  {
+}, {
     'name': 'Potential/Protection Jewel 4',
     'icon': require('./assets/decorations/red-4.png'),
     'skill': 'Heroics~Divine Blessing',
@@ -2556,7 +2564,7 @@ let decorationsJewel4 = [{
     'skill': 'Quick Sheath~Attack Boost',
     'level': '1',
     'rarity': '6',
-},  {
+}, {
     'name': 'Sheath/Evasion Jewel 4',
     'icon': require('./assets/decorations/grey-4.png'),
     'skill': 'Quick Sheath~Evade Window',
@@ -2568,7 +2576,7 @@ let decorationsJewel4 = [{
     'skill': 'Quick Sheath~Critical Eye',
     'level': '1',
     'rarity': '6',
-},  {
+}, {
     'name': 'Sheath/Handicraft Jewel 4',
     'icon': require('./assets/decorations/grey-4.png'),
     'skill': 'Quick Sheath~Handicraft',
@@ -2592,7 +2600,7 @@ let decorationsJewel4 = [{
     'skill': 'Sleep Attack',
     'level': '2',
     'rarity': '6',
-},  {
+}, {
     'name': 'Slider/Attack Jewel 4',
     'icon': require('./assets/decorations/red-4.png'),
     'skill': 'Affinity Sliding~Attack Boost',
@@ -2688,7 +2696,7 @@ let decorationsJewel4 = [{
     'skill': 'Stealth~Evade Window',
     'level': '1',
     'rarity': '6',
-},  {
+}, {
     'name': 'Stonethrower/Attack Jewel 4',
     'icon': require('./assets/decorations/green-4.png'),
     'skill': 'Slinger Capacity~Attack Boost',
@@ -2778,7 +2786,7 @@ let decorationsJewel4 = [{
     'skill': 'Weakness Exploit~Health Boost',
     'level': '1',
     'rarity': '6',
-},  {
+}, {
     'name': 'Throttle Jewel+ 4',
     'icon': require('./assets/decorations/red-4.png'),
     'skill': 'Latent Power',
@@ -2838,13 +2846,13 @@ let decorationsJewel4 = [{
     'skill': 'Special Ammo Boost',
     'level': '2',
     'rarity': '6',
-},  {
+}, {
     'name': 'Venom Jewel +4',
     'icon': require('./assets/decorations/purple-4.png'),
     'skill': 'Poison Attack',
     'level': '2',
     'rarity': '6',
-},  {
+}, {
     'name': 'Water Res Jewel+ 4',
     'icon': require('./assets/decorations/blue-4.png'),
     'skill': 'Water Resistance',
@@ -2892,8 +2900,7 @@ let decorationsJewel4 = [{
     'skill': 'Windproof~Health Boost',
     'level': '1',
     'rarity': '6',
-}, 
-];
+}, ];
 
 export {
     decorationsJewel1,
