@@ -1458,7 +1458,7 @@ let decorationsJewel4 = [{
     'name': 'Charger/Vitality Jewel 4',
     'icon': require('./assets/decorations/yellow-4.png'),
     'skill': 'Focus~Health Boost',
-    'level': '1',j
+    'level': '1',
     'ancientDropRate': '0.11',
     'carvedDropRate': '0.30',
     'sealedDropRate': '0.44',

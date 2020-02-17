@@ -867,7 +867,7 @@ export default class SearchScreen extends React.PureComponent {
     }
 
     _searchDecorations(text) {
-        let decorations = _.filter(_.concat(database.decorationsJewel1, database.decorationsJewel2, database.decorationsJewel3), function (decoration) {
+        let decorations = _.filter(_.concat(database.decorationsJewel1, database.decorationsJewel2, database.decorationsJewel3, database.decorationsJewel4), function (decoration) {
             if (text !== undefined) {
                 if (decoration.name.toLowerCase().match(text.toLowerCase())) {
                     return decoration;

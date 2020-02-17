@@ -157,6 +157,69 @@ export class DecorationItem extends React.PureComponent {
             </View>
         }
 
+        let ancientDropRate = null;
+        if (this.props.item.ancientDropRate !== undefined) {
+            ancientDropRate = <View style={{
+                flex: 1,
+                flexDirection: 'row',
+                alignItems: 'center',
+                justifyContent: 'center'
+            }}>
+                <Image source={require('./../assets/decorations/ancient-feystone.png')} style={{
+                    width: 20,
+                    height: 20,
+                    margin: 4,
+                    alignItems: 'center'
+                }} />
+                <View style={{ flex: 1, flexDirection: 'column' }}>
+                    <Text
+                        style={[globalStyles.subtitle, themeText]}>{I18n.t('ui-ancient').Translation}: {this.props.item.ancientDropRate}%</Text>
+                </View>
+            </View>
+        }
+
+        let carvedDropRate = null;
+        if (this.props.item.carvedDropRate !== undefined) {
+            carvedDropRate = <View style={{
+                flex: 1,
+                flexDirection: 'row',
+                alignItems: 'center',
+                justifyContent: 'center'
+            }}>
+                <Image source={require('./../assets/decorations/carved-feystone.png')} style={{
+                    width: 20,
+                    height: 20,
+                    margin: 4,
+                    alignItems: 'center'
+                }} />
+                <View style={{ flex: 1, flexDirection: 'column' }}>
+                    <Text
+                        style={[globalStyles.subtitle, themeText]}>{I18n.t('ui-carved').Translation}: {this.props.item.carvedDropRate}%</Text>
+                </View>
+            </View>
+        }
+
+        let sealedDropRate = null;
+        if (this.props.item.sealedDropRate !== undefined) {
+            sealedDropRate = <View style={{
+                flex: 1,
+                flexDirection: 'row',
+                alignItems: 'center',
+                justifyContent: 'center'
+            }}>
+                <Image source={require('./../assets/decorations/sealed-feystone.png')} style={{
+                    width: 20,
+                    height: 20,
+                    margin: 4,
+                    alignItems: 'center'
+                }} />
+                <View style={{ flex: 1, flexDirection: 'column' }}>
+                    <Text
+                        style={[globalStyles.subtitle, themeText]}>{I18n.t('ui-sealed').Translation}: {this.props.item.sealedDropRate}%</Text>
+                </View>
+            </View>
+        }
+
         return <View style={{ flex: 1, flexDirection: 'row', opacity: this.state.craftedOpacity }}>
             <Image source={this.props.item.icon} style={{
                 width: 25,
@@ -189,6 +252,9 @@ tintColor='grey'
                 {gleamingDropRate}
                 {wornDropRate}
                 {warpedDropRate}
+                {ancientDropRate}
+                {carvedDropRate}
+                {sealedDropRate}
                 {skill}
             </View>
         </View>;
