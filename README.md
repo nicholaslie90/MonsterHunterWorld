@@ -1,9 +1,6 @@
 # MHW Guide Wiki Companion App
 100% built with React Native
 
-If you guys are interested in maintaining the project, feel free to drop me an email at nicholaslie90@gmail.com.
-It's highly recommended that you are familiar with RN development.
-
 I have to admit that this code is not the best implementation, since I didn't use any state management libraries. 
 
 ## Installation & Debugging
